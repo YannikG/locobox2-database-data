@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300088",
+  "manufacturer": "Roco",
+  "articleNumber": "7300088",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 244.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "4Ausführung mit gelbem Fensterrahmen und Warnstreifen",
+    "type": "Diesellokomotive",
+    "number": "753 211-2",
+    "livery": "4Ausführung mit gelbem Fensterrahmen und Warnstreifen",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Diesellokomotive 753 211-2 Ausführung mit gelbem Fensterrahmen und Warnstreifen Mit beiliegenden Schildersatz Im Digitalbetrieb mit Lichtfunktionen nach CD-Vorbild Die sogenannte Taucherbrille oder Brillenschlange wurde bei CKD in Prag entwickelt und gebaut. Die ersten Prototypen der Diesellokomotive Reihe T 478.3 entstanden 1968. Die wesentlichste Änderung gegenüber dem Vorgängertyp T 478.1 war der Ersatz des Verbrennungsmotors, der eine Leistung von 1.360 kW (T 478.1 - 1.104 kW) hatte. Dem markanten Erscheinungsbild mit den blendfreien Führerständen verdanken die Lokomotiven ihren Spitznamen. Insgesamt wurden 408 Stück der dieselelektrischen Universallokomotive gebaut.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300088-diesellokomotive-753-211-2-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265217.jpg"
+  },
+  "updatedAt": "2026-05-04T13:48:14Z"
+}

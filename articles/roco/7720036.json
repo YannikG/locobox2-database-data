@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7720036",
+  "manufacturer": "Roco",
+  "articleNumber": "7720036",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 849.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "5-tlg. Set: Elektrischer Triebzug ICN RABDe 500 039-8",
+    "number": null,
+    "livery": "SBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: 5-tlg. Set: Elektrischer Triebzug ICN RABDe 500 039-8, SBB. Seit langer Zeit wieder im ROCO-Sortiment. Modell technisch komplett überarbeitet. Erstmals als Epoche VI-Modell im aktuellen Betriebszustand. Ausführung ohne INTEGRA-Magneten an den Drehgestellen. In den Digitalausführungen mit schaltbarer Innenbeleuchtung, Führerstands-. beleuchtung und beleuchteten Tischlampen im Restaurant-Wagen. Mit Taufnamen \"Auguste & Jacques Piccard\". formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7720036-5-tlg-set-elektrischer-triebzug-icn-rabde-500-039-8-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267744.jpg"
+  },
+  "updatedAt": "2026-05-04T14:38:56Z"
+}

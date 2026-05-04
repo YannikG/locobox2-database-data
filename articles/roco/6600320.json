@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600320",
+  "manufacturer": "Roco",
+  "articleNumber": "6600320",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 89.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "WLE",
+    "type": "Diesellokomotive",
+    "number": "22 ,,Warsteiner“",
+    "livery": "WLE",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Container-Doppeltragwagen, Gattung Sggmrs, der der Ahaus Alstätter Eisenbahn (AAE). Beladen mit zwei 45-Fuss-Containern „Warsteiner“",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/guterwagen/6600320-container-doppeltragwagen.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266508.jpg"
+  },
+  "updatedAt": "2026-05-04T09:49:19Z"
+}

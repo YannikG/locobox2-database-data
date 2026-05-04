@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200197",
+  "manufacturer": "Roco",
+  "articleNumber": "6200197",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 159.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "Dampflokomotive",
+    "number": "Gattung Pt 2/3",
+    "livery": "Dampflokomotive Gattung Pt 2/3",
+    "scale": "h0",
+    "electricSystem": null,
+    "era": "I",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit vier Lokalbahn-Wagen der Königlich Bayerischen Staats-Eisenbahnen. Bestehend aus zwei Plattformwagen, Gattung CL, einem Plattformwagen mit Postabteil, Gattung BPostL und einem Gepäckwagen, Gattung PL. Mit filigranen Zierlinien .  Alle Wagen mit authentischen Speichenrädern ausgestattet .  Gepäckraumtür beweglich ausgeführt",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200197-4-tlg-set-lokalbahnzug-kbaystsb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264566.jpg"
+  },
+  "updatedAt": "2026-05-04T09:42:31Z"
+}

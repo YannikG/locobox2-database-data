@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70077",
+  "manufacturer": "Roco",
+  "articleNumber": "70077",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "ÖBB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "h0",
+    "electricSystem": "DC Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 153,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 77.14 der Österreichischen Bundesbahnen. Ausführung mit Giesl-Ejektor .  Ohne Ventil am Dampfdom .  Variante mit drittem Spitzenlicht .  Feinste Räder mit niedrigen Spurkränzen .  Metallpuffer .  Treib- und Kuppelstangen aus Feingussmetall Die bei den Österreichischen Bundesbahnen als Reihe 77 bezeichnete Personenzug-Tenderlokomotive wurde ab 1913 (SB/kkStB Rh 629) in mehreren Serien bis 1927 beschafft. Die Dampflokomotive der Pacific-Bauart 2’C1‘ h2t war für eine Höchstgeschwindigkeit von 85 km/h zugelassen. Mit vollen Wasserkästen und Kohlebunker konnte eine Reichweite von bis zu 200 km erlangt werden. Praktisch jede Zugförderung in Österreich war irgendwann einmal mit Lokomotiven der Reihe 77 bestückt. Die spätere 77.14 wurde 1922 als 629.29 mit der Fabriknummer 4379 von der Maschinenfabrik der StEG an die BBÖ geliefert. Nach ereignisreichen fünfzig Jahren wurde sie im November 1972 ausgemustert.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70077-dampflokomotive-7714-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/250525.jpg"
+  },
+  "updatedAt": "2026-05-04T09:32:18Z"
+}

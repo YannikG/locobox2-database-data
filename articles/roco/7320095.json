@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7320095",
+  "manufacturer": "Roco",
+  "articleNumber": "7320095",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": null,
+    "number": null,
+    "livery": "SNCF",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026. Mit Wappen „La Baule“ Viele separat angesetzte Steckteile, teilweise als Ätzteil ausgeführt Einsatz vor Schnellzügen auf nicht elektrifizierten Hauptbahnen Im Digitalbetrieb mit schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung und schaltbaren Lüfterrädern",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320095-diesellokomotive-y-8208-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265268.jpg"
+  },
+  "updatedAt": "2026-05-04T13:57:00Z"
+}

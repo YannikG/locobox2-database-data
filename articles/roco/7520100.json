@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520100",
+  "manufacturer": "Roco",
+  "articleNumber": "7520100",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Alpha Trains Group und RheinCargo GmbH & Co. KG feiern ein Vierteljahr-",
+    "type": "Elektrolokomotive",
+    "number": "7193 101-1",
+    "livery": "Alpha Trains Group und RheinCargo GmbH & Co. KG feiern ein Vierteljahr-",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 7193 101-1, Alpha Trains Group und RheinCargo GmbH & Co. KG feiern ein Vierteljahr-. Alpha Trains Group und RheinCargo GmbH & Co. KG feiern ein Vierteljahr-. e hundert erfolgreicher Partnerschaft. Aus diesem Anlass wurde eine von. Ss insgesamt vier Vectron-Lokomotiven mit einer besonderen Beklebung zu. ALPHA TRAINS meres t oe rs ; = 7) dieser erfolgreichen Partnerschaft versehen. RHEINCARGO ees ee ee. 7 y 9 a | e : | ol » \\ a hi i : *{ i > Ausfiihrung des Schienenraumers und der Drehgestellblenden. 5 i LPH \\ * TAT entsprechend den XLoad-Maschinen. : = ¢ B : ; Rh e I n C; ro 3 . key TRAINS » Mehrfarbig gestaltetes Bedienpult und Fiihrerstandsriickwand. 2h ee a) at a ee es rr > Grenziiberschreitender Einsatz im Giiterverkehr. NOP at 0 B el ~ gi coy igi a1) a6 > Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. é =~ J ‘a A ae) und Fiihrerstandsbeleuchtung. Photomontage > In Kooperation mit Lecs—. und Führerstandsbeleuchtung.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520100-elektrolokomotive-193-958-6-lte.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258392.jpg"
+  },
+  "updatedAt": "2026-05-04T14:19:16Z"
+}

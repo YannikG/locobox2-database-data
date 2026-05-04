@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7110045",
+  "manufacturer": "Roco",
+  "articleNumber": "7110045",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 549.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Dampflokomotive",
+    "number": "38 2566-8",
+    "livery": "DR",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Dampflokomotive, 38 2566-8, DR. Ausführung mit Nietentender und Witte-Windleitblechen. Räder mit feinen Speichen. Zwei Schlussleuchten nur am Tender. DCC und AC Modell erstmals nur mit Sound ausgerüstet, ohne. dynamischen Dampf. Im Digitalbetrieb mit schaltbarer Führerstands- und Triebwerks-. Beheimatung Rbd Halle, Bw Leipzig-Süd.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110045-dampflokomotive-38-2566-8-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264988.jpg"
+  },
+  "updatedAt": "2026-05-04T13:43:43Z"
+}

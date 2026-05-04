@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310087",
+  "manufacturer": "Roco",
+  "articleNumber": "7310087",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "OBB",
+    "type": "Diesellokomotive",
+    "number": "2016 015-7",
+    "livery": "OBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 2016 015-7, OBB. Version der 4. Bauserie. Gerippte Führerhaus-Seitenwand und geripptes Dach. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Freier Führerhaus-Durchblick. Filigrane Sicherheitsgeländer. Radsätze mit niedrigen Spurkränzen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310087-diesellokomotive-2016-015-7-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264631.jpg"
+  },
+  "updatedAt": "2026-05-04T13:52:24Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100051",
+  "manufacturer": "Roco",
+  "articleNumber": "7100051",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 479.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "kkStB",
+    "type": "Dampflokomotive",
+    "number": "310.21 Edition",
+    "livery": "P|",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "I",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 310.21 „Gölsdorf-Edition“ der kaiserlich-königlichen österreichischen Staatsbahnen. Edition-Modell! Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle drei Treibachsen der Lok. Fein detailliertes Fahrwerk .  Filigrane Nachbildung der Steuerung .  Dampflok-Fahrwerk mit NEM-Finescale-Metallspeichenräder .  Tender-Radsätze mit grösserer Spurkranzhöhe .  Zu öffnende Rauchkammertüren .  Viele extra angesetzte Details Die kkStB Reihe 310 gilt als eine der elegantesten und technisch anspruchsvollsten Dampflokomotiven ihrer Zeit – ein Meisterwerk österreichischer Ingenieurskunst. Ihr markantes, stromlinienförmiges Erscheinungsbild und die aussergewöhnliche Laufruhe machten sie schon damals zur Königin der Schienen. Ein Modell dieser legendären Schnellzuglok darf in keiner Sammlung fehlen: Es vereint geschichtliche Bedeutung, technische Raffinesse und zeitlose Ästhetik in perfekter Miniaturform – ein echtes Highlight für Liebhaber klassischer Dampfloktechnik.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100051-dampflokomotive-31021-golsdorf-edition-kkstb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265703.jpg"
+  },
+  "updatedAt": "2026-05-04T09:57:45Z"
+}

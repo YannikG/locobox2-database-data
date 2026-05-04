@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520190",
+  "manufacturer": "Roco",
+  "articleNumber": "7520190",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Photo: R. Auerweck. Ausführung mit abgerundeten Maschinenraumfenster. Modernisierte Griffstangen bei den Einstiegstüren. Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem. Spitzen-/Schlusslicht. Die Elektrolokomotive 140 423 steht exemplarisch für die bewährte Ein-. heitslokomotiv-Baureihe 140 und zählt heute zum Bestand des DB Muse-. ums. 1966 von Henschel gebaut, präsentiert sie sich in klassischer Bun-. desbahn-Lackierung und erinnert an eine Zeit, in der Zuverlässigkeit und. technische Robustheit das Bild der deutschen Schienen prägten. Mit der. 140 423 lebt ein Stück Eisenbahngeschichte weiter, ein besonderes Einzel-. stück, das über viele Jahre beghertes Fotoobjekt war.",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520190-elektrolokomotive-140-423-5-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265340.jpg"
+  },
+  "updatedAt": "2026-05-04T14:24:22Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300089",
+  "manufacturer": "Roco",
+  "articleNumber": "7300089",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 244.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "4Variante mit Bauchbinde und blauem Dach",
+    "type": "Diesellokomotive",
+    "number": "754 047-9",
+    "livery": "4Variante mit Bauchbinde und blauem Dach",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 754 047-9, 4Variante mit Bauchbinde und blauem Dach. Variante mit Bauchbinde und blauem Dach. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Mit beiliegenden Schildersatz. Ausführung im aktuellen Betriebszustand, ein besonderes Fahrzeug. im CD-Fuhrpark.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300089-diesellokomotive-754-047-9-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265220.jpg"
+  },
+  "updatedAt": "2026-05-04T13:48:25Z"
+}

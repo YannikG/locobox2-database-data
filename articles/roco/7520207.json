@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520207",
+  "manufacturer": "Roco",
+  "articleNumber": "7520207",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "189 095-3 > Kupplung der Bauart AK69e beiliegend",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 189 095-3 > Kupplung der Bauart AK69e beiliegend, DB. Einsatz im grenzüberschreitenden Verkehr Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht Kupplung der Bauart AK69e beiliegend Spitzenlicht mit kaltweißen Leuchtdioden (LED) Neuer originalgetreuer Sound Elektrolokomotive 189 031-8 Elektrolokomotive 189 095-3",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520207-elektrolokomotive-189-031-8-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265954.jpg"
+  },
+  "updatedAt": "2026-05-04T14:25:41Z"
+}

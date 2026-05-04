@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200166",
+  "manufacturer": "Roco",
+  "articleNumber": "6200166",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 74.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Nahverkehrswagen 2. Klasse „Silberling“, Gattung Bnb 719, der Deutschen Bundesbahn. Aufwendige Bedruckung im typischen Pfauenaugen-Muster .  Mit ozeanblauem Längsträger .  Zuglauf Karlsruhe – Offenburg – Freiburg .  Art.-Nr. 6200165: Geänderte Betriebsnummer Die n-Wagen der Deutschen Bundesbahn waren jahrzehntelang als Silberlinge bekannt. Mit über 5.000 Stück wurde diese Wagenfamilie ab den sechziger Jahren zur dominierenden Bauart bei den Nahverkehrswagen der DB. Erst ab den neunziger Jahren wurden sie schrittweise durch Triebzüge und Doppelstockwagen abgelöst. Typische Kennzeichen der Ausführung der siebziger bis neunziger Jahre waren die ozeanblauen Langträger, die grossen Klassenziffern sowie die Piktogramme. Die Vorbilder waren in Freiburg im Breisgau zu Hause. Von dort wurden sie sowohl auf der Rheintalbahn zwischen Basel und Karlsruhe eingesetzt, aber auch auf der Höllentalbahn sowie dieselbespannt nach Breisach bzw. Elzach.",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/personenwagen/6200166-nahverkehrswagen-2-klasse-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260376.jpg"
+  },
+  "updatedAt": "2026-05-04T09:42:17Z"
+}

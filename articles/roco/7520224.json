@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520224",
+  "manufacturer": "Roco",
+  "articleNumber": "7520224",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026. Elektrolokomotive 101 091-7 Einmalige und streng limitierte Aufl age im aufwendigen \"Bayer\"-Werbedesign Erstes Modell der \"ROCO COLLECTOR´S EDITION\" Reihe Freistehende Griffstangen und Scheibenwischer, teilweise aus Metall Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520224-elektrolokomotive-101-091-7-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267800.jpg"
+  },
+  "updatedAt": "2026-05-04T14:36:07Z"
+}

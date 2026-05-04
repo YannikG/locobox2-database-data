@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500165",
+  "manufacturer": "Roco",
+  "articleNumber": "7500165",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 279.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "1616",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 1616, DB. Ausführung ohne Klimaanlage. Mit Taufnamen Oldenzaal. Stromabnehmer mit innovativer Befestigung. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht. und Führerstandsbeleuchtung. Ausführung mit Klimaanlage am Dach. Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik. In Kooperation mit. RAIL FORCE ONE. Das niederländische Eisenbahnverkehrsunternehmen Rail Force One er -. warb 2017 sechs Lokomotiven von Locon Nederland. Die Elektrolokomotive. 1750 wurde im Sommer 2025 in den aktuellen Firmenfarben gestaltet.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500165-elektrolokomotive-1750-rail-force-one.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264633.jpg"
+  },
+  "updatedAt": "2026-05-04T14:07:42Z"
+}

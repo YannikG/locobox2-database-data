@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500186",
+  "manufacturer": "Roco",
+  "articleNumber": "7500186",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "SS",
+    "type": "Elektrolokomotive",
+    "number": "193 568-3",
+    "livery": "SS",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 568-3, SS. 7 sly <a apni A). DD Ag i ( = et ) ES A ia uF, S “| “P > Aufwendige Bedruckung im Werkstattdesign. aU et ed fi ee a A du i > Mit neuer Ausfiihrung des Schienenraumers. cose LED | ps) oe : es a Scone Se = > Mit detaillierter Dachgestaltung. Z : \\ eg i or 4 \\ sg ey, \\ > Mehrfarbig gestaltetes Bedienpult und Fuhrerstandsruckwand. — — > Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt-. Photomontage barem Spitzen- oder Schlusslicht sowie Fiihrerstandsbeleuchtung. pees > Ideale Ergnzung zu den MAV-Eurofima-Wagen Art. Nr. 6200228. | cic \\ 4 yd ; Vitae re: as |. a ~~, Photo: M. Pawletta.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500186-elektrolokomotive-193-568-3-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265253.jpg"
+  },
+  "updatedAt": "2026-05-04T14:33:30Z"
+}

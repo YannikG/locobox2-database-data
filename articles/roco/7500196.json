@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500196",
+  "manufacturer": "Roco",
+  "articleNumber": "7500196",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "Elektrolokomotive",
+    "number": "370 094-2 \"Adriatic Express\"",
+    "livery": "Elektrolokomotive 370 094-2 \"Adriatic Express\"",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 370 094-2 \"Adriatic Express\". PKP ICC SQ Die PKP Vectron Maschinen mit ihren auffalligen Beklebungen, kommen. ; —<y P — // mittlerweile auch taglich mit Eurocity-ZUgen bis in die deutsche Hauptstadt. ee ‘a + | en etl =. = : r. nach Berlin. ] ; °) CG ; Ausfiihrung mit Schieneraumer des aktuellen Typs. ee) P22 | ae Bl <a A oy vif yal IATIC EX PRESS 14 | > Einsatz im internationalen Verkehr. We == Mo $a me = V | > Mehrfarbig gestaltetes Bedienpult und Fiihrerstandsriickwand. coco LED | ' ee , ~~ Ae ae _- > Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. ote oa ates se ti era” : und Fiihrerstandsbeleuchtung. | L*F A ‘ | iti Hank) \\EOnpegege | a a a ~ Yaa i |. or - oY VF; \" a] a = | = INGO ;. : es zt _— ~ Se pees » ry of M my nes | mien tne) , ‘ Eun [eee . ner = =.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500196-elektrolokomotive-370-094-2-adriatic-express-pkp-ic.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265660.jpg"
+  },
+  "updatedAt": "2026-05-04T14:34:59Z"
+}

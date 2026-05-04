@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500195",
+  "manufacturer": "Roco",
+  "articleNumber": "7500195",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "VI",
+    "type": "Elektrolokomotive",
+    "number": "186 945-2",
+    "livery": "VI",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 186 945-2, VI. Aufwendige Bedruckung. Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt. Im grenzüberschreitenden Einsatz vor Güterzügen. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schluss-. Von den Lokomotiven der Grazer LTE Logistik- und Transport-GmbH sind einige mit auffälligen Lokdesigns. gestaltet. Die seit 2020 im Dienst von LTE stehende TRAXX F140 MS wurde unter dem Kampagnenmotto. „Attracktive Forces“ gestaltet. Das mehrfarbige Design vermittelt dabei die Botschaften der LTE-Philoso-. phie. Das Unternehmen wird von Eisenbahnfreunden auch für das gelungene Design ihrer Lokomotiven.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500195-elektrolokomotive-186-945-2-lte.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265637.jpg"
+  },
+  "updatedAt": "2026-05-04T14:34:48Z"
+}

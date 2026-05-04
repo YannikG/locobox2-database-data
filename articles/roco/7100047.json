@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100047",
+  "manufacturer": "Roco",
+  "articleNumber": "7100047",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 429.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Dampflokomotive",
+    "number": "Rh 109",
+    "livery": "Südbahn",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "II",
+    "luepMm": null,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive Reihe 109 der k.k. privilegierten Südbahn-Gesellschaft (Südbahn). Fotografieranstrich .  Freistehende Leitungen und viele separat angesetzte Steckteile .  Vollmetallräder mit niedrigen Spurkränzen .  Z21 Führerstand verfügbar Als leistungsstarke Schnellzuglok für den hochwertigen Reiseverkehr stand sie für Zuverlässigkeit, Geschwindigkeit und technische Innovation. Mit ihrer markanten Silhouette und fein abgestimmten Proportionen zählt sie zu den schönsten Konstruktionen der k.k. privilegierten Südbahn-Gesellschaft. Ein Modell dieser Lokomotive ist für jeden Sammler ein Muss – es verbindet historische Bedeutung mit feiner Mechanik und nostalgischem Charme auf höchstem Niveau. Beim Fotografieranstrich handelt es sich um eine Sonderlackierung, die seitens der Lokomotivfabriken bei besonderen Lokomotiv-Exemplaren aufgetragen wurde, um zu den damaligen Zeiten eine bessere Darstellung auf Fotos zu erzielen. Dieser bestand aus abwaschbarer (Kalk-)Farbe und wurde nur zum Zwecke der Fotoarbeiten aufgetragen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100047-dampflokomotive-rh-109-sudbahn.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265571.jpg"
+  },
+  "updatedAt": "2026-05-04T09:56:47Z"
+}

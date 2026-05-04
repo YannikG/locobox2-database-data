@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200237",
+  "manufacturer": "Roco",
+  "articleNumber": "6200237",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 74.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "= =",
+    "type": "Dampflokomotive",
+    "number": "1108 U |",
+    "livery": "= =",
+    "scale": "h0",
+    "electricSystem": null,
+    "era": "I",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "6-achsiger Schnellzugwagen 1./2. Klasse, Gattung AB 6ü (Pr06), der Königlich Preussischen Eisenbahn-Verwaltung. Dach in elfenbein Lackierung .  Seitenflächen der Oberlichter in Wagenkastenfarbe",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/personenwagen/6200237-schnellzugwagen-12-klasse-kpev.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265589.jpg"
+  },
+  "updatedAt": "2026-05-04T09:42:42Z"
+}

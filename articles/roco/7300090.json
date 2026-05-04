@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300090",
+  "manufacturer": "Roco",
+  "articleNumber": "7300090",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 244.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "IV",
+    "type": "Diesellokomotive",
+    "number": "T 478 2079",
+    "livery": "IV",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Diesellokomotive T 478 2079 Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur Fein detailliertes Modell mit vielen separat angesetzten Steckteilen Bedruckte Wappen als Ätzteil beiliegend",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300090-diesellokomotive-t-478-2079-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265215.jpg"
+  },
+  "updatedAt": "2026-05-04T13:48:36Z"
+}

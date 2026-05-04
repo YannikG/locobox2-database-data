@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7700032",
+  "manufacturer": "Roco",
+  "articleNumber": "7700032",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 599.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "™ —",
+    "type": "6-tlg. Set: Elektrotriebzug ,,FLIRT 3“ — fA.",
+    "number": null,
+    "livery": "™ —",
+    "scale": "h0",
+    "electricSystem": null,
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: 6-tlg. Set: Elektrotriebzug ,,FLIRT 3“ — fA., ™ —. y XK Hochste Detailtreue der ikonischen Scheinwerfer. a : - . ezTree a ’. . — irre. — 8 ££. Ausfiihrung als ET 302 mit dem Taufnamen \"Freilassing\". Zwei kraftige Motoren jeweils im Endwagen. Stromabnehmer mit innovativer Befestigung i. Dachbereich aufwendig gestaltet, teilweise mit Atzteilen ausgefiihrt. In der Digitalausfiihrung mit schaltbarem Fernlicht, Spitzen-/Schlusslicht,. Fiihrerstandsbeleuchtung, beleuchteten Zugzielanzeigen und Innenbeleuchtung. Aufwendig nachgebildeter Innenraum und. Blick durch den ganzen Zug méglich.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7700032-6-tlg-set-elektrotriebzug-flirt-3-brb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266574.jpg"
+  },
+  "updatedAt": "2026-05-04T14:37:03Z"
+}

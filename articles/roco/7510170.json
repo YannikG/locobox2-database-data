@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510170",
+  "manufacturer": "Roco",
+  "articleNumber": "7510170",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 439.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "IV-V",
+    "type": "Elektrolokomotive",
+    "number": "Re 4/4III 43",
+    "livery": "IV-V",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 4/4III 43, IV-V. Neue Front mit großen runden Scheinwerfern, typisch für Privatbahn Re 4/4. Neue Rückspiegel. Rechteckige Puffer für den Pendelbetrieb auf bis zu 50 ‰. Mit Wappen „Rothenthurm“. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Führerstandsbeleuch-. tung und Maschinenraumbeleuchtung.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510170-elektrolokomotive-re-44-iii-43-sob.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265610.jpg"
+  },
+  "updatedAt": "2026-05-04T14:13:34Z"
+}

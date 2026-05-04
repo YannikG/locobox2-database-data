@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510191",
+  "manufacturer": "Roco",
+  "articleNumber": "7510191",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "VI",
+    "type": "Elektrolokomotive",
+    "number": "193 996-3",
+    "livery": "VI",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 996-3, VI. Vorbildgerechtes Schleifstück am Stromabnehmer für Italien. Einsatz im grenzüberschreitenden Verkehr. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht. Spitzenlicht mit kaltweißen Leuchtdioden (LED). Neuer originalgetreuer Sound. Einzige Vectron im zweifarbigen \"Zebra\"-Design – ideale. Ergänzung für die Lokomotion-Sammlung. Einsatz im internationalen Güterverkehr. Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Im Digitalbetrieb erstmals mit schaltbaren Lichtfunktionen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510191-elektrolokomotive-193-996-3-rtc.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265547.jpg"
+  },
+  "updatedAt": "2026-05-04T14:16:49Z"
+}

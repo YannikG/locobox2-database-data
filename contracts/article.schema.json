@@ -34,8 +34,14 @@
       "type": ["string", "null"]
     },
     "releaseDate": {
-      "type": "string",
-      "format": "date"
+      "description": "Kalenderjahr (YYYY), volles Datum (YYYY-MM-DD) oder null, wenn noch nicht gesetzt.",
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "string",
+          "pattern": "^\\d{4}(-\\d{2}-\\d{2})?$"
+        }
+      ]
     },
     "uvp": {
       "type": "object",
@@ -67,56 +73,82 @@
       ],
       "properties": {
         "country": {
-          "type": "string",
-          "pattern": "^[A-Z]{2}$"
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "pattern": "^[A-Z]{2}$" }
+          ]
         },
         "operator": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "type": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "number": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "livery": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "scale": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "electricSystem": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "era": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "decoderInterface": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "variantGroup": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "couplerSystem": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "minLength": 1 }
+          ]
         },
         "luepMm": {
-          "type": "number",
-          "minimum": 0
+          "oneOf": [
+            { "type": "null" },
+            { "type": "number", "minimum": 0 }
+          ]
         },
         "minRadiusMm": {
-          "type": "number",
-          "minimum": 0
+          "oneOf": [
+            { "type": "null" },
+            { "type": "number", "minimum": 0 }
+          ]
         },
         "features": {
           "type": "array",
@@ -165,6 +197,11 @@
         "url": {
           "type": "string",
           "format": "uri"
+        },
+        "imageUrl": {
+          "type": "string",
+          "format": "uri",
+          "description": "Hauptproduktbild"
         },
         "notes": {
           "type": "string"

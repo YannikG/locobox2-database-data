@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510186",
+  "manufacturer": "Roco",
+  "articleNumber": "7510186",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CD",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "h0",
+    "electricSystem": "DCC",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Roco Neuheiten 2026. Aufwendige Bedruckung im Werkstattdesign Mit neuer Ausführung des Schienenräumers Mit detaillierter Dachgestaltung Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt- barem Spitzen- oder Schlusslicht sowie Führerstandsbeleuchtung Ideale Ergänzung zu den MAV-Eurofima-Wagen Art. Nr. 6200228 für die Nachbildung von grenzüberschreitendem V Elektrolokomotive 193 568-3",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510186-elektrolokomotive-193-568-3-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265254.jpg"
+  },
+  "updatedAt": "2026-05-04T14:16:04Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500194",
+  "manufacturer": "Roco",
+  "articleNumber": "7500194",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "—",
+    "type": "Elektrolokomotive",
+    "number": "193 128-6",
+    "livery": "—",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 128-6, —. + a) ’ ms y pots ~ & 7 or. oP VOID IN EDF a | wy ma Co =| wd. i O-.:. m- na sd DAES: BH Dsscvsens 91806193 1286 0-Rocet Vecrrn @D es e t= = oO. j PACT! besa |, Sil om Tey Bu ~=s ame = = -oM. Modell exklusiv bei ROCO erhaltlich. Adesso Rail ist ein junges Osterreichisches Eisenbahnverkehrsunternehmen mit Sitz in Marchegg, das 2025 > Grenziiberschreitender Einsatz im Giiterverkehr. gegrundet wurde. Das Unternehmen positioniert sich als moderner, international ausgerichteter Betreiber > Freistehende Griffstangen, teilweise aus Metall. fur den Schienenverkehr zwischen Osterreich, Deutschland und Italien. Mit hochmodernen Siemens Vec- > Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen-. tron-Lokomotiven von Railpool setzt Adesso Rail auf die Zuverlassigkeit der Siemens Maschinen. Der frische . . Markenauttritt, das markante Design und der Fokus auf innovative Logistiklosungen machen Adesso Rail zu oder Schlusslicht und Fuhrerstandsbeleuchtung. einem spannenden neuen Akteur im europaischen Bahnsektor. > Aufwendige Bedruckung im kunstvollen Design. In Kooperation mit Marie-Therese Abart. erschreitender Einsatz im Güterverkehr.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500194-elektrolokomotive-193-128-6-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265648.jpg"
+  },
+  "updatedAt": "2026-05-04T14:34:37Z"
+}

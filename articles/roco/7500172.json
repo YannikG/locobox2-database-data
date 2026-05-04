@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500172",
+  "manufacturer": "Roco",
+  "articleNumber": "7500172",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 279.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": "Re 465 008-1",
+    "livery": "SBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 465 008-1, SBB. Ausführung mit kurzem Stoßbalken und Widerstandsgitter für Mit Wappen „Eggerberg“ Aufwendige, mehrfärbige Nachbildung des Maschinenraums Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt- barem Spitzen-oder Schlusslicht Die Bern-Lötschberg-Simplon-Bahn (BLS) bestellte bei den Schweizer Fir men SLM Winterthur und ABB Zürich unter der Reihenbezeichnung 465 eine weiterentwickelte Universallokomotive auf Basis der SBB Re 460. Im Gegensatz zur Re 460 besitzen die Lokomotiven nicht nur einen Umrichter je Drehgestell, sondern einen Umrichter je Achse. So lässt sich die Zugkraft optimal auf die Schiene bringen. Die BLS setzen die 18 Lokomotiven überwiegend im Güterverkehr, aber auch vor den Pendelzügen ein. Elektrolokomotive Re 4/4 172 Elektrolokomotive Re 465 008-1 Aufwendig bedrucktes Modell im „Goldenpass“-Design Mit extra angesetzten Scheibenwischern Feine Darstellung der Frontgriffstangen Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500172-elektrolokomotive-re-465-008-1-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265237.jpg"
+  },
+  "updatedAt": "2026-05-04T14:31:03Z"
+}

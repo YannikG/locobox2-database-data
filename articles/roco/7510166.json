@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510166",
+  "manufacturer": "Roco",
+  "articleNumber": "7510166",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 354.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SZ",
+    "type": "Elektrolokomotive",
+    "number": "186 119-1",
+    "livery": "SZ",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 186 119-1, SZ. SNCB a a ‘ Pes — '. gz é > Ausfiihrung im aktuellen Design. BD, > Mit detaillierter Dachgestaltung. gE: oe oo ud a fi > Mit separat angesetzten Steckteilen teilweise in Atztechnik. Tee] LED | on 2d he omens aaa — ausgefiihrt. OY al o8 : = > Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. ee. A. A 4. . . Ase Spitzen-/Schlusslicht. Mit Genehmigung von NMBS Train World. Pe Mites. < oy SZ St Ws ae . op, ee. REA yee Ran eGR Ne ee ——— Bray ta gf. . Se Tel ae ee es —— : pe cogs IF ee ~ — oh? é Z ;.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510166-elektrolokomotive-186-119-1-sncb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264637.jpg"
+  },
+  "updatedAt": "2026-05-04T14:13:00Z"
+}

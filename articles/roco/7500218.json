@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500218",
+  "manufacturer": "Roco",
+  "articleNumber": "7500218",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "VI",
+    "type": "Elektrolokomotive",
+    "number": "185 325-5",
+    "livery": "VI",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 185 325-5, VI. Ausführung mit Schneepflug am Chassis Radsätze mit niedrigen Spurkränzen Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem In Kooperation mit Elektrolokomotive 185 325-5",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500218-elektrolokomotive-185-325-5-ebstrustrail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266840.jpg"
+  },
+  "updatedAt": "2026-05-04T14:10:00Z"
+}

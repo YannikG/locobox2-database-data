@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500178",
+  "manufacturer": "Roco",
+  "articleNumber": "7500178",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "145 070-9 U | Nn |",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 145 070-9 U | Nn |, DB. Le mammmupdate § —formvariante. EP “ fal » f eee. age — am » Neukonstruierter Schienenraumer. |. lmse. Maumroraseanitanta KB > Stromabnehmer mit innovativer Befestigung. on = : » He Goa’ Sanaartte » Extra angesetzte Scheibenwischer. i v1 -unterwegs. sm |S poe cache ite = } > Erstmals mit PluX22 Schnittstelle. rs et nse so3h > Mehrfarbig gestaltete Fiihrerstandsriickwand und Bedienpult. t wi) ee ee og > Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. und Fihrerstandsbeleuchtung.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500178-elektrolokomotive-145-070-9-rbh.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264843.jpg"
+  },
+  "updatedAt": "2026-05-04T14:32:11Z"
+}

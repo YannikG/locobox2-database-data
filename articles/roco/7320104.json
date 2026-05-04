@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7320104",
+  "manufacturer": "Roco",
+  "articleNumber": "7320104",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "Diesellokomotive",
+    "number": "22 „Warsteiner“",
+    "livery": "Diesellokomotive 22 „Warsteiner“",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 22 „Warsteiner“. Beigelegte Außenspiegel für ein- und ausgeklappte Stellung Extra angesetzte Griffstangen, Scheibenwischer und UIC-Dosen Farblich abgesetzte Bremsscheiben Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Diesellokomotive 22 „Warsteiner“ Beladen mit zwei 45-Fuß-Containern „Warsteiner“",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320104-diesellokomotive-22-warsteiner-wle.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266505.jpg"
+  },
+  "updatedAt": "2026-05-04T14:04:31Z"
+}

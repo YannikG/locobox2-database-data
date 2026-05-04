@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100039",
+  "manufacturer": "Roco",
+  "articleNumber": "7100039",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Dampflokomotive",
+    "number": "50 2146-4 =",
+    "livery": "DR",
+    "scale": "h0",
+    "electricSystem": null,
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 50 2146 der Deutschen Reichsbahn. Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. 3-domige Kesselausführung mit Witte-Windleitblechen .  Fahrwerk in rotbrauner Lackierung .  Lampen mit Griffstange auf der vorderen Pufferbohle .  Ausführung mit Neubautender .  Mit feinen Metallradsätzen .  Beheimatung Rbd Dresden, Bw Zwickau Im Osten Deutschlands spielte die Baureihe 50 noch länger eine tragende Rolle als im Westen. Rein zahlenmässig verblieben in der sowjetischen Besatzungszone bei Kriegsende mit 354 Stück vergleichsweise wenige Loks. Im Laufe der Zeit kam es zu unterschiedlichen Lok-Tender-Kombinationen. Die Neubautender der Baureihen 23.10 und 50.40 kamen nach deren Ausmusterung zunehmend hinter Altbau-50 zum Einsatz. Weil aber eine durchgehende Rückwand fehlte, war diese Kombination vor allem im Winter, beim Personal nicht besonders beliebt.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100039-dampflokomotive-50-2146-4-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264646.jpg"
+  },
+  "updatedAt": "2026-05-04T09:53:06Z"
+}

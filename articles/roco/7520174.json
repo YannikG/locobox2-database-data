@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520174",
+  "manufacturer": "Roco",
+  "articleNumber": "7520174",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "TX Logistik",
+    "type": "Elektrolokomotive",
+    "number": "7193 306-6",
+    "livery": "TX Logistik",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 7193 306-6, TX Logistik. Die TX Logistik AG wurde 1999 in Bad Honnef gegrundet und ist heute. eines der groBten Transportunternehmen fir SchienengUterverkehr in. ae an Europa. Als Spezialist fur grenzenlose Transportnetzwerke entwickeln sie. TX-LOGISTIK eo = — Guterverkehrskonzepte und branchenspezifische Losungen. Wichtigste. ES s = = ABS ow : Transportstrecken sind von den Hafen Hamburg, Bremerhaven, Rotterdam. a ee RE und Antwerpen nach Siiddeutschland, Schweiz, Osterreich und Italien. TX. ‘ : \\ Logistik setzt derzeit rund 80 elektrische Lokomotiven ein. Zum GroBteil. , u = kommen Lokomotiven der Baureihen 193 und 185 zum Einsatz. pr Ee a moe hy nomen amnion ele > Mit neuer Ausfiihrung des Schienenraumers und der Drehgestell-. aN = — Syl coy E] Sa blenden entsprechend den XLoad-Maschinen. OE > Alle Anderungen im Modell korrekt nachgebildet. Photomontage > Mehrfarbig gestaltetes Bedienpult und Fiihrerstandsriickwand. 9097 > Grenziiberschreitender Einsatz im Giterverkehr.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520174-elektrolokomotive-7193-306-6-tx-logistik.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265580.jpg"
+  },
+  "updatedAt": "2026-05-04T14:22:18Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100036",
+  "manufacturer": "Roco",
+  "articleNumber": "7100036",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 209.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "I",
+    "type": "Dampflokomotive",
+    "number": "PtL 2/2 6066",
+    "livery": "I",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "I",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Gattung PtL 2/2 „Glaskasten“ der Königlich Bayerischen Staats-Eisenbahnen. Authentische Lackierung mit feinen Zierlinien .  Einsatz vor Personen- und leichten Güterzügen auf Nebenbahnen Die Lokalbahnlokomotive mit der Gattungsbezeichnung PtL 2/2 (Personenzug-Tenderlokomotive für Lokalbahnen) ist bei Eisenbahnfreunden sicher eine der bekanntesten Dampflokomotiven aus der alten Zeit. Der Volksmund nannte sie: Glaskastl, Schnauferle, Quietscherle, Bockl usw. Ihre Leistung war mit 210 PS angegeben. 40 km/h durften sie fahren – liefen aber nach Berichten von Lokomotivführern 60 km/h und mehr.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/home-neuheiten/7100036-dampflokomotive-gattung-ptl-22-kbaystsb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264603.jpg"
+  },
+  "updatedAt": "2026-05-04T09:50:15Z"
+}

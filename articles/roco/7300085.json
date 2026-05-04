@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300085",
+  "manufacturer": "Roco",
+  "articleNumber": "7300085",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 239.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Diesellokomotive",
+    "number": "120 144-1",
+    "livery": "DR",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 120 144-1, DR. 224 44-achsige Ausführung. Lackierung mit Doppelbauchbinde. Mit eckigemTürausschnitt. Maschinenraum mit Lüfter- und Klappfensterkombination. Beheimatung Rbd Schwerin, Bw Rostock. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Führer-. standsbeleuchtung und Maschinenraumbeleuchtung. Um den Traktionswechsel zu beschleunigen, beschaffte die Deutsche. Reichsbahn (DR) von 1966 bis 1975 aus der Sowjetunion insgesamt 378. Lokomotiven der Baureihe V 200 (später BR 120). Da den Lokomotiven ab. Werk eine Zugheizung fehlte, wurden sie überwiegend im Güterzugverkehr. eingesetzt. Später wurden auch Schalldämpfer ergänzt, um den Lärmpegel. der Motoren einzudämmen. Aufgrund des lauten Motorgeräusches bürgerte.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300085-diesellokomotive-118-158-5-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264615.jpg"
+  },
+  "updatedAt": "2026-05-04T13:47:40Z"
+}

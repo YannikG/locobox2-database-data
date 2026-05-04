@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520173",
+  "manufacturer": "Roco",
+  "articleNumber": "7520173",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 439.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "Elektrolokomotive",
+    "number": "Re 436 113-5",
+    "livery": "Elektrolokomotive Re 436 113-5",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 436 113-5. Neue Front mit großen runden Scheinwerfern, typisch für. Privatbahn Re 4/4. Front ohne Wappen ausgeführt. Weitere Modelle für im Vorbild häufige Doppeltraktion folgen. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Führer-. standsbeleuchtung und Maschinenraumbeleuchtung. BLS Cargo Logo zur optionalen Montage als Decal beiliegend. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:. Photo: D. Schärer.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520173-elektrolokomotive-re-436-113-5-crossrail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265698.jpg"
+  },
+  "updatedAt": "2026-05-04T14:22:06Z"
+}

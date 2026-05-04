@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510190",
+  "manufacturer": "Roco",
+  "articleNumber": "7510190",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026. Ausführung mit abgerundeten Maschinenraumfenster Modernisierte Griffstangen bei den Einstiegstüren Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510190-elektrolokomotive-140-423-5-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265339.jpg"
+  },
+  "updatedAt": "2026-05-04T14:16:38Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310094",
+  "manufacturer": "Roco",
+  "articleNumber": "7310094",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 274.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Diesellokomotive",
+    "number": "234 399-4",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 234 399-4, DB. Die Lokomotiven der Baureihe 132 (232, 233, 234 und 241) wurden ab. 1970 von der Lokomotivfabrik Woroschilowgrad aus der Sowjetunion in die. DBAG DDR importiert und bei der Deutschen Reichsbahn in Dienst gestellt. “ ——————_ Durch den Ruickgang des Guterverkehrs nach der Wende wurde eine groBe. 7 Zahl der Diesellokomotiven Uberzahlig. Die Maschinen der Baureihe 132. ry /i (seit 1.1. 1992 BR 232) wurden nach und nach zur neuen Baureihe 234,. bed | a] Sy a) unter Verwendung der 140-km/h-Drehgestelle der ausgemusterten Reihe. ® | 4 ee ui 130, umgebaut. Ab 1994 standen sie in IR- und IC-Diensten im Einsatz. ~ } a De > Variante in DR-Lackierung mit DB AG-Logo. i = = = a ak oo ee : > Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem. Photomontage Spitzen-/Schlusslicht. e der 1960er Jahre entstand die Baureihe E 03, die als bis dahin stärks-. te DB-Lok für schwere Reisezüge vorgesehen war. 1970–1974 wurden.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310094-diesellokomotive-234-399-4-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265190.jpg"
+  },
+  "updatedAt": "2026-05-04T13:53:24Z"
+}

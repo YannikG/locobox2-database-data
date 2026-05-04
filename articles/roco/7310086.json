@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310086",
+  "manufacturer": "Roco",
+  "articleNumber": "7310086",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 344.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Diesellokomotive",
+    "number": "M62-901",
+    "livery": "FS",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, M62-901, FS. Vollständige Bremsluftleitungen mit vollständig ausgebildeten. Luftbehältern. Besonders authentische Nachbildung der Drehgestelle. Freistehende Rangierer-Griffstangen unterhalb der Puffer. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Führer-. standsbeleuchtung und Maschinenraumbeleuchtung. Um den Traktionswechsel zu beschleunigen, beschaffte die Raab-Öden-. burg-Ebenfurter Eisenbahn AG (GYSEV), ein österreichisch-ungarisches. Gemeinschaftsunternehmen, 1972 sechs normalspurige Lokomotiven, die. als Unterbaureihe M62.9 eingereiht wurden. Die M62.9 waren in Sopron. beheimatet und wurden 1996 ausgemustert. Ausführung mit Glocke am Vorbau. Ideale Ergänzung zum Nebenbahngüterzug, Art. Nr. 6600229.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310086-diesellokomotive-m62-901-gysev.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264629.jpg"
+  },
+  "updatedAt": "2026-05-04T13:52:12Z"
+}

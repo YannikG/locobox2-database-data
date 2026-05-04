@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100037",
+  "manufacturer": "Roco",
+  "articleNumber": "7100037",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 249.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "I",
+    "type": "Dampflokomotive",
+    "number": "Gattung Pt 2/3",
+    "livery": "I",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "I",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Gattung Pt 2/3 der Königlich Bayerischen Staats-Eisenbahnen. Aufwendige Lackierung mit feinen Zierlinien .  Bewegliche Heusinger-Steuerung .  Ideale Ergänzung zu den Personenwagen Art.-Nr. 6200197 Die Gattung Pt 2/3 war unter den leichten Tenderloks für den Personenverkehr eine auffällige Erscheinung. Ihr schlanker Kessel, der grosse Abstand zwischen der Laufachse und den Kuppelrädern (4.000 mm!) und das relativ grosse Führerhaus sind ihre typischen Merkmale. Ausserdem war an der Rückseite der Lok eine Tür eingebaut, durch die der Heizer in den Zug gelangte, um die Aufgaben des Schaffners zu übernehmen. Die Bayerische Staatsbahn stellte die ersten Lokomotiven im Jahre 1909, die letzten 1916 in Dienst. Alle Maschinen (Bauart 1 B h2, Höchstgeschwindigkeit 65 km/h) lieferte Krauss in München.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100037-dampflokomotive-gattung-pt-23-kbaystsb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264604.jpg"
+  },
+  "updatedAt": "2026-05-04T09:51:15Z"
+}

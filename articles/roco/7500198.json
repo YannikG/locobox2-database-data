@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500198",
+  "manufacturer": "Roco",
+  "articleNumber": "7500198",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 289.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Elektrolokomotive",
+    "number": "E 44 015 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der vierachsigen",
+    "livery": "NS",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 015 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der vierachsigen, NS. Drehgestell-Lokomotiven betrug rund 2.200 kW, dabei lag die Hochstge-. . schwindigkeit bei 90 km/h. Die Loks bewahrten sich dabei sowohl vor Per-. Ls A aN. . sonenztigen als auch vor Giiterzligen. Einige Lokomotiven wurden mit einer. SS VL» ~Q Wendezugsteuerung ausgerUstet und somit im Vorortverkehr in Ballungs-. DRB = ee réumen eingesetzt. Die E 44 — aus der die Baureihen E 44.5, E 93 und E 94. a == = = SS — ~~ weiterentwickelt wurden — darf mit Recht als eine der zuverlassigsten und. n - a ao erfolgreichsten Elektrolokomotiven bezeichnet werden, verhalf sie doch der. ,— k| p Drehgestellbauweise und dem Tatzlagerantrieb zum Durchbruch. ‘ ’ > GroBe Lampen der Reichsbahn-Einheitsbauart. Ee : | f > Stromabnehmer Typ SBS 10 mit innovativer Befestigung. s. > Extra angesetzte Scheibenwischer. RS a NS ee > Freier Fiihrerstands-Durchblick und mehrfarbig gestaltete. Photomontage Riickwand.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500198-elektrolokomotive-e-44-015-drb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265672.jpg"
+  },
+  "updatedAt": "2026-05-04T14:35:22Z"
+}

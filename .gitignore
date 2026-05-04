@@ -1,0 +1,19 @@
+# PDFs should not be tracked
+*.pdf
+
+# Ephemeral data: Roco OCR-Arbeitsbaum, lokale Import-JSON, PDF-Renders, …
+.tmp/
+
+# Lokale Python-Umgebung (utils/requirements.txt)
+.venv/
+
+# Python-Bytecode und Tool-Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/

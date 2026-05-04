@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310021",
+  "manufacturer": "Roco",
+  "articleNumber": "7310021",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 339.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "V-VI",
+    "type": "Diesellokomotive",
+    "number": "742 156-3",
+    "livery": "V-VI",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 742 156-3, V-VI. Ausführung der 3. Serie mit gerippter Führerhaus-Seitenwand. Pufferbohle mit zusätzlicher Dose für Waggon-Türsteuerung. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Freier Führerhaus-Durchblick. Filigrane Sicherheitsgeländer. Radsätze mit niedrigen Spurkränzen. In den 1970er Jahren bestand bei der ehemaligen Tschechoslowakischen. Staatsbahn (CSD) ein großer Bedarf an leistungsfähigen Güterzug-Diesello-. komotiven für den mittelschweren Verschub- und Streckendienst. Im Zuge. dessen wurde von der Industrieloktype T 448 die leichtere Variante T 466.2. abgeleitet. Sie wurde von CKD in Prag ab 1977 in neun Bauserien (mit. jeweils kleinen Unterschieden) mit 494 Einheiten gefertigt und bis 1986 bei. den CSD in Dienst gestellt.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310021-diesellokomotive-742-156-3-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265337.jpg"
+  },
+  "updatedAt": "2026-05-04T13:50:51Z"
+}

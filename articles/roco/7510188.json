@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510188",
+  "manufacturer": "Roco",
+  "articleNumber": "7510188",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": null,
+    "number": null,
+    "livery": "MRCE",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026. Elektrolokomotive 112 101-1 Elektrolokomotive 189 909-5 Aktueller Betriebszustand in orientroter Lackierung Fein geätzte, durchbrochene Fronttrittbleche Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Rangierlicht, Führerstandsbeleuchtung und Zugzielanzeige Einsatz im grenzüberschreitenden Verkehr Vorbildgerechtes Schleifstück am Stromabnehmer für Italien Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht Spitzenlicht mit kaltweißen LED Neuer originalgetreuer Sound Ab 1992 wurde die verbesserte Baureihe 112.1 von DB und DR gemeinsam beschafft. Die äußerlich auffälligste Änderung zur BR 112.0 ist die Zusammenlegung der großen Spitzen- bzw. Schlusslichter zu kleinen kombinierten Halogenlampen. Die Schnellzuglokomotiven mit einer Leistung von 4.000 kW und einer Höchstgeschwindigkeit von 160 km/h sind in ganz Deutschland vor Intercitys, Regional-Express- und Sonderreisezügen im Einsatz. Beacon Rail ist eine Schienenfahrzeug-Leasinggesellschaft mit Hauptsitz in Luxemburg. Sein Hauptgeschäft ist die Vermietung von Lokomotiven und Schienenfahrzeugen an verschiedene Eisenbahnverkehrsunternehmen in Europa. Mit der Übernahme der Mitsui Rail Capital Europe B.V. (MRCE), wurde die Lokomotivflotte um 222 Elektrolokomotiven verstärkt, die bisher nur einen kleinen Teil der Lokomotivflotte von Beacon Rail ausmachten. Darunter befinden sich auch Mehrsystemloks der Baureihe 189 welche nach und nach ein Rebranding-Programm durchlaufen.",
+  "categories": [],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510188-elektrolokomotive-189-909-5-beacon-rail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265274.jpg"
+  },
+  "updatedAt": "2026-05-04T14:16:15Z"
+}

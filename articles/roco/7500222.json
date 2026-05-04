@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500222",
+  "manufacturer": "Roco",
+  "articleNumber": "7500222",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 339.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": "Re 4/4II 11143",
+    "livery": "SBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 4/4II 11143, SBB. Bauserie der Re 4/4II. Ausführung mit nachgerüsteter Klimaanlage. Filigraner Einholmstromabnehmer. Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schluss-. licht, Führerstandsbeleuchtung und Maschinenraumbeleuchtung.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500222-elektrolokomotive-re-44-ii-11143-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267364.jpg"
+  },
+  "updatedAt": "2026-05-04T14:10:11Z"
+}

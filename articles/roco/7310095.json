@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310095",
+  "manufacturer": "Roco",
+  "articleNumber": "7310095",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Diesellokomotive",
+    "number": "Y 8208 Im Juli 1977 rollte aus dem Werk der Firma Moyse die Rangierlok (in Frank-",
+    "livery": "SNCF",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, Y 8208 Im Juli 1977 rollte aus dem Werk der Firma Moyse die Rangierlok (in Frank-, SNCF. reich Locotracteur genannt) Y 8001 als erster Vertreter einer 525 Einheiten. umfassenden Serie fur die Rangieraufgaben in den Bahnhofen, Rangier-. i i bahnhofen, Baustellen und Werkstatten der SNCF. Starker und langer als. SNCF seine Vorganger konnten diese auch bestimmte Loks fiir die Zustellung. ee : leichter GUterzige auf der Strecke ersetzen. Die Y 8000 erhielten bei der Indienststellung eine an die BB 63500 ange-. oi: es i tu | i ij lehnten Anstrich in dominierendem Orange erganzt durch braun und weiB. _= = Lalas) In dieser Bemalung haben die meisten von ihnen ihre Karriere durchlaufen. cam f oT aon eee 208 > | mit allen aufeinanderfolgenden Logos der SNCF bis zum aktuellen ,,Carmil-. . ‘ | f{- a : ih] = FRET | lon“. Einige wurden aber auch umlackiert flr die entsprechenden Aktivita-. it ae x io , ten, denen sie zugeteilt wurden: Fret, Infra oder sogar TER. 5 = , > Mit digitaler Rangierkupplung fiir mehr SpielspaB. _ on » Motorvorbau und Getriebeblock aus Zinkdruckguss, daher mehr.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310095-diesellokomotive-y-8208-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265267.jpg"
+  },
+  "updatedAt": "2026-05-04T13:53:37Z"
+}

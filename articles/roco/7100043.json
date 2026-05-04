@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100043",
+  "manufacturer": "Roco",
+  "articleNumber": "7100043",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Dampflokomotive",
+    "number": "39 1052-8",
+    "livery": "DR",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 39 1052 der Deutschen Reichsbahn. Update! .  Erstmals mit PluX16-Schnittstelle und LED-Spitzenlicht .  Freistehende Kessel-Leitungen .  Zierlich ausgeführtes Fahrwerk an Lok und Tender .  Ausführung mit Tender der Bauart T34 .  Beheimatung Rbd Erfurt, Bw Saalfeld Aus den Dampflokomotiven der Baureihe 39.0–2 entstand im Rahmen des so genannten Rekonstruktionsprogrammes der Deutschen Reichsbahn ab 1958 die neue Baureihe 22. Die Vorgängermaschinen hatten den grossen Nachteil, dass ihr Kessel bzw. die technische Auslegung zu wenig Dampf für die geforderten Leistungen erbrachte. Insgesamt wurden 85 Lokomotiven zur Baureihe 22 umgebaut. Im Zuge dieses Umbaus erhielten die Loks einen verlängerten Rahmen, eine Anpassung der Führerhäuser und neue, geschweisste Zylinder. Die DR setze die 22er neben dem normalen Personenverkehr auch im gehobenen Schnellzugverkehr in Umläufen der Baureihe 01 ein. Da die Lokomotiven auf derartige Belastungen aber nicht ausgelegt waren, begannen damit die Probleme im Fuhrpark der später zur Baureihe 39.10, entsprechend dem EDV-Nummernschema, umgezeichneten Maschinen. So waren im Jahr 1970 nur mehr wenige Lokomotiven von den Direktionen Halberstadt und Saalfeld im Einsatz, ehe sie 1971 abgestellt wurden.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100043-dampflokomotive-39-1052-8-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264825.jpg"
+  },
+  "updatedAt": "2026-05-04T09:53:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7110051",
+  "manufacturer": "Roco",
+  "articleNumber": "7110051",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 579.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "P|",
+    "type": "Dampflokomotive",
+    "number": "310.21 Edition",
+    "livery": "P|",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Dampflokomotive, 310.21 Edition, P|. Die kKkStB Reihe 310 gilt als eine der elegantesten und technisch anspruchsvollsten Dampflokomotiven ihrer > Fein detailliertes Fahrwerk. Zeit — ein Meisterwerk Osterreichischer Ingenieurskunst. Ihr markantes, stromlinienformiges Erscheinungs- > Mit . oe. authentischen Zierlinien. bild und die auBergewohnliche Laufruhe machten sie schon damals zur Konigin der Schienen. Ein Modell > Damoflok-Fah k mit NEM-Fi le-Metallspeichenraid. dieser legendaren Schnelizuglok darf in keiner Sammlung fehlen: Es vereint geschichtliche Bedeutung, Fa eM ere ene Llescale-Meral’speichenrader. technische Raffinesse und zeitlose Asthetik in perfekter Miniaturform — ein echtes Highlight fir Liebhaber > Tender-Radsatze mit groBerer Spurkranzhohe. klassischer Dampfloktechnik. > Zu Offnende Rauchkammertiiren. Fein detailliertes Fahrwerk. Mit authentischen Zierlinien. Dampflok-Fahrwerk mit NEM-Finescale-Metallspeichenräder. Tender-Radsätze mit größerer Spurkranzhöhe. Zu öffnende Rauchkammertüren. Die kkStB Reihe 310 gilt als eine der elegantesten und technisch anspruchsvollsten Dampflokomotiven ihrer.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110051-dampflokomotive-31021-golsdorf-edition-kkstb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265704.jpg"
+  },
+  "updatedAt": "2026-05-04T13:44:27Z"
+}

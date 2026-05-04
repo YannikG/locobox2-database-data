@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310104",
+  "manufacturer": "Roco",
+  "articleNumber": "7310104",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "WLE",
+    "type": "Diesellokomotive",
+    "number": "22 ,,Warsteiner“",
+    "livery": "WLE",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 22 ,,Warsteiner“, WLE. ee fm |. Rien rt. ime ff oF eS Ty ; > Beigelegte AuBenspiegel fiir ein- und ausgeklappte Stellung. oo * WLee | | ; ‘Fade > Extra angeseizte Griffstangen, Scheibenwischer und UIC-Dosen. | ee | LED | = oo, oa ° a. e o e » Farblich abgesetzte Bremsscheiben. Cae a iy * : r= 6 > Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. _~__._\\ \"ilies, tt Spitzen-/Schlusslicht. Container-Doppeltragwagen. EINSTELLER r :. CLG GS, hTOh, IV. Sggmrs Photomontage. » Beladen mit zwei 45-FuB-Containern ,,Warsteiner“.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310104-diesellokomotive-22-warsteiner-wle.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266522.jpg"
+  },
+  "updatedAt": "2026-05-04T13:54:35Z"
+}

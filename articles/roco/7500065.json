@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500065",
+  "manufacturer": "Roco",
+  "articleNumber": "7500065",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": "193 459-5 ,,Deutschlandpiercer“ U",
+    "livery": "SBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 459-5 ,,Deutschlandpiercer“ U, SBB. | oe | ma Update. SBB CARGO PrN. INTERNATIONAL = fre S., . . . Se ee este \" > Ausfiilhrung des Schienenraumers und der Drehgestellblenden. | ep [a 7 (soc, ee OR SS entsprechend den XLoad-Maschinen. y \\as Pet t as: | > Taufname ,,Bundestag Berlin“. 2 ieee 1 » Mehrfarbig gestaltetes Bedienpult und Fiihrerstandsriickwand. v= - © \\weSoto Se “e we > Im Digitalbetrieb erstmals mit schaltbaren Lichtfunktionen fur CH,. a” Ree K an - Elis fy) =. ny ae = |. > In Kooperation mit | Railcolordesign. tron 193 452 und 459 beklebt. Damit ist die Serie der speziell folierten. 7510065 XLoad-Flotte, die bisher von der RegelausfUhrung abweichend gestaltet. 7520065 wurden, auf nunmehr vier Exemplare gewachsen. Nach Holland und Itali-. en haben nun auch die beiden Lander Deutschland und Schweiz bei SBB.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500065-elektrolokomotive-193-459-5-deutschlandpiercer-sbb-cargo-international.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/256941.jpg"
+  },
+  "updatedAt": "2026-05-04T14:05:16Z"
+}

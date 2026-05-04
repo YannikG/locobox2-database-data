@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500164",
+  "manufacturer": "Roco",
+  "articleNumber": "7500164",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 244.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "141 152-9",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 141 152-9, DB. Die Maschinen der Baureihe E 41 (ab 1968: 141) wurden erstmals 1956. fur den leichten und gemischten Dienst auf Hauptstrecken mit einer Hochst-. a 2 We geschwindigkeit von 120 km/h und einer Dauerleistung von 2.310 kW an. pe die Deutsche Bundesbahn geliefert. Als einzige Baureihe des Einheitslok-. — KY programms erhielten sie ein Schaltwerk auf der Niederspannungsseite des. ' — ——— i} as » eS Transformators. Das Schaltwerk hatte eine charakteristische Gerauschent-. (ial a wicklung, die neben den groBen Zugkraftspriingen zum Spitznamen ,,Knall-. q i % | | | | | } | { frosch\" fuhrte. Die 141 152 wurde schon sehr fruh nach Inkraftsetzung des. nT { orientroten Lok-Farbschemas im November 1987 umlackiert und behielt. 0 diese Lackierung bis zu Ihrer Abstellung Ende 2002. Ups * | eS >I > In orientroter Lackierung mit Latz. . on IN a a \" > Geatzte Laufstege und Scheibenwischer. Photomontage > Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500164-elektrolokomotive-141-152-9-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264624.jpg"
+  },
+  "updatedAt": "2026-05-04T14:07:31Z"
+}

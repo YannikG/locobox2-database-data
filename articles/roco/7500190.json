@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500190",
+  "manufacturer": "Roco",
+  "articleNumber": "7500190",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 229.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "140 423-5",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 140 423-5, DB. Ausführung mit abgerundeten Maschinenraumfenster Modernisierte Griffstangen bei den Einstiegstüren Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500190-elektrolokomotive-140-423-5-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265338.jpg"
+  },
+  "updatedAt": "2026-05-04T14:34:03Z"
+}

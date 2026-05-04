@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500184",
+  "manufacturer": "Roco",
+  "articleNumber": "7500184",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 244.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "Elektrolokomotive",
+    "number": "182 573-6",
+    "livery": "MRCE",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 182 573-6, MRCE. Ausführung im aktuellen Design. Einsatz zwischen Ungarn und Österreich im hochwertigen Reisezug-. Ausgerüstet mit 3-Dachstromabnehmern für den grenzüberschrei-. tenden Verkehr. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. Spitzen-/Schlusslicht. Im Herbst 2023 unterzeichnete die MAV-Gruppe mit Akiem einen Vertrag. über die Anmietung von 15 Lokomotiven des Typs ES 64 U2, um ältere. Lokomotiven der Reihe V43 zu ersetzen. Im Gegensatz zu den MAV-eige-. nen Loks dieses Typs, sind die früher im Besitz von MRCE gestandenen. Maschinen mit ETCS ausgestattet. Sie besitzen die Zulassung für Ungarn,. Österreich, Deutschland, Rumänien, Kroatien und Serbien. Ideale Ergänzung zur 182 573-6 auf dieser Seite zur Nachbildung eines EuroCity.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500184-elektrolokomotive-182-573-6-mav-start.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265180.jpg"
+  },
+  "updatedAt": "2026-05-04T14:33:07Z"
+}

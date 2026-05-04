@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500148",
+  "manufacturer": "Roco",
+  "articleNumber": "7500148",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 289.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "E 44 509 Nn Oo — os",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 509 Nn Oo — os, DB. formvariante FREILASSING. 0B Re n> Pe ee ee EDITION. } I > Betriebszustand bis Ende der 1960er Jahre. Urspriingliche Ausfiihrung ohne Indusi-Magneten. Stromabnehmer Bauart SBS 10 - mit innovativer Befestigung. ttle, a) am . . t - . _ > Extra angesetzte Scheibenwischer. | 24 \\ \\ . — > Radsatze mit niedrigen Spurkranzen. a\\ = AL ‘ee lle an | 4\\ > Mehrfarbig gestaltete Fiihrerstandsriickwand. Photomontage > Besonders luftig gestaltete Drehgestelle - wie beim groBen. Q3/2026 Original. 7510148 raumbeleuchtung. C4ywe CR4ywe Photomontage.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500148-elektrolokomotive-e-44-509-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265594.jpg"
+  },
+  "updatedAt": "2026-05-04T14:06:23Z"
+}

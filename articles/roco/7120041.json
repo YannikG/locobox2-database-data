@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7120041",
+  "manufacturer": "Roco",
+  "articleNumber": "7120041",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 479.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "I",
+    "type": "Dampflokomotive",
+    "number": "1108",
+    "livery": "I",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Dampflokomotive, 1108, I. 241 4Erstmals mit PluX-Schnittstelle und LED-Beleuchtung. Erstmals mit eingesetzten Lampengläsern. Tiefliegendes Umlaufblech mit Radkästen. Mit feinen Speichenrädern aus Metall. Erstmals Ausführung mit markanten Zierlinien, die der S 10.1 ein. besonders edles Design verleihen. Dach in elfenbein Lackierung. Seitenflächen der Oberlichter in Wagenkastenfarbe. Schnellzugwagen 1./2. Klasse. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120041-dampflokomotive-1108-kpev.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264821.jpg"
+  },
+  "updatedAt": "2026-05-04T13:45:24Z"
+}

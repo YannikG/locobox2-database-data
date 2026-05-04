@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500122",
+  "manufacturer": "Roco",
+  "articleNumber": "7500122",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": "EU05-25 Nn nl",
+    "livery": "SBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, EU05-25 Nn nl, SBB. : formvariante. i, 2 = —————————— 1961 beschafften die PKP von Skoda in Pilsen (Tschechoslowakei) 30 vier-. | cp t || | — =. achsige Elektrolokomotiven, die als Baureihe EU05 in den Fuhrpark einge-. . bd 8 | —) a! reint wurden. Hierbei handelte es sich um eine geringfugig modifizierte Vari-. teal = ‘ad | ante der Baureihe E 499.1 der Tschechoslowakischen Staatsbahnen (CSD). e's— _— 1 > Aufwendige Lackierung und Bedruckung. f a —ew pe b. » Filigrane Ausgestaltung der Drehgestelle sowie der Speichenrader. Photomontage » Feine Metallrader mit niedrigen Spurkranzen. » Vollstandig neu entwickelte Stromabnehmer mit innovativer. 04/2026 > Im Digitalbetrieb mit schaltbarer Fiihrerstands- und Maschinen-.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500122-elektrolokomotive-eu05-25-pkp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258973.jpg"
+  },
+  "updatedAt": "2026-05-04T14:05:50Z"
+}

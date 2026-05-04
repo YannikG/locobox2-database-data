@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7540007",
+  "manufacturer": "Roco",
+  "articleNumber": "7540007",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 239.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "OBB",
+    "type": "Diesellokomotive",
+    "number": "2095.13",
+    "livery": "OBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 2095.13, OBB. Die ab 1958 beschafften Lokomotiven der Reihe 2095 bildeten Uber Jahr-. zehnte das Ruckgrat der OBB auf den dieselbetriebenen Schmalspur-. a strecken. Sie waren im Personen- und Gtiterverkehr, insbesondere im Roll-. . Se = a - a ae~ bock-/Rollwagenverkehr im Einsatz. OBB { vr Die 2095er wurden auf den Schmalspurstrecken der Ybbstalbahn, der. | | (i \\7 | Bregenzerwaldbahn, der Krimmlerbahn, der Waldvierteloahn sowie auf der. _ i sogenannten ,Krumpe“ eingeseizt. Letztere bildete die heute stillgelegte. a r ——\" Lokalbahn von Ober-Grafendorf nach Gresten. \"3 Sere aad ONS _ er > Ausfiihrung in Original-Lackierung. : i : : = ) > Feinste Details: freistehende Griffstangen, feine Lampenringe und. Ik ie ee | 5 aa ! ein durchbrochenes Liiftungsgitter am Dach. <a) \\_ 24 |: A > Modell mit erhabenen Zierleisten. Photomontage > Im Digitalbetrieb mit schaltbarem Fern- und Rangierlicht und.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7540007-diesellokomotive-209513-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265656.jpg"
+  },
+  "updatedAt": "2026-05-04T14:36:18Z"
+}

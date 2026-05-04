@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100038",
+  "manufacturer": "Roco",
+  "articleNumber": "7100038",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Dampflokomotive",
+    "number": "Ok1-37",
+    "livery": "SNCF",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 150.Y.16 der Französischen Staatseisenbahnen. Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Erstmals in schwarz/grüner Lackierung .  Variante mit Scheibenvorlaufrad .  Mit feinen Speichenrädern aus Metall .  Treib- und Kuppelstangen aus Feingussmetall .  Z21 Führerstand verfügbar In den Jahren 1943/44 wurden in der Lokomotivfabrik Société Alsacienne de Constructions Mécaniques (SACM), in Graffenstaden in der Nähe von Strassburg, über 100 Maschinen der Baureihe 52 gebaut. 1945/46 kamen noch weitere 17 Loks für die SNCF dazu. Dort wurde die 52er als 150 Y bezeichnet. Eine Besonderheit der Maschinen war der kürzere Kamin, um das französische Lichtraumprofil nicht zu überschreiten. Die 150 Y bespannten in der Region Ost der SNCF sowohl schwere Güterzüge als auch Personenzüge. Bis Ende der 1950er Jahre standen sie dort im Einsatz.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100038-dampflokomotive-150y16-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264602.jpg"
+  },
+  "updatedAt": "2026-05-04T09:52:17Z"
+}

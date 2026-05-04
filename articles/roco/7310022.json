@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310022",
+  "manufacturer": "Roco",
+  "articleNumber": "7310022",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 339.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "OBB",
+    "type": "Diesellokomotive",
+    "number": "T 466 2114",
+    "livery": "OBB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, T 466 2114, OBB. Version der 4. Bauserie. Gerippte Führerhaus-Seitenwand und geripptes Dach. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Freier Führerhaus-Durchblick. Filigrane Sicherheitsgeländer. Radsätze mit niedrigen Spurkränzen. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310022-diesellokomotive-t-466-2114-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265265.jpg"
+  },
+  "updatedAt": "2026-05-04T13:51:03Z"
+}

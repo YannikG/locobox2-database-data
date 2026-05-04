@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500157",
+  "manufacturer": "Roco",
+  "articleNumber": "7500157",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 274.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "103 233-3",
+    "livery": "DB",
+    "scale": "h0",
+    "electricSystem": "dc",
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 103 233-3, DB. Ausführung mit langem Führerstand. Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schluss-. licht, Führerstandsbeleuchtung und Maschinenraumbeleuchtung. Mitte der 1960er Jahre entstand die Baureihe E 03, die als bis dahin stärks-. te DB-Lok für schwere Reisezüge vorgesehen war. 1970–1974 wurden. 145 Serienloks in Dienst gestellt. Die letzten 30 Loks (ab 103 216) erhielten. einen vergrößerten Führerstand und wurden dadurch um 700 mm länger. Zum Ende der offiziellen Einsatzzeit entstand auf Vorschlag vieler Fans die-. ser Baureihe eine Maschine im neuen verkehrsroten Kleid mit farblich abge-. setzten Rahmen. So wie das schon bei der klassischen 103er in Rot/Beige. der Fall war. Die Firma ROCO trat als Sponsor dieser Lackierung auf. Als. Besonderheit erhielt die Maschine anläßlich der Präsentation jeweils unter. dem rechten seitlichen Führerstandsfenster einen Widmungstext.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "h0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500157-elektrolokomotive-103-233-3-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265194.jpg"
+  },
+  "updatedAt": "2026-05-04T14:06:35Z"
+}
