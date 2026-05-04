@@ -19,8 +19,9 @@ pip install -r utils/requirements.txt
 
 | Pfad | Zweck |
 |------|--------|
-| `roco/shop-pdp-parse/roco_shop_parse_pdp.py` | PDP-HTML parsen und JSON mergen; optional **`--image-url`** (z. B. vom MCP-Skript); **`--url`** nur für Reparatur/HTTP ohne Browser-Session (nicht parallel zum Chrome-MCP-Shopflow) |
+| `roco/shop-pdp-parse/roco_shop_parse_pdp.py` | PDP-HTML parsen und JSON mergen; Eingabe nur **`--html-file`** oder **`--stdin`**, optional **`--canonical-url`** und **`--image-url`** (z. B. vom MCP-Skript); kein HTTP-GET im CLI |
 | `roco/shop-pdp-parse/roco_mcp_chrome_search_import.py` | Shop-Suche + PDP in Chrome (stdio-MCP): **`--mcp-from-cursor`** liest `~/.cursor/mcp.json`; **`--no-network-image`** schaltet `list_network_requests` ab; Standard **`--isolated`** am Chrome-MCP (siehe `--help`) |
+| `roco/shop-pdp-parse/roco_catalogue_stub.py` | Artikelliste → **nur fehlende** `articles/roco/{nr}.json` als Stub (`--articles`, optional `--dry-run`, `--fail-if-nothing-created`); Duplikate in der Liste werden ignoriert; bestehende JSON werden nicht angefasst |
 
 Nach `activate` immer mit `python …` aus dem Repo-Root aufrufen, damit Pfade stimmen.
 

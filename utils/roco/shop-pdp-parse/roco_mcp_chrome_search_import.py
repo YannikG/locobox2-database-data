@@ -2,12 +2,14 @@
 """
 Roco Shop: Artikelnummern per **Chrome-DevTools-MCP** (stdio) suchen, PDP-HTML holen,
 dann ``roco_shop_parse_pdp.py`` mit ``--html-file`` + ``--canonical-url`` aufrufen.
-Nach der PDP: zuerst **``og:image`` aus dem live DOM** (``evaluate_script``, wie im Skill),
+Bei ``--merge-config`` / ``--merge-only`` wird nur ein **kompaktes** HTML (alle Spec-Tabellen + ``og:url``
++ ``og:title``) serialisiert, damit MCP die LüP-Tabelle nicht abschneidet und du bei erweiterter
+``mergeOnly``-Liste (z. B. ``model.type``) den Titel parsen kannst.
+Nach der PDP: zuerst **``og:image`` aus dem live DOM** (``evaluate_script``),
 sonst **MCP list_network_requests** (Typ ``image``, Katalogpfade). Ergebnis als ``--image-url``
 an den Parser. Netzwerkteil abschalten: ``--no-network-image`` (DOM bleibt aktiv).
 
-Damit kannst du den Ablauf aus ``.agents/skills/roco-chrome-search-import/SKILL.md`` **ohne**
-LLM-Token automatisieren. Voraussetzung: [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+Damit automatisierst du Suche, PDP und Parser-Aufruf **ohne** LLM-Token. Voraussetzung: [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 und ein **selbst gestarteter** Chrome-DevTools-MCP-Server (dieselbe ``command``/``args`` wie in
 Cursor, aber als **eigener** Subprozess; die laufende Cursor-Session wird nicht angebunden).
 
@@ -33,6 +35,16 @@ Aufruf (Repo-Root), Konfig wie in Cursor (ohne Extra-Datei)::
       --articles artikel.txt \\
       --mcp-from-cursor \\
       --start-url \"https://www.roco.cc/\"
+
+Nur Spec-Felder (LüP, Mindestradius, Stromsystem, …) überschreiben::
+
+    python3 utils/roco/shop-pdp-parse/roco_mcp_chrome_search_import.py \\
+      --articles artikel.txt \\
+      --mcp-from-cursor \\
+      --merge-config utils/roco/shop-pdp-parse/merge-pdp-specs-fields.json
+
+Typ/Nummer/Betreiber aus ``og:title`` mit derselben Logik wie der Parser: eigene JSON mit erweiterter
+``mergeOnly`` (siehe ``merge-pdp-specs-with-title-model.json``) oder bestehende Datei anpassen.
 """
 
 from __future__ import annotations
@@ -141,6 +153,40 @@ def _tool_text(result: Any) -> str:
         if t == "text":
             parts.append(getattr(block, "text", "") or "")
     return "\n".join(parts).strip()
+
+
+def _mcp_evaluate_script_return_text(raw: str) -> str:
+    """
+    Chrome-DevTools-MCP formatiert ``evaluate_script`` oft als Fliesstext plus
+    ``Script ran on page … returned:`` und Markdown-Codeblock. Ohne diese
+    Entpackung landet der Präfix im ``--html-file`` und der Parser findet keine
+    Tabellen (LüP bleibt leer).
+    """
+    t = (raw or "").strip()
+    if "Script ran on page" in t:
+        rest = t.split("Script ran on page", 1)[-1].strip()
+        if "returned:" in rest.lower():
+            t = rest.split("returned:", 1)[-1].strip()
+        else:
+            t = rest
+    m_fence = re.search(r"```(?:json|html)?\s*\n?(.*?)```", t, re.S | re.I)
+    if m_fence:
+        inner = m_fence.group(1).strip()
+        try:
+            out = json.loads(inner)
+            if isinstance(out, str):
+                return out
+        except json.JSONDecodeError:
+            pass
+        return inner
+    if len(t) >= 2 and t[0] == '"' and t[-1] == '"':
+        try:
+            out = json.loads(t)
+            if isinstance(out, str):
+                return out
+        except json.JSONDecodeError:
+            pass
+    return t
 
 
 def _tool_content_dump(result: Any) -> str:
@@ -328,6 +374,36 @@ def _js_outer_html() -> str:
     return "() => document.documentElement.outerHTML"
 
 
+def _js_compact_pdp_html() -> str:
+    """
+    Kleines Dokument mit ``og:url``, ``og:title`` (Meta oder ``document.title``) und allen
+    ``table#product-attribute-specs-table``. Für selektiven Merge inkl. Titel-Felder nötig.
+    """
+    return """() => {
+  const esc = (s) => String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+  const href = String(location.href || '').split('#')[0];
+  let head = '<meta property="og:url" content="' + esc(href) + '" />';
+  const ogTitleEl = document.querySelector('meta[property="og:title"]');
+  const titleC = ogTitleEl && ogTitleEl.getAttribute('content');
+  if (titleC && String(titleC).trim()) {
+    head += '<meta property="og:title" content="' + esc(String(titleC).trim()) + '" />';
+  } else {
+    const dt = document.title;
+    if (dt && String(dt).trim()) {
+      head += '<meta property="og:title" content="' + esc(String(dt).trim()) + '" />';
+    }
+  }
+  const tables = Array.from(document.querySelectorAll('table#product-attribute-specs-table'))
+    .map((t) => t.outerHTML)
+    .join('');
+  return '<!DOCTYPE html><html><head>' + head + '</head><body>' + tables + '</body></html>';
+}"""
+
+
 def _js_location_href() -> str:
     return "() => location.href"
 
@@ -440,6 +516,8 @@ async def _run_mcp_import(
     notes: str,
     dry_run: bool,
     use_network_image: bool,
+    merge_config: Optional[Path],
+    merge_only: Optional[list[str]],
 ) -> tuple[int, int]:
     if sys.version_info < (3, 10):
         print(
@@ -588,14 +666,66 @@ async def _run_mcp_import(
                         await asyncio.sleep(max(0.3, min(1.5, delay_s * 0.5)))
                         image_url_override = await _mcp_catalog_image_from_network(session, art)
 
-                    html_ev = await session.call_tool(
-                        "evaluate_script",
-                        {"function": _js_outer_html()},
-                    )
-                    _tool_raise("evaluate_script", html_ev)
-                    html = _tool_text(html_ev)
-                    if not html or len(html) < 500:
-                        print(f"error: {art}: HTML leer oder zu kurz", file=sys.stderr)
+                    use_compact_html = merge_config is not None or bool(merge_only)
+                    if use_compact_html:
+                        try:
+                            wf_spec = await session.call_tool(
+                                "wait_for",
+                                {
+                                    "text": [
+                                        "Länge über Puffer",
+                                        "Mindestradius",
+                                        "Abmessungen",
+                                    ],
+                                    "timeout": 15000,
+                                },
+                            )
+                            if getattr(wf_spec, "isError", False):
+                                print(
+                                    f"warning: {art}: wait_for Spec-Tabelle: {_tool_text(wf_spec)}",
+                                    file=sys.stderr,
+                                )
+                        except Exception as ex:
+                            print(f"warning: {art}: wait_for Spec-Tabelle: {ex}", file=sys.stderr)
+                        html_ev = await session.call_tool(
+                            "evaluate_script",
+                            {"function": _js_compact_pdp_html()},
+                        )
+                        _tool_raise("evaluate_script", html_ev)
+                        html = _mcp_evaluate_script_return_text(_tool_text(html_ev))
+                        if (
+                            not html
+                            or "product-attribute-specs-table" not in html
+                            or len(html) < 80
+                        ):
+                            print(
+                                f"warning: {art}: compactes Spec-HTML unzureichend, "
+                                "Fallback auf documentElement.outerHTML",
+                                file=sys.stderr,
+                            )
+                            html_ev = await session.call_tool(
+                                "evaluate_script",
+                                {"function": _js_outer_html()},
+                            )
+                            _tool_raise("evaluate_script", html_ev)
+                            html = _mcp_evaluate_script_return_text(_tool_text(html_ev))
+                    else:
+                        html_ev = await session.call_tool(
+                            "evaluate_script",
+                            {"function": _js_outer_html()},
+                        )
+                        _tool_raise("evaluate_script", html_ev)
+                        html = _mcp_evaluate_script_return_text(_tool_text(html_ev))
+                    if not html:
+                        print(f"error: {art}: HTML leer", file=sys.stderr)
+                        fail += 1
+                        continue
+                    if not use_compact_html and len(html) < 500:
+                        print(f"error: {art}: HTML zu kurz (volle Seite)", file=sys.stderr)
+                        fail += 1
+                        continue
+                    if use_compact_html and len(html) < 80:
+                        print(f"error: {art}: HTML zu kurz (auch nach Fallback)", file=sys.stderr)
                         fail += 1
                         continue
 
@@ -623,6 +753,12 @@ async def _run_mcp_import(
                     ]
                     if image_url_override:
                         pargs.extend(["--image-url", image_url_override])
+                    if merge_config is not None:
+                        pargs.extend(["--merge-config", str(merge_config)])
+                    if merge_only:
+                        for chunk in merge_only:
+                            if str(chunk).strip():
+                                pargs.extend(["--merge-only", str(chunk).strip()])
                     if write:
                         pargs.extend(["--write", "--quiet"])
                     try:
@@ -727,6 +863,23 @@ def main() -> int:
         action="store_true",
         help="Kein list_network_requests; ``og:image`` wird weiterhin per DOM-Script gelesen.",
     )
+    ap.add_argument(
+        "--merge-config",
+        type=Path,
+        default=None,
+        metavar="PATH",
+        help="An roco_shop_parse_pdp.py weitergeben (nur mit --write). Relativ zum Repo-Root oder absolut.",
+    )
+    ap.add_argument(
+        "--merge-only",
+        action="append",
+        default=None,
+        metavar="KEYS",
+        help=(
+            "An roco_shop_parse_pdp.py weitergeben (mehrfach erlaubt; nur mit --write). "
+            "Siehe dort --help."
+        ),
+    )
     args = ap.parse_args()
 
     mcp_extra_env: Optional[dict[str, str]] = None
@@ -757,6 +910,18 @@ def main() -> int:
         print("error: keine gültigen Artikelnummern in --articles", file=sys.stderr)
         return 2
 
+    merge_cfg = args.merge_config.expanduser().resolve() if args.merge_config else None
+    if merge_cfg is not None and not merge_cfg.is_file():
+        print(f"error: --merge-config nicht gefunden: {merge_cfg}", file=sys.stderr)
+        return 2
+    if (merge_cfg is not None or args.merge_only) and (args.no_write or args.dry_run):
+        print(
+            "error: --merge-config / --merge-only nur zusammen mit echtem --write "
+            "(ohne --dry-run und ohne --no-write).",
+            file=sys.stderr,
+        )
+        return 2
+
     _ok, fail = asyncio.run(
         _run_mcp_import(
             mcp_argv=mcp_argv,
@@ -769,6 +934,8 @@ def main() -> int:
             notes=args.notes,
             dry_run=args.dry_run,
             use_network_image=not args.no_network_image,
+            merge_config=merge_cfg,
+            merge_only=args.merge_only,
         )
     )
     return 1 if fail else 0
