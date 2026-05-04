@@ -11,14 +11,15 @@
   "model": {
     "country": null,
     "operator": "CSD",
-    "type": null,
+    "type": "477 008",
     "number": null,
     "livery": null,
     "scale": "h0",
-    "electricSystem": "AC",
+    "electricSystem": "ac",
     "era": "III",
     "luepMm": 199,
-    "minRadiusMm": 358
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Teile des Modells aus Metall hergestellt Markante blaue Lackierung mit weißen Zierelementen Freier Durchblick zwischen Kessel und Rahmen Im Digitalbetrieb mit schaltbarer Triebwerks- und Führerstandsbeleuchtung In der Digitalausführung mit dynamischen Dampfausstoß aus dem Schornstein formvarianteformvariante update",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/261639.jpg"
   },
-  "updatedAt": "2026-05-04T13:44:49Z"
+  "updatedAt": "2026-05-04T17:24:43Z"
 }

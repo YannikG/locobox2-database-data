@@ -10,14 +10,14 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
+    "operator": "DB-AG",
     "type": null,
     "number": null,
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
+    "electricSystem": "ac",
     "era": "VI",
-    "luepMm": null,
+    "luepMm": 308,
     "minRadiusMm": null
   },
   "description": "Doppelstockwagen 2. Klasse, Gattung DBpza, der Deutschen Bahn. Zwischenwagen im Digitalbetrieb erstmals mit schaltbarer Innenbeleuchtung .  Mit vorbildgerechter und farblich authentischer Innenbeleuchtung .  Wagen mit perfekt auf das Modell angepasster LED-Innenbeleuchtung für eine optimale Ausleuchtung .  Ideale Ergänzung zum Set Art.-Nr. 6220250 .  Die Inneneinrichtung entspricht den bisher bekannten Ausführungen .  Wechselstromversion",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266569.jpg"
   },
-  "updatedAt": "2026-05-04T09:43:03Z"
+  "updatedAt": "2026-05-04T17:19:06Z"
 }

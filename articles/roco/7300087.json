@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "AT",
-    "operator": "OBB",
-    "type": "Diesellokomotive",
-    "number": "2016 015-7",
+    "operator": "ÖBB",
+    "type": "2016",
+    "number": "015-7",
     "livery": "OBB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, 2016 015-7, OBB. Version der 4. Bauserie. Gerippte Führerhaus-Seitenwand und geripptes Dach. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Freier Führerhaus-Durchblick. Filigrane Sicherheitsgeländer. Radsätze mit niedrigen Spurkränzen. formvarianteformvariante update.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264630.jpg"
   },
-  "updatedAt": "2026-05-04T13:48:03Z"
+  "updatedAt": "2026-05-04T17:27:18Z"
 }

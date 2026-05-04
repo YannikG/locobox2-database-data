@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Diesellokomotive",
-    "number": "120 144-1 Um den Traktionswechsel zu beschleunigen, beschaffte die Deutsche",
+    "type": "120",
+    "number": "144-1",
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 202,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, 120 144-1 Um den Traktionswechsel zu beschleunigen, beschaffte die Deutsche, DR. Reichsbahn (DR) von 1966 bis 1975 aus der Sowjetunion insgesamt 378. a Lokomotiven der Baureihe V 200 (spater BR 120). Da den Lokomotiven ab. Werk eine Zugheizung fehlte, wurden sie Uberwiegend im Guterzugverkehr. DR eingesetzt. Spater wurden auch Schalldampfer erganzt, um den Larmpegel. ae. * — te. — der Motoren einzudammen. Aufgrund des lauten Motorgerausches burgerte. \" | “ ———-. a - sich fur die Lokomotiven schnell der Name ,,Taigatrommel\" ein. wa ; > Ausfiihrung mit Originalschalldampfer und breitem Dessauer. . eos Zierstreifen. et = > ry —- > Vollstandige Bremsluftleitungen mit vollstandig ausgebildeten. (AEF rll ES i eM crore ecu § Luftbehaltern. SB a el 6 sn a dhs > Beheimatung Rbd Dresden, Bw Dresden. Photomontage > Maschinenraum erstmals mehrfarbig bedruckt. Q2/2026 > Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Fiihrer-.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265325.jpg"
   },
-  "updatedAt": "2026-05-04T13:49:22Z"
+  "updatedAt": "2026-05-04T17:28:16Z"
 }

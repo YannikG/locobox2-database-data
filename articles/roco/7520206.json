@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
-    "number": "189 095-3",
+    "operator": "DB AG",
+    "type": "189",
+    "number": "095-3",
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 189 095-3, DB. Einsatz im grenzüberschreitenden Verkehr Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht Kupplung der Bauart AK69e beiliegend Spitzenlicht mit kaltweißen Leuchtdioden (LED) Neuer originalgetreuer Sound Elektrolokomotive 189 031-8 Elektrolokomotive 189 095-3",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265952.jpg"
   },
-  "updatedAt": "2026-05-04T14:25:30Z"
+  "updatedAt": "2026-05-04T17:54:16Z"
 }

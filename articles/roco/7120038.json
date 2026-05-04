@@ -11,18 +11,20 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Dampflokomotive",
-    "number": "Ok1-37",
+    "type": "150.Y.16",
+    "number": null,
     "livery": "SNCF",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "III",
+    "luepMm": 265,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, Ok1-37, SNCF. Erstmals in schwarz/grüner Lackierung. Variante mit Scheibenvorlaufrad. Mit feinen Speichenrädern aus Metall. Treib- und Kuppelstangen aus Feingussmetall. Besonders markante Ausführung mit Zierlinien unter anderem. auf den Windleitblechen oder dem Umlauf. DCC-Modell erstmals nur mit Sound ausgerüstet, ohne. dynamischen Dampf. Im Digitalbetrieb mit schaltbarer Führerstands- und Triebwerks-.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264607.jpg"
   },
-  "updatedAt": "2026-05-04T13:45:01Z"
+  "updatedAt": "2026-05-04T17:24:51Z"
 }

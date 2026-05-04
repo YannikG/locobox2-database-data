@@ -10,15 +10,16 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": null,
-    "number": null,
+    "operator": "DB AG",
+    "type": "101",
+    "number": "091-7",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V",
+    "luepMm": 220,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Elektrolokomotive 101 091-7 Einmalige und streng limitierte Aufl age im aufwendigen \"Bayer\"-Werbedesign Erstes Modell der \"ROCO COLLECTOR´S EDITION\" Reihe Freistehende Griffstangen und Scheibenwischer, teilweise aus Metall Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267799.jpg"
   },
-  "updatedAt": "2026-05-04T14:18:53Z"
+  "updatedAt": "2026-05-04T17:49:27Z"
 }

@@ -11,18 +11,20 @@
   "model": {
     "country": "PL",
     "operator": "PKP",
-    "type": "Dampflokomotive",
-    "number": "Ok1-37",
+    "type": "Ok1-37",
+    "number": null,
     "livery": "PKP",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "IV",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 214,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Dampflokomotive Ok1-37 der Polnischen Staatsbahnen. Edition-Modell! .  Besonders markante Ausführung mit Zierlinien unter anderem auf den Windleitblechen oder dem Umlauf .  Fein detailliertes Modell mit vielen separat angesetzten Steckteilen .  Räder mit feinen Speichen .  Führerstands- und Triebwerksbeleuchtung eingebaut; im Digitalbetrieb schaltbar Für die gestiegenen Anforderungen im Personenzug- und Schnellzugverkehr entwickelte die Preussische Staatsbahn die Personenzuglokomotive der Gattung P 8. Von dieser vielfach verwendbaren dreifach gekuppelten Maschine wurden allein von deutschen Fabriken bis 1923 über 3.700 Exemplare gebaut. Die P 8 war universell einsetzbar und man konnte sie vor allen Zugarten finden. Nach den Wirren der beiden Weltkriege waren sie nahezu bei allen europäischen Bahnverwaltungen im Einsatz. Aus preussischen Beständen erhielt Polen nach 1918 insgesamt 192 Maschinen. Für die PKP waren sie von Anfang an die wichtigsten Dampflokomotiven für den lokalen Personenverkehr und waren als Baureihe Ok1 gekennzeichnet. Im Laufe der Jahre wurden bei der PKP 429 Lokomotiven dieser Baureihe eingesetzt.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265694.jpg"
   },
-  "updatedAt": "2026-05-04T09:57:32Z"
+  "updatedAt": "2026-05-04T17:22:31Z"
 }

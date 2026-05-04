@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "AT",
-    "operator": "OBB",
-    "type": "Elektrolokomotive",
-    "number": "Rh 1144 ,,Valousek Edition“",
+    "operator": "ÖBB",
+    "type": "Rh 1144 „Valousek-Edition“",
+    "number": null,
     "livery": "OBB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V",
+    "luepMm": 185,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, Rh 1144 ,,Valousek Edition“, OBB. Nad bem BS, Rea, > Einmalige Auflage exklusiv bei ROCO erhaltlich. Waa See ioe pce ™ > Mit vielen separat angesetzten Steckteilen, teilweise in Atztechnik ausgefiihrt. Brac To, Pali ee > Filigrane Stromabnehmer. oR, ‘ ; EE ntwiirfen fen im > Einsatz vor Personen- und Giiterziigen innerhalb Osterreichs und. Are tae nach Deutschland. Nach « zeugen bekam er den > Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. eet Aue tiven uF ender OBB zu schaffen. — awpasaasener und Fiihrerstandsbeleuchtung. eae mia mi aan eases oe at ; Sid ie aagialtet. > Alle Artikel entstehen in Kooperation mit Wolfgang Valousek. Neben den bekannten Designs entstanden nat PE fe, di : umgesetzt wurden. Als. Od Ps Homi rage | in Wolfgang Valousek prasentieren wir Ihnen diese besondere Lackierungsvariante eines. a EJ Fa vs Coe er . ee? i aaa aes %y »Wenn ich etwas Neues machte, sind immer gleich die Wogen hochgekommen. Ich habe. 04/2026 $ , si sia aaa ly = _—— —_ damals ja mehrere Farbvorschlage gemacht, aber man hat sich nicht drulber getraut. Nur ja nicht. . 7500163 DC 4 auffallen. Aber nachdem es jetzt fast nur mehr rote Loks gibt, freut man sich auf eine neue Farbe.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264612.jpg"
   },
-  "updatedAt": "2026-05-04T14:12:26Z"
+  "updatedAt": "2026-05-04T17:44:48Z"
 }

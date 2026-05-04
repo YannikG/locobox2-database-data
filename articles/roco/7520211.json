@@ -10,15 +10,16 @@
   },
   "model": {
     "country": "CH",
-    "operator": "SBB",
-    "type": null,
-    "number": null,
+    "operator": "NRFAB",
+    "type": "Re 620",
+    "number": "052-4",
     "livery": "SBB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 222,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Das Lokvermietungsunternehmen Nordic Re-Finance übernimmt einen Teil. des ehemaligen Re 620-Fuhrparks der SBB Cargo. Mit der Re 620 052. ist im Jahr 2025 eine erste Maschine nach Schweden überführt worden. Als Hommage an die Schweiz, trägt die Lokomotive eine alpenländische. Aufwendig bedrucktes Modell. Eingesetzte, filigrane Ätzteile wie Lüftungsgitter und Scheiben-. Eckige Lampen. Feine Speichenräder und Stromabnehmer. Aufwendige Lackierung und Bedruckung. Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder. Feine Metallräder mit niedrigen Spurkränzen. Vollständig neu entwickelte Stromabnehmer mit innovativer.",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266741.jpg"
   },
-  "updatedAt": "2026-05-04T14:26:04Z"
+  "updatedAt": "2026-05-04T17:54:41Z"
 }

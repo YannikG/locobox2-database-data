@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "AT",
-    "operator": "KKSTB/BBÖ",
-    "type": "Dampflokomotive",
-    "number": "85.13",
+    "operator": "kkStB",
+    "type": "85",
+    "number": "13",
     "livery": "Dampflokomotive 85.13",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "I",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 79,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Dampflokomotive 85.13 der kaiserlich-königlichen österreichischen Staatsbahnen. Aufwendige Bedruckung mit feinen Zierlinien .  Detaillierte Ausführung der Steuerung .  Modell mit vielen separat angesetzten Steckteilen Als die wichtigsten Eisenbahnstrecken im Wesentlichen ausgebaut waren und der Vorteil der erschlossenen Wirtschaftsgebiete sichtbar wurde, zeigte sich ein Zurückbleiben abgelegener Landstriche. Man ging daran diese Gebiete durch den Bau von „Secundärbahnen“ zu erschliessen. Mit dem Bau der einfach gehaltenen Lokalbahnen konnten unzählige Städtchen und Dörfer mit der grossen, weiten Welt verbunden werden.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265166.jpg"
   },
-  "updatedAt": "2026-05-04T09:57:07Z"
+  "updatedAt": "2026-05-04T17:22:14Z"
 }

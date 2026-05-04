@@ -11,18 +11,20 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Diesellokomotive",
-    "number": "CC 72052",
+    "type": "CC 72052",
+    "number": null,
     "livery": "SNCF",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "IV",
+    "luepMm": 232,
+    "minRadiusMm": 419,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, CC 72052, SNCF. Mit digitaler Rangierkupplung für mehr Spielspaß. Motorvorbau und Getriebeblock aus Zinkdruckguss, daher mehr. Eigengewicht und hohe Zugkraft. Vorbildgerechte Licht- und Soundfunktionen mittels Onboard-. decoder schaltbar. Freier Durchblick durch den nachgebildeten Führerstand. Mit Pufferkondensator für unterbrechungsfreie Stromversorgung. Im Juli 1977 rollte aus dem Werk der Firma Moyse die Rangierlok (in Frank-. reich Locotracteur genannt) Y 8001 als erster Vertreter einer 525 Einheiten. umfassenden Serie für die Rangieraufgaben in den Bahnhöfen, Rangier -. bahnhöfen, Baustellen und Werkstätten der SNCF. Stärker und länger als. seine Vorgänger konnten diese auch bestimmte Loks für die Zustellung. leichter Güterzüge auf der Strecke ersetzen.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265622.jpg"
   },
-  "updatedAt": "2026-05-04T13:57:21Z"
+  "updatedAt": "2026-05-04T17:34:13Z"
 }

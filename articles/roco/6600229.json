@@ -17,12 +17,13 @@
     "scale": "h0",
     "electricSystem": "dc",
     "era": "III",
-    "luepMm": null,
+    "luepMm": 328,
     "minRadiusMm": null
   },
   "description": "Wagenset mit drei Güterwagen der Italienischen Staatseisenbahnen. Bestehend aus einem Kesselwagen, einem Weinkesselwagen, Gattung Mv und einem Spitzdachwagen, Gattung FF.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264645.jpg"
   },
-  "updatedAt": "2026-05-04T09:43:25Z"
+  "updatedAt": "2026-05-04T17:19:23Z"
 }

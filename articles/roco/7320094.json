@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Diesellokomotive",
-    "number": "234 399-4",
+    "operator": "DB AG",
+    "type": "234",
+    "number": "399-4",
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "IV-VI",
+    "luepMm": 237,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, 234 399-4, DB. Mitte der 1960er Jahre entstand die Baureihe E 03, die als bis dahin stärkste DB-Lok für schwere Reisezüge vorgesehen war. 1970–1974 wurden 145 Serienloks in Dienst gestellt. Die letzten 30 Loks (ab 103 216) erhielten einen vergrößerten Führerstand und wurden dadurch um 700 mm länger. Zum Ende der offiziellen Einsatzzeit entstand auf Vorschlag vieler Fans dieser Baureihe eine Maschine im neuen verkehrsroten Kleid mit farblich abgesetzten Rahmen. So wie das schon bei der klassischen 103er in Rot/Beige der Fall war. Die Firma ROCO trat als Sponsor dieser Lackierung auf. Als Besonderheit erhielt die Maschine anläßlich der Präsentation jeweils unter dem rechten seitlichen Führerstandsfenster einen Widmungstext. Variante in DR-Lackierung mit DB AG-Logo Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265191.jpg"
   },
-  "updatedAt": "2026-05-04T13:56:49Z"
+  "updatedAt": "2026-05-04T17:33:48Z"
 }

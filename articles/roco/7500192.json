@@ -11,18 +11,20 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "Elektrolokomotive",
-    "number": "n",
+    "type": "193",
+    "number": "934-7",
     "livery": "NS",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, n, NS. Die Vectron 193 934 wurde im März 2023 an ELL – European Locomotive Leasing ausgeliefert. Nach einer kurzen Vermietung an Unternehmen wie Flixtrain wurde die Lokomotive im Septem-. ber 2023 an NS International vermietet und in der Lackierung von NS International für die Züge. zwischen dem Amsterdamer Hauptbahnhof und Berlin sowie für die Nachtzüge vom Amsterda-. mer Hauptbahnhof nach Wien, München, Innsbruck, Basel und Zürich in Betrieb genommen. So. kommen die NS-Vectron auch vor den Nightjet-Zügen der neuen Generation zum Einsatz. Ausführung der blauen Zierlinie bis zur Türunterkante. ELL-Vectron vermietet an die NS. Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Einsatz im internationalen Verkehr. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265576.jpg"
   },
-  "updatedAt": "2026-05-04T14:34:26Z"
+  "updatedAt": "2026-05-04T17:40:01Z"
 }

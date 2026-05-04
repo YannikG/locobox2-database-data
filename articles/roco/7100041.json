@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "I",
-    "type": "Dampflokomotive",
+    "operator": "K.P.E.V.",
+    "type": "S 10.1",
     "number": "1108",
-    "livery": "I",
+    "livery": null,
     "scale": "h0",
     "electricSystem": "dc",
     "era": "I",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 241,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Dampflokomotive 1108 (Baureihe S 10.1) der Königlich Preussischen Eisenbahn-Verwaltung. Update! .  Erstmals mit PluX-Schnittstelle und LED-Beleuchtung .  Erstmals mit eingesetzten Lampengläsern .  Tiefliegendes Umlaufblech mit Radkästen .  Erstmals Ausführung mit markanten Zierlinien, die der S 10.1 ein besonders edles Design verleihen .  Mit feinen Speichenrädern aus Metall Noch während des Produktionsanlaufs der S 10 wurde bei Henschel der Bau einer Verbundlokomotive in Auftrag gegeben. Von ihr versprach man sich einen geringeren Kohleverbrauch. Die als S 10.1 bezeichnete Lokomotive basierte nicht auf der S 10, sondern war eine Neukonstruktion. Das Vierzylinderverbundtriebwerk war von der Bauart De Glehn, d.h. die weit zurückgesetzten Aussenzylinder wirkten auf die zweite Kuppelachse und die Innenzylinder auf die erste. Die Lokomotiven waren grösser und leistungsfähiger als die S 10 und dank des Verbundtriebwerks auch sparsamer. Zwischen 1911 und 1914 wurden in zwei verschiedenen Bauserien 135 Exemplare für Preussen und 17 für Elsass-Lothringen hergestellt.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264819.jpg"
   },
-  "updatedAt": "2026-05-04T09:53:27Z"
+  "updatedAt": "2026-05-04T17:21:26Z"
 }

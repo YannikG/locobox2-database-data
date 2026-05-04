@@ -10,19 +10,20 @@
   },
   "model": {
     "country": "SK",
-    "operator": "ZSSK",
-    "type": "Diesellokomotive",
-    "number": "„Sik“",
+    "operator": "VolkerRail",
+    "type": "„Sik“",
+    "number": null,
     "livery": "ZSSK",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 83,
+    "minRadiusMm": 358
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, „Sik“, ZSSK. Die Niederländische Staatsbahn beschaffte die 2-achsigen Verschub-Die-. sellokomotiven in den Jahren 1934 bis 1951 beim Hersteller Werkspoor,. eine Lieferserie auch bei CW Zwolle. Insgesamt wurden 169 Stück in eini-. gen Serien und etwas unterschiedlicher Ausführung gebaut. Aufgrund ihres. markanten Auspuff-Geräusches sind sie als „Sikken“ bzw. „Sik“ – singular. für „Ziege“ – zum Begriff bei Eisenbahnern und Eisenbahnfreunden ge-. Die sogenannte Taucherbrille oder Brillenschlange wurde bei CKD in Prag. entwickelt und gebaut. Die aus dem Vorgängertyp T 478.3 weiterentwickel-. te T 478.4 erhielt einen stärkeren Motor und eine elektrische Zugheizan-. lage. 1988 erhielten die 86 Maschinen die neue Reihenbezeichnung 754. Die Lokomotive 754 083 wurde im Mai 1980 als T 478.4083 an die CSD. geliefert. Im Zuge der Aufteilung des Fuhrparks am 1. Janu.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254994.jpg"
   },
-  "updatedAt": "2026-05-04T13:55:30Z"
+  "updatedAt": "2026-05-04T17:32:51Z"
 }

@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "IV",
-    "type": "Diesellokomotive",
-    "number": "T 478 2079",
+    "operator": "CSD",
+    "type": "T 478 2079",
+    "number": null,
     "livery": "IV",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 190,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Diesellokomotive T 478 2079 Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur Fein detailliertes Modell mit vielen separat angesetzten Steckteilen Bedruckte Wappen als Ätzteil beiliegend",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265215.jpg"
   },
-  "updatedAt": "2026-05-04T13:48:36Z"
+  "updatedAt": "2026-05-04T17:27:43Z"
 }

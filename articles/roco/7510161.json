@@ -11,14 +11,15 @@
   "model": {
     "country": "NL",
     "operator": "Railpool",
-    "type": null,
-    "number": null,
+    "type": "186",
+    "number": "251-5",
     "livery": null,
     "scale": "h0",
-    "electricSystem": "DCC",
+    "electricSystem": "dc",
     "era": "VI",
     "luepMm": 217,
-    "minRadiusMm": 358
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Ausführung im Betriebszustand von 2011 bis 2018 Mit silberner Railpool Aufschrift und roten UIC-Dosen Einsatz im Vorbild bei vielen Unternehmen wie RTC, Lokomotion Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Elektrolokomotive 186 251-5 Das Unternehmen Railpool profi tierte bereits 2009 davon, dass Angel Trains für ihre frische Flotte der 186 101 – 110 keine Verwendung fand und so durch die Railpool übernommen werden konnte. Die anfänglich als D-ACH-I Variante vorgesehenen Loks, erhielten zusätzlich das Länderpaket für die Niederlande. Die ebenfalls durch ATC bestellte 186 251 welche für die Länder D-A-PL vorgesehen und ab 2008 erste Versuchsfahrten unternahm, konnte 2011 auch an die Railpool verkauft werden. Alle elf Maschinen wurden nie durch die Angel Trains abgenommen und dienten vorderhand als Testlokomotiven ehe sie später an Railpool vermittelt wurden. Die Maschinen legten einen wichtigen Grundstein für die Zulassungsfahrten in den",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264585.jpg"
   },
-  "updatedAt": "2026-05-04T14:12:15Z"
+  "updatedAt": "2026-05-04T17:44:40Z"
 }

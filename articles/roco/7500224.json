@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
-    "number": "101 091-7",
+    "operator": "DB AG",
+    "type": "101",
+    "number": "091-7",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V",
+    "luepMm": 220,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 101 091-7, DB. aiid fi \\ ee: ON H r eof ee - a. wie? = wwwebayer.de | kK D cya \\. Potmeniage | EX<CLUNIV. ROCO COLLECTOR'S EDITION — Ikonen der Eisenbahngeschichte im exklusiven Sammlerformat. > Einmalige und streng limitierte Auflage im aufwendigen \"Bayer\"-Werbedesign. Mit der neuen COLLECTOR'S EDITION lasst ROCO legendare Lokomotiven in HO neu aufleben. —_) Erstes Modell der \"ROCO COLLECTOR'S EDITION\" Reihe. Jedes Modell erscheint in streng limitierter Auflage von nur 995 Exemplaren — detailreich umge-_y Ereistehende Griffstangen und Scheibenwischer, teilweise aus Metall. setzt, technisch auf dem neuesten Stand und perfekt abgestimmt auf das umfangreiche ROCO- Im Digitalbetrieb mit schalth Fernlicht und einzeln schaltb Spitz. Wagensortiment. Den Auftakt macht die eindrucksvolle 101 091-7 im Dach-Marken-Design > Im Digitalbe re mi sena arem Ferniicht und einzein scnaltbarem spiizen-. von Bayer. Jedes Modell der COLLECTOR'S EDITION wird in einer hochwertigen Verpackung mit oder Schlusslicht und Fiihrerstandsbeleuchtung. exklusivem Schuber geliefert und enthalt ein nummeriertes Echtheitszertifikat. Damit entsteht ein. einzigartiges Sammlerstiick, das Eisenbahn- und Werbegeschichte im MaBstab HO eindrucksvoll. | 86 | www.roco.cc.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267798.jpg"
   },
-  "updatedAt": "2026-05-04T14:10:22Z"
+  "updatedAt": "2026-05-04T17:43:17Z"
 }

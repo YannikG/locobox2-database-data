@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "IV",
-    "type": "Elektrolokomotive",
-    "number": "121 046-7",
+    "operator": "CD",
+    "type": "121",
+    "number": "046-7",
     "livery": "IV",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V",
+    "luepMm": 186,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 121 046-7, IV. Anfang der 1960er Jahre bestand bei den ehemaligen Tschechoslowaki-. schen Staatsbahnen (CSD) ein Bedarf an neuen, leistungsfähigen Güter -. zug-Elektrolokomotiven für das 3-kV-Gleichstromsystem im Norden und. Osten des Landes. Als Prototyp, wurde eine Maschine der in Bau befindli-. chen Reihe E 499.1 für den Güterzugdienst adaptiert. Bei einer Dauerleis-. tung von 2.032 kW erreichten sie eine Höchstgeschwindigkeit von 90 km/h. Insgesamt wurden von Skoda 85 Lokomotiven der Reihe E 469.1 an die. Tschechoslowakischen Staatsbahnen geliefert.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259092.jpg"
   },
-  "updatedAt": "2026-05-04T14:06:01Z"
+  "updatedAt": "2026-05-04T17:35:44Z"
 }

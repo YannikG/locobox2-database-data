@@ -11,14 +11,15 @@
   "model": {
     "country": "SK",
     "operator": "ZSSK",
-    "type": null,
-    "number": null,
+    "type": "263",
+    "number": "010-1",
     "livery": "ZSSK",
     "scale": "h0",
-    "electricSystem": "ac",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "dc",
+    "era": "V-VI",
+    "luepMm": 193,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Elektrolokomotive 263 010-1 Ausführung für Wechselstromnetz Stromabnehmer mit innovativer Befestigung Kurze Handläufe unter den Stirnfenstern Aufwendige Gestaltung der Lüfterlamellen mit freiem Durchblick Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder Mit beiliegenden Bahnräumern und Luftkesseln in geschlossener Form zur vorbildgetreuen Vitrinendarstellung Zur Erneuerung des Fuhrparks der CSD entwickelte Skoda ab der zweiten Hälfte der 1970er Jahre die 2. Generation von Universal-Elektrolokomotiven. Daraus stammt die Reihe S 499.2. Der Buchstabe „S“ steht dabei für Wechselstrom. Die beiden Prototyp-Lokomotiven wurden 1984 geliefert und gründlich erprobt. Bei einer Stundenleistung von 3.060 kW wird eine Höchstgeschwindigkeit von 120 km/h erreicht. Die Serienlieferung von zehn Loks erfolgte 1988 mit der neuen Reihenbezeichnung 263. Die Serienlokomotiven sind im Besitz der ZSSK, sie sind in Bratislava beheimatet und bedienen in der Regel die Strecke Bratislava – Breclav.",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265332.jpg"
   },
-  "updatedAt": "2026-05-04T14:16:27Z"
+  "updatedAt": "2026-05-04T17:47:40Z"
 }

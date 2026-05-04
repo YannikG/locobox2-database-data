@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
-    "number": "140 423-5",
+    "operator": "DB AG",
+    "type": "140",
+    "number": "423-5",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V",
+    "luepMm": 190,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 140 423-5, DB. Ausführung mit abgerundeten Maschinenraumfenster Modernisierte Griffstangen bei den Einstiegstüren Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265338.jpg"
   },
-  "updatedAt": "2026-05-04T14:34:03Z"
+  "updatedAt": "2026-05-04T17:39:44Z"
 }

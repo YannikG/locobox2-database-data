@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "NL",
-    "operator": "fur ihre frische Flotte der 186 101 — 110 keine Verwendung fand und so",
-    "type": "Elektrolokomotive",
-    "number": "186 251-5 Das Unternehmen Railpool profitierte bereits 2009 davon, dass Angel Trains",
+    "operator": "Railpool",
+    "type": "186",
+    "number": "251-5",
     "livery": "fur ihre frische Flotte der 186 101 — 110 keine Verwendung fand und so",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 186 251-5 Das Unternehmen Railpool profitierte bereits 2009 davon, dass Angel Trains, fur ihre frische Flotte der 186 101 — 110 keine Verwendung fand und so. fur ihre frische Flotte der 186 101 — 110 keine Verwendung fand und so. durch die Railpoo! ubernommen werden konnte. Die anfanglich als D-A-. CH-I Variante vorgesehenen Loks, erhielten zusaizlich das Landerpaket fur. ae. die Niederlande. Die ebenfalls durch ATC bestellte 186 251 welche fur die. RAILPOOL IN Lander D-A-PL vorgesehen und ab 2008 erste Versuchsfahrten unternahm,. Se Tt ae konnte 2011 auch an die Railpool verkauft werden. Alle elf Maschinen wur-. n | —_— ta\" 7 a den nie durch die Angel Trains abgenommen und dienten vorderhand als. s — SS Testlokomotiven ehe sie spater an Railpool vermittelt wurden. Die Maschi-. ? nen legten einen wichtigen Grundstein fur die Zulassungsfahrten in den. tg Niederlanden. e BL me q 2 eae =. > Ausfiihrung im Betriebszustand von 2011 bis 2018. NA AI eA > Mit silberner Railpool Aufschrift und roten UIC-Dosen. Photomontage > Einsatz im Vorbild bei vielen Unternehmen wie RTC, Lokomotion.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264584.jpg"
   },
-  "updatedAt": "2026-05-04T14:07:20Z"
+  "updatedAt": "2026-05-04T17:36:41Z"
 }

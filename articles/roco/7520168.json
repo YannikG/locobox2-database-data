@@ -11,18 +11,20 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Elektrolokomotive",
-    "number": "BB 26005",
+    "type": "BB 26005",
+    "number": null,
     "livery": "SNCF",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 204,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, BB 26005, SNCF. „Trains Spéciaux“-Design. Feine Ätzteile am Dach. Filigrane Ausführung der beiden unterschiedlichen Stromabnehmer. Im Digitalbetrieb Spitzenlicht nach französischem Vorbild schaltbar. und Führerstandsbeleuchtung. Front mit zusätzlicher Anschluss-Dose für Wendezug-Steuerung. Version im silber-grauen Multiservice-Design. Vorbildgerechte Dachausführung mit allen Details. „Trains Spéciaux“ ist ein von SNCF Voyageurs angebotener Service, der. es ermöglicht, einen Personenzug teilweise oder vollständig zu reservieren. Um die Lokomotiven zu kennzeichnen, die für die Traktion dieser Sonder -. züge eingesetzt werden, hat SNCF Voyageurs beschlossen, einigen Sybic-. Lokomotiven ein neues Farbkleid zu verpassen. Sie harmoniert perfekt mit.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264644.jpg"
   },
-  "updatedAt": "2026-05-04T14:21:32Z"
+  "updatedAt": "2026-05-04T17:51:23Z"
 }

@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
-    "number": "145 070-9 U | Nn |",
+    "operator": "RBH",
+    "type": "145",
+    "number": "070-9",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 145 070-9 U | Nn |, DB. Le mammmupdate § —formvariante. EP “ fal » f eee. age — am » Neukonstruierter Schienenraumer. |. lmse. Maumroraseanitanta KB > Stromabnehmer mit innovativer Befestigung. on = : » He Goa’ Sanaartte » Extra angesetzte Scheibenwischer. i v1 -unterwegs. sm |S poe cache ite = } > Erstmals mit PluX22 Schnittstelle. rs et nse so3h > Mehrfarbig gestaltete Fiihrerstandsriickwand und Bedienpult. t wi) ee ee og > Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. und Fihrerstandsbeleuchtung.",
+  "description": "Elektrolokomotive 145 070 der RBH Logistics GmbH. Formvariante! Update! . Neukonsturierter Schienenräumer . Stromabnehmer mit innovativer Befestigung . Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult . Extra angesetzte Scheibenwischer . LED-Spitzenlicht . Erstmals mit PluX22 Schnittstelle Zwischen 1997 und 2000 wurden insgesamt 80 Maschinen der Baureihe 145 in Dienst gestellt. Haupteinsatzgebiet war zunächst der Güterverkehr der Deutschen Bahn, insbesondere bei DB Cargo. Technisch verfügen die Lokomotiven über moderne Drehstrom-Asynchronmotoren, eine Leistung von 4.200 kW sowie eine elektrische Widerstands-und Rekuperationsbremse. Heute ist die Baureihe 145 weiterhin im Einsatz, vor allem bei privaten Eisenbahnunternehmen und Leasinggesellschaften.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264843.jpg"
   },
-  "updatedAt": "2026-05-04T14:32:11Z"
+  "updatedAt": "2026-05-04T17:38:20Z"
 }

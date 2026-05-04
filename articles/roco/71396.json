@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "= Li: Oo",
-    "type": "Dampflokomotive",
-    "number": "38 3713 @ |",
+    "operator": "DRG",
+    "type": "38 3713",
+    "number": null,
     "livery": "= Li: Oo",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "II",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 214,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Dampflokomotive 38 3713 der Deutschen Reichsbahn-Gesellschaft. Edition-Modell! Formvariante! .  Erstmals als Ausführung ohne dynamischen Dampf .  Kessel ohne Windleitbleche .  Vorbildgerechte Rauchkammertür .  Reichsbahn-Laternen für Gasbeleuchtung .  Räder mit feinen Speichen .  Im Digitalbetrieb mit schaltbarer Führerstands- und Triebwerksbeleuchtung Für die gestiegenen Anforderungen im Personenzug- und Schnellzugverkehr entwickelte die Preussische Staatsbahn die Personenzuglokomotive der Gattung P8. Von dieser vielfach verwendbaren dreifach gekuppelten Maschine wurden allein von deutschen Fabriken bis 1923 über 3.700 Exemplare gebaut. Die später als Baureihe 38 10–40 bezeichnete Dampflok leistete 880 kW, wog samt Tender mit vollen Vorräten etwa 130 t und durfte vorwärts 100 km/h und rückwärts 50 km/h fahren. Die Umlackierung des grossen Lokomotivbestandes der DRG auf die neue Standard-Farbgebung schwarz/rot zog sich naturgemäss hin. Dem entsprechend präsentierten sich viele Maschinen bis ca. 1930 in der bis 1926 gültigen olivgrün/rotbraun/schwarzen Farbgebung, waren jedoch bereits neu beschildert.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253282.jpg"
   },
-  "updatedAt": "2026-05-04T09:36:33Z"
+  "updatedAt": "2026-05-04T17:26:05Z"
 }

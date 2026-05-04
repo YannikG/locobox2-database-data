@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": null,
-    "type": "Elektrolokomotive",
-    "number": "Re 436 113-5 - |_|",
+    "operator": "Crossrail",
+    "type": "Re 436",
+    "number": "113-5",
     "livery": "Elektrolokomotive Re 436 113-5 - |_|",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "V-VI",
+    "luepMm": 177,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 436 113-5 - |_|. ic i formvariante. CROSSRAIL i ‘. / : | M > Neue Front mit groBen runden Scheinwerfern, typisch fiir. a rail tail Privatbahn Re 4/4. ‘Pe. fer, eel > Front ohne Wappen ausgefiihrt. Se > Weitere Modelle fiir im Vorbild haufige Doppeltraktion folgen. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Fiihrer-. standsbeleuchtung und Maschinenraumbeleuchtung. Photomontage > BLS Cargo Logo zur optionalen Montage als Decal beiliegend. . —— Soe = Buea ae A? = 2 | aw E. m2 , | ea mene ba 1 re a 7 / iyi 7. si. . pre PLES aN UN a ARR. ail. nN =a ‘ ; +f : Sy orl Var ee ieee SYED I Talis Ce 4 Aus) ~Y Photo: ‘D.Scharer |) \\*.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265696.jpg"
   },
-  "updatedAt": "2026-05-04T14:31:14Z"
+  "updatedAt": "2026-05-04T17:37:39Z"
 }

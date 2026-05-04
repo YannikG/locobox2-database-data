@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "Dampflokomotive",
-    "number": "50 1751",
+    "type": "50 1751",
+    "number": null,
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "III",
+    "luepMm": 265,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, 50 1751, DB. domige Kesselausführung ohne Läutewerk. Mit kleinen Lampen auf der vorderen Pufferbohle. Mit feinen Metallradsätzen und Treib- und Kuppelstangen aus. Ursprünglich waren die Lokomotiven der Baureihe 50 mit einem Läutewerk. ausgerüstet. Im Zuge der ÜK-Maßnahmen entfiel das Läutewerk und durch. Kesseltausch und Umbauten waren später auch Loks mit niedrieger Num-. mer ohne Läutewerk anzutreffen. 3-domige Kesselausführung mit Witte-Windleitblechen. Fahrwerk in rotbrauner Lackierung. Lampen mit Griffstange auf der vorderen Pufferbohle. Ausführung mit Neubautender. Beheimatung Rbd Dresden, Bw Zwickau.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264992.jpg"
   },
-  "updatedAt": "2026-05-04T13:45:58Z"
+  "updatedAt": "2026-05-04T17:25:32Z"
 }

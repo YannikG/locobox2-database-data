@@ -11,18 +11,20 @@
   "model": {
     "country": "LU",
     "operator": "CFL",
-    "type": "Dampflokomotive",
+    "type": "52",
     "number": "5605",
     "livery": "CFL",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "III",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 265,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Dampflokomotive 5605 (DRB Baureihe 52) der Luxemburgischen Staatsbahn. Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Mit feinen Speichenrädern aus Metall .  Treib- und Kuppelstangen aus Feingussmetall .  Mit zierlich ausgeführter Beschriftung .  Z21 Führerstand verfügbar Um nun den dringensten Bedarf an modernen Dampflokomotiven zu decken, erwarb die Luxemburgische Staatsbahn Maschinen vom Typ KDL 1 (bei der DRB Baureihe 52), welche relativ schnell erhältlich waren. Damit wurde bis 1961 hauptsächlich der Verkehr auf der Nordstrecke bewältigt. Modell wird auf Basis der aktuellen Baureihe 52 ohne Änderungen umgesetzt.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265640.jpg"
   },
-  "updatedAt": "2026-05-04T09:57:20Z"
+  "updatedAt": "2026-05-04T17:22:23Z"
 }

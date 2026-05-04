@@ -17,7 +17,7 @@
     "scale": "h0",
     "electricSystem": "dc",
     "era": "IV",
-    "luepMm": null,
+    "luepMm": 293,
     "minRadiusMm": null
   },
   "description": "Wagenset mit zwei Postgüterwagen, Gattung Post 2s-t/11, der Deutschen Bundespost. Ein Wagen mit Bremserbühne .  Ein Wagen erstmals mit Heizkabel Die DBP beschaffe im Jahr 1981 zehn gedeckte Güterwagen der Bauart Gos 245/ Gos-uv 245 von der DB für den Postverkehr in und um Berlin. Alle Wagen waren der OPD Hannover zugeteilt. Auch diese Wagen erhielten, obwohl es reine Güterwagen waren, Reisezugwagennummern. Die Wagen waren teilweise bis 1992 im Einsatz.",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265168.jpg"
   },
-  "updatedAt": "2026-05-04T09:49:06Z"
+  "updatedAt": "2026-05-04T17:19:31Z"
 }

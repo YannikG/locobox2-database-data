@@ -10,19 +10,20 @@
   },
   "model": {
     "country": "DE",
-    "operator": "VI",
-    "type": "Elektrolokomotive",
-    "number": "185 325-5",
+    "operator": "EBS",
+    "type": "232",
+    "number": "592-6",
     "livery": "VI",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
+    "era": "VI",
     "luepMm": null,
     "minRadiusMm": null
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 185 325-5, VI. Ausführung mit Schneepflug am Chassis Radsätze mit niedrigen Spurkränzen Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem In Kooperation mit Elektrolokomotive 185 325-5",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 232 592-6, VI. Ausführung mit Schneepflug am Chassis. Radsätze mit niedrigen Spurkränzen. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen- und Schlusslicht.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266499.jpg"
   },
-  "updatedAt": "2026-05-04T13:54:23Z"
+  "updatedAt": "2026-05-04T17:32:02Z"
 }

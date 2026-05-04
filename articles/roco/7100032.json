@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Dampflokomotive",
-    "number": "86 1563-5",
+    "type": "86 1563-5",
+    "number": null,
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "IV",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 160,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Dampflokomotive 86 1563 der Deutschen Reichsbahn. Formvariante! .  Erstmals als Modell mit den markanten grossen Windleitblechen für den Verkehr auf Usedom .  Lang ausgeschnittene Wasserkästen .  Feine Metallradsätze .  Beheimatung Rbd Greifswald, Bw Heringsdorf",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/261361.jpg"
   },
-  "updatedAt": "2026-05-04T09:49:33Z"
+  "updatedAt": "2026-05-04T17:20:36Z"
 }

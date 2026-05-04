@@ -10,19 +10,20 @@
   },
   "model": {
     "country": null,
-    "operator": null,
+    "operator": "K.Bay.Sts.B.",
     "type": "Dampflokomotive",
     "number": "Gattung Pt 2/3",
     "livery": "Dampflokomotive Gattung Pt 2/3",
     "scale": "h0",
-    "electricSystem": null,
+    "electricSystem": "dc",
     "era": "I",
-    "luepMm": null,
+    "luepMm": 568,
     "minRadiusMm": null
   },
   "description": "Wagenset mit vier Lokalbahn-Wagen der Königlich Bayerischen Staats-Eisenbahnen. Bestehend aus zwei Plattformwagen, Gattung CL, einem Plattformwagen mit Postabteil, Gattung BPostL und einem Gepäckwagen, Gattung PL. Mit filigranen Zierlinien .  Alle Wagen mit authentischen Speichenrädern ausgestattet .  Gepäckraumtür beweglich ausgeführt",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264566.jpg"
   },
-  "updatedAt": "2026-05-04T09:42:31Z"
+  "updatedAt": "2026-05-04T17:18:42Z"
 }

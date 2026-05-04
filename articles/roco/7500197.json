@@ -9,20 +9,22 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
+    "country": "NL",
+    "operator": "DB Cargo Nederland",
+    "type": "1600",
     "number": "1616",
-    "livery": "DB",
+    "livery": "DB Cargo",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 201,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 1616, DB. Ausführung ohne Klimaanlage. Mit Taufnamen Oldenzaal. Stromabnehmer mit innovativer Befestigung. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht. und Führerstandsbeleuchtung. Ausführung mit Klimaanlage am Dach. Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik. In Kooperation mit.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive 1616 der Deutschen Bahn (DB Cargo Nederland). Ausführung ohne Klimaanlage. Mit Taufnamen Oldenzaal. Stromabnehmer mit innovativer Befestigung. Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt. Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter. Mit der Fusion des niederländischen Güterverkehrs mit der deutschen Railion Gruppe erhielt die DB AG Zugang zu einem Teil der Elektrolokomotiven der Serie 1600 der NS. 2012 wurden zehn Maschinen im Zuge der Instandhaltung verkehrsrot lackiert. Auf Initiative einiger Lokführer wurden die letzten drei Lokomotiven zum Einsatzende bei DB coachgo NL im Jahr 2020 mit Abschiedstexten beklebt.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265667.jpg"
   },
-  "updatedAt": "2026-05-04T14:35:11Z"
+  "updatedAt": "2026-05-04T17:40:34Z"
 }

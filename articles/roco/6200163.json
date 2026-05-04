@@ -17,8 +17,9 @@
     "scale": "h0",
     "electricSystem": "dc",
     "era": "IV",
-    "luepMm": null,
-    "minRadiusMm": null
+    "luepMm": 303,
+    "minRadiusMm": null,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Nahverkehrs-Steuerwagen 2. Klasse mit Gepäckabteil „Silberling“, Gattung BDnf 735 der Deutschen Bundesbahn. Ausführung mit „Karlsruher Kopf“ .  Lackierung mit auffälligen orangen Warnstreifen .  Mit ozeanblauem Längsträger .  Zuglauf Karlsruhe – Offenburg – Freiburg .  Mit Funktionsdecoder für Lichtwechsel (weiss/rot) sowohl für Analog- als auch Digitalbetrieb .  Im Digitalbetrieb mit schaltbarer Beleuchtung der Zugzielanzeige Die n-Wagen der Deutschen Bundesbahn waren jahrzehntelang als Silberlinge bekannt. Mit über 5.000 Stück wurde diese Wagenfamilie ab den sechziger Jahren zur dominierenden Bauart bei den Nahverkehrswagen der DB. Erst ab den neunziger Jahren wurden sie schrittweise durch Triebzüge und Doppelstockwagen abgelöst. Typische Kennzeichen der Ausführung der siebziger bis neunziger Jahre waren die ozeanblauen Langträger, die grossen Klassenziffern sowie die Piktogramme. Eine grosse Modernisierungsmassnahme war in den Jahren 1978 bis 1982 der Umbau von 200 Steuerwagen mit kleinem Führerstand (bekannt als Hasenkasten) mit dem sogenannten Karlsruher Kopf. Die Vorbilder waren in Freiburg im Breisgau zu Hause. Von dort wurden sie sowohl auf der Rheintalbahn zwischen Basel und Karlsruhe eingesetzt, aber auch auf der Höllentalbahn sowie dieselbespannt nach Breisach bzw. Elzach.",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260373.jpg"
   },
-  "updatedAt": "2026-05-04T09:41:41Z"
+  "updatedAt": "2026-05-04T17:18:11Z"
 }

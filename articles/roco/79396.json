@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "= Li: Oo",
-    "type": "Dampflokomotive",
-    "number": "38 3713 @ |",
+    "operator": "DRG",
+    "type": "38 3713",
+    "number": null,
     "livery": "= Li: Oo",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "II",
+    "luepMm": 214,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, 38 3713 @ |, = Li: Oo. ition formvariante. Se INCU we aa’ eg = ae OS ao BS sek. Fur die gestiegenen Anforderungen im Personenzug- und Schnellzugverkehr entwickelte die PreuBische. Staatsbahn die Personenzuglokomotive der Gattung P8. Von dieser vielfach verwendbaren dreifach gekup- > Kessel ohne Windleitbleche. pelten Maschine wurden allein von deutschen Fabriken bis 1923 Uber 3.700 Exemplare gebaut. Die spater > Reichsbahn-Laternen fiir Gasbeleuchtung. als Baureihe 38 10—40 bezeichnete Dampflok leistete 880 kW, wog samt Tender mit vollen Vorraten etwa > Rader mit feinen Speichen. 130 t und durfte vorwarts 100 km/h und ruckwarts 50 km/h fahren. . - . D nd AC Modell erstmals nur mit Sound ausgeriistet, ohne dynamischen Dampf. Die Umlackierung des groBen Lokomotivbestandes der DRG auf die neue Standard-Farbgebung schwarz/ , a a C lode & “h th \" Nhe ‘s 9 in hwerk , ' at P. rot zog sich naturgemaé hin. Dem entsprechend prasentierten sich viele Maschinen bis ca. 1930 in der bis > Im Digitalbetrieb mit schaltbarer Fuhrerstands- und Triebwerksbeleuchtung. 1926 giltigen olivgrUn/rotbraun/schwarzen Farbgebung, waren jedoch bereits neu beschildert. erüstet, ohne dynamischen Dampf. Im Digitalbetrieb mit schaltbarer Führerstands- und Triebwerksbeleuchtung.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253291.jpg"
   },
-  "updatedAt": "2026-05-04T14:39:07Z"
+  "updatedAt": "2026-05-04T17:57:27Z"
 }

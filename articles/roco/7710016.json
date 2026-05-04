@@ -16,9 +16,10 @@
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 538,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Akkutriebwagen 515 537-9 mit Steuerwagen 2-tlg. Set: Gedeckte Postgüterwagen Ein Wagen mit Bremserbühne Ein Wagen erstmals mit Heizkabel",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259159.jpg"
   },
-  "updatedAt": "2026-05-04T14:37:37Z"
+  "updatedAt": "2026-05-04T17:56:12Z"
 }

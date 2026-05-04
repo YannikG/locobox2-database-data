@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Dampflokomotive",
-    "number": "39 1052-8",
+    "type": "39 1052-8",
+    "number": null,
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 272,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, 39 1052-8, DR. Erstmals mit PluX16-Schnittstelle und LED-Spitzenlicht. Freistehende Kessel-Leitungen. Zierlich ausgeführtes Fahrwerk an Lok und Tender. Ausführung mit Tender der Bauart T34. Beheimatung Rbd Erfurt, Bw Saalfeld. Ideale Zuglok für die Bauart 28-Personenwagen auf den nachfolgenden Seiten. Mit ihrer eleganten, kraftvollen Erscheinung und der typischen preußischen Konstruktion steht die Baureihe. 22 bzw. spätere 39.10 für den Übergang von der Länderbahnzeit zur Einheitslokomotive. Eine Maschine die. den Fuhrpark der DR über viele Jahre bereicherte und in keiner Sammlung fehlen sollte.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264826.jpg"
   },
-  "updatedAt": "2026-05-04T13:43:20Z"
+  "updatedAt": "2026-05-04T17:23:37Z"
 }

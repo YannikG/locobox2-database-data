@@ -10,15 +10,16 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": null,
-    "number": null,
+    "operator": "DB AG",
+    "type": "140",
+    "number": "423-5",
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "V",
+    "luepMm": 190,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Photo: R. Auerweck. Ausführung mit abgerundeten Maschinenraumfenster. Modernisierte Griffstangen bei den Einstiegstüren. Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem. Spitzen-/Schlusslicht. Die Elektrolokomotive 140 423 steht exemplarisch für die bewährte Ein-. heitslokomotiv-Baureihe 140 und zählt heute zum Bestand des DB Muse-. ums. 1966 von Henschel gebaut, präsentiert sie sich in klassischer Bun-. desbahn-Lackierung und erinnert an eine Zeit, in der Zuverlässigkeit und. technische Robustheit das Bild der deutschen Schienen prägten. Mit der. 140 423 lebt ein Stück Eisenbahngeschichte weiter, ein besonderes Einzel-. stück, das über viele Jahre beghertes Fotoobjekt war.",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265340.jpg"
   },
-  "updatedAt": "2026-05-04T14:24:22Z"
+  "updatedAt": "2026-05-04T17:53:26Z"
 }

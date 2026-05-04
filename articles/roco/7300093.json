@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "a a",
-    "type": "Diesellokomotive",
-    "number": "2143 062-5 |",
+    "operator": "Regiobahn",
+    "type": "2143",
+    "number": "062-5",
     "livery": "a a",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 181,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, 2143 062-5 |, a a. a konstruktion. | ep vy] = = = — - > Ausfilhrung der 3. Bauserie mit geradem Rahmen. A ee ee) 1? tan) | \\ > Freistehende Griffstangen, teilweise aus Metall. oe asa reg Te) ba h n >Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. ph aa anes und Fihrerstandsbeleuchtung. Q4/2026 Der ErlebnisZug Leiser Berge ladt zu einer ganz besonderen Reise ein: Ge-. A neuburg nach Ernstbrunn und verspruht ein echtes ,,Reisegefuhl wie anno. 7320093 Egal ob mit Familie, Freunden oder alleine unterwegs— der ErlebnisZug und. der NaturparkBus offnet den Weg zu Naturerlebnissen, aktiven Abenteuern. Wildpark Ernstbrunn mit Wolfsforschungszentrum, idyllische Wanderwege. im Naturpark Leiser Berge mit Panoramaausblicken, die nostalgische Wein-. vierteldraisine, Mountainbike- und Radstrecken sowie attraktive Ziele. REGIOBAHN Tale ny a ee — —_ ie.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264837.jpg"
   },
-  "updatedAt": "2026-05-04T13:48:59Z"
+  "updatedAt": "2026-05-04T17:27:59Z"
 }

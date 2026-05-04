@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "VI",
+    "operator": "EINSTELLER",
     "type": "6-tlg. Set: Elektrotriebzug „FLIRT 3“",
     "number": null,
     "livery": "VI",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
+    "electricSystem": "ac",
+    "era": "VI",
     "luepMm": null,
-    "minRadiusMm": null
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: 6-tlg. Set: Elektrotriebzug „FLIRT 3“, VI. Ausführung als ET 302 mit dem Taufnamen \"Freilassing\". Zwei kräftige Motoren jeweils im Endwagen. Stromabnehmer mit innovativer Befestigung. Dachbereich aufwendig gestaltet, teilweise mit Ätzteilen ausgeführt. In der Digitalausführung mit schaltbarem Fernlicht, Spitzen-/Schlusslicht,. Führerstandsbeleuchtung, beleuchteten Zugzielanzeigen und Innenbeleuchtung. Frontblende, Scheibenwischer und Sonnenrollo. separat angesetzt. Aufwendig nachgebildeter Innenraum und. Blick durch den ganzen Zug möglich. Höchste Detailtreue der ikonischen Scheinwerfer.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "triebzug"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266576.jpg"
   },
-  "updatedAt": "2026-05-04T14:38:33Z"
+  "updatedAt": "2026-05-04T17:56:54Z"
 }

@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "IV-V",
-    "type": "Elektrolokomotive",
-    "number": "Re 4/4III 43",
+    "operator": "SOB",
+    "type": "Re 4/4 III 43",
+    "number": null,
     "livery": "IV-V",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV-V",
+    "luepMm": 177,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 4/4III 43, IV-V. Neue Front mit großen runden Scheinwerfern, typisch für Privatbahn Re 4/4. Neue Rückspiegel. Rechteckige Puffer für den Pendelbetrieb auf bis zu 50 ‰. Mit Wappen „Rothenthurm“. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht, Führerstandsbeleuch-. tung und Maschinenraumbeleuchtung.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265610.jpg"
   },
-  "updatedAt": "2026-05-04T14:13:34Z"
+  "updatedAt": "2026-05-04T17:45:36Z"
 }

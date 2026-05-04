@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "Info: ~",
-    "type": "Dampflokomotive",
-    "number": "Rh 109 a Edition",
+    "operator": "Südbahn",
+    "type": "Rh 109",
+    "number": null,
     "livery": "Info: ~",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "II",
+    "luepMm": 201,
+    "minRadiusMm": 419,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, Rh 109 a Edition, Info: ~. _ Beim Fotografieranstrich handelt es sich um eine Sonderlackierung, die seitens lg;. a Lokomotivfabriken bei besonderen Lokomotiv-Exemplaren aufgetragen wurde, utr =. a _ den damaligen Zeiten eine bessere Darstellung auf Fotos zu erzielen. Dieser 1nd. Siidbahn _ abwaschbarer (Kalk-)Farbe und wurde nur zum Zwecke der Fotoarbeiten aufc etrage then,. Wears —_—_ ——, 0 Geers 100 H ~to venus tsaeeseenvecerrssenneend. c\\, a <= | See Uh ascertains aii. Als leistungsstarke Schnellzuglok flr den hochwertigen Reiseverkehr stand sie fur Zuverlassigkeit, Ge-. schwindigkeit und technische Innovation. Mit ihrer markanten Silhouette und fein abgestimmten Proportio- > Fotografieranstrich. nen zahit sie zu den schénsten Konstruktionen der k.k. privilegierten Sudbahn-Gesellschaft. Ein Modell die- > Freistehende Leit d viel i tzte Steckteil. ser Lokomotive ist fiir jeden Sammler ein Muss — es verbindet historische Bedeutung mit feiner Mechanik reistenende Lettungen und viele separat angeseizie stecktene. und nostalgischem Charme auf héchstem Niveau. > Zierliche Speichenrader aus Metall. Dampfl okomotive Rh 109. Fotografi eranstrich.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265572.jpg"
   },
-  "updatedAt": "2026-05-04T13:44:05Z"
+  "updatedAt": "2026-05-04T17:24:10Z"
 }

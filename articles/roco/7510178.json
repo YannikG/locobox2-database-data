@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Elektrolokomotive",
-    "number": "145 070-9",
+    "operator": "RBH",
+    "type": "145",
+    "number": "070-9",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 145 070-9, DB. Neukonstruierter Schienenräumer. Stromabnehmer mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Erstmals mit PluX22 Schnittstelle. Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. und Führerstandsbeleuchtung. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264844.jpg"
   },
-  "updatedAt": "2026-05-04T14:14:54Z"
+  "updatedAt": "2026-05-04T17:46:34Z"
 }

@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "Dampflokomotive",
-    "number": "39 237",
+    "type": "39 237",
+    "number": null,
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "III",
+    "luepMm": 264,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, 39 237, DB. Erstmals mit PluX-Schnittstelle und LED-Beleuchtung. Kessel mit Witte-Weinleitblechen. Freistehende Kessel-Leitungen. Ausführung mit Tender der Bauart T34. Ideale Zuglok für viele ROCO-Personenwagen. Die Baureihe 39 der Deutschen Bundesbahn (ehemals preußische P 10) war eine leistungsstarke Schnell-. zuglokomotive der Einheitsgattung, die ursprünglich für den schweren Personenzugdienst auf steigungsrei-. chen Strecken entwickelt wurde. Dank ihrer Achsfolge, einem dreizylindrigen Triebwerk und einer Leistung. von rund 1.800 PS war sie besonders auf Gebirgsstrecken wie der Mittelrheinbahn oder in Thüringen im. Einsatz. Nach dem Zweiten Weltkrieg verblieben zahlreiche Maschinen bei der Deutschen Bundesbahn, die. sie vor allem in Süddeutschland noch bis in die 1950er-Jahre einsetzte. formvarianteformvariante update. konstruktion.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264829.jpg"
   },
-  "updatedAt": "2026-05-04T13:43:31Z"
+  "updatedAt": "2026-05-04T17:23:45Z"
 }

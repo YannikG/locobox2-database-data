@@ -10,19 +10,20 @@
   },
   "model": {
     "country": "IT",
-    "operator": "FS",
+    "operator": "EINSTELLER",
     "type": "Diesellokomotive",
     "number": "BR-232 049",
     "livery": "FS",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "VI",
-    "luepMm": null,
+    "luepMm": 495,
     "minRadiusMm": null
   },
   "description": "Wagenset mit drei Selbstentladewagen, Gattung Fals, der Pol-Miedz Trans.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264565.jpg"
   },
-  "updatedAt": "2026-05-04T09:43:14Z"
+  "updatedAt": "2026-05-04T17:19:15Z"
 }

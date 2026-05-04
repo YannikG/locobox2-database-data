@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Diesellokomotive",
-    "number": "BR 110 Yr} [|",
+    "type": "BR 110",
+    "number": null,
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 164,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, BR 110 Yr} [|, DR. eS. Emw— konstruktion. Photo: Lokstromer. Ausfilhrung in bordeauxroter Lackierung. Erstmals Nachbildung der friihen Serien. In die Vorbauten integrierte Dachdeckel. » Drehgestelle vollstandig mit Bremsleitungen ausgefihrt. Hohe Zugkraft und perfekte Betriebseigenschaften. Q2/2026 > Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und Fiihrerstands-.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266714.jpg"
   },
-  "updatedAt": "2026-05-04T13:50:40Z"
+  "updatedAt": "2026-05-04T17:29:12Z"
 }

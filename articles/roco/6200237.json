@@ -10,19 +10,20 @@
   },
   "model": {
     "country": null,
-    "operator": "= =",
+    "operator": "KPEV",
     "type": "Dampflokomotive",
     "number": "1108 U |",
     "livery": "= =",
     "scale": "h0",
-    "electricSystem": null,
+    "electricSystem": "dc",
     "era": "I",
-    "luepMm": null,
+    "luepMm": 226,
     "minRadiusMm": null
   },
   "description": "6-achsiger Schnellzugwagen 1./2. Klasse, Gattung AB 6ü (Pr06), der Königlich Preussischen Eisenbahn-Verwaltung. Dach in elfenbein Lackierung .  Seitenflächen der Oberlichter in Wagenkastenfarbe",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265589.jpg"
   },
-  "updatedAt": "2026-05-04T09:42:42Z"
+  "updatedAt": "2026-05-04T17:18:50Z"
 }

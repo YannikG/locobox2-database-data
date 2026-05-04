@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "TX Logistik",
-    "type": "Elektrolokomotive",
-    "number": "7193 306-6",
+    "operator": "MRCE",
+    "type": "193",
+    "number": "718-4",
     "livery": "TX Logistik",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": 358
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Elektrolokomotive 193 718 der Mitsui Rail Capital Europe (MRCE). Mit vorbildgerechter hoher Ausführung des Bedienpults am Führerstand .  Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand .  Mit detaillierter Dachgestaltung .  Grenzüberschreitender Einsatz im Güterverkehr .  Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führerstandsbeleuchtung",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248293.jpg"
   },
-  "updatedAt": "2026-05-04T09:37:06Z"
+  "updatedAt": "2026-05-04T17:57:18Z"
 }

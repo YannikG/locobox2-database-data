@@ -11,11 +11,11 @@
   "model": {
     "country": null,
     "operator": "DR",
-    "type": null,
-    "number": null,
+    "type": "BR 89",
+    "number": "70–75",
     "livery": null,
     "scale": "h0",
-    "electricSystem": "DC Analog",
+    "electricSystem": "dc",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
     "era": "III",
     "luepMm": 101,
@@ -23,7 +23,8 @@
   },
   "description": "Dampflokomotive Baureihe 89.70–75 der Deutschen Reichsbahn. Neue Betriebsnummer .  LED-Beleuchtung .  Metalldruckguss-Fahrgestell Von 1882 bis 1910 wurden ca. 1.550 Stück Tenderlokomotiven der Gattung T3 unterschiedlicher Ausführungen an die Preussische Staatsbahn (K.P.E.V.) und andere Länderbahnen geliefert. Als Bauart Cn2 hatte die Lok in Ausführung M III-4p eine Reibungslast von 36 t und konnte bei einer Leistung von 300 PSi die Höchstgeschwindigkeit von 40 km/h fahren. Die Deutsche Reichsbahn-Gesellschaft (DRG) übernahm 511 Stück und ordnete sie unter der Bezeichnung BR 89.70–75 in ihren Bestand ein. Die Deutsche Reichsbahn (DR) hatte noch bis 1968 Lokomotiven dieser Baureihe auf Nebenstrecken und als Werksloks in Betrieb.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "h0"
@@ -33,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254249.jpg"
   },
-  "updatedAt": "2026-05-04T09:31:54Z"
+  "updatedAt": "2026-05-04T17:19:55Z"
 }

@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Dampflokomotive",
-    "number": "38 2566-8",
+    "type": "38 2566-8",
+    "number": null,
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "IV",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 214,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Dampflokomotive 38 2566 der Deutschen Reichsbahn. Edition-Modell! .  Ausführung mit Nietentender und Witte-Windleitblechen .  Räder mit feinen Speichen .  Zwei Schlussleuchten nur am Tender .  Führerstands- und Triebwerksbeleuchtung eingebaut; im Digitalbetrieb schaltbar .  Beheimatung Rbd Halle, Bw Leipzig-Süd",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264987.jpg"
   },
-  "updatedAt": "2026-05-04T09:56:00Z"
+  "updatedAt": "2026-05-04T17:21:50Z"
 }

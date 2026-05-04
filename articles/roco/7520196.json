@@ -10,15 +10,16 @@
   },
   "model": {
     "country": null,
-    "operator": "EINSTELLER",
-    "type": null,
-    "number": null,
-    "livery": null,
+    "operator": "PKP IC",
+    "type": "370",
+    "number": "094-2",
+    "livery": "Adriatic Express",
     "scale": "h0",
-    "electricSystem": "AC",
+    "electricSystem": "ac",
     "era": "VI",
     "luepMm": 218,
-    "minRadiusMm": 358
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Elektrolokomotive 370 094-2 \"Adriatic Express\" Ausführung mit Schieneräumer des aktuellen Typs Einsatz im internationalen Verkehr Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führerstandsbeleuchtung",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265662.jpg"
   },
-  "updatedAt": "2026-05-04T14:25:08Z"
+  "updatedAt": "2026-05-04T17:53:59Z"
 }

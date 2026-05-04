@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "CH",
-    "operator": "SBB",
-    "type": "Elektrolokomotive",
-    "number": "193 452-0 ,Schweizpiercer silberne Italienpiercer hat die 193 459 beidseitig das gleiche Aussehen und",
-    "livery": "SBB",
+    "operator": "SBB Cargo International",
+    "type": "193",
+    "number": "452-0",
+    "livery": "Schweizpiercer",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 452-0 ,Schweizpiercer silberne Italienpiercer hat die 193 459 beidseitig das gleiche Aussehen und, SBB. tragt diverse fur Deutschland bekannte Sujets, die 193 452 im gleichen Stil. ra fur die Schweiz. SBB CARGO an aN. INTERNATIONAL , SS. A ae ae a mmm update. : iw on — in > Ausfiihrung des Schienenraumers und der Drehgestellblenden. Pitas a ; i= jaa oe , entsprechend den XLoad-Maschinen. ; Be mee NX Se OR ™ NOS iu > Taufname ,,Helvetia“. Photomontage » Mehrfarbig gestaltetes Bedienpult und Filhrerstandsriickwand. Q1/2026 > Im Digitalbetrieb erstmals mit schaltbaren Lichtfunktionen fur CH,. Taignya > In Kooperation mit | Railcolordesign. und der Drehgestellblenden. entsprechend den XLoad-Maschinen.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/256995.jpg"
   },
-  "updatedAt": "2026-05-04T14:19:05Z"
+  "updatedAt": "2026-05-04T17:49:35Z"
 }

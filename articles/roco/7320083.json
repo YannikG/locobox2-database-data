@@ -10,15 +10,16 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": null,
+    "operator": "DBP",
+    "type": "Nr. 1",
     "number": null,
     "livery": "DB",
     "scale": "h0",
-    "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "electricSystem": "ac",
+    "era": "III-IV",
+    "luepMm": 106,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
   },
   "description": "Akkutriebwagen 515 537-9 mit Steuerwagen. j a a i 2 _ Coo - i} pasar] -— — | — Me + “al 2!). > Freier Durchblick durch den detaillierten Fahrgastraum und den Fihrerstand. 7700016 J DC | “a. «ia @ohaiharui «rare 3 Hei. > Separat angesetzte Steckteile, wie Scheibenwischer, Rangierergriffe unter den Puffern sowie Heizkabel. 7710016 > Steuerwagen mit korrekt lackiertem Dachbereich. 7720016 > Digitalversionen mit Decoder im Trieb- und im Steuerwagen.",
   "categories": [],
@@ -31,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264597.jpg"
   },
-  "updatedAt": "2026-05-04T13:55:53Z"
+  "updatedAt": "2026-05-04T17:33:07Z"
 }

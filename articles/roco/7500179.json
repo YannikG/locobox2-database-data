@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "151",
-    "type": "Elektrolokomotive",
-    "number": "Da 917",
+    "operator": "SJ",
+    "type": "Da 917",
+    "number": null,
     "livery": "151",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 151,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, Da 917, 151. IV 4Erstmals mit PluX22-Schnittstelle. Räder in SAB-Ausführung besonders charakteristisch für SJ-. Front mit originaler Pufferbohle ohne Verstärkung. Frontseite 1 mit markanten \"Lollipop\"-Markierungen. Erstmals Bahnräumer mit einzelnen Schaufeln. Ideale Ergänzung zu den Güterwagen auf der nachfolgenden Seite. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:. Erstmals mit original ausgeführter Pufferbohle. ohne Verstärkungen. Zierliche Gravur des Übergangsgitters.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264846.jpg"
   },
-  "updatedAt": "2026-05-04T14:32:22Z"
+  "updatedAt": "2026-05-04T17:38:29Z"
 }

@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "Diesellokomotive",
-    "number": "290 276-5",
+    "type": "290",
+    "number": "276-5",
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "IV",
+    "luepMm": 165,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, 290 276-5, DB. Ausführung in purpurroter Lackierung als klassisches Bundesbahn Modell. Freier Durchblick durch den detaillierten Führerstand. Zierliche Nachbildung aller Gravuren. Vorbauten aus Metall für perfekte Zugkraft. Filigrane Geländer. Radsätze mit niedrigen Spurkränzen. Im Digitalbetrieb mit schaltbarer Führerstands- und Führerpultbeleuchtung und. schaltbarem Spitzen-/Schlusslicht. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:. Mit der ROCO Baureihe 290 erscheint ein vorbildgerecht detailliertes Modell, das sich durch hervorragende.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266592.jpg"
   },
-  "updatedAt": "2026-05-04T13:50:28Z"
+  "updatedAt": "2026-05-04T17:29:04Z"
 }

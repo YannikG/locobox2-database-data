@@ -10,19 +10,21 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "Diesellokomotive",
-    "number": "Nr. 1 2-tlg. Set: Gedeckte Postgiterwagen",
+    "operator": "DBP",
+    "type": "Nr. 1",
+    "number": null,
     "livery": "DB",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "III-IV",
+    "luepMm": 106,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
   },
   "description": "Roco Neuheiten 2026: Diesellokomotive, Nr. 1 2-tlg. Set: Gedeckte Postgiterwagen, DB. Q1/2026 Post 2s-t/11 Photomontage. 7310083 > Im Digitalbetrieb mit schaltbarem Rangierlicht Q2/2026 > Ein Wagen mit Bremserbiihne. 7320083 6600248 > Ein Wagen erstmals mit Heizkabel. Akkutriebwagen 515 537-9 mit Steuerwagen. j a a i 2 _ Coo - i} pasar] -— — | — Me + “al 2!). > Freier Durchblick durch den detaillierten Fahrgastraum und den Fihrerstand. 7700016 J DC | “a. «ia @ohaiharui «rare 3 Hei. > Separat angesetzte Steckteile, wie Scheibenwischer, Rangierergriffe unter den Puffern sowie Heizkabel. 7710016 > Steuerwagen mit korrekt lackiertem Dachbereich. 7720016 > Digitalversionen mit Decoder im Trieb- und im Steuerwagen.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264595.jpg"
   },
-  "updatedAt": "2026-05-04T13:47:17Z"
+  "updatedAt": "2026-05-04T17:26:45Z"
 }

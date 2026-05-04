@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "III",
-    "type": "Dampflokomotive",
-    "number": "477 008",
+    "operator": "CSD",
+    "type": "477 008",
+    "number": null,
     "livery": "III",
     "scale": "h0",
     "electricSystem": "dc",
     "era": "III",
-    "luepMm": null,
-    "minRadiusMm": 358
+    "luepMm": 199,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Dampflokomotive 477 008 der Tschechoslowakischen Staatsbahnen. Edition-Modell! .  Komplette Neukonstruktion .  Ausführung der ersten Serie .  Komplett freier Durchblick zwischen Kessel und Rahmen .  Besonders filigrane Leitungen unter dem Kessel .  Markanter Stern an der Rauchkammertür freistehend angebracht .  Zierlich ausgeführte Speichenräder .  Teile des Modells aus Metall hergestellt .  Detailreiche Gestaltung des Führerstands .  Markante blaue Lackierung mit weissen Zierelementen Die CSD-Baureihe 477.0 stellt die letzte und technisch ausgereifteste Dampflok-Baureihe der Tschechoslowakischen Staatsbahnen (CSD) dar. Sie wurde zwischen 1951 und 1955 von CKD (CKD Sokolovo in Prag) zu insgesamt 60 Exemplaren gefertigt und entwickelte sich aus der vorhergehenden Baureihe 476.1. Die Maschinen waren als leistungsstarke Schnellzug-Tenderlokomotiven mit der Achsfolge 2’D2’ für den schweren Personenzugdienst konzipiert und galten mit einem Dienstgewicht von rund 131 Tonnen als eine der schwersten Tenderlokomotiven Europas ihrer Zeit. Die Drei-Zylinder Maschinen erreichten eine Höchstgeschwindigkeit von rund 100 km/h und verfügten über eine Anfahrzugkraft von fast 110 kN. Optisch zeichnete sich die Baureihe 477.0 durch eine markante Linienführung mit stromlinienförmiger Rauchkammer, Witte-Windleitblechen sowie einer eleganten, meist farbenfrohen Lackierung mit Zierlinien aus. Dies brachte ihr im Betriebsalltag den Spitznamen „Papousek“ (Papagei) ein.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/261637.jpg"
   },
-  "updatedAt": "2026-05-04T09:49:57Z"
+  "updatedAt": "2026-05-04T17:20:44Z"
 }

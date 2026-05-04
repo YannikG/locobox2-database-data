@@ -11,18 +11,20 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Dampflokomotive",
-    "number": "50 2146-4",
+    "type": "50 2146-4",
+    "number": null,
     "livery": "DR",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "III-IV",
+    "luepMm": 265,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
   "description": "Roco Neuheiten 2026: Dampflokomotive, 50 2146-4, DR. 3-domige Kesselausführung mit Witte-Windleitblechen. Fahrwerk in rotbrauner Lackierung. Lampen mit Griffstange auf der vorderen Pufferbohle. Ausführung mit Neubautender. Mit feinen Metallradsätzen und Treib- und Kuppelstangen aus. Beheimatung Rbd Dresden, Bw Zwickau.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264647.jpg"
   },
-  "updatedAt": "2026-05-04T13:42:58Z"
+  "updatedAt": "2026-05-04T17:23:21Z"
 }

@@ -10,19 +10,21 @@
   },
   "model": {
     "country": null,
-    "operator": "SS",
-    "type": "Elektrolokomotive",
-    "number": "193 568-3",
+    "operator": "CD",
+    "type": "193",
+    "number": "568-3",
     "livery": "SS",
     "scale": "h0",
     "electricSystem": "dc",
-    "era": null,
-    "luepMm": null,
-    "minRadiusMm": null
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 568-3, SS. 7 sly <a apni A). DD Ag i ( = et ) ES A ia uF, S “| “P > Aufwendige Bedruckung im Werkstattdesign. aU et ed fi ee a A du i > Mit neuer Ausfiihrung des Schienenraumers. cose LED | ps) oe : es a Scone Se = > Mit detaillierter Dachgestaltung. Z : \\ eg i or 4 \\ sg ey, \\ > Mehrfarbig gestaltetes Bedienpult und Fuhrerstandsruckwand. — — > Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt-. Photomontage barem Spitzen- oder Schlusslicht sowie Fiihrerstandsbeleuchtung. pees > Ideale Ergnzung zu den MAV-Eurofima-Wagen Art. Nr. 6200228. | cic \\ 4 yd ; Vitae re: as |. a ~~, Photo: M. Pawletta.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
@@ -33,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265253.jpg"
   },
-  "updatedAt": "2026-05-04T14:33:30Z"
+  "updatedAt": "2026-05-04T17:39:19Z"
 }
