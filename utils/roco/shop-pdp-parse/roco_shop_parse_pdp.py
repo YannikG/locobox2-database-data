@@ -3,7 +3,7 @@
 Parse Roco Magento PDP HTML (Metas: og:* inkl. ``og:image`` → ``source.imageUrl``; fehlt die Meta, Hauptbild ``img.main-image`` / ``#img`` mit ``src`` oder ``data-src`` und PDP‑Basis‑URL absolutisieren; optional ``--image-url`` überschreibt die Bild-URL z. B. aus Chrome-Netzwerk). ``product:price:amount``; UVP sonst aus
 ``div.product-head-price`` sichtbar z. B. «277,90€», optional fehlend; Kurzbeschreibung
 bevorzugt aus ``div.product-add-form-text``, sonst ``og:description``; Zusatz-Tabelle
-``table#product-attribute-specs-table`` (**mehrere** Tabellen mit derselben ID: Allgemeine Daten, Elektrik, Abmessungen) mit ``td.col.data[data-th]``, z. B. Spur (z. B. «H0», «H0e») → ``model.scale`` (kanonisch ``H0``, ``H0m``, ``H0e``, ``N``, ``Z``, …), Stromsystem → ``model.electricSystem`` nur ``dc`` oder ``ac`` (z. B. «DC Analog» → ``dc``), Schnittstelle (Decoder/PluX, Freitext) → ``model.decoderInterface``, Bahngesellschaft → ``model.operator``, Epoche (z. B. «I») → ``model.era``, «Länge über Puffer» (LüP) → ``model.luepMm``, Mindestradius → ``model.minRadiusMm``).
+``table#product-attribute-specs-table`` (**mehrere** Tabellen mit derselben ID: Allgemeine Daten, Elektrik, Abmessungen) mit ``td.col.data[data-th]``, z. B. Spur (z. B. «H0», «H0e») → ``model.scale`` (kanonisch ``H0``, ``H0m``, ``H0e``, ``N``, ``Z``, …), Stromsystem → ``model.electricSystem`` (kanonisch ``DC-Analog``, ``DC-Digital``, ``AC-Analog``, ``AC-Digital``; z. B. «DC Analog», «DCC», «Wechselstrom»), Schnittstelle (Decoder/PluX, Freitext) → ``model.decoderInterface``, Bahngesellschaft → ``model.operator``, Epoche (z. B. «I») → ``model.era``, «Länge über Puffer» (LüP) → ``model.luepMm``, Mindestradius → ``model.minRadiusMm``).
 Optional merge nach ``articles/roco/{articleNumber}.json``.
 
 Es gibt **kein** HTTP-Laden im CLI: nur ``--html-file`` oder ``--stdin`` plus optional
@@ -459,25 +459,68 @@ def _sanitize_operator_value(text: str) -> str:
     return t.strip()
 
 
+_CANON_ELECTRIC_SYSTEMS = frozenset(
+    {"DC-Analog", "DC-Digital", "AC-Analog", "AC-Digital"}
+)
+
+
 def _normalize_electric_system(raw: str) -> Optional[str]:
     """
-    Nur ``dc`` oder ``ac`` (Kleinbuchstaben). Roco-Texte wie «DC Analog», «DCC»,
-    «Wechselstrom» werden zugeordnet; unklarer Text → ``None``.
+    Roco «Stromsystem» (z. B. «DC Analog», «DCC», «Wechselstrom», «AC Digital»)
+    auf ``DC-Analog``, ``DC-Digital``, ``AC-Analog`` oder ``AC-Digital``
+    (siehe ``config/electric-systems`` und ``article.schema.json``).
+
+    Nur ``DC`` / ``Gleichstrom`` ohne Analog-/Digital-Hinweis → ``None`` (mit PDP
+    erneut importieren). Alte JSON-Werte exakt ``dc`` / ``ac`` → ``DC-Analog`` /
+    ``AC-Analog`` (Migration bis Re-Scrape).
     """
     if not raw or not str(raw).strip():
         return None
-    t = swiss_text(str(raw).strip()).upper()
+    s0 = str(raw).strip()
+    if s0 in _CANON_ELECTRIC_SYSTEMS:
+        return s0
+    if s0 == "dc":
+        return "DC-Analog"
+    if s0 == "ac":
+        return "AC-Analog"
+
+    t = swiss_text(s0).upper()
     t = re.sub(r"\s+", " ", t)
-    if re.search(r"\bAC\b", t) or "WECHSELSTROM" in t:
-        return "ac"
-    if (
-        re.search(r"\bDC\b", t)
-        or "DCC" in t
-        or "GLEICHSTROM" in t
-        or "DIGITAL" in t
-        or "ANALOG" in t
-    ):
-        return "dc"
+    t = (
+        t.replace("DC-ANALOG", "DC ANALOG")
+        .replace("DC-DIGITAL", "DC DIGITAL")
+        .replace("AC-ANALOG", "AC ANALOG")
+        .replace("AC-DIGITAL", "AC DIGITAL")
+    )
+
+    is_ac = bool(re.search(r"\bAC\b|WECHSELSTROM", t))
+    is_dc = bool(re.search(r"\bDC\b|GLEICHSTROM", t))
+
+    has_analog = bool(re.search(r"\bANALOG", t))
+    has_digital = bool(
+        re.search(r"\b(DCC|MFX|MFX\+|MFXPLUS)\b", t, re.I)
+    ) or ("DIGITAL" in t and not has_analog)
+
+    if is_ac and is_dc:
+        return None
+
+    if is_ac:
+        if has_digital:
+            return "AC-Digital"
+        if has_analog:
+            return "AC-Analog"
+        return "AC-Analog"
+
+    if is_dc:
+        if has_digital:
+            return "DC-Digital"
+        if has_analog:
+            return "DC-Analog"
+        return None
+
+    if has_digital:
+        return "DC-Digital"
+
     return None
 
 

@@ -356,6 +356,30 @@ class TestExtractSpecsMultiTable(unittest.TestCase):
         self.assertEqual(patch.get("luepMm"), 164)
         self.assertEqual(patch.get("minRadiusMm"), 358)
 
+    def test_specs_stromsystem_maps_to_canonical(self) -> None:
+        specs = {"Stromsystem": "DC Analog"}
+        patch = pdp._specs_to_model_patch(specs)
+        self.assertEqual(patch.get("electricSystem"), "DC-Analog")
+
+
+class TestNormalizeElectricSystem(unittest.TestCase):
+    def test_canonical_roundtrip(self) -> None:
+        self.assertEqual(pdp._normalize_electric_system("DC-Analog"), "DC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("DC-Digital"), "DC-Digital")
+
+    def test_legacy_dc_ac(self) -> None:
+        self.assertEqual(pdp._normalize_electric_system("dc"), "DC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("ac"), "AC-Analog")
+
+    def test_roco_shop_strings(self) -> None:
+        self.assertEqual(pdp._normalize_electric_system("DC Analog"), "DC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("DCC"), "DC-Digital")
+        self.assertEqual(pdp._normalize_electric_system("Wechselstrom"), "AC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("AC Digital"), "AC-Digital")
+
+    def test_dc_only_unknown(self) -> None:
+        self.assertIsNone(pdp._normalize_electric_system("DC"))
+
 
 class TestNormalizeSpurScale(unittest.TestCase):
     def test_h0_variants(self) -> None:

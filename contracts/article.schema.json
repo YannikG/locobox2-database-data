@@ -7,6 +7,11 @@
       "type": "string",
       "description": "Spur / Massstab, Schreibweise wie im deutschsprachigen Fachhandel (H mit lateinischem O, Ziffer 0).",
       "enum": ["H0", "H0m", "H0e", "N", "Z", "TT", "G", "0"]
+    },
+    "electricSystemKind": {
+      "type": "string",
+      "description": "Stromsystem und Betriebsart (Roco-Shop «Stromsystem», z. B. DC Analog / DCC / Wechselstrom).",
+      "enum": ["DC-Analog", "DC-Digital", "AC-Analog", "AC-Digital"]
     }
   },
   "type": "object",
@@ -121,7 +126,7 @@
         "electricSystem": {
           "oneOf": [
             { "type": "null" },
-            { "type": "string", "minLength": 1 }
+            { "$ref": "#/$defs/electricSystemKind" }
           ]
         },
         "era": {
