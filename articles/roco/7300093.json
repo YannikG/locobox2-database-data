@@ -14,7 +14,7 @@
     "type": "2143",
     "number": "062-5",
     "livery": "a a",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 181,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300093-diesellokomotive-2143-062-5-regiobahn.html",

@@ -14,7 +14,7 @@
     "type": "50 1751",
     "number": null,
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "III",
     "luepMm": 265,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100046-dampflokomotive-50-1751-db.html",

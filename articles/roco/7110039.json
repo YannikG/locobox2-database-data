@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
-    "type": "50 2146-4",
-    "number": null,
+    "type": "50",
+    "number": "2146-4",
     "livery": "DR",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "III-IV",
     "luepMm": 265,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110039-dampflokomotive-50-2146-4-dr.html",

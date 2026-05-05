@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "Gattung PtL 2/2",
     "number": null,
-    "livery": "I",
-    "scale": "h0",
+    "livery": null,
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "I",
     "luepMm": 80,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110036-dampflokomotive-gattung-ptl-22-kbaystsb.html",

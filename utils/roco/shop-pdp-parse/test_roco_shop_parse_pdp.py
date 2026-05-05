@@ -352,8 +352,27 @@ class TestExtractSpecsMultiTable(unittest.TestCase):
         self.assertEqual(specs.get("Länge über Puffer"), "164 mm")
         self.assertEqual(specs.get("Mindestradius"), "358 mm")
         patch = pdp._specs_to_model_patch(specs)
+        self.assertEqual(patch.get("scale"), "H0")
         self.assertEqual(patch.get("luepMm"), 164)
         self.assertEqual(patch.get("minRadiusMm"), 358)
+
+
+class TestNormalizeSpurScale(unittest.TestCase):
+    def test_h0_variants(self) -> None:
+        self.assertEqual(pdp._normalize_spur_scale("H0"), "H0")
+        self.assertEqual(pdp._normalize_spur_scale("h0"), "H0")
+        self.assertEqual(pdp._normalize_spur_scale("ho"), "H0")
+        self.assertEqual(pdp._normalize_spur_scale("HO"), "H0")
+
+    def test_h0e_h0m(self) -> None:
+        self.assertEqual(pdp._normalize_spur_scale("H0e"), "H0e")
+        self.assertEqual(pdp._normalize_spur_scale("h0e (Schmalspur)"), "H0e")
+        self.assertEqual(pdp._normalize_spur_scale("H0m"), "H0m")
+
+    def test_letter_scales(self) -> None:
+        self.assertEqual(pdp._normalize_spur_scale("N"), "N")
+        self.assertEqual(pdp._normalize_spur_scale("z"), "Z")
+        self.assertEqual(pdp._normalize_spur_scale("TT"), "TT")
 
 
 class TestTrimDescriptionMerge(unittest.TestCase):

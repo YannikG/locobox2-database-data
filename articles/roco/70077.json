@@ -14,7 +14,7 @@
     "type": "77",
     "number": "14",
     "livery": null,
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "III",
@@ -27,7 +27,7 @@
     "dampflokomotive"
   ],
   "tags": [
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70077-dampflokomotive-7714-obb.html",

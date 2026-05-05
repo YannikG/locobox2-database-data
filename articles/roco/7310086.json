@@ -14,7 +14,7 @@
     "type": "M62-901",
     "number": null,
     "livery": "FS",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": null,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310086-diesellokomotive-m62-901-gysev.html",

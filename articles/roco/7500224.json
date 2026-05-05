@@ -14,7 +14,7 @@
     "type": "101",
     "number": "091-7",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "V",
     "luepMm": 220,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500224-elektrolokomotive-101-091-7-db-ag.html",

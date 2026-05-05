@@ -3,7 +3,7 @@
 Parse Roco Magento PDP HTML (Metas: og:* inkl. ``og:image`` → ``source.imageUrl``; fehlt die Meta, Hauptbild ``img.main-image`` / ``#img`` mit ``src`` oder ``data-src`` und PDP‑Basis‑URL absolutisieren; optional ``--image-url`` überschreibt die Bild-URL z. B. aus Chrome-Netzwerk). ``product:price:amount``; UVP sonst aus
 ``div.product-head-price`` sichtbar z. B. «277,90€», optional fehlend; Kurzbeschreibung
 bevorzugt aus ``div.product-add-form-text``, sonst ``og:description``; Zusatz-Tabelle
-``table#product-attribute-specs-table`` (**mehrere** Tabellen mit derselben ID: Allgemeine Daten, Elektrik, Abmessungen) mit ``td.col.data[data-th]``, z. B. Spur (z. B. «H0») → ``model.scale``, Stromsystem → ``model.electricSystem`` nur ``dc`` oder ``ac`` (z. B. «DC Analog» → ``dc``), Schnittstelle (Decoder/PluX, Freitext) → ``model.decoderInterface``, Bahngesellschaft → ``model.operator``, Epoche (z. B. «I») → ``model.era``, «Länge über Puffer» (LüP) → ``model.luepMm``, Mindestradius → ``model.minRadiusMm``).
+``table#product-attribute-specs-table`` (**mehrere** Tabellen mit derselben ID: Allgemeine Daten, Elektrik, Abmessungen) mit ``td.col.data[data-th]``, z. B. Spur (z. B. «H0», «H0e») → ``model.scale`` (kanonisch ``H0``, ``H0m``, ``H0e``, ``N``, ``Z``, …), Stromsystem → ``model.electricSystem`` nur ``dc`` oder ``ac`` (z. B. «DC Analog» → ``dc``), Schnittstelle (Decoder/PluX, Freitext) → ``model.decoderInterface``, Bahngesellschaft → ``model.operator``, Epoche (z. B. «I») → ``model.era``, «Länge über Puffer» (LüP) → ``model.luepMm``, Mindestradius → ``model.minRadiusMm``).
 Optional merge nach ``articles/roco/{articleNumber}.json``.
 
 Es gibt **kein** HTTP-Laden im CLI: nur ``--html-file`` oder ``--stdin`` plus optional
@@ -408,9 +408,9 @@ def _parse_min_radius_mm(raw: str) -> Optional[int]:
 
 def _normalize_spur_scale(raw: str) -> Optional[str]:
     """
-    Spur-Bezeichnung wie im Shop (z. B. «H0», «TT», «N») auf Kleinbuchstaben ohne
-    Leerzeichen, konsistent zu ``articles/roco/*.json`` (typisch ``h0``).
-    Verwechslung lateinisches «O» vs. Ziffer «0» bei H0: «ho» → «h0``.
+    Spur-Bezeichnung wie im Shop (z. B. «H0», «H0e», «TT», «N») auf kanonische
+    Schreibweise gemäss ``config/scales`` / ``article.schema.json`` (z. B. ``H0``, ``H0e``).
+    Verwechslung lateinisches «O» vs. Ziffer «0» bei H0: «ho» / «hO» → ``H0``.
     An Markup-/Export-Artefakten: angeklebte Attributsnamen («Epoche», «Spur») entfernen.
     """
     t = swiss_text(raw.strip())
@@ -419,14 +419,22 @@ def _normalize_spur_scale(raw: str) -> Optional[str]:
     t = re.sub(r"\s+", "", t).lower()
     if not t:
         return None
-    m = re.search(r"(?i)^(h0|ho|tt|n|z|g)(?![a-z0-9])", t)
-    if m:
-        chunk = m.group(1).lower()
-        if chunk in ("h0", "ho"):
-            return "h0"
-        return chunk
-    if re.fullmatch(r"h[o0]", t):
-        return "h0"
+    if t.startswith("h0e"):
+        return "H0e"
+    if t.startswith("h0m"):
+        return "H0m"
+    if re.match(r"^h0(?![a-z])", t) or re.fullmatch(r"h[o0]", t):
+        return "H0"
+    if re.match(r"^tt(?![a-z0-9])", t):
+        return "TT"
+    if re.match(r"^n(?![a-z0-9])", t):
+        return "N"
+    if re.match(r"^z(?![a-z0-9])", t):
+        return "Z"
+    if re.match(r"^g(?![a-z0-9])", t):
+        return "G"
+    if re.match(r"^0(?![a-z0-9])", t):
+        return "0"
     return t if len(t) <= 12 else None
 
 
@@ -685,7 +693,7 @@ def _model_skeleton() -> dict[str, Any]:
         "type": None,
         "number": None,
         "livery": None,
-        "scale": "h0",
+        "scale": "H0",
         "electricSystem": None,
         "decoderInterface": None,
         "era": None,
@@ -705,7 +713,7 @@ def _article_skeleton(article: str) -> dict[str, Any]:
         "model": _model_skeleton(),
         "description": "",
         "categories": ["lokomotive"],
-        "tags": ["h0"],
+        "tags": ["H0"],
         "source": {
             "url": "https://www.roco.cc/",
             "notes": "",

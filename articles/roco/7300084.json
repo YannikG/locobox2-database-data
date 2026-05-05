@@ -14,7 +14,7 @@
     "type": "L.D.61",
     "number": null,
     "livery": "FS",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "III-IV",
     "luepMm": 106,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300084-diesellokomotive-ld61-fvs.html",

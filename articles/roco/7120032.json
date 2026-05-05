@@ -9,26 +9,26 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
-    "type": "86 1563-5",
-    "number": null,
+    "type": "86",
+    "number": "1563-5",
     "livery": "DR",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "IV",
     "luepMm": 160,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Dampflokomotive, 86 1563-5, DR. 160 4Erstmals als Modell mit den markanten großen Windleitblechen für den Verkehr. Lang ausgeschnittene Wasserkästen. Feine Metallradsätze. Beheimatung Rbd Greifswald, Bw Heringsdorf. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:. Vorbildgerechte Rauchkammertüre. Windleitbleche wie im Original perfekt an den. Wasserkasten angepasst. Zierliche Materialstärke der charakteristischen. Windleitbleche.",
+  "description": "Roco Neuheiten 2026: Dampflokomotive, 86 1563-5, DR. 160 4Erstmals als Modell mit den markanten großen Windleitblechen für den Verkehr. Lang ausgeschnittene Wasserkästen. Feine Metallradsätze. Beheimatung Rbd Greifswald, Bw Heringsdorf. Vorbildgerechte Rauchkammertüre. Windleitbleche wie im Original perfekt an den. Wasserkasten angepasst. Zierliche Materialstärke der charakteristischen. Windleitbleche.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120032-dampflokomotive-86-1563-5-dr.html",

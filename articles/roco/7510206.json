@@ -14,7 +14,7 @@
     "type": "189",
     "number": "095-3",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 225,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510206-elektrolokomotive-189-095-3-db-ag.html",

@@ -14,7 +14,7 @@
     "type": "Rem 476",
     "number": "457-7",
     "livery": "Elektrolokomotive Rem 476 457-7",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 218,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510175-elektrolokomotive-rem-476-457-7-railcare.html",

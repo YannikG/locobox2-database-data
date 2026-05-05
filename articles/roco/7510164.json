@@ -14,21 +14,21 @@
     "type": "141",
     "number": "152-9",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV-V",
     "luepMm": 180,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 141 152-9, DB. In orientroter Lackierung mit Latz. Geätzte Laufstege und Scheibenwischer. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und. Führerstandsbeleuchtung. Ausführung mit elfenbeinfarbenen Griffstangen. Wendezugsteuerungskabel zur Selbstmontage beiliegend. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. Spitzen-/Schlusslicht. Die Maschinen der Baureihe E 41 (ab 1968: 141) wurden erstmals 1956. für den leichten und gemischten Dienst auf Hauptstrecken mit einer Höchst-. geschwindigkeit von 120 km/h und einer Dauerleistung von 2.310 kW an. die Deutsche Bundesbahn geliefert. Als einzige Baureihe des Einheitslok-. programms erhielten sie ein Schaltwerk auf der Niederspannungsseite des.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 141 152-9, DB. In orientroter Lackierung mit Latz. Geätzte Laufstege und Scheibenwischer. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und. Führerstandsbeleuchtung. Ausführung mit elfenbeinfarbenen Griffstangen. Wendezugsteuerungskabel zur Selbstmontage beiliegend. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Die Maschinen der Baureihe E 41 (ab 1968: 141) wurden erstmals 1956. für den leichten und gemischten Dienst auf Hauptstrecken mit einer Höchst-. geschwindigkeit von 120 km/h und einer Dauerleistung von 2.310 kW an. die Deutsche Bundesbahn geliefert. Als einzige Baureihe des Einheitslok-. programms erhielten sie ein Schaltwerk auf der Niederspannungsseite des.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510164-elektrolokomotive-141-152-9-db.html",

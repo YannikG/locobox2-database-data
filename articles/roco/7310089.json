@@ -14,7 +14,7 @@
     "type": "754",
     "number": "047-9",
     "livery": "4Variante mit Bauchbinde und blauem Dach",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "V",
     "luepMm": 190,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310089-diesellokomotive-754-047-9-cd.html",

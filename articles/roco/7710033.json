@@ -14,21 +14,21 @@
     "type": "5-tlg. Set: Elektrotriebzug „FLIRT 3“",
     "number": null,
     "livery": "VI",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": null,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: 5-tlg. Set: Elektrotriebzug „FLIRT 3“, VI. Photo: Stadler/Landesanstalt Schienenfahrzeuge Baden-Württemberg (SFBW). formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:. Zwei kräftige Motoren jeweils im Endwagen. Stromabnehmer mit innovativer Befestigung. Dachbereich aufwendig gestaltet, teilweise mit Ätzteilen ausgeführt. In der Digitalausführung mit schaltbarem Fernlicht, Spitzen-/Schlusslicht,. Führerstandsbeleuchtung, beleuchteten Zugzielanzeigen und Innenbeleuchtung.",
+  "description": "Roco Neuheiten 2026: 5-tlg. Set: Elektrotriebzug „FLIRT 3“, VI. Photo: Stadler/Landesanstalt Schienenfahrzeuge Baden-Württemberg (SFBW). Zwei kräftige Motoren jeweils im Endwagen. Stromabnehmer mit innovativer Befestigung. Dachbereich aufwendig gestaltet, teilweise mit Ätzteilen ausgeführt. In der Digitalausführung mit schaltbarem Fernlicht, Spitzen-/Schlusslicht,. Führerstandsbeleuchtung, beleuchteten Zugzielanzeigen und Innenbeleuchtung.",
   "categories": [
     "lokomotive",
     "triebzug"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7710033-5-tlg-set-elektrotriebzug-flirt-3-arverio.html",

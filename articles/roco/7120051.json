@@ -13,8 +13,8 @@
     "operator": "kkStB",
     "type": "310.21 „Gölsdorf-Edition“",
     "number": null,
-    "livery": "P|",
-    "scale": "h0",
+    "livery": "Gölsdorf-Edition",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "I",
     "luepMm": 248,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120051-dampflokomotive-31021-golsdorf-edition-kkstb.html",

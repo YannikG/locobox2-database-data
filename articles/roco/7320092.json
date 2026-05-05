@@ -14,21 +14,21 @@
     "type": "2143",
     "number": "047-5",
     "livery": "OBB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "V",
     "luepMm": 181,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Diesellokomotive, 2143 047-5, OBB. Ausführung der 3. Bauserie mit geradem Rahmen. Valousek-Design. Freistehende Griffstangen, teilweise aus Metall. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führer-. standsbeleuchtung. Mit neuem umfangreichen Sound. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 2143 047-5, OBB. Ausführung der 3. Bauserie mit geradem Rahmen. Valousek-Design. Freistehende Griffstangen, teilweise aus Metall. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führer-. standsbeleuchtung. Mit neuem umfangreichen Sound.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320092-diesellokomotive-2143-047-5-obb.html",

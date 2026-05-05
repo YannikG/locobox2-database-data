@@ -14,7 +14,7 @@
     "type": "EU05",
     "number": "25",
     "livery": "PKP",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": 186,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500122-elektrolokomotive-eu05-25-pkp.html",

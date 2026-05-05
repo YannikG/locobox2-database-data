@@ -14,7 +14,7 @@
     "type": "T3",
     "number": null,
     "livery": null,
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
     "era": "I",
@@ -27,7 +27,7 @@
     "dampflokomotive"
   ],
   "tags": [
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70035-dampflokomotive-t3-kpev.html",

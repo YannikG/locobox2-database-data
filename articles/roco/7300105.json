@@ -14,21 +14,21 @@
     "type": "232",
     "number": "550-4",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 237,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Diesellokomotive, 232 550-4, DB. Ausführung im aktuellen Betriebszustand. Zugkräftiges, betriebssicheres Modell für vorbildgerecht schwere. Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem. Spitzen-/Schlusslicht. Die DB Bahnbau Gruppe ist für die Planung, Erstellung und Instandhaltung. von Anlagen der Infrastruktur, insbesondere der Eisenbahninfrastruktur zu-. ständig. Zur Beförderung der Züge besitzt das Unternehmen eigene Loko-. motiven. Für die schwersten Aufgaben steht auch die im Frühjahr 2025 in. den Hausfarben lackierte „Ludmilla“ zur Verfügung. Seit 2010 rackert sie. für die Gleisbautruppe. Photo: T. Hüls.",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 232 550-4, DB. Ausführung im aktuellen Betriebszustand. Zugkräftiges, betriebssicheres Modell für vorbildgerecht schwere. Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem Spitzen-/Schlusslicht. Die DB Bahnbau Gruppe ist für die Planung, Erstellung und Instandhaltung. von Anlagen der Infrastruktur, insbesondere der Eisenbahninfrastruktur zu-. ständig. Zur Beförderung der Züge besitzt das Unternehmen eigene Loko-. motiven. Für die schwersten Aufgaben steht auch die im Frühjahr 2025 in. den Hausfarben lackierte „Ludmilla“ zur Verfügung. Seit 2010 rackert sie. für die Gleisbautruppe. Photo: T. Hüls.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300105-diesellokomotive-232-550-4-db-ag.html",

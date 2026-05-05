@@ -14,7 +14,7 @@
     "type": "Rh 109",
     "number": null,
     "livery": "Südbahn",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "II",
     "luepMm": 201,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100047-dampflokomotive-rh-109-sudbahn.html",

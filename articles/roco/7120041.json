@@ -14,21 +14,21 @@
     "type": "S 10.1",
     "number": "1108",
     "livery": null,
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "I",
     "luepMm": 241,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16"
   },
-  "description": "Roco Neuheiten 2026: Dampflokomotive, 1108, I. 241 4Erstmals mit PluX-Schnittstelle und LED-Beleuchtung. Erstmals mit eingesetzten Lampengläsern. Tiefliegendes Umlaufblech mit Radkästen. Mit feinen Speichenrädern aus Metall. Erstmals Ausführung mit markanten Zierlinien, die der S 10.1 ein. besonders edles Design verleihen. Dach in elfenbein Lackierung. Seitenflächen der Oberlichter in Wagenkastenfarbe. Schnellzugwagen 1./2. Klasse. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "description": "Roco Neuheiten 2026: Dampflokomotive, 1108, I. . Erstmals mit PluX-Schnittstelle und LED-Beleuchtung. Erstmals mit eingesetzten Lampengläsern. Tiefliegendes Umlaufblech mit Radkästen. Mit feinen Speichenrädern aus Metall. Erstmals Ausführung mit markanten Zierlinien, die der S 10.1 ein. besonders edles Design verleihen. Dach in elfenbein Lackierung. Seitenflächen der Oberlichter in Wagenkastenfarbe. Schnellzugwagen 1./2. Klasse.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120041-dampflokomotive-1108-kpev.html",

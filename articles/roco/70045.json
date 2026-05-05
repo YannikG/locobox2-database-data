@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
     "type": "BR 89",
     "number": "70–75",
     "livery": null,
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
     "era": "III",
@@ -27,7 +27,7 @@
     "dampflokomotive"
   ],
   "tags": [
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70045-dampflokomotive-br-8970%e2%80%9375-dr.html",

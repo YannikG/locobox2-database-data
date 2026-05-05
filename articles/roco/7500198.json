@@ -14,7 +14,7 @@
     "type": "Elektrolokomotive",
     "number": "E 44 015 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der vierachsigen",
     "livery": "NS",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": null,
     "luepMm": null,
@@ -27,7 +27,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500198-elektrolokomotive-e-44-015-drb.html",

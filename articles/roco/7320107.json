@@ -9,26 +9,26 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
     "type": "BR 110",
     "number": null,
     "livery": "DR",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "IV",
     "luepMm": 164,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Diesellokomotive, BR 110, DR. Photo: Lokstromer. Ausführung in bordeauxroter Lackierung. Erstmals Nachbildung der frühen Serien. In die Vorbauten integrierte Dachdeckel. Drehgestelle vollständig mit Bremsleitungen ausgeführt. Hohe Zugkraft und perfekte Betriebseigenschaften. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und Führerstands-. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, BR 110, DR. Photo: Lokstromer. Ausführung in bordeauxroter Lackierung. Erstmals Nachbildung der frühen Serien. In die Vorbauten integrierte Dachdeckel. Drehgestelle vollständig mit Bremsleitungen ausgeführt. Hohe Zugkraft und perfekte Betriebseigenschaften. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und Führerstands-.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320107-diesellokomotive-br-110-dr.html",

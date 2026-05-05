@@ -11,10 +11,10 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "150.Y.16",
-    "number": null,
+    "type": "150.Y",
+    "number": "16",
     "livery": "SNCF",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "III",
     "luepMm": 265,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120038-dampflokomotive-150y16-sncf.html",

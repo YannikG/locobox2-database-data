@@ -14,7 +14,7 @@
     "type": "753",
     "number": "211-2",
     "livery": "4Ausführung mit gelbem Fensterrahmen und Warnstreifen",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "V",
     "luepMm": 190,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300088-diesellokomotive-753-211-2-cd.html",

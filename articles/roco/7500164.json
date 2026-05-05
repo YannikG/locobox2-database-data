@@ -14,7 +14,7 @@
     "type": "141",
     "number": "152-9",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV-V",
     "luepMm": 180,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500164-elektrolokomotive-141-152-9-db.html",

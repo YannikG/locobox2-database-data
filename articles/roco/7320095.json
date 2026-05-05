@@ -14,7 +14,7 @@
     "type": "Y 8208",
     "number": null,
     "livery": "SNCF",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "V-VI",
     "luepMm": 117,
@@ -24,7 +24,7 @@
   "categories": [],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320095-diesellokomotive-y-8208-sncf.html",

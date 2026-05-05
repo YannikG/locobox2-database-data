@@ -14,7 +14,7 @@
     "type": "742",
     "number": "156-3",
     "livery": "V-VI",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "V-VI",
     "luepMm": 156,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310021-diesellokomotive-742-156-3-cd.html",

@@ -14,7 +14,7 @@
     "type": "Ok1-37",
     "number": null,
     "livery": "SNCF",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": 214,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110050-dampflokomotive-ok1-37-pkp.html",

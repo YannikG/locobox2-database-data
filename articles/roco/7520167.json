@@ -14,21 +14,21 @@
     "type": "482",
     "number": "038-7",
     "livery": "SBB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, n, SBB. Amtrak-Design. Erstmals im Modell mit einem Einholm- und einem Scheren-. panthographen. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt-. barem Spitzen- oder Schlusslicht. Einsatz im Güterverkehr in Schweden und Norwegen. Ausführung mit Schneepflug am Chassis. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. Spitzen-/Schlusslicht. Nordic Re-Finance hat von SBB Cargo International vier TRAXX F140 AC2. erworben. Nach dem Umbau und Neugestaltung haben sie die volle Zulas-. sung für den Verkehr in Schweden und Norwegen unter ETCS erhalten. Die.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 482 038-7, SBB. Amtrak-Design. Erstmals im Modell mit einem Einholm- und einem Scheren-. panthographen. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt-. barem Spitzen- oder Schlusslicht. Einsatz im Güterverkehr in Schweden und Norwegen. Ausführung mit Schneepflug am Chassis. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Nordic Re-Finance hat von SBB Cargo International vier TRAXX F140 AC2. erworben. Nach dem Umbau und Neugestaltung haben sie die volle Zulas-. sung für den Verkehr in Schweden und Norwegen unter ETCS erhalten. Die.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520167-elektrolokomotive-482-038-7-nrfab.html",

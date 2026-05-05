@@ -14,7 +14,7 @@
     "type": "T 478 2079",
     "number": null,
     "livery": "IV",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": 190,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310090-diesellokomotive-t-478-2079-csd.html",

@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
     "type": "38 2566-8",
     "number": null,
     "livery": "DR",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": 214,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100045-dampflokomotive-38-2566-8-dr.html",

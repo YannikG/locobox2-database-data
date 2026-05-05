@@ -14,7 +14,7 @@
     "type": "6-tlg. Set: Elektrotriebzug „FLIRT 3“",
     "number": null,
     "livery": "VI",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "VI",
     "luepMm": null,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7720032-6-tlg-set-elektrotriebzug-flirt-3-brb.html",

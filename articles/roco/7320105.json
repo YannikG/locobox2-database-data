@@ -14,7 +14,7 @@
     "type": "232",
     "number": "550-4",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "VI",
     "luepMm": 237,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320105-diesellokomotive-232-550-4-db-ag.html",

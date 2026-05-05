@@ -2,6 +2,13 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://database.locobox.ch/schemas/article.schema.json",
   "title": "Locobox Community Article",
+  "$defs": {
+    "scaleGauge": {
+      "type": "string",
+      "description": "Spur / Massstab, Schreibweise wie im deutschsprachigen Fachhandel (H mit lateinischem O, Ziffer 0).",
+      "enum": ["H0", "H0m", "H0e", "N", "Z", "TT", "G", "0"]
+    }
+  },
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -108,7 +115,7 @@
         "scale": {
           "oneOf": [
             { "type": "null" },
-            { "type": "string", "minLength": 1 }
+            { "$ref": "#/$defs/scaleGauge" }
           ]
         },
         "electricSystem": {

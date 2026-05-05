@@ -14,7 +14,7 @@
     "type": "22 „Warsteiner“",
     "number": null,
     "livery": "WLE",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 221,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310104-diesellokomotive-22-warsteiner-wle.html",

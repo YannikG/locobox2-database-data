@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
-    "type": "477 008",
-    "number": null,
-    "livery": "III",
-    "scale": "h0",
+    "type": "477",
+    "number": "008",
+    "livery": "Papousek",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "III",
     "luepMm": 199,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100033-dampflokomotive-477-008-csd.html",

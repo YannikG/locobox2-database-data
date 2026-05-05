@@ -14,21 +14,21 @@
     "type": "145",
     "number": "074-1",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 145 074-1, DB. Neukonstruierter Schienenräumer. Stromabnehmer mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Erstmals mit PluX22 Schnittstelle. Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. und Führerstandsbeleuchtung. formvarianteformvariante update. konstruktion. formvariante. Kataloggröße:.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 145 074-1, DB. Neukonstruierter Schienenräumer. Stromabnehmer mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Erstmals mit PluX22 Schnittstelle. Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führerstandsbeleuchtung.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520177-elektrolokomotive-145-074-1-db-ag.html",

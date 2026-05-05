@@ -14,7 +14,7 @@
     "type": "85",
     "number": "13",
     "livery": "Dampflokomotive 85.13",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "I",
     "luepMm": 79,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/home-neuheiten/7100048-dampflokomotive-8513-kkstb.html",

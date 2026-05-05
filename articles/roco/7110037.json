@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "Gattung Pt 2/3",
     "number": null,
-    "livery": "I",
-    "scale": "h0",
+    "livery": null,
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "I",
     "luepMm": 107,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110037-dampflokomotive-gattung-pt-23-kbaystsb.html",

@@ -14,7 +14,7 @@
     "type": "Re 620",
     "number": "052-4",
     "livery": "SBB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 222,
@@ -25,7 +25,7 @@
   "categories": [],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510211-elektrolokomotive-4620-052-4-nrfab.html",

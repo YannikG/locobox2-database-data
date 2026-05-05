@@ -14,7 +14,7 @@
     "type": "1099",
     "number": "13",
     "livery": "OBB",
-    "scale": "h0e",
+    "scale": "H0e",
     "electricSystem": "dc",
     "era": "III-IV",
     "luepMm": null,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0e"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7540008-elektrolokomotive-109913-obb.html",

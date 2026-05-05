@@ -14,7 +14,7 @@
     "type": "186",
     "number": "251-5",
     "livery": null,
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 217,
@@ -25,7 +25,7 @@
   "categories": [],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510161-elektrolokomotive-186-251-5-railpool.html",

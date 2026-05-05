@@ -14,21 +14,21 @@
     "type": "189",
     "number": "031-8",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "VI",
     "luepMm": 225,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 189 095-3 > Kupplung der Bauart AK69e beiliegend, DB. Einsatz im grenzüberschreitenden Verkehr Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht Kupplung der Bauart AK69e beiliegend Spitzenlicht mit kaltweißen Leuchtdioden (LED) Neuer originalgetreuer Sound Elektrolokomotive 189 031-8 Elektrolokomotive 189 095-3",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive 189 031-8, DB. Kupplung der Bauart AK69e beiliegend. Einsatz im grenzüberschreitenden Verkehr. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht. Kupplung der Bauart AK69e beiliegend. Spitzenlicht mit kaltweissen Leuchtdioden (LED). Neuer originalgetreuer Sound. Im Katalogtext auch Erwähnung der Variante 189 095-3.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520207-elektrolokomotive-189-031-8-db-ag.html",

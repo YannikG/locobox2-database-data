@@ -14,7 +14,7 @@
     "type": "Re 465",
     "number": "008-1",
     "livery": "BLS",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "V-VI",
     "luepMm": 212,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510172-elektrolokomotive-re-465-008-1-bls.html",

@@ -14,7 +14,7 @@
     "type": "754",
     "number": "083-4",
     "livery": "ZSSK",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 190,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310082-diesellokomotive-754-083-4-zssk.html",

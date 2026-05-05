@@ -14,7 +14,7 @@
     "type": "189",
     "number": "909-5",
     "livery": "MRCE",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 225,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500188-elektrolokomotive-189-909-5-beacon-rail.html",

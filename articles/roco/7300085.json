@@ -9,12 +9,12 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
     "type": "120",
     "number": "144-1",
     "livery": "DR",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "IV",
     "luepMm": 224,
@@ -28,7 +28,7 @@
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300085-diesellokomotive-118-158-5-dr.html",

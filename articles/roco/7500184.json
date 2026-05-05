@@ -14,21 +14,21 @@
     "type": "182",
     "number": "573-6",
     "livery": "MRCE",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "dc",
     "era": "VI",
     "luepMm": 221,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, 182 573-6, MRCE. Ausführung im aktuellen Design. Einsatz zwischen Ungarn und Österreich im hochwertigen Reisezug-. Ausgerüstet mit 3-Dachstromabnehmern für den grenzüberschrei-. tenden Verkehr. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. Spitzen-/Schlusslicht. Im Herbst 2023 unterzeichnete die MAV-Gruppe mit Akiem einen Vertrag. über die Anmietung von 15 Lokomotiven des Typs ES 64 U2, um ältere. Lokomotiven der Reihe V43 zu ersetzen. Im Gegensatz zu den MAV-eige-. nen Loks dieses Typs, sind die früher im Besitz von MRCE gestandenen. Maschinen mit ETCS ausgestattet. Sie besitzen die Zulassung für Ungarn,. Österreich, Deutschland, Rumänien, Kroatien und Serbien. Ideale Ergänzung zur 182 573-6 auf dieser Seite zur Nachbildung eines EuroCity.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 182 573-6, MRCE. Ausführung im aktuellen Design. Einsatz zwischen Ungarn und Österreich im hochwertigen Reisezug-. Ausgerüstet mit 3-Dachstromabnehmern für den grenzüberschrei-. tenden Verkehr. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Im Herbst 2023 unterzeichnete die MAV-Gruppe mit Akiem einen Vertrag. über die Anmietung von 15 Lokomotiven des Typs ES 64 U2, um ältere. Lokomotiven der Reihe V43 zu ersetzen. Im Gegensatz zu den MAV-eige-. nen Loks dieses Typs, sind die früher im Besitz von MRCE gestandenen. Maschinen mit ETCS ausgestattet. Sie besitzen die Zulassung für Ungarn,. Österreich, Deutschland, Rumänien, Kroatien und Serbien. Ideale Ergänzung zur 182 573-6 auf dieser Seite zur Nachbildung eines EuroCity.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500184-elektrolokomotive-182-573-6-mav-start.html",

@@ -14,21 +14,21 @@
     "type": "211",
     "number": "043-5",
     "livery": "DB",
-    "scale": "h0",
+    "scale": "H0",
     "electricSystem": "ac",
     "era": "IV",
     "luepMm": 139,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Diesellokomotive, 211 043-5, DB. In orientroter Lackierung mit Latz. Geätzte Laufstege und Scheibenwischer. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und. Führerstandsbeleuchtung. Ausführung mit elfenbeinfarbenen Griffstangen. Wendezugsteuerungskabel zur Selbstmontage beiliegend. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem. Spitzen-/Schlusslicht. Die Baureihe 211 leitet sich von der V 100 der Deutschen Bundesbahn ab und wurde als dieselelektrische Universallokomotive eingesetzt.",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 211 043-5, DB. In orientroter Lackierung mit Latz. Geätzte Laufstege und Scheibenwischer. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht und. Führerstandsbeleuchtung. Ausführung mit elfenbeinfarbenen Griffstangen. Wendezugsteuerungskabel zur Selbstmontage beiliegend. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Die Baureihe 211 leitet sich von der V 100 der Deutschen Bundesbahn ab und wurde als dieselelektrische Universallokomotive eingesetzt.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
   ],
   "tags": [
     "roco-neuheiten-2026",
-    "h0"
+    "H0"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320098-diesellokomotive-211-043-5-db.html",
