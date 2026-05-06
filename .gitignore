@@ -1,3 +1,6 @@
 node_modules/
 artifacts/
 site/public/search/*.json
+
+.tmp/
+**/__pycache__/
