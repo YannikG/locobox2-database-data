@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "IT",
+    "country": "HU",
     "operator": "GySEV",
     "type": "M62",
     "number": "901",
-    "livery": "FS",
+    "livery": "GySEV",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV",
