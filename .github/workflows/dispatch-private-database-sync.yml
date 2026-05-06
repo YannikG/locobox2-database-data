@@ -1,6 +1,6 @@
 # After each push to master: GitHub App installation token, then repository_dispatch on the private platform repo.
 #
-# Public repo: Variable DISPATCH_APP_CLIENT_ID, Secret DISPATCH_APP_PRIVATE_KEY.
+# Public repo secrets: DISPATCH_APP_CLIENT_ID (GitHub App Client ID), DISPATCH_APP_PRIVATE_KEY (PEM).
 # GitHub App: Contents Read and write; install only on private locobox2-database.
 
 name: Dispatch private database submodule sync
@@ -24,7 +24,7 @@ jobs:
       - uses: actions/create-github-app-token@v3
         id: app-token
         with:
-          client-id: ${{ vars.DISPATCH_APP_CLIENT_ID }}
+          client-id: ${{ secrets.DISPATCH_APP_CLIENT_ID }}
           private-key: ${{ secrets.DISPATCH_APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
           repositories: |
