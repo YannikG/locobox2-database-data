@@ -9,6 +9,8 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * Only runs when ``model.number`` is null (no overwrites of explicit numbers).
 * Skips ``model.type`` that contain marketing quotes (``„"«»``) or are very long.
 * Optional steam rule requires ``dampflokomotive`` + URL slug confirmation.
+* ``BR-<digits> <digits>`` (z. B. Roco PMT «BR-232 049») → ``type`` = Baureihe, ``number`` = Betriebsnummer.
+* Drei- oder vierstellige Reihe + ``NNN-d`` + optionaler Taufname in ``„"«`` am Ende des ``type``-Strings (z. B. «1116 238-7 „Railjet"», «193 459-5 „Deutschlandpiercer"»).
 
 Usage::
 
@@ -131,11 +133,46 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     if m:
         return ("m62_dash", "M62", m.group(1))
 
+    # z. B. «BR-232 049» (PMT / Roco-Slug): Baureihe ohne «BR-»-Präfix, Nummer separat
+    m = re.fullmatch(r"BR-(\d+) (\d+)", t)
+    if m:
+        return ("br_hyphen_nn", m.group(1), m.group(2))
+
     m = re.fullmatch(r"(\d{3}) (\d{3}-\d)", t)
     if m:
         return ("uic_3_dash", m.group(1), m.group(2))
 
     return None
+
+
+def _rule_4digit_3dash_taufname(t: str) -> Optional[Proposal]:
+    """
+    Vierstellige Baureihe + ``NNN-d`` + optionaler Taufname in Typografik-Anführungszeichen
+    (z. B. ÖBB «1116 238-7 „Railjet"»), trotz ``_skip_type_marketing``.
+    """
+    t_st = t.strip()
+    m = re.match(
+        r"^(\d{4})\s+(\d{3}-\d)(?:\s+[\u201e\u201c\u00ab\"].+)?$",
+        t_st,
+    )
+    if not m:
+        return None
+    return ("series_4_3dash_tail", m.group(1), m.group(2))
+
+
+def _rule_3digit_3dash_taufname(t: str) -> Optional[Proposal]:
+    """
+    Dreistellige Baureihe + ``NNN-d`` + optionaler Taufname in Typografik-Anführungszeichen
+    (z. B. «193 459-5 „Deutschlandpiercer"»), trotz ``_skip_type_marketing``.
+    """
+    t_st = t.strip()
+    m = re.match(
+        r"^(\d{3})\s+(\d{3}-\d)(?:\s+[\u201e\u201c\u00ab\"].+)?$",
+        t_st,
+    )
+    if not m:
+        return None
+    return ("series_3_3dash_tail", m.group(1), m.group(2))
 
 
 def propose_split(article: Article, *, include_br: bool = False) -> Optional[Proposal]:
@@ -149,6 +186,13 @@ def propose_split(article: Article, *, include_br: bool = False) -> Optional[Pro
     steam = _rule_steam_2_4(article)
     if steam:
         return steam
+
+    tauf4 = _rule_4digit_3dash_taufname(t)
+    if tauf4:
+        return tauf4
+    tauf3 = _rule_3digit_3dash_taufname(t)
+    if tauf3:
+        return tauf3
 
     if not _skip_type_marketing(t):
         p = _apply_regex_rules(t)

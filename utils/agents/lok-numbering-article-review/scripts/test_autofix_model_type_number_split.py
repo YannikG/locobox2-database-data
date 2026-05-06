@@ -62,6 +62,23 @@ class TestProposeSplit(unittest.TestCase):
             m.propose_split(art, include_br=True), ("br_class", "BR", "110")
         )
 
+    def test_br_hyphen_232(self) -> None:
+        art = {"model": {"type": "BR-232 049", "number": None}}
+        self.assertEqual(m.propose_split(art), ("br_hyphen_nn", "232", "049"))
+
+    def test_1116_railjet_typographic_quotes(self) -> None:
+        art = {"model": {"type": "1116 238-7 \u201eRailjet\u201c", "number": None}}
+        self.assertEqual(m.propose_split(art), ("series_4_3dash_tail", "1116", "238-7"))
+
+    def test_193_deutschlandpiercer_typographic_quotes(self) -> None:
+        art = {
+            "model": {
+                "type": "193 459-5 \u201eDeutschlandpiercer\u201c",
+                "number": None,
+            }
+        }
+        self.assertEqual(m.propose_split(art), ("series_3_3dash_tail", "193", "459-5"))
+
 
 if __name__ == "__main__":
     unittest.main()

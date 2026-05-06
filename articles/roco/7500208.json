@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500208",
+  "manufacturer": "Roco",
+  "articleNumber": "7500208",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1116",
+    "number": "238-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1116 238 der Österreichischen Bundesbahnen.Modell ausgerüstet mit NEM-Schacht, es liegt ein Kupplungsadapter für den Einsatz vor Railjet-Modellen bei, welche ab Werk mit elektrischer Kupplung ausgerüstet sind. Aktueller Betriebszustand mit Piktogrammen auf der Pufferbohle. Im Einsatz vor den ÖBB Railjet Zügen aber auch vor vielen anderen Zuggattungen. Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter. Lizenziertes ÖBB-Modell. Z21 Führerstand verfügbarMit der Indienststellung der ersten „Taurus“-Lokomotive Reihe 1016 im Sommer 1999 begann die rasante Modernisierung der österreichischen E-Lok-Flotte. Von dieser Universallokomotive wurde auch eine Zweisystemausführung für den Wechselstrombetrieb mit 15 kV/16,7 Hz sowie 25 kV/50 Hz beschafft. Bis 2006 wurden 282 Lokomotiven der Reihe 1116 in Dienst gestellt. Sie sind für 230 km/h zugelassen. Die Leistung beträgt 6.400 kW.Der Railjet ist ein bedeutender Bestandteil des europäischen Fernverkehrs und verbindet nicht nur wichtige Städte in Österreich, sondern auch internationale Destinationen. Die Lokomotiven 1116.201–251 wurden bei Siemens in München für die seit Dezember 2008 eingeführten Railjet-Verkehre adaptiert. 1116 238 erhielt im Mai 2011 die Ausrüstung dafür.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500208-elektrolokomotive-1116-238-7-railjet-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266178.jpg"
+  },
+  "updatedAt": "2026-05-06T19:23:15Z"
+}

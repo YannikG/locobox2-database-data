@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500166",
+  "manufacturer": "Roco",
+  "articleNumber": "7500166",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "186",
+    "number": "119-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 186 119 (2869) der Belgischen Staatsbahnen. Ausführung im aktuellen Design. Mit detaillierter Dachgestaltung. Mit separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt. Schaltbares Spitzen-/Schlusslicht mit DIP-SchalterDie Belgischen Staatsbahnen nahmen im Dezember 2024 neue Direktzüge zwischen Brüssel und Rotterdam in Betrieb. Für diesen Einsatz mietete die SNCB/NMBS von Alpha Trains, zusätzlich zu den vorhandenen Maschinen, die Lokomotiven 186 119-122 (vorher bei den Niederländischen Staatsbahnen). Sie erhielten damit das aktuelle Design der SNCB/NMBS.Mit Genehmigung von NMBS Train World.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500166-elektrolokomotive-186-119-1-sncb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264636.jpg"
+  },
+  "updatedAt": "2026-05-06T19:23:03Z"
+}

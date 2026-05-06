@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7700014",
+  "manufacturer": "Roco",
+  "articleNumber": "7700014",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 274.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "De 4/4",
+    "number": "1669",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 175,
+    "minRadiusMm": 358
+  },
+  "description": "Elektro-Gepäcktriebwagen De 4/4 1669 der Schweizerischen Bundesbahnen. Erstmals mit PluX22-Schnittstelle und LED-Beleuchtung in dieser Ausführung. Fenster im Gepäckraum mit Gitterstangen-NachbildungInsgesamt 11 Fe 4/4 erhielten in den Jahren 1930/1931 sowie 1938 eine elektrische Bremse für deren Einsatz auf der Seetalbahn sowie der steilen Strecke Vallorbe – Le Pont. Nach der Entscheidung, diese Teilserie einer Modernisierung zu unterziehen, baute die Werkstätte Yverdon 1965/1966 den De 4/4 1669 um. Er sollte damals als Muster dienen, gehörte dem Depot Lausanne an und stand vor der Fälligkeit der Hauptrevision. Der umgebaute Triebwagen erhielt unter anderem folgende Neuerungen: Führerstand für sitzende Bedienung, neue pneumatische Apparate, Drucklufthauptschalter, neue Hüpferbatterie und eine geschlossene Zugführerkabine. Klassisch blieb lediglich sein dunkelgrünes Farbkleid mit hellgrauem Untergestell.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7700014-elektro-gepacktriebwagen-de-44-1669-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258670.jpg"
+  },
+  "updatedAt": "2026-05-06T19:24:48Z"
+}

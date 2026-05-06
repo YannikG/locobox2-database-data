@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7320102",
+  "manufacturer": "Roco",
+  "articleNumber": "7320102",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 599.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 188",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 259,
+    "minRadiusMm": 358
+  },
+  "description": "Dieselelektrische Doppellokomotive V 188 002 der Deutschen Bundesbahn.Edition-Modell!Formvariante!. Epoche-IIIb-Ausführung in roter Lackierung. Entlüftungsbauteil am Dach, Rohr mit pilzförmiger Abdeckung. Je ein Batteriekasten rechts hinten auf der Lokhälfte. Doppellok gebildet aus zwei fix miteinander gekuppelten Einheiten; beide Einheiten vollwertig mit Motor ausgerüstet. Vollständige Nachbildung des Übergangsbereichs zwischen den beiden Einheiten. Aufwendig nachgebildeter Maschinenraum. Fein detailliertes Modell mit separat angesetzten Steckteilen. Rahmenblenden mit je 4 Sandkästen. Fahrtrichtungsabhängiges 3-Spitzenlicht und zwei rote Schlussleuchten. Durchbrochen dargestellte Dachlüfter. Digitalversion mit motorisch angetriebenen Ventilatoren. Im Digitalbetrieb mit schaltbarer Führerstands-, Führerpult- und Schaltkastenbeleuchtung sowie Maschinenraumbeleuchtung. „Dynamic Sound“-Paket für noch besseren Tiefenklang1941 und 1942 wurden insgesamt vier Doppellokomotiven der Type D 311 von der Deutschen Wehrmacht in Dienst gestellt. Sie waren für den Transport schwerer Eisenbahngeschütze gebaut worden. Zwei Lokomotiven, die V 188 001 a/b und die V 188 002 a/b wurden nach dem Krieg von der Deutschen Bundesbahn weiter eingesetzt. Eine dritte Lokomotive diente als Ersatzteilspender. Sie bewährten sich im schweren Güterzug- und Schiebedienst, vorwiegend auf der Spessart-Rampe. Nach einem Generatorschaden musste die V 188 001 bereits 1968 abgestellt werden. V 188 002, später 288 002 war noch bis 1972 im Fränkischen Raum in Betrieb. 1973 wurden beide Maschinen verschrottet.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7320102-dieselelektrische-doppellokomotive-v-188-002-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265438.jpg"
+  },
+  "updatedAt": "2026-05-06T19:22:52Z"
+}
