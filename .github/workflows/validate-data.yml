@@ -2,6 +2,8 @@ name: Validate Data
 
 on:
   push:
+    branches:
+      - master
   pull_request:
   workflow_dispatch:
 
@@ -15,13 +17,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: 22
+          cache: npm
 
-      - name: Install validator dependencies
-        run: pip install "jsonschema[format]>=4.22,<5"
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Validate JSON syntax, schemas, and repository conventions
-        run: python3 ".github/scripts/validate_data.py"
+      - name: Full quality gate
+        run: npm run check

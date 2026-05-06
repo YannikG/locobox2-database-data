@@ -1,12 +1,27 @@
-# After each push to master: GitHub App installation token, then repository_dispatch on the private platform repo.
+# Copy into the public data repository as .github/workflows/dispatch-private-database-sync.yml
 #
-# Public repo secrets: DISPATCH_APP_CLIENT_ID (GitHub App Client ID), DISPATCH_APP_PRIVATE_KEY (PEM PKCS#8).
-# GitHub App: Contents Read and write; install only on private locobox2-database.
+# After each push to master: mint a short-lived token for a GitHub App installed on the
+# private platform repo, then POST repository_dispatch to bump the submodule and deploy.
+#
+# On the PUBLIC repository configure (Actions → Secrets only):
+#   DISPATCH_APP_CLIENT_ID — GitHub App "Client ID" (numeric string from the app page).
+#   DISPATCH_APP_PRIVATE_KEY — App private key PEM in PKCS#8 form (see GitHub App token docs if you need openssl conversion).
+#
+# GitHub App (github.com/settings/apps or org → GitHub Apps):
+#   - Repository permission: Contents — Read and write (required for repository_dispatch).
+#   - Metadata — Read (default).
+#   - Install the app on your account/org and grant access only to the private locobox2-database repo.
+#
+# If the private repo slug is not locobox2-database, edit PRIVATE_PLATFORM_REPO below.
 
 name: Dispatch private database submodule sync
 
 on:
-  push:
+  workflow_run:
+    workflows:
+      - Validate Data
+    types:
+      - completed
     branches:
       - master
   workflow_dispatch:
@@ -20,6 +35,11 @@ env:
 jobs:
   dispatch:
     runs-on: ubuntu-latest
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.event == 'push' &&
+       github.event.workflow_run.head_branch == 'master')
     steps:
       - uses: actions/create-github-app-token@v3
         id: app-token

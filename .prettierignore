@@ -1,0 +1,9 @@
+node_modules
+artifacts
+site/public/search/**
+articles/**
+config/**
+examples/**
+skills/**
+.agents/**
+utils/**
