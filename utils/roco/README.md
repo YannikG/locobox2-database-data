@@ -1,9 +1,11 @@
 # Roco-Hilfsprogramme
 
-**Abhängigkeiten:** siehe **`../requirements.txt`** und **`../README.md`** (venv, Python **3.10+** für MCP-Import und `pip install`).
+**Abhängigkeiten:** [`../requirements.txt`](../requirements.txt) und [`../README.md`](../README.md) (venv, Python **3.10+** für MCP-Import und `pip install`).
 
-| Ordner | Zweck |
-|--------|--------|
-| **`shop-pdp-parse/`** | PDP parsen (`roco_shop_parse_pdp.py`); optional Import über Chrome-MCP-stdio (`roco_mcp_chrome_search_import.py`, [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)). Derselbe `--merge-config` / `--merge-only` wie beim Parser gilt für den Importer. Presets: `merge-pdp-specs-fields.json` (Spez-Tabelle); `merge-pdp-specs-with-title-model.json` erweitert `mergeOnly` um `model.type` / `model.number` (Titel aus `og:title`). Eigene JSON nach demselben Muster möglich. **`roco_catalogue_stub.py`:** aus einer Nummernliste **nur fehlende** `articles/roco/{nr}.json` als Stub (Duplikate in der Datei entfallen; optional ``--fail-if-nothing-created``, ``--dry-run``). |
+## `shop-pdp-parse/`
 
-Alle Skripte erwarten das Repo-Root drei Ebenen über dem jeweiligen `.py`-Pfad (`parents[3]`).
+- **`roco_shop_parse_pdp.py`:** PDP parsen und JSON mergen.
+- **`roco_mcp_chrome_search_import.py`:** optionaler Import über Chrome-MCP-stdio ([MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)); gleiche Merge-Optionen wie beim Parser (`--merge-config`, `--merge-only`). Presets: `merge-pdp-specs-fields.json` (Spezifikationstabelle); `merge-pdp-specs-with-title-model.json` erweitert `mergeOnly` um `model.type` / `model.number` (Titel aus `og:title`). Eigene JSON-Dateien nach demselben Muster möglich.
+- **`roco_catalogue_stub.py`:** aus einer Nummernliste **nur fehlende** `articles/roco/{nr}.json` als Stub anlegen (Duplikate in der Liste werden ignoriert; optional `--fail-if-nothing-created`, `--dry-run`).
+
+Skripte gehen vom **Repository-Root** aus (Pfade relativ zum Repo).

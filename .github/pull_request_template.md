@@ -1,16 +1,16 @@
 ## Zusammenfassung
 
-Bitte kurz beschreiben, was ergänzt oder korrigiert wurde.
+Kurz beschreiben, was ergänzt oder korrigiert wurde.
 
-## Checklist
+## Checkliste
 
-- [ ] Schema wurde eingehalten.
-- [ ] Pflichtfelder sind ausgefüllt.
-- [ ] Quelle (`source.url`) ist angegeben oder im PR begründet.
-- [ ] Änderungen wurden lokal geprüft (`npm run check`).
-- [ ] CI-Workflow **Validate Data** ist grün.
-- [ ] Daten sind in Deutsch gepflegt, sofern Freitext genutzt wurde.
+- [ ] Schema eingehalten.
+- [ ] Pflichtfelder ausgefüllt.
+- [ ] Quelle (`source.url`) gesetzt oder im PR begründet.
+- [ ] Lokal `npm run check` ausgeführt.
+- [ ] CI **Validate Data** ist grün.
+- [ ] Freitext auf Deutsch, sofern zutreffend.
 
-## Hinweise
+## Hinweis
 
-Wenn AI genutzt wurde, bitte kurz erwähnen, wie die Inhalte verifiziert wurden.
+Bei KI-Unterstützung: kurz erwähnen, wie Inhalte verifiziert wurden.

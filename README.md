@@ -1,18 +1,21 @@
 # locobox2-database-data
 
+[![Validate Data](https://github.com/YannikG/locobox2-database-data/actions/workflows/validate-data.yml/badge.svg)](https://github.com/YannikG/locobox2-database-data/actions/workflows/validate-data.yml)
+[![Dispatch private database submodule sync](https://github.com/YannikG/locobox2-database-data/actions/workflows/dispatch-private-database-sync.yml/badge.svg)](https://github.com/YannikG/locobox2-database-data/actions/workflows/dispatch-private-database-sync.yml)
+
 Öffentliches Datenrepository für Locobox.
 
-## Struktur
+## Ordnerstruktur
 
-- `articles/`: Artikeldaten, eine Datei pro Artikelnummer.
-- `config/`: Taxonomie und Stammdaten (`categories`, `scales`, `tags`, `features`, `electric-systems`, `decoder-interfaces`, `manufacturers`).
-- `contracts/`: Verbindliche JSON-Schemas und Data-Contract-Dokumentation.
-- `utils/`: Python-Hilfsprogramme (Roco PDP/MCP unter `utils/roco/shop-pdp-parse/`), siehe `utils/README.md` und `utils/requirements.txt`.
-- `.agents/skills/caveman/`: optionaler Agent-Skill (kurze Kommunikation).
+- `articles/` – Artikeldaten, eine JSON-Datei pro Artikel.
+- `config/` – Taxonomie und Stammdaten (`categories`, `scales`, `tags`, `features`, `electric-systems`, `decoder-interfaces`, `manufacturers`).
+- `contracts/` – verbindliche JSON-Schemas und Erläuterungen, siehe [`contracts/README.md`](contracts/README.md).
+- `utils/` – Python-Hilfsprogramme (z. B. Roco-Shop-PDP), siehe [`utils/README.md`](utils/README.md).
 
-## Einstieg
+## Mitarbeit und Qualität
 
-- Git-Hooks: [Husky](https://typicode.github.io/husky/) mit Pre-Commit (**Prettier** auf gestagete Dateien via **lint-staged**); nach `npm ci` aktiv.
-- Regeln für Beiträge: `CONTRIBUTING.md`
-- Contract-Details: `contracts/README.md`
-- Python-Tools und venv: `utils/README.md`
+Richtlinien: [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+Nach `npm ci` aktiviert [Husky](https://typicode.github.io/husky/) Git-Hooks: beim Commit formatiert **lint-staged** mit **Prettier** die **vorgemerkten** Dateien. Lint und Datenvalidierung laufen dort nicht automatisch; vor dem Push **`npm run check`** ausführen (gleicher Ablauf wie in der CI **Validate Data**).
+
+Der Workflow **Dispatch private database submodule sync** dient der internen Synchronisation mit dem privaten Datenbank-Repository und betrifft normale Daten-PRs in der Regel nicht.
