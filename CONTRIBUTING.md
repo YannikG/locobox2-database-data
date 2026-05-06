@@ -10,6 +10,8 @@ Danke für deinen Beitrag.
 4. Lokal prüfen mit `npm ci` und `npm run check` (Node 22 empfohlen).
 5. Pull Request mit kurzer Quellenangabe öffnen.
 
+Nach `npm ci` richtet das **`prepare`**-Skript **Husky** ein (`core.hooksPath`). Beim Commit läuft **lint-staged** und formatiert gestagete Dateien mit **Prettier** (gleiche Regeln wie `npm run format`, aber nur für den Index). Bei geklontem Repo ohne Hooks: einmal `npm install` oder `npm run prepare` ausführen.
+
 ## Wichtigste Regeln
 
 - Eine Datei pro Artikel.
