@@ -17,7 +17,7 @@
     "scale": "H0e",
     "electricSystem": "DC-Digital",
     "era": "III-IV",
-    "luepMm": null,
+    "luepMm": 127,
     "minRadiusMm": 261,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
   },
