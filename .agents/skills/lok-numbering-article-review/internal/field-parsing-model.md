@@ -38,6 +38,12 @@ In Frankreich erscheint die übliche **Anschrift** oft als **ein** String: **Pr�
 
 **Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier** oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings. **`model.electricSystem`** wird im Auto-Fix **nicht** aus Text oder Schwesterlogik gesetzt (siehe `SKILL.md`).
 
+## Skript-gestützter Split (Auto-Fix)
+
+**Skripte-Ordner (Repo-Root):** `utils/agents/lok-numbering-article-review/scripts/` — dort liegen Split-, OCR- und Testskripte zu diesem Skill (siehe auch `SKILL.md` → «Auto-Fix» → «Repo-Skripte»).
+
+Wenn der User **Auto-Fix** für `model.type` / `model.number` erlaubt, das Repo-Skript **`utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py`** vom **Repo-Root** ausführen: zuerst **ohne** `--apply` (nur Ausgabe), bei passendem Ergebnis **`--apply`** mit demselben Pfad-Scope. Das Skript implementiert eine **Teilmenge** der Muster aus der Tabelle oben plus konservative Zusatzregeln (u. a. SNCF-ähnlich **`BB`/`CC` + fünf Ziffern** als Lesart «Präfix + Block» in separate Felder, sofern `model.number` noch leer); es ändert **keine** `description`. Grenz- und Sonderfälle (Triebzüge, Sets, PKP-Mischformen, Marketing in `model.type`) bleiben **Finding**, nicht raten. Details und Flag **`--include-br`:** Docstring / `python3 utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py --help` sowie `SKILL.md` → Abschnitt «Mechanischer Split». Optional nur für Fliesstext-OCR in **`description`:** `utils/agents/lok-numbering-article-review/scripts/autofix_description_ocr.py` (gleiches Dry-Run-/`--apply`-Muster).
+
 ## Beispiel `articles/<hersteller>/70077.json`
 
 - Roh: `model.type` = `77.14`, `number` = null, `operator` = ÖBB, Text: „Dampflokomotive **77.14** … Reihe **77** … spätere **77.14** … 1922 als **629.29**“.

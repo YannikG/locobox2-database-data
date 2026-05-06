@@ -21,8 +21,11 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026. Als Valousek-Design wird im allgemeinen Sprachgebrauch die in den 1980er Jahren eingeführte Lackierung und die Form von Fahrzeugen der Österreichischen Bundesbahnen nach den Entwürfen des chitekten Wolfgang Valousek bezeichnet. Nach der Mitarbeit beim Design von Neubautriebwagen und Bahndienstfahrzeugen bekam er den Auftrag, ein gesamteinheitliches Erscheinungsbild für Lokomotiven und Wagen der ÖBB zu schaffen. Viele Wagen wurden dabei nicht nur umlackiert, sondern auch im Interieur neu gestaltet. Neben den bekannten Designs entstanden natürlich viele Entwürfe, die nie umgesetzt wurden. Als Hommage an Wolfgang Valousek präsentieren wir Ihnen diese besondere Lackierungsvariante eines Elektrolokomotive Rh 1144 „Valousek Edition“",
-  "categories": [],
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Rh 1144 «Valousek Edition», ÖBB. Einmalige Auflage exklusiv bei ROCO erhältlich. Mit vielen separat angesetzten Steckteilen, teilweise in Ätztechnik ausgeführt. Filigrane Stromabnehmer. Einsatz vor Personen- und Güterzügen innerhalb Österreichs und nach Deutschland. Mit schaltbarem Fernlicht, Spitzen- und Schlusslicht sowie Führerstandsbeleuchtung. Alle Artikel entstehen in Kooperation mit Wolfgang Valousek.\n\nAls Valousek-Design bezeichnet man im allgemeinen Sprachgebrauch die ab den 1980er Jahren eingeführte Lackierung und die Form von Fahrzeugen der Österreichischen Bundesbahnen nach Entwürfen des Architekten Wolfgang Valousek. Nach der Mitarbeit beim Design von Neubau-Triebwagen und Bahndienstfahrzeugen erhielt er den Auftrag, ein einheitliches Erscheinungsbild für Lokomotiven und Wagen der ÖBB zu schaffen. Viele Wagen wurden dabei nicht nur umlackiert, sondern auch im Interieur neu gestaltet. Neben den bekannten Designs entstanden zahlreiche Entwürfe, die nie umgesetzt wurden. Als Hommage an Wolfgang Valousek präsentieren wir diese besondere Lackierungsvariante einer Elektrolokomotive Rh 1144 «Valousek Edition».",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

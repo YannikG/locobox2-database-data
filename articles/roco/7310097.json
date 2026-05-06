@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC 72052",
-    "number": null,
+    "type": "CC",
+    "number": "72052",
     "livery": "SNCF",
     "scale": "H0",
     "electricSystem": "DC-Digital",

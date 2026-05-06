@@ -2,7 +2,9 @@
 name: lok-numbering-article-review
 description: >-
   Two-phase Locobox article JSON review plus optional auto-fix: (0) on request,
-  apply whitelisted splits, livery/era fixes, and same-rule fixes to sibling
+  apply whitelisted splits (prefer Python helpers under
+  utils/agents/lok-numbering-article-review/scripts/, especially
+  autofix_model_type_number_split.py for type/number splitting), livery/era fixes, and same-rule fixes to sibling
   variant articles when present in repo (per manufacturer rules in skill docs);
   country only when unambiguous. (1) full pass with findings, (2) one file at a
   time user resolves (skip / ignore). Read-only unless auto-fix or explicit edit
@@ -57,6 +59,28 @@ fi
 
 **Reihenfolge:** Scope wie unter «Git» ermitteln → **Arbeitsatz erweitern** (Schwesterartikel, siehe unten) → **Auto-Fix-Pass** auf dem erweiterten Satz → **Pass 1** (Findings; bereits korrigierte Felder kurz als «Auto-Fix erledigt» markieren) → Phase 2 unverändert.
 
+### Repo-Skripte (Python, Auto-Fix)
+
+Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`utils/agents/lok-numbering-article-review/scripts/`** (vom **Repo-Root** aus ansprechen). Dort unter anderem:
+
+- **`autofix_model_type_number_split.py`** — mechanischer Split `model.type` / `model.number` (Allowlist, ändert keine `description`).
+- **`autofix_description_ocr.py`** — optionale OCR-/Encoding-Ersetzungen nur in **`description`**.
+- **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
+
+Die folgenden Abschnitte nennen konkrete Kommandozeilen; Pfade sind immer relativ zum Repo-Root, ausser beim `cd` für `unittest`.
+
+### Mechanischer Split (`model.type` / `model.number`)
+
+Wenn der User **Auto-Fix** für zusammengezogene Typ-/Nummer-Felder will und der Pfad-Scope klar ist, **zuerst** das Repo-Skript **`utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py`** einsetzen (Allowlist dort codiert; **`description` wird nicht geändert**). Gleiche manuelle Regex-Arbeit nur, wenn das Skript den Fall nicht abdeckt oder der User explizit nur Einzelfälle ohne Skript will.
+
+- **Trockenlauf (Pflicht vor Schreiben):** im Repo-Root  
+  `python3 utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py <Pfad(e) oder Verzeichnis(se)>`  
+  Ausgabe: eine Zeile pro betroffener Datei (Regel-Kürzel, alt → neu).
+- **Schreiben:** dieselbe Zeile mit **`--apply`** (z. B. `python3 utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py --apply articles/roco`).
+- **Optional:** **`--include-br`** splittet `BR 110`-artige Werte in `BR` + Ziffernblock; standardmässig **aus**, siehe Skript-Hilfe.
+- **Tests:** `cd utils/agents/lok-numbering-article-review/scripts && python3 -m unittest test_autofix_model_type_number_split -v`
+- **Protokoll:** Skript-Ausgabe ins Chat übernehmen (keine stillen Massenänderungen).
+
 **Pflichtprotokoll:** Für jede geänderte Datei eine Zeile im Chat (oder kurze Tabelle): `Pfad`, `Feld`, `alt → neu`. Keine stillen Massenänderungen.
 
 ### Schwesterartikel (Variantengruppen, herstellerneutral)
@@ -73,6 +97,10 @@ Vor dem eigentlichen Auto-Fix den **Arbeitsatz** aus dem Git-Scope wie folgt **e
 Protokoll: Schwester-Korrekturen explizit markieren (z. B. «Schwester-Variante, gleiche Gruppe wie `articles/<hersteller>/<kern>.json`»).
 
 ### Allowlist: Splitting (`model.type` / `model.number`)
+
+Die **implementierte** mechanische Allowlist (Regex plus Dampf-Slug-Regel) liegt im Skript **`utils/agents/lok-numbering-article-review/scripts/autofix_model_type_number_split.py`**. Bei Auto-Fix-Wunsch für Splits dieses Skript verwenden; die folgenden Bulletpoints bleiben die **inhaltliche** Referenz für Review und für Fälle **ausserhalb** des Skripts.
+
+**Optional (nur `description`, OCR-Ersetzungen):** `utils/agents/lok-numbering-article-review/scripts/autofix_description_ocr.py` (Dry-Run ohne `--apply`, Schreiben mit `--apply`). Kein Ersatz für inhaltliches Review.
 
 Nur **bekannte, im Projekt oder in** [internal/field-parsing-model.md](internal/field-parsing-model.md) **dokumentierte Muster**, wenn **alle** zutreffen:
 
@@ -146,6 +174,7 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 
 | Thema | Datei |
 |--------|--------|
+| Repo-Skripte (Split, OCR, Tests) | Ordner `utils/agents/lok-numbering-article-review/scripts/` (siehe Abschnitt «Repo-Skripte» unter Auto-Fix) |
 | Splitting `model.type` / `model.number` | [internal/field-parsing-model.md](internal/field-parsing-model.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |
 | EVN / 12 Stellen | [internal/wiki-eindeutige-fahrzeugnummer.md](internal/wiki-eindeutige-fahrzeugnummer.md) |

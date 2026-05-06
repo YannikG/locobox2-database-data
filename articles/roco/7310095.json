@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Y 8208",
-    "number": null,
+    "type": "Y",
+    "number": "8208",
     "livery": "SNCF",
     "scale": "H0",
     "electricSystem": "DC-Digital",

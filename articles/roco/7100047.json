@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "Südbahn",
-    "type": "Rh 109",
-    "number": null,
+    "type": "Rh",
+    "number": "109",
     "livery": "Südbahn",
     "scale": "H0",
     "electricSystem": "DC-Analog",

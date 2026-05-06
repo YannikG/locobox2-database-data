@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 15060",
-    "number": null,
+    "type": "BB",
+    "number": "15060",
     "livery": "SNCF",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, BB 26005, SNCF. „Trains Spéciaux“-Design. Feine Ätzteile am Dach. Filigrane Ausführung der beiden unterschiedlichen Stromabnehmer. Im Digitalbetrieb Spitzenlicht nach französischem Vorbild schaltbar. und Führerstandsbeleuchtung. Front mit zusätzlicher Anschluss-Dose für Wendezug-Steuerung. Version im silber-grauen Multiservice-Design. Vorbildgerechte Dachausführung mit allen Details. „Trains Spéciaux“ ist ein von SNCF Voyageurs angebotener Service, der. es ermöglicht, einen Personenzug teilweise oder vollständig zu reservieren. Um die Lokomotiven zu kennzeichnen, die für die Traktion dieser Sonder -. züge eingesetzt werden, hat SNCF Voyageurs beschlossen, einigen Sybic-. Lokomotiven ein neues Farbkleid zu verpassen. Sie harmoniert perfekt mit.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, BB 15060, SNCF. „Trains Spéciaux“-Design. Feine Ätzteile am Dach. Filigrane Ausführung der beiden unterschiedlichen Stromabnehmer. Im Digitalbetrieb Spitzenlicht nach französischem Vorbild schaltbar. und Führerstandsbeleuchtung. Front mit zusätzlicher Anschluss-Dose für Wendezug-Steuerung. Version im silber-grauen Multiservice-Design. Vorbildgerechte Dachausführung mit allen Details. „Trains Spéciaux“ ist ein von SNCF Voyageurs angebotener Service, der. es ermöglicht, einen Personenzug teilweise oder vollständig zu reservieren. Um die Lokomotiven zu kennzeichnen, die für die Traktion dieser Sonder -. züge eingesetzt werden, hat SNCF Voyageurs beschlossen, einigen Sybic-. Lokomotiven ein neues Farbkleid zu verpassen. Sie harmoniert perfekt mit.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
