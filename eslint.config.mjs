@@ -12,7 +12,11 @@ export default [
       "examples/**",
       ".agents/**",
       "utils/**",
-      "skills/**"
+      "skills/**",
+      ".venv/**",
+      ".venv-*/**",
+      "**/.venv/**",
+      "**/site-packages/**"
     ]
   },
   js.configs.recommended,

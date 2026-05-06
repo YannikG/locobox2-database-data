@@ -157,17 +157,11 @@
           "minLength": 1
         },
         "luepMm": {
-          "oneOf": [
-            { "type": "null" },
-            { "type": "number", "minimum": 0 }
-          ],
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
           "description": "LÜP in mm; null wenn Hersteller keine Angabe liefert."
         },
         "minRadiusMm": {
-          "oneOf": [
-            { "type": "null" },
-            { "type": "number", "minimum": 0 }
-          ],
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
           "description": "Mindestradius in mm; null wenn unbekannt."
         },
         "features": {
