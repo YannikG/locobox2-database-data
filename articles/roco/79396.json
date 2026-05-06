@@ -11,9 +11,9 @@
   "model": {
     "country": null,
     "operator": "DRG",
-    "type": "38 3713",
-    "number": null,
-    "livery": "= Li: Oo",
+    "type": "38",
+    "number": "3713",
+    "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Analog",
     "era": "II",

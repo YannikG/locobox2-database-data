@@ -13,7 +13,7 @@
     "operator": "Regiobahn",
     "type": "2143",
     "number": "062-5",
-    "livery": "a a",
+    "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI",

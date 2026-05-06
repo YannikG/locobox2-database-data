@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": null,
-    "number": null,
+    "type": "515",
+    "number": "537-9",
     "livery": "DB",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -21,8 +21,12 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Akkutriebwagen 515 537-9 mit Steuerwagen. j a a i 2 _ Coo - i} pasar] -— — | — Me + “al 2!). > Freier Durchblick durch den detaillierten Fahrgastraum und den Fihrerstand. > Separat angesetzte Steckteile, wie Scheibenwischer, Rangierergriffe unter den Puffern sowie Heizkabel. 7710016 > Steuerwagen mit korrekt lackiertem Dachbereich. 7720016 > Digitalversionen mit Decoder im Trieb- und im Steuerwagen.",
-  "categories": [],
+  "description": "Akkutriebwagen 515 537 mit Steuerwagen Baureihe 815 der Deutschen Bundesbahn.\n\n■ Steuerwagen mit korrekt lackiertem Dachbereich\n■ Freier Durchblick durch den detaillierten Fahrgastraum und den Führerstand\n■ Separat angesetzte Steckteile, wie Scheibenwischer, Rangierergriffe unter den Puffern sowie Heizkabel\n■ Fein detaillierte Drehgestelle mit separat angesetzten Teilen\n■ Spitzenlicht und Innenbeleuchtung schaltbar mit DIP-Schalter\n■ Z21 Führerstand verfügbar\n\nDer Betrieb mit Akkutriebwagen wurde in Deutschland schon vor dem Ersten Weltkrieg eingeführt. Der 2-teilige Akkutriebwagen der Bauart „Wittfeld“, dessen Akkus in den markanten Vorbauten untergebracht waren, war bis nach dem Zweiten Weltkrieg im Einsatz. Nach 1945 begann die Deutsche Bundesbahn sich wieder mit dieser Antriebsart zu beschäftigen. Als „Limburger Zigarre“ hat der ETA 176 sich einen Namen gemacht, jedoch wurden nur acht Stück davon gebaut. Ab 1953 wurde dann der kostengünstigere ETA 150, der in etwa die gleichen Leistungsmerkmale vorweisen konnte, in grosser Stückzahl in Dienst gestellt. Vom ETA 150 (ab 1968 Baureihe 515) wurden bis 1965 insgesamt 232 Einheiten gebaut. Weiters wurden noch 216 Steuerwagen der Bauart ESA 150 (später Baureihe 815) in Betrieb genommen.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "akkutriebwagen"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

@@ -2,7 +2,10 @@
 """
 Parse Roco Magento PDP HTML (Metas: og:* inkl. ``og:image`` → ``source.imageUrl``; fehlt die Meta, Hauptbild ``img.main-image`` / ``#img`` mit ``src`` oder ``data-src`` und PDP‑Basis‑URL absolutisieren; optional ``--image-url`` überschreibt die Bild-URL z. B. aus Chrome-Netzwerk). ``product:price:amount``; UVP sonst aus
 ``div.product-head-price`` sichtbar z. B. «277,90€», optional fehlend; Kurzbeschreibung
-bevorzugt aus ``div.product-add-form-text``, sonst ``og:description``; Zusatz-Tabelle
+Beschreibung: bevorzugt ``itemprop="description"`` (sauberer Fliesstext), sonst
+``div.product-add-form-text`` mit erhaltenen Absätzen (``<p>``, ``<br>``, Listen),
+sonst ``og:description``; nachgelagerte Bereinigung von typischem Layout- und OCR-Müll
+in Roco-PDPs; Zusatz-Tabelle
 ``table#product-attribute-specs-table`` (**mehrere** Tabellen mit derselben ID: Allgemeine Daten, Elektrik, Abmessungen) mit ``td.col.data[data-th]``, z. B. Spur (z. B. «H0», «H0e») → ``model.scale`` (kanonisch ``H0``, ``H0m``, ``H0e``, ``N``, ``Z``, …), Stromsystem → ``model.electricSystem`` (kanonisch ``DC-Analog``, ``DC-Digital``, ``AC-Analog``, ``AC-Digital``; z. B. «DC Analog», «DCC», «Wechselstrom»), Schnittstelle (Decoder/PluX, Freitext) → ``model.decoderInterface``, Bahngesellschaft → ``model.operator``, Epoche (z. B. «I») → ``model.era``, «Länge über Puffer» (LüP) → ``model.luepMm``, Mindestradius → ``model.minRadiusMm``).
 Optional merge nach ``articles/roco/{articleNumber}.json``.
 
@@ -51,6 +54,7 @@ _ROCO_TITLE_CATEGORY_PREFIXES: tuple[str, ...] = tuple(
             "Speisewagen",
             "Schlafwagen",
             "Triebzug",
+            "Akkutriebwagen",
             "Steuerwagen",
             "Dampflok",
             "Elektrolok",
@@ -177,6 +181,154 @@ def _normalize_desc(raw: Optional[str]) -> Optional[str]:
     return t.strip()
 
 
+def _strip_html_comments_and_scripts(fragment: str) -> str:
+    """Skripte, Styles und HTML-Kommentare entfernen (vor Text-Extraktion)."""
+    t = re.sub(
+        r"<script\b[^>]*>[\s\S]*?</script>",
+        " ",
+        fragment,
+        flags=re.I,
+    )
+    t = re.sub(r"<style\b[^>]*>[\s\S]*?</style>", " ", t, flags=re.I)
+    t = re.sub(r"<!--[\s\S]*?-->", " ", t)
+    return t
+
+
+def _html_fragment_to_description_text(fragment: str) -> str:
+    """
+    Inneres PDP-HTML in lesbaren Fliesstext mit Zeilenumbrüchen (Absätze, Aufzählung).
+    Kein aggressives ``\\n`` → Leerzeichen wie früher bei ``product-add-form-text``.
+    """
+    t = _strip_html_comments_and_scripts(fragment)
+    t = re.sub(r"<br\s*/?>", "\n", t, flags=re.I)
+    t = re.sub(r"</p\s*>", "\n\n", t, flags=re.I)
+    t = re.sub(r"</div\s*>", "\n", t, flags=re.I)
+    t = re.sub(r"</li\s*>", "\n", t, flags=re.I)
+    t = re.sub(r"<li\b[^>]*>", "\n", t, flags=re.I)
+    t = re.sub(r"</h[1-6]\s*>", "\n\n", t, flags=re.I)
+    t = re.sub(r"<h[1-6]\b[^>]*>", "\n", t, flags=re.I)
+    raw = html_lib.unescape(_strip_html_tags(t))
+    raw = raw.replace("\xa0", " ").replace("&nbsp;", " ")
+    lines = [re.sub(r"[ \t]+", " ", ln).strip() for ln in raw.splitlines()]
+    out: list[str] = []
+    for ln in lines:
+        if not ln:
+            if out and out[-1] != "":
+                out.append("")
+            continue
+        out.append(ln)
+    while out and out[-1] == "":
+        out.pop()
+    text = "\n".join(out)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return swiss_text(text.strip())
+
+
+def _line_is_roco_description_noise(line: str) -> bool:
+    """Heuristik: typische Roco-PDP-Zeilen mit Kreuzverweisen / OCR-Artefakten."""
+    s = line.strip()
+    if not s:
+        return True
+    if len(s) <= 2:
+        return True
+    if re.match(r"^\d{5,8}\s*>\s*", s):
+        return True
+    if re.match(r"^\d{5,8}\s+[A-Za-z]\s+[A-Z]{1,3}\b", s) and len(s) < 40:
+        return True
+    letters = sum(1 for c in s if c.isalpha())
+    if len(s) >= 18 and letters / len(s) < 0.12:
+        return True
+    if re.fullmatch(r"[\s\W_]+", s):
+        return True
+    return False
+
+
+def _sanitize_description_paragraphs(text: str) -> str:
+    """Zeilen mit offensichtlichem Müll entfernen, Absätze zusammenführen."""
+    if not text or not str(text).strip():
+        return ""
+    lines = str(text).splitlines()
+    kept: list[str] = []
+    for ln in lines:
+        if _line_is_roco_description_noise(ln):
+            continue
+        kept.append(ln.rstrip())
+    out: list[str] = []
+    for ln in kept:
+        if not ln.strip():
+            if out and out[-1] != "":
+                out.append("")
+            continue
+        out.append(ln.strip())
+    while out and out[-1] == "":
+        out.pop()
+    t = "\n".join(out)
+    t = re.sub(r"\n{3,}", "\n\n", t)
+    return swiss_text(t.strip())
+
+
+def _description_text_quality_score(text: str) -> float:
+    """
+    Höher = plausiblerer Fliesstext.
+    Buchstabenmasse mal Buchstabenanteil²: kurze ``og:description`` schlägt nicht
+    einen längeren ``itemprop``- oder PDP-Block mit hohem Wortanteil.
+    """
+    if not text or not text.strip():
+        return -1.0
+    s = text.strip()
+    letters = sum(1 for c in s if c.isalpha())
+    ratio = letters / max(len(s), 1)
+    return float(letters) * (ratio**2) + min(len(s), 2000) / 2000.0 * 0.5
+
+
+def _extract_itemprop_description(html: str) -> Optional[str]:
+    """
+    Volltext: ``<meta itemprop="description" content="…">`` oder erster Block
+    ``itemprop="description"`` (Magento: ``div``/``section`` mit Fliesstext).
+    """
+    mm = re.search(
+        r'<meta\b[^>]*\bitemprop\s*=\s*["\']description["\'][^>]*\bcontent\s*=\s*["\']([^"\']*)["\']',
+        html,
+        re.I,
+    )
+    if not mm:
+        mm = re.search(
+            r'<meta\b[^>]*\bcontent\s*=\s*["\']([^"\']*)["\'][^>]*\bitemprop\s*=\s*["\']description["\']',
+            html,
+            re.I,
+        )
+    if mm:
+        t = html_lib.unescape(mm.group(1)).strip()
+        return t if t else None
+    m = re.search(
+        r"<\s*(div|section|article|span)\b([^>]*\bitemprop\s*=\s*[\"']description[\"'][^>]*)>",
+        html,
+        re.I,
+    )
+    if not m:
+        return None
+    tag = m.group(1).lower()
+    start = m.end()
+    close_re = re.compile(rf"</{re.escape(tag)}\s*>", re.I)
+    open_re = re.compile(rf"<\s*{re.escape(tag)}\b[^>]*>", re.I)
+    depth = 1
+    pos = start
+    while depth > 0:
+        nm = open_re.search(html, pos)
+        cm = close_re.search(html, pos)
+        if not cm:
+            return None
+        if nm is not None and nm.start() < cm.start():
+            depth += 1
+            pos = nm.end()
+        else:
+            depth -= 1
+            if depth == 0:
+                return html[start : cm.start()]
+            pos = cm.end()
+    return None
+
+
 def _extract_inner_html_of_div_with_class(
     html: str, class_token: str
 ) -> Optional[str]:
@@ -218,14 +370,53 @@ def _extract_inner_html_of_div_with_class(
 
 
 def _extract_product_add_form_text(html: str) -> Optional[str]:
-    """Sichtbarer Kurztext unter ``product-add-form-text`` (Kurzbeschreibung PDP)."""
+    """Sichtbarer Text unter ``product-add-form-text`` (Absätze/Zeilenumbrüche erhalten)."""
     inner = _extract_inner_html_of_div_with_class(html, "product-add-form-text")
     if not inner:
         return None
-    raw = html_lib.unescape(_strip_html_tags(inner))
-    raw = raw.replace("\xa0", " ").replace("&nbsp;", " ")
-    raw = re.sub(r"\s+", " ", raw).strip()
-    return _normalize_desc(raw)
+    raw = _html_fragment_to_description_text(inner)
+    out = _sanitize_description_paragraphs(raw)
+    return out or None
+
+
+def _pick_product_description(html: str, og_description_raw: Optional[str]) -> Optional[str]:
+    """
+    Wählt die plausibelste PDP-Beschreibung: ``itemprop=description`` vor
+    ``product-add-form-text``, danach (nur wenn besser bewertet) ``og:description``.
+    """
+    candidates: list[tuple[str, str]] = []
+    ip = _extract_itemprop_description(html)
+    if ip:
+        t = _sanitize_description_paragraphs(_html_fragment_to_description_text(ip))
+        if t:
+            candidates.append(("itemprop", t))
+    af = _extract_product_add_form_text(html)
+    if af:
+        candidates.append(("add_form", af))
+    if og_description_raw and str(og_description_raw).strip():
+        og_one = _normalize_desc(og_description_raw)
+        if og_one:
+            candidates.append(("og", og_one))
+    best_src = ""
+    best_txt = ""
+    best_sc = -1.0
+    for src, txt in candidates:
+        sc = _description_text_quality_score(txt)
+        if sc > best_sc:
+            best_sc = sc
+            best_src, best_txt = src, txt
+    # Sehr kurze og:-Zeile nicht gegen deutlich längeren PDP-Text bevorzugen
+    if best_src == "og" and len(best_txt.strip()) < 90:
+        for src, txt in candidates:
+            if src == "og":
+                continue
+            t2 = txt.strip()
+            if len(t2) < 80:
+                continue
+            sc2 = _description_text_quality_score(txt)
+            if sc2 >= max(12.0, best_sc * 0.35):
+                return t2
+    return best_txt or None
 
 
 def _price_amount(raw: Optional[str]) -> Optional[float]:
@@ -634,9 +825,10 @@ def _should_apply_title_derived(merge_only: Optional[set[str]]) -> bool:
 def parse_pdp(html: str, fallback_url: Optional[str] = None) -> dict[str, Any]:
     canon = _meta_prop(html, "og:url") or fallback_url or ""
     title = _meta_prop(html, "og:title")
-    desc_pdp = _extract_product_add_form_text(html)
-    desc_og = _normalize_desc(_meta_prop(html, "og:description"))
-    desc = desc_pdp if desc_pdp else desc_og
+    desc_og_raw = _meta_prop(html, "og:description")
+    desc = _pick_product_description(html, desc_og_raw)
+    if not desc:
+        desc = _normalize_desc(desc_og_raw)
     price = _price_amount(_meta_prop(html, "product:price:amount"))
     if price is None:
         price = _extract_product_head_price_amount(html)

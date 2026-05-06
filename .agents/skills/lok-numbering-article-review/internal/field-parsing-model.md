@@ -14,6 +14,7 @@ Locobox-Schema (`contracts/article.schema.json`): `model.type` und `model.number
 | Muster | Typische Bedeutung | Split-Idee |
 |--------|-------------------|------------|
 | `NNN nnn-n` oder `NNN nnn-n` mit Leerzeichen | DB-ähnlich: Baureihe, Ordnungsnummer, Prüfziffer | `type` = Baureihe (z. B. `103`), `number` = `245-3` oder komplett `103 245-3` in `type`, `number` null je nach Projekt-Konvention |
+| `NN NNNN` (zwei Ziffern, Leerzeichen, **genau** vier Ziffern; oft Dampf-Titel ohne Prüfziffer) | z. B. `38 3713`, `50 1751` | `type` = `38`, `number` = `3713` (Slug `38-3713` in der URL bestätigt); **Auto-Fix** nur wenn Allowlist in `SKILL.md` erfüllt |
 | `NN.mm` oder `NNN.mmm` (Punkt) | Österreich, Schweiz, frühe Bezeichnungen: **Reihe / Unternummer** (oft ohne führende Null bei zweiter Gruppe) | `type` = Reihe (`77`), `number` = `14` oder `014`; Punktnotation in `type` nur behalten, wenn eure Datenbank das so indexiert |
 | `Re 460 003-7` (Buchstaben + Ziffern + Strich) | CH-Kurzform | `type` oft Präfix + Baureihe (`Re 460`), `number` = `003-7`; Varianten möglich |
 | `193 452-0 „Schweizpiercer“` (oder Deutschlandpiercer, ähnliche Shop-/Marketingnamen im Import) | Baureihe + EVN-Teil + **Folien-/Marketingname** | `type` `193`, `number` `452-0`, **`livery`** z. B. `Schweizpiercer` (nicht nur generisch `SBB`, wenn der Name die Lackvariante beschreibt) |
@@ -31,7 +32,7 @@ Locobox-Schema (`contracts/article.schema.json`): `model.type` und `model.number
 
 ## Hersteller und Variantengruppen (Auto-Fix)
 
-**Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier** oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings.
+**Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier** oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings. **`model.electricSystem`** wird im Auto-Fix **nicht** aus Text oder Schwesterlogik gesetzt (siehe `SKILL.md`).
 
 ## Beispiel `articles/<hersteller>/70077.json`
 
