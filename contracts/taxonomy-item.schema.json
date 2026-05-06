@@ -16,7 +16,8 @@
     },
     "slug": {
       "type": "string",
-      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      "description": "URL- und dateisystemfreundlicher Slug; Dateiname ist slug in Kleinbuchstaben (z. B. H0 in tags/h0.json).",
+      "pattern": "^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*$"
     },
     "description": {
       "type": "string"
