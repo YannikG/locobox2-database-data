@@ -5,7 +5,7 @@
   "articleNumber": "7540007",
   "releaseDate": "Frühling 2026",
   "uvp": {
-    "amount": 239.0,
+    "amount": 239,
     "currency": "EUR"
   },
   "model": {
@@ -27,8 +27,7 @@
     "diesellokomotive"
   ],
   "tags": [
-    "roco-neuheiten-2026",
-    "H0e"
+    "roco-neuheiten-2026"
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7540007-diesellokomotive-209513-obb.html",
