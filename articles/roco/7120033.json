@@ -21,8 +21,11 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026. Teile des Modells aus Metall hergestellt Markante blaue Lackierung mit weißen Zierelementen Freier Durchblick zwischen Kessel und Rahmen Im Digitalbetrieb mit schaltbarer Triebwerks- und Führerstandsbeleuchtung In der Digitalausführung mit dynamischen Dampfausstoß aus dem Schornstein formvarianteformvariante update",
-  "categories": [],
+  "description": "Roco Neuheiten 2026. Teile des Modells aus Metall hergestellt. Markante blaue Lackierung mit weißen Zierelementen Freier Durchblick zwischen Kessel und Rahmen. Im Digitalbetrieb mit schaltbarer Triebwerks- und Führerstandsbeleuchtung. In der Digitalausführung mit dynamischen Dampfausstoß aus dem Schornstein",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

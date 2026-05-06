@@ -28,6 +28,7 @@ _REPLACEMENTS: list[tuple[str, str]] = [
     ("Fiihrer-", "Führer-"),
     ("Fiihrer.", "Führer."),
     ("Fiihrer", "Führer"),
+    ("Filhrer", "Führer"),
     ("Fihrerstands", "Führerstands"),
     ("Fihrer", "Führer"),
     ("Riickwand", "Rückwand"),
@@ -101,6 +102,40 @@ _REPLACEMENTS: list[tuple[str, str]] = [
     ("Schlusslicht. und", "Schlusslicht und"),
     (",,Taigatrommel\"", "«Taigatrommel»"),
     (",,Taigatrommel", "«Taigatrommel»"),
+    # G2: Parser / Shop glue and junk (Roco imports)
+    ("formvarianteformvariante update. konstruktion.", ""),
+    ("formvarianteformvariante update.", ""),
+    ("formvarianteformvariante update", ""),
+    ("RangierlichtDie ", "Rangierlicht. Die "),
+    ("Spitzen-/SchlusslichtDie ", "Spitzen-/Schlusslicht. Die "),
+    ("gestellt.Durch ", "gestellt. Durch "),
+    ("Gesellschaft.Edition", "Gesellschaft. Edition"),
+    ("Modell!Formvariante", "Modell! Formvariante"),
+    ("Staatsbahnen.Formvariante", "Staatsbahnen. Formvariante"),
+    ("Crossrail.Formvariante", "Crossrail. Formvariante"),
+    ("verfügbarCrossrail", "verfügbar. Crossrail"),
+    ("Befestigung1961", "Befestigung. 1961"),
+    ("fahren.Die ", "fahren. Die "),
+    ("fahren.Die Umlackierung", "fahren. Die Umlackierung"),
+    ("Schnell-. zuglokomotive", "Schnellzuglokomotive"),
+    ("steigungsrei-. chen", "steigungsreichen"),
+    ("Leistung. von rund", "Leistung von rund"),
+    ("Thüringen im. Einsatz", "Thüringen im Einsatz"),
+    ("Bundesbahn, die. sie ", "Bundesbahn, die sie "),
+    ("Führerstandsbeleuchtung In der", "Führerstandsbeleuchtung. In der"),
+    ("TriebwerksbeleuchtungFür die", "Triebwerksbeleuchtung. Für die"),
+    ("Triebwerksbeleuchtung Für die", "Triebwerksbeleuchtung. Für die"),
+    ("schaltbar Für die", "schaltbar. Für die"),
+    ("hergestellt Markante", "hergestellt. Markante"),
+    ("Rahmen Im Digitalbetrieb", "Rahmen. Im Digitalbetrieb"),
+    ("Schnittstelle Zwischen ", "Schnittstelle. Zwischen "),
+    ("Neukonsturierter ", "Neukonstruierter "),
+    ("Widerstands-und ", "Widerstands- und "),
+    ("Formvariante! .  ", "Formvariante! "),
+    ("Formvariante! . ", "Formvariante! "),
+    ("StromversorgungIm ", "Stromversorgung. Im "),
+    ("ersetzen.Die ", "ersetzen. Die "),
+    ("TER.Das ", "TER. Das "),
 ]
 
 
@@ -108,7 +143,7 @@ def _apply(desc: str) -> str:
     s = desc
     for old, new in _REPLACEMENTS:
         s = s.replace(old, new)
-    return s
+    return s.rstrip()
 
 
 def _walk(paths: list[Path]) -> list[Path]:

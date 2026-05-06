@@ -21,8 +21,11 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
   },
-  "description": "Diesellokomotive Nr. 1 der Deutschen Bundespost. Erstmals mit neuer Schnittstelle Next18. Lok der Oberpostdirektion Hannover. Vergrösserter Kühlwasserausgleichsbehälter. Im Digitalbetrieb mit schaltbarem RangierlichtDie Diesellokomotiven vom Typ WR 360 C 14 wurden ursprünglich von der deutschen Wehrmacht für den Einsatz an strategisch wichtigen Punkten eingesetzt. Bei der Lok Nr. 1 handelt es sich um einen Nachbau der Firma Maschinenbau Kiel (MaK) aus dem Jahr 1948. Bei der Oberpostdirektion Hannover liefen in der Zeit zwischen 1948 und 1972 Post-eigene Lokomotiven sowohl im Postbahnhof wie auch in den angrenzenden DB-Bahnhöfen. In Summe waren dies 4 Lokomotiven (Nr. 1 bis Nr. 4).",
-  "categories": [],
+  "description": "Diesellokomotive Nr. 1 der Deutschen Bundespost. Erstmals mit neuer Schnittstelle Next18. Lok der Oberpostdirektion Hannover. Vergrösserter Kühlwasserausgleichsbehälter. Im Digitalbetrieb mit schaltbarem Rangierlicht. Die Diesellokomotiven vom Typ WR 360 C 14 wurden ursprünglich von der deutschen Wehrmacht für den Einsatz an strategisch wichtigen Punkten eingesetzt. Bei der Lok Nr. 1 handelt es sich um einen Nachbau der Firma Maschinenbau Kiel (MaK) aus dem Jahr 1948. Bei der Oberpostdirektion Hannover liefen in der Zeit zwischen 1948 und 1972 Post-eigene Lokomotiven sowohl im Postbahnhof wie auch in den angrenzenden DB-Bahnhöfen. In Summe waren dies 4 Lokomotiven (Nr. 1 bis Nr. 4).",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

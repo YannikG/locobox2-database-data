@@ -22,7 +22,10 @@
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Elektrolokomotive 263 010-1 Ausführung für Wechselstromnetz Stromabnehmer mit innovativer Befestigung Kurze Handläufe unter den Stirnfenstern Aufwendige Gestaltung der Lüfterlamellen mit freiem Durchblick Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder Mit beiliegenden Bahnräumern und Luftkesseln in geschlossener Form zur vorbildgetreuen Vitrinendarstellung Zur Erneuerung des Fuhrparks der CSD entwickelte Skoda ab der zweiten Hälfte der 1970er Jahre die 2. Generation von Universal-Elektrolokomotiven. Daraus stammt die Reihe S 499.2. Der Buchstabe „S“ steht dabei für Wechselstrom. Die beiden Prototyp-Lokomotiven wurden 1984 geliefert und gründlich erprobt. Bei einer Stundenleistung von 3.060 kW wird eine Höchstgeschwindigkeit von 120 km/h erreicht. Die Serienlieferung von zehn Loks erfolgte 1988 mit der neuen Reihenbezeichnung 263. Die Serienlokomotiven sind im Besitz der ZSSK, sie sind in Bratislava beheimatet und bedienen in der Regel die Strecke Bratislava – Breclav.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

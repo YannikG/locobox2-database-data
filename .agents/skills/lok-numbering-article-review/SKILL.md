@@ -65,6 +65,7 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`utils/agents/lok-numbe
 
 - **`autofix_model_type_number_split.py`** — mechanischer Split `model.type` / `model.number` (Allowlist, ändert keine `description`).
 - **`autofix_description_ocr.py`** — optionale OCR-/Encoding-Ersetzungen nur in **`description`**.
+- **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Kategorie (sonst kein Schreiben).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
 
 Die folgenden Abschnitte nennen konkrete Kommandozeilen; Pfade sind immer relativ zum Repo-Root, ausser beim `cd` für `unittest`.

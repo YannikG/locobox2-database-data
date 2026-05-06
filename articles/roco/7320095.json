@@ -21,7 +21,10 @@
     "minRadiusMm": 358
   },
   "description": "Roco Neuheiten 2026. Mit Wappen „La Baule“ Viele separat angesetzte Steckteile, teilweise als Ätzteil ausgeführt Einsatz vor Schnellzügen auf nicht elektrifizierten Hauptbahnen Im Digitalbetrieb mit schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung und schaltbaren Lüfterrädern",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

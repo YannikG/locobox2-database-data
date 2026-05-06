@@ -22,7 +22,10 @@
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Elektrolokomotive 101 091-7 Einmalige und streng limitierte Aufl age im aufwendigen \"Bayer\"-Werbedesign Erstes Modell der \"ROCO COLLECTOR´S EDITION\" Reihe Freistehende Griffstangen und Scheibenwischer, teilweise aus Metall Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

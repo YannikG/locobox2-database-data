@@ -22,7 +22,10 @@
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Das Lokvermietungsunternehmen Nordic Re-Finance übernimmt einen Teil. des ehemaligen Re 620-Fuhrparks der SBB Cargo. Mit der Re 620 052. ist im Jahr 2025 eine erste Maschine nach Schweden überführt worden. Als Hommage an die Schweiz, trägt die Lokomotive eine alpenländische. Aufwendig bedrucktes Modell. Eingesetzte, filigrane Ätzteile wie Lüftungsgitter und Scheiben-. Eckige Lampen. Feine Speichenräder und Stromabnehmer. Aufwendige Lackierung und Bedruckung. Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder. Feine Metallräder mit niedrigen Spurkränzen. Vollständig neu entwickelte Stromabnehmer mit innovativer.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"

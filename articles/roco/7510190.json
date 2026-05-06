@@ -22,7 +22,10 @@
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
   "description": "Roco Neuheiten 2026. Ausführung mit abgerundeten Maschinenraumfenster Modernisierte Griffstangen bei den Einstiegstüren Im Digitalbetrieb mit schaltbarem Rangierlicht und schaltbarem",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "roco-neuheiten-2026",
     "H0"
