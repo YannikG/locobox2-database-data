@@ -1,5 +1,7 @@
 # Dänemark (DSB, Arriva DK, …): Plausibilität für Locobox-Artikel
 
+Gesamtübersicht **Lokomotiven und Triebwagen der Danske Statsbaner**: deutschsprachige Wikipedia [«Liste von Lokomotiven und Triebwagen der Danske Statsbaner»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Danske_Statsbaner) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -30,4 +32,8 @@
 
 ## Provenienz
 
-Kompakt aus der englischsprachigen Wikipedia-Liste «List of DSB locomotives and multiple units» (Dampf / Diesel / Elektro / DMU / EMU / S-trains).
+**Primär:** deutschsprachige Wikipedia «Liste von Lokomotiven und Triebwagen der Danske Statsbaner»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Danske_Statsbaner
+
+**Hinweis:** Früher Bezug auf die englischsprachige DSB-Liste; massgeblich ist die **deutschsprachige** Gesamtliste (Link oben).
+
+Inhalt dieser Datei **komprimiert offline**.

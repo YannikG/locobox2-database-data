@@ -1,5 +1,7 @@
 # Rumänien (CFR): Plausibilität für Locobox-Artikel
 
+Kontext **Căile Ferate Române** (CFR): deutschsprachiger Wikipedia-Artikel [«Căile Ferate Române»](https://de.wikipedia.org/wiki/C%C4%83ile_Ferate_Rom%C3%A2ne) (Netz, Gesellschaften; siehe Provenienz). Eine **einzige** dewiki-Gesamtliste aller Triebfahrzeugbaureihen wie bei anderen Ländern fehlt oft; Baureihen über Einzelartikel und Fachliteratur abstützen.
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -30,4 +32,10 @@
 
 ## Provenienz
 
-Kompakt aus der englischsprachigen Wikipedia-Liste «Rolling stock of the Romanian Railways» (Gliederung Elektro / Diesel / EMU / DMU).
+**Primär (CFR, deutsch):** https://de.wikipedia.org/wiki/C%C4%83ile_Ferate_Rom%C3%A2ne
+
+**Ergänzend (Dampf-Museumslok-Übersicht, deutsch):** https://de.wikipedia.org/wiki/Liste_in_Rum%C3%A4nien_vorhandener_Dampflokomotiven
+
+**Ergänzend (englisch, Rollmaterial-Übersicht):** https://en.wikipedia.org/wiki/Rolling_stock_of_the_Romanian_Railways
+
+Inhalt dieser Datei **komprimiert offline**.

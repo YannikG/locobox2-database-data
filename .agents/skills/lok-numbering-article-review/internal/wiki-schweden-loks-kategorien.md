@@ -1,5 +1,7 @@
 # Schweden: Plausibilität für Locobox-Artikel (Lokomotiven)
 
+Gesamtübersicht **Lokomotiven und Triebwagen der Schwedischen Staatsbahnen**: deutschsprachige Wikipedia [«Liste von Lokomotiven und Triebwagen der Schwedischen Staatsbahnen»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Schwedischen_Staatsbahnen) (siehe Provenienz). Zum Nummernsystem: [Baureihenschema der Schwedischen Staatsbahnen](https://de.wikipedia.org/wiki/Baureihenschema_der_Schwedischen_Staatsbahnen).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -36,4 +38,10 @@
 
 ## Provenienz
 
-Kategorienbaum «Locomotives of Sweden» (englische Wikipedia) diente als Checkliste für Untergliederung Dampf / Elektro / Diesel / Diesel-elektrisch / Normalspur / SJ / Green Cargo; Inhalt hier **komprimiert offline** nutzbar.
+**Primär:** deutschsprachige Wikipedia «Liste von Lokomotiven und Triebwagen der Schwedischen Staatsbahnen»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Schwedischen_Staatsbahnen
+
+**Ergänzend:** «Baureihenschema der Schwedischen Staatsbahnen»: https://de.wikipedia.org/wiki/Baureihenschema_der_Schwedischen_Staatsbahnen
+
+**Hinweis:** Früher Bezug auf den englischsprachigen Kategorienbaum «Locomotives of Sweden»; für Reviews die **deutschsprachigen** Artikel (Links oben) bevorzugen.
+
+Inhalt dieser Datei **komprimiert offline**.

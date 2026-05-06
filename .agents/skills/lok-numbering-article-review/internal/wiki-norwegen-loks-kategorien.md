@@ -1,5 +1,7 @@
 # Norwegen: Plausibilität für Locobox-Artikel (Lokomotiven)
 
+Übersicht **Lokomotiven und Triebwagen** norwegischer Bahnen (Gattungen, Betreiber, Triebfahrzeugtypen): deutschsprachige Wikipedia [«Liste von Lokomotiven und Triebwagen der Norwegischen Eisenbahnen»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Norwegischen_Eisenbahnen) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -38,4 +40,6 @@
 
 ## Provenienz
 
-Kategorienbaum «Locomotives of Norway» (englische Wikipedia) diente als Checkliste (Diesel / Diesel-elektrisch / Elektro / Dampf / Normalspur / NSB / CargoNet / Norsk Transport); Inhalt hier **komprimiert offline**.
+**Primär:** Struktur und Triebfahrzeugtypen aus der deutschsprachigen Wikipedia «Liste von Lokomotiven und Triebwagen der Norwegischen Eisenbahnen»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_Norwegischen_Eisenbahnen
+
+**Hinweis:** Früher Bezug auf den englischsprachigen Kategorienbaum «Locomotives of Norway»; für Reviews und Baureihen-Plausibilität die **deutschsprachige Gesamtliste** (Link oben) massgeblich. Inhalt dieser Datei **komprimiert offline**.

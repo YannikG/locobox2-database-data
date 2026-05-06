@@ -1,5 +1,7 @@
 # Italien (FS, Trenitalia, Regionalbahnen, Italo): Plausibilität für Locobox-Artikel
 
+Gesamtübersicht **italienische Lokomotiven und Triebwagen** (Gliederung nach Gesellschaften und Antrieb): deutschsprachige Wikipedia [«Liste der italienischen Lokomotiven und Triebwagen»](https://de.wikipedia.org/wiki/Liste_der_italienischen_Lokomotiven_und_Triebwagen) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -38,4 +40,6 @@
 
 ## Provenienz
 
-Kompakt aus der deutschsprachigen Wikipedia-Liste «Liste der italienischen Lokomotiven und Triebwagen» (Gliederung nach Gesellschaften und Antrieb).
+**Primär:** Struktur und Baureihen aus der deutschsprachigen Wikipedia «Liste der italienischen Lokomotiven und Triebwagen»: https://de.wikipedia.org/wiki/Liste_der_italienischen_Lokomotiven_und_Triebwagen
+
+Inhalt dieser Datei **komprimiert offline** nach obiger Gliederung (Gesellschaften, Antrieb).

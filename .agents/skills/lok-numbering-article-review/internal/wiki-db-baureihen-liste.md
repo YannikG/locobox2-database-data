@@ -43,6 +43,8 @@ Dampfloks; Elektroloks; Dieselloks; Hybrid/Zweikraft; Kleinloks; elektrische Tri
 
 ## Review-Hinweis
 
+- **DR** **1920–1945** (Reichsbahn vor der Teilung): [wiki-dr-reichsbahn-1920-1945-baureihen-liste.md](wiki-dr-reichsbahn-1920-1945-baureihen-liste.md).
+- Betrieblicher Vorgänger **DR** (**DDR**, 1945–1993) und alte Gattungsbezeichnungen: [wiki-dr-ddr-baureihen-liste.md](wiki-dr-ddr-baureihen-liste.md).
 - Erste Ziffer(n) der Betriebsnummer = oft Baureihe (**103 222-6** → Baureihe 103).
 - Klammern in der Wikipedia-Liste **(_103_)** = ausser Betrieb bei DB AG; Modell kann trotzdem historisch korrekt sein.
 - Bei Unsicherheit **unklar** statt Wikipedia-Zitat.

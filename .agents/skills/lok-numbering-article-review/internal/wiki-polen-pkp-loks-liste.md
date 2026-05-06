@@ -1,5 +1,7 @@
 # Polen (PKP): Plausibilität für Locobox-Artikel
 
+Gesamtübersicht **Lokomotiv- und Triebwagenbaureihen in Polen** (historisch und nach Gesellschaften): deutschsprachige Wikipedia [«Liste von Lokomotiv- und Triebwagenbaureihen in Polen»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiv-_und_Triebwagenbaureihen_in_Polen) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -34,4 +36,8 @@
 
 ## Provenienz
 
-Kompakt aus der englischsprachigen Wikipedia-Liste «List of PKP locomotives and multiple units» (Dampf / Diesel / Elektro / DMU / EMU).
+**Primär:** deutschsprachige Wikipedia «Liste von Lokomotiv- und Triebwagenbaureihen in Polen»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiv-_und_Triebwagenbaureihen_in_Polen
+
+**Hinweis:** Früher Bezug auf die englischsprachige Liste «List of PKP locomotives and multiple units»; für Reviews und Baureihen-Plausibilität die **deutschsprachige Gesamtliste** (Link oben) massgeblich.
+
+Inhalt dieser Datei **komprimiert offline**.

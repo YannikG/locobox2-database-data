@@ -1,5 +1,7 @@
 # Niederlande (NS, ProRail-Umfeld): Plausibilität für Locobox-Artikel
 
+Gesamtübersicht **Lokomotiv- und Triebwagenbaureihen der Niederländischen Eisenbahn**: deutschsprachige Wikipedia [«Liste von Lokomotiv- und Triebwagenbaureihen der Niederländischen Eisenbahn»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiv-_und_Triebwagenbaureihen_der_Niederl%C3%A4ndischen_Eisenbahn) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -27,7 +29,7 @@
 ## Grenzfälle
 
 - **Grenzverkehr:** `country` kann NL bleiben, wenn Vorbild klar NL-Einsatz; sonst BE/DE mitabgleichen.
-- **Import-Roco:** Artikelnummer und Shop-URL oft korrekt, Fliesstext manchmal deutsch mit BR aus Nachbarland → Operator prüfen.
+- **Import-Shop:** Artikelnummer und Shop-URL oft korrekt, Fliesstext manchmal deutsch mit BR aus Nachbarland → Operator prüfen.
 
 ## Review-Hinweis
 
@@ -35,4 +37,6 @@
 
 ## Provenienz
 
-Kompakt aus der deutschsprachigen Wikipedia-Liste «Liste von Lokomotiv- und Triebwagenbaureihen der Niederländischen Eisenbahn».
+**Primär:** deutschsprachige Wikipedia «Liste von Lokomotiv- und Triebwagenbaureihen der Niederländischen Eisenbahn»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiv-_und_Triebwagenbaureihen_der_Niederl%C3%A4ndischen_Eisenbahn
+
+Inhalt dieser Datei **komprimiert offline** nach obiger Liste.

@@ -1,6 +1,6 @@
 # `model.type` und `model.number`: Splitting und Lesarten
 
-Locobox-Schema (`contracts/article.schema.json`): beide Felder sind optionale Strings. Importe liefern oft **eine** zusammengezogene Anschrift; das Review soll vorschlagen, wie man sie **sinnvoll aufteilt** oder ob **eine** Zeichenkette beibehalten werden soll.
+Locobox-Schema (`contracts/article.schema.json`): `model.type` und `model.number` sind optional (Strings oder `null`). `model.electricSystem` muss, wenn gesetzt, einem der Enum-Werte entsprechen: **`DC-Analog`**, **`DC-Digital`**, **`AC-Analog`**, **`AC-Digital`** (ältere Importe oder Parserreste abweichend → **Finding**). Importe liefern oft **eine** zusammengezogene Anschrift; das Review soll vorschlagen, wie man sie **sinnvoll aufteilt** oder ob **eine** Zeichenkette beibehalten werden soll.
 
 ## Ziele beim Review
 
@@ -16,7 +16,7 @@ Locobox-Schema (`contracts/article.schema.json`): beide Felder sind optionale St
 | `NNN nnn-n` oder `NNN nnn-n` mit Leerzeichen | DB-ähnlich: Baureihe, Ordnungsnummer, Prüfziffer | `type` = Baureihe (z. B. `103`), `number` = `245-3` oder komplett `103 245-3` in `type`, `number` null je nach Projekt-Konvention |
 | `NN.mm` oder `NNN.mmm` (Punkt) | Österreich, Schweiz, frühe Bezeichnungen: **Reihe / Unternummer** (oft ohne führende Null bei zweiter Gruppe) | `type` = Reihe (`77`), `number` = `14` oder `014`; Punktnotation in `type` nur behalten, wenn eure Datenbank das so indexiert |
 | `Re 460 003-7` (Buchstaben + Ziffern + Strich) | CH-Kurzform | `type` oft Präfix + Baureihe (`Re 460`), `number` = `003-7`; Varianten möglich |
-| `193 452-0 „Schweizpiercer“` (oder Deutschlandpiercer, ähnliche Roco-XLoad-Namen) | Baureihe + EVN-Teil + **Folien-/Marketingname** | `type` `193`, `number` `452-0`, **`livery`** z. B. `Schweizpiercer` (nicht nur generisch `SBB`, wenn der Name die Lackvariante beschreibt) |
+| `193 452-0 „Schweizpiercer“` (oder Deutschlandpiercer, ähnliche Shop-/Marketingnamen im Import) | Baureihe + EVN-Teil + **Folien-/Marketingname** | `type` `193`, `number` `452-0`, **`livery`** z. B. `Schweizpiercer` (nicht nur generisch `SBB`, wenn der Name die Lackvariante beschreibt) |
 | `370 094-2 „Adriatic Express“` | Baureihe + Nummer + **Zug-/Produktname** | `type` `370`, `number` `094-2`, **`livery`** z. B. `Adriatic Express` |
 | Nur Ziffern ohne Trenner (Shop-Slug) | z. B. `7714` aus URL | Mit Beschreibung zurück in `77` + `14` splitten |
 
@@ -24,11 +24,16 @@ Locobox-Schema (`contracts/article.schema.json`): beide Felder sind optionale St
 
 1. Erster Satz / Nummern in `description`
 2. `source.url` (Pfadsegmente enthalten oft `7714` vs `77-14`)
-3. `model.operator` / `model.country`
+3. `model.operator` / `model.country` (**DR** je nach Epoche: **1920–1945** meist **`DE`**, nicht `DD`, siehe [wiki-dr-reichsbahn-1920-1945-baureihen-liste.md](wiki-dr-reichsbahn-1920-1945-baureihen-liste.md); **DDR-Reichsbahn 1945–1993** oft **`DD`**, siehe [wiki-dr-ddr-baureihen-liste.md](wiki-dr-ddr-baureihen-liste.md); Lack-«DR» der **DB AG** nicht allein als Reichsbahn-Beweis werten)
 4. `categories` (Dampf / Diesel / Elektro)
-5. Passende **`internal/wiki-*.md`** im Skill-Ordner (komprimierte Länder- und Bahnfakten **ohne** Wikipedia als Pflicht-Klick)
+5. [wiki-baureihen-schemata-uebersicht.md](wiki-baureihen-schemata-uebersicht.md) bei Zweifeln an **Baureihen-, Reihen- oder UIC-Logik** (überregional und nach Staatsbahn)
+6. Passende **`internal/wiki-*.md`** im Skill-Ordner (komprimierte Länder- und Bahnfakten **ohne** Wikipedia als Pflicht-Klick)
 
-## Beispiel `articles/roco/70077.json`
+## Hersteller und Variantengruppen (Auto-Fix)
+
+**Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier** oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings.
+
+## Beispiel `articles/<hersteller>/70077.json`
 
 - Roh: `model.type` = `77.14`, `number` = null, `operator` = ÖBB, Text: „Dampflokomotive **77.14** … Reihe **77** … spätere **77.14** … 1922 als **629.29**“.
 - Lesart: **Reihe 77**, Betriebs-/Ordnungsnummer **14** (Schreibweise 77.14 ist klassische **Punktnotation** Österreich).

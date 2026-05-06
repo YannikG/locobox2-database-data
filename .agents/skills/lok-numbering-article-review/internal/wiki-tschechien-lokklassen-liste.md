@@ -1,11 +1,13 @@
 # Tschechien (ČD, ČD Cargo, Geschichte ČSD): Plausibilität für Locobox-Artikel
 
+**Baureihen-Gesamtlisten (de.wikipedia):** **ČSD** (1945–1992, Tschechoslowakei) [«Liste der Lokomotiv- und Triebwagenbaureihen der ČSD»](https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CSD); **ČD** (ab 1993, Tschechische Bahnen) [«Liste der Lokomotiv- und Triebwagenbaureihen der ČD»](https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CD). Stichworte und Felder unten; Details in den Originaltabellen (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
 |------|-----------|
-| `country` | **CZ** für inländisches Vorbild; Exporte (DE, AT, SI, …) nur wenn Text/Operator das zeigen |
-| `operator` | **ČD**, **ČD Cargo**; historisch **ČSD** |
+| `country` | **CZ** für heutiges Tschechien; tschechoslowakisches **ČSD**-Vorbild oft **`CS`** (historisch), nach 1993 je Vorbild **CZ** oder **SK**; Exporte (DE, AT, SI, …) nur mit Text/Operator; **nicht** aus Baureihe raten |
+| `operator` | **ČD**, **ČD Cargo** (Shop oft «CD» ohne Hächen); historisch **ČSD** (*Československé státní dráhy*, bis 1992; oft «CSD») |
 | `electricSystem` | **3 kV DC** dominant; **25 kV 50 Hz**; **Mehrsystem** (z. B. 371, 383); **1,5 kV DC** für Altgrenzverkehr je nach Klasse |
 
 ## Baureihen-Stichworte (Loks, unvollständig)
@@ -16,7 +18,7 @@
 
 ## Nachbarländer (vorsichtig)
 
-- Viele **Škoda**- und **ČSD**-Baumuster liefen auch in **Slowenien** (JŽ/SŽ), **Slowakei**, teils **Österreich** und **Ungarn**. Plausibilität: ja; `country` automatisch ändern: **nein**, ohne Textbeleg.
+- Viele **Škoda**- und **ČSD**-Baumuster liefen auch in **Slowenien** (JŽ/SŽ), **Slowakei** ([wiki-slowakei-zssk-loks-liste.md](wiki-slowakei-zssk-loks-liste.md)), teils **Österreich** und **Ungarn**. Plausibilität: ja; `country` automatisch ändern: **nein**, ohne Textbeleg.
 
 ## Split `type` / `number`
 
@@ -28,4 +30,11 @@
 
 ## Provenienz
 
-Kompakt aus der englischsprachigen Wikipedia-Liste «List of Czech locomotive classes» (Gliederung nach Stromsystem und Diesel-Bauart).
+**Primär:**
+
+- Tschechoslowakei **ČSD:** https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CSD  
+- Tschechische Bahnen **ČD:** https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CD  
+
+**Optional:** englischsprachige Übersicht «List of Czech locomotive classes» (Stromsystem / Diesel), falls eine Baureihe nur dort klar eingeordnet ist.
+
+Inhalt dieser Datei **komprimiert offline**.

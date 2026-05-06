@@ -1,5 +1,7 @@
 # Luxemburg (CFL): Plausibilität für Locobox-Artikel (Lokomotiven)
 
+Gesamtübersicht **Lokomotiven und Triebwagen der CFL**: deutschsprachige Wikipedia [«Liste von Lokomotiven und Triebwagen der CFL»](https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_CFL) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -34,4 +36,8 @@
 
 ## Provenienz
 
-Kategorienbaum «Locomotives of Luxembourg» (englische Wikipedia) diente als Antriebs-Checkliste; Inhalt hier **komprimiert offline**.
+**Primär:** deutschsprachige Wikipedia «Liste von Lokomotiven und Triebwagen der CFL»: https://de.wikipedia.org/wiki/Liste_von_Lokomotiven_und_Triebwagen_der_CFL
+
+**Hinweis:** Früher Bezug auf den englischsprachigen Kategorienbaum «Locomotives of Luxembourg»; für Reviews und Baureihen die **deutschsprachige CFL-Liste** (Link oben) massgeblich.
+
+Inhalt dieser Datei **komprimiert offline**.

@@ -1,5 +1,7 @@
 # Ungarn (MÁV): Plausibilität für Locobox-Artikel
 
+Vollständige **Baureihen- und Triebfahrzeuglisten** (Dampf, Diesel, Elektro, Triebwagen, historische Umnummerierungen) als Referenz: deutschsprachige Wikipedia [«Liste der Lokomotiv- und Triebwagenbaureihen der MÁV»](https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_M%C3%81V) (siehe Provenienz).
+
 ## Locobox-Validierung (Pflichtcheck)
 
 | Feld | Erwartung |
@@ -34,4 +36,6 @@
 
 ## Provenienz
 
-Kompakt aus der englischsprachigen Wikipedia-Liste «List of Hungarian locomotives» (Struktur Dampf / Diesel / Elektro / Schmalspur).
+**Primär:** Struktur und Baureihen aus der deutschsprachigen Wikipedia «Liste der Lokomotiv- und Triebwagenbaureihen der MÁV»: https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_M%C3%81V
+
+**Hinweis:** Früher Bezug auf eine englischsprachige Übersicht; für Reviews und Nummern-Plausibilität die **MÁV-Gesamtliste** (Link oben) massgeblich.
