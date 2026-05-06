@@ -15,7 +15,7 @@
     "number": "038-7",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "ac",
+    "electricSystem": "AC-Analog",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264641.jpg"
   },
-  "updatedAt": "2026-05-04T17:51:15Z"
+  "updatedAt": "2026-05-05T22:10:58Z"
 }

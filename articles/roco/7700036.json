@@ -15,7 +15,7 @@
     "number": "039-8",
     "livery": "Auguste & Jacques Piccard",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "era": "VI",
     "luepMm": 1540,
     "minRadiusMm": 420,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/267742.jpg"
   },
-  "updatedAt": "2026-05-04T17:56:04Z"
+  "updatedAt": "2026-05-05T22:19:38Z"
 }

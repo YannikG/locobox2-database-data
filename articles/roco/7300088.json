@@ -15,7 +15,7 @@
     "number": "211-2",
     "livery": "4Ausführung mit gelbem Fensterrahmen und Warnstreifen",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "era": "V",
     "luepMm": 190,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265217.jpg"
   },
-  "updatedAt": "2026-05-04T17:27:26Z"
+  "updatedAt": "2026-05-05T21:31:09Z"
 }

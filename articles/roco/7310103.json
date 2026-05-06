@@ -15,7 +15,7 @@
     "number": "592-6",
     "livery": "VI",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "era": "VI",
     "luepMm": null,
     "minRadiusMm": null
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266499.jpg"
   },
-  "updatedAt": "2026-05-04T17:32:02Z"
+  "updatedAt": "2026-05-05T21:39:16Z"
 }

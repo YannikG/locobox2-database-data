@@ -15,7 +15,7 @@
     "number": "14",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "III",
     "luepMm": 153,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/250525.jpg"
   },
-  "updatedAt": "2026-05-04T17:20:03Z"
+  "updatedAt": "2026-05-05T21:17:14Z"
 }

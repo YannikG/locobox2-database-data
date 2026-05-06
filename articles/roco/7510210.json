@@ -15,7 +15,7 @@
     "number": "1166",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Digital",
     "era": "VI",
     "luepMm": 179,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266737.jpg"
   },
-  "updatedAt": "2026-05-04T17:48:46Z"
+  "updatedAt": "2026-05-05T22:06:31Z"
 }

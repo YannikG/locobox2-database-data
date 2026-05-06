@@ -15,7 +15,7 @@
     "number": "251-5",
     "livery": "fur ihre frische Flotte der 186 101 — 110 keine Verwendung fand und so",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264584.jpg"
   },
-  "updatedAt": "2026-05-04T17:36:41Z"
+  "updatedAt": "2026-05-05T21:47:41Z"
 }

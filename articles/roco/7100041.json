@@ -15,7 +15,7 @@
     "number": "1108",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Analog",
     "era": "I",
     "luepMm": 241,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264819.jpg"
   },
-  "updatedAt": "2026-05-04T17:21:26Z"
+  "updatedAt": "2026-05-05T21:20:47Z"
 }

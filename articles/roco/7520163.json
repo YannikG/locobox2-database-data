@@ -15,7 +15,7 @@
     "number": null,
     "livery": "OBB",
     "scale": "H0",
-    "electricSystem": "ac",
+    "electricSystem": "AC-Analog",
     "era": "V",
     "luepMm": 185,
     "minRadiusMm": 358,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264613.jpg"
   },
-  "updatedAt": "2026-05-04T17:50:50Z"
+  "updatedAt": "2026-05-05T22:10:14Z"
 }

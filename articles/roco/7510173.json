@@ -15,7 +15,7 @@
     "number": "113-5",
     "livery": "Elektrolokomotive Re 436 113-5",
     "scale": "H0",
-    "electricSystem": "dc",
+    "electricSystem": "DC-Digital",
     "era": "V-VI",
     "luepMm": 177,
     "minRadiusMm": 358,
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265697.jpg"
   },
-  "updatedAt": "2026-05-04T17:45:53Z"
+  "updatedAt": "2026-05-05T22:01:18Z"
 }
