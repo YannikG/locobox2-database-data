@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7720033",
+  "manufacturer": "Roco",
+  "articleNumber": "7720033",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 649.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Arverio Baden-Württemberg GmbH",
+    "type": "429",
+    "number": null,
+    "livery": "Baden-Württemberg (SFBW)",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: 5-tlg. Set: Elektrotriebzug „FLIRT 3“, VI. Photo: Stadler/Landesanstalt Schienenfahrzeuge Baden-Württemberg (SFBW). Zwei kräftige Motoren jeweils im Endwagen. Stromabnehmer mit innovativer Befestigung. Dachbereich aufwendig gestaltet, teilweise mit Ätzteilen ausgeführt. In der Digitalausführung mit schaltbarem Fernlicht, Spitzen-/Schlusslicht,. Führerstandsbeleuchtung, beleuchteten Zugzielanzeigen und Innenbeleuchtung.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7720033-5-tlg-set-elektrotriebzug-flirt-3-arverio.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266579.jpg"
+  },
+  "updatedAt": "2026-05-05T22:21:23Z"
+}

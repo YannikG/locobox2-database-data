@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7540008",
+  "manufacturer": "Roco",
+  "articleNumber": "7540008",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 219.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1099",
+    "number": "13",
+    "livery": "ÖBB",
+    "scale": "H0e",
+    "electricSystem": "DC-Analog",
+    "era": "III-IV",
+    "luepMm": null,
+    "minRadiusMm": 261,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 1099.13, OBB. Lackierung in karminrot/elfenbein. Epoche-III-Ausführung. Separat angesetzte Scheibenwischer. Im Digitalbetrieb mit schaltbarer Führerstandsbeleuchtung. Zwischen 1911 und 1914 wurden 16 Lokomotiven dieser speziell für die. Mariazellerbahn konstruierten Bauart von den ehem. niederösterreichi-. schen Landesbahnen beschafft. In den Jahren 1959 bis 1962 wurden die. Lokomotiven unter Beibehaltung der original Fahrwerke modernisiert und. insbesondere mit neuen Lokkästen ausgestattet. Die Loks erreichten eine. Höchstgeschwindigkeit von 50 km/h und hatten eine Leistung von 405 kW. Photo: J. Kaufmann, Anlage der Mariazellerbahn Modell.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0e"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7540008-elektrolokomotive-109913-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266733.jpg"
+  },
+  "updatedAt": "2026-05-05T22:18:23Z"
+}

@@ -1,0 +1,11 @@
+{
+  "mergeOnly": [
+    "model.scale",
+    "model.operator",
+    "model.era",
+    "model.electricSystem",
+    "model.decoderInterface",
+    "model.luepMm",
+    "model.minRadiusMm"
+  ]
+}

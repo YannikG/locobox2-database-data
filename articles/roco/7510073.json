@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510073",
+  "manufacturer": "Roco",
+  "articleNumber": "7510073",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 399.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo International",
+    "type": "193",
+    "number": "452-0",
+    "livery": "Schweizpiercer",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 193 452-0 ,Schweizpiercer silberne Italienpiercer hat die 193 459 beidseitig das gleiche Aussehen und, SBB. tragt diverse fur Deutschland bekannte Sujets, die 193 452 im gleichen Stil. ra fur die Schweiz. SBB CARGO an aN. INTERNATIONAL , SS. A ae ae a mmm update. : iw on — in > Ausführung des Schienenräumers und der Drehgestellblenden. Pitas a ; i= jaa oe , entsprechend den XLoad-Maschinen. ; Be mee NX Se OR ™ NOS iu > Taufname ,,Helvetia“. Photomontage » Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Q1/2026 > Im Digitalbetrieb erstmals mit schaltbaren Lichtfunktionen fur CH,. Taignya > In Kooperation mit | Railcolordesign. räumers und der Drehgestellblenden. entsprechend den XLoad-Maschinen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510073-elektrolokomotive-193-452-0-schweizpiercer-sbb-cargo-international.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/256992.jpg"
+  },
+  "updatedAt": "2026-05-05T21:56:51Z"
+}

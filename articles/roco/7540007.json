@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7540007",
+  "manufacturer": "Roco",
+  "articleNumber": "7540007",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 239.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2095",
+    "number": "13",
+    "livery": "ÖBB",
+    "scale": "H0e",
+    "electricSystem": "DC-Analog",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": 200,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Diesellokomotive 2095.13 der Österreichischen Bundesbahnen. Ausführung in Original-Lackierung. Feinste Details: freistehende Griffstangen, feine Lampenringe und ein durchbrochenes Lüftungsgitter am Dach. Modell mit erhabenen Zierleisten. Schaltbares Spitzenlicht mit DIP-SchalterDie ab 1958 beschafften Lokomotiven der Reihe 2095 bildeten über Jahrzehnte das Rückgrat der ÖBB auf den dieselbetriebenen Schmalspurstrecken. Sie waren im Personen- und Güterverkehr, insbesondere im Rollbock-/Rollwagenverkehr im Einsatz.Die 2095er wurden auf den Schmalspurstrecken der Ybbstalbahn, der Bregenzerwaldbahn, der Krimmlerbahn, der Waldviertelbahn sowie auf der sogenannten „Krumpe“ eingesetzt. Letztere bildete die heute stillgelegte Lokalbahn von Ober-Grafendorf nach Gresten.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0e"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7540007-diesellokomotive-209513-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265656.jpg"
+  },
+  "updatedAt": "2026-05-06T08:21:16Z"
+}

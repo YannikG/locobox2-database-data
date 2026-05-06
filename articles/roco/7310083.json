@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310083",
+  "manufacturer": "Roco",
+  "articleNumber": "7310083",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 259.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DBP",
+    "type": "Nr. 1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV",
+    "luepMm": 106,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18"
+  },
+  "description": "Diesellokomotive Nr. 1 der Deutschen Bundespost. Erstmals mit neuer Schnittstelle Next18. Lok der Oberpostdirektion Hannover. Vergrösserter Kühlwasserausgleichsbehälter. Im Digitalbetrieb mit schaltbarem Rangierlicht. Die Diesellokomotiven vom Typ WR 360 C 14 wurden ursprünglich von der deutschen Wehrmacht für den Einsatz an strategisch wichtigen Punkten eingesetzt. Bei der Lok Nr. 1 handelt es sich um einen Nachbau der Firma Maschinenbau Kiel (MaK) aus dem Jahr 1948. Bei der Oberpostdirektion Hannover liefen in der Zeit zwischen 1948 und 1972 Post-eigene Lokomotiven sowohl im Postbahnhof wie auch in den angrenzenden DB-Bahnhöfen. In Summe waren dies 4 Lokomotiven (Nr. 1 bis Nr. 4).",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310083-diesellokomotive-nr-1-dbp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264596.jpg"
+  },
+  "updatedAt": "2026-05-06T08:18:58Z"
+}

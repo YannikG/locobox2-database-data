@@ -13,11 +13,12 @@ Danke für deinen Beitrag.
 - Eine Datei pro Artikel.
 - IDs und Slugs nur in Kleinbuchstaben mit Bindestrichen.
 - Felder `manufacturer`, `articleNumber`, `releaseDate`, `uvp` und `model` sind Pflicht.
-- Im `model` sind auch `scale`, `electricSystem` und `era` Pflicht.
-- Features werden unter `model.features` als Liste gepflegt, z. B. `Analog`, `Digital`, `Sound`.
-- LüP wird als `model.luepMm` in Millimeter gepflegt.
-- Mindestradius wird als `model.minRadiusMm` in Millimeter gepflegt.
-- Optional: `model.decoderInterface`, `model.variantGroup`, `model.couplerSystem`, `identifiers.ean`.
+- Im `model` müssen die Keys laut Schema **vorkommen**; fehlende oder unbekannte Werte werden mit **`null`** gepflegt (z. B. `country`, `era`, `electricSystem`, `luepMm`, `minRadiusMm`). Bekannte Texte trotzdem setzen, wo die Quelle sie liefert.
+- `releaseDate`: üblich ist die **Jahreszahl** (`"2026"`) oder ein volles Datum (`"2026-04-27"`), siehe `contracts/article.schema.json`.
+- Features werden unter `model.features` als Liste gepflegt, z. B. `Analog`, `Digital`, `Sound` (Feld optional).
+- LüP als `model.luepMm` in Millimeter (`null`, wenn unbekannt).
+- Mindestradius als `model.minRadiusMm` in Millimeter (`null`, wenn unbekannt).
+- Optional: `model.decoderInterface`, `model.variantGroup`, `model.couplerSystem`, `identifiers.ean`, `source.imageUrl`.
 - `description` darf frei formuliert werden und kann leer bleiben.
 - `source.url` sollte für neue oder geänderte Fakten angegeben werden.
 

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500161",
+  "manufacturer": "Roco",
+  "articleNumber": "7500161",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "Railpool",
+    "type": "186",
+    "number": "251-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Elektrolokomotive 186 251 der Railpool. Ausführung im Betriebszustand von 2011 bis 2018. Mit silberner Railpool Aufschrift und roten UIC-Dosen. Einsatz im Vorbild bei vielen Unternehmen wie RTC, Lokomotion und BLS Cargo. Mit detaillierter Dachgestaltung. Schaltbares Spitzen-/Schlusslicht mit DIP-SchalterDas Unternehmen Railpool profitierte bereits 2009 davon, dass Angel Trains für ihre frische Flotte der 186 101 – 110 keine Verwendung fand und so durch die Railpool übernommen werden konnte. Die anfänglich als D-A-CH-I Variante vorgesehenen Loks, erhielten zusätzlich das Länderpaket für die Niederlande. Die ebenfalls durch ATC bestellte 186 251 welche für die Länder D-A-PL vorgesehen und ab 2008 erste Versuchsfahrten unternahm, konnte 2011 auch an die Railpool verkauft werden. Alle elf Maschinen wurden nie durch die Angel Trains abgenommen und dienten vorderhand als Testlokomotiven ehe sie später an Railpool vermittelt wurden. Die Maschinen legten einen wichtigen Grundstein für die Zulassungsfahrten in den Niederlanden.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500161-elektrolokomotive-186-251-5-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264584.jpg"
+  },
+  "updatedAt": "2026-05-06T08:18:11Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500198",
+  "manufacturer": "Roco",
+  "articleNumber": "7500198",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 289.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "E 44",
+    "number": "015",
+    "livery": "DRG",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "II",
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 015, DRG. Rund 200 Lokomotiven der Baureihe E 44 wurden in Dienst gestellt. Die Leistung der vierachsigen Drehgestell-Lokomotiven betrug rund 2.200 kW, dabei lag die Höchstgeschwindigkeit bei 90 km/h. Die Loks bewährten sich sowohl vor Personenzügen als auch vor Güterzügen. Einige Lokomotiven wurden mit einer Wendezugsteuerung ausgerüstet und somit im Vorortverkehr in Ballungsräumen eingesetzt. Die E 44, aus der die Baureihen E 44.5, E 93 und E 94 weiterentwickelt wurden, darf mit Recht als eine der zuverlässigsten und erfolgreichsten Elektrolokomotiven bezeichnet werden; sie brachte die Drehgestellbauweise und den Tatzlagerantrieb zum Durchbruch.\n\nGroße Lampen der Reichsbahn-Einheitsbauart. Stromabnehmer Typ SBS 10 mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Freier Führerstands-Durchblick und mehrfarbig gestaltete Photomontage-Rückwand.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500198-elektrolokomotive-e-44-015-drb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265672.jpg"
+  },
+  "updatedAt": "2026-05-05T21:54:51Z"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520182",
+  "manufacturer": "Roco",
+  "articleNumber": "7520182",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 359.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1216",
+    "number": "016-6",
+    "livery": "ÖBB",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 1216 016-6 „Railjet“, OBB. Grenzüberschreitender Einsatz im Railjetverkehr. Mit detaillierter Dachgestaltung. Ideale Ergänzung zum Railjet der neuen Generation. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/. Schlusslicht. Vorbildgerecht abschaltbares oberes Spitzenlicht für den Verkehr in Italien. In der DCC und AC-Ausführung mit stromführender Kupplung ausgerüstet. Brennero/Brenner. Bolzano/Bozen. Verona Venezia Santa Lucia.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520182-elektrolokomotive-1216-016-6-railjet-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265179.jpg"
+  },
+  "updatedAt": "2026-05-05T22:13:41Z"
+}

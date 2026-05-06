@@ -1,0 +1,74 @@
+name: JSON-only changes for contributors
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  enforce-json-only:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skip enforcement for draft pull requests
+        if: github.event.pull_request.draft == true
+        run: echo "Draft PR; JSON-only check skipped."
+
+      - name: Checkout pull request history
+        if: github.event.pull_request.draft == false
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Require only .json files for non-maintainers
+        if: github.event.pull_request.draft == false
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ACTOR: ${{ github.actor }}
+          REPO: ${{ github.repository }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          EXEMPT=false
+          if [ "${ACTOR}" = "${REPO_OWNER}" ]; then
+            EXEMPT=true
+            echo "Actor is the repository owner (${REPO_OWNER}); not limited to JSON."
+          elif PERM=$(gh api "repos/${REPO}/collaborators/${ACTOR}/permission" --jq -r .permission 2>/dev/null); then
+            case "${PERM}" in
+              admin|maintain)
+                EXEMPT=true
+                echo "Actor has repository role '${PERM}' on ${REPO}; not limited to JSON."
+                ;;
+              *)
+                echo "Actor has repository role '${PERM}'; only admin or maintain can change non-JSON files."
+                ;;
+            esac
+          else
+            echo "Actor has no collaborator permission API result (not a collaborator or not visible); JSON-only rules apply."
+          fi
+          if [ "${EXEMPT}" = true ]; then
+            exit 0
+          fi
+          mapfile -t CHANGED < <(git diff --name-only "${BASE_SHA}" "${HEAD_SHA}")
+          if [ "${#CHANGED[@]}" -eq 0 ]; then
+            echo "No file changes detected."
+            exit 0
+          fi
+          NON_JSON=()
+          for f in "${CHANGED[@]}"; do
+            fl="${f,,}"
+            if [[ "${fl}" != *.json ]]; then
+              NON_JSON+=("$f")
+            fi
+          done
+          if [ "${#NON_JSON[@]}" -gt 0 ]; then
+            echo "::error::Contributors with only read or write access may only add or change files whose names end in .json. Offending paths:"
+            for f in "${NON_JSON[@]}"; do
+              echo "  - ${f}"
+            done
+            exit 1
+          fi
+          echo "All ${#CHANGED[@]} changed path(s) use the .json extension."

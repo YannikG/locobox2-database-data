@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300103",
+  "manufacturer": "Roco",
+  "articleNumber": "7300103",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 174.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "EBS",
+    "type": "232",
+    "number": "592-6",
+    "livery": "Erfurter Bahnservice",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 237,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 232 592-6, VI. Ausführung mit Schneepflug am Chassis. Radsätze mit niedrigen Spurkränzen. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen- und Schlusslicht.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300103-diesellokomotive-232-592-6-ebs.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266498.jpg"
+  },
+  "updatedAt": "2026-05-05T21:33:22Z"
+}

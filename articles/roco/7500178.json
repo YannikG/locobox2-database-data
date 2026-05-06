@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500178",
+  "manufacturer": "Roco",
+  "articleNumber": "7500178",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "RBH",
+    "type": "145",
+    "number": "070-9",
+    "livery": "DB",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Elektrolokomotive 145 070 der RBH Logistics GmbH. Formvariante! Update! . Neukonstruierter Schienenräumer . Stromabnehmer mit innovativer Befestigung . Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult . Extra angesetzte Scheibenwischer . LED-Spitzenlicht . Erstmals mit PluX22 Schnittstelle. Zwischen 1997 und 2000 wurden insgesamt 80 Maschinen der Baureihe 145 in Dienst gestellt. Haupteinsatzgebiet war zunächst der Güterverkehr der Deutschen Bahn, insbesondere bei DB Cargo. Technisch verfügen die Lokomotiven über moderne Drehstrom-Asynchronmotoren, eine Leistung von 4.200 kW sowie eine elektrische Widerstands- und Rekuperationsbremse. Heute ist die Baureihe 145 weiterhin im Einsatz, vor allem bei privaten Eisenbahnunternehmen und Leasinggesellschaften.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500178-elektrolokomotive-145-070-9-rbh.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264843.jpg"
+  },
+  "updatedAt": "2026-05-05T21:50:39Z"
+}

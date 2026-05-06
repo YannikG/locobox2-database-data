@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "DC-Analog",
+  "slug": "DC-Analog",
+  "description": "Gleichstrom, analog (ohne eingebauten Digitaldecoder)."
+}

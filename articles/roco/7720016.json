@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7720016",
+  "manufacturer": "Roco",
+  "articleNumber": "7720016",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 489.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "515",
+    "number": "537-9",
+    "livery": "DB",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "IV",
+    "luepMm": 538,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Akkutriebwagen 515 537 mit Steuerwagen Baureihe 815 der Deutschen Bundesbahn.\n\n■ Steuerwagen mit korrekt lackiertem Dachbereich\n■ Freier Durchblick durch den detaillierten Fahrgastraum und den Führerstand\n■ Separat angesetzte Steckteile, wie Scheibenwischer, Rangierergriffe unter den Puffern sowie Heizkabel\n■ Fein detaillierte Drehgestelle mit separat angesetzten Teilen\n■ Spitzenlicht und Innenbeleuchtung schaltbar mit DIP-Schalter\n■ Z21 Führerstand verfügbar\n\nDer Betrieb mit Akkutriebwagen wurde in Deutschland schon vor dem Ersten Weltkrieg eingeführt. Der 2-teilige Akkutriebwagen der Bauart „Wittfeld“, dessen Akkus in den markanten Vorbauten untergebracht waren, war bis nach dem Zweiten Weltkrieg im Einsatz. Nach 1945 begann die Deutsche Bundesbahn sich wieder mit dieser Antriebsart zu beschäftigen. Als „Limburger Zigarre“ hat der ETA 176 sich einen Namen gemacht, jedoch wurden nur acht Stück davon gebaut. Ab 1953 wurde dann der kostengünstigere ETA 150, der in etwa die gleichen Leistungsmerkmale vorweisen konnte, in grosser Stückzahl in Dienst gestellt. Vom ETA 150 (ab 1968 Baureihe 515) wurden bis 1965 insgesamt 232 Einheiten gebaut. Weiters wurden noch 216 Steuerwagen der Bauart ESA 150 (später Baureihe 815) in Betrieb genommen.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "akkutriebwagen"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/7720016-akkutriebwagen-515-537-9-mit-steuerwagen-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259160.jpg"
+  },
+  "updatedAt": "2026-05-05T22:20:53Z"
+}

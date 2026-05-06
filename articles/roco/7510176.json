@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510176",
+  "manufacturer": "Roco",
+  "articleNumber": "7510176",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "RTC",
+    "type": "189",
+    "number": "905-3",
+    "livery": "Zebra",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 189 905-3, VI. Vorbildgerechtes Schleifstück am Stromabnehmer für Italien. Einsatz im grenzüberschreitenden Verkehr. Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht. Spitzenlicht mit kaltweißen Leuchtdioden (LED). Neuer originalgetreuer Sound. Einzige Vectron im zweifarbigen \"Zebra\"-Design – ideale. Ergänzung für die Lokomotion-Sammlung. Einsatz im internationalen Güterverkehr. Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Im Digitalbetrieb erstmals mit schaltbaren Lichtfunktionen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510176-elektrolokomotive-189-905-3-rtc.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264741.jpg"
+  },
+  "updatedAt": "2026-05-05T22:02:03Z"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520167",
+  "manufacturer": "Roco",
+  "articleNumber": "7520167",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 354.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "NRFAB",
+    "type": "482",
+    "number": "038-7",
+    "livery": "SBB",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 482 038-7, SBB. Amtrak-Design. Erstmals im Modell mit einem Einholm- und einem Scheren-. panthographen. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schalt-. barem Spitzen- oder Schlusslicht. Einsatz im Güterverkehr in Schweden und Norwegen. Ausführung mit Schneepflug am Chassis. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Nordic Re-Finance hat von SBB Cargo International vier TRAXX F140 AC2. erworben. Nach dem Umbau und Neugestaltung haben sie die volle Zulas-. sung für den Verkehr in Schweden und Norwegen unter ETCS erhalten. Die.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520167-elektrolokomotive-482-038-7-nrfab.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264641.jpg"
+  },
+  "updatedAt": "2026-05-05T22:10:58Z"
+}

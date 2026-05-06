@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500186",
+  "manufacturer": "Roco",
+  "articleNumber": "7500186",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "193",
+    "number": "568-3",
+    "livery": "SS",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Elektrolokomotive 193 568 der Tschechischen Staatsbahnen. Aufwendige Bedruckung im Werkstattdesign. Mit neuer Ausführung des Schienenräumers. Mit detaillierter Dachgestaltung. Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Ideale Ergänzung zu den MAV-Eurofima-Wagen Art. Nr. 6200228 für die Nachbildung von grenzüberschreitendem Verkehr",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500186-elektrolokomotive-193-568-3-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265253.jpg"
+  },
+  "updatedAt": "2026-05-06T08:18:34Z"
+}

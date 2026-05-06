@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510100",
+  "manufacturer": "Roco",
+  "articleNumber": "7510100",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "LTE",
+    "type": "193",
+    "number": "958-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive 193 958-6 der LTE Logistik- und Transport-GmbH. Modell exklusiv bei ROCO erhältlich. Aufwendige Bedruckung. Mehrfarbig gestaltetes Bedienpult und Führerstandsrückwand. Einsatz im internationalen Güterverkehr. Freistehende Griffstangen, teilweise aus Metall. Mit detaillierter Dachgestaltung. Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter. Von den Lokomotiven der Grazer LTE Logistik- und Transport-GmbH sind einige mit auffälligen Lokdesigns gestaltet. Die seit 2023 im Dienst von LTE stehende Vectron-Mehrsystemlokomotive 193 958 wurde im März 2023 in die LTE-Flotte übernommen. Die Lok ist mit dem Slogan «100 Trucks & Cars – One Train» beklebt. Dieser weist auf den im Vergleich zum Strassentransport umweltfreundlicheren Schienengüterverkehr hin. Die Maschine ist mit dem Länderpaket D-A-H-CZ-SK-PL-RO-BG-SLO-HR-SRB ausgerüstet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510100-elektrolokomotive-193-958-6-lte.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258386.jpg"
+  },
+  "updatedAt": "2026-05-05T21:57:06Z"
+}

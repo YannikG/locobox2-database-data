@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520163",
+  "manufacturer": "Roco",
+  "articleNumber": "7520163",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1144 „Valousek-Edition“",
+    "number": null,
+    "livery": "ÖBB",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "V",
+    "luepMm": 185,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Rh 1144 «Valousek Edition», ÖBB. Einmalige Auflage exklusiv bei ROCO erhältlich. Mit vielen separat angesetzten Steckteilen, teilweise in Ätztechnik ausgeführt. Filigrane Stromabnehmer. Einsatz vor Personen- und Güterzügen innerhalb Österreichs und nach Deutschland. Mit schaltbarem Fernlicht, Spitzen- und Schlusslicht sowie Führerstandsbeleuchtung. Alle Artikel entstehen in Kooperation mit Wolfgang Valousek.\n\nAls Valousek-Design bezeichnet man im allgemeinen Sprachgebrauch die ab den 1980er Jahren eingeführte Lackierung und die Form von Fahrzeugen der Österreichischen Bundesbahnen nach Entwürfen des Architekten Wolfgang Valousek. Nach der Mitarbeit beim Design von Neubau-Triebwagen und Bahndienstfahrzeugen erhielt er den Auftrag, ein einheitliches Erscheinungsbild für Lokomotiven und Wagen der ÖBB zu schaffen. Viele Wagen wurden dabei nicht nur umlackiert, sondern auch im Interieur neu gestaltet. Neben den bekannten Designs entstanden zahlreiche Entwürfe, die nie umgesetzt wurden. Als Hommage an Wolfgang Valousek präsentieren wir diese besondere Lackierungsvariante einer Elektrolokomotive Rh 1144 «Valousek Edition».",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520163-elektrolokomotive-rh-1144-valousek-edition-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264613.jpg"
+  },
+  "updatedAt": "2026-05-05T22:10:14Z"
+}

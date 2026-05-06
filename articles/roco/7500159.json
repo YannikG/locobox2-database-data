@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500159",
+  "manufacturer": "Roco",
+  "articleNumber": "7500159",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Re 465",
+    "number": "008-1",
+    "livery": "BLS",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 174,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, Re 465 008-1, BLS. Aufwendig bedrucktes Modell im „Goldenpass“-Design. Mit extra angesetzten Scheibenwischern. Feine Darstellung der Frontgriffstangen. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500159-elektrolokomotive-re-44-172-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264577.jpg"
+  },
+  "updatedAt": "2026-05-05T21:47:12Z"
+}

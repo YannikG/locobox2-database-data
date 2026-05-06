@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7500173",
+  "manufacturer": "Roco",
+  "articleNumber": "7500173",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 339.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "Crossrail",
+    "type": "Re 436",
+    "number": "113-5",
+    "livery": "Crossrail",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI",
+    "luepMm": 177,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Elektrolokomotive Re 436 113 der Crossrail. Formvariante!. Neue Front mit grossen runden Scheinwerfern, typisch für Privatbahn Re 4/4. Front ohne Wappen ausgeführt. Weitere Modelle für im Vorbild häufige Doppeltraktion folgen. BLS Cargo Logo zur optionalen Montage als Decal beiliegend. Z21 Führerstand verfügbar. Crossrail entstand als Markenname des Schweizer Eisenbahnverkehrsunternehmens Regionalverkehr Mittelland AG (RM) für den Betrieb von unbegleitetem kombinierten Verkehr auf der transalpinen Achse Italien – Schweiz – Deutschland via Simplon – Lötschberg. Das Unternehmen erhielt bei der Verselbständigung von der Regionalverkehr Mittelland (RM) deren fünf im Güterverkehr eingesetzte Lokomotiven, die dem SBB-Typ Re 4/4 III entsprachen, und noch vom Vorgängerunternehmen Emmental-Burgdorf-Thun-Bahn (EBT) beschafft wurden. Die Lokomotiven verfügten über eine Zulassung für die Schweiz und wurden im Laufe der Jahre mit ETCS nachgerüstet, welches für das Führen von Güterzügen via Lötschberg-Basistunnel und Gotthard-Basistunnel notwendig ist.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500173-elektrolokomotive-re-436-113-5-crossrail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265696.jpg"
+  },
+  "updatedAt": "2026-05-06T08:18:22Z"
+}

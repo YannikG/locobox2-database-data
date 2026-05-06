@@ -21,5 +21,7 @@ Diese Schemata sind die verbindliche Schnittstelle zwischen dem öffentlichen Da
 ## Rückwärtskompatibilität
 
 - Patch: rein additive Korrekturen ohne Strukturbruch.
-- Minor: neue optionale Felder.
+- Minor: neue optionale Felder (z. B. `source.imageUrl` für PDP-Produktbilder).
 - Major: Breaking Changes mit Migrationspfad.
+
+Details zu Pflichtkeys, `null` und `releaseDate` stehen in **`article.schema.json`** (Kommentare in `description` wo nötig).

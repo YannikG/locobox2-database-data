@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310068",
+  "manufacturer": "Roco",
+  "articleNumber": "7310068",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "217",
+    "number": "003-3",
+    "livery": "DB",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 217 003-3, DB. Alle Änderungen im Modell korrekt nachgebildet. Extra angesetzte Steckteile, teilweise in Ätztechnik ausgeführt. Das Modell verfügt über vorbildgerechte niedrige Spurkränze. Im Digitalbetrieb mit schaltbarem Spitzen- und Schlusslicht, Führerstandsbeleuchtung und Maschinenraumbeleuchtung. Alle Abbildungen zeigen einen nicht finalen Arbeitsstand.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310068-diesellokomotive-217-003-3-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259151.jpg"
+  },
+  "updatedAt": "2026-05-05T21:35:20Z"
+}

@@ -1,0 +1,27 @@
+name: Validate Data
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install validator dependencies
+        run: pip install "jsonschema[format]>=4.22,<5"
+
+      - name: Validate JSON syntax, schemas, and repository conventions
+        run: python3 ".github/scripts/validate_data.py"

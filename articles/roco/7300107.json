@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300107",
+  "manufacturer": "Roco",
+  "articleNumber": "7300107",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 110",
+    "number": null,
+    "livery": "DR",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV",
+    "luepMm": 164,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, BR 110, DR. Foto: Lokstromer. Ausführung in bordeauxroter Lackierung. Erstmals Nachbildung der frühen Serien. In die Vorbauten integrierte Dachdeckel. Drehgestelle vollständig mit Bremsleitungen ausgeführt. Hohe Zugkraft und perfekte Betriebseigenschaften. Mit schaltbarem Spitzen- und Schlusslicht sowie Führerstandsbeleuchtung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300107-diesellokomotive-br-110-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266714.jpg"
+  },
+  "updatedAt": "2026-05-05T21:34:20Z"
+}

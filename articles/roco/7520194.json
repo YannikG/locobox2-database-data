@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7520194",
+  "manufacturer": "Roco",
+  "articleNumber": "7520194",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "Railpool",
+    "type": "193",
+    "number": "128-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Elektrolokomotive 193 128 der Railpool vermietet an Adesso Rail. Modell exklusiv bei ROCO erhältlich. Aufwendige Bedruckung im kunstvollen Design. Grenzüberschreitender Einsatz im Güterverkehr. Freistehende Griffstangen, teilweise aus Metall. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führerstandsbeleuchtung. In Kooperation mit Marie-Therese AbartAdesso Rail ist ein junges österreichisches Eisenbahnverkehrsunternehmen mit Sitz in Marchegg, das 2025 gegründet wurde. Das Unternehmen positioniert sich als moderner, international ausgerichteter Betreiber für den Schienenverkehr zwischen Österreich, Deutschland und Italien. Mit hochmodernen Siemens Vectron-Lokomotiven von Railpool setzt Adesso Rail auf die Zuverlässigkeit der Siemens Maschinen. Der frische Markenauftritt, das markante Design und der Fokus auf innovative Logistiklösungen machen Adesso Rail zu einem spannenden neuen Akteur im europäischen Bahnsektor.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7520194-elektrolokomotive-193-128-6-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265650.jpg"
+  },
+  "updatedAt": "2026-05-06T08:18:00Z"
+}

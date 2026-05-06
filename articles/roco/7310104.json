@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310104",
+  "manufacturer": "Roco",
+  "articleNumber": "7310104",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "WLE",
+    "type": "22 „Warsteiner“",
+    "number": null,
+    "livery": "Warsteiner",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Diesellokomotive 22 „Warsteiner“ der Westfälischen Landes-Eisenbahn. Beigelegte Aussenspiegel für ein- und ausgeklappte Stellung. Extra angesetzte Griffstangen, Scheibenwischer und UIC-Dosen. Farblich abgesetzte Bremsscheiben. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310104-diesellokomotive-22-warsteiner-wle.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266522.jpg"
+  },
+  "updatedAt": "2026-05-06T08:19:43Z"
+}

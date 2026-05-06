@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7310108",
+  "manufacturer": "Roco",
+  "articleNumber": "7310108",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "335",
+    "number": "108-7",
+    "livery": "DB",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 90,
+    "minRadiusMm": 358
+  },
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 335 108-7, DB.\n\nFür den Verschub von Personen- und Güterwagen in Bahnhöfen setzte die Deutsche Bundesbahn bereits früh auf kleinere Verschublokomotiven. Eine Weiterentwicklung der Köf 11 mit Kraftübertragung über Gelenkwellen und zusätzlichem Achsgetriebe wurde 1965 von Gmeinder präsentiert. Von der zunächst als Köf 12 bezeichneten Ausführung wurden 251 Rangierloks als Baureihe 333 an die Deutsche Bundesbahn geliefert. Um Personaleinsparungen zu ermöglichen, wurde ab Ende der 1980er Jahre ein Grossteil der Lokomotiven mit einer Funkfernsteuerung ausgerüstet. Diese Maschinen wurden als Baureihe 335 bezeichnet.\n\nMit digitaler Rangierkupplung für mehr Spielspass. Motorvorbau und Getriebeblock aus Zinkdruckguss, hohes Eigengewicht und hohe Zugkraft. Photomontage. Fein detaillierte Ausführung mit vielen Steckteilen und freistehenden Griffstangen. Im Digitalbetrieb mit schaltbarem Rangierlicht sowie Spitzen- und Schlusslicht.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310108-diesellokomotive-335-108-7-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266748.jpg"
+  },
+  "updatedAt": "2026-05-05T21:40:30Z"
+}

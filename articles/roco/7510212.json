@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7510212",
+  "manufacturer": "Roco",
+  "articleNumber": "7510212",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "194",
+    "number": "080-8",
+    "livery": "DB",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 213,
+    "minRadiusMm": 358,
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
+  },
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, 194 080-8, DB. Fein detailliertes Modell der schweren elektrischen Güterzuglokomotive. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen- und Schlusslicht sowie Führerstandsbeleuchtung. Mehrfarbig gestalteter Maschinenraum und Bedienpult nach Vorbild.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2026",
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7510212-elektrolokomotive-194-080-8-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266746.jpg"
+  },
+  "updatedAt": "2026-05-05T22:07:01Z"
+}
