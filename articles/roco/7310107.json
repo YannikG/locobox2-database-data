@@ -11,8 +11,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "BR 110",
-    "number": null,
+    "type": "BR",
+    "number": "110",
     "livery": "DR",
     "scale": "H0",
     "electricSystem": "DC-Digital",
