@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "SE",
     "operator": "SJ",
-    "type": "Rc 4 1173",
-    "number": null,
-    "livery": "179",
+    "type": "Rc 4",
+    "number": "1173",
+    "livery": "Ursprungszustand",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV",

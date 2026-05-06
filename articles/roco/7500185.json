@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Alpha Trains/Rheincargo",
     "type": "193",
     "number": "101-1",

@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "RTC",
     "type": "193",
     "number": "996-3",
-    "livery": "VI",
+    "livery": "Zebra",
     "scale": "H0",
     "electricSystem": "AC-Analog",
     "era": "VI",

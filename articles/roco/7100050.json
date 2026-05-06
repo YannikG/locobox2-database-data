@@ -11,8 +11,8 @@
   "model": {
     "country": "PL",
     "operator": "PKP",
-    "type": "Ok1-37",
-    "number": null,
+    "type": "Ok1",
+    "number": "37",
     "livery": "PKP",
     "scale": "H0",
     "electricSystem": "DC-Analog",

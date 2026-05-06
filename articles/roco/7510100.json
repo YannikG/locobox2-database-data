@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "LTE",
     "type": "193",
     "number": "958-6",
-    "livery": "100 Trucks & Cars, One Train",
+    "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "VI",

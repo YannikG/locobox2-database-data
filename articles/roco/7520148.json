@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "E 44 509",
-    "number": null,
+    "type": "E 44",
+    "number": "509",
     "livery": "DB",
     "scale": "H0",
     "electricSystem": "AC-Analog",
@@ -21,7 +21,7 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, n, DB. Betriebszustand bis Ende der 1960er Jahre. Ursprüngliche Ausführung ohne Indusi-Magneten. Stromabnehmer Bauart SBS 10 - mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Radsätze mit niedrigen Spurkränzen. Mehrfarbig gestaltete Führerstandsrückwand. Besonders luftig gestaltete Drehgestelle - wie beim großen. Im Digitalbetrieb mit schaltbarer Führerstands- und Maschinen-. raumbeleuchtung. Zuglauf nach Berchtesgaden.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 509, DB. Betriebszustand bis Ende der 1960er Jahre. Ursprüngliche Ausführung ohne Indusi-Magneten. Stromabnehmer Bauart SBS 10 mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Radsätze mit niedrigen Spurkränzen. Mehrfarbig gestaltete Führerstandsrückwand. Besonders luftig gestaltete Drehgestelle wie beim grossen Original. Im Digitalbetrieb mit schaltbarer Führerstands- und Maschinenraumbeleuchtung. Zuglauf nach Berchtesgaden.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "Crossrail",
     "type": "Re 436",
     "number": "113-5",
-    "livery": "Elektrolokomotive Re 436 113-5 - |_|",
+    "livery": "Crossrail",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI",

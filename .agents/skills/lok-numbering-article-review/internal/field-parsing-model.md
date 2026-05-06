@@ -21,6 +21,10 @@ Locobox-Schema (`contracts/article.schema.json`): `model.type` und `model.number
 | `370 094-2 „Adriatic Express“` | Baureihe + Nummer + **Zug-/Produktname** | `type` `370`, `number` `094-2`, **`livery`** z. B. `Adriatic Express` |
 | Nur Ziffern ohne Trenner (Shop-Slug) | z. B. `7714` aus URL | Mit Beschreibung zurück in `77` + `14` splitten |
 
+### SNCF (`BB` / `CC` / … und Ziffernblock)
+
+In Frankreich erscheint die übliche **Anschrift** oft als **ein** String: **Präfix** (`BB`, `CC`, `Y`, …) plus **ein Ziffernblock** (häufig fünf Stellen, z. B. `72052`). Das ist **nicht** dasselbe Muster wie DB-«Baureihe plus Prüfziffer». Zwei zulässige Projekt-Lesarten: (1) **alles in `model.type`** (z. B. `CC 72052`), **`model.number`** `null`, wenn ihr die französische Schreibweise **ohne** künstlichen Split führen wollt; (2) **`model.type`** = Präfix (`CC`), **`model.number`** = der gesamte Ziffernblock (`72052`), wenn ihr Such- und Filterlogik an DB- oder CH-Splits angleichen wollt. Eine feinere Zerlegung in «Serie 72000» und «052» nur bei **eindeutigem** Beleg in `description`, `source.url` oder [wiki-sncf-loks-liste.md](wiki-sncf-loks-liste.md), sonst **Finding**, nicht raten.
+
 ## Quellen-Reihenfolge für die Zuordnung
 
 1. Erster Satz / Nummern in `description`

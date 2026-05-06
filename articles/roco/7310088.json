@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
     "type": "753",
     "number": "211-2",
-    "livery": null,
+    "livery": "Gelber Fensterrahmen, Warnstreifen",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "V",

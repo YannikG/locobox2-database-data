@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "AT",
+    "country": "CS",
     "operator": "CSD",
-    "type": "T 466 2114",
-    "number": null,
-    "livery": "OBB",
+    "type": "T 466",
+    "number": "2114",
+    "livery": "CSD",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV",

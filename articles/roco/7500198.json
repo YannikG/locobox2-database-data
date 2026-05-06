@@ -9,18 +9,18 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "NL",
-    "operator": "NS",
-    "type": "Elektrolokomotive",
-    "number": "E 44 015 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der vierachsigen",
-    "livery": "NS",
+    "country": "DE",
+    "operator": "DRG",
+    "type": "E 44",
+    "number": "015",
+    "livery": "DRG",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "era": null,
+    "era": "II",
     "luepMm": null,
     "minRadiusMm": null
   },
-  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 015 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der vierachsigen, NS. Drehgestell-Lokomotiven betrug rund 2.200 kW, dabei lag die Hochstge-. . schwindigkeit bei 90 km/h. Die Loks bewahrten sich dabei sowohl vor Per-. Ls A aN. . sonenztigen als auch vor Giiterzligen. Einige Lokomotiven wurden mit einer. SS VL» ~Q Wendezugsteuerung ausgerUstet und somit im Vorortverkehr in Ballungs-. DRB = ee réumen eingesetzt. Die E 44 — aus der die Baureihen E 44.5, E 93 und E 94. a == = = SS — ~~ weiterentwickelt wurden — darf mit Recht als eine der zuverlassigsten und. n - a ao erfolgreichsten Elektrolokomotiven bezeichnet werden, verhalf sie doch der. ,— k| p Drehgestellbauweise und dem Tatzlagerantrieb zum Durchbruch. ‘ ’ > GroBe Lampen der Reichsbahn-Einheitsbauart. Ee : | f > Stromabnehmer Typ SBS 10 mit innovativer Befestigung. s. > Extra angesetzte Scheibenwischer. RS a NS ee > Freier Fiihrerstands-Durchblick und mehrfarbig gestaltete. Photomontage Riickwand.",
+  "description": "Roco Neuheiten 2026: Elektrolokomotive, E 44 015, DRG. Rund 200 Lokomotiven der Baureihe E 44 wurden in Dienst gestellt. Die Leistung der vierachsigen Drehgestell-Lokomotiven betrug rund 2.200 kW, dabei lag die Höchstgeschwindigkeit bei 90 km/h. Die Loks bewährten sich sowohl vor Personenzügen als auch vor Güterzügen. Einige Lokomotiven wurden mit einer Wendezugsteuerung ausgerüstet und somit im Vorortverkehr in Ballungsräumen eingesetzt. Die E 44, aus der die Baureihen E 44.5, E 93 und E 94 weiterentwickelt wurden, darf mit Recht als eine der zuverlässigsten und erfolgreichsten Elektrolokomotiven bezeichnet werden; sie brachte die Drehgestellbauweise und den Tatzlagerantrieb zum Durchbruch.\n\nGroße Lampen der Reichsbahn-Einheitsbauart. Stromabnehmer Typ SBS 10 mit innovativer Befestigung. Extra angesetzte Scheibenwischer. Freier Führerstands-Durchblick und mehrfarbig gestaltete Photomontage-Rückwand.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

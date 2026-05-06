@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "PKP IC",
     "type": "370",
     "number": "094-2",

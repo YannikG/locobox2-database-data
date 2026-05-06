@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Regiobahn",
     "type": "2143",
     "number": "062-5",
-    "livery": null,
+    "livery": "ErlebnisZug Leiser Berge",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI",
@@ -21,7 +21,7 @@
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"
   },
-  "description": "Roco Neuheiten 2026: Diesellokomotive, 2143 062-5 |, a a. a konstruktion. | ep vy] = = = — - > Ausfilhrung der 3. Bauserie mit geradem Rahmen. A ee ee) 1? tan) | \\ > Freistehende Griffstangen, teilweise aus Metall. oe asa reg Te) ba h n >Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht. ph aa anes und Fihrerstandsbeleuchtung. Q4/2026 Der ErlebnisZug Leiser Berge ladt zu einer ganz besonderen Reise ein: Ge-. A neuburg nach Ernstbrunn und verspruht ein echtes ,,Reisegefuhl wie anno. 7320093 Egal ob mit Familie, Freunden oder alleine unterwegs— der ErlebnisZug und. der NaturparkBus offnet den Weg zu Naturerlebnissen, aktiven Abenteuern. Wildpark Ernstbrunn mit Wolfsforschungszentrum, idyllische Wanderwege. im Naturpark Leiser Berge mit Panoramaausblicken, die nostalgische Wein-. vierteldraisine, Mountainbike- und Radstrecken sowie attraktive Ziele. REGIOBAHN Tale ny a ee — —_ ie.",
+  "description": "Roco Neuheiten 2026: Diesellokomotive, 2143 062-5, Regiobahn. Ausführung der 3. Bauserie mit geradem Rahmen. Freistehende Griffstangen, teilweise aus Metall. Im Digitalbetrieb mit schaltbarem Fernlicht, Spitzen-/Schlusslicht und Führerstandsbeleuchtung.\n\nDer ErlebnisZug Leiser Berge lädt zu einer ganz besonderen Reise ein: von Gänserndorf nach Ernstbrunn und verspricht ein echtes Reisegefühl wie einst. Egal ob mit Familie, Freunden oder alleine unterwegs, der ErlebnisZug und der NaturparkBus öffnen den Weg zu Naturerlebnissen und aktiven Abenteuern: Wildpark Ernstbrunn mit Wolfsforschungszentrum, idyllische Wanderwege im Naturpark Leiser Berge mit Panoramaausblicken, die nostalgische Weinvierteldraisine, Mountainbike- und Radstrecken sowie weitere attraktive Ziele.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

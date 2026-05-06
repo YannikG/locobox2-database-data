@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "FR",
+    "country": "PL",
     "operator": "PKP",
-    "type": "Ok1-37",
-    "number": null,
+    "type": "Ok1",
+    "number": "37",
     "livery": "SNCF",
     "scale": "H0",
     "electricSystem": "DC-Digital",

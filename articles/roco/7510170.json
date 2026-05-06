@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "SOB",
-    "type": "Re 4/4 III 43",
-    "number": null,
-    "livery": "IV-V",
+    "type": "Re 4/4 III",
+    "number": "43",
+    "livery": "Rothenthurm",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV-V",

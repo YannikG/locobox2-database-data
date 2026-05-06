@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": "EINSTELLER",
-    "type": "6-tlg. Set: Elektrotriebzug „FLIRT 3“",
+    "country": "DE",
+    "operator": "Bayerische Regiobahn GmbH",
+    "type": "429",
     "number": null,
-    "livery": "VI",
+    "livery": "Freilassing",
     "scale": "H0",
     "electricSystem": "AC-Analog",
     "era": "VI",

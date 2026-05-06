@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "railCare",
     "type": "Rem 476",
     "number": "457-7",
-    "livery": "Elektrolokomotive Rem 476 457-7",
+    "livery": "Aargau, Coop-Design",
     "scale": "H0",
     "electricSystem": "AC-Analog",
     "era": "VI",

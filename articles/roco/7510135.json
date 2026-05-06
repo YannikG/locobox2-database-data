@@ -9,14 +9,14 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
     "type": "121",
     "number": "046-7",
-    "livery": "IV",
+    "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "V",
+    "era": "IV",
     "luepMm": 186,
     "minRadiusMm": 358,
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22"

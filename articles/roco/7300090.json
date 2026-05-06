@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
-    "type": "T 478 2079",
-    "number": null,
-    "livery": "IV",
+    "type": "T 478",
+    "number": "2079",
+    "livery": "CSD",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV",

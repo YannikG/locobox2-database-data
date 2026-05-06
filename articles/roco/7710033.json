@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": "EINSTELLER",
-    "type": "5-tlg. Set: Elektrotriebzug „FLIRT 3“",
+    "country": "DE",
+    "operator": "Arverio Baden-Württemberg GmbH",
+    "type": "429",
     "number": null,
-    "livery": "VI",
+    "livery": "Baden-Württemberg (SFBW)",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "VI",

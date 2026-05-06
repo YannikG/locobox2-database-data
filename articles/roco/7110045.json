@@ -11,8 +11,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "38 2566-8",
-    "number": null,
+    "type": "38",
+    "number": "2566-8",
     "livery": "DR",
     "scale": "H0",
     "electricSystem": "DC-Digital",

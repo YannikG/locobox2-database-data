@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
     "type": "754",
     "number": "047-9",
-    "livery": "4Variante mit Bauchbinde und blauem Dach",
+    "livery": "Bauchbinde, blaues Dach",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "V",

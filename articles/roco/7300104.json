@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "WLE",
     "type": "22 „Warsteiner“",
     "number": null,
-    "livery": "Diesellokomotive 22 „Warsteiner“",
+    "livery": "Warsteiner",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI",

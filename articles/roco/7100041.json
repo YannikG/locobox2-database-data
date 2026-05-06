@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "K.P.E.V.",
     "type": "S 10.1",
     "number": "1108",

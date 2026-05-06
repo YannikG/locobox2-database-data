@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "SE",
     "operator": "SJ",
-    "type": "Da 917",
-    "number": null,
-    "livery": "151",
+    "type": "Da",
+    "number": "917",
+    "livery": "Lollipop",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV",
