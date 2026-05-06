@@ -34,8 +34,28 @@
       "type": ["string", "null"]
     },
     "releaseDate": {
-      "type": "string",
-      "format": "date"
+      "anyOf": [
+        {
+          "type": "null",
+          "description": "Liefertermin noch unbekannt (z. B. Vorbestellung)."
+        },
+        {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 Kalenderdatum (YYYY-MM-DD)."
+        },
+        {
+          "type": "string",
+          "pattern": "^[12][0-9]{3}$",
+          "description": "Nur vierstelliges Erscheinungsjahr, falls kein exaktes Datum vorliegt."
+        },
+        {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "Freitext zur Verfügbarkeit, z. B. Saison und Jahr (Herstellerangabe)."
+        }
+      ]
     },
     "uvp": {
       "type": "object",
@@ -79,12 +99,28 @@
           "minLength": 1
         },
         "number": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            {
+              "type": "null",
+              "description": "Betriebsnummer noch nicht gesplittet oder nicht eindeutig."
+            },
+            {
+              "type": "string",
+              "minLength": 1
+            }
+          ]
         },
         "livery": {
-          "type": "string",
-          "minLength": 1
+          "oneOf": [
+            {
+              "type": "null",
+              "description": "Lackierung unbekannt, Import-Artefakt entfernt oder noch zu kürzen."
+            },
+            {
+              "type": "string",
+              "minLength": 1
+            }
+          ]
         },
         "scale": {
           "type": "string",
@@ -92,7 +128,17 @@
         },
         "electricSystem": {
           "type": "string",
-          "minLength": 1
+          "description": "Muss einem Eintrag in config/electric-systems entsprechen (kanonischer `name` oder `slug` pro Datei). Bei neuen Stromsystemen Contract und Taxonomie gemeinsam erweitern.",
+          "enum": [
+            "DC-Analog",
+            "DC-Digital",
+            "AC-Analog",
+            "AC-Digital",
+            "Other",
+            "other",
+            "Unbekannt",
+            "unbekannt"
+          ]
         },
         "era": {
           "type": "string",
@@ -111,12 +157,12 @@
           "minLength": 1
         },
         "luepMm": {
-          "type": "number",
-          "minimum": 0
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
+          "description": "LÜP in mm; null wenn Hersteller keine Angabe liefert."
         },
         "minRadiusMm": {
-          "type": "number",
-          "minimum": 0
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
+          "description": "Mindestradius in mm; null wenn unbekannt."
         },
         "features": {
           "type": "array",

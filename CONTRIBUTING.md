@@ -10,6 +10,8 @@ Danke für deinen Beitrag.
 4. Lokal prüfen mit `npm ci` und `npm run check` (Node 22 empfohlen).
 5. Pull Request mit kurzer Quellenangabe öffnen.
 
+Nach `npm ci` richtet das **`prepare`**-Skript **Husky** ein (`core.hooksPath`). Beim **`git commit`** läuft nur **lint-staged** (Prettier auf gestagete, nicht ignorierte Dateien). **`npm run lint`** und **`npm run validate:data`** laufen dort **nicht** automatisch; vor einem Push empfiehlt sich wie in der CI **`npm run check`** (oder einzeln `lint` / `validate:data`). Ohne Pre-Commit-Hook: **`git commit --no-verify`**.
+
 ## Wichtigste Regeln
 
 - Eine Datei pro Artikel.

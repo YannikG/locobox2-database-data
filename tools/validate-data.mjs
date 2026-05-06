@@ -125,6 +125,9 @@ function buildAllowedValueSet(items) {
   for (const item of items) {
     values.add(item.name);
     values.add(item.slug);
+    for (const alias of item.aliases ?? []) {
+      values.add(alias);
+    }
   }
   return values;
 }

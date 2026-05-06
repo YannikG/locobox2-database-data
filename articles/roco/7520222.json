@@ -3,7 +3,7 @@
   "id": "roco-7520222",
   "manufacturer": "Roco",
   "articleNumber": "7520222",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 439.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "11143",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 171,
     "minRadiusMm": 358,

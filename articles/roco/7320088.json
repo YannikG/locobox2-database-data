@@ -3,7 +3,7 @@
   "id": "roco-7320088",
   "manufacturer": "Roco",
   "articleNumber": "7320088",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 344.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "211-2",
     "livery": "Gelber Fensterrahmen, Warnstreifen",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "V",
     "luepMm": 190,
     "minRadiusMm": 358,

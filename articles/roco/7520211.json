@@ -3,19 +3,19 @@
   "id": "roco-7520211",
   "manufacturer": "Roco",
   "articleNumber": "7520211",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 399.9,
     "currency": "EUR"
   },
   "model": {
-    "country": "CH",
+    "country": "SE",
     "operator": "NRFAB",
     "type": "Re 620",
     "number": "052-4",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 222,
     "minRadiusMm": 358,

@@ -3,17 +3,17 @@
   "id": "roco-7300086",
   "manufacturer": "Roco",
   "articleNumber": "7300086",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 244.9,
     "currency": "EUR"
   },
   "model": {
-    "country": "IT",
+    "country": "HU",
     "operator": "GySEV",
     "type": "M62",
     "number": "901",
-    "livery": "FS",
+    "livery": "GySEV",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV",

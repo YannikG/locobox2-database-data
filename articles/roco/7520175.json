@@ -3,7 +3,7 @@
   "id": "roco-7520175",
   "manufacturer": "Roco",
   "articleNumber": "7520175",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 399.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "457-7",
     "livery": "Aargau, Coop-Design",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 218,
     "minRadiusMm": 358,

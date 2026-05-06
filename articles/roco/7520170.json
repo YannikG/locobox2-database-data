@@ -3,7 +3,7 @@
   "id": "roco-7520170",
   "manufacturer": "Roco",
   "articleNumber": "7520170",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 439.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "43",
     "livery": "Rothenthurm",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "IV-V",
     "luepMm": 177,
     "minRadiusMm": 358,

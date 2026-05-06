@@ -3,19 +3,19 @@
   "id": "roco-7520167",
   "manufacturer": "Roco",
   "articleNumber": "7520167",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 354.9,
     "currency": "EUR"
   },
   "model": {
-    "country": "CH",
+    "country": "SE",
     "operator": "NRFAB",
     "type": "482",
     "number": "038-7",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358,

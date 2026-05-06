@@ -3,19 +3,19 @@
   "id": "roco-7520210",
   "manufacturer": "Roco",
   "articleNumber": "7520210",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 379.9,
     "currency": "EUR"
   },
   "model": {
-    "country": "CH",
+    "country": "SE",
     "operator": "NRFAB",
     "type": "Rc 4",
     "number": "1166",
     "livery": "SBB",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 179,
     "minRadiusMm": 358,

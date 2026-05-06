@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "NEM 651 Steckvorrichtung",
+  "slug": "nem651-steckvorrichtung",
+  "description": "Elektrische Schnittstelle nach NEM 651 mit Steckvorrichtung.",
+  "aliases": [
+    "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung"
+  ]
+}

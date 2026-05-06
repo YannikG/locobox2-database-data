@@ -3,7 +3,7 @@
   "id": "roco-7720033",
   "manufacturer": "Roco",
   "articleNumber": "7720033",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 649.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": null,
     "livery": "Baden-Württemberg (SFBW)",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": null,
     "minRadiusMm": 358,

@@ -12,6 +12,7 @@
 
 ## Einstieg
 
+- Git-Hooks: [Husky](https://typicode.github.io/husky/) mit Pre-Commit (**Prettier** auf gestagete Dateien via **lint-staged**); nach `npm ci` aktiv.
 - Regeln für Beiträge: `CONTRIBUTING.md`
 - Contract-Details: `contracts/README.md`
 - Python-Tools und venv: `utils/README.md`
