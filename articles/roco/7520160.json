@@ -3,7 +3,7 @@
   "id": "roco-7520160",
   "manufacturer": "Roco",
   "articleNumber": "7520160",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 399.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "11646",
     "livery": "Bussigny",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "V-VI",
     "luepMm": 222,
     "minRadiusMm": 358,

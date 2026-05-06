@@ -3,7 +3,7 @@
   "id": "roco-7520179",
   "manufacturer": "Roco",
   "articleNumber": "7520179",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 379.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "917",
     "livery": "Lollipop",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "IV",
     "luepMm": 151,
     "minRadiusMm": 358,

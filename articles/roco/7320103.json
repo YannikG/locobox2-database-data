@@ -3,7 +3,7 @@
   "id": "roco-7320103",
   "manufacturer": "Roco",
   "articleNumber": "7320103",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 274.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "592-6",
     "livery": "Erfurter Bahnservice",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 237,
     "minRadiusMm": 358,

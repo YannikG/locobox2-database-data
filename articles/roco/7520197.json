@@ -3,7 +3,7 @@
   "id": "roco-7520197",
   "manufacturer": "Roco",
   "articleNumber": "7520197",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 379.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "1616",
     "livery": "DB Cargo",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 201,
     "minRadiusMm": 358,

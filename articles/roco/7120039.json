@@ -3,7 +3,7 @@
   "id": "roco-7120039",
   "manufacturer": "Roco",
   "articleNumber": "7120039",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 479.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "2146-4",
     "livery": "DR",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "III-IV",
     "luepMm": 265,
     "minRadiusMm": 358,

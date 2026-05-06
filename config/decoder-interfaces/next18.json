@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Next18",
+  "slug": "next18",
+  "description": "Elektrische Schnittstelle Next18.",
+  "aliases": [
+    "Elektrische Schnittstelle für Triebfahrzeuge Next18"
+  ]
+}

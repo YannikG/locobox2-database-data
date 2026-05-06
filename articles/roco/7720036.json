@@ -3,7 +3,7 @@
   "id": "roco-7720036",
   "manufacturer": "Roco",
   "articleNumber": "7720036",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 849.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "039-8",
     "livery": "Auguste & Jacques Piccard",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 1540,
     "minRadiusMm": 420,

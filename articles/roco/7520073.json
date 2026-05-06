@@ -3,7 +3,7 @@
   "id": "roco-7520073",
   "manufacturer": "Roco",
   "articleNumber": "7520073",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 399.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "452-0",
     "livery": "Schweizpiercer",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 218,
     "minRadiusMm": 358,

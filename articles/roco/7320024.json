@@ -3,7 +3,7 @@
   "id": "roco-7320024",
   "manufacturer": "Roco",
   "articleNumber": "7320024",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 349.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": null,
     "livery": "ZSSK",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "VI",
     "luepMm": 83,
     "minRadiusMm": 358

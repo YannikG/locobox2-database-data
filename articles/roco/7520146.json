@@ -3,7 +3,7 @@
   "id": "roco-7520146",
   "manufacturer": "Roco",
   "articleNumber": "7520146",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 349.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "15060",
     "livery": "SNCF",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "V-VI",
     "luepMm": 201,
     "minRadiusMm": 358,

@@ -3,7 +3,7 @@
   "id": "roco-7720016",
   "manufacturer": "Roco",
   "articleNumber": "7720016",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 489.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "537-9",
     "livery": "DB",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "IV",
     "luepMm": 538,
     "minRadiusMm": 358,

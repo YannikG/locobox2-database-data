@@ -16,10 +16,20 @@
     },
     "slug": {
       "type": "string",
-      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      "pattern": "^[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)*$",
+      "description": "Kurzcode; Grossbuchstaben erlaubt (z. B. Massstab H0 im Slug)."
     },
     "description": {
       "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Zusätzliche erlaubte Werte (z. B. Hersteller-Rohlabel), die in Artikeln vorkommen dürfen."
     }
   }
 }

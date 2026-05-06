@@ -3,7 +3,7 @@
   "id": "roco-7520172",
   "manufacturer": "Roco",
   "articleNumber": "7520172",
-  "releaseDate": "2026",
+  "releaseDate": "Frühling 2026",
   "uvp": {
     "amount": 379.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "008-1",
     "livery": "BLS",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "era": "V-VI",
     "luepMm": 212,
     "minRadiusMm": 358,
