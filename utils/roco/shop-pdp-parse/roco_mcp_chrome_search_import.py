@@ -2,9 +2,10 @@
 """
 Roco Shop: Artikelnummern per **Chrome-DevTools-MCP** (stdio) suchen, PDP-HTML holen,
 dann ``roco_shop_parse_pdp.py`` mit ``--html-file`` + ``--canonical-url`` aufrufen.
-Bei ``--merge-config`` / ``--merge-only`` wird nur ein **kompaktes** HTML (alle Spec-Tabellen + ``og:url``
-+ ``og:title``) serialisiert, damit MCP die LüP-Tabelle nicht abschneidet und du bei erweiterter
-``mergeOnly``-Liste (z. B. ``model.type``) den Titel parsen kannst.
+Bei ``--merge-config`` oder ``--merge-only`` **ohne** reine-Beschreibung-Subset wird ein **kompaktes** HTML
+(alle Spec-Tabellen + ``og:url`` + ``og:title``) serialisiert, damit MCP die LüP-Tabelle nicht abschneidet.
+Ist ``--merge-only`` ausschliesslich ``description``, wird die **volle** PDP-``outerHTML`` geladen
+(``itemprop`` / ``product-add-form-text`` für den Parser).
 Nach der PDP: zuerst **``og:image`` aus dem live DOM** (``evaluate_script``),
 sonst **MCP list_network_requests** (Typ ``image``, Katalogpfade). Ergebnis als ``--image-url``
 an den Parser. Netzwerkteil abschalten: ``--no-network-image`` (DOM bleibt aktiv).
@@ -504,6 +505,35 @@ def _read_article_numbers(path: Path) -> list[str]:
     return out
 
 
+def _merge_only_key_set(merge_only: Optional[list[str]]) -> frozenset[str]:
+    if not merge_only:
+        return frozenset()
+    out: set[str] = set()
+    for chunk in merge_only:
+        for part in re.split(r"[\s,]+", str(chunk).strip()):
+            if part:
+                out.add(part)
+    return frozenset(out)
+
+
+def _use_compact_pdp_html(
+    merge_config: Optional[Path], merge_only: Optional[list[str]]
+) -> bool:
+    """
+    Kompaktes HTML enthält keine ``itemprop=description`` / ``product-add-form-text``.
+    Nur ``description`` mergen → volle ``outerHTML``, sonst schneidet der Parser
+    die Beschreibung ab.
+    """
+    if merge_config is not None:
+        return True
+    mo = _merge_only_key_set(merge_only)
+    if not mo:
+        return False
+    if mo <= frozenset({"description"}):
+        return False
+    return True
+
+
 async def _run_mcp_import(
     *,
     mcp_argv: list[str],
@@ -666,7 +696,7 @@ async def _run_mcp_import(
                         await asyncio.sleep(max(0.3, min(1.5, delay_s * 0.5)))
                         image_url_override = await _mcp_catalog_image_from_network(session, art)
 
-                    use_compact_html = merge_config is not None or bool(merge_only)
+                    use_compact_html = _use_compact_pdp_html(merge_config, merge_only)
                     if use_compact_html:
                         try:
                             wf_spec = await session.call_tool(
