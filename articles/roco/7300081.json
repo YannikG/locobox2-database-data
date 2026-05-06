@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300081",
+  "manufacturer": "Roco",
+  "articleNumber": "7300081",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 174.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PMT",
+    "type": "232",
+    "number": "049",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V-VI",
+    "luepMm": 237,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive BR-232 049 der Pol-Miedz Trans. Ausführung in auffälliger Lackierung. Einsatz im schweren Güterzugdienst. Zugkräftiges, betriebssicheres Modell für vorbildgerecht lange Züge",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/home-neuheiten/7300081-diesellokomotive-br-232-049-pmt.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264560.jpg"
+  },
+  "updatedAt": "2026-05-06T19:21:57Z"
+}
