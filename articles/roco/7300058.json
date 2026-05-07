@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "SBW",
-    "type": "V 300 005",
-    "number": null,
+    "type": "V 300",
+    "number": "005",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

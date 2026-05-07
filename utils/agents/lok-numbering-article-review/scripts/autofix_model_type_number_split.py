@@ -14,6 +14,10 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * Dampf: zweistellige Baureihe + ``NNNN-d`` (z. B. «01 0529-6») + ``dampflokomotive``.
 * Dampf: zweistellige Baureihe + dreistellige Nummer (z. B. «10 001») + ``dampflokomotive``.
 * Dampf: BR 89 Unterbauart «BR 89.70–75» bzw. «89.70–75» → ``BR 89`` + ``70–75`` + ``dampflokomotive``.
+* ČSD-Diesel: «T 669.0107» → ``T 669`` + ``0107``.
+* Dampf: «BR 35.10» (DDR EDV-Unterbauart) → ``BR 35`` + ``10`` + ``dampflokomotive``.
+* Dampf: «Rh 354.1» (ČSD) → ``Rh 354`` + ``1`` + ``dampflokomotive``.
+* Diesel: «V 300 005» → ``V 300`` + ``005`` + ``diesellokomotive``.
 
 Usage::
 
@@ -174,6 +178,51 @@ def _rule_br89_dot_subrange_no_br_prefix(article: Article) -> Optional[Proposal]
     return ("br_89_dot_subrange_nobr", "BR 89", num)
 
 
+def _rule_br35_dot_sub(article: Article) -> Optional[Proposal]:
+    """Dampf: «BR 35.10» → ``BR 35`` + ``10``."""
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"BR 35\.(\d+)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    return ("br_35_dot_sub", "BR 35", m.group(1))
+
+
+def _rule_rh354_dot_sub(article: Article) -> Optional[Proposal]:
+    """Dampf: «Rh 354.1» → ``Rh 354`` + ``1``."""
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"Rh 354\.(\d+)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    return ("rh_354_dot_sub", "Rh 354", m.group(1))
+
+
+def _rule_v_space_trailing_num(article: Article) -> Optional[Proposal]:
+    """Diesel: «V 300 005» → ``V 300`` + ``005``."""
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"V (\d{3}) (\d+)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "diesellokomotive" not in cats:
+        return None
+    return ("v_3_trailing", f"V {m.group(1)}", m.group(2))
+
+
 _BR_CLASS = re.compile(r"BR (\d+)$")
 
 
@@ -190,6 +239,10 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     m = re.fullmatch(r"E 469\.1(\d{3})", t)
     if m:
         return ("e_469_1_3", "E 469.1", m.group(1))
+
+    m = re.fullmatch(r"T 669\.(\d+)", t)
+    if m:
+        return ("t_669_dot", "T 669", m.group(1))
 
     m = re.fullmatch(r"Rc 4 (\d{4})", t)
     if m:
@@ -312,6 +365,18 @@ def propose_split(article: Article, *, include_br: bool = False) -> Optional[Pro
     br89nb = _rule_br89_dot_subrange_no_br_prefix(article)
     if br89nb:
         return br89nb
+
+    br35 = _rule_br35_dot_sub(article)
+    if br35:
+        return br35
+
+    rh354 = _rule_rh354_dot_sub(article)
+    if rh354:
+        return rh354
+
+    vtrail = _rule_v_space_trailing_num(article)
+    if vtrail:
+        return vtrail
 
     tauf4 = _rule_4digit_3dash_taufname(t)
     if tauf4:

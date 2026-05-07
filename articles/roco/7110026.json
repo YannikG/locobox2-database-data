@@ -11,8 +11,8 @@
   "model": {
     "country": "CS",
     "operator": "CSD",
-    "type": "Rh 354.1",
-    "number": null,
+    "type": "Rh 354",
+    "number": "1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

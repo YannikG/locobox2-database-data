@@ -11,8 +11,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "BR 35.10",
-    "number": null,
+    "type": "BR 35",
+    "number": "10",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

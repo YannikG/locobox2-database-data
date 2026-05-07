@@ -11,8 +11,8 @@
   "model": {
     "country": "CS",
     "operator": "CSD",
-    "type": "T 669.0107",
-    "number": null,
+    "type": "T 669",
+    "number": "0107",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
