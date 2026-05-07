@@ -3,7 +3,7 @@
   "id": "roco-7110019",
   "manufacturer": "Roco",
   "articleNumber": "7110019",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 469.9,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "DB",
-    "type": "086 407-4",
-    "number": null,
+    "type": "086",
+    "number": "407-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

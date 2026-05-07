@@ -3,7 +3,7 @@
   "id": "roco-7300006",
   "manufacturer": "Roco",
   "articleNumber": "7300006",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 234.9,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "SNCF",
-    "type": "BB 62405",
-    "number": null,
+    "type": "BB",
+    "number": "62405",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

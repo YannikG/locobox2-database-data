@@ -3,7 +3,7 @@
   "id": "roco-7300056",
   "manufacturer": "Roco",
   "articleNumber": "7300056",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 0.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "ZSSK",
-    "type": "750 183-6",
-    "number": null,
+    "type": "750",
+    "number": "183-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

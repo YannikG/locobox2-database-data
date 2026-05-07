@@ -3,7 +3,7 @@
   "id": "roco-70817",
   "manufacturer": "Roco",
   "articleNumber": "70817",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 0.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "DR",
-    "type": "108 001-9",
-    "number": null,
+    "type": "108",
+    "number": "001-9",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

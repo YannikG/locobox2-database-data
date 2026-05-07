@@ -3,7 +3,7 @@
   "id": "roco-79417",
   "manufacturer": "Roco",
   "articleNumber": "79417",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 0.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "SBB Cargo",
-    "type": "Re 420 257-8",
-    "number": null,
+    "type": "Re 420",
+    "number": "257-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Analog",

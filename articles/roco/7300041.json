@@ -3,7 +3,7 @@
   "id": "roco-7300041",
   "manufacturer": "Roco",
   "articleNumber": "7300041",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 0.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "DB",
-    "type": "218 445-5",
-    "number": null,
+    "type": "218",
+    "number": "445-5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

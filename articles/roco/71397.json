@@ -3,7 +3,7 @@
   "id": "roco-71397",
   "manufacturer": "Roco",
   "articleNumber": "71397",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 449.9,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "DR",
-    "type": "38 2833",
-    "number": null,
+    "type": "38",
+    "number": "2833",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

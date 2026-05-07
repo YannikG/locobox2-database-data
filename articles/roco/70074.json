@@ -3,7 +3,7 @@
   "id": "roco-70074",
   "manufacturer": "Roco",
   "articleNumber": "70074",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 0.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "ÖBB",
-    "type": "2143 010-3",
-    "number": null,
+    "type": "2143",
+    "number": "010-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

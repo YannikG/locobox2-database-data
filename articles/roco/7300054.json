@@ -3,7 +3,7 @@
   "id": "roco-7300054",
   "manufacturer": "Roco",
   "articleNumber": "7300054",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 249.9,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": null,
     "operator": "CD",
-    "type": "749 218-4",
-    "number": null,
+    "type": "749",
+    "number": "218-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
