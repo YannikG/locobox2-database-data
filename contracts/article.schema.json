@@ -187,6 +187,7 @@
     },
     "tags": {
       "type": "array",
+      "description": "Freie Schlagworte (Kampagnen-Slug beim Roco-Import z. B. mit roco_shop_parse_pdp.py --campaign-tag setzen). Spur gehört in model.scale, nicht als H0-Tag duplizieren.",
       "items": {
         "type": "string",
         "minLength": 1
