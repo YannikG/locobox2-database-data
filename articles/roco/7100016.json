@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100016",
+  "manufacturer": "Roco",
+  "articleNumber": "7100016",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 389.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "50",
+    "number": "685",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III-IV",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 50.685 der Österreichischen Bundesbahnen.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Ausführung mit zusätzlichen farblichen Akzenten und ÖBB-Logo. Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen. Treib- und Kuppelstangen aus Metall. Mit feinen Metallradsätzen. Einzelstück der ÖBB nach Jahrzehnten wieder im ROCO-SortimentVon 1939 bis 1943 wurden insgesamt 3.164 Stück der Güterzug-Einheitslokomotive Baureihe 50 in 21 verschiedenen Lokomotivfabriken hergestellt. Die Maschinen erreichten eine Höchstgeschwindigkeit von 80 km/h, leisteten ca. 1.200 kW und wiesen eine Achslast von 15 t auf. Nach dem 2. Weltkrieg befanden sich 18 Maschinen in Österreich. Zwölf Loks wurden 1953 in das neue Bezeichungsschema der ÖBB aufgenommen. Einige waren bis 1972 im Einsatz.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100016-dampflokomotive-50685-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258647.jpg"
+  },
+  "updatedAt": "2026-05-06T20:25:15Z"
+}

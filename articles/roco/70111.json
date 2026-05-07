@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70111",
+  "manufacturer": "Roco",
+  "articleNumber": "70111",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 389.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "Ty2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III-IV",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Ty2 (ex DRB BR 52) der Polnischen Staatsbahnen.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Ausführung mit grünem Führerhaus und auffälligen Verzierungen. Mit zwei grossen Lampen vorne und auch am Tender hinten. Bahnräumer mit gerundeten Räumblechen. Authentische, innen gerundete Windleitbleche. Z21-Führerstand verfügbarDie Dampflokomotiven Baureihe Ty2 der Polnischen Staatsbahnen waren ab 1942 im Einsatz. Es handelt sich um Kriegslokomotiven der Baureihe 52 der Deutschen Reichsbahn. Nach dem 2. Weltkrieg verblieben 1.207 Lokomotiven dieser Baureihe bei der PKP. Bis zum Ende der Dampftraktion war die Ty2 die grösste Lokserie in Polen. Mehrere Lokomotiven dieser Baureihe sind bis heute erhalten geblieben.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70111-dampflokomotive-ty2-pkp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253295.jpg"
+  },
+  "updatedAt": "2026-05-06T20:04:47Z"
+}

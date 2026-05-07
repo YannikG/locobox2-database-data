@@ -3,7 +3,7 @@
   "id": "roco-7520166",
   "manufacturer": "Roco",
   "articleNumber": "7520166",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 354.9,
     "currency": "EUR"
@@ -15,13 +15,13 @@
     "number": "119-1",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "VI",
     "luepMm": 217,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 186 119 (2869) der Belgischen Staatsbahnen. Ausführung im aktuellen Design. Mit detaillierter Dachgestaltung. Mit separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/SchlusslichtDie Belgischen Staatsbahnen nahmen im Dezember 2024 neue Direktzüge zwischen Brüssel und Rotterdam in Betrieb. Für diesen Einsatz mietete die SNCB/NMBS von Alpha Trains, zusätzlich zu den vorhandenen Maschinen, die Lokomotiven 186 119-122 (vorher bei den Niederländischen Staatsbahnen). Sie erhielten damit das aktuelle Design der SNCB/NMBS.Mit Genehmigung von NMBS Train World.",
+  "description": "Elektrolokomotive 186 119 (2869) der Belgischen Staatsbahnen. Ausführung im aktuellen Design. Mit detaillierter Dachgestaltung. Mit separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt. Im Digitalbetrieb mit schaltbarem Fernlicht und schaltbarem Spitzen-/Schlusslicht. Die Belgischen Staatsbahnen nahmen im Dezember 2024 neue Direktzüge zwischen Brüssel und Rotterdam in Betrieb. Für diesen Einsatz mietete die SNCB/NMBS von Alpha Trains, zusätzlich zu den vorhandenen Maschinen, die Lokomotiven 186 119-122 (vorher bei den Niederländischen Staatsbahnen). Sie erhielten damit das aktuelle Design der SNCB/NMBS.Mit Genehmigung von NMBS Train World.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

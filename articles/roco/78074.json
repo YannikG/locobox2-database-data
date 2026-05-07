@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78074",
+  "manufacturer": "Roco",
+  "articleNumber": "78074",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 344.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2143",
+    "number": "010-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 181,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 2143 010 der Österreichischen Bundesbahnen. Freistehende Griffstangen, teilweise aus Metall. Im Digitalbetrieb mit schaltbarem Fernlicht, einzeln schaltbarem Spitzen- oder Schlusslicht und FührerstandsbeleuchtungDie Lokomotiven der Reihe 2143 wurden von 1964 bis 1977 gebaut und auf nicht elektrifizierten Haupt- und Nebenbahnen speziell im Osten Österreichs eingesetzt. Sie waren sowohl vor Personen- als auch vor Güterzügen im Einsatz. Insgesamt wurden 77 Lokomotiven von den Simmering-Graz-Pauker-Werken an die ÖBB geliefert.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78074-diesellokomotive-2143-010-3-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254293.jpg"
+  },
+  "updatedAt": "2026-05-06T20:08:09Z"
+}

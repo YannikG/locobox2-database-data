@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300054",
+  "manufacturer": "Roco",
+  "articleNumber": "7300054",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 249.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "749",
+    "number": "218-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 749 218 der Tschechischen Staatsbahnen. Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur Dachkante. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Mit beiliegendem geätztem Schildersatz, zweite Betriebsnummer 749 180-6 ebenfalls beiliegendDie Reihe 749 entstand in den 1990er Jahren durch den Umbau der Reihen 751 und 752 mit elektrischer Zugheizeinrichtung ohne wesentliche Änderungen an der Originallokomotive. Ausschlaggebend dafür war der wirtschaftlichere Einsatz der Bardotkas vor kurzen Zügen. Ihr Einsatz erfolgte sowohl für Personen- als auch für Güterzüge in Tschechien.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300054-diesellokomotive-749-218-4-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258343.jpg"
+  },
+  "updatedAt": "2026-05-06T20:31:47Z"
+}

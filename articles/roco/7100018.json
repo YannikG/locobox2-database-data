@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100018",
+  "manufacturer": "Roco",
+  "articleNumber": "7100018",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 043",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 260,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 043 der Deutschen Bundesbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Mit handgemalten Kesselzierringen. Einsatz im schweren Güterzugdienst. Metallräder mit filigranen SpeichenDie wegen ihrer Zugkraft als „Jumbo“ bezeichneten Dampfloks waren in fast ganz Deutschland sowie in vielen anderen europäischen Staaten mit grossem Erfolg eingesetzt. Die Höchstgeschwindigkeit lag vorwärts bei 80 km/h, rückwärts konnte mit 50 km/h gefahren werden. Einige dieser ohnehin schon sehr zugkräftigen Maschinen verzeichneten bei der Deutschen Bundesbahn noch eine weitere Leistungssteigerung auf 2.100 PS (1.546 kW), als sie ab 1955 auf Ölfeuerung umgebaut wurden. Die ölgefeuerten Lokomotiven der DB führten ab 1968 die Baureihenbezeichnung 043.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100018-dampflokomotive-br-043-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258965.jpg"
+  },
+  "updatedAt": "2026-05-06T20:25:39Z"
+}

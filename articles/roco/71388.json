@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71388",
+  "manufacturer": "Roco",
+  "articleNumber": "71388",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 599.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "38",
+    "number": "3553",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 214,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 38 3553 der Deutschen Bundesbahn.Edition-Modell!. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. 3-domiger Kessel mit Speisedom, Sandkasten und Dampfdom. Räder mit feinen Speichen. Ausführung mit Nietentender und Witte-Windleitblechen. Beheimatung BD Wuppertal, Bw Bestwig. Zwei Schlussleuchten nur am Tender. Im Digitalbetrieb mit schaltbarer Führerstands- und Triebwerksbeleuchtung. Mit dynamischen Dampf für authentischen Dampfaustritt aus dem SchornsteinDie Dampflokomotiven der Baureihe 38 zählten lange Zeit mit ihren Nietentendern und Witte-Windleitblechen zum gewohnten Bild auf deutschen Nebenbahnen. Dort beförderten sie zumeist Personenzüge und waren im Nahverkehr daher lange Zeit nicht ersetzbar. Erst die zunehmende Modernisierung bei der Deutschen Bundesbahn leitet die Ablöse in Form von Diesel- und Elektrolokomotiven ein.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/71388-dampflokomotive-38-3553-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253276.jpg"
+  },
+  "updatedAt": "2026-05-06T20:06:38Z"
+}

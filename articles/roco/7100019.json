@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100019",
+  "manufacturer": "Roco",
+  "articleNumber": "7100019",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "086",
+    "number": "407-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 160,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 086 407 der Deutschen Bundesbahn.Formvariante!. Erstmals Ausführung mit geschweissten DB-Ersatzwasserkästen und Schneepflug. Kohlekasten mit geschweissten Aufsatz. Vor- und Nachlaufradsatz mit 9 Speichen. Mit DB-ReflexlampenNach dem Ende des 2. Weltkrieges befanden sich 386 Maschinen der BR 86 auf Westdeutschem Gebiet. Die meisten liessen sich instand setzen, sodass die DB 1952 über 378 Loks dieser Baureihe verfügte. Einige 86er erhielten später geschweisste Ersatzwasserkästen. Zum Aufgabenbereich gehörten neben den klassischen Nebenbahnzügen auch regelmässig die Beförderung von Eilzügen sowie das Rangieren in Güterbahnhöfen. Die letzten Maschinen schieden bei der DB 1974, als Baureihe 086 bezeichnet, aus dem Betriebsdienst aus.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100019-dampflokomotive-086-407-4-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259000.jpg"
+  },
+  "updatedAt": "2026-05-06T20:25:50Z"
+}

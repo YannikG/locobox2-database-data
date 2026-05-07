@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300057",
+  "manufacturer": "Roco",
+  "articleNumber": "7300057",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "M62",
+    "number": "221",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 202,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive M62 221 der Ungarischen Staatsbahn. Vollständige Bremsluftleitungen mit vollständig ausgebildeten Luftbehältern. Besonders authentische Nachbildung der Drehgestelle. Freistehende Rangierer-Griffstangen unterhalb der PufferDie Geschichte der in Ungarn als „Szergej“ genannten M62 begann im Jahr 1965 mit der Auslieferung der weltweit ersten Lok aus Lugansk (M62 001). Weitere 288 Loks wurden noch an die MAV geliefert, 15 davon in Breitspurversion.Die Lokomotiven übernahmen den schweren Güterverkehr und bescherten damit den älteren Dampflokbauarten ein frühzeitiges Einsatzende. Noch bis heute sind einige der robusten Maschinen im Betriebseinsatz.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300057-diesellokomotive-m62-221-mav.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258571.jpg"
+  },
+  "updatedAt": "2026-05-06T20:32:09Z"
+}

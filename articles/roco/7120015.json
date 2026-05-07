@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7120015",
+  "manufacturer": "Roco",
+  "articleNumber": "7120015",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 649.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "10",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 305,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive 10 001 der Deutschen Bundesbahn.Edition-Modell!. Designstudie – Ausführung Esslingen 1. Zylinderschlagsynchroner, dynamischer Dampfausstoss. Dampfaustritt auch an den Zylindern. Mit Führerstands- und Triebwerksbeleuchtung. Erhabene, verchromte Zierlinien. Feine Metallspeichenräder an der Lok. LED-Spitzenlicht weiss/rot mit Fahrtrichtung wechselndFür die neue Pacific-Schnellzugdampflokomotive Baureihe 10 der Deutschen Bundesbahn sollte natürlich auch ein elegantes Erscheinungsbild gefunden werden. Die Lokomotivfabriken und das Technische Gemeinschaftsbüro der Lokomotivindustrie (TGB) wurden eingeladen, verschiedene Designvarianten zu präsentieren. 36 dieser Ideen wurden veröffentlicht. Der Vorschlag No. 1 der Maschinenfabrik Esslingen präsentierte eine äusserst dynamisch wirkende Lok in rostroter Lackierung (wie Baureihe 05). Auf den Tagungen des Lokausschusses von Dezember 1955 bis Februar 1956 wurde über die künftige Lackierung diskutiert, man konnte sich allerdings nicht für einen dieser Entwürfe entscheiden.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120015-dampflokomotive-10-001-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258650.jpg"
+  },
+  "updatedAt": "2026-05-06T20:29:52Z"
+}

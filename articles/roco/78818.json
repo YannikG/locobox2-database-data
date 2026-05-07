@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78818",
+  "manufacturer": "Roco",
+  "articleNumber": "78818",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "108",
+    "number": "001-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 164,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 108 001 der Deutschen Reichsbahn. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Frei stehende, filigrane Griffstangen. Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schlusslicht. Beheimatung Rbd Halle, Bw Halle GIm Unterschied zur Baureihe 110 besitzen die Lokomotiven der Baureihe 108 ein Strömungswendegetriebe und einen verbrauchsoptimierten Motor mit verminderter Leistung. Gemäss der neuen Bestimmung als Rangierlokomotive konnte auch der Heizkessel entfallen, an seiner Stelle wurden zusätzliche Kühlergruppen und ein Vorwärmgerät eingebaut.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78818-diesellokomotive-108-001-9-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253709.jpg"
+  },
+  "updatedAt": "2026-05-06T20:08:44Z"
+}

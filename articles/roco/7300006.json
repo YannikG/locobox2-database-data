@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300006",
+  "manufacturer": "Roco",
+  "articleNumber": "7300006",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 234.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB",
+    "number": "62405",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 143,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive BB 62405 der Französischen Staatseisenbahnen. Ausführung mit ausgebleichtem Lack. Betriebszustand: 1999. Mit PluX22-Schnittstelle. Schaltbares Schlusslicht mit DIP-SchalterFür den Bau neuer Hochgeschwindigkeitsstrecken benötigte die SNCF Anfang der 1990er Jahre gebrauchte dieselelektrische Lokomotiven. Daraufhin beschaffte man 44 gebrauchte 2400er von den Niederländischen Staatsbahnen. Der Kaufvertrag beinhaltete eine Überholung durch die Werkstätte in Tilburg. Durch den Einsatz von zwei Lokomotiven an jedem Ende der Züge stand genügend Zug- und Schubkraft zur Verfügung, um die Steigungen auf der Neubaustrecke mit dem gewünschten Zuggewicht zu befahren. Im Nummernsystem der SNCF wurden die 2400er in die Nummernserie 60000-70000 eingeordnet. Schon bald erhielten die 62400er von den französischen Eisenbahnern den Spitznamen „Hollandaises“.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300006-diesellokomotive-bb-62405-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254756.jpg"
+  },
+  "updatedAt": "2026-05-06T20:31:12Z"
+}

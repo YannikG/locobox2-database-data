@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7110026",
+  "manufacturer": "Roco",
+  "articleNumber": "7110026",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 469.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "Rh 354",
+    "number": "1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 153,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Reihe 354.1 der Tschechoslowakischen Staatsbahnen. Formvariante!. Erstmals Ausführung mit Rundschlot mit Krempe. Freistehende Leitungen. Metallpuffer. Feinste Räder mit niedrigen Spurkränzen. Treib- und Kuppelstangen aus Feingussmetall. Lampe am Kessel nicht beleuchtet. Im Digitalbetrieb mit schaltbarer Führerstands- und TriebwerksbeleuchtungIm Jahre 1912 bestellte die damalige k.k. priv. Südbahn-Gesellschaft eine Tenderlokomotive für den schweren Personenzugdienst als Ersatz für die zu schwach gewordenen Lokomotiven der Reihe 229. Die Lokomotivfabrik der Staats-Eisenbahn-Gesellschaft entwickelte daraufhin die Heissdampf-Type der Reihe 629 als erste Tenderlokomotive der Welt mit der Pacific-Achsfolge 2’C1‘. Die erste 629 wurde 1913 an die Südbahn-Gesellschaft geliefert, und 14 weitere in insgesamt 3 Lieferserien folgten in den nächsten beiden Jahren. Die ausserordentlich guten Erfahrungen mit dieser Reihe veranlassten die kaiserlich-königlichen Staatsbahnen zum Kauf von 25 nahezu gleichartigen Lokomotiven bis zum Ende der Monarchie 1918.Fünfzehn Südbahn-Maschinen und zehn Stück der Staatsbahn blieben nach dem Ersten Weltkrieg in Österreich. 15 Stück mussten der neugegründeten CSD, welche sie als 354.121 bis 135 bezeichnete, überlassen werden.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110026-dampflokomotive-rh-3541-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/261190.jpg"
+  },
+  "updatedAt": "2026-05-06T20:28:55Z"
+}

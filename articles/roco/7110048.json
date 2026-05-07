@@ -3,7 +3,7 @@
   "id": "roco-7110048",
   "manufacturer": "Roco",
   "articleNumber": "7110048",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 349.9,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "kkStB",
-    "type": "85.13",
-    "number": null,
+    "type": "85",
+    "number": "13",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

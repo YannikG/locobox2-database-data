@@ -16,9 +16,9 @@ For agents: nach gespeichertem PDP-HTML (Browser / MCP) dieses CLI nutzen.
 
 Examples::
 
-    python utils/roco/shop-pdp-parse/roco_shop_parse_pdp.py --html-file /tmp/pdp.html --canonical-url 'https://www.roco.cc/.../70035-....html' --write
+    python utils/roco/shop-pdp-parse/roco_shop_parse_pdp.py --html-file /tmp/pdp.html --canonical-url 'https://www.roco.cc/.../70035-....html' --write --campaign-tag roco-herbstneuheiten-2025
 
-    cat /tmp/pdp.html | python utils/roco/shop-pdp-parse/roco_shop_parse_pdp.py --stdin --canonical-url 'https://www.roco.cc/.../70035-....html' --write
+    cat /tmp/pdp.html | python utils/roco/shop-pdp-parse/roco_shop_parse_pdp.py --stdin --canonical-url 'https://www.roco.cc/.../70035-....html' --write --campaign-tag roco-fruehjahrneuheiten-2026
 
 Schweizer Textnormalisierung in Beschreibungen: «ß» → «ss» (kein Eszett).
 """
@@ -72,6 +72,7 @@ _MERGE_ONLY_TOP_LEVEL: frozenset[str] = frozenset(
         "uvp",
         "description",
         "model",
+        "tags",
     }
 )
 _ART_FROM_URL = re.compile(r"/(\d{5,8})-[^/]+\.html", re.IGNORECASE)
@@ -662,8 +663,9 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
     (siehe ``config/electric-systems`` und ``article.schema.json``).
 
     Nur ``DC`` / ``Gleichstrom`` ohne Analog-/Digital-Hinweis → ``None`` (mit PDP
-    erneut importieren). Alte JSON-Werte exakt ``dc`` / ``ac`` → ``DC-Analog`` /
-    ``AC-Analog`` (Migration bis Re-Scrape).
+    erneut importieren). Alte JSON-Werte exakt ``dc`` → ``DC-Analog``. Kurzform
+    ``ac`` und blosses «Wechselstrom» ohne «Analog» → ``AC-Digital`` (Roco-H0-AC
+    mit Decoder/Motorik; nur bei explizitem Analog-Hinweis ``AC-Analog``).
     """
     if not raw or not str(raw).strip():
         return None
@@ -673,7 +675,7 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
     if s0 == "dc":
         return "DC-Analog"
     if s0 == "ac":
-        return "AC-Analog"
+        return "AC-Digital"
 
     t = swiss_text(s0).upper()
     t = re.sub(r"\s+", " ", t)
@@ -700,7 +702,7 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
             return "AC-Digital"
         if has_analog:
             return "AC-Analog"
-        return "AC-Analog"
+        return "AC-Digital"
 
     if is_dc:
         if has_digital:
@@ -948,7 +950,7 @@ def _article_skeleton(article: str) -> dict[str, Any]:
         "model": _model_skeleton(),
         "description": "",
         "categories": ["lokomotive"],
-        "tags": ["H0"],
+        "tags": [],
         "source": {
             "url": "https://www.roco.cc/",
             "notes": "",
@@ -956,6 +958,37 @@ def _article_skeleton(article: str) -> dict[str, Any]:
         },
         "updatedAt": _utc_stamp(),
     }
+
+
+def _apply_optional_campaign_tag(
+    data: dict[str, Any],
+    campaign_tag: Optional[str],
+    merge_only: Optional[set[str]],
+) -> None:
+    """
+    Kampagnen-Slug in ``tags`` ergänzen, wenn der Aufrufer einen übergibt (CLI ``--campaign-tag``).
+    Ohne Übergabe bleiben ``tags`` unverändert. Bei ``merge_only`` wird nur gemischt, wenn
+    ``tags`` enthalten ist oder ``merge_only`` fehlt (Voller Merge).
+    """
+    if not isinstance(campaign_tag, str):
+        return
+    tag = campaign_tag.strip()
+    if not tag:
+        return
+    if merge_only is not None and "tags" not in merge_only:
+        return
+    raw = data.get("tags")
+    tags: list[Any] = list(raw) if isinstance(raw, list) else []
+    if tag in tags:
+        return
+    merged = tags + [tag]
+    seen: set[str] = set()
+    out: list[str] = []
+    for t in merged:
+        if isinstance(t, str) and t.strip() and t not in seen:
+            seen.add(t)
+            out.append(t)
+    data["tags"] = out
 
 
 def article_record_stub(article_number: str) -> dict[str, Any]:
@@ -975,6 +1008,7 @@ def merge_article_record(
     articles_root: Path,
     article_override: Optional[str],
     merge_only: Optional[set[str]] = None,
+    campaign_tag: Optional[str] = None,
 ) -> tuple[dict[str, Any], Path]:
     art = article_override or parsed.get("articleNumber")
     if not art:
@@ -1084,6 +1118,8 @@ def merge_article_record(
                 seen.add(cs)
         data["categories"] = cats
 
+    _apply_optional_campaign_tag(data, campaign_tag, merge_only)
+
     data["updatedAt"] = _utc_stamp()
     return data, path
 
@@ -1158,6 +1194,15 @@ def main() -> int:
         help="JSON nach articles-root/{article}.json schreiben.",
     )
     ap.add_argument(
+        "--campaign-tag",
+        metavar="SLUG",
+        default=None,
+        help=(
+            "Nur mit --write: diesen Slug einmalig zu tags hinzufügen (z. B. roco-herbstneuheiten-2025). "
+            "Kein Default: ohne Option bleiben tags wie in der Datei."
+        ),
+    )
+    ap.add_argument(
         "--merge-only",
         action="append",
         metavar="KEYS",
@@ -1165,7 +1210,8 @@ def main() -> int:
             "Nur mit --write: nur diese Ziele aus dem Parse überschreiben (Komma- oder "
             "Leerzeichen-getrennt; Argument mehrfach erlaubt). Standard ohne diese Option: alles wie bisher. "
             "Schlüssel: source.url, source.notes, source.imageUrl, uvp, description, model "
-            "(gesamtes modelPatch), model.FELD (z. B. model.luepMm, model.minRadiusMm, model.electricSystem). "
+            "(gesamtes modelPatch), model.FELD (z. B. model.luepMm, model.minRadiusMm, model.electricSystem), "
+            "tags (zusammen mit --campaign-tag). "
             "Vorgefülltes Preset (nur Spec-Tabelle / Abmessungen): "
             "utils/roco/shop-pdp-parse/merge-pdp-specs-fields.json. "
             "Zusammen mit --merge-config werden die Mengen vereinigt."
@@ -1187,6 +1233,8 @@ def main() -> int:
         help="Keine JSON-Ausgabe auf stdout (nur mit --write sinnvoll).",
     )
     args = ap.parse_args()
+    if args.campaign_tag and not args.write:
+        raise SystemExit("error: --campaign-tag nur mit --write.")
     if args.canonical_url and not (args.html_file or args.stdin):
         raise SystemExit(
             "error: --canonical-url nur zusammen mit --html-file oder --stdin."
@@ -1221,6 +1269,7 @@ def main() -> int:
             articles_root=articles_root,
             article_override=args.article,
             merge_only=merge_only,
+            campaign_tag=args.campaign_tag,
         )
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(

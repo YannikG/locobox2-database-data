@@ -3,7 +3,7 @@
   "id": "roco-7520065",
   "manufacturer": "Roco",
   "articleNumber": "7520065",
-  "releaseDate": null,
+  "releaseDate": "Herbst 2025",
   "uvp": {
     "amount": 399.9,
     "currency": "EUR"
@@ -15,7 +15,7 @@
     "number": "459-5",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "VI",
     "luepMm": 218,

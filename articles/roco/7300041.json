@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300041",
+  "manufacturer": "Roco",
+  "articleNumber": "7300041",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "218",
+    "number": "445-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 218 445 der Deutschen Bundesbahn. Drehgestelle mit Megi-Gummi-Federung. Extra angesetzte Steckteile, teilweise in Ätztechnik ausgeführt. Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter. Modell verfügt über vorbildgerechte niedrige Spurkränze. Radsätze mit 1,2 mm hohen Spurkränzen als Ersatzteile erhältlich (Art.-Nr. 145433, 145435). Z21-Führerstand verfügbarDie wichtigste Vertreterin der V-160-Lokfamilie ist die Diesellokomotive der Baureihe 218. Nach 12 Vorserien-Maschinen wurden ab 1971 die Serienfahrzeuge von den Firmen Krupp, Henschel, Krauss-Maffei und MaK in vier leicht unterschiedlichen Bauserien geliefert. Die 140 km/h schnellen und bis zu 2.800 PS starken Maschinen werden sowohl im Reise- wie auch im Güterzugdienst eingesetzt.Die Baureihe 218 hat im Laufe der Zeit einige Farbvarianten durchwandert. Die ersten 218er wurden noch in der für Diesellokomotiven üblichen Farbgebung in purpurrot geliefert. Ab 1975 bestimmten die Farben Ozeanblau/Beige das äussere Bild der Lokomotiven.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300041-diesellokomotive-218-445-5-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/256970.jpg"
+  },
+  "updatedAt": "2026-05-06T20:31:35Z"
+}

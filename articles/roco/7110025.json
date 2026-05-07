@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7110025",
+  "manufacturer": "Roco",
+  "articleNumber": "7110025",
+  "releaseDate": "Herbst 2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "302",
+    "number": "608",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III-IV",
+    "luepMm": 201,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive 302.608 der Ungarischen Staatsbahn. Freistehende Leitungen und viele separat angesetzte Steckteile. Ideal für den Einsatz vor Eil- und Personenzügen. Vollmetallräder mit niedrigen Spurkränzen. Z21 Führerstand verfügbarDie Lokomotiven der Reihe 109 stellten den Abschluss und Höhepunkt der 2C-Maschinen in Österreich dar. Mit ihnen konnte die damalige Reisezeit zwischen Wien und Triest von 13,5 auf 10,5 Stunden verkürzt werden. 1913 baute die Budapester Maschinenfabrik elf Lokomotiven für den Einsatz auf in der ungarischen Reichshälfte gelegenen Strecken. Von der Ursprungs-Reihe 109, unterscheidet sich die in Ungarn später als Reihe 302 bezeichnete Lok, vor allem durch die eckigen Verkleidungen der Einströmrohre und die typisch ungarischen Lampen. Auch die Luftpumpe sitzt woanders; nämlich links hinten am Kessel.Die Dampflokomotive mit der Nummer 109.107 wurde 1915 in Budapest auf der Grundlage österreichischer Planzeichnungen gebaut. Im Jahr 1932 wurde die Donau-Save-Adria Eisenbahn-Gesellschaft (vormals Südbahn-Gesellschaft) verstaatlicht. Ihre Fahrzeuge wurden an die MÁV übertragen. Ab 1932 war diese Lokomotive als MÁV 302.608 im Einsatz. Das Modell zeigt das Aussehen der letzten Jahre der Lokomotive.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-herbstneuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110025-dampflokomotive-302608-mav.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259812.jpg"
+  },
+  "updatedAt": "2026-05-06T20:28:43Z"
+}

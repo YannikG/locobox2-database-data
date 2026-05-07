@@ -369,12 +369,13 @@ class TestNormalizeElectricSystem(unittest.TestCase):
 
     def test_legacy_dc_ac(self) -> None:
         self.assertEqual(pdp._normalize_electric_system("dc"), "DC-Analog")
-        self.assertEqual(pdp._normalize_electric_system("ac"), "AC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("ac"), "AC-Digital")
 
     def test_roco_shop_strings(self) -> None:
         self.assertEqual(pdp._normalize_electric_system("DC Analog"), "DC-Analog")
         self.assertEqual(pdp._normalize_electric_system("DCC"), "DC-Digital")
-        self.assertEqual(pdp._normalize_electric_system("Wechselstrom"), "AC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("Wechselstrom"), "AC-Digital")
+        self.assertEqual(pdp._normalize_electric_system("Wechselstrom Analog"), "AC-Analog")
         self.assertEqual(pdp._normalize_electric_system("AC Digital"), "AC-Digital")
 
     def test_dc_only_unknown(self) -> None:
@@ -443,6 +444,116 @@ class TestMergeArticleRecordRobustness(unittest.TestCase):
                 merge_only={"model.electricSystem"},
             )
             self.assertIsNone(merged["model"]["electricSystem"])
+
+
+class TestCampaignTagMerge(unittest.TestCase):
+    def test_merge_adds_campaign_tag_when_passed(self) -> None:
+        slug = "roco-herbstneuheiten-2025"
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            path = root / "79999.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "articleNumber": "79999",
+                        "releaseDate": "Herbst 2025",
+                        "tags": [],
+                        "source": {"url": "https://www.roco.cc/x.html"},
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            merged, _ = pdp.merge_article_record(
+                {
+                    "articleNumber": "79999",
+                    "canonicalUrl": "https://www.roco.cc/y.html",
+                },
+                notes="test",
+                articles_root=root,
+                article_override=None,
+                merge_only=None,
+                campaign_tag=slug,
+            )
+            self.assertIn(slug, merged["tags"])
+
+    def test_merge_without_campaign_tag_leaves_tags(self) -> None:
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            path = root / "79997.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "articleNumber": "79997",
+                        "releaseDate": "Herbst 2025",
+                        "tags": [],
+                        "source": {"url": "https://www.roco.cc/x.html"},
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            merged, _ = pdp.merge_article_record(
+                {"articleNumber": "79997", "canonicalUrl": "https://www.roco.cc/y.html"},
+                notes="test",
+                articles_root=root,
+                article_override=None,
+                merge_only=None,
+            )
+            self.assertEqual(merged["tags"], [])
+
+    def test_merge_does_not_duplicate_campaign_tag(self) -> None:
+        tag = "roco-fruehjahrneuheiten-2026"
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            path = root / "79998.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "articleNumber": "79998",
+                        "releaseDate": "Frühjahr 2026",
+                        "tags": [tag],
+                        "source": {"url": "https://www.roco.cc/x.html"},
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            merged, _ = pdp.merge_article_record(
+                {"articleNumber": "79998", "canonicalUrl": "https://www.roco.cc/z.html"},
+                notes="test",
+                articles_root=root,
+                article_override=None,
+                merge_only=None,
+                campaign_tag=tag,
+            )
+            self.assertEqual(merged["tags"].count(tag), 1)
+
+    def test_campaign_tag_skipped_when_merge_only_excludes_tags(self) -> None:
+        slug = "roco-herbstneuheiten-2025"
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            path = root / "79996.json"
+            path.write_text(
+                json.dumps(
+                    {
+                        "articleNumber": "79996",
+                        "tags": [],
+                        "source": {"url": "https://www.roco.cc/x.html"},
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            merged, _ = pdp.merge_article_record(
+                {"articleNumber": "79996", "canonicalUrl": "https://www.roco.cc/y.html"},
+                notes="test",
+                articles_root=root,
+                article_override=None,
+                merge_only={"source.url"},
+                campaign_tag=slug,
+            )
+            self.assertEqual(merged["tags"], [])
 
 
 class TestProductImageUrl(unittest.TestCase):
