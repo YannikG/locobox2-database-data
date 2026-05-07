@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "89.70–75",
-    "number": null,
+    "type": "BR 89",
+    "number": "70–75",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

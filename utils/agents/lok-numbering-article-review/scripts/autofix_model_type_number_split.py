@@ -13,6 +13,7 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * Drei- oder vierstellige Reihe + ``NNN-d`` + optionaler Taufname in ``„"«`` am Ende des ``type``-Strings (z. B. «1116 238-7 „Railjet"», «193 459-5 „Deutschlandpiercer"»).
 * Dampf: zweistellige Baureihe + ``NNNN-d`` (z. B. «01 0529-6») + ``dampflokomotive``.
 * Dampf: zweistellige Baureihe + dreistellige Nummer (z. B. «10 001») + ``dampflokomotive``.
+* Dampf: BR 89 Unterbauart «BR 89.70–75» bzw. «89.70–75» → ``BR 89`` + ``70–75`` + ``dampflokomotive``.
 
 Usage::
 
@@ -135,6 +136,42 @@ def _rule_br2_space_3digit(article: Article) -> Optional[Proposal]:
     if not isinstance(cats, list) or "dampflokomotive" not in cats:
         return None
     return ("br2_space_3digit", m.group(1), m.group(2))
+
+
+def _rule_br89_dot_subrange(article: Article) -> Optional[Proposal]:
+    """
+    Dampf: «BR 89.70–75» (Bindestrich oder Unicode-Strich) → ``BR 89`` + ``70–75``.
+    """
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"BR 89\.(\d+)[\u2013\-](\d+)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    num = f"{m.group(1)}\u2013{m.group(2)}"
+    return ("br_89_dot_subrange", "BR 89", num)
+
+
+def _rule_br89_dot_subrange_no_br_prefix(article: Article) -> Optional[Proposal]:
+    """
+    Dampf: «89.70–75» ohne «BR-»-Präfix (Shop-String) → ``BR 89`` + ``70–75``.
+    """
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"89\.(\d+)[\u2013\-](\d+)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    num = f"{m.group(1)}\u2013{m.group(2)}"
+    return ("br_89_dot_subrange_nobr", "BR 89", num)
 
 
 _BR_CLASS = re.compile(r"BR (\d+)$")
@@ -267,6 +304,14 @@ def propose_split(article: Article, *, include_br: bool = False) -> Optional[Pro
     br2sp3 = _rule_br2_space_3digit(article)
     if br2sp3:
         return br2sp3
+
+    br89 = _rule_br89_dot_subrange(article)
+    if br89:
+        return br89
+
+    br89nb = _rule_br89_dot_subrange_no_br_prefix(article)
+    if br89nb:
+        return br89nb
 
     tauf4 = _rule_4digit_3dash_taufname(t)
     if tauf4:

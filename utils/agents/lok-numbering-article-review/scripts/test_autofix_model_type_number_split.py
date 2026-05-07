@@ -127,6 +127,36 @@ class TestProposeSplit(unittest.TestCase):
         }
         self.assertIsNone(m.propose_split(art))
 
+    def test_br_89_dot_subrange(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "BR 89.70–75", "number": None},
+        }
+        self.assertEqual(
+            m.propose_split(art),
+            ("br_89_dot_subrange", "BR 89", "70–75"),
+        )
+
+    def test_br_89_dot_subrange_ascii_hyphen(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "BR 89.70-75", "number": None},
+        }
+        self.assertEqual(
+            m.propose_split(art),
+            ("br_89_dot_subrange", "BR 89", "70–75"),
+        )
+
+    def test_br_89_dot_subrange_nobr(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "89.70–75", "number": None},
+        }
+        self.assertEqual(
+            m.propose_split(art),
+            ("br_89_dot_subrange_nobr", "BR 89", "70–75"),
+        )
+
     def test_m62_space(self) -> None:
         art = {"model": {"type": "M62 221", "number": None}}
         self.assertEqual(m.propose_split(art), ("m62_space", "M62", "221"))
