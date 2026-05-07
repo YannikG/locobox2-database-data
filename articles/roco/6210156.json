@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6210156",
+  "manufacturer": "Roco",
+  "articleNumber": "6210156",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 169.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DB-AG",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 303,
+    "minRadiusMm": null
+  },
+  "description": "IC-Steuerwagen, Gattung Bpmbdzf 296.3, der Deutschen Bahn.Formvariante!. Erstmals mit druckdichtem Wagenübergang. Ausführung nach dem ersten Redesign ab 2002. Vorbildgerecht ohne WLAN-Antennen. Freistehende Nachbildung der Fahrrad-Ständer. Aufwendige, mehrfarbige Inneneinrichtung. Im Digitalbetrieb mit schaltbarem Fernlicht sowie Führerstands- und PultbeleuchtungDie DB begann Anfang der 1990er Jahre mit der Entwicklung von Steuerwagen für den Fernverkehr. Die ersten 75 Steuerwagen entstanden durch Umbau von Reisezugwagen aus Halberstädter Produktion.Nach Ablieferung der ersten beiden Serien begann PFA Weiden mit der Fertigung von zwölf druckertüchtigten IC-Steuerwagen. Zur Unterscheidung von der „herkömmlichen“ Ausführung wurden diese Wagen als Bpmbdzf 297.3 bezeichnet. Nach dem ersten Redesign 2002/2003 wurde die Bauartnummer von 297.3 in 296.3 geändert. Dabei erhielten die Fahrzeuge ein Fahrgastinformationssystem und aussen digitale Zugzielanzeigen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/personenwagen/6210156-ic-steuerwagen-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260377.jpg"
+  },
+  "updatedAt": "2026-05-06T20:17:42Z"
+}

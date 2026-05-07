@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200112",
+  "manufacturer": "Roco",
+  "articleNumber": "6200112",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 194.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "PKP",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "III",
+    "luepMm": 701,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit drei Schnellzugwagen der Polnischen Staatsbahnen.Bestehend aus einem Wagen 2. Klasse, Gattung Bhxz (ex AB4ü-28 der DRG), einem Wagen 3. Klasse, Gattung Chxz (ex C4ü Pr 11a der DRG) und einem Wagen 3. Klasse, Gattung Chxz (ex C4ü-28 der DRG).",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200112-3-tlg-set-schnellzugwagen-pkp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258955.jpg"
+  },
+  "updatedAt": "2026-05-06T20:13:44Z"
+}

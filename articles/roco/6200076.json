@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200076",
+  "manufacturer": "Roco",
+  "articleNumber": "6200076",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 319.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "K.W.St.E.",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "I",
+    "luepMm": 1051,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit vier Schnellzugwagen und einem Gepäckwagen der Königlich Württembergischen Staats-Eisenbahnen.Bestehend aus einem Wagen 1./2. Klasse, Gattung ABBü, einem Wagen 1./2./3. Klasse, Gattung ABCCü, einem Wagen 2./3. Klasse, Gattung BCCü, einem Wagen 3. Klasse, Gattung CCü und einem Gepäckwagen, Gattung Gep. Alle Modelle besonders filigran umgesetzt. Fein detailliertes FahrwerkDie K.W.St.E. galt in der zweiten Hälfte des 19. Jahrhunderts in jeder Hinsicht als eine der modernsten Bahnen Europas. Die Entscheidung für das amerkanische System der „Drehgestell-Intercommunications-Wagen“ wurde zu jener Zeit nur von wenigen Bahnen in Europa angewandt. Höhepunkt und zugleich Abschluss dieser Entwicklung waren die württembergischen Schnellzugwagen in der Form, wie sie ab 1909 durch die Maschinenfabrik Esslingen gebaut wurden. Die Vereinheitlichung und strikte Normung der Baugruppen waren die wichtigsten Merkmale dieser Wagen. Stammzüge der württ. Schnellzugwagen waren die Verbindungen Stuttgart – Zürich und Friedrichshafen – Köln, eine Zeit lang ausserdem noch Stuttgart – Nancy. Als Kurswagen waren sie in ganz Deutschland und in halb Europa unterwegs.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200076-5-tlg-set-schnellzug-kwste.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258336.jpg"
+  },
+  "updatedAt": "2026-05-06T20:11:18Z"
+}

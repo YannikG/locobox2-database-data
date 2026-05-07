@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7100029",
+  "manufacturer": "Roco",
+  "articleNumber": "7100029",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 279.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "VSM",
+    "type": "23 076",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV-VI",
+    "luepMm": 245,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 23 076 der Veluwsche Stoomtrein Maatschappij (VSM). Ausführung als Museumsmaschine. Fein detailliertes Modell mit vielen separat angesetzten Teilen. Metallräder mit filigranen SpeichenDie Lokomotiven der Baureihe 23 waren Personenzuglokomotiven der Deutschen Bundesbahn. Ab 1950 wurden 105 Exemplare der neu gestalteten Baureihe gebaut. Die VSM besitzt zwei Lokomotiven der Baureihe 23. Die 23 076 war die erste 23, die 1976 bei der VSM eintraf, gefolgt von der 23 071 im Jahr 1978. Beide Lokomotiven sind betriebsfähig.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7100029-dampflokomotive-23-076-vsm.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260379.jpg"
+  },
+  "updatedAt": "2026-05-06T20:26:49Z"
+}

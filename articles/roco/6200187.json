@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200187",
+  "manufacturer": "Roco",
+  "articleNumber": "6200187",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "ÖBB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": 1212,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit vier Schnellzugwagen der Österreichischen Bundesbahnen.Bestehend aus einem Servicewagen 2. Klasse, Gattung Bvmsz 186.0 und drei Grossraumwagen 2. Klasse, Gattung Bpmz 294.2. Ehemaligen DB AG IC-Wagen im Einsatz bei den ÖBBAufgrund von Engpässen im Fuhrpark der ÖBB wurden von der Deutschen Bahn AG 30 IC-Reisezugwagen gemietet, welche vorwiegend auf der Westbahn, aber auch vereinzelt auf anderen Strecken angetroffen werden können. Bespannt werden die IC-Züge überwiegend mit Taurus-Lokomotiven, speziell angebrachte ÖBB-Wortmarken Logos kennzeichnen die besonderen Wagen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200187-4-tlg-set-schnellzugwagen-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264133.jpg"
+  },
+  "updatedAt": "2026-05-06T20:16:34Z"
+}

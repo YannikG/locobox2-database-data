@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200157",
+  "manufacturer": "Roco",
+  "articleNumber": "6200157",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 134.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CD",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": 606,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit zwei Eurofima-Schnellzugwagen 2. Klasse, Gattung Bmz, der Tschechischen Staatsbahnen. Ideale Ergänzung zum Eurofima-Wagenset, Art. Nr. 6200002",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200157-2-tlg-set-eurofima-wagen-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260372.jpg"
+  },
+  "updatedAt": "2026-05-06T20:16:23Z"
+}

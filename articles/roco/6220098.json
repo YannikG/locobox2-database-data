@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6220098",
+  "manufacturer": "Roco",
+  "articleNumber": "6220098",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 174.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DB-AG",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 303,
+    "minRadiusMm": null
+  },
+  "description": "RE-Steuerwagen, Gattung Bpmbdzf 286.3, der Deutschen Bahn.Formvariante!. Erstmals mit druckdichtem Wagenübergang. Inneneinrichtung vorbildgerecht angepasst. München-Nürnberg-Express Lackierung. Vorbildgerecht ohne WLAN-Antennen. Freistehende Nachbildung der Fahrrad-Ständer. Aufwendige, mehrfarbige Inneneinrichtung. Im Digitalbetrieb mit schaltbarem Fernlicht sowie Führerstands- und Pultbeleuchtung. Wechselstromversion",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/personenwagen/6220098-re-steuerwagen-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258640.jpg"
+  },
+  "updatedAt": "2026-05-06T20:18:05Z"
+}

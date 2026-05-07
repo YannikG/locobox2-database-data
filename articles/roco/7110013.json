@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7110013",
+  "manufacturer": "Roco",
+  "articleNumber": "7110013",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 589.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "K.W.St.E.",
+    "type": "31001",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "I",
+    "luepMm": 248,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 31001 der Königlich Württembergischen Staats-Eisenbahnen.Edition-Modell!Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle drei Treibachsen der Lok. Fein detailliertes Fahrwerk. Filigrane Nachbildung der Steuerung. Dampflok-Fahrwerk mit NEM-Finescale-Metallspeichenräder. Tender-Radsätze mit grösserer Spurkranzhöhe. Zu öffnende Rauchkammertüren. Viele extra angesetzte DetailsWAS WÄRE, WENN. .?Der Anfang des 20. Jahrhunderts war die Zeit, in der die Eisenbahn schon gut aus ihren Kinderschuhen herausgewachsen war und in ihre Zeit als erstes Massenverkehrsmittel hineinfuhr. Damals wurden die ersten Lokomotiven der Reihe 310 von der Lokomotivfabrik Floridsdorf an die kaiserlich-königlichen österreichischen Staatsbahnen (kkStB) geliefert. Mit ihrem wuchtigen Vierzylinder-Verbundtriebwerk, den mehr als 2,10 Meter hohen Treib- und Kuppelrädern, gekrönt von einem mächtigen Kessel, gilt sie bei vielen Eisenbahnfreunden als schönste Dampflokomotive Österreichs.Schnell erweckte die von Ing. Dr. h.c. Karl Gölsdorf entwickelte und für den österreichischen Dampflokomotivbau prägendste Lokomotive auch Interesse bei den benachbarten Eisenbahn-Gesellschaften. In Anlehnung an die Tradition von Tests neu entwickelter Maschinen bei befreundeten Länderbahnen, ist es durchaus denkbar, dass auch ein Vergleich mit der „schönen Württembergerin“ gezogen wurde. Zur Krönung dieser Geschichte wurde die Maschine auch in das passende Farbkleid der Königlich Württembergischen Staats-Eisenbahnen gehüllt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7110013-dampflokomotive-31001-kwste.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258341.jpg"
+  },
+  "updatedAt": "2026-05-06T20:27:11Z"
+}

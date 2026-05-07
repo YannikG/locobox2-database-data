@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200154",
+  "manufacturer": "Roco",
+  "articleNumber": "6200154",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "IV",
+    "luepMm": 1212,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit vier Schnellzugwagen für den IC 511 „Chiemgau“ der Deutschen Bundesbahn.Bestehend aus einem Abteilwagen 1. Klasse, Gattung Avümz 111 und drei 2. Klasse Abteilwagen, Gattung Bm 235.Mit der Umstellung des Intercity-Systems zum Sommerfahrplan 1979 mit dem Slogan „Jede Stunde-jede Klasse“ wurde auch ein IC-Zugpaar über München hinaus bis nach Berchtesgaden verlängert. Im Abschnitt südlich von Freilassing wurde der Zug auf vier Sitzwagen verkürzt, wobei die Stammwagen aus der Zugmitte in Freilassing verblieben. Auf der Steilstrecke bis zum Zielbahnhof Berchtesgaden war zunächst die Baureihe 144.5 „die“ IC-Stammlok, später auch die Baureihe 111 und gelegentlich die Baureihe 194.Der IC 511 „Chiemgau“ Köln – Berchtesgaden wird in seiner Ausführung von 1979 bis 1982 nachgebildet, wie er südlich von Freilassing verkehrte. Er bestand aus einem klimatisierten Abteilwagen der ersten Klasse (Avmz 111) und drei Abteilwagen der zweiten Klasse (Bm 235), die wegen des Schnellfahrabschnitts Augsburg – München alle mit Schlingerdämpfern ausgerüstet und damit für 200 km/h zugelassen waren.Zwischen den IC-Leistungen von und nach Köln wurden mit dem Wagenpark auch Nahverkehrszüge von und nach Freilassing gefahren, in denen mitunter auch einige Güterwagen mitgeführt wurden, das bietet die Möglichkeit für ungewöhnliche Zugbildungen.Der in dem Set enthaltene Avmz 111 ist als besonderes Schmankerl wieder ein Einzelstück. Er wurde 1974 gebaut und diente als Probewagen für eine neue Einkanal-Klimaanlage der Firma Luwa mit elektrischer Nachheizung in den Abteilen. Weil man Probleme mit der Energieversorgung beim Einsatz in Gleichspannungsnetzen befürchtete, wurde er ausnahmsweise als Einspannungswagen für 1000 V, 16 2/3 Hz ausgeführt, deshalb hatte er auch die ungewöhnliche Wagennummer 19-94 070 (zuvor 19-73 070).Die Bm 235 stammen aus den Lieferserien von 1974 (mit schwarzem Langträger) und 1976 (mit ozeanblauem Langträger), jeweils noch mit alten Klassenziffern und Raucher/Nichtraucher-Schriftzügen.EDITION FREILASSINGUnter dem Label „Edition Freilassing“ werden ausgewählte Modelle aus dem früheren Bahnbetriebswerk Freilassing nachgebildet. Im Jahr 1905 bezogen die ersten Lokomotiven, damals noch Dampflokomotiven, den Lokschuppen mit seinen 20 Gleisen. Rund 20 Jahre später erfolgte die Errichtung der E-Lok Werkstätte, weitere Bauten folgten in den Jahren darauf. Auch ROCO verbindet eine enge Beziehung zur bayerischen Stadt Freilassing, befand sich hier doch das erste deutsche Vertriebsbüro. Freuen Sie sich auf die Modelle dieser einmaligen Edition!",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200154-4-tlg-set-ic-511-chiemgau-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/260187.jpg"
+  },
+  "updatedAt": "2026-05-06T20:16:00Z"
+}

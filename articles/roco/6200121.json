@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200121",
+  "manufacturer": "Roco",
+  "articleNumber": "6200121",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "EINSTELLER",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": 922,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset 2 mit drei Schnellzugwagen für den „Rheingold“ der AKE-Eisenbahntouristik.Bestehend aus einem Speisewagen, Gattung WRmz 135.0, einem 1. Klasse Grossraumwagen, Gattung Apmz 121.1 und einem 1. Klasse Abteilwagen, Gattung Avmz 111.0, mit Steildach. Speisewagen 88-94 306, Prototyp von 1969. Grossraumwagen 18-95 001, einziger in Deutschland erhalten gebliebener Apümz 121. Abteilwagen 19-94 049 aus der Nachbauserie von 1967 mit Steildach. Exakte Nachbildungen der unterschiedlichen Fensterfolierungen. Fein detaillierte DrehgestelleDie Anfänge der AKE-Eisenbahntouristik ab 1988 lagen in der Durchführung von Sonderfahrten mit Schienenbussen und Dampflok-Zügen in der Eifel. Durch eine Kooperation mit der DB Historische Verkehre konnte das Fahrtenprogramm auch überregional wachsen unter dem Motto „Urlaub von Anfang an“. Ab 2005 baute der AKE daher sukzessive seine eigene Fahrzeugflotte auf. Es handelte sich dabei – bis auf zwei Ausnahmen – um TEE-Wagen, die zwischen 1962 und 1974 gebaut wurden und auch im TEE „Rheingold“ eingesetzt waren. Sie erhielten ihre ursprüngliche Lackierung in beige/purpurrot mit schwarzgrauer Schürze zurück, die Inneneinrichtung spiegelt je nach Modernisierungsgrad teilweise noch den Originalzustand wider.Im Laufe der Jahre wuchs der Wagenpark auf über 20 hochwertige Reisezugwagen an, die den historischen „AKE-Rheingold“ bilden. Dieser bringt auf ein- oder mehrtägigen Reisen die Gäste komfortabel und mit erstklassigem Service an ihr Ziel in Deutschland, Dänemark, Österreich, Norditalien und der Schweiz. In den Speisewagen wird frisch gekocht, deshalb sind die beiden WRmz135 im Zugverband stets küchenseitig zusammengekuppelt.In enger Kooperation mit der AKE-Eisenbahntouristik erscheint in diesem Jahr als einmalige Sonderserie eine Auswahl der unterschiedlichen Fahrzeuge aus dem vorhandenen Wagenpark. Die in den Sets enthaltenen Abteilwagen stellen einen repräsentativen Querschnitt aller Varianten des AKE-Rheingold dar. Auf den ersten Blick kaum erkennbare Unterschiede bei der Lackierung und Beschriftung wurden bis ins kleinste Detail berücksichtigt.Mit dem Ergänzungswagen 62 00 126 kann der Zug auf die bei den AKE-Reisen üblichen 13 bis 14 Wagen verstärkt werden.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200121-3-tlg-set-2-rheingold-ake.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259081.jpg"
+  },
+  "updatedAt": "2026-05-06T20:14:08Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71417",
+  "manufacturer": "Roco",
+  "articleNumber": "71417",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 454.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "SBB Cargo",
+    "type": "Re 420 257-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 177,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 420 257 der SBB Cargo. Aufwendige Bedruckung. Feine, separat angesetzte Lüftungsgitter und Scheibenwischer aus Ätzblech. Stromabnehmer mit unsichtbarer Befestigung. Ausführung mit nachgerüsteter Klimaanlage. Lichtfunktionen nach Schweizer Vorbild. Z21 Führerstand verfügbarDie Re 420 257 von SBB Cargo bewirbt seit September 2020 die umweltfreundliche Zusammenarbeit bei der Kreislaufwirtschaft zwischen den Firmen SBB Cargo, ACTS und Spross.Die Kreislaufwirtschaft zeichnet sich dadurch aus, dass Rohstoffe effizient und so lange wie möglich genutzt werden. Gelingt es, Material- und Produktekreisläufe zu schliessen, können Rohstoffe immer wieder von neuem verwendet werden. Davon profitieren sowohl die Umwelt wie auch die Wirtschaft.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71417-elektrolokomotive-re-420-257-8-sbb-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253850.jpg"
+  },
+  "updatedAt": "2026-05-06T20:07:23Z"
+}

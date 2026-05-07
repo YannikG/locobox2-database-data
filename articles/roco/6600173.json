@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600173",
+  "manufacturer": "Roco",
+  "articleNumber": "6600173",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 122.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "SNCF",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "IV",
+    "luepMm": 342,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit drei Schiebedachwagen, Gattung Tms, der Französischen Staatseisenbahnen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6600173-3-tlg-set-schiebedachwagen-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258995.jpg"
+  },
+  "updatedAt": "2026-05-06T20:22:58Z"
+}

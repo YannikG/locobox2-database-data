@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7120017",
+  "manufacturer": "Roco",
+  "articleNumber": "7120017",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 489.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DR",
+    "type": "01 0529-6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 281,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive 01 0529 der Deutschen Reichsbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle drei Treibachsen der Lok. Variante mit Ölfeuerung und spitzer Rauckkammertüre. Betriebszustand 1971 mit weissen Zierlinien. Feine Metallradsätze. Beheimatung Rbd Erfurt, Bw ErfurtDie Deutsche Reichsbahn befürchtete, aufgrund des zum Teil schlechten Zustands der Baureihe 01 für die Schnellzüge immer weniger Lokomotiven vorhalten zu können. Daher entschloss man sich die 01 zu rekonstruieren, was bei der Reichsbahn auch eine Steigerung der Leistung sowie die Beseitigung von Fehlern bedeutete und dass ist bei dieser Baureihe besonders gut gelungen. Der neue geschweisste Kessel bekam ein drittes Sicherheitsventil. Sämtliche Kesselaufbauten wurden verkleidet, das Führerhaus modernisiert und die Witte-Windleitbleche vorne abgeschrägt.Die „01 529“ wurde 1964 mit Verbrennungskammer-Kessel, Mischvorwärmer und Ölhauptfeuerung ausgerüstet. Ihre letzte Dienststelle war Berlin-Schöneweide. Die Ausmusterung erfolgte im Juli 1983.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7120017-dampflokomotive-01-0529-6-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258968.jpg"
+  },
+  "updatedAt": "2026-05-06T20:30:15Z"
+}

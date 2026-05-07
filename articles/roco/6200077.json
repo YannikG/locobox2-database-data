@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200077",
+  "manufacturer": "Roco",
+  "articleNumber": "6200077",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 254.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "ÖBB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "IV",
+    "luepMm": 1139,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset 1 „Arlberg-Express“ mit drei Schnellzugwagen der Österreichischen Bundesbahnen und einem Gepäckwagen der Französischen Staatseisenbahnen.Bestehend aus einem Speisewagen, Gattung WRmz, zwei Abteilwagen 1./2. Klasse, Gattung ABmz und einem Gepäckwagen, Gattung Dd2s. Betriebszustand Anfang der 1980er Jahre. Zugstamm Wien – Buchs/Basel/Paris . Modelle mit bedruckten Zuglaufschildern. Farbgebung der Eurofimawagen im Ablieferungszustand mit schwarzen FahrwerkDer „Arlberg-Express“ gehörte zu jenen Zügen mit klangvollem Namen, dessen Einführung auf die Zeit der transkontinentalen Luxuszüge zurückgeht. Anders, als seine Geschwister „Orient- und Oostende-Express“, durchfuhr er ganz Österreich in der West-Ost Richtung. Mit der Zeit verwandelte sich der Zug immer mehr zu einem internationalen Zug mit Kurswagen. Neben dem Zugstamm Wien – Paris führte der Zug zahlreiche Kurswagen, z. B. ins Salzkammergut bzw. von dort nach Salzburg, wo diese wieder vom Zug gingen. Ebenso gab es Kurswagen von Wien nach Kärnten und Osttirol, welche ab Schwarzach-St. Veit über die Tauernbahn weiterbefördert wurden.Je nach Zusammenstellung ist es mit den angebotenen Sets möglich, den Zug in den unterschiedlichen Konfigurationen Wien – Salzburg – Schwarzach St. Veit – Innsbruck – Buchs nachzubilden.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200077-4-tlg-set-1-arlberg-express-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258420.jpg"
+  },
+  "updatedAt": "2026-05-06T20:11:29Z"
+}

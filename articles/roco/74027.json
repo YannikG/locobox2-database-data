@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-74027",
+  "manufacturer": "Roco",
+  "articleNumber": "74027",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "EINSTELLER",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": 606,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit zwei Reisezugwagen der BahnTouristikExpress.Bestehend aus einem Speisewagen, Gattung WRm und einem Reisezugwagen 2. Klasse mit Gepäckabteil, Gattung Bdomsb. Mit vorbildgerechten Stirnfronten und Dach. Fein detaillierte Drehgestelle. Zurüstbare Pufferbohle",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/74027-2-tlg-set-reisezugwagen-bte.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/251861.jpg"
+  },
+  "updatedAt": "2026-05-06T20:07:46Z"
+}

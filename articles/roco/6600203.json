@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600203",
+  "manufacturer": "Roco",
+  "articleNumber": "6600203",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 113.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "SNCF",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "V-VI",
+    "luepMm": 483,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit drei 4-achsigen offenen Güterwagen, Gattung Fas, der Französischen Staatseisenbahnen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6600203-3-tlg-set-offene-guterwagen-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259885.jpg"
+  },
+  "updatedAt": "2026-05-06T20:24:19Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600177",
+  "manufacturer": "Roco",
+  "articleNumber": "6600177",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CSD",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "IV",
+    "luepMm": 498,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit drei Silowagen, Gattung Raj, der Tschechoslowakischen Staatsbahnen. Mit vielen angesetzten Steckteilen zum Teil in durchbrochener Ausführung. Freistehende Griffstangen, Geländer, Leitern und Leitungen. Durchbrochene Laufgitter. Modelle vollständig zugerüstet. Ganzzug geeignetDer zunehmende Transport von pulverförmigen Materialien Ende der 1950er Jahre, insbesondere von Zement, führte zu der Notwendigkeit, neue Silowagen anzuschaffen. Die für den Massentransport von Schüttgütern eingesetzten Wagen waren Eigentum der Zement- und Kalkhersteller und wurden als P-Wagen, d. h. private Wagen, in den Fuhrpark der CSD aufgenommen.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6600177-3-tlg-set-silowagen-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258999.jpg"
+  },
+  "updatedAt": "2026-05-06T20:23:10Z"
+}

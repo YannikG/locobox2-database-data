@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600191",
+  "manufacturer": "Roco",
+  "articleNumber": "6600191",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 115.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "EINSTELLER",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": 311,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit zwei Silowagen, Gattung Uacns, der Jura Cement/Wascosa. Silowagen mit neuem Logo der Jura Cement. 50 Jahre Wascosa weiterhin auf den Wagen aufgedruckt",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6600191-2-tlg-set-silowagen-jura-cementwascosa.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/259139.jpg"
+  },
+  "updatedAt": "2026-05-06T20:23:33Z"
+}

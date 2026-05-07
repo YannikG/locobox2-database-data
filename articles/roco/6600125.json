@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6600125",
+  "manufacturer": "Roco",
+  "articleNumber": "6600125",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DR",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "IV",
+    "luepMm": 438,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit zwei 4-achsigen Schwenkdachwagen, Gattung Tads-y, der Deutschen Reichsbahn. Mit Aufschrift „Getreide“",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6600125-2-tlg-set-schwenkdachwagen-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/258377.jpg"
+  },
+  "updatedAt": "2026-05-06T20:20:32Z"
+}

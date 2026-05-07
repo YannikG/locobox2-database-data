@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7300012",
+  "manufacturer": "Roco",
+  "articleNumber": "7300012",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 249.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CSD",
+    "type": "T 669.0107",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 198,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive T 669.0107 der Tschechoslowakischen Staatsbahnen. Erstmals Variante in Ursprungsausführung. Freistehende Griffstangen, teilweise aus Metall. Ideal für den Einsatz vor GüterzügenIhren Spitznamen verdankt die Diesellok-Reihe T 669, später als Reihe 770 geführt, zum einen der russischen Baureihenbezeichnung ЧМЭ3 („Tschme3“), die dem tschechischen Wort für Hummel „Čmelák“ klanglich sehr nahe ist, zum anderen ihrem Brummen beim Anfahren, das klanglich ebenfalls Ähnlichkeiten mit einer Hummel hat – zumindest aus der Ferne. Mit ihren 1.400 PS bewährte sie sich im leichten und schweren Verschubdienst.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7300012-diesellokomotive-t-6690107-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254762.jpg"
+  },
+  "updatedAt": "2026-05-06T20:31:23Z"
+}

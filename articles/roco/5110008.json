@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-5110008",
+  "manufacturer": "Roco",
+  "articleNumber": "5110008",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "DB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 573,
+    "minRadiusMm": 358
+  },
+  "description": "z21 start Digitalset: Diesellokomotive Baureihe 221 mit Güterzug der Deutschen Bundesbahn.Inhalt:1 Diesellokomotive BR 2211 offener Güterwagen1 Rungenwagen1 gedeckter Güterwagen1 z21 start1 Z21 multiMAUS1 SteckernetzteilROCO LINE-Gleisoval (mit Bettung):12 Gebogene Gleise R2, 9 Gerade Gleise G1, 1 Gerades Gleis G½, 1 Anschlussgleis (G½)Platzbedarf: ca. 215 x 100 cmz21 ist ein modular aufgebautes Digitalsystem:. Beginn mit z21 start-Zentrale und Z21 multiMAUS. Aufrüsten mit WLAN-Router und Freischalt-Code, Art.-Nr. 10814, somit Einsatz von Smartphone, Tablet-PC, Z21 WLANMAUS 10813 und Computer (Software-gestützte Modellbahnsteuerung) möglich. Falls ein eigener WLAN-Router vorhanden ist und Sie sich mit WLAN-Netzwerken auskennen, dann reicht zum oben genannten Aufrüsten der Freischalt-Code 10818.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/startsets/5110008-z21-start-digitalset-diesellokomotive-br-221-mit-guterzug-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264259.jpg"
+  },
+  "updatedAt": "2026-05-06T20:09:48Z"
+}

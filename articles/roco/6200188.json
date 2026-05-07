@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-6200188",
+  "manufacturer": "Roco",
+  "articleNumber": "6200188",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 159.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "ÖBB",
+    "type": null,
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "V",
+    "luepMm": 606,
+    "minRadiusMm": null
+  },
+  "description": "Wagenset mit zwei 4-achsigen Bahnpostwagen, Gattung Post-m, der Österreichischen Post eingestellt bei den Österreichischen Bundesbahnen.Neukonstruktion!. Ausführung des dritten Bauloses. Komfortstufen-Lackierung (K-Design). Aufwendig gestalteter, vorbildgerechter Wagenunterboden. Inneneinrichtung detailliert nachgebildet. Drehgestelle mit Magnetschienenbremsen. Unterschiedliche BetriebsnummernIn mehreren Baulosen bauten die Simmering-Graz-Pauker Werke für die österreichische Postverwaltung vierachsige Bahnpostwagen. Konstruktionsmässig entsprechen sie den Eurofima-Wagen. Der Wagenkasten und die Inneneinrichtung wurden für die Belange der Bahnpost adaptiert. Die Sortierung der Postsendungen erfolgte im Zug. Anzutreffen waren die Wagen in Personen-, Eil- und Schnellzügen. Doch auch bis nach Deutschland verschlug es die besonderen Wagen, sie kamen unter anderem in Umleiterzügen im Allgäu zum Einsatz.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "H0"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/wagensets/6200188-2-tlg-set-bahnpostwagen-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/264755.jpg"
+  },
+  "updatedAt": "2026-05-06T20:16:46Z"
+}
