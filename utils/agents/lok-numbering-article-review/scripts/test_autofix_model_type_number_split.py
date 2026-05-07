@@ -79,6 +79,80 @@ class TestProposeSplit(unittest.TestCase):
         }
         self.assertEqual(m.propose_split(art), ("series_3_3dash_tail", "193", "459-5"))
 
+    def test_dotted_steam_slug_50(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "50.685", "number": None},
+            "source": {
+                "url": "https://www.roco.cc/.../7100016-dampflokomotive-50685-obb.html",
+            },
+        }
+        self.assertEqual(m.propose_split(art), ("dotted_steam_slug", "50", "685"))
+
+    def test_dotted_steam_slug_302(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "302.608", "number": None},
+            "source": {
+                "url": "https://www.roco.cc/.../7110025-dampflokomotive-302608-mav.html",
+            },
+        }
+        self.assertEqual(m.propose_split(art), ("dotted_steam_slug", "302", "608"))
+
+    def test_br2_uic_4dash(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "01 0529-6", "number": None},
+        }
+        self.assertEqual(m.propose_split(art), ("br2_uic_4dash", "01", "0529-6"))
+
+    def test_br2_uic_4dash_requires_dampf(self) -> None:
+        art = {
+            "categories": ["lokomotive", "diesellokomotive"],
+            "model": {"type": "01 0529-6", "number": None},
+        }
+        self.assertIsNone(m.propose_split(art))
+
+    def test_br2_space_3digit(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "10 001", "number": None},
+        }
+        self.assertEqual(m.propose_split(art), ("br2_space_3digit", "10", "001"))
+
+    def test_br2_space_3digit_requires_dampf(self) -> None:
+        art = {
+            "categories": ["lokomotive", "diesellokomotive"],
+            "model": {"type": "10 001", "number": None},
+        }
+        self.assertIsNone(m.propose_split(art))
+
+    def test_m62_space(self) -> None:
+        art = {"model": {"type": "M62 221", "number": None}}
+        self.assertEqual(m.propose_split(art), ("m62_space", "M62", "221"))
+
+    def test_m62_dash(self) -> None:
+        art = {"model": {"type": "M62-221", "number": None}}
+        self.assertEqual(m.propose_split(art), ("m62_dash", "M62", "221"))
+
+    def test_dotted_steam_no_slug(self) -> None:
+        art = {
+            "categories": ["lokomotive", "dampflokomotive"],
+            "model": {"type": "50.685", "number": None},
+            "source": {"url": "https://example.com/dampflokomotive-99999-x.html"},
+        }
+        self.assertIsNone(m.propose_split(art))
+
+    def test_dotted_not_dampf_category(self) -> None:
+        art = {
+            "categories": ["lokomotive", "diesellokomotive"],
+            "model": {"type": "50.685", "number": None},
+            "source": {
+                "url": "https://www.roco.cc/.../7100016-dampflokomotive-50685-obb.html",
+            },
+        }
+        self.assertIsNone(m.propose_split(art))
+
 
 if __name__ == "__main__":
     unittest.main()

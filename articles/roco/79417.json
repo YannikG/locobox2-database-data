@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "SBB Cargo",
     "type": "Re 420",
     "number": "257-8",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "VI",
     "luepMm": 177,

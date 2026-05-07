@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "kkStB",
-    "type": "85.13",
-    "number": null,
+    "type": "85",
+    "number": "13",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

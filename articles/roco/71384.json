@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "PKP",
     "type": "Ok1-360",
     "number": null,

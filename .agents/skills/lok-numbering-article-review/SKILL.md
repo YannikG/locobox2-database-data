@@ -66,7 +66,9 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`utils/agents/lok-numbe
 - **`autofix_model_type_number_split.py`** — mechanischer Split `model.type` / `model.number` (Allowlist, ändert keine `description`).
 - **`autofix_description_ocr.py`** — optionale OCR-/Encoding-Ersetzungen nur in **`description`**.
 - **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Kategorie (sonst kein Schreiben).
+- **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt.
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
+- **`test_autofix_model_country.py`** — Unit-Tests zum Country-Skript.
 
 Die folgenden Abschnitte nennen konkrete Kommandozeilen; Pfade sind immer relativ zum Repo-Root, ausser beim `cd` für `unittest`.
 
@@ -132,8 +134,11 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 
 - `country` **`null`** und `operator` **«K.P.E.V.»** oder gleichwertig klar **Deutsches Kaiserreich** (historisch) → **`DE`**.
 - `country` **`null`** und `operator` **«Südbahn»** (k. k. Südbahn) mit AT-Kontext in `description`/`categories` → **`AT`**.
+- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
 
-**Nicht** Auto-Fix: **`operator: "DR"`** (DDR vs. DB vs. Lack «DR»), Grenzverkehr, Vermietung (MRCE, Railpool, …), SNCB/SŽ-Mischungen, alles was eine Epochen- oder Staatsgrenze braucht. Dort **Findings**, kein Land raten.
+**Nicht** per Skript raten: Grenzverkehr, Vermietung (MRCE, Railpool, …), SNCB/SŽ-Mischungen. Dort **Findings** oder Map im Skript erweitern.
+
+**Skript:** **`utils/agents/lok-numbering-article-review/scripts/autofix_model_country.py`** (Dry-Run ohne `--apply`). Tests: `cd` … `scripts` && `python3 -m unittest test_autofix_model_country`.
 
 ### Nach Auto-Fix
 

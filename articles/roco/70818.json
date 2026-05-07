@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
     "type": "108",
     "number": "001-9",

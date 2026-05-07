@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
     "type": "T 669.0107",
     "number": null,

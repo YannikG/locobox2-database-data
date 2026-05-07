@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
-    "type": "01 0529-6",
-    "number": null,
+    "type": "01",
+    "number": "0529-6",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
     "era": "IV",
     "luepMm": 281,

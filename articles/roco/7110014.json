@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "DB",
     "type": "89.70–75",
     "number": null,

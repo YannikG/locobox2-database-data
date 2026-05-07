@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
     "type": "BR 35.10",
     "number": null,

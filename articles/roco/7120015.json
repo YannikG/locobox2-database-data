@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "DB",
-    "type": "10 001",
-    "number": null,
+    "type": "10",
+    "number": "001",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "III",
     "luepMm": 305,

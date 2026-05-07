@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "SBB Cargo",
     "type": "Re 420",
     "number": "257-8",

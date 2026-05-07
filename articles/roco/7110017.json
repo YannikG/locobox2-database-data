@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
-    "type": "01 0529-6",
-    "number": null,
+    "type": "01",
+    "number": "0529-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

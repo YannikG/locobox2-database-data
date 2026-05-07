@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "SK",
     "operator": "ZSSK",
     "type": "750",
     "number": "183-6",

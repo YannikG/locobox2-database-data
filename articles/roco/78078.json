@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "ÖBB",
-    "type": "77.14",
-    "number": null,
+    "type": "77",
+    "number": "14",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
     "era": "III",
     "luepMm": 153,

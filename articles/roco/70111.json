@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "PKP",
     "type": "Ty2",
     "number": null,

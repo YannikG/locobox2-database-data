@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "HU",
     "operator": "MAV",
-    "type": "302.608",
-    "number": null,
+    "type": "302",
+    "number": "608",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

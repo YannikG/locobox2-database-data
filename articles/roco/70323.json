@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "IT",
     "operator": "GTS Rail",
     "type": "BR 191",
     "number": null,

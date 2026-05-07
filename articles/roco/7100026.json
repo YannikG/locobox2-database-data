@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
     "type": "Rh 354.1",
     "number": null,

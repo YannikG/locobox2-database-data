@@ -369,12 +369,13 @@ class TestNormalizeElectricSystem(unittest.TestCase):
 
     def test_legacy_dc_ac(self) -> None:
         self.assertEqual(pdp._normalize_electric_system("dc"), "DC-Analog")
-        self.assertEqual(pdp._normalize_electric_system("ac"), "AC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("ac"), "AC-Digital")
 
     def test_roco_shop_strings(self) -> None:
         self.assertEqual(pdp._normalize_electric_system("DC Analog"), "DC-Analog")
         self.assertEqual(pdp._normalize_electric_system("DCC"), "DC-Digital")
-        self.assertEqual(pdp._normalize_electric_system("Wechselstrom"), "AC-Analog")
+        self.assertEqual(pdp._normalize_electric_system("Wechselstrom"), "AC-Digital")
+        self.assertEqual(pdp._normalize_electric_system("Wechselstrom Analog"), "AC-Analog")
         self.assertEqual(pdp._normalize_electric_system("AC Digital"), "AC-Digital")
 
     def test_dc_only_unknown(self) -> None:

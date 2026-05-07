@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
-    "type": "95 0045-5",
-    "number": null,
+    "type": "95",
+    "number": "0045-5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

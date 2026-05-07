@@ -11,6 +11,8 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * Optional steam rule requires ``dampflokomotive`` + URL slug confirmation.
 * ``BR-<digits> <digits>`` (z. B. Roco PMT «BR-232 049») → ``type`` = Baureihe, ``number`` = Betriebsnummer.
 * Drei- oder vierstellige Reihe + ``NNN-d`` + optionaler Taufname in ``„"«`` am Ende des ``type``-Strings (z. B. «1116 238-7 „Railjet"», «193 459-5 „Deutschlandpiercer"»).
+* Dampf: zweistellige Baureihe + ``NNNN-d`` (z. B. «01 0529-6») + ``dampflokomotive``.
+* Dampf: zweistellige Baureihe + dreistellige Nummer (z. B. «10 001») + ``dampflokomotive``.
 
 Usage::
 
@@ -70,6 +72,69 @@ def _rule_steam_2_4(article: Article) -> Optional[Proposal]:
     if needle in url.replace("_", "-"):
         return ("steam_2_4_slug", br, num)
     return None
+
+
+def _rule_dotted_digits_slug(article: Article) -> Optional[Proposal]:
+    """
+    Typ «50.685», «77.14», «302.608» (nur Ziffern + Punkt) + ``dampflokomotive`` +
+    Roco-Slug enthält ``-{Baureihe}{Nummer}-`` (ohne Punkt), z. B. ``…-50685-…``, ``…-302608-…``.
+    """
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"(\d+)\.(\d+)", t)
+    if not m:
+        return None
+    br, num = m.group(1), m.group(2)
+    if not br or not num:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    url = ((article.get("source") or {}).get("url") or "").lower().replace("_", "-")
+    compact = br + num
+    if len(compact) < 3:
+        return None
+    if f"-{compact}-" in url:
+        return ("dotted_steam_slug", br, num)
+    return None
+
+
+def _rule_br2_uic_4dash(article: Article) -> Optional[Proposal]:
+    """
+    Dampf: zweistellige Baureihe + UIC ``NNNN-d`` (z. B. «01 0529-6», «95 0045-5»).
+    Nur mit Kategorie ``dampflokomotive``.
+    """
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"(\d{2}) (\d{4}-\d)", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    return ("br2_uic_4dash", m.group(1), m.group(2))
+
+
+def _rule_br2_space_3digit(article: Article) -> Optional[Proposal]:
+    """
+    Dampf: zweistellige Baureihe + dreistellige Nummer (z. B. «10 001», «23 076»).
+    Nur mit Kategorie ``dampflokomotive``; kein Konflikt mit UIC ``NNNN-d``.
+    """
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    m = re.fullmatch(r"(\d{2}) (\d{3})", t)
+    if not m:
+        return None
+    cats = article.get("categories") or []
+    if not isinstance(cats, list) or "dampflokomotive" not in cats:
+        return None
+    return ("br2_space_3digit", m.group(1), m.group(2))
 
 
 _BR_CLASS = re.compile(r"BR (\d+)$")
@@ -133,6 +198,10 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     if m:
         return ("m62_dash", "M62", m.group(1))
 
+    m = re.fullmatch(r"M62 (\d+)", t)
+    if m:
+        return ("m62_space", "M62", m.group(1))
+
     # z. B. «BR-232 049» (PMT / Roco-Slug): Baureihe ohne «BR-»-Präfix, Nummer separat
     m = re.fullmatch(r"BR-(\d+) (\d+)", t)
     if m:
@@ -186,6 +255,18 @@ def propose_split(article: Article, *, include_br: bool = False) -> Optional[Pro
     steam = _rule_steam_2_4(article)
     if steam:
         return steam
+
+    dotted = _rule_dotted_digits_slug(article)
+    if dotted:
+        return dotted
+
+    br2uic = _rule_br2_uic_4dash(article)
+    if br2uic:
+        return br2uic
+
+    br2sp3 = _rule_br2_space_3digit(article)
+    if br2sp3:
+        return br2sp3
 
     tauf4 = _rule_4digit_3dash_taufname(t)
     if tauf4:

@@ -662,8 +662,9 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
     (siehe ``config/electric-systems`` und ``article.schema.json``).
 
     Nur ``DC`` / ``Gleichstrom`` ohne Analog-/Digital-Hinweis → ``None`` (mit PDP
-    erneut importieren). Alte JSON-Werte exakt ``dc`` / ``ac`` → ``DC-Analog`` /
-    ``AC-Analog`` (Migration bis Re-Scrape).
+    erneut importieren). Alte JSON-Werte exakt ``dc`` → ``DC-Analog``. Kurzform
+    ``ac`` und blosses «Wechselstrom» ohne «Analog» → ``AC-Digital`` (Roco-H0-AC
+    mit Decoder/Motorik; nur bei explizitem Analog-Hinweis ``AC-Analog``).
     """
     if not raw or not str(raw).strip():
         return None
@@ -673,7 +674,7 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
     if s0 == "dc":
         return "DC-Analog"
     if s0 == "ac":
-        return "AC-Analog"
+        return "AC-Digital"
 
     t = swiss_text(s0).upper()
     t = re.sub(r"\s+", " ", t)
@@ -700,7 +701,7 @@ def _normalize_electric_system(raw: str) -> Optional[str]:
             return "AC-Digital"
         if has_analog:
             return "AC-Analog"
-        return "AC-Analog"
+        return "AC-Digital"
 
     if is_dc:
         if has_digital:

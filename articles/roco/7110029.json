@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "VSM",
-    "type": "23 076",
-    "number": null,
+    "type": "23",
+    "number": "076",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

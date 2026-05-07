@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "HU",
     "operator": "MAV",
-    "type": "M62 221",
-    "number": null,
+    "type": "M62",
+    "number": "221",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

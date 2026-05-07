@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DD",
     "operator": "DR",
-    "type": "86 1617-9",
-    "number": null,
+    "type": "86",
+    "number": "1617-9",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
