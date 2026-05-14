@@ -96,6 +96,21 @@ def _trim_ws(s: str) -> str:
     return re.sub(r"\s+", " ", swiss_text(str(s).strip())).strip()
 
 
+def _ascii_double_quotes_to_typographic(s: str) -> str:
+    """
+    Paarweise ASCII-Anführungszeichen (U+0022) in deutschsprachige Typografie „…“
+    (U+201E / U+201C) wandeln. So entfallen ``\\\"``-Escapes in JSON-Fliesstext und
+    manuelles Bearbeiten wird robuster.
+    """
+    if '"' not in s:
+        return s
+    return re.sub(
+        r'"([^"]+)"',
+        lambda m: "\u201e" + m.group(1) + "\u201c",
+        s,
+    )
+
+
 def _trim_description_merge(s: str) -> str:
     """
     Rand trimmen, Zeilenumbrüche beibehalten; pro Zeile nur Spaces/Tabs zusammenziehen
@@ -109,7 +124,7 @@ def _trim_description_merge(s: str) -> str:
         lines.pop(0)
     while lines and not lines[-1].strip():
         lines.pop()
-    return "\n".join(lines)
+    return _ascii_double_quotes_to_typographic("\n".join(lines))
 
 
 def _meta_prop(html: str, prop: str) -> Optional[str]:
@@ -179,7 +194,7 @@ def _normalize_desc(raw: Optional[str]) -> Optional[str]:
     t = t.replace("■", ". ").replace("·", ". ")
     t = re.sub(r"\s*\.\s*\.\s*", ". ", t)
     t = swiss_text(t)
-    return t.strip()
+    return _ascii_double_quotes_to_typographic(t.strip())
 
 
 def _strip_html_comments_and_scripts(fragment: str) -> str:
@@ -831,6 +846,8 @@ def parse_pdp(html: str, fallback_url: Optional[str] = None) -> dict[str, Any]:
     desc = _pick_product_description(html, desc_og_raw)
     if not desc:
         desc = _normalize_desc(desc_og_raw)
+    if desc:
+        desc = _ascii_double_quotes_to_typographic(desc)
     price = _price_amount(_meta_prop(html, "product:price:amount"))
     if price is None:
         price = _extract_product_head_price_amount(html)

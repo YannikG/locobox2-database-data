@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72014",
+  "manufacturer": "Roco",
+  "articleNumber": "72014",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "265",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 83,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 265 „Sik“ der Niederländischen Staatsbahnen in gelb/grauer Farbgebung. Mit Kran. Mit digitaler Rangierkupplung für mehr Spielspass. Motorvorbau und Getriebeblock aus Zinkdruckguss, daher mehr Eigengewicht und hohe Zugkraft. Fein detaillierte Ausführung mit vielen Steckteilen und freistehenden Griffstangen. Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbar. Mit schaltbarem Blinklicht auf dem Führerstand. Freier Durchblick durch den nachgebildeten Führerstand. Mit Pufferkondensator für unterbrechungsfreie StromversorgungDie Niederländische Staatsbahn beschaffte die zweiachsigen Verschub-Diesellokomotiven in den Jahren 1934 bis 1951 beim Hersteller Werkspoor, eine Lieferserie auch bei CW Zwolle. Insgesamt wurden 169 Stück in einigen Serien und etwas unterschiedlicher Ausführung gebaut. Aufgrund ihres markanten Auspuff-Geräusches sind sie als „Sikken“ bzw. „Sik“ – singular für „Ziege“ – zum Begriff bei Eisenbahnern und Eisenbahnfreunden geworden.Fünfzehn dieser Maschinen wurden in den 1970er Jahren mit Kränen ausgerüstet. Nach der ursprünglich grünen Lackierung wurde später das gelb-graue Farbschema angewandt. Die fleissigen Arbeitstierchen waren überall in den Niederlanden im unermüdlichen Einsatz. In der zweiten Hälfte der 1990er Jahre führten verschärfte Arbeitsschutzvorschriften zur Abstellung der noch vorhandenen Lokomotiven. Viele davon sind bei Museumsbahnen und einigen privaten Eisenbahnbetrieben erhalten bzw. noch in Betrieb.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/72014-diesellokomotive-265-ns.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244406.jpg"
+  },
+  "updatedAt": "2026-05-07T21:17:31Z"
+}

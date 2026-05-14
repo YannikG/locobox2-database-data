@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70468",
+  "manufacturer": "Roco",
+  "articleNumber": "70468",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Railpool",
+    "type": "155",
+    "number": "138-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 155 138 der Railpool.Formvariante!. Erstmals mit eckigen Puffern. Einsatz deutschlandweit im Güterverkehr bei verschiedenen Verkehrsunternehmen. Filigrane Stromabnehmer. Fein gravierte Drehgestelle. Schaltbares Spitzen-/Schlusslicht mit DIP-SchalterAb 1977 beschaffte die Deutsche Reichsbahn 270 Serienlokomotiven der Baureihe 250 (später BR 155) für den schweren Güterzugdienst. Durch den Verzicht auf strömungsgünstige Rundungen, die bei der geringen Höchstgeschwindigkeit vernachlässigbar sind, bekam sie den Spitznamen „Strom-Container“ oder „Backstein“.2017 verkaufte die Deutsche Bahn 100 Lokomotiven an ein Konsortium um Railpool und Toshiba. Die 155 138 erhielt von Railpool ein silberglänzendes Kleid, um Aufmerksamkeit zu erregen. Einige der für den Einsatz in Deutschland und Österreich zugelassenen Lokomotiven wurden zum Verkauf angeboten.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70468-elektrolokomotive-155-138-1-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254196.jpg"
+  },
+  "updatedAt": "2026-05-07T20:57:57Z"
+}

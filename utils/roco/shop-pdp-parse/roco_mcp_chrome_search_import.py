@@ -548,6 +548,7 @@ async def _run_mcp_import(
     use_network_image: bool,
     merge_config: Optional[Path],
     merge_only: Optional[list[str]],
+    campaign_tag: Optional[str],
 ) -> tuple[int, int]:
     if sys.version_info < (3, 10):
         print(
@@ -789,6 +790,9 @@ async def _run_mcp_import(
                         for chunk in merge_only:
                             if str(chunk).strip():
                                 pargs.extend(["--merge-only", str(chunk).strip()])
+                    ct = (campaign_tag or "").strip()
+                    if write and ct:
+                        pargs.extend(["--campaign-tag", ct])
                     if write:
                         pargs.extend(["--write", "--quiet"])
                     try:
@@ -910,6 +914,15 @@ def main() -> int:
             "Siehe dort --help."
         ),
     )
+    ap.add_argument(
+        "--campaign-tag",
+        default=None,
+        metavar="SLUG",
+        help=(
+            "Nur mit echtem --write (ohne --dry-run / --no-write): an roco_shop_parse_pdp.py "
+            "als --campaign-tag (z. B. roco-neuheiten-2024)."
+        ),
+    )
     args = ap.parse_args()
 
     mcp_extra_env: Optional[dict[str, str]] = None
@@ -951,6 +964,13 @@ def main() -> int:
             file=sys.stderr,
         )
         return 2
+    if args.campaign_tag and (args.no_write or args.dry_run):
+        print(
+            "error: --campaign-tag nur zusammen mit echtem --write "
+            "(ohne --dry-run und ohne --no-write).",
+            file=sys.stderr,
+        )
+        return 2
 
     _ok, fail = asyncio.run(
         _run_mcp_import(
@@ -966,6 +986,7 @@ def main() -> int:
             use_network_image=not args.no_network_image,
             merge_config=merge_cfg,
             merge_only=args.merge_only,
+            campaign_tag=args.campaign_tag,
         )
     )
     return 1 if fail else 0

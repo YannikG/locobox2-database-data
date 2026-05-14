@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70336",
+  "manufacturer": "Roco",
+  "articleNumber": "70336",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS Cargo",
+    "type": "485",
+    "number": "012-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 485 012 der Schweizer Bahngesellschaft BLS Cargo. Ausführung im aktuellen Alpinisten-Design. Stromabnehmer mit innovativer Befestigung. Extra angesetzte Steckteile. Schienenräumer am Chassis befestigt. Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter2001 beschloss die BLS Lötschbergbahn AG, zehn Traxx-Lokomotiven für den grenzüberschreitenden Güterverkehr zu bestellen. Die Lokomotiven der BLS Cargo mit der Schweizer Bezeichnung Re 485 sind technisch identisch mit der Baureihe Re 482 von SBB Cargo und den Maschinen der Baureihe 185 von DB Cargo mit zusätzlichem Schweiz-Paket. Mit der Auslieferung zwischen Dezember 2002 und Mitte 2003, wurden die verbliebenen Ae 4/4 ausgemustert. Die neuen Maschinen werden vor allem vor Transitgüterzügen von und nach Deutschland eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70336-elektrolokomotive-485-012-9-bls-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253315.jpg"
+  },
+  "updatedAt": "2026-05-07T20:46:45Z"
+}

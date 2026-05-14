@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70184",
+  "manufacturer": "Roco",
+  "articleNumber": "70184",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "ODEG",
+    "type": "BR 650",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 293,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen Baureihe 650 der Ostdeutschen Eisenbahn GmbH. Aufwendig gestalteter Innenraum. Ideal für Nebenbahnen. Für den Einsatz auf Nebenstrecken entwickelte Adtranz (später Stadler Rail) vierachsige Regionaltriebwagen mit Dieselmotor. Diese wurden unter dem Namen „Regio Shuttle“ oder kurz „RS1“ vertrieben. Insbesondere bei Privatbahnen kam das Fahrzeugkonzept sehr gut an. So liefen bis 2013 insgesamt fast 500 Regioshuttle vom Band. Die RS1 sind auf eine Höchstgeschwindigkeit von 120 km/h ausgelegt und bieten je nach Variante bis zu 101 Sitzplätze und 94 Stehplätze.",
+  "categories": [
+    "dieseltriebwagen",
+    "triebzug"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/70184-dieseltriebwagen-br-650-odeg.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248453.jpg"
+  },
+  "updatedAt": "2026-05-08T12:00:00Z"
+}

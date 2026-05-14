@@ -121,10 +121,14 @@ def _suedbahn_at_context(blob: str) -> bool:
 
 
 # Tier B: exakter Operator-String nach Import/Parser (kein Regex auf Teilstrings).
+# Nur eindeutig national/staatlich zugeordnete Operatoren oder von SKILL.md namentlich
+# erlaubte Sonderfälle. Nicht aufnehmen: Vermietung (MRCE, Railpool, LTE), reine
+# Grenzverkehr-Operator-Strings (TX Logistik), Mischungen (z. B. SNCB/SŽ-Mischfälle).
 _OPERATOR_COUNTRY: dict[str, str] = {
     "ÖBB": "AT",
     "SBB Cargo": "CH",
     "PKP": "PL",
+    "PKP Cargo": "PL",
     "MAV": "HU",
     "SNCF": "FR",
     "CD": "CZ",
@@ -133,8 +137,13 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "DB": "DE",
     "CSD": "CS",
     "VSM": "NL",
+    "NS": "NL",
     "GTS Rail": "IT",
+    "Mercitalia Rail": "IT",
     "SBW": "AT",
+    "BLS Cargo": "CH",
+    "DRG": "DE",
+    "SNCB": "BE",
 }
 
 

@@ -446,6 +446,19 @@ class TestMergeArticleRecordRobustness(unittest.TestCase):
             self.assertIsNone(merged["model"]["electricSystem"])
 
 
+class TestAsciiQuotesTypographic(unittest.TestCase):
+    def test_pairs_become_low9_high6(self) -> None:
+        s = pdp._ascii_double_quotes_to_typographic(
+            'Taufnamen "Freilassing". Zweifarbiges "Zebra"-Design.'
+        )
+        self.assertNotIn('"Freilassing"', s)
+        self.assertIn("\u201eFreilassing\u201c", s)
+        self.assertIn("\u201eZebra\u201c", s)
+
+    def test_no_quotes_unchanged(self) -> None:
+        self.assertEqual(pdp._ascii_double_quotes_to_typographic("Ohne"), "Ohne")
+
+
 class TestCampaignTagMerge(unittest.TestCase):
     def test_merge_adds_campaign_tag_when_passed(self) -> None:
         slug = "roco-herbstneuheiten-2025"
