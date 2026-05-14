@@ -335,6 +335,11 @@ def _js_outer_html() -> str:
 
 def _js_og_image_from_dom() -> str:
     return """() => {
+  const main = document.querySelector('img.product__img');
+  if (main) {
+    const u = (main.currentSrc || main.getAttribute('src') || '').trim();
+    if (u.length > 4) return u;
+  }
   const metas = Array.from(document.querySelectorAll('meta[property]'));
   for (const el of metas) {
     const p = (el.getAttribute('property') || '').toLowerCase();

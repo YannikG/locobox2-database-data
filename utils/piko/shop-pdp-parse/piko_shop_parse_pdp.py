@@ -2,7 +2,7 @@
 """
 Parse PIKO Shop PDP HTML (gespeichert aus Chrome / MCP). Kein HTTP im CLI.
 
-Extrahiert u. a. ``og:title``, ``og:description``, ``og:image``, groben Preis aus
+Extrahiert u. a. ``og:title``, PDP-``h1`` → ``model.type`` (Rohbezeichnung), ``og:description``, Hauptbild ``img.product__img`` (sonst ``og:image``), groben Preis aus
 sichtbarem Text, schreibt optional ``articles/piko/{articleNumber}.json``.
 
 Schweizer Textnormalisierung: «ß» → «ss».
@@ -76,7 +76,211 @@ def _abs_url(base: str, maybe: str) -> str:
         return "https:" + u
     if u.startswith(("http://", "https://")):
         return u
-    return urljoin(base.rstrip("/") + "/", u.lstrip("/"))
+    return urljoin(base, u)
+
+
+def _product_main_image_url(html: str, base_url: str) -> str:
+    """Hauptbild aus ``<img class=\"product__img\" … src=\"…\">`` (relativ → absolut)."""
+    for m in re.finditer(r"<img\b[^>]+>", html, re.I):
+        tag = m.group(0)
+        if "product__img" not in tag:
+            continue
+        sm = re.search(r'\bsrc=["\']([^"\']+)["\']', tag, re.I)
+        if sm:
+            return _abs_url(base_url, sm.group(1).strip())
+    return ""
+
+
+def _html_to_plain(fragment: str) -> str:
+    t = re.sub(r"<br\s*/?>", "\n", fragment, flags=re.I)
+    t = re.sub(r"<script[^>]*>.*?</script>", " ", t, flags=re.I | re.S)
+    t = re.sub(r"<style[^>]*>.*?</style>", " ", t, flags=re.I | re.S)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = html_lib.unescape(t)
+    return re.sub(r"[ \t\r\f\v]+", " ", t).replace(" \n ", "\n").strip()
+
+
+def _strip_piko_shop_title_suffix(s: str) -> str:
+    """Marketing-Suffixe vom Shop-``og:title`` entfernen (Produktzeile für ``model.type``)."""
+    s = (s or "").strip()
+    if not s:
+        return ""
+    s = re.sub(r"\s*\|\s*PIKO Webshop\s*$", "", s, flags=re.I)
+    s = re.sub(r"\s+Modelleisenbahn\s+kaufen\s*$", "", s, flags=re.I)
+    return s.strip()
+
+
+def _product_type_line_from_html(html: str, og_title: str) -> Optional[str]:
+    """
+    Roh-Produktbezeichnung (z. B. «E-Lok BR 184.1 DB IV») für ``model.type``.
+    Später per Skill in Baureihe/Nummer/Livree zerlegbar.
+    """
+    for m in re.finditer(r"<h1\b[^>]*>(.*?)</h1>", html, re.I | re.S):
+        t = swiss_text(_html_to_plain(m.group(1)))
+        if len(t) < 4:
+            continue
+        low = t.lower()
+        if low in ("startseite", "fehler", "404", "seite nicht gefunden"):
+            continue
+        return t
+    raw = (og_title or "").strip() or (_meta_content(html, "og:title") or "")
+    bt = _strip_piko_shop_title_suffix(raw)
+    return bt or None
+
+
+def _parse_product_attributes_table(html: str) -> dict[str, str]:
+    """
+    PDP-Tabelle (u. a. ``#product-attributes``): ``attribute-desc`` / ``attribute-value``-Paare.
+    Gesamtes HTML, damit kein fragiles Block-Cropping nötig ist.
+    """
+    out: dict[str, str] = {}
+    for mo in re.finditer(
+        r'<td\s+class=["\']attribute-desc["\'][^>]*>(.*?)</td>\s*'
+        r'<td\s+class=["\']attribute-value["\'][^>]*>(.*?)</td>',
+        html,
+        re.I | re.S,
+    ):
+        key = _html_to_plain(mo.group(1)).rstrip(":").strip()
+        val = _html_to_plain(mo.group(2))
+        if key and val:
+            out[key] = val
+    return out
+
+
+def _operator_to_country(operator: str) -> Optional[str]:
+    if not operator:
+        return None
+    u = operator.upper().strip()
+    mapping = {
+        "DB": "DE",
+        "DR": "DE",
+        "DRG": "DE",
+        "DB AG": "DE",
+        "ÖBB": "AT",
+        "OBB": "AT",
+        "SBB": "CH",
+        "BLS": "CH",
+        "RhB": "CH",
+        "Rhätische Bahn": "CH",
+        "PKP": "PL",
+        "NS": "NL",
+        "SNCF": "FR",
+        "FS": "IT",
+        "SJ": "SE",
+        "DSB": "DK",
+    }
+    return mapping.get(u) or mapping.get(operator.strip()) or None
+
+
+def _canonical_electric_system(strom: str, decoder: str, beleuchtung: str) -> Optional[str]:
+    """Richtung Locobox-Roco-Kanon: DC-/AC-Analog bzw. -Digital."""
+    s = (strom or "").lower()
+    hint = f"{decoder} {beleuchtung}".lower()
+    digital = any(
+        x in hint
+        for x in (
+            "plux",
+            "dcc",
+            "next18",
+            "nem 65",
+            "nem658",
+            "decoder",
+            "dss",
+            "digital schaltbar",
+            "digital-schaltbar",
+        )
+    ) or ("digital" in s and "strom" in s)
+    if "gleichstrom" in s:
+        return "DC-Digital" if digital else "DC-Analog"
+    if "wechselstrom" in s:
+        return "AC-Digital" if digital else "AC-Analog"
+    return None
+
+
+def _int_mm(val: str) -> Optional[int]:
+    m = re.search(r"(\d+)", val or "")
+    if not m:
+        return None
+    try:
+        return int(m.group(1))
+    except ValueError:
+        return None
+
+
+def _long_product_description(html: str) -> str:
+    """Längere Fliesstext-Beschreibung statt nur Shop-Marketing-``og:title``."""
+    for pat in (
+        r'<div[^>]+itemprop=["\']description["\'][^>]*>(.*?)</div>',
+        r'class=["\'][^"\']*product--description[^"\']*["\'][^>]*>(.*?)</div>',
+        r'class=["\'][^"\']*product-detail[^"\']*description[^"\']*["\'][^>]*>(.*?)</div>',
+    ):
+        m = re.search(pat, html, re.I | re.S)
+        if m:
+            t = _html_to_plain(m.group(1))
+            if len(t) > 80:
+                return swiss_text(t)
+    return ""
+
+
+def _apply_attributes_to_model(attrs: dict[str, str]) -> dict[str, Any]:
+    model: dict[str, Any] = {
+        "country": None,
+        "operator": None,
+        "type": None,
+        "number": None,
+        "livery": None,
+        "scale": "H0",
+        "electricSystem": None,
+        "decoderInterface": None,
+        "era": None,
+        "luepMm": None,
+        "minRadiusMm": None,
+    }
+
+    op = attrs.get("Bahnverwaltung", "").strip()
+    if op:
+        model["operator"] = op
+        model["country"] = _operator_to_country(op)
+
+    era = attrs.get("Epoche", "").strip()
+    if era:
+        model["era"] = era
+
+    strom = attrs.get("Stromsystem", "").strip()
+    dec = attrs.get("Digitale Schnittstelle", "").strip()
+    bel = attrs.get("(Innen-)Beleuchtung", "").strip()
+    if not bel:
+        bel = attrs.get("Beleuchtung", "").strip()
+    es = _canonical_electric_system(strom, dec, bel)
+    if es:
+        model["electricSystem"] = es
+    if dec:
+        model["decoderInterface"] = dec
+
+    mr = (
+        attrs.get("Mindestradius [mm]", "")
+        or attrs.get("Mindestradius [mm]:", "")
+        or attrs.get("Mindestradius", "")
+    ).strip()
+    if mr:
+        model["minRadiusMm"] = _int_mm(mr)
+
+    luep_next = False
+    luep_mm: Optional[int] = None
+    for key in list(attrs.keys()):
+        kl = key.lower()
+        if "maßbezeichnung" in kl or "massbezeichnung" in kl:
+            v = attrs[key]
+            if re.search(r"lüp|luep|puffer", v, re.I):
+                luep_next = True
+        elif re.match(r"^maß\s*\[mm\]", key, re.I) or re.match(r"^mass\s*\[mm\]", key, re.I):
+            if luep_next:
+                luep_mm = _int_mm(attrs[key])
+            luep_next = False
+    if luep_mm is not None:
+        model["luepMm"] = luep_mm
+
+    return model
 
 
 def parse_html(
@@ -91,11 +295,37 @@ def parse_html(
         m = re.search(r"<title>([^<]+)</title>", html, re.I)
         if m:
             title = html_lib.unescape(m.group(1).strip())
-    desc = _meta_content(html, "og:description") or _meta_content(html, "description") or ""
-    img = image_override or _meta_content(html, "og:image") or ""
+    desc_meta = _meta_content(html, "og:description") or _meta_content(html, "description") or ""
+    body_long = _long_product_description(html)
+    if image_override and str(image_override).strip():
+        img = str(image_override).strip()
+    else:
+        img = (
+            _product_main_image_url(html, canonical_url)
+            or (_meta_content(html, "og:image") or "")
+        )
     img = _abs_url(canonical_url, img)
     price = _price_amount(html, canonical_url)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    attrs = _parse_product_attributes_table(html)
+    model = _apply_attributes_to_model(attrs)
+    type_line = _product_type_line_from_html(html, title)
+    if type_line:
+        model["type"] = type_line
+
+    if body_long:
+        description = body_long
+    elif desc_meta and len(desc_meta) > len(title) and "Webshop" not in desc_meta:
+        description = swiss_text(desc_meta)
+    else:
+        parts = [swiss_text(desc_meta or title)]
+        if attrs:
+            lines = [f"{k}: {v}" for k, v in attrs.items() if k not in ("WEEE-Registrierungsnummer",)]
+            if lines:
+                parts.append("\n".join(lines[:18]))
+        description = "\n\n".join(p for p in parts if p).strip()
+
     return {
         "schemaVersion": "1.0.0",
         "id": f"piko-{article}",
@@ -103,20 +333,8 @@ def parse_html(
         "articleNumber": article,
         "releaseDate": None,
         "uvp": {"amount": price, "currency": "EUR"},
-        "model": {
-            "country": None,
-            "operator": None,
-            "type": None,
-            "number": None,
-            "livery": None,
-            "scale": "H0",
-            "electricSystem": None,
-            "decoderInterface": None,
-            "era": None,
-            "luepMm": None,
-            "minRadiusMm": None,
-        },
-        "description": swiss_text(desc or title),
+        "model": model,
+        "description": description,
         "categories": [],
         "tags": [],
         "source": {
