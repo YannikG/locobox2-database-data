@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-5110005",
+  "manufacturer": "Roco",
+  "articleNumber": "5110005",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2016",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 749,
+    "minRadiusMm": 358
+  },
+  "description": "z21 start Digitalset: Diesellokomotive Reihe 2016 mit einem Eurocity-Schnellzug der Österreichischen Bundesbahnen.Inhalt:1 Diesellokomotive Reihe 20162 Eurofima-Wagen, Längenmassstab 1:1001 z21 start1 Z21 multiMAUS1 SteckernetzteilROCO LINE-Gleisfigur (mit Bettung):12 Gebogene Gleise R2, 9 Gerade Gleise G1, 1 Gerades Gleis G½, 1 Anschlussgleis (G½)Platzbedarf: ca. 215 x 100 cmz21 ist ein modular aufgebautes System:. Beginn mit z21 start-Zentrale und Z21 multiMAUS. Aufrüsten mit WLAN-Router und Freischalt-Code, Art.-Nr. 10814, somit Einsatz von Smartphone, Tablet-PC, Z21 WLANMAUS und Computer (Software-gestützte Modellbahnsteuerung) möglich. Falls ein eigener WLAN-Router vorhanden ist und Sie sich mit WLAN-Netzwerken auskennen, dann reicht zum oben genannten Aufrüsten der Freischalt-Code 10818.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/startsets/5110005-z21-start-digitalset-diesellokomotive-rh-2016-mit-schnellzug-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/257522.jpg"
+  },
+  "updatedAt": "2026-05-07T22:07:50Z"
+}

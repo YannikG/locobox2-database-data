@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79925",
+  "manufacturer": "Roco",
+  "articleNumber": "79925",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "LTE",
+    "type": "193",
+    "number": "280-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 280 der LTE Logistik- und Transport-GmbH. Modell exklusiv bei ROCO erhältlich. Aufwendige Bedruckung. Einsatz im internationalen Güterverkehr. Freistehende Griffstangen, teilweise aus Metall. Mit detaillierter Dachgestaltung. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht sowie FührerstandsbeleuchtungVon den Lokomotiven der Grazer LTE Logistik- und Transport-GmbH sind einige Lokomotiven mit auffälligen Lokdesigns gestaltet. Die seit 2020 im Dienst von LTE stehende Vectron-Mehrsystemlokomotive 193 280 erhielt im November 2022 ihr neues Kleid. Das mehrfarbige Design vermittelt dabei die Botschaften der LTE-Philosophie. Die Maschine ist mit dem Länderpaket D-A-CH-I-NL ausgestattet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79925-elektrolokomotive-193-280-5-lte.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245550.jpg"
+  },
+  "updatedAt": "2026-05-07T22:03:39Z"
+}

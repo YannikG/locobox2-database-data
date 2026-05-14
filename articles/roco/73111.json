@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73111",
+  "manufacturer": "Roco",
+  "articleNumber": "73111",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "85",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "II",
+    "luepMm": 187,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 85 002 der Deutschen Reichsbahn-Gesellschaft. Edition-Modell!Mit umfangreichen Soundfunktionen sowie dynamischen Dampf aus dem Schornstein ausgestattet. Der dynamische Dampf von ROCO sorgt für ein fahr- und geräuschsynchrones Rauchen der Lokomotive. Ausführung im edlen Fotografieranstrich. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Feine Metallradsätze. Mit einem schaltbaren roten Schlusslicht auf der TenderseiteInsgesamt wurden nur 10 Lokomotiven der rund 133 Tonnen schweren Tenderlokomotive für den Einsatz auf der sogenannten Höllentalbahn gebaut. Die Lokomotiven der Baureihe 85 waren damit die schwersten Tenderlokomotiven, die in Deutschland eingesetzt wurden. Aufgrund ihrer Zugkraft bewährten sich die bullig aussehenden Tenderlokomotiven schnell auf der Bergstrecke.Beim Fotografieranstrich handelt es sich um eine Sonderlackierung, die seitens der Lokomotivfabriken bei besonderen Lokomotiv-Exemplaren aufgetragen wurde, um zu den damaligen Zeiten eine bessere Darstellung auf Fotos zu erzielen. Dieser bestand aus abwaschbarer (Kalk-)Farbe und wurde nur zum Zwecke der Fotoarbeiten aufgetragen.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73111-dampflokomotive-85-002-drg.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/250384.jpg"
+  },
+  "updatedAt": "2026-05-07T21:20:19Z"
+}

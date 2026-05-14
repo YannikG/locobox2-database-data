@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-5100003",
+  "manufacturer": "Roco",
+  "articleNumber": "5100003",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 157.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "Roco",
+    "type": "Startset",
+    "number": null,
+    "livery": null,
+    "scale": "0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Analog Set: Weihnachtszug. Wiederauflage. LED-Spitzenlicht. Personenwagen: Mit abnehmbarem Dach. Güterwagen: Mit vier einzeln abnehmbaren Bordwänden. Stickerbogen beiliegend. Gleisoval in Schneeoptik. Modelle im Massstab 1:45Inhalt:1 Dampflokomotive1 Haubendach-Personenwagen1 Mittelbordwagen1 elektronischer Handregler1 SteckernetzteilROCO LINE-Gleisoval (mit Bettung):12 Gebogene Gleise R3, 1 Gerades Gleis G½, 1 Anschlussgleis (G½)Platzbedarf: ca. 110 x 100 cmFrohe Weihnachten – mit dem Weihnachtszug von ROCOGlänzende Kinderaugen, Erinnerungen an früher – mit dem Weihnachtszug von ROCO wird das Weihnachtsmärchen wahr! Das Set beinhaltet eine Dampflokomotive, einen Personenwagen sowie einen offenen Güterwagen mit Bordwänden, der sich ideal zum Beladen eignet. Alle Modelle sind sauber lackiert und lupenrein bedruckt. Zum kreativen Gestalten mit der Familie liegt ein umfangreicher Stickerbogen bei, damit lässt sich der Zug einfach personalisieren. Das Gleisoval in Schneeoptik eignet sich perfekt, den Zug um den heimischen Christbaum fahren zu lassen!",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/startsets/5100003-analog-set-weihnachtszug.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/255431.jpg"
+  },
+  "updatedAt": "2026-05-07T22:05:02Z"
+}

@@ -36,6 +36,42 @@ class TestProposeCountry(unittest.TestCase):
         art = {"model": {"country": None, "operator": "GTS Rail"}}
         self.assertEqual(c.propose_country(art), ("operator_map:GTS Rail", "IT"))
 
+    def test_pkp_cargo_pl(self) -> None:
+        art = {"model": {"country": None, "operator": "PKP Cargo"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:PKP Cargo", "PL"))
+
+    def test_bls_cargo_ch(self) -> None:
+        art = {"model": {"country": None, "operator": "BLS Cargo"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:BLS Cargo", "CH"))
+
+    def test_mercitalia_rail_it(self) -> None:
+        art = {"model": {"country": None, "operator": "Mercitalia Rail"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:Mercitalia Rail", "IT"))
+
+    def test_drg_de(self) -> None:
+        art = {"model": {"country": None, "operator": "DRG"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:DRG", "DE"))
+
+    def test_sncb_be(self) -> None:
+        art = {"model": {"country": None, "operator": "SNCB"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:SNCB", "BE"))
+
+    def test_ns_nl(self) -> None:
+        art = {"model": {"country": None, "operator": "NS"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:NS", "NL"))
+
+    def test_railpool_not_autofixed(self) -> None:
+        art = {"model": {"country": None, "operator": "Railpool"}}
+        self.assertIsNone(c.propose_country(art))
+
+    def test_lte_not_autofixed(self) -> None:
+        art = {"model": {"country": None, "operator": "LTE"}}
+        self.assertIsNone(c.propose_country(art))
+
+    def test_tx_logistik_not_autofixed(self) -> None:
+        art = {"model": {"country": None, "operator": "TX Logistik"}}
+        self.assertIsNone(c.propose_country(art))
+
     def test_skips_when_country_set(self) -> None:
         art = {"model": {"country": "DE", "operator": "DB"}}
         self.assertIsNone(c.propose_country(art))
