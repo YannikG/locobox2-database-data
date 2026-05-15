@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27512",
+  "manufacturer": "PIKO",
+  "articleNumber": "27512",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 174.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Schlepptenderlok BR 55 (G7.1) Fotolack DRG II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "II",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Schlepptenderlok BR 55 (G7.1) Fotolack DRG II Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27512\nEAN: 4015615275121\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 4\nSound: PIKO Sound-Decoder nachrüstbar #56629\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/schlepptenderlok-br-55-g7.1-fotolack-drg-ii-48584.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48584/thumbs/60445_533657.jpg"
+  },
+  "updatedAt": "2026-05-14T20:27:05Z"
+}

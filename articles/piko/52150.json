@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52150",
+  "manufacturer": "PIKO",
+  "articleNumber": "52150",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 409.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Sound-Dieseltriebwagen BR 798 + Steuerwagen Ulmer Spatz DB AG V, inkl. PIKO Sound-Decoder",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 321,
+    "minRadiusMm": 360
+  },
+  "description": "Sound-Dieseltriebwagen BR 798 + Steuerwagen Ulmer Spatz DB AG V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52150\nEAN: 4015615521501\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 321\nMindestradius [mm]: 360\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Beleuchtete seitliche Zugzielanzeige\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-br-798-steuerwagen-ulmer-spatz-db-ag-v,-inkl.-piko-sound-decoder-48969.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48969/thumbs/59784_526587.jpg"
+  },
+  "updatedAt": "2026-05-14T21:02:19Z"
+}

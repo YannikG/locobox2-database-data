@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21080",
+  "manufacturer": "PIKO",
+  "articleNumber": "21080",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 229.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CSD",
+    "type": "E-Lok BR 110 CSD IV",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 165,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 110 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21080\nEAN: 4015615210801\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 165\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56662\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-110-csd-iv-49579.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49579/thumbs/59497_526298.jpg"
+  },
+  "updatedAt": "2026-05-14T19:42:15Z"
+}

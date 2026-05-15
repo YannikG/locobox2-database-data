@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97836",
+  "manufacturer": "PIKO",
+  "articleNumber": "97836",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "D&RGW",
+    "type": "~Diesellok/Sound D&RGW 4003 modifiziert Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": null,
+    "luepMm": 231,
+    "minRadiusMm": 358
+  },
+  "description": "~Diesellok/Sound D&RGW 4003 modifiziert Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97836\nEAN: 4015615978367\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: D&RGW\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 231\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/~diesellok-sound-d-und-rgw-4003-modifiziert-wechselstromversion,-inkl.-piko-sound-decoder-45701.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45701/thumbs/61203_539085.jpg"
+  },
+  "updatedAt": "2026-05-14T21:50:06Z"
+}

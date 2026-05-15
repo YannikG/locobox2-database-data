@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21825",
+  "manufacturer": "PIKO",
+  "articleNumber": "21825",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Sound-Elektrotriebzug BR442 \"Talent 2\" S-Bahn Rostock DB AG VI 5tlg., inkl. PIKO Sound-Decoder",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 1002,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Elektrotriebzug BR442 \"Talent 2\" S-Bahn Rostock DB AG VI 5tlg., inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21825\nEAN: 4015615218258\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1002\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Werkseitig nicht für Innenbeleuchtung vorbereitet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrotriebzug-br442-talent-2-s-bahn-rostock-db-ag-vi-5tlg.,-inkl.-piko-sound-decoder-48990.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48990/thumbs/61882_547869.jpg"
+  },
+  "updatedAt": "2026-05-14T20:06:20Z"
+}

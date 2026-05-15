@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52118",
+  "manufacturer": "PIKO",
+  "articleNumber": "52118",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 154.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Diesellok BR 228 Sparlack DR V",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 228 Sparlack DR V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52118\nEAN: 4015615521181\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56557\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-228-sparlack-dr-v-48702.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_48702/thumbs/59770_526165.jpg"
+  },
+  "updatedAt": "2026-05-14T20:55:39Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21024",
+  "manufacturer": "PIKO",
+  "articleNumber": "21024",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 215.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "CSD",
+    "type": "E-Lok E669.1 CSD IV",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 216,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok E669.1 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21024\nEAN: 4015615210245\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 216\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56645\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-e669.1-csd-iv-49255.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49255/thumbs/61118_538602.jpg"
+  },
+  "updatedAt": "2026-05-14T19:35:14Z"
+}

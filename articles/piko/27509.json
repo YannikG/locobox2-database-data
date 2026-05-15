@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27509",
+  "manufacturer": "PIKO",
+  "articleNumber": "27509",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "SNCB",
+    "type": "Dampflok G7.1 Rh7000 SNCB III",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflok G7.1 Rh7000 SNCB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27509\nEAN: 4015615275091\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SNCB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 4\nSound: PIKO Sound-Decoder nachrüstbar #56629\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-g7.1-rh7000-sncb-iii-49569.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49569/thumbs/61885_547817.jpg"
+  },
+  "updatedAt": "2026-05-14T20:25:39Z"
+}
