@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Privatbahn",
-    "type": "Sound-Zweikraftlok \"dual mode\" BR 3193 Stern Hafferl VI, inkl. PIKO Sound-Decoder",
+    "type": "BR 3193",
     "number": null,
     "livery": null,
     "scale": "H0",

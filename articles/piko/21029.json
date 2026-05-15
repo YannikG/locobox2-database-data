@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "SK",
     "operator": "Privatbahn",
     "type": "E-Lok 181 STK VI",
     "number": null,

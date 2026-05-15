@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "D&RGW",
     "type": "Diesellok/Sound D&RGW 4003 modifiziert, inkl. PIKO Sound-Decoder",
     "number": null,

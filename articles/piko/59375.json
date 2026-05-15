@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Privatbahn",
     "type": "Sound-Diesellok G 1206 RailCargoGroup VI Wechselstromversion, inkl. PIKO Sound-Decoder",
     "number": null,

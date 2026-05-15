@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "E-Lok BR 111 122 DB IV",
-    "number": null,
+    "type": "BR 111",
+    "number": "122",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

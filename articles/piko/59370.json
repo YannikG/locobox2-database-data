@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "Diesellok G 1206 Northrail VI",
     "number": null,

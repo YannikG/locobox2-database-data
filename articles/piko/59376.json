@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
     "type": "Diesellok G 1206 RTS-Swietelsky NL VI",
     "number": null,

@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
-    "type": "Dampflok BR 335.1 CSD III",
+    "type": "BR 335.1",
     "number": null,
     "livery": null,
     "scale": "H0",

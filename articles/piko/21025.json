@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
     "type": "Sound-E-Lok E669.1 CSD IV, inkl. PIKO Sound-Decoder",
     "number": null,

@@ -17,7 +17,7 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * ČSD-Diesel: «T 669.0107» → ``T 669`` + ``0107``.
 * Dampf: «BR 35.10» (DDR EDV-Unterbauart) → ``BR 35`` + ``10`` + ``dampflokomotive``.
 * Dampf: «Rh 354.1» (ČSD) → ``Rh 354`` + ``1`` + ``dampflokomotive``.
-* Diesel: «V 300 005» → ``V 300`` + ``005`` + ``diesellokomotive``.
+* PIKO-Shop (``manufacturer``/URL): typische Titel mit ``BR``/``Rh`` + Baureihe nach Produktwörtern → ``type`` = Baureihe, ``number`` = ``null`` wenn keine Betriebsnummer im Titel steht.
 
 Usage::
 
@@ -35,7 +35,7 @@ from pathlib import Path
 from typing import Any, Callable, Optional
 
 Article = dict[str, Any]
-Proposal = tuple[str, str, str]  # rule_id, new_type, new_number
+Proposal = tuple[str, str, Optional[str]]  # rule_id, new_type, new_number (None = JSON null)
 
 
 def _type_str(model: dict[str, Any]) -> Optional[str]:
@@ -334,11 +334,100 @@ def _rule_3digit_3dash_taufname(t: str) -> Optional[Proposal]:
     return ("series_3_3dash_tail", m.group(1), m.group(2))
 
 
+def _is_piko_article(article: Article) -> bool:
+    if (article.get("manufacturer") or "").strip().upper() == "PIKO":
+        return True
+    url = ((article.get("source") or {}).get("url") or "").lower()
+    return "piko-shop.de" in url
+
+
+def _piko_strip_product_prefix(t: str) -> str:
+    """Entfernt führende PIKO-Produkt-/Sound-Präfixe (mehrfach, falls gestapelt)."""
+    u = t.strip()
+    u = re.sub(r"^[~]\s*", "", u)
+    u = re.sub(r"^Sound[- ]?Zugset\s+\d+tlg\.\s*", "", u, flags=re.I)
+    for _ in range(5):
+        old = u
+        u = re.sub(r"^Sound[- ]?", "", u, count=1, flags=re.I)
+        u = re.sub(
+            r"^(Zweikraftlok|Elektrotriebwagen|Dieseltriebwagen|Elektrolokomotive|Diesellokomotive|"
+            r"Schlepptenderlok|Dampflok|Elektrolok|Diesellok|E[- ]?Triebzug|E-Triebzug|E-Lok|Zugset)\s+",
+            "",
+            u,
+            count=1,
+            flags=re.I,
+        )
+        u = re.sub(r"^Diesellok/Sound\s+", "", u, count=1, flags=re.I)
+        u = u.strip()
+        if u == old:
+            break
+    return u
+
+
+def _piko_rest_plausible(rest: str) -> bool:
+    if not rest:
+        return True
+    r = rest.lstrip()
+    if r.startswith((",", '"', "\u201e", "(", "[", "„", "«")):
+        return True
+    low = rest.lower()
+    if low.startswith(("mit ", "modifiziert", "wechselstrom", "wechselstromversion", "inkl.", "fotolack")):
+        return True
+    if re.search(r"\b[IVX]{1,4}(?:-[IVX]+)?\b", rest, re.I):
+        return True
+    return False
+
+
+def _rule_piko_br_rh_series(article: Article) -> Optional[Proposal]:
+    """
+    PIKO: «E-Lok BR 184.1 DB IV» → ``BR 184.1`` + ``number`` ``null``;
+    «E-Lok BR 111 122 DB IV» → ``BR 111`` + ``122``;
+    «Sound-E-Lok BR 210 CD VI, inkl.…» → ``BR 210`` + ``null``.
+    Sucht ``BR``/``Rh``-Baureihe auch mitten in langen Shop-Titeln (Zugsets).
+    """
+    if not _is_piko_article(article):
+        return None
+    model = article.get("model") or {}
+    t = _type_str(model)
+    if not t or not _number_missing(model):
+        return None
+    if len(t) > 200:
+        return None
+    u = _piko_strip_product_prefix(t)
+    u = re.sub(r"\bBR(\d{3})\b", r"BR \1", u, flags=re.I)
+    u = re.sub(r"\bRh(\d{2,5})\b", r"Rh \1", u, flags=re.I)
+    m = re.search(
+        r"\b((?:BR|Rh)\s+\d+(?:\.\d+)?)(?:\s+(\d{2,4}))?(?=\s|$|[,\"\u201e\u201c(])",
+        u,
+        re.I,
+    )
+    if not m:
+        return None
+    series = re.sub(r"\s+", " ", m.group(1).strip())
+    sub_num = m.group(2)
+    tail = u[m.end() :].strip()
+    if sub_num:
+        rest = f"{sub_num} {tail}".strip() if tail else sub_num
+    else:
+        rest = tail
+    if series == t.strip():
+        return None
+    if not _piko_rest_plausible(rest):
+        return None
+    num_out: Optional[str] = sub_num if sub_num else None
+    return ("piko_br_rh_series", series, num_out)
+
+
 def propose_split(article: Article, *, include_br: bool = False) -> Optional[Proposal]:
     model = article.get("model") or {}
     t = _type_str(model)
     if not t or not _number_missing(model):
         return None
+
+    piko = _rule_piko_br_rh_series(article)
+    if piko:
+        return piko
+
     if len(t) > 72:
         return None
 
@@ -455,7 +544,7 @@ def main(argv: list[str]) -> int:
             print(f"error: not found: {p}", file=sys.stderr)
             return 1
 
-    changed: list[tuple[Path, str, str, str, str, str]] = []
+    changed: list[tuple[Path, str, str, str, str, Optional[str]]] = []
     for path in files:
         data = load_article(path)
         model = data.get("model")
@@ -474,11 +563,12 @@ def main(argv: list[str]) -> int:
         )
         if not dry_run:
             model["type"] = new_t
-            model["number"] = new_n
+            model["number"] = new_n if new_n not in (None, "") else None
             save_article(path, data)
 
     for path, rule_id, ot, on, nt, nn in changed:
-        print(f"{path}\t{rule_id}\t{ot!r} / {on!r} -> {nt!r} / {nn!r}")
+        nn_disp = "null" if nn is None else repr(nn)
+        print(f"{path}\t{rule_id}\t{ot!r} / {on!r} -> {nt!r} / {nn_disp}")
 
     if dry_run and changed:
         print(

@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "E-Lok BR 110.3 DB AG V",
+    "operator": "DB",
+    "type": "BR 110.3",
     "number": null,
     "livery": null,
     "scale": "H0",

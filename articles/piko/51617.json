@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "Sound-E-Lok 3E/1 PMP-PW IV, inkl. PIKO Sound-Decoder",
     "number": null,

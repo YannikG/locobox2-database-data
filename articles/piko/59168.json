@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
     "type": "Sound-Diesellok 6400 Railion Logistics NL VI, inkl. PIKO Sound-Decoder",
     "number": null,

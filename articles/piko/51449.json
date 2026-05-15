@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "HU",
     "operator": "MAV",
     "type": "E-Lok 431.194 MAV VI",
     "number": null,

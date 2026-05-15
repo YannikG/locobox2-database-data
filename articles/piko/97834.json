@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "D&RGW",
     "type": "Diesellok D&RGW 4003 modifiziert",
     "number": null,

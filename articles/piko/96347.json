@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "E-Lok 201E-277, PL-WISKO Wiskol (LOTOS) VI",
     "number": null,

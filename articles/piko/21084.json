@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
-    "type": "E-Lok BR 210 CD VI",
+    "type": "BR 210",
     "number": null,
     "livery": null,
     "scale": "H0",

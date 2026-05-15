@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Sound-Elektrotriebzug BR442 \"Talent 2\" S-Bahn Rostock VI 5tlg Wechselstrom, inkl. PIKO Sound-Decoder",
+    "operator": "DB",
+    "type": "BR 442",
     "number": null,
     "livery": null,
     "scale": "H0",

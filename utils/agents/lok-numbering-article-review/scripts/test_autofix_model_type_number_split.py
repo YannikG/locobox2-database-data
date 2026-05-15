@@ -208,6 +208,28 @@ class TestProposeSplit(unittest.TestCase):
         }
         self.assertIsNone(m.propose_split(art))
 
+    def test_piko_br_baureihe_ohne_nummer(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "E-Lok BR 184.1 DB IV", "number": None},
+            "source": {"url": "https://www.piko-shop.de/de/artikel/x.html"},
+        }
+        self.assertEqual(
+            m.propose_split(art),
+            ("piko_br_rh_series", "BR 184.1", None),
+        )
+
+    def test_piko_br_mit_betriebsnummer(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "E-Lok BR 111 122 DB IV", "number": None},
+            "source": {"url": "https://www.piko-shop.de/de/artikel/y.html"},
+        }
+        self.assertEqual(
+            m.propose_split(art),
+            ("piko_br_rh_series", "BR 111", "122"),
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

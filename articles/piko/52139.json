@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "Diesellok CTLR4C-001, CTL Rail 4 Chem V",
     "number": null,

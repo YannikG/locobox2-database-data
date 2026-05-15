@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "D&RGW",
     "type": "Sound-Diesellok ML 4001 D&RGW modifiziert Wechselstromversion, inkl. PIKO Sound-Decoder",
     "number": null,

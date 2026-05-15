@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "Sound-E-Lok 243 019 WFL VI, S-Bahn Leipzig Wechselstromversion, inkl. PIKO Sound-Decoder",
     "number": null,

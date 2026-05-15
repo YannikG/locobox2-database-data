@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Sound-Diesellok BR 215 DB AG V Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "operator": "DB",
+    "type": "BR 215",
     "number": null,
     "livery": null,
     "scale": "H0",

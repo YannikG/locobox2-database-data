@@ -76,6 +76,32 @@ class TestProposeCountry(unittest.TestCase):
         art = {"model": {"country": "DE", "operator": "DB"}}
         self.assertIsNone(c.propose_country(art))
 
+    def test_d_rgw_us(self) -> None:
+        art = {"model": {"country": None, "operator": "D&RGW"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:D&RGW", "US"))
+
+    def test_sp_southern_pacific_us(self) -> None:
+        art = {"model": {"country": None, "operator": "SP (Southern Pacific)"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:SP (Southern Pacific)", "US"))
+
+    def test_privatbahn_captrain_de(self) -> None:
+        art = {
+            "model": {"country": None, "operator": "Privatbahn", "type": "E-Lok BR 152 Captrain VI"},
+            "description": "x",
+        }
+        self.assertEqual(c.propose_country(art)[1], "DE")
+
+    def test_privatbahn_railion_nl(self) -> None:
+        art = {
+            "model": {
+                "country": None,
+                "operator": "Privatbahn",
+                "type": "Diesellok 6400 Railion Logistics NL VI",
+            },
+            "description": "x",
+        }
+        self.assertEqual(c.propose_country(art)[1], "NL")
+
 
 if __name__ == "__main__":
     unittest.main()

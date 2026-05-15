@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-Zweikraftlok \"dual mode\" BR 248 Press VI Wechselstrom, inkl. PIKO Sound-Decoder",
+    "type": "BR 248",
     "number": null,
     "livery": null,
     "scale": "H0",

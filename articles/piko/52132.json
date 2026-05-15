@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok BR 211 Northrail VI Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "BR 211",
     "number": null,
     "livery": null,
     "scale": "H0",

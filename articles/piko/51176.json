@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Zweikraftlok \"dual mode\" BR 248 Press VI",
+    "type": "BR 248",
     "number": null,
     "livery": null,
     "scale": "H0",

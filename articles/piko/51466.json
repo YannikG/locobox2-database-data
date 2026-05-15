@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "E-Triebzug EN 57 PKP SKM V",
     "number": null,

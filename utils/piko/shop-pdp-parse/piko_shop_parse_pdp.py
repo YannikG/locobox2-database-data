@@ -15,6 +15,7 @@ import html as html_lib
 import json
 import re
 import sys
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
@@ -147,29 +148,72 @@ def _parse_product_attributes_table(html: str) -> dict[str, str]:
     return out
 
 
-def _operator_to_country(operator: str) -> Optional[str]:
+def _normalize_piko_operator(operator: str) -> str:
+    """Shop-Schreibweisen auf übliche Kurzformen (Locobox-Konvention)."""
+    s = (operator or "").strip()
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFKC", s)
+    if s == "DB AG":
+        return "DB"
+    compact = re.sub(r"\s+", "", s).upper()
+    if compact == "OBB" and "Ö" not in s and "ö" not in s:
+        return "ÖBB"
+    return s
+
+
+_DR_ERA_DE_ONLY = re.compile(r"^(I|II|III)(-(I|II|III))*$", re.I)
+
+
+def _dr_country_from_era(era_raw: Optional[str]) -> str:
+    """DDR-Reichsbahn: Epoche IV → DD; reine I–III → DE; sonst konservativ DD (wie Autofix-Skill)."""
+    if not isinstance(era_raw, str) or not era_raw.strip():
+        return "DD"
+    eu = era_raw.strip().upper().replace(" ", "")
+    if "IV" in eu:
+        return "DD"
+    if _DR_ERA_DE_ONLY.fullmatch(eu):
+        return "DE"
+    return "DD"
+
+
+def _operator_to_country(operator: str, era: Optional[str] = None) -> Optional[str]:
     if not operator:
         return None
-    u = operator.upper().strip()
-    mapping = {
+    op = _normalize_piko_operator(operator)
+    if op == "DR":
+        return _dr_country_from_era(era)
+    mapping: dict[str, str] = {
         "DB": "DE",
-        "DR": "DE",
         "DRG": "DE",
-        "DB AG": "DE",
+        "K.W.St.E.": "DE",
         "ÖBB": "AT",
-        "OBB": "AT",
         "SBB": "CH",
+        "SBB Cargo": "CH",
         "BLS": "CH",
+        "BLS Cargo": "CH",
         "RhB": "CH",
         "Rhätische Bahn": "CH",
         "PKP": "PL",
+        "PKP Cargo": "PL",
+        "CSD": "CS",
+        "CD": "CZ",
+        "ZSSK": "SK",
+        "SNCB": "BE",
         "NS": "NL",
+        "VSM": "NL",
         "SNCF": "FR",
         "FS": "IT",
+        "GTS Rail": "IT",
+        "Mercitalia Rail": "IT",
+        "SBW": "AT",
+        "MAV": "HU",
         "SJ": "SE",
         "DSB": "DK",
+        "D&RGW": "US",
+        "SP (Southern Pacific)": "US",
     }
-    return mapping.get(u) or mapping.get(operator.strip()) or None
+    return mapping.get(op) or mapping.get(operator.strip())
 
 
 def _canonical_electric_system(strom: str, decoder: str, beleuchtung: str) -> Optional[str]:
@@ -237,14 +281,15 @@ def _apply_attributes_to_model(attrs: dict[str, str]) -> dict[str, Any]:
         "minRadiusMm": None,
     }
 
-    op = attrs.get("Bahnverwaltung", "").strip()
-    if op:
-        model["operator"] = op
-        model["country"] = _operator_to_country(op)
-
     era = attrs.get("Epoche", "").strip()
     if era:
         model["era"] = era
+
+    raw_op = attrs.get("Bahnverwaltung", "").strip()
+    op = _normalize_piko_operator(raw_op)
+    if op:
+        model["operator"] = op
+        model["country"] = _operator_to_country(op, model.get("era"))
 
     strom = attrs.get("Stromsystem", "").strip()
     dec = attrs.get("Digitale Schnittstelle", "").strip()

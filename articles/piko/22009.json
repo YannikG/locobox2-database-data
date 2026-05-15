@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok Rh 500 VSM VI Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "Rh 500",
     "number": null,
     "livery": null,
     "scale": "H0",

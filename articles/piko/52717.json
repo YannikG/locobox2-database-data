@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Diesellok BR 228 Cargo Logistic Rail VI",
+    "type": "BR 228",
     "number": null,
     "livery": null,
     "scale": "H0",

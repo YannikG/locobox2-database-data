@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "Diesellokomotive TRAXX Press VI Wechselstromversion",
     "number": null,

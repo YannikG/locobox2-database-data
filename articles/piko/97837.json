@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "SP (Southern Pacific)",
     "type": "Diesellok SP 9022 modifiziert",
     "number": null,

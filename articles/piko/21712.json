@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "Sound-E-Lok BR 111 122 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder",
-    "number": null,
+    "type": "BR 111",
+    "number": "122",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Sound-E-Lok BR 103 DB AG V Orientrot Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "operator": "DB",
+    "type": "BR 103",
     "number": null,
     "livery": null,
     "scale": "H0",

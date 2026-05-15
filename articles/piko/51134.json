@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-E-Lok BR 152 Captrain VI, inkl. PIKO Sound-Decoder",
+    "type": "BR 152",
     "number": null,
     "livery": null,
     "scale": "H0",

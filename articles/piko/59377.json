@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
     "type": "Sound-Diesellok G 1206 RTS-Swietelsky NL VI, inkl. PIKO Sound-Decoder",
     "number": null,

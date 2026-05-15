@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "Sound-Diesellok G 1206 Northrail VI Wechselstromversion, inkl. PIKO Sound-Decoder",
     "number": null,

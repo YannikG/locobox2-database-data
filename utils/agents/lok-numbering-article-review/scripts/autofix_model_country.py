@@ -9,7 +9,12 @@ Tier **A** — ``SKILL.md`` «Allowlist: model.country»::
 
 Tier **B** — explizite Operator→ISO-Zuordnung für klar staatliche oder eindeutig nationale Systeme
 (siehe ``_OPERATOR_COUNTRY``): u. a. **DB** → ``DE``, **CSD** → ``CS`` (wie bestehende ČSD-Artikel),
-**VSM** → ``NL``, **GTS Rail** → ``IT``, **SBW** (Starkenberger Güterlogistik) → ``AT``.
+**VSM** → ``NL``, **GTS Rail** → ``IT``, **SBW** (Starkenberger Güterlogistik) → ``AT``,
+**D&RGW** / **SP (Southern Pacific)** → ``US`` (Nordamerika).
+
+Tier **C** — **PIKO-Shop** ``operator`` «Privatbahn»: nur wenn ``model.type`` plus Fliesstext/
+``categories`` eindeutige Marken- oder Bahngesellschaftsanker enthalten (siehe
+``_privatbahn_infer_country``). Kein Blind-``DE`` für alle «Privatbahn»-Einträge.
 
 **DR** (Deutsche Reichsbahn): ``IV`` in ``model.era`` → ``DD``; reine Epochen **I**–**III**
 (ohne ``IV``) → ``DE``; **fehlende** Epoche oder andere Schreibweisen (z. B. **V**, **VI**) →
@@ -29,7 +34,7 @@ import re
 import sys
 import unicodedata
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Callable, Optional
 
 
 Article = dict[str, Any]
@@ -144,7 +149,55 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "BLS Cargo": "CH",
     "DRG": "DE",
     "SNCB": "BE",
+    "D&RGW": "US",
+    "SP (Southern Pacific)": "US",
 }
+
+
+def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
+    """
+    PIKO-Webshop setzt oft «Privatbahn» statt konkretem EVU. Nur bei klaren Textankern.
+    Reihenfolge: spezifischere Teilstrings zuerst (z. B. «Railion Logistics NL» vor «Railion»).
+    """
+    model = article.get("model") or {}
+    if not isinstance(model, dict):
+        return None
+    t = _norm_op(model.get("type"))
+    blob = _text_blob(article)
+    c = f"{t} {blob}".lower()
+
+    checks: list[tuple[str, str, Callable[[], bool]]] = [
+        ("privatbahn_pl_wisko", "PL", lambda: "pl-wisko" in c or "wiskol" in c or "lotos" in c),
+        ("privatbahn_pl_pmp", "PL", lambda: "pmp-pw" in c),
+        ("privatbahn_pl_pkp", "PL", lambda: "pkp skm" in c),
+        ("privatbahn_pl_ctl", "PL", lambda: "ctl rail" in c or "ctl logistics" in c),
+        ("privatbahn_pl_sm42", "PL", lambda: "sm42" in c),
+        ("privatbahn_nl_railion_nl", "NL", lambda: "railion logistics nl" in c),
+        ("privatbahn_nl_rts", "NL", lambda: "rts-swietelsky nl" in c),
+        ("privatbahn_dk_vltj", "DK", lambda: "vltj" in c),
+        ("privatbahn_at_hafferl", "AT", lambda: "stern hafferl" in c or "hafferl vi" in c),
+        ("privatbahn_at_setg", "AT", lambda: "setg" in c),
+        ("privatbahn_at_rcg", "AT", lambda: "railcargogroup" in c),
+        ("privatbahn_at_gkb", "AT", lambda: " gkb" in c or "gkb vi" in c),
+        ("privatbahn_at_schweerbau", "AT", lambda: "schweerbau" in c),
+        ("privatbahn_ch_sersa", "CH", lambda: "sersa" in c),
+        ("privatbahn_nl_vsm", "NL", lambda: " vsm" in c or "rh 500 vsm" in c),
+        ("privatbahn_sk_stk", "SK", lambda: re.search(r"181\s+stk", c) is not None),
+        ("privatbahn_de_medway", "DE", lambda: "medway" in c),
+        ("privatbahn_de_captrain", "DE", lambda: "captrain" in c),
+        ("privatbahn_de_northrail", "DE", lambda: "northrail" in c),
+        ("privatbahn_de_meg", "DE", lambda: " meg" in c or "meg vi" in c),
+        ("privatbahn_de_black_dragons", "DE", lambda: "black dragons" in c),
+        ("privatbahn_de_beacon", "DE", lambda: "beacon" in c),
+        ("privatbahn_de_clr", "DE", lambda: "cargo logistic rail" in c),
+        ("privatbahn_de_wfl", "DE", lambda: " wfl" in c or "wfl vi" in c),
+        ("privatbahn_de_press", "DE", lambda: ("traxx" in c and "press" in c) or ("br 248" in c and "press" in c)),
+        ("privatbahn_de_railion", "DE", lambda: "railion" in c),
+    ]
+    for rule_id, iso, fn in checks:
+        if fn():
+            return (rule_id, iso)
+    return None
 
 
 def propose_country(article: Article) -> Optional[tuple[str, str]]:
@@ -170,6 +223,9 @@ def propose_country(article: Article) -> Optional[tuple[str, str]]:
     if op == "DR":
         rule_id, iso = _dr_rule_and_country(model.get("era"))
         return (rule_id, iso)
+
+    if op == "Privatbahn":
+        return _privatbahn_infer_country(article)
 
     if op in _OPERATOR_COUNTRY:
         return (f"operator_map:{op}", _OPERATOR_COUNTRY[op])

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "HU",
     "operator": "MAV",
     "type": "Sound-Diesellok M44 MAV III, inkl. PIKO Sound-Decoder",
     "number": null,

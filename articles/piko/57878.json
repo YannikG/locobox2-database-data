@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "E-Lok 185 329 Black Dragons VI Wechselstromversion",
     "number": null,

@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Sound-E-Lok BR 110.3 DB AG V, inkl. PIKO Sound-Decoder",
+    "operator": "DB",
+    "type": "BR 110.3",
     "number": null,
     "livery": null,
     "scale": "H0",

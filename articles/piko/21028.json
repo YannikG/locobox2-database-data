@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
-    "type": "Sound-E-Lok BR 181 CD V, inkl. PIKO Sound-Decoder",
+    "type": "BR 181",
     "number": null,
     "livery": null,
     "scale": "H0",

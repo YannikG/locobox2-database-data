@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
-    "type": "E-Lok Rh 230 Cargo CD VI",
+    "type": "Rh 230",
     "number": null,
     "livery": null,
     "scale": "H0",

@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "BE",
     "operator": "SNCB",
-    "type": "Dampflok G7.1 Rh7000 SNCB III",
+    "type": "Rh 7000",
     "number": null,
     "livery": null,
     "scale": "H0",

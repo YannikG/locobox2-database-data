@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "Privatbahn",
-    "type": "Diesellok Vectron BR 247 Sersa VI",
+    "type": "BR 247",
     "number": null,
     "livery": null,
     "scale": "H0",

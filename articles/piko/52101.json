@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DK",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok BR 211 VLTJ V, inkl. PIKO Sound-Decoder",
+    "type": "BR 211",
     "number": null,
     "livery": null,
     "scale": "H0",

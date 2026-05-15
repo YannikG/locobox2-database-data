@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Privatbahn",
-    "type": "Sound-Zweikraftlok \"dual mode\" BR 248 SETG VI, inkl. PIKO Sound-Decoder",
+    "type": "BR 248",
     "number": null,
     "livery": null,
     "scale": "H0",

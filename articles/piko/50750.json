@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
-    "type": "Sound-Dampflok BR 335.1 CSD III, inkl. PIKO Sound-Decoder",
+    "type": "BR 335.1",
     "number": null,
     "livery": null,
     "scale": "H0",

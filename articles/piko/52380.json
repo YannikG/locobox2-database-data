@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "HU",
     "operator": "MAV",
     "type": "Diesellok M44 MAV III",
     "number": null,

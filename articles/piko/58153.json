@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Sound-Zugset 4tlg. Metropolitan BR 101 mit Personenwagen und Steuerwagen DB AG VI, inkl. PIKO Sound",
+    "operator": "DB",
+    "type": "BR 101",
     "number": null,
     "livery": null,
     "scale": "H0",

@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "E-Lok BR 185 Beacon VI Wechselstromversion",
+    "type": "BR 185",
     "number": null,
     "livery": null,
     "scale": "H0",

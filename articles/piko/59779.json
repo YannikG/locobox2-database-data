@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "Diesellok S-200 CTL Logistics VI",
     "number": null,

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "SP (Southern Pacific)",
     "type": "Diesellok/Sound SP 9022 modifiziert Wechselstromversion, inkl. PIKO Sound-Decoder",
     "number": null,

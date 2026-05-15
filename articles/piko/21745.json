@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "CD",
-    "type": "Sound-E-Lok Rh 240 CD Cargo VI Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "Rh 240",
     "number": null,
     "livery": null,
     "scale": "H0",

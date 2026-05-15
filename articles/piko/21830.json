@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Elektrolok Vectron BR 7193 Medway VI",
+    "type": "BR 7193",
     "number": null,
     "livery": null,
     "scale": "H0",

@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
-    "type": "Diesellok Rh 500 VSM VI",
+    "type": "Rh 500",
     "number": null,
     "livery": null,
     "scale": "H0",

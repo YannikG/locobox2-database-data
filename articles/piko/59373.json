@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Privatbahn",
     "type": "Diesellok G 1206 RailCargoGroup VI",
     "number": null,

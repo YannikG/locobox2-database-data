@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-Elektrolok Vectron BR 7193 Medway VI, inkl. PIKO Sound-Decoder",
+    "type": "BR 7193",
     "number": null,
     "livery": null,
     "scale": "H0",

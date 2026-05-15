@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "Privatbahn",
     "type": "Sound-Diesellok CTLR4C-001, CTL Rail 4 Chem V, inkl. PIKO Sound-Decoder",
     "number": null,

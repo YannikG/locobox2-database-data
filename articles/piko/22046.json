@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok BR 296 Railion VI Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "BR 296",
     "number": null,
     "livery": null,
     "scale": "H0",

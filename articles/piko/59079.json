@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "AT",
     "operator": "Privatbahn",
     "type": "Diesellok G 1700 GKB VI Wechselstromversion",
     "number": null,

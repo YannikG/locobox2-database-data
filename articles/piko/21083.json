@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
-    "type": "Sound-E-Lok BR 110 CSD IV Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "BR 110",
     "number": null,
     "livery": null,
     "scale": "H0",

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "CSD",
     "type": "Sound-Diesellok T669 CSD IV, inkl. PIKO Sound-Decoder",
     "number": null,

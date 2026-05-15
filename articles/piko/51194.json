@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
+    "country": "DD",
     "operator": "DR",
-    "type": "Sound-E-Lok BR 244 DR IV, inkl. PIKO Sound-Decoder",
+    "type": "BR 244",
     "number": null,
     "livery": null,
     "scale": "H0",

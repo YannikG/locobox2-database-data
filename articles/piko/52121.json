@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB AG",
-    "type": "Diesellok BR 219 DB AG V",
+    "operator": "DB",
+    "type": "BR 219",
     "number": null,
     "livery": null,
     "scale": "H0",

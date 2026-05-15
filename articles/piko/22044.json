@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "Diesellok BR 296 Railion VI",
+    "type": "BR 296",
     "number": null,
     "livery": null,
     "scale": "H0",
