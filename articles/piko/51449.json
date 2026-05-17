@@ -11,8 +11,8 @@
   "model": {
     "country": "HU",
     "operator": "MAV",
-    "type": "431.194",
-    "number": null,
+    "type": "431",
+    "number": "194",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

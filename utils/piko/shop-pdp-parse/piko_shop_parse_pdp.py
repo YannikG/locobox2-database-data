@@ -286,13 +286,15 @@ def _apply_piko_type_fixup(article: dict[str, Any]) -> None:
     fix = mod.propose_fix(article)
     if not fix:
         return
-    _, new_t, new_n, new_liv = fix
+    _, new_t, new_n, new_liv, new_op = fix
     model = article["model"]
     model["type"] = new_t
     if new_n:
         model["number"] = new_n
     if new_liv and not model.get("livery"):
         model["livery"] = new_liv
+    if new_op:
+        model["operator"] = new_op
 
 
 def _apply_attributes_to_model(attrs: dict[str, str]) -> dict[str, Any]:

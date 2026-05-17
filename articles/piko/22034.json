@@ -11,9 +11,9 @@
   "model": {
     "country": "IT",
     "operator": "FS",
-    "type": "D.445 3.Serie mit Schneepflug",
+    "type": "D.445",
     "number": null,
-    "livery": null,
+    "livery": "3.Serie mit Schneepflug",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",

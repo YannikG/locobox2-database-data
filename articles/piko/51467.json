@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "PL",
-    "operator": "Privatbahn",
-    "type": "EN 57 PKP SKM",
+    "operator": "PKP SKM",
+    "type": "EN 57",
     "number": null,
-    "livery": null,
+    "livery": "SKM",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",

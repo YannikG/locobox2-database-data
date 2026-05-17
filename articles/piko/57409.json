@@ -11,9 +11,9 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Taurus CityJet",
+    "type": "1216",
     "number": null,
-    "livery": null,
+    "livery": "CityJet",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",

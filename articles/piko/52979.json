@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "\"Desiro\" bwegt",
+    "type": "Desiro",
     "number": null,
-    "livery": null,
+    "livery": "bwegt",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

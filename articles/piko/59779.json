@@ -11,9 +11,9 @@
   "model": {
     "country": "PL",
     "operator": "Privatbahn",
-    "type": "S-200 CTL Logistics",
+    "type": "S-200",
     "number": null,
-    "livery": null,
+    "livery": "CTL Logistics",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",

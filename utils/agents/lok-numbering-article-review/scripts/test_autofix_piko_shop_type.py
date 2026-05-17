@@ -15,7 +15,7 @@ class TestPikoShopType(unittest.TestCase):
             "description": "",
             "source": {"url": "https://www.piko-shop.de/"},
         }
-        self.assertEqual(m.propose_fix(art), ("piko_br_rh", "BR 184.1", None, None))
+        self.assertEqual(m.propose_fix(art), ("piko_br_rh", "BR 184.1", None, None, None))
 
     def test_uic_185_329(self) -> None:
         art = {
@@ -24,7 +24,7 @@ class TestPikoShopType(unittest.TestCase):
             "description": "",
             "source": {"url": "https://www.piko-shop.de/"},
         }
-        self.assertEqual(m.propose_fix(art), ("piko_uic_br", "BR 185", "329", "Black Dragons"))
+        self.assertEqual(m.propose_fix(art), ("piko_uic_br", "BR 185", "329", "Black Dragons", None))
 
     def test_vectron_7193(self) -> None:
         art = {
@@ -33,7 +33,31 @@ class TestPikoShopType(unittest.TestCase):
             "description": "Sound-Elektrolok Vectron BR 7193 Medway VI",
             "source": {"url": "https://www.piko-shop.de/"},
         }
-        self.assertEqual(m.propose_fix(art), ("piko_vectron", "BR 193", "7193", "Medway"))
+        self.assertEqual(m.propose_fix(art), ("piko_vectron", "BR 193", "7193", "Medway", None))
+
+    def test_d445_variant(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "D.445 1. Serie mit Logo", "number": None, "livery": None, "country": "IT"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(
+            m.propose_fix(art),
+            ("piko_d445", "D.445", None, "1. Serie mit Logo", None),
+        )
+
+    def test_desiro(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": '"Desiro" Saarlandbahn', "number": None, "livery": None, "country": "DE"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(
+            m.propose_fix(art),
+            ("piko_desiro", "Desiro", None, "Saarlandbahn", None),
+        )
 
     def test_v200_messe(self) -> None:
         art = {
@@ -42,7 +66,7 @@ class TestPikoShopType(unittest.TestCase):
             "description": "",
             "source": {"url": "https://www.piko-shop.de/"},
         }
-        self.assertEqual(m.propose_fix(art), ("piko_v200", "V 200", "1001", "Messe Leipzig"))
+        self.assertEqual(m.propose_fix(art), ("piko_v200", "V 200", "1001", "Messe Leipzig", None))
 
 
 if __name__ == "__main__":

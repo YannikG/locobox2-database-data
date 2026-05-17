@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import Any, Optional
 
 Article = dict[str, Any]
-Fix = tuple[str, str, Optional[str], Optional[str]]  # rule, type, number, livery
+Fix = tuple[str, str, Optional[str], Optional[str], Optional[str]]  # rule, type, number, livery, operator
 
 _ROMAN = r"(?:I{1,3}|IV|V|VI|III-IV|II-III|IV-V|V-VI)"
 _ROMAN_RE = re.compile(rf"\b{_ROMAN}\b", re.I)
@@ -101,6 +101,47 @@ def _pick_livery(article: Article, candidate: Optional[str]) -> Optional[str]:
     return c
 
 
+    return c
+
+
+def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
+    """Feinsplit type/livery (und ggf. operator) auf bereits bereinigten ``type``-Strings."""
+    model = article.get("model") or {}
+
+    m = re.match(r"^D\.445\s+(.+)$", clean, re.I)
+    if m:
+        liv = _pick_livery(article, m.group(1).strip())
+        if liv or clean != "D.445":
+            return ("piko_d445", "D.445", None, liv, None)
+
+    m = re.match(r"^(CTLR4C-\d+),?\s*(.+)$", clean, re.I)
+    if m:
+        return ("piko_ctlr", m.group(1), None, _pick_livery(article, m.group(2).strip()), None)
+
+    if re.fullmatch(r"EP09 PKP IC", clean, re.I):
+        return ("piko_ep09", "EP09", None, _pick_livery(article, "IC"), None)
+
+    if re.fullmatch(r"EN 57 PKP SKM", clean, re.I):
+        return ("piko_en57", "EN 57", None, _pick_livery(article, "SKM"), "PKP SKM")
+
+    m = re.fullmatch(r'"Desiro"\s+(.+)', clean, re.I)
+    if m:
+        return ("piko_desiro", "Desiro", None, _pick_livery(article, m.group(1).strip()), None)
+
+    if re.fullmatch(r"Taurus CityJet", clean, re.I):
+        return ("piko_taurus", "1216", None, _pick_livery(article, "CityJet"), None)
+
+    m = re.fullmatch(r"S-200\s+(.+)", clean, re.I)
+    if m:
+        return ("piko_s200", "S-200", None, _pick_livery(article, m.group(1).strip()), None)
+
+    m = re.fullmatch(r"431\.(\d+)", clean)
+    if m and (model.get("operator") or "").upper() == "MAV":
+        return ("piko_mav_dot", "431", m.group(1), None, None)
+
+    return None
+
+
 def propose_fix(article: Article) -> Optional[Fix]:
     if not _is_piko(article):
         return None
@@ -125,19 +166,19 @@ def propose_fix(article: Article) -> Optional[Fix]:
             liv = "Medway"
         elif "stern hafferl" in desc_l:
             liv = "Stern Hafferl"
-        return ("piko_vectron", "BR 193", num, liv)
+        return ("piko_vectron", "BR 193", num, liv, None)
 
     # BR 243 / 143 WFL (vor generischem UIC-Split)
     m = re.match(r"^(\d{3}) (\d{2,3})\b", clean)
     if m and m.group(1) in ("143", "243") and "wfl" in desc_l:
         liv = _pick_livery(article, "S-Bahn Leipzig" if "s-bahn leipzig" in desc_l else None)
-        return ("piko_br243", f"BR {m.group(1)}", m.group(2), liv)
+        return ("piko_br243", f"BR {m.group(1)}", m.group(2), liv, None)
 
     # Deutsche UIC ohne BR: «185 329 Black Dragons»
     m = re.fullmatch(r"(\d{3}) (\d{2,3})(?:\s+(.+))?", clean)
     if m and (model.get("country") or "") in ("DE", "AT", "CH", "DD"):
         liv = _pick_livery(article, m.group(3))
-        return ("piko_uic_br", f"BR {m.group(1)}", m.group(2), liv)
+        return ("piko_uic_br", f"BR {m.group(1)}", m.group(2), liv, None)
 
     # BR 243 / 143-Stil: «243 019 WFL» — handled above
 
@@ -147,12 +188,12 @@ def propose_fix(article: Article) -> Optional[Fix]:
         liv = None
         if "messe leipzig" in desc_l or "messe leipzig" in raw.lower():
             liv = _pick_livery(article, "Messe Leipzig")
-        return ("piko_v200", "V 200", m.group(1), liv)
+        return ("piko_v200", "V 200", m.group(1), liv, None)
 
     # Polnisch: «201E-277»
     m = re.fullmatch(r"([\dA-Z]+E)-(\d{2,3})(?:,.*)?", clean, re.I)
     if m:
-        return ("piko_pl_e", m.group(1), m.group(2), None)
+        return ("piko_pl_e", m.group(1), m.group(2), None, None)
 
     # BR / Rh (inkl. langer Shop-Titel nach Clean)
     m = re.search(
@@ -166,28 +207,32 @@ def propose_fix(article: Article) -> Optional[Fix]:
         tail = clean[m.end() :].strip()
         if series != raw.strip() or sub or tail:
             liv = _pick_livery(article, tail if not sub else None)
-            return ("piko_br_rh", series, sub, liv)
+            return ("piko_br_rh", series, sub, liv, None)
 
     # NL/CH Diesellok «6400 Railion …»
     m = re.fullmatch(r"(\d{4})(?:\s+(.+))?", clean)
     if m and (model.get("country") or "") in ("NL", "BE", "LU"):
         liv = _pick_livery(article, m.group(2))
-        return ("piko_nl_class", m.group(1), None, liv)
+        return ("piko_nl_class", m.group(1), None, liv, None)
 
     # G 1206 / SM42 + Miet-Lackierer
     m = re.fullmatch(r"G (\d{4})(?:\s+(.+))?", clean, re.I)
     if m:
         liv = _pick_livery(article, m.group(2))
-        return ("piko_g_class", f"G {m.group(1)}", None, liv)
+        return ("piko_g_class", f"G {m.group(1)}", None, liv, None)
 
     m = re.fullmatch(r"SM42(?:\s+(.+))?", clean, re.I)
     if m:
         liv = _pick_livery(article, m.group(1))
-        return ("piko_sm42", "SM42", None, liv)
+        return ("piko_sm42", "SM42", None, liv, None)
+
+    refined = _propose_refined_split(clean, article)
+    if refined:
+        return refined
 
     # Nur bereinigen
     if clean != raw.strip():
-        return ("piko_clean", clean, None, None)
+        return ("piko_clean", clean, None, None, None)
 
     return None
 
@@ -220,19 +265,28 @@ def main(argv: list[str]) -> int:
         fix = propose_fix(data)
         if not fix:
             continue
-        rule, new_t, new_n, new_liv = fix
+        rule, new_t, new_n, new_liv, new_op = fix
         model = data["model"]
         old_t, old_n, old_liv = model.get("type"), model.get("number"), model.get("livery")
-        if old_t == new_t and old_n == new_n and (new_liv is None or old_liv == new_liv):
+        old_op = model.get("operator")
+        if (
+            old_t == new_t
+            and old_n == new_n
+            and (new_liv is None or old_liv == new_liv)
+            and (new_op is None or old_op == new_op)
+        ):
             continue
         nn = "null" if new_n is None else repr(new_n)
         liv = "" if new_liv is None else f" livery={new_liv!r}"
-        print(f"{path}\t{rule}\t{old_t!r}/{old_n!r} -> {new_t!r}/{nn}{liv}")
+        op = "" if new_op is None else f" operator={new_op!r}"
+        print(f"{path}\t{rule}\t{old_t!r}/{old_n!r} -> {new_t!r}/{nn}{liv}{op}")
         if not dry:
             model["type"] = new_t
             model["number"] = new_n if new_n else None
             if new_liv and _livery_ok(old_liv):
                 model["livery"] = new_liv
+            if new_op:
+                model["operator"] = new_op
             path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         changed += 1
 

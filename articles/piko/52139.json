@@ -11,9 +11,9 @@
   "model": {
     "country": "PL",
     "operator": "Privatbahn",
-    "type": "CTLR4C-001, CTL Rail 4 Chem",
+    "type": "CTLR4C-001",
     "number": null,
-    "livery": null,
+    "livery": "CTL Rail 4 Chem",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
