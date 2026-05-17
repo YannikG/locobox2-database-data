@@ -17,7 +17,7 @@
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": null,
+    "era": "III",
     "luepMm": 231,
     "minRadiusMm": 358
   },
