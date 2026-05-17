@@ -3,7 +3,7 @@
   "id": "piko-22010",
   "manufacturer": "PIKO",
   "articleNumber": "22010",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 199.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok Rangiertraktor Rh 600 DSB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22010\nEAN: 4015615220107\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DSB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 104\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar # 56642\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-rangiertraktor-rh-600-dsb-iii-49448.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

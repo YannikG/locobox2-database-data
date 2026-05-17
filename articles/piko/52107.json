@@ -3,7 +3,7 @@
   "id": "piko-52107",
   "manufacturer": "PIKO",
   "articleNumber": "52107",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 200.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok ST44 PKP Cargo V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52107\nEAN: 4015615521075\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 202\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56538\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-st44-pkp-cargo-v-45490.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

@@ -3,7 +3,7 @@
   "id": "piko-97508",
   "manufacturer": "PIKO",
   "articleNumber": "97508",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 355.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-E-Lok 1008 NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97508\nEAN: 4015615975083\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 187\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-1008-ns-iii,-inkl.-piko-sound-decoder-49075.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

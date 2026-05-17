@@ -3,7 +3,7 @@
   "id": "piko-27510",
   "manufacturer": "PIKO",
   "articleNumber": "27510",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 293.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Schlepptenderlok G7.1 Rh7000 SNCB III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27510\nEAN: 4015615275107\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: SNCB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 4\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-schlepptenderlok-g7.1-rh7000-sncb-iii,-inkl.-piko-sound-decoder-49573.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

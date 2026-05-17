@@ -3,7 +3,7 @@
   "id": "piko-52078",
   "manufacturer": "PIKO",
   "articleNumber": "52078",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 441.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Dieseltriebwagen \"Desiro\" Saarlandbahn DB AG VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52078\nEAN: 4015615520788\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 479\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-desiro-saarlandbahn-db-ag-vi,-inkl.-piko-sound-decoder-49004.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

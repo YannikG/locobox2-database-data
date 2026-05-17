@@ -3,7 +3,7 @@
   "id": "piko-22005",
   "manufacturer": "PIKO",
   "articleNumber": "22005",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 309.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Diesellok Rh 500 NS IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22005\nEAN: 4015615220053\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 104\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56642\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-rh-500-ns-iv,-inkl.-piko-sound-decoder-49114.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

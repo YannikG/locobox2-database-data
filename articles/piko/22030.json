@@ -3,7 +3,7 @@
   "id": "piko-22030",
   "manufacturer": "PIKO",
   "articleNumber": "22030",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 299.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok D.445 1. Serie mit Logo FS V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22030\nEAN: 4015615220305\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-d.445-1.-serie-mit-logo-fs-v-49174.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

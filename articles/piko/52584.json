@@ -3,7 +3,7 @@
   "id": "piko-52584",
   "manufacturer": "PIKO",
   "articleNumber": "52584",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 179.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok V200 1001 DR III, Messe Leipzig Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52584\nEAN: 4015615525844\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56554\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-v200-1001-dr-iii,-messe-leipzig-49377.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

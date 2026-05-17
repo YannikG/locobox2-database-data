@@ -3,7 +3,7 @@
   "id": "piko-22044",
   "manufacturer": "PIKO",
   "articleNumber": "22044",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 199.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok BR 296 Railion VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22044\nEAN: 4015615220442\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 165\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56655\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-br-296-railion-vi-49572.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
