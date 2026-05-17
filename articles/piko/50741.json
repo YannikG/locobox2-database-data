@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50741",
+  "manufacturer": "PIKO",
+  "articleNumber": "50741",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 369.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 691",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "III",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok Rh 691 ÖBB III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50741\nEAN: 4015615507413\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nVerbauter Decoder: PluX16 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-rh-691-oebb-iii,-inkl.-piko-sound-decoder-45694.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45694/thumbs/58072_509506.jpg"
+  },
+  "updatedAt": "2026-05-14T20:31:23Z"
+}

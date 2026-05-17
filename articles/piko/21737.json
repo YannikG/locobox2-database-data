@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21737",
+  "manufacturer": "PIKO",
+  "articleNumber": "21737",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 275.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "Rh 230",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok Rh 230 Cargo CD VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21737\nEAN: 4015615217374\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56586\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-230-cargo-cd-vi-45709.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45709/thumbs/58271_511591.jpg"
+  },
+  "updatedAt": "2026-05-14T19:49:20Z"
+}

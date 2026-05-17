@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21778",
+  "manufacturer": "PIKO",
+  "articleNumber": "21778",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 110.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR 110.3 DB AG V Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21778\nEAN: 4015615217787\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-110.3-db-ag-v-wechselstromversion,-inkl.-piko-sound-decoder-49082.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49082/thumbs/59508_526265.jpg"
+  },
+  "updatedAt": "2026-05-14T19:57:23Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21744",
+  "manufacturer": "PIKO",
+  "articleNumber": "21744",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 385.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "Rh 240",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok Rh 240 CD Cargo VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21744\nEAN: 4015615217442\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-rh-240-cd-cargo-vi,-inkl.-piko-sound-decoder-45727.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45727/thumbs/58275_511595.jpg"
+  },
+  "updatedAt": "2026-05-14T19:51:14Z"
+}

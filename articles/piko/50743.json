@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50743",
+  "manufacturer": "PIKO",
+  "articleNumber": "50743",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 259.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 91",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "II",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Dampflok BR 91 DRG II Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50743\nEAN: 4015615507437\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56643\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-91-drg-ii-49206.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49206/thumbs/59733_526223.jpg"
+  },
+  "updatedAt": "2026-05-14T20:32:21Z"
+}

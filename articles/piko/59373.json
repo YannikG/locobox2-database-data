@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59373",
+  "manufacturer": "PIKO",
+  "articleNumber": "59373",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 155.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "Privatbahn",
+    "type": "G 1206",
+    "number": null,
+    "livery": "RailCargoGroup",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok G 1206 RailCargoGroup VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59373\nEAN: 4015615593737\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56555\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-g-1206-railcargogroup-vi-49111.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49111/thumbs/59865_527061.jpg"
+  },
+  "updatedAt": "2026-05-14T21:32:28Z"
+}

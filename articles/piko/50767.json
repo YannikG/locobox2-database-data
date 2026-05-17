@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50767",
+  "manufacturer": "PIKO",
+  "articleNumber": "50767",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 493.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "TKt48",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 163,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok TKt48 PKP III, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50767\nEAN: 4015615507673\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 163\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-tkt48-pkp-iii,-inkl.-piko-sound-decoder-und-dampfgenerator-49214.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49214/thumbs/59744_526193.jpg"
+  },
+  "updatedAt": "2026-05-14T20:36:40Z"
+}

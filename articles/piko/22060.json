@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-22060",
+  "manufacturer": "PIKO",
+  "articleNumber": "22060",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 199.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 215",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 188,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 215 DB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22060\nEAN: 4015615220602\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 188\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56656\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-215-db-iv-49486.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49486/thumbs/60811_536572.jpg"
+  },
+  "updatedAt": "2026-05-14T20:21:51Z"
+}

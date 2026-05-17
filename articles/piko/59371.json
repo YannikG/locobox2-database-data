@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59371",
+  "manufacturer": "PIKO",
+  "articleNumber": "59371",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 265.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "G 1206",
+    "number": null,
+    "livery": "Northrail",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok G 1206 Northrail VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59371\nEAN: 4015615593713\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-g-1206-northrail-vi,-inkl.-piko-sound-decoder-49107.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49107/thumbs/61901_548000.jpg"
+  },
+  "updatedAt": "2026-05-14T21:31:31Z"
+}

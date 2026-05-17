@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97533",
+  "manufacturer": "PIKO",
+  "articleNumber": "97533",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "EP09",
+    "number": null,
+    "livery": "IC",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok EP09 PKP IC IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97533\nEAN: 4015615975335\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-ep09-pkp-ic-iv,-inkl.-piko-sound-decoder-49409.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49409/thumbs/59896_528031.jpg"
+  },
+  "updatedAt": "2026-05-14T21:46:17Z"
+}

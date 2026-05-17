@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52380",
+  "manufacturer": "PIKO",
+  "articleNumber": "52380",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 209.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "M44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 130,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok M44 MAV III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52380\nEAN: 4015615523802\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 130\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56646\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-m44-mav-iii-48018.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_48018/thumbs/60286_532344.jpg"
+  },
+  "updatedAt": "2026-05-14T21:08:02Z"
+}

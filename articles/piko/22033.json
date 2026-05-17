@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-22033",
+  "manufacturer": "PIKO",
+  "articleNumber": "22033",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.445",
+    "number": null,
+    "livery": "2. Serie Navetta",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok D.445 2. Serie Navetta FS IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22033\nEAN: 4015615220336\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-d.445-2.-serie-navetta-fs-iv,-inkl.-piko-sound-decoder-49177.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49177/thumbs/59547_526555.jpg"
+  },
+  "updatedAt": "2026-05-14T20:16:42Z"
+}

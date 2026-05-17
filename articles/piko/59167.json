@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59167",
+  "manufacturer": "PIKO",
+  "articleNumber": "59167",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 155.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "Privatbahn",
+    "type": "6400",
+    "number": null,
+    "livery": "Railion Logistics NL",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok 6400 Railion Logistics NL VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59167\nEAN: 4015615591672\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56555\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-6400-railion-logistics-nl-vi-45721.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45721/thumbs/58004_508744.jpg"
+  },
+  "updatedAt": "2026-05-14T21:27:43Z"
+}

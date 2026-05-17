@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57876",
+  "manufacturer": "PIKO",
+  "articleNumber": "57876",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 175.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "BR 145",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 145 MEG VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57876\nEAN: 4015615578765\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nBesonderheiten: Lokführerfigur im Führerstand\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-145-meg-vi-wechselstromversion-45713.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45713/thumbs/58907_518994.jpg"
+  },
+  "updatedAt": "2026-05-14T21:22:25Z"
+}

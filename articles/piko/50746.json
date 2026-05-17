@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50746",
+  "manufacturer": "PIKO",
+  "articleNumber": "50746",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 259.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 75",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "III",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Dampflok Rh 75 ex BR 91 NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50746\nEAN: 4015615507468\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56643\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-rh-75-ex-br-91-ns-iii-49601.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49601/thumbs/59736_526217.jpg"
+  },
+  "updatedAt": "2026-05-14T20:33:47Z"
+}

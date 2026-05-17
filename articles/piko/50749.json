@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50749",
+  "manufacturer": "PIKO",
+  "articleNumber": "50749",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 259.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "BR 335.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "III",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Dampflok BR 335.1 CSD III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50749\nEAN: 4015615507499\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56643\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-335.1-csd-iii-49284.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49284/thumbs/59739_526215.jpg"
+  },
+  "updatedAt": "2026-05-14T20:35:14Z"
+}

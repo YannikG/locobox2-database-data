@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97834",
+  "manufacturer": "PIKO",
+  "articleNumber": "97834",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "D&RGW",
+    "type": "D&RGW 4003",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 231,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok D&RGW 4003 modifiziert Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97834\nEAN: 4015615978343\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: D&RGW\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 231\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder nachrüstbar #56627\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-d-und-rgw-4003-modifiziert-45699.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45699/thumbs/61201_539111.jpg"
+  },
+  "updatedAt": "2026-05-14T21:49:08Z"
+}

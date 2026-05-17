@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51832",
+  "manufacturer": "PIKO",
+  "articleNumber": "51832",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 409.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 52",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IIII",
+    "luepMm": 198,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok E 52 DB III inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51832\nEAN: 4015615518327\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IIII\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 198\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-e-52-db-iii-inkl.-piko-sound-decoder-49132.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49132/thumbs/59765_528132.jpg"
+  },
+  "updatedAt": "2026-05-14T20:51:21Z"
+}

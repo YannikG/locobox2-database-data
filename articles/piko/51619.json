@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51619",
+  "manufacturer": "PIKO",
+  "articleNumber": "51619",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "ET 21",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok ET 21 PKP III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51619\nEAN: 4015615516194\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-et-21-pkp-iii,-inkl.-piko-sound-decoder-49030.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49030/thumbs/59760_526465.jpg"
+  },
+  "updatedAt": "2026-05-14T20:48:59Z"
+}

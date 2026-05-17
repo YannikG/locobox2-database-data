@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-22004",
+  "manufacturer": "PIKO",
+  "articleNumber": "22004",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 199.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 500",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 104,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok Rh 500 NS IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22004\nEAN: 4015615220046\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 104\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar # 56642\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-rh-500-ns-iv-49112.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49112/thumbs/61269_539585.jpg"
+  },
+  "updatedAt": "2026-05-14T20:11:02Z"
+}

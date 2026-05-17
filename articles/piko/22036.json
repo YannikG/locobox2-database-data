@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-22036",
+  "manufacturer": "PIKO",
+  "articleNumber": "22036",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.445",
+    "number": null,
+    "livery": "1. Serie XMPR",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok D.445 1. Serie XMPR FS VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22036\nEAN: 4015615220367\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-d.445-1.-serie-xmpr-fs-vi-49180.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49180/thumbs/59550_526551.jpg"
+  },
+  "updatedAt": "2026-05-14T20:18:06Z"
+}

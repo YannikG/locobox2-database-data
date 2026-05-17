@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21776",
+  "manufacturer": "PIKO",
+  "articleNumber": "21776",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 219.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 110.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 110.3 DB AG V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21776\nEAN: 4015615217763\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56571\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-110.3-db-ag-v-49080.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49080/thumbs/59506_526184.jpg"
+  },
+  "updatedAt": "2026-05-14T19:56:26Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51423",
+  "manufacturer": "PIKO",
+  "articleNumber": "51423",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "E 32",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "II",
+    "luepMm": 150,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok E 32 DRG II Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51423\nEAN: 4015615514237\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 150\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56594\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-e-32-drg-ii-49086.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49086/thumbs/59753_526173.jpg"
+  },
+  "updatedAt": "2026-05-14T20:43:18Z"
+}

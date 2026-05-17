@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21704",
+  "manufacturer": "PIKO",
+  "articleNumber": "21704",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 223.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 151",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 151 DB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21704\nEAN: 4015615217046\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56523\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung und Anfahrlampen\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-151-db-iv-46023.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_46023/thumbs/57895_507629.jpg"
+  },
+  "updatedAt": "2026-05-14T19:45:04Z"
+}

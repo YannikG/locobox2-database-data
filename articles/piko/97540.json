@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97540",
+  "manufacturer": "PIKO",
+  "articleNumber": "97540",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 320.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 65000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 188,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok CC 65000 SNCF Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97540\nEAN: 4015615975403\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SNCF\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 188\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56658\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-cc-65000-sncf-49018.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_49018/thumbs/59897_526427.jpg"
+  },
+  "updatedAt": "2026-05-14T21:46:45Z"
+}

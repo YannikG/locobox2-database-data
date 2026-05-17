@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52382",
+  "manufacturer": "PIKO",
+  "articleNumber": "52382",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 319.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "M44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 130,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok M44 MAV III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52382\nEAN: 4015615523826\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 130\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-m44-mav-iii,-inkl.-piko-sound-decoder-48020.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48020/thumbs/60287_532324.jpg"
+  },
+  "updatedAt": "2026-05-14T21:08:31Z"
+}

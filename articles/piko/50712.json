@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50712",
+  "manufacturer": "PIKO",
+  "articleNumber": "50712",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 509.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 62",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 197,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR 62 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50712\nEAN: 4015615507123\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 197\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-62-dr-iv-wechselstromversion,-inkl.-piko-sound-decoder-und-dampfgenerator-49283.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49283/thumbs/59732_528088.jpg"
+  },
+  "updatedAt": "2026-05-14T20:30:26Z"
+}

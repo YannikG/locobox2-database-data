@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59125",
+  "manufacturer": "PIKO",
+  "articleNumber": "59125",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 300.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "Privatbahn",
+    "type": "BR 247",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 230,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok Vectron BR 247 Sersa VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59125\nEAN: 4015615591252\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 230\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-vectron-br-247-sersa-vi-wechselstromversion,-inkl.-piko-sound-decoder-49102.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49102/thumbs/59859_526281.jpg"
+  },
+  "updatedAt": "2026-05-14T21:27:14Z"
+}

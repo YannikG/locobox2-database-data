@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50745",
+  "manufacturer": "PIKO",
+  "articleNumber": "50745",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 369.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 91",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "II",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR 91 DRG II Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50745\nEAN: 4015615507451\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nVerbauter Decoder: PluX16 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-91-drg-ii-wechselstromversion,-inkl.-piko-sound-decoder-49208.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49208/thumbs/59735_526218.jpg"
+  },
+  "updatedAt": "2026-05-14T20:33:18Z"
+}

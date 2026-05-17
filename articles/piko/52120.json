@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52120",
+  "manufacturer": "PIKO",
+  "articleNumber": "52120",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 264.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 228",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok BR 228 Sparlack DR V Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52120\nEAN: 4015615521204\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-228-sparlack-dr-v-wechselstromversion,-inkl.-piko-sound-decoder-48704.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48704/thumbs/59772_526163.jpg"
+  },
+  "updatedAt": "2026-05-14T20:56:36Z"
+}

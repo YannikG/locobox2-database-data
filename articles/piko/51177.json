@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51177",
+  "manufacturer": "PIKO",
+  "articleNumber": "51177",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 335.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "BR 248",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 230,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Zweikraftlok \"dual mode\" BR 248 Press VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51177\nEAN: 4015615511779\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 230\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Maschinenraumbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-zweikraftlok-dual-mode-br-248-press-vi,-inkl.-piko-sound-decoder-45470.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45470/thumbs/57997_508617.jpg"
+  },
+  "updatedAt": "2026-05-14T20:40:56Z"
+}
