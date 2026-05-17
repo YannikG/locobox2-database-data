@@ -3,7 +3,7 @@
   "id": "piko-21738",
   "manufacturer": "PIKO",
   "articleNumber": "21738",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 385.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-E-Lok Rh 230 CD Cargo VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21738\nEAN: 4015615217381\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-rh-230-cd-cargo-vi,-inkl.-piko-sound-decoder-45710.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

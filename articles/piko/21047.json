@@ -3,7 +3,7 @@
   "id": "piko-21047",
   "manufacturer": "PIKO",
   "articleNumber": "21047",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 239.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "E-Lok Rh 1067 ÖBB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21047\nEAN: 4015615210474\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 121\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56649\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1067-oebb-iii-49123.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

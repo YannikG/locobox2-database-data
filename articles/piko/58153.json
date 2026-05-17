@@ -3,7 +3,7 @@
   "id": "piko-58153",
   "manufacturer": "PIKO",
   "articleNumber": "58153",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 779.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Zugset 4tlg. Metropolitan BR 101 mit Personenwagen und Steuerwagen DB AG VI, inkl. PIKO Sound Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 58153\nEAN: 4015615581536\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: Länge des Zuges\nMaß [mm]: 1131\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Inkl. Innenbeleuchtung",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-zugset-4tlg.-metropolitan-br-101-mit-personenwagen-und-steuerwagen-db-ag-vi,-inkl.-piko-sound-43694.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

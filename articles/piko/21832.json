@@ -3,7 +3,7 @@
   "id": "piko-21832",
   "manufacturer": "PIKO",
   "articleNumber": "21832",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 345.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Elektrolok Vectron BR 7193 Medway VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21832\nEAN: 4015615218326\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 218\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-elektrolok-vectron-br-7193-medway-vi-wechselstromversion,-inkl.-piko-sound-decoder-49414.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

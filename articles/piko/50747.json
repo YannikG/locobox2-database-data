@@ -3,7 +3,7 @@
   "id": "piko-50747",
   "manufacturer": "PIKO",
   "articleNumber": "50747",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 369.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Dampflok Rh 75 ex BR 91 NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50747\nEAN: 4015615507475\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nVerbauter Decoder: PluX16 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-rh-75-ex-br-91-ns-iii,-inkl.-piko-sound-decoder-49602.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

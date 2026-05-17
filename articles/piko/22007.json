@@ -3,7 +3,7 @@
   "id": "piko-22007",
   "manufacturer": "PIKO",
   "articleNumber": "22007",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 199.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok Rh 500 VSM VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22007\nEAN: 4015615220077\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 104\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar # 56642\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-rh-500-vsm-vi-49118.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

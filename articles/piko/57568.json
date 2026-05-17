@@ -3,7 +3,7 @@
   "id": "piko-57568",
   "manufacturer": "PIKO",
   "articleNumber": "57568",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 179.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Schlepptenderlok BR 55 (G7.1) NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57568\nEAN: 4015615575689\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 4\nSound: PIKO Sound-Decoder nachrüstbar #56629\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/schlepptenderlok-br-55-g7.1-ns-iii-46129.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

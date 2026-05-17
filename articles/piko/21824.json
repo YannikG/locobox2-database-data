@@ -3,7 +3,7 @@
   "id": "piko-21824",
   "manufacturer": "PIKO",
   "articleNumber": "21824",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 309.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Elektrotriebzug BR442 \"Talent 2\" S-Bahn Rostock DB AG VI 5tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21824\nEAN: 4015615218241\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1002\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Werkseitig nicht für Innenbeleuchtung vorbereitet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56614\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/elektrotriebzug-br442-talent-2-s-bahn-rostock-db-ag-vi-5tlg.-48967.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

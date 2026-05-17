@@ -3,7 +3,7 @@
   "id": "piko-59779",
   "manufacturer": "PIKO",
   "articleNumber": "59779",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 189.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok S-200 CTL Logistics VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59779\nEAN: 4015615597797\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 199\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56542\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-s-200-ctl-logistics-vi-46027.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

@@ -3,7 +3,7 @@
   "id": "piko-21793",
   "manufacturer": "PIKO",
   "articleNumber": "21793",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 334.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-E-Lok 243 019 WFL VI, S-Bahn Leipzig Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21793\nEAN: 4015615217930\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 191\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-243-019-wfl-vi,-s-bahn-leipzig-wechselstromversion,-inkl.-piko-sound-decoder-49294.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

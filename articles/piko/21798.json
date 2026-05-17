@@ -3,7 +3,7 @@
   "id": "piko-21798",
   "manufacturer": "PIKO",
   "articleNumber": "21798",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 309.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-E-Lok BR 187 SNCB VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21798\nEAN: 4015615217985\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: SNCB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-187-sncb-vi,-inkl.-piko-sound-decoder-49199.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

@@ -3,7 +3,7 @@
   "id": "piko-57408",
   "manufacturer": "PIKO",
   "articleNumber": "57408",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 88.5,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "E-Lok Taurus CityJet ÖBB VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57408\nEAN: 4015615574088\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 221\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56638\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-taurus-cityjet-oebb-vi-49509.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

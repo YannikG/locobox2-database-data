@@ -3,7 +3,7 @@
   "id": "piko-59762",
   "manufacturer": "PIKO",
   "articleNumber": "59762",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 179.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok T 679.2 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59762\nEAN: 4015615597629\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 237\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56540\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-t-679.2-csd-iv-49510.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

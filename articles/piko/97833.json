@@ -3,7 +3,7 @@
   "id": "piko-97833",
   "manufacturer": "PIKO",
   "articleNumber": "97833",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 449.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Sound-Diesellok ML 4001 D&RGW modifiziert Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97833\nEAN: 4015615978336\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: D&RGW\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 231\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-ml-4001-d-und-rgw-modifiziert-wechselstromversion,-inkl.-piko-sound-decoder-45698.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

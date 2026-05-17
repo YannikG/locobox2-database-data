@@ -3,7 +3,7 @@
   "id": "piko-59376",
   "manufacturer": "PIKO",
   "articleNumber": "59376",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 155.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "Diesellok G 1206 RTS-Swietelsky NL VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59376\nEAN: 4015615593768\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56555\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-g-1206-rts-swietelsky-nl-vi-49105.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

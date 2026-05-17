@@ -3,7 +3,7 @@
   "id": "piko-96395",
   "manufacturer": "PIKO",
   "articleNumber": "96395",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 339.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "E-Lok ET41 PKP Cargo VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96395\nEAN: 4015615963950\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56552\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-et41-pkp-cargo-vi-45529.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

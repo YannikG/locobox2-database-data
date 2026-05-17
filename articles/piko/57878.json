@@ -3,7 +3,7 @@
   "id": "piko-57878",
   "manufacturer": "PIKO",
   "articleNumber": "57878",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 175.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "E-Lok 185 329 Black Dragons VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57878\nEAN: 4015615578789\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nBesonderheiten: Lokführerfigur im Führerstand\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-185-329-black-dragons-vi-wechselstromversion-49508.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",

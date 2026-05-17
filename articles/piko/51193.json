@@ -3,7 +3,7 @@
   "id": "piko-51193",
   "manufacturer": "PIKO",
   "articleNumber": "51193",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": {
     "amount": 259.0,
     "currency": "EUR"
@@ -23,7 +23,9 @@
   },
   "description": "E-Lok BR 244 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51193\nEAN: 4015615511939\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 176\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56634\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
   "categories": [],
-  "tags": [],
+  "tags": [
+    "piko-neuheiten-2026"
+  ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-br-244-dr-iv-49128.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
