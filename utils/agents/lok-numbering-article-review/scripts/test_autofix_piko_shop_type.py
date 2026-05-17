@@ -47,6 +47,20 @@ class TestPikoShopType(unittest.TestCase):
             ("piko_d445", "D.445", None, "1. Serie mit Logo", None),
         )
 
+    def test_ctlr_already_split(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {
+                "type": "CTLR4C-001",
+                "number": None,
+                "livery": "CTL Rail 4 Chem",
+                "country": "PL",
+            },
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertIsNone(m.propose_fix(art))
+
     def test_desiro(self) -> None:
         art = {
             "manufacturer": "PIKO",

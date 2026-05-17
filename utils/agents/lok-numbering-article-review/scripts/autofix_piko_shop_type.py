@@ -114,9 +114,11 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
         if liv or clean != "D.445":
             return ("piko_d445", "D.445", None, liv, None)
 
-    m = re.match(r"^(CTLR4C-\d+),?\s*(.+)$", clean, re.I)
+    m = re.match(r"^(CTLR4C-\d+),\s*(.+)$", clean, re.I)
     if m:
         return ("piko_ctlr", m.group(1), None, _pick_livery(article, m.group(2).strip()), None)
+    if re.fullmatch(r"CTLR4C-\d+", clean, re.I):
+        return None
 
     if re.fullmatch(r"EP09 PKP IC", clean, re.I):
         return ("piko_ep09", "EP09", None, _pick_livery(article, "IC"), None)
