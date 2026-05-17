@@ -15,7 +15,7 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
     "era": "VI",
     "luepMm": 1002,

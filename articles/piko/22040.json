@@ -15,7 +15,7 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
     "era": "III",
     "luepMm": 165,

@@ -15,7 +15,7 @@
     "number": null,
     "livery": "CTL Rail 4 Chem",
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
     "era": "V",
     "luepMm": 202,
