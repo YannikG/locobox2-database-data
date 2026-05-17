@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "Privatbahn",
-    "type": "BR 7193",
-    "number": null,
-    "livery": null,
+    "type": "BR 193",
+    "number": "7193",
+    "livery": "Medway",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",

@@ -11,9 +11,9 @@
   "model": {
     "country": "NL",
     "operator": "Privatbahn",
-    "type": "Diesellok 6400 Railion Logistics NL VI",
+    "type": "6400",
     "number": null,
-    "livery": null,
+    "livery": "Railion Logistics NL",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

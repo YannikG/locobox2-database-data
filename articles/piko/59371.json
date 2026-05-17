@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok G 1206 Northrail VI, inkl. PIKO Sound-Decoder",
+    "type": "G 1206",
     "number": null,
-    "livery": null,
+    "livery": "Northrail",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

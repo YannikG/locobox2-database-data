@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "Privatbahn",
-    "type": "Sound-E-Lok 243 019 WFL VI, S-Bahn Leipzig, inkl. PIKO Sound-Decoder",
-    "number": null,
-    "livery": null,
+    "type": "BR 243",
+    "number": "019",
+    "livery": "S-Bahn Leipzig",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",

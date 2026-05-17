@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "Privatbahn",
-    "type": "E-Lok 185 329 Black Dragons VI Wechselstromversion",
-    "number": null,
-    "livery": null,
+    "type": "BR 185",
+    "number": "329",
+    "livery": "Black Dragons",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",

@@ -11,9 +11,9 @@
   "model": {
     "country": "PL",
     "operator": "Privatbahn",
-    "type": "Diesellok SM42 PNI VI",
+    "type": "SM42",
     "number": null,
-    "livery": null,
+    "livery": "PNI",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

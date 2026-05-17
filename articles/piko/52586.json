@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Sound-Diesellok V200 1001 DR III, Messe Leipzig Wechselstromversion, inkl. PIKO Sound-Decoder",
-    "number": null,
-    "livery": null,
+    "type": "V 200",
+    "number": "1001",
+    "livery": "Messe Leipzig",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",

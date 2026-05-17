@@ -11,9 +11,9 @@
   "model": {
     "country": "AT",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok G 1206 RailCargoGroup VI Wechselstromversion, inkl. PIKO Sound-Decoder",
+    "type": "G 1206",
     "number": null,
-    "livery": null,
+    "livery": "RailCargoGroup",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",

@@ -11,9 +11,9 @@
   "model": {
     "country": "NL",
     "operator": "Privatbahn",
-    "type": "Sound-Diesellok 6400 Railion Logistics NL VI, inkl. PIKO Sound-Decoder",
+    "type": "6400",
     "number": null,
-    "livery": null,
+    "livery": "Railion Logistics NL",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

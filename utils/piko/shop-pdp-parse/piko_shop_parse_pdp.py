@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import argparse
 import html as html_lib
+import importlib.util
 import json
 import re
 import sys
@@ -266,6 +267,34 @@ def _long_product_description(html: str) -> str:
     return ""
 
 
+def _apply_piko_type_fixup(article: dict[str, Any]) -> None:
+    """Shop-Titel nach Import bereinigen (gleiche Logik wie ``autofix_piko_shop_type``)."""
+    script = (
+        Path(__file__).resolve().parents[2]
+        / "agents"
+        / "lok-numbering-article-review"
+        / "scripts"
+        / "autofix_piko_shop_type.py"
+    )
+    if not script.is_file():
+        return
+    spec = importlib.util.spec_from_file_location("autofix_piko_shop_type", script)
+    if spec is None or spec.loader is None:
+        return
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    fix = mod.propose_fix(article)
+    if not fix:
+        return
+    _, new_t, new_n, new_liv = fix
+    model = article["model"]
+    model["type"] = new_t
+    if new_n:
+        model["number"] = new_n
+    if new_liv and not model.get("livery"):
+        model["livery"] = new_liv
+
+
 def _apply_attributes_to_model(attrs: dict[str, str]) -> dict[str, Any]:
     model: dict[str, Any] = {
         "country": None,
@@ -371,7 +400,7 @@ def parse_html(
                 parts.append("\n".join(lines[:18]))
         description = "\n\n".join(p for p in parts if p).strip()
 
-    return {
+    payload = {
         "schemaVersion": "1.0.0",
         "id": f"piko-{article}",
         "manufacturer": "PIKO",
@@ -389,6 +418,8 @@ def parse_html(
         },
         "updatedAt": now,
     }
+    _apply_piko_type_fixup(payload)
+    return payload
 
 
 def main() -> int:

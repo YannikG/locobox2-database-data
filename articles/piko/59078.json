@@ -11,9 +11,9 @@
   "model": {
     "country": "AT",
     "operator": "Privatbahn",
-    "type": "Diesellok G 1700 Schweerbau VI Wechselstromversion",
+    "type": "G 1700",
     "number": null,
-    "livery": null,
+    "livery": "Schweerbau",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",

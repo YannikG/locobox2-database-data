@@ -11,8 +11,8 @@
   "model": {
     "country": "PL",
     "operator": "Privatbahn",
-    "type": "E-Lok 201E-277, PL-WISKO Wiskol (LOTOS) VI",
-    "number": null,
+    "type": "201E",
+    "number": "277",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
