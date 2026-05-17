@@ -217,27 +217,36 @@ def _operator_to_country(operator: str, era: Optional[str] = None) -> Optional[s
     return mapping.get(op) or mapping.get(operator.strip())
 
 
-def _canonical_electric_system(strom: str, decoder: str, beleuchtung: str) -> Optional[str]:
-    """Richtung Locobox-Roco-Kanon: DC-/AC-Analog bzw. -Digital."""
-    s = (strom or "").lower()
-    hint = f"{decoder} {beleuchtung}".lower()
-    digital = any(
-        x in hint
-        for x in (
-            "plux",
-            "dcc",
-            "next18",
-            "nem 65",
-            "nem658",
-            "decoder",
-            "dss",
-            "digital schaltbar",
-            "digital-schaltbar",
-        )
-    ) or ("digital" in s and "strom" in s)
-    if "gleichstrom" in s:
-        return "DC-Digital" if digital else "DC-Analog"
-    if "wechselstrom" in s:
+def _description_has_installed_decoder(description: str) -> bool:
+    """
+    PIKO Gleichstrom: nur mit werkseitigem Decoder bzw. Sound-Variante als DC-Digital.
+    DCC-Schnittstelle, nachrüstbarer Sound oder «mit PluX22 Decoder» bei Beleuchtung
+    zählen nicht (das ist die DC-Analog-Stufe).
+    """
+    d = description or ""
+    first = d.split("\n", 1)[0]
+    if re.search(
+        r"\bSound[\s-]*(E-|Diesel|E-Trieb|Trieb|Elektro|Zweikraft)",
+        first,
+        re.I,
+    ):
+        return True
+    if "Sound ja/nein: ja" in d:
+        return True
+    if "Verbauter Decoder:" in d:
+        return True
+    if "Sound: PIKO Sound-Decoder werkseitig" in d:
+        return True
+    return False
+
+
+def _canonical_electric_system_from_description(description: str) -> Optional[str]:
+    """Richtung Locobox-Kanon: DC-/AC-Analog bzw. -Digital aus Shop-Beschreibung."""
+    d = description or ""
+    if "Stromsystem: Gleichstrom" in d:
+        return "DC-Digital" if _description_has_installed_decoder(d) else "DC-Analog"
+    if "Stromsystem: Wechselstrom" in d:
+        digital = _description_has_installed_decoder(d) or "Digitale Schnittstelle:" in d
         return "AC-Digital" if digital else "AC-Analog"
     return None
 
@@ -322,14 +331,7 @@ def _apply_attributes_to_model(attrs: dict[str, str]) -> dict[str, Any]:
         model["operator"] = op
         model["country"] = _operator_to_country(op, model.get("era"))
 
-    strom = attrs.get("Stromsystem", "").strip()
     dec = attrs.get("Digitale Schnittstelle", "").strip()
-    bel = attrs.get("(Innen-)Beleuchtung", "").strip()
-    if not bel:
-        bel = attrs.get("Beleuchtung", "").strip()
-    es = _canonical_electric_system(strom, dec, bel)
-    if es:
-        model["electricSystem"] = es
     if dec:
         model["decoderInterface"] = dec
 
@@ -401,6 +403,10 @@ def parse_html(
             if lines:
                 parts.append("\n".join(lines[:18]))
         description = "\n\n".join(p for p in parts if p).strip()
+
+    es = _canonical_electric_system_from_description(description)
+    if es:
+        model["electricSystem"] = es
 
     payload = {
         "schemaVersion": "1.0.0",

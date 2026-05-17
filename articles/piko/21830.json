@@ -15,7 +15,7 @@
     "number": "7193",
     "livery": "Medway",
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
     "era": "VI",
     "luepMm": 218,
