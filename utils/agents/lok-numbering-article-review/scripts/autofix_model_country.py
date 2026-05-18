@@ -151,6 +151,7 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "SNCB": "BE",
     "D&RGW": "US",
     "SP (Southern Pacific)": "US",
+    "CFL": "LU",
 }
 
 
@@ -191,13 +192,51 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
         ("privatbahn_de_beacon", "DE", lambda: "beacon" in c),
         ("privatbahn_de_clr", "DE", lambda: "cargo logistic rail" in c),
         ("privatbahn_de_wfl", "DE", lambda: " wfl" in c or "wfl vi" in c),
-        ("privatbahn_de_press", "DE", lambda: ("traxx" in c and "press" in c) or ("br 248" in c and "press" in c)),
+        ("privatbahn_de_press", "DE", lambda: ("traxx" in c and "press" in c) or ("br 248" in c and "press" in c) or ("br 140" in c and "press" in c)),
+        ("privatbahn_de_hsl", "DE", lambda: " hsl" in c or "hsl logistik" in c),
+        ("privatbahn_de_ebs", "DE", lambda: " ebs" in c or "br 312" in c),
+        ("privatbahn_de_national_express", "DE", lambda: "national express" in c),
+        ("privatbahn_de_wtk", "DE", lambda: "wtk" in c or "v 60 d-2" in c),
+        ("privatbahn_pl_wlc", "PL", lambda: " wlc" in c or "wlc vi" in c),
+        ("privatbahn_de_alpha_trains", "DE", lambda: "alpha trains" in c),
+        ("privatbahn_ch_bern", "CH", lambda: "s-bahn bern" in c or "bern rm" in c),
+        ("privatbahn_cs_t435", "CS", lambda: "t435" in c),
+        ("privatbahn_dk_midtjyske", "DK", lambda: "midtjyske" in c),
         ("privatbahn_de_railion", "DE", lambda: "railion" in c),
     ]
     for rule_id, iso, fn in checks:
         if fn():
             return (rule_id, iso)
     return None
+
+
+def _propose_sp_operator_era(article: Article) -> Optional[tuple[str, str, Optional[str]]]:
+    """SP KM ML 4000: fehlender Operator/Epoche nach Shop-Import (US, Ep. III)."""
+    model = article.get("model")
+    if not isinstance(model, dict):
+        return None
+    t = str(model.get("type") or "")
+    if not re.search(r"\bSP\s+9", t, re.I):
+        return None
+    blob = _text_blob(article)
+    op_out: Optional[str] = None
+    if model.get("operator") is None or (
+        isinstance(model.get("operator"), str) and not str(model.get("operator")).strip()
+    ):
+        op_out = "Southern Pacific"
+    era_out: Optional[str] = None
+    era = model.get("era")
+    if era is None or (isinstance(era, str) and not str(era).strip()):
+        em = re.search(r"Epoche:\s*([IVX]+(?:-[IVX]+)*)", blob, re.I)
+        if em:
+            era_out = em.group(1).strip()
+        elif re.search(r"\bIII\b", blob):
+            era_out = "III"
+        else:
+            era_out = "III"
+    if op_out is None and era_out is None:
+        return None
+    return ("sp_km_ml", op_out, era_out)
 
 
 def propose_country(article: Article) -> Optional[tuple[str, str]]:
@@ -207,6 +246,10 @@ def propose_country(article: Article) -> Optional[tuple[str, str]]:
     model = article.get("model")
     if not isinstance(model, dict) or not _country_missing(model):
         return None
+
+    sp = _propose_sp_operator_era(article)
+    if sp and _country_missing(model):
+        return ("sp_km_ml", "US")
 
     op = _norm_op(model.get("operator"))
     if not op:
@@ -263,15 +306,39 @@ def main(argv: list[str]) -> int:
         if not isinstance(model, dict):
             continue
         prop = propose_country(data)
-        if not prop:
+        sp_fields = _propose_sp_operator_era(data)
+        if not prop and not sp_fields:
             continue
-        rule_id, new_c = prop
-        old_c = model.get("country")
-        if old_c == new_c:
-            continue
-        changed.append((path, rule_id, new_c))
-        if not dry_run:
-            model["country"] = new_c
+        file_dirty = False
+        if prop:
+            rule_id, new_c = prop
+            old_c = model.get("country")
+            if old_c != new_c:
+                changed.append((path, rule_id, new_c))
+                if not dry_run:
+                    model["country"] = new_c
+                    file_dirty = True
+        if sp_fields:
+            _, new_op, new_era = sp_fields
+            if new_op and (
+                model.get("operator") is None
+                or (isinstance(model.get("operator"), str) and not model.get("operator").strip())
+            ):
+                if not dry_run:
+                    model["operator"] = new_op
+                    file_dirty = True
+                else:
+                    print(f"{path}\tsp_km_ml\toperator -> {new_op!r}", file=sys.stderr)
+            if new_era and (
+                model.get("era") is None
+                or (isinstance(model.get("era"), str) and not str(model.get("era")).strip())
+            ):
+                if not dry_run:
+                    model["era"] = new_era
+                    file_dirty = True
+                else:
+                    print(f"{path}\tsp_km_ml\tera -> {new_era!r}", file=sys.stderr)
+        if file_dirty:
             save_article(path, data)
 
     for path, rule_id, new_c in changed:

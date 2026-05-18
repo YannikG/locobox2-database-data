@@ -9,15 +9,15 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": null,
+    "country": "US",
+    "operator": "Southern Pacific",
     "type": "SP 9001 \"Ursprung\"",
     "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": null,
+    "era": "III",
     "luepMm": 231,
     "minRadiusMm": 358
   },

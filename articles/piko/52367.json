@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "LU",
     "operator": "CFL",
     "type": "DE18 CFL",
     "number": null,

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CS",
     "operator": "Privatbahn",
     "type": "T435 Industrie",
     "number": null,

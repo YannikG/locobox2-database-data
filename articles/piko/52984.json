@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DK",
     "operator": "Privatbahn",
     "type": "Desiro",
     "number": null,
