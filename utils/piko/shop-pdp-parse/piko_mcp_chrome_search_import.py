@@ -431,6 +431,8 @@ async def _run_piko_mcp_import(
     notes: str,
     dry_run: bool,
     use_network_image: bool,
+    campaign_tag: Optional[str],
+    replace_tags: Optional[list[str]],
 ) -> tuple[int, int]:
     if sys.version_info < (3, 10):
         print("error: Python 3.10+ nötig (Paket mcp).", file=sys.stderr)
@@ -608,6 +610,12 @@ async def _run_piko_mcp_import(
                     ]
                     if image_url_override:
                         pargs.extend(["--image-url", image_url_override])
+                    ct = (campaign_tag or "").strip()
+                    if write and ct:
+                        pargs.extend(["--campaign-tag", ct])
+                    for rt in replace_tags or []:
+                        if rt.strip():
+                            pargs.extend(["--replace-tag", rt.strip()])
                     if write:
                         pargs.extend(["--write", "--quiet"])
                     proc = subprocess.run(pargs, cwd=str(_REPO_ROOT), timeout=300)
@@ -696,7 +704,32 @@ def main() -> int:
         action="store_true",
         help="Kein list_network_requests; og:image weiter per DOM.",
     )
+    ap.add_argument(
+        "--campaign-tag",
+        default=None,
+        metavar="SLUG",
+        help="Mit --write: Parser bekommt --campaign-tag (z. B. piko-neuheiten-2025).",
+    )
+    ap.add_argument(
+        "--replace-tag",
+        action="append",
+        metavar="SLUG",
+        default=None,
+        help="Mit --write: Parser --replace-tag (z. B. piko-neuheiten-2026). Mehrfach möglich.",
+    )
     args = ap.parse_args()
+    if args.campaign_tag and (args.no_write or args.dry_run):
+        print(
+            "error: --campaign-tag nur mit echtem --write (ohne --dry-run, ohne --no-write).",
+            file=sys.stderr,
+        )
+        return 2
+    if args.replace_tag and (args.no_write or args.dry_run):
+        print(
+            "error: --replace-tag nur mit echtem --write (ohne --dry-run, ohne --no-write).",
+            file=sys.stderr,
+        )
+        return 2
 
     mcp_extra_env: Optional[dict[str, str]] = None
     if args.mcp_from_cursor:
@@ -732,6 +765,8 @@ def main() -> int:
             notes=args.notes,
             dry_run=args.dry_run,
             use_network_image=not args.no_network_image,
+            campaign_tag=args.campaign_tag,
+            replace_tags=args.replace_tag,
         )
     )
     return 1 if fail else 0

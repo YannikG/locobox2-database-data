@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59317",
+  "manufacturer": "PIKO",
+  "articleNumber": "59317",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "BR 442",
+    "number": null,
+    "livery": "Talent 2",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 636,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Triebwagen BR 442 \"Talent 2\" National Express VI 3tlg Wechselstrom, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59317\nEAN: 4015615593171\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 636\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Werkseitig nicht für Innenbeleuchtung vorbereitet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebwagen-br-442-talent-2-national-express-vi-3tlg-wechselstrom,-inkl.-piko-sound-decoder-45461.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45461/thumbs/56670_471436.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

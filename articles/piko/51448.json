@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51448",
+  "manufacturer": "PIKO",
+  "articleNumber": "51448",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 365.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "V 43.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 180,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok V 43.3 MAV V Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51448\nEAN: 4015615514480\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: MAV\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-v-43.3-mav-v-wechselstromversion,-inkl.-piko-sound-decoder-44663.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44663/thumbs/56092_495703.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

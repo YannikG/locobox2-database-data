@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21702",
+  "manufacturer": "PIKO",
+  "articleNumber": "21702",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 319.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "BR 140",
+    "number": null,
+    "livery": "Press",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR 140 Press VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21702\nEAN: 4015615217022\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 190\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-140-press-vi,-inkl.-piko-sound-decoder-45347.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45347/thumbs/56395_453388.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

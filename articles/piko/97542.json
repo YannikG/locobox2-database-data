@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC 65000",
-    "number": null,
+    "type": "CC",
+    "number": "65000",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27506",
+  "manufacturer": "PIKO",
+  "articleNumber": "27506",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "Stadler",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrotriebzug GTW 2/6 \"Stadler\" S-Bahn Bern RM V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27506\nEAN: 4015615275060\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2 #56139\nSound: PIKO Sound-Decoder nachrüstbar #56617\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrotriebzug-gtw-2-6-stadler-s-bahn-bern-rm-v-45465.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45465/thumbs/56527_456284.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

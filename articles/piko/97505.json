@@ -11,8 +11,8 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "Rh 1000",
-    "number": null,
+    "type": "Rh",
+    "number": "1000",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

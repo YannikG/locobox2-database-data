@@ -11,8 +11,8 @@
   "model": {
     "country": "NL",
     "operator": "Privatbahn",
-    "type": "Rh 500",
-    "number": null,
+    "type": "Rh",
+    "number": "500",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

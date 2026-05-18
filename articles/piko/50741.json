@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh 691",
-    "number": null,
+    "type": "Rh",
+    "number": "691",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

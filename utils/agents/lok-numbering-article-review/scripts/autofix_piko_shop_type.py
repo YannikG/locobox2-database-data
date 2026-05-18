@@ -40,9 +40,9 @@ def _strip_prefix(t: str) -> str:
         old = u
         u = re.sub(r"^Sound[- ]?", "", u, count=1, flags=re.I)
         u = re.sub(
-            r"^(Zweikraftlok|Elektrotriebwagen|Dieseltriebwagen|Elektrolokomotive|"
-            r"Diesellokomotive|Schlepptenderlok|Dampflok|Elektrolok|Diesellok|"
-            r"E[- ]?Triebzug|E-Triebzug|Sound-E-Triebzug|E-Lok|Zugset)\s+",
+            r"^(Zweikraftlok|Elektrotriebwagen|Elektrotriebzug|Dieseltriebwagen|"
+            r"Elektrolokomotive|Diesellokomotive|Schlepptenderlok|Dampflok|Elektrolok|"
+            r"Diesellok|E[- ]?Triebzug|E-Triebzug|Sound-E-Triebzug|E-Lok|Zugset)\s+",
             "",
             u,
             count=1,
@@ -90,6 +90,34 @@ def _livery_ok(current: Any) -> bool:
     return current is None or (isinstance(current, str) and not current.strip())
 
 
+def _propose_livery_cleanup(liv: str) -> Optional[str]:
+    """Import-Artefakte: Epoche/Stromsystem/Setlänge aus ``livery`` entfernen."""
+    s = liv.strip()
+    if not s or len(s) > 80:
+        return None
+    tail = re.match(r"^([A-Za-z][A-Za-z0-9-]+)\s+(?:DB|VI)\b", s, re.I)
+    if tail and not re.search(r"cargo|express", s, re.I):
+        name = tail.group(1).strip()
+        return name if name and len(name) <= 48 else None
+    if not re.search(r"\d-tlg|wechselstrom|db ag\s+vi|national express", s, re.I):
+        return None
+    q = re.match(r'^["\u201e\u201c]([^"\u201d\u201c]+)["\u201d\u201c]', s)
+    if q:
+        name = q.group(1).strip()
+        return name if name and len(name) <= 48 else None
+    m = re.match(r"^([A-Za-z][A-Za-z0-9]*(?:\s+[A-Za-z][A-Za-z0-9]*)?)", s)
+    if not m:
+        return None
+    name = m.group(1).strip()
+    if re.search(r"\d-tlg|db ag", s, re.I):
+        name = re.split(r"\s+(?:DB|DR|PKP|AG|VI)\b", name, maxsplit=1, flags=re.I)[0].strip()
+    if name.lower() in ("db", "pkp", "obb", "sbb", "dr", "fs"):
+        return None
+    if name.lower().startswith("cd "):
+        return name if len(name) <= 48 else None
+    return name if len(name) <= 48 else None
+
+
 def _pick_livery(article: Article, candidate: Optional[str]) -> Optional[str]:
     if not candidate or not _livery_ok((article.get("model") or {}).get("livery")):
         return None
@@ -98,9 +126,6 @@ def _pick_livery(article: Article, candidate: Optional[str]) -> Optional[str]:
         return None
     if len(c) > 48:
         return None
-    return c
-
-
     return c
 
 
@@ -132,6 +157,11 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
 
     if re.fullmatch(r"Taurus CityJet", clean, re.I):
         return ("piko_taurus", "1216", None, _pick_livery(article, "CityJet"), None)
+
+    m = re.match(r'^GTW\s+2/6(?:\s+"([^"]+)")?(?:\s+(.+))?$', clean, re.I)
+    if m:
+        liv = _pick_livery(article, m.group(1) or (m.group(2) or "").strip() or None)
+        return ("piko_gtw", "GTW 2/6", None, liv, None)
 
     m = re.fullmatch(r"S-200\s+(.+)", clean, re.I)
     if m:
@@ -236,6 +266,12 @@ def propose_fix(article: Article) -> Optional[Fix]:
     if clean != raw.strip():
         return ("piko_clean", clean, None, None, None)
 
+    cur_liv = (model.get("livery") or "")
+    if isinstance(cur_liv, str) and cur_liv.strip():
+        new_liv = _propose_livery_cleanup(cur_liv)
+        if new_liv and new_liv != cur_liv.strip():
+            return ("piko_livery", model.get("type"), None, new_liv, None)
+
     return None
 
 
@@ -271,7 +307,10 @@ def main(argv: list[str]) -> int:
         model = data["model"]
         old_t, old_n, old_liv = model.get("type"), model.get("number"), model.get("livery")
         old_op = model.get("operator")
-        if (
+        if rule == "piko_livery":
+            if old_liv == new_liv:
+                continue
+        elif (
             old_t == new_t
             and old_n == new_n
             and (new_liv is None or old_liv == new_liv)
@@ -283,9 +322,10 @@ def main(argv: list[str]) -> int:
         op = "" if new_op is None else f" operator={new_op!r}"
         print(f"{path}\t{rule}\t{old_t!r}/{old_n!r} -> {new_t!r}/{nn}{liv}{op}")
         if not dry:
-            model["type"] = new_t
-            model["number"] = new_n if new_n else None
-            if new_liv and _livery_ok(old_liv):
+            if rule != "piko_livery":
+                model["type"] = new_t
+                model["number"] = new_n if new_n else None
+            if new_liv and (rule == "piko_livery" or _livery_ok(old_liv)):
                 model["livery"] = new_liv
             if new_op:
                 model["operator"] = new_op

@@ -48,8 +48,10 @@ python3 utils/piko/catalog-extract/extract_piko_h0_catalog.py \
 **Nur Shop (beliebige Teilmenge, Delay wichtig):**
 
 ```bash
-python3 utils/piko/shop-pdp-parse/piko_mcp_chrome_search_import.py \
+.venv/bin/python utils/piko/shop-pdp-parse/piko_mcp_chrome_search_import.py \
   --articles .tmp/nur_diese_nummern.txt \
   --mcp-from-cursor \
+  --campaign-tag piko-neuheiten-2025 \
+  --replace-tag piko-neuheiten-2026 \
   --delay 3.0
 ```

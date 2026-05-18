@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh 1018",
-    "number": null,
+    "type": "Rh",
+    "number": "1018",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

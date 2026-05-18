@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52985",
+  "manufacturer": "PIKO",
+  "articleNumber": "52985",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "V 60 D-2 WTK",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "IV",
+    "luepMm": 125,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok V 60 D-2 WTK IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52985\nEAN: 4015615529859\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 125\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56618\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-v-60-d-2-wtk-iv-44675.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_44675/thumbs/53947_421627.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}
