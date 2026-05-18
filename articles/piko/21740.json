@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21740",
+  "manufacturer": "PIKO",
+  "articleNumber": "21740",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 275.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "S 489.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok S 489.0 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21740\nEAN: 4015615217404\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56586\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-s-489.0-csd-iv-45063.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45063/thumbs/56076_411852.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

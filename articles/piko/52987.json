@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52987",
+  "manufacturer": "PIKO",
+  "articleNumber": "52987",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 289.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "V 60 D-2 WTK",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "IV",
+    "luepMm": 125,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok V 60 D-2 WTK IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52987\nEAN: 4015615529873\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 125\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-v-60-d-2-wtk-iv-wechselstromversion,-inkl.-piko-sound-decoder-44679.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44679/thumbs/53949_446998.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

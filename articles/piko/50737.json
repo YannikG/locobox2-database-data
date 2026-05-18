@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50737",
+  "manufacturer": "PIKO",
+  "articleNumber": "50737",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 259.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "TKi3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "III",
+    "luepMm": 123,
+    "minRadiusMm": 422
+  },
+  "description": "Dampflok TKi3 PKP III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50737\nEAN: 4015615507376\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56643\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-tki3-pkp-iii-45012.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45012/thumbs/58954_519826.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

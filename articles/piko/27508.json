@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27508",
+  "manufacturer": "PIKO",
+  "articleNumber": "27508",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "Stadler",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Elektrotriebzug GTW 2/6 \"Stadler\" S-Bahn Bern RM V Wechselstrom, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27508\nEAN: 4015615275084\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: SBB\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2 #56139\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrotriebzug-gtw-2-6-stadler-s-bahn-bern-rm-v-wechselstrom,-inkl.-piko-sound-decoder-45467.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45467/thumbs/56529_451089.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

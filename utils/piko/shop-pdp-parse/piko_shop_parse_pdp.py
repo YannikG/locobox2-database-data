@@ -430,6 +430,29 @@ def parse_html(
     return payload
 
 
+def _finalize_tags(
+    existing_tags: list[Any],
+    *,
+    campaign_tag: Optional[str],
+    replace_tags: Optional[list[str]],
+) -> list[str]:
+    """Kampagnen-Tag setzen; ``replace_tags`` durch ``campaign_tag`` ersetzen (Reihenfolge behalten)."""
+    tags: list[str] = [t for t in existing_tags if isinstance(t, str) and t.strip()]
+    ct = (campaign_tag or "").strip()
+    replace = {t.strip() for t in (replace_tags or []) if isinstance(t, str) and t.strip()}
+    if ct and replace:
+        tags = [ct if t in replace else t for t in tags]
+    if ct and ct not in tags:
+        tags.append(ct)
+    seen: set[str] = set()
+    out: list[str] = []
+    for t in tags:
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="PIKO Shop PDP-HTML → articles/piko JSON.")
     src = ap.add_mutually_exclusive_group(required=True)
@@ -440,8 +463,30 @@ def main() -> int:
     ap.add_argument("--notes", default="Daten von der Webseite, automatisch geupdated.")
     ap.add_argument("--image-url", default=None, help="Bild-URL überschreiben (z. B. aus Netzwerk).")
     ap.add_argument("--write", action="store_true", help="Nach articles/piko/{nr}.json schreiben.")
+    ap.add_argument(
+        "--campaign-tag",
+        metavar="SLUG",
+        default=None,
+        help="Nur mit --write: Slug zu tags hinzufügen (z. B. piko-neuheiten-2025).",
+    )
+    ap.add_argument(
+        "--replace-tag",
+        action="append",
+        metavar="SLUG",
+        default=None,
+        help=(
+            "Nur mit --write: vor --campaign-tag diese Slugs ersetzen "
+            "(mehrfach oder kommagetrennt; z. B. piko-neuheiten-2026)."
+        ),
+    )
     ap.add_argument("--quiet", action="store_true", help="Weniger stdout bei --write.")
     args = ap.parse_args()
+    if args.campaign_tag and not args.write:
+        print("error: --campaign-tag nur mit --write.", file=sys.stderr)
+        return 2
+    if args.replace_tag and not args.write:
+        print("error: --replace-tag nur mit --write.", file=sys.stderr)
+        return 2
 
     if args.stdin:
         html = sys.stdin.read()
@@ -461,10 +506,29 @@ def main() -> int:
     if args.notes:
         data["source"]["notes"] = str(args.notes)
 
+    replace_tags: list[str] = []
+    for chunk in args.replace_tag or []:
+        replace_tags.extend(p.strip() for p in chunk.split(",") if p.strip())
+
     if args.write:
         out_dir = _DEFAULT_ARTICLES
         out_dir.mkdir(parents=True, exist_ok=True)
         out_path = out_dir / f"{args.article}.json"
+        existing_tags: list[Any] = []
+        if out_path.is_file():
+            try:
+                prev = json.loads(out_path.read_text(encoding="utf-8"))
+                existing_tags = prev.get("tags") or []
+            except (json.JSONDecodeError, OSError):
+                existing_tags = []
+        if args.campaign_tag or replace_tags:
+            data["tags"] = _finalize_tags(
+                existing_tags,
+                campaign_tag=args.campaign_tag,
+                replace_tags=replace_tags or None,
+            )
+        elif existing_tags:
+            data["tags"] = list(existing_tags)
         out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         if not args.quiet:
             print(str(out_path))

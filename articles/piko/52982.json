@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52982",
+  "manufacturer": "PIKO",
+  "articleNumber": "52982",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 332.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "Privatbahn",
+    "type": "Desiro",
+    "number": null,
+    "livery": "Midtjyske Jernbaner",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 479,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen \"Desiro\" Midtjyske Jernbaner VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52982\nEAN: 4015615529828\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 479\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56581\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-desiro-midtjyske-jernbaner-vi-44858.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_44858/thumbs/54467_448464.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

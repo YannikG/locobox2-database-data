@@ -11,8 +11,8 @@
   "model": {
     "country": "BE",
     "operator": "SNCB",
-    "type": "Rh 7000",
-    "number": null,
+    "type": "Rh",
+    "number": "7000",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

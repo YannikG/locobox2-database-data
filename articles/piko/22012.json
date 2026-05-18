@@ -11,8 +11,8 @@
   "model": {
     "country": "DK",
     "operator": "DSB",
-    "type": "Rh 600",
-    "number": null,
+    "type": "Rh",
+    "number": "600",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

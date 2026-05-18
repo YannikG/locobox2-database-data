@@ -11,8 +11,8 @@
   "model": {
     "country": "CZ",
     "operator": "CD",
-    "type": "Rh 240",
-    "number": null,
+    "type": "Rh",
+    "number": "240",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

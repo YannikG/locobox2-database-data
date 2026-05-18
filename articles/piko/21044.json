@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh 1067",
-    "number": null,
+    "type": "Rh",
+    "number": "1067",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

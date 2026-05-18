@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97803",
+  "manufacturer": "PIKO",
+  "articleNumber": "97803",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 269.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "BR E.428 3. aerodynamische Serie",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 222,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR E.428 3. aerodynamische Serie FS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97803\nEAN: 4015615978039\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 222\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56623\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-e.428-3.-aerodynamische-serie-fs-iii-41338.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41338/thumbs/56539_445408.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21752",
+  "manufacturer": "PIKO",
+  "articleNumber": "21752",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 284.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 440",
+    "number": null,
+    "livery": "Bwegt",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 818,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrotriebwagen BR 440 Bwegt DB AG VI 4-tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21752\nEAN: 4015615217527\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 818\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56145 + 2x #56146\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56614\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrotriebwagen-br-440-bwegt-db-ag-vi-4-tlg.-45216.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45216/thumbs/56079_412705.jpg"
+  },
+  "updatedAt": "2026-05-18T04:38:22Z"
+}

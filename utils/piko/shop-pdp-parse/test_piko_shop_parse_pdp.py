@@ -53,5 +53,23 @@ class TestPikoElectricSystem(unittest.TestCase):
         self.assertEqual(m._canonical_electric_system_from_description(desc), "AC-Digital")
 
 
+class TestPikoCampaignTags(unittest.TestCase):
+    def test_replace_2026_with_2025(self) -> None:
+        out = m._finalize_tags(
+            ["piko-neuheiten-2026", "other"],
+            campaign_tag="piko-neuheiten-2025",
+            replace_tags=["piko-neuheiten-2026"],
+        )
+        self.assertEqual(out, ["piko-neuheiten-2025", "other"])
+
+    def test_add_campaign_on_empty(self) -> None:
+        out = m._finalize_tags(
+            [],
+            campaign_tag="piko-neuheiten-2025",
+            replace_tags=["piko-neuheiten-2026"],
+        )
+        self.assertEqual(out, ["piko-neuheiten-2025"])
+
+
 if __name__ == "__main__":
     unittest.main()
