@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "Sound-E-Triebwagen BR 442 \"Talent 2\" National Express VI 3tlg, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59518\nEAN: 4015615595182\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 636\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Werkseitig nicht für Innenbeleuchtung vorbereitet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
   "tags": [
     "piko-neuheiten-2025"
   ],

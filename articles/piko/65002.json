@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-65002",
+  "manufacturer": "PIKO",
+  "articleNumber": "65002",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "G Fachwerkhaus",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": null,
+    "decoderInterface": null,
+    "era": null,
+    "luepMm": null,
+    "minRadiusMm": null
+  },
+  "description": "G Fachwerkhaus Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 65002\nEAN: 4015615650027\nBemerkung: Accessoires und Figuren nicht enthalten! Abbildung zeigt Gestaltungsvorschlag\nHersteller: PIKO\nMaßbezeichnung: H x L x B\nMaß [mm]: 365 x 300 x 445\nAltersempfehlung: ab 14 Jahren\nWarnhinweis H225: Klebstoff: Flüssigkeit und Dampf leicht entzündbar.\nWarnhinweis H319: Klebstoff: Verursacht schwere Augenreizung.\nWarnhinweis H336: Klebstoff: Kann Schläfrigkeit und Benommenheit verursachen.",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/g-fachwerkhaus-45728.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_g/oart_45728/thumbs/57015_481171.jpg"
+  },
+  "updatedAt": "2026-05-18T06:06:04Z"
+}

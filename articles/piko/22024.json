@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-22024",
+  "manufacturer": "PIKO",
+  "articleNumber": "22024",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.445",
+    "number": null,
+    "livery": "IC Lackierung",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok D.445 IC Lackierung FS VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22024\nEAN: 4015615220244\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-d.445-ic-lackierung-fs-vi-46051.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_46051/thumbs/59405_524936.jpg"
+  },
+  "updatedAt": "2026-05-18T05:16:56Z"
+}

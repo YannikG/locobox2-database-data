@@ -3,7 +3,7 @@
   "id": "piko-21751",
   "manufacturer": "PIKO",
   "articleNumber": "21751",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 325.0,
     "currency": "EUR"
@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "Privatbahn",
-    "type": "BR 193",
-    "number": "3193",
+    "type": "BR 3193",
+    "number": null,
     "livery": "Stern Hafferl",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Sound-Zweikraftlok \"dual mode\" BR 3193 Stern Hafferl VI Wechselstrom, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21751\nEAN: 4015615217510\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 230\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Maschinenraumbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-zweikraftlok-dual-mode-br-3193-stern-hafferl-vi-wechselstrom,-inkl.-piko-sound-decoder-45732.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45732/thumbs/56828_481073.jpg"
   },
-  "updatedAt": "2026-05-14T19:54:32Z"
+  "updatedAt": "2026-05-18T05:12:12Z"
 }

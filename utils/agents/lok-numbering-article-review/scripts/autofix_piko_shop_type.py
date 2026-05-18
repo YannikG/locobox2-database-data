@@ -189,10 +189,13 @@ def propose_fix(article: Article) -> Optional[Fix]:
     desc = (article.get("description") or "") + " " + ((article.get("source") or {}).get("url") or "")
     desc_l = desc.lower()
 
-    # Vectron: «BR 7193» / «BR 3193» → Baureihe 193 + Betriebsnummer
+    # Vectron: Shop-Titel «BR 7193» → Baureihe 193 + Betriebsnummer (nicht echte BR 3193)
     m = re.fullmatch(r"BR (\d{4})", clean, re.I)
-    if m and ("vectron" in desc_l or "dual mode" in desc_l or "zweikraftlok" in desc_l):
-        num = m.group(1)
+    num = m.group(1) if m else ""
+    if m and (
+        "vectron" in desc_l
+        or ("zweikraftlok" in desc_l and num.startswith("7"))
+    ):
         liv = None
         if "medway" in desc_l:
             liv = "Medway"

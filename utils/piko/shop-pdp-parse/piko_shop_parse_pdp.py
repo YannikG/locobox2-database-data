@@ -430,6 +430,14 @@ def parse_html(
     return payload
 
 
+def _release_year_from_campaign_tag(campaign_tag: Optional[str]) -> Optional[str]:
+    """Erscheinungsjahr aus Kampagnen-Slug (z. B. ``piko-neuheiten-2025-2-halbjahr`` → ``2025``)."""
+    if not campaign_tag or not isinstance(campaign_tag, str):
+        return None
+    m = re.search(r"(?<!\d)(20[0-9]{2})(?!\d)", campaign_tag)
+    return m.group(1) if m else None
+
+
 def _finalize_tags(
     existing_tags: list[Any],
     *,
@@ -479,6 +487,15 @@ def main() -> int:
             "(mehrfach oder kommagetrennt; z. B. piko-neuheiten-2026)."
         ),
     )
+    ap.add_argument(
+        "--release-date",
+        metavar="YEAR_OR_TEXT",
+        default=None,
+        help=(
+            "Nur mit --write: releaseDate setzen (z. B. 2025). "
+            "Ohne Angabe: bestehenden Wert behalten; sonst aus --campaign-tag (20xx) ableiten."
+        ),
+    )
     ap.add_argument("--quiet", action="store_true", help="Weniger stdout bei --write.")
     args = ap.parse_args()
     if args.campaign_tag and not args.write:
@@ -486,6 +503,9 @@ def main() -> int:
         return 2
     if args.replace_tag and not args.write:
         print("error: --replace-tag nur mit --write.", file=sys.stderr)
+        return 2
+    if args.release_date and not args.write:
+        print("error: --release-date nur mit --write.", file=sys.stderr)
         return 2
 
     if args.stdin:
@@ -515,10 +535,14 @@ def main() -> int:
         out_dir.mkdir(parents=True, exist_ok=True)
         out_path = out_dir / f"{args.article}.json"
         existing_tags: list[Any] = []
+        prev_release: Any = None
+        prev_categories: list[Any] = []
         if out_path.is_file():
             try:
                 prev = json.loads(out_path.read_text(encoding="utf-8"))
                 existing_tags = prev.get("tags") or []
+                prev_release = prev.get("releaseDate")
+                prev_categories = prev.get("categories") or []
             except (json.JSONDecodeError, OSError):
                 existing_tags = []
         if args.campaign_tag or replace_tags:
@@ -529,6 +553,18 @@ def main() -> int:
             )
         elif existing_tags:
             data["tags"] = list(existing_tags)
+
+        release = (args.release_date or "").strip() or None
+        if not release:
+            release = _release_year_from_campaign_tag(args.campaign_tag)
+        if release:
+            data["releaseDate"] = release
+        elif prev_release is not None:
+            data["releaseDate"] = prev_release
+
+        if prev_categories:
+            data["categories"] = list(prev_categories)
+
         out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         if not args.quiet:
             print(str(out_path))

@@ -3,7 +3,7 @@
   "id": "piko-59079",
   "manufacturer": "PIKO",
   "articleNumber": "59079",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 205.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Diesellok G 1700 GKB VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59079\nEAN: 4015615590798\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56652\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-g-1700-gkb-vi-wechselstromversion-45342.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45342/thumbs/58003_508701.jpg"
   },
-  "updatedAt": "2026-05-14T21:25:48Z"
+  "updatedAt": "2026-05-18T06:00:54Z"
 }

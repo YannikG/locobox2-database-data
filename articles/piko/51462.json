@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "E-Triebzug EN 57 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51462\nEAN: 4015615514626\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 747\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
   "tags": [
     "piko-neuheiten-2025"
   ],

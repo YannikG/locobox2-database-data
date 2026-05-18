@@ -3,7 +3,7 @@
   "id": "piko-52979",
   "manufacturer": "PIKO",
   "articleNumber": "52979",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 332.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Dieseltriebwagen \"Desiro\" bwegt DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52979\nEAN: 4015615529798\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 479\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56581\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-desiro-bwegt-db-ag-vi-44855.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_44855/thumbs/58818_517730.jpg"
   },
-  "updatedAt": "2026-05-14T21:17:38Z"
+  "updatedAt": "2026-05-18T05:47:55Z"
 }

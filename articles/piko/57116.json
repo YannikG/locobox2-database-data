@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57116",
+  "manufacturer": "PIKO",
+  "articleNumber": "57116",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 169.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "Start-Set mit Bettung E-Lok EU44 mit 3 Personenwagen PKP IC",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": null,
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Start-Set mit Bettung E-Lok EU44 mit 3 Personenwagen PKP IC VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57116\nEAN: 4015615571162\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: VI\nMaßbezeichnung: Länge des Zuges\nMindestradius [mm]: 358\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-e-lok-eu44-mit-3-personenwagen-pkp-ic-vi-45717.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45717/thumbs/58992_520057.jpg"
+  },
+  "updatedAt": "2026-05-18T05:52:36Z"
+}

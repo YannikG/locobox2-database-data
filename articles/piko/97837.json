@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "Diesellok SP 9022 modifiziert Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97837\nEAN: 4015615978374\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SP (Southern Pacific)\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 231\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder nachrüstbar #56627\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2026"
   ],

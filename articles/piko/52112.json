@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52112",
+  "manufacturer": "PIKO",
+  "articleNumber": "52112",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "Rh",
+    "number": "553",
+    "livery": "SCM",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 184,
+    "minRadiusMm": 358
+  },
+  "description": "Diesel-Schienenbus Rh 553 SCM VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52112\nEAN: 4015615521129\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 184\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56532\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesel-schienenbus-rh-553-scm-vi-45526.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45526/thumbs/57749_504389.jpg"
+  },
+  "updatedAt": "2026-05-18T05:38:54Z"
+}
