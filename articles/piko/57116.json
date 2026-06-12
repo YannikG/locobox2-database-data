@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "decoderInterface": null,
+    "decoderInterface": "Unbekannt",
     "era": "VI",
     "luepMm": null,
     "minRadiusMm": 358

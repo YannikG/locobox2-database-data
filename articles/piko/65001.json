@@ -9,15 +9,15 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": null,
+    "country": "DE",
+    "operator": "Privatbahn",
     "type": "G Stellwerk Moosbach",
     "number": null,
     "livery": null,
-    "scale": "H0",
-    "electricSystem": null,
-    "decoderInterface": null,
-    "era": null,
+    "scale": "G",
+    "electricSystem": "Unbekannt",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
     "luepMm": null,
     "minRadiusMm": null
   },

@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0.0",
-  "id": "piko-26000",
+  "id": "piko-94147",
   "manufacturer": "PIKO",
-  "articleNumber": "26000",
+  "articleNumber": "94147",
   "releaseDate": "2025",
   "uvp": {
     "amount": 264.0,
@@ -11,11 +11,11 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "N E-Lok BB 26000",
+    "type": "BB 26000",
     "number": null,
     "livery": null,
-    "scale": "H0",
-    "electricSystem": null,
+    "scale": "N",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 651",
     "era": "VI",
     "luepMm": 161,

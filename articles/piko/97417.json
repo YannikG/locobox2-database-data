@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "SK",
     "operator": "Privatbahn",
     "type": "044 115 RTI",
     "number": null,

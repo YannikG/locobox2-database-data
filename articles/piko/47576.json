@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CZ",
     "operator": "Privatbahn",
     "type": "BR 223",
     "number": null,
     "livery": "Regiojet",
-    "scale": "H0",
-    "electricSystem": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
     "era": "VI",
     "luepMm": 161,

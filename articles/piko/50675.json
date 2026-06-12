@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": null,
+    "country": "IT",
+    "operator": "FS",
     "type": "Serie 11 EST",
     "number": null,
     "livery": null,

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "BE",
     "operator": "Privatbahn",
     "type": "Rh",
     "number": "553",
