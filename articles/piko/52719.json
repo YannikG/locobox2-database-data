@@ -3,7 +3,7 @@
   "id": "piko-52719",
   "manufacturer": "PIKO",
   "articleNumber": "52719",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 264.0,
     "currency": "EUR"
@@ -13,7 +13,7 @@
     "operator": "Privatbahn",
     "type": "BR 228",
     "number": null,
-    "livery": null,
+    "livery": "Cargo Logistic Rail",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Sound-Diesellok BR 228 Cargo Logistic Rail VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52719\nEAN: 4015615527190\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-228-cargo-logistic-rail-vi-wechselstromversion,-inkl.-piko-sound-decoder-45537.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45537/thumbs/58959_519893.jpg"
   },
-  "updatedAt": "2026-05-14T21:16:11Z"
+  "updatedAt": "2026-05-18T05:45:03Z"
 }

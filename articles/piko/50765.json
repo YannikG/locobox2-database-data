@@ -22,7 +22,10 @@
     "minRadiusMm": 422
   },
   "description": "Sound-Dampflok TKt48 PKP IV, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50765\nEAN: 4015615507659\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 163\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2026"
   ],

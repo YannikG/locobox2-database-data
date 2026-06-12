@@ -3,7 +3,7 @@
   "id": "piko-51151",
   "manufacturer": "PIKO",
   "articleNumber": "51151",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 369.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Sound-E-Lok Rh 1018 ÖBB V Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51151\nEAN: 4015615511519\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: ÖBB\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 194\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-rh-1018-oebb-v-wechselstromversion,-inkl.-piko-sound-decoder-44769.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44769/thumbs/58284_511589.jpg"
   },
-  "updatedAt": "2026-05-14T20:39:58Z"
+  "updatedAt": "2026-05-18T05:27:57Z"
 }

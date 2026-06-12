@@ -130,6 +130,56 @@ def _product_type_line_from_html(html: str, og_title: str) -> Optional[str]:
     return bt or None
 
 
+def _shop_article_number(attrs: dict[str, str], description: str) -> Optional[str]:
+    """Artikelnummer aus PDP-Attributen oder Beschreibung."""
+    raw = (attrs.get("Artikelnummer") or "").strip()
+    if raw.isdigit():
+        return raw
+    m = re.search(r"Artikelnummer:\s*(\d+)", description or "")
+    return m.group(1) if m else None
+
+
+def _derive_scale_from_type(type_line: Optional[str]) -> str:
+    """Maßstab aus Shop-Produktzeile (N-/G-/TT-Präfix)."""
+    t = (type_line or "").strip()
+    if not t:
+        return "H0"
+    if re.match(r"^TT\b", t, re.I):
+        return "TT"
+    if re.match(r"^G\b", t, re.I):
+        return "G"
+    if re.match(r"^N\b", t, re.I):
+        return "N"
+    return "H0"
+
+
+_ROLLING_STOCK = re.compile(
+    r"lok|triebwagen|triebzug|zweikraft|dampflok|diesellok|elektrolok|e-lok|"
+    r"schienenbus|railcar|start-set.*\blok\b",
+    re.I,
+)
+_NON_ROLLING_STOCK = re.compile(
+    r"bahnhof|stellwerk|fachwerkhaus|gebäude|gebaeude|für\s+echte\s+piko\s+fans",
+    re.I,
+)
+
+
+def _looks_like_rolling_stock(payload: dict[str, Any]) -> bool:
+    """Heuristik: Lok, Triebwagen, Triebzug, Start-Set mit Lok — kein Gebäude/Accessoire."""
+    model = payload.get("model") or {}
+    type_line = (model.get("type") or "").strip()
+    desc_head = (payload.get("description") or "")[:240]
+    blob = f"{type_line} {desc_head}"
+    if _NON_ROLLING_STOCK.search(blob):
+        return False
+    if _ROLLING_STOCK.search(blob):
+        return True
+    scale = model.get("scale")
+    if scale in ("G",) and not _ROLLING_STOCK.search(type_line):
+        return False
+    return False
+
+
 def _parse_product_attributes_table(html: str) -> dict[str, str]:
     """
     PDP-Tabelle (u. a. ``#product-attributes``): ``attribute-desc`` / ``attribute-value``-Paare.
@@ -391,6 +441,7 @@ def parse_html(
     type_line = _product_type_line_from_html(html, title)
     if type_line:
         model["type"] = type_line
+        model["scale"] = _derive_scale_from_type(type_line)
 
     if body_long:
         description = body_long
@@ -408,11 +459,17 @@ def parse_html(
     if es:
         model["electricSystem"] = es
 
+    shop_article = _shop_article_number(attrs, description) or article.strip()
+    if shop_article != article.strip():
+        raise ValueError(
+            f"Shop-Artikelnummer {shop_article} weicht von angefordert {article.strip()} ab"
+        )
+
     payload = {
         "schemaVersion": "1.0.0",
-        "id": f"piko-{article}",
+        "id": f"piko-{shop_article}",
         "manufacturer": "PIKO",
-        "articleNumber": article,
+        "articleNumber": shop_article,
         "releaseDate": None,
         "uvp": {"amount": price, "currency": "EUR"},
         "model": model,
@@ -428,6 +485,14 @@ def parse_html(
     }
     _apply_piko_type_fixup(payload)
     return payload
+
+
+def _release_year_from_campaign_tag(campaign_tag: Optional[str]) -> Optional[str]:
+    """Erscheinungsjahr aus Kampagnen-Slug (z. B. ``piko-neuheiten-2025-2-halbjahr`` → ``2025``)."""
+    if not campaign_tag or not isinstance(campaign_tag, str):
+        return None
+    m = re.search(r"(?<!\d)(20[0-9]{2})(?!\d)", campaign_tag)
+    return m.group(1) if m else None
 
 
 def _finalize_tags(
@@ -464,6 +529,11 @@ def main() -> int:
     ap.add_argument("--image-url", default=None, help="Bild-URL überschreiben (z. B. aus Netzwerk).")
     ap.add_argument("--write", action="store_true", help="Nach articles/piko/{nr}.json schreiben.")
     ap.add_argument(
+        "--skip-non-rolling-stock",
+        action="store_true",
+        help="Mit --write: kein Schreiben bei Gebäuden/Accessoires (exit 4).",
+    )
+    ap.add_argument(
         "--campaign-tag",
         metavar="SLUG",
         default=None,
@@ -479,6 +549,15 @@ def main() -> int:
             "(mehrfach oder kommagetrennt; z. B. piko-neuheiten-2026)."
         ),
     )
+    ap.add_argument(
+        "--release-date",
+        metavar="YEAR_OR_TEXT",
+        default=None,
+        help=(
+            "Nur mit --write: releaseDate setzen (z. B. 2025). "
+            "Ohne Angabe: bestehenden Wert behalten; sonst aus --campaign-tag (20xx) ableiten."
+        ),
+    )
     ap.add_argument("--quiet", action="store_true", help="Weniger stdout bei --write.")
     args = ap.parse_args()
     if args.campaign_tag and not args.write:
@@ -486,6 +565,9 @@ def main() -> int:
         return 2
     if args.replace_tag and not args.write:
         print("error: --replace-tag nur mit --write.", file=sys.stderr)
+        return 2
+    if args.release_date and not args.write:
+        print("error: --release-date nur mit --write.", file=sys.stderr)
         return 2
 
     if args.stdin:
@@ -497,12 +579,16 @@ def main() -> int:
             return 2
         html = p.read_text(encoding="utf-8", errors="replace")
 
-    data = parse_html(
-        html,
-        canonical_url=str(args.canonical_url).strip(),
-        article=str(args.article).strip(),
-        image_override=(str(args.image_url).strip() if args.image_url else None),
-    )
+    try:
+        data = parse_html(
+            html,
+            canonical_url=str(args.canonical_url).strip(),
+            article=str(args.article).strip(),
+            image_override=(str(args.image_url).strip() if args.image_url else None),
+        )
+    except ValueError as ex:
+        print(f"error: {ex}", file=sys.stderr)
+        return 3
     if args.notes:
         data["source"]["notes"] = str(args.notes)
 
@@ -511,14 +597,26 @@ def main() -> int:
         replace_tags.extend(p.strip() for p in chunk.split(",") if p.strip())
 
     if args.write:
+        if args.skip_non_rolling_stock and not _looks_like_rolling_stock(data):
+            num = data.get("articleNumber", args.article)
+            print(
+                f"error: {num}: kein rollendes Material (Lok/Triebwagen/Triebzug) — übersprungen.",
+                file=sys.stderr,
+            )
+            return 4
         out_dir = _DEFAULT_ARTICLES
         out_dir.mkdir(parents=True, exist_ok=True)
-        out_path = out_dir / f"{args.article}.json"
+        article_num = str(data["articleNumber"]).strip()
+        out_path = out_dir / f"{article_num}.json"
         existing_tags: list[Any] = []
+        prev_release: Any = None
+        prev_categories: list[Any] = []
         if out_path.is_file():
             try:
                 prev = json.loads(out_path.read_text(encoding="utf-8"))
                 existing_tags = prev.get("tags") or []
+                prev_release = prev.get("releaseDate")
+                prev_categories = prev.get("categories") or []
             except (json.JSONDecodeError, OSError):
                 existing_tags = []
         if args.campaign_tag or replace_tags:
@@ -529,6 +627,18 @@ def main() -> int:
             )
         elif existing_tags:
             data["tags"] = list(existing_tags)
+
+        release = (args.release_date or "").strip() or None
+        if not release:
+            release = _release_year_from_campaign_tag(args.campaign_tag)
+        if release:
+            data["releaseDate"] = release
+        elif prev_release is not None:
+            data["releaseDate"] = prev_release
+
+        if prev_categories:
+            data["categories"] = list(prev_categories)
+
         out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         if not args.quiet:
             print(str(out_path))

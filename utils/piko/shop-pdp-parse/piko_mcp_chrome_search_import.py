@@ -617,7 +617,7 @@ async def _run_piko_mcp_import(
                         if rt.strip():
                             pargs.extend(["--replace-tag", rt.strip()])
                     if write:
-                        pargs.extend(["--write", "--quiet"])
+                        pargs.extend(["--write", "--quiet", "--skip-non-rolling-stock"])
                     proc = subprocess.run(pargs, cwd=str(_REPO_ROOT), timeout=300)
                     if proc.returncode != 0:
                         print(f"error: Parser exit {proc.returncode} für {art}", file=sys.stderr)

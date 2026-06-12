@@ -3,7 +3,7 @@
   "id": "piko-50740",
   "manufacturer": "PIKO",
   "articleNumber": "50740",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 259.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 422
   },
   "description": "Dampflok Rh 691 ÖBB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50740\nEAN: 4015615507406\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 123\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar # 56643\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/dampflok-rh-691-oebb-iii-45693.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45693/thumbs/58071_509502.jpg"
   },
-  "updatedAt": "2026-05-14T20:30:55Z"
+  "updatedAt": "2026-05-18T05:23:39Z"
 }

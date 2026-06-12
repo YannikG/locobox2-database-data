@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-94152",
+  "manufacturer": "PIKO",
+  "articleNumber": "94152",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 256.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RBe 4/4",
+    "number": "1406",
+    "livery": "Prototyp, grün, alte Schrift",
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 662 Next18",
+    "era": "IV",
+    "luepMm": 148,
+    "minRadiusMm": 225
+  },
+  "description": "N-Triebwagen RBe 4/4 1406 Prototyp, grün, alte Schrift, SBB Ep. IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 94152\nEAN: 4015615941521\nHersteller: PIKO\nBahnverwaltung: SBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 148\nMindestradius [mm]: 225\nDigitale Schnittstelle: NEM 662 Next18\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-triebwagen-rbe-4-4-1406-prototyp,-gruen,-alte-schrift,-sbb-ep.-iv-47654.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_47654/thumbs/58962_519819.jpg"
+  },
+  "updatedAt": "2026-05-18T06:06:32Z"
+}

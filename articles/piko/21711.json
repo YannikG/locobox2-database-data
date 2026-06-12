@@ -3,7 +3,7 @@
   "id": "piko-21711",
   "manufacturer": "PIKO",
   "articleNumber": "21711",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 315.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Sound-E-Lok BR 111 122 DB IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21711\nEAN: 4015615217114\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-111-122-db-iv,-inkl.-piko-sound-decoder-45350.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45350/thumbs/58121_510250.jpg"
   },
-  "updatedAt": "2026-05-14T19:46:58Z"
+  "updatedAt": "2026-05-18T05:00:55Z"
 }

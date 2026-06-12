@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96893",
+  "manufacturer": "PIKO",
+  "articleNumber": "96893",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 365.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4",
+    "number": "409",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok Re 4/4 | 409 SBB III, inkl. PIKO SoundDecoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96893\nEAN: 4015615968931\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: SBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-re-4-4-%7C-409-sbb-iii,-inkl.-piko-sounddecoder-44881.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44881/thumbs/57038_482210.jpg"
+  },
+  "updatedAt": "2026-05-18T06:13:11Z"
+}

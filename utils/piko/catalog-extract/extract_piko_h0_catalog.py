@@ -48,7 +48,8 @@ ACCESSORY_LINE = re.compile(
     r"Schaltdecoder|RD\s+4000|SD\s+2000|Software\s+Upgrade|"
     r"Stellpult|Wechselstromspeichen|Haftreifen|Radsatz|"
     r"PIKO\s+Servo|PSP-|SmartBooster|SmartControllerwlan|SmartBoxwlan|"
-    r"Schnellanleitung|Netzadapter\s*\(",
+    r"Schnellanleitung|Netzadapter\s*\(|"
+    r"G\s+Bahnhof|G\s+Stellwerk|G\s+Fachwerkhaus|Bahnhof\s+Neuffen",
     re.I,
 )
 

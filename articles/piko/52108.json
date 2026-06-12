@@ -3,7 +3,7 @@
   "id": "piko-52108",
   "manufacturer": "PIKO",
   "articleNumber": "52108",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 315.0,
     "currency": "EUR"
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Sound-Diesellok ST44 PKP Cargo V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52108\nEAN: 4015615521082\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 202\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-st44-pkp-cargo-v,-inkl.-piko-sound-decoder-45489.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45489/thumbs/57904_507614.jpg"
   },
-  "updatedAt": "2026-05-14T20:55:10Z"
+  "updatedAt": "2026-05-18T05:37:00Z"
 }

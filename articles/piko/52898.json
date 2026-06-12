@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52898",
+  "manufacturer": "PIKO",
+  "articleNumber": "52898",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 409.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 772",
+    "number": null,
+    "livery": "+ Steuerwagen",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 311,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Dieseltriebwagen BR 772 + Steuerwagen DR VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52898\nEAN: 4015615528982\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 311\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Beleuchtete Zugzielanzeige (digital schaltbar)\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-br-772-steuerwagen-dr-vi-wechselstromversion,-inkl.-piko-sound-decoder-45636.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45636/thumbs/57624_502585.jpg"
+  },
+  "updatedAt": "2026-05-18T05:47:26Z"
+}

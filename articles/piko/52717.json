@@ -3,7 +3,7 @@
   "id": "piko-52717",
   "manufacturer": "PIKO",
   "articleNumber": "52717",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 154.0,
     "currency": "EUR"
@@ -13,7 +13,7 @@
     "operator": "Privatbahn",
     "type": "BR 228",
     "number": null,
-    "livery": null,
+    "livery": "Cargo Logistic Rail",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Diesellok BR 228 Cargo Logistic Rail VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52717\nEAN: 4015615527176\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56557\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-br-228-cargo-logistic-rail-vi-45535.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45535/thumbs/58957_519831.jpg"
   },
-  "updatedAt": "2026-05-14T21:15:14Z"
+  "updatedAt": "2026-05-18T05:44:06Z"
 }

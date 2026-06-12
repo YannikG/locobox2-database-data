@@ -3,7 +3,7 @@
   "id": "piko-52100",
   "manufacturer": "PIKO",
   "articleNumber": "52100",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": {
     "amount": 195.0,
     "currency": "EUR"
@@ -13,7 +13,7 @@
     "operator": "Privatbahn",
     "type": "BR 211",
     "number": null,
-    "livery": null,
+    "livery": "VLTJ",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
@@ -22,14 +22,18 @@
     "minRadiusMm": 358
   },
   "description": "Diesellok BR 211 VLTJ V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52100\nEAN: 4015615521006\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 141\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56624\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-neuheiten-2025-2-halbjahr"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-br-211-vltj-v-45861.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45861/thumbs/58776_517337.jpg"
   },
-  "updatedAt": "2026-05-14T20:53:16Z"
+  "updatedAt": "2026-05-18T05:34:09Z"
 }

@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "E-Lok V 43.3 MAV V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51446\nEAN: 4015615514466\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56598\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2025"
   ],

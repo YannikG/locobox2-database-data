@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59795",
+  "manufacturer": "PIKO",
+  "articleNumber": "59795",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 189.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "T 669",
+    "number": "0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 199,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok T 669.0 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59795\nEAN: 4015615597957\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 199\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56542\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-t-669.0-csd-iv-45892.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45892/thumbs/59246_523011.jpg"
+  },
+  "updatedAt": "2026-05-18T06:04:12Z"
+}

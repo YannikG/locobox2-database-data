@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "E-Lok Rh 1010 ÖBB V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21725\nEAN: 4015615217251\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 205\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56563\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2025"
   ],

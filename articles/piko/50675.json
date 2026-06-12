@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50675",
+  "manufacturer": "PIKO",
+  "articleNumber": "50675",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 539.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Serie 11 EST",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "II",
+    "luepMm": 159,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok Serie 11 EST II Wechselstromversion, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50675\nEAN: 4015615506751\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 159\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-serie-11-est-ii-wechselstromversion,-inkl.-piko-sound-decoder-und-dampfgenerator-45615.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45615/thumbs/57418_495442.jpg"
+  },
+  "updatedAt": "2026-05-18T05:20:58Z"
+}

@@ -22,7 +22,10 @@
     "minRadiusMm": 358
   },
   "description": "E-Lok 431.194 MAV VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51449\nEAN: 4015615514497\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56598\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2026"
   ],
