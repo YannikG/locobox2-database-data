@@ -11,9 +11,9 @@
   "model": {
     "country": "PL",
     "operator": "PKP",
-    "type": "EP09-015 104E",
-    "number": null,
-    "livery": null,
+    "type": "EP09",
+    "number": "015",
+    "livery": "104E",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",

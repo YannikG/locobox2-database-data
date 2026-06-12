@@ -11,9 +11,9 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "N-Triebwagen RBe 4/4 1406 Prototyp, grün, alte Schrift, SBB Ep.",
-    "number": null,
-    "livery": null,
+    "type": "RBe 4/4",
+    "number": "1406",
+    "livery": "Prototyp, grün, alte Schrift",
     "scale": "N",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",

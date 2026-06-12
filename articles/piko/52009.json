@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "VT 612 \"Regioswinger\"",
+    "type": "VT 612",
     "number": null,
-    "livery": null,
+    "livery": "Regioswinger",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",

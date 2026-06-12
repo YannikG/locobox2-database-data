@@ -42,7 +42,8 @@ def _strip_prefix(t: str) -> str:
         u = re.sub(
             r"^(Zweikraftlok|Elektrotriebwagen|Elektrotriebzug|Dieseltriebwagen|"
             r"Elektrolokomotive|Diesellokomotive|Schlepptenderlok|Dampflok|Elektrolok|"
-            r"Diesellok|E[- ]?Triebzug|E-Triebzug|Sound-E-Triebzug|E-Lok|Zugset)\s+",
+            r"Diesellok|E[- ]?Triebzug|E-Triebzug|Sound-E-Triebzug|E[- ]?Lok(?:/Sound)?|"
+            r"E[- ]?Triebwagen|N[- ]?Triebwagen|E-Lok|Zugset)\s+",
             "",
             u,
             count=1,
@@ -170,6 +171,28 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
     m = re.fullmatch(r"431\.(\d+)", clean)
     if m and (model.get("operator") or "").upper() == "MAV":
         return ("piko_mav_dot", "431", m.group(1), None, None)
+
+    m = re.match(r"^(Re\s+4/4)\s*[|]\s*(\d+)(?:\s+(.*))?$", clean, re.I)
+    if m:
+        tail = (m.group(3) or "").strip()
+        tail = re.sub(r",?\s*inkl\.?\s*PIKO Sound.*$", "", tail, flags=re.I)
+        if re.fullmatch(r"(?:SBB|DB|ÖBB|OBB|PKP|SNCF|FS)(?:\s+(?:I{1,3}|IV|V|VI|III))?", tail, re.I):
+            tail = ""
+        return ("piko_re44_pipe", m.group(1), m.group(2), _pick_livery(article, tail or None), None)
+
+    m = re.match(r"^(RBe\s+4/4)\s+(\d{4})(?:\s+(.*))?$", clean, re.I)
+    if m:
+        tail = (m.group(3) or "").strip()
+        tail = re.sub(rf",?\s+SBB\s+{_ROMAN}\.?\s*$", "", tail, flags=re.I)
+        return ("piko_rbe44", m.group(1), m.group(2), _pick_livery(article, tail or None), None)
+
+    m = re.fullmatch(r'VT\s+612\s+["\u201e\u201c]([^"\u201d\u201c]+)["\u201d\u201c]', clean, re.I)
+    if m:
+        return ("piko_vt612", "VT 612", None, _pick_livery(article, m.group(1)), None)
+
+    m = re.fullmatch(r"EP09-(\d{3})(?:\s+(\S+))?", clean, re.I)
+    if m:
+        return ("piko_ep09_num", "EP09", m.group(1), _pick_livery(article, m.group(2)), None)
 
     return None
 

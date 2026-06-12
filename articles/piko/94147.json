@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 26000",
-    "number": null,
+    "type": "BB",
+    "number": "26000",
     "livery": null,
     "scale": "N",
     "electricSystem": "DC-Analog",
