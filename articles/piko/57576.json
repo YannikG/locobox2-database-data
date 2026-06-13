@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57576",
+  "manufacturer": "PIKO",
+  "articleNumber": "57576",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 165.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Hondekop",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III",
+    "luepMm": 588,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrotriebwagen \"Hondekop\" NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57576\nEAN: 4015615575764\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 588\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Lokführerfigur im Führerstand\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrotriebwagen-hondekop-ns-iii-41786.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41786/thumbs/50274_430740.jpg"
+  },
+  "updatedAt": "2026-06-13T02:37:34Z"
+}

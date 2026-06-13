@@ -52,6 +52,26 @@ class TestPikoElectricSystem(unittest.TestCase):
         )
         self.assertEqual(m._canonical_electric_system_from_description(desc), "AC-Digital")
 
+    def test_n_shop_without_stromsystem_dc_analog(self) -> None:
+        desc = (
+            "N E-Lok BR 101 DB AG V Modelleisenbahn kaufen | PIKO Webshop\n\n"
+            "Artikelnummer: 40562\n"
+            "Hersteller: PIKO\n"
+            "Digitale Schnittstelle: NEM 662 Next18"
+        )
+        self.assertEqual(m._infer_electric_system_from_description(desc), "DC-Analog")
+
+    def test_n_sound_without_stromsystem_dc_digital(self) -> None:
+        desc = (
+            "N Sound-E-Lok BR 101 DB AG V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\n"
+            "Artikelnummer: 40563\n"
+            "Hersteller: PIKO\n"
+            "Sound ja/nein: ja\n"
+            "Verbauter Decoder: Next18 Sounddecoder\n"
+            "Sound: PIKO Sound-Decoder werkseitig ausgerüstet"
+        )
+        self.assertEqual(m._infer_electric_system_from_description(desc), "DC-Digital")
+
 
 class TestPikoCampaignTags(unittest.TestCase):
     def test_replace_2026_with_2025(self) -> None:

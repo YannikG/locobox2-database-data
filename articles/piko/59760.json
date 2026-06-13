@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59760",
+  "manufacturer": "PIKO",
+  "articleNumber": "59760",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 289.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 231",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 237,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok BR 231 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59760\nEAN: 4015615597605\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 237\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Beleuchtetes Nummernschild\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-231-dr-iv-wechselstromversion,-inkl.-piko-sound-decoder-41330.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41330/thumbs/53138_428234.jpg"
+  },
+  "updatedAt": "2026-06-13T02:52:43Z"
+}

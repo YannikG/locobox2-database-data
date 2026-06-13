@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51956",
+  "manufacturer": "PIKO",
+  "articleNumber": "51956",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 234.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "Privatbahn",
+    "type": "BR 101",
+    "number": null,
+    "livery": "Train Charter",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 219,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 101 Train Charter VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51956\nEAN: 4015615519560\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 219\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56600\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-101-train-charter-vi-41118.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41118/thumbs/51424_446317.jpg"
+  },
+  "updatedAt": "2026-06-12T21:57:46Z"
+}

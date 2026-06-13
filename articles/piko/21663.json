@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21663",
+  "manufacturer": "PIKO",
+  "articleNumber": "21663",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "1100",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok Rh 1100 NS IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21663\nEAN: 4015615216636\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56536\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1100-ns-iv-41462.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41462/thumbs/47535_413701.jpg"
+  },
+  "updatedAt": "2026-06-12T21:20:37Z"
+}

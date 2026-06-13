@@ -25,7 +25,7 @@ Ausführung in **zwei Phasen** (Pass 1, Phase 2), optional davor oder dazwischen
 
 ## Hard rules
 
-1. **Scope:** Nur geänderte oder vom User genannte `articles/**/*.json` auf dem **aktuellen Branch** (Git wie unten), oder nur genannte Pfade unter `articles/`.
+1. **Scope:** Geänderte oder vom User genannte `articles/**/*.json` auf dem **aktuellen Branch** (Git wie unten), **oder** vom User genannte Pfade unter `articles/`, **oder** expliziter Scope per **Kampagnen-`tags`** (z. B. alle Dateien mit `piko-neuheiten-2024`), **oder** explizite Pfadliste. Bei Tag-Scope: alle passenden JSON unter `articles/` reviewen, nicht nur Git-Diff.
 2. **Read-only:** Pass 1 und Phase 2 sind inhaltlich **Review-first**. Artikel-JSON **nur** schreiben, wenn (a) der User **Auto-Fix** ausdrücklich wünscht (siehe Abschnitt «Auto-Fix») und nur gemäss der dortigen Allowlist, oder (b) der User eine **konkrete** Änderung pro Datei oder global beauftragt (dann ausserhalb dieses Skills die üblichen Projektregeln).
 3. **Ehrlichkeit:** Mehrere Lesarten klar trennen. Nicht raten ohne Kennzeichnung. **Auto-Fix** kein Raten: nur Regeln aus der Allowlist, sonst Finding und Datei unverändert lassen.
 
@@ -51,7 +51,8 @@ fi
 ```
 
 - User nennt Pfade: nur diese Dateien.
-- Keine Diff-Dateien: User fragen (gesamter `articles/`-Baum oder Teilpfade).
+- User nennt **Tag** (z. B. `piko-neuheiten-2024`): alle `articles/**/*.json` mit diesem Tag im `tags`-Array.
+- Keine Diff-Dateien und kein Tag/Pfad: User fragen (gesamter `articles/`-Baum, Teilpfade oder Tag).
 
 ## Auto-Fix (optional, mechanisch)
 
@@ -66,7 +67,9 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`utils/agents/lok-numbe
 - **`autofix_model_type_number_split.py`** — mechanischer Split `model.type` / `model.number` (Allowlist, ändert keine `description`).
 - **`autofix_description_ocr.py`** — optionale OCR-/Encoding-Ersetzungen nur in **`description`**.
 - **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Kategorie (sonst kein Schreiben).
-- **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt.
+- **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (Kategorien; **kein** Ersatz für Typ-/Nummer-Review).
+- **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
+- **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
 - **`test_autofix_model_country.py`** — Unit-Tests zum Country-Skript.
 
@@ -110,7 +113,7 @@ Nur **bekannte, im Projekt oder in** [internal/field-parsing-model.md](internal/
 - Vollständige Betriebsnummer steht **nur** in `model.type` (z. B. Dampf-Präfix «39 1052-8», «38 2566-8»), `model.number` ist `null`, und Baureihe plus Rest sind **eindeutig** splittbar. **Beleg:** mindestens **eine** eindeutige Quelle unter `description` (sachliche erste Zeile), **`source.url`** (Pfadsegment / Slug, z. B. Roco `…-dampflokomotive-38-3713-…`) oder URL erster Zeile **ohne** Widerspruch zwischen diesen Quellen. **OCR in der Beschreibung allein** blockiert den Auto-Fix **nicht**, wenn der **URL-Slug** dieselbe Nummernaufteilung trägt.
 - **Dampflok, zweistellig + vier Ziffern (ohne Prüfziffer im Titel):** `model.type` exakt im Muster **`^\d{2} \d{4}$`** (Leerzeichen genau eines), `model.number` ist `null`, `categories` enthält **`dampflokomotive`**, und `source.url` enthält die gleiche Paarung als **`{Baureihe}-{Viererblock}`** (z. B. `38-3713`, `50-1751`) → `model.type` = zweistellige Baureihe, `model.number` = Viererblock. (Häufiger Shop-/Parserrest; siehe Tabelle in `field-parsing-model.md`.)
 
-**Nicht** Auto-Fix: **`model.electricSystem`** (nie aus Marketing-/Fliesstext, Artikelnummer-Heuristik oder Schwesterdatei ableiten; Shops nutzen oft **dieselbe** Beschreibungsbaustelle für mehrere Varianten → **Pass 1**-Finding oder **explizite** User-Anweisung pro Datei). Ausserdem: jede neue Baureihe raten, SNCF/PKP-Mischfälle, **Triebzug- und Set-Artikel** ohne eindeutige Einzel-Lok-Nummer (langer `model.type`, `model.number` null, keine splittbare Betriebsnummer in URL erster Zeile), **kein** konsistenter Nummernbeleg in `description` **und** kein passender Slug in `source.url`. Diese Fälle in **Pass 1** als Finding («Set/Serie, Schwester ggf. prüfen»), nicht raten.
+**Nicht** Auto-Fix: **`model.electricSystem`** im Review-Skript (nie aus Marketing-/Fliesstext oder Schwesterdatei **per Auto-Fix** ableiten). **Ausnahme Import-Pipeline:** Parser dürfen PIKO-N-Defaults setzen (siehe [internal/field-parsing-model.md](internal/field-parsing-model.md) → «Modell-Stromsystem»); Review prüft **`null`**, Widerspruch zur Beschreibung und Schwester-Varianten. Shops nutzen oft **dieselbe** Beschreibungsbaustelle für mehrere Varianten → **Pass 1**-Finding oder **explizite** User-Anweisung pro Datei. Ausserdem: jede neue Baureihe raten, SNCF/PKP-Mischfälle, **Triebzug- und Set-Artikel** ohne eindeutige Einzel-Lok-Nummer (langer `model.type`, `model.number` null, keine splittbare Betriebsnummer in URL erster Zeile — **Ausnahmen** dokumentiert in [internal/field-parsing-model.md](internal/field-parsing-model.md) → «Sets und Triebzüge»), **kein** konsistenter Nummernbeleg in `description` **und** kein passender Slug in `source.url`. Diese Fälle in **Pass 1** als Finding («Set/Serie, Schwester ggf. prüfen»), nicht raten.
 
 ### Allowlist: `model.livery`
 
@@ -135,8 +138,9 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 - `country` **`null`** und `operator` **«K.P.E.V.»** oder gleichwertig klar **Deutsches Kaiserreich** (historisch) → **`DE`**.
 - `country` **`null`** und `operator` **«Südbahn»** (k. k. Südbahn) mit AT-Kontext in `description`/`categories` → **`AT`**.
 - Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- **PIKO «Privatbahn»:** Livery- und Textanker → [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md); nur bei eindeutigem Anker.
 
-**Nicht** per Skript raten: Grenzverkehr, Vermietung (MRCE, Railpool, …), SNCB/SŽ-Mischungen. Dort **Findings** oder Map im Skript erweitern.
+**Nicht** per Skript raten: Grenzverkehr ohne Anker, SNCB/SŽ-Mischungen, neue EVU-Namen ohne Eintrag in der Referenztabelle. Dort **Findings** oder Map/Skript erweitern.
 
 **Skript:** **`utils/agents/lok-numbering-article-review/scripts/autofix_model_country.py`** (Dry-Run ohne `--apply`). Tests: `cd` … `scripts` && `python3 -m unittest test_autofix_model_country`.
 
@@ -154,6 +158,20 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
   - Pro Datei: **klar ok** (ein Kurzsatz) **oder** **Findings** (nummeriert pro Datei: `F1`, `F2`, …) und alles **Unklare** (Parsing-Zweifel, Widersprüche, fehlende Felder).
 - Keine Rückfrage an den User in Phase 1, ausser Scope unklar.
 - Ende Phase 1: kurze **Statistik** (Anzahl Dateien, Anzahl mit Findings/Unklarem, häufige Muster).
+
+#### Pass 1: PIKO-Shop (wenn Scope PIKO oder Tag PIKO-Neuheiten)
+
+Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) prüfen:
+
+- **`Sound-` / `inkl.`** noch in `model.type`?
+- **Skalenpräfix** (`N `, …) im Typ?
+- **GTW 2/6:** Livery ≠ «Stadler» wenn THURBO/HLB/StB im Titel?
+- **`Rh` + `number`:** NL-Klasse, kein Split-Finding?
+- **`electricSystem` null** bei N-Artikeln (PIKO ohne `Stromsystem:`-Zeile)?
+- **`operator` «Privatbahn»** ohne `country` → Livery-Anker-Tabelle?
+- **Parser-Artefakte** in Nebenfeldern (z. B. unrealistisches `minRadiusMm`) → Finding, kein Nummern-Split
+
+**Bewusst nicht** Loknummer-Skill: `releaseDate`, Kampagnen-Tags, Katalog-vs.-Shop-Vollständigkeit.
 
 ### Phase 2: Datei für Datei
 
@@ -182,6 +200,10 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 |--------|--------|
 | Repo-Skripte (Split, OCR, Tests) | Ordner `utils/agents/lok-numbering-article-review/scripts/` (siehe Abschnitt «Repo-Skripte» unter Auto-Fix) |
 | Splitting `model.type` / `model.number` | [internal/field-parsing-model.md](internal/field-parsing-model.md) |
+| Modell-`electricSystem` (DC/AC am Modell) | [internal/field-parsing-model.md](internal/field-parsing-model.md) («Modell-Stromsystem») |
+| PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
+| Shop-Import-Workflow (PDF → Queue → User-Lauf; nur PIKO/Roco) | [utils/shop-import/IMPORT-WORKFLOW.md](../../../utils/shop-import/IMPORT-WORKFLOW.md), Handoff [AGENT-HANDOFF-TEMPLATE.md](../../../utils/shop-import/AGENT-HANDOFF-TEMPLATE.md) |
+| Privatbahn → Land (Livery-Anker) | [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |
 | EVN / 12 Stellen | [internal/wiki-eindeutige-fahrzeugnummer.md](internal/wiki-eindeutige-fahrzeugnummer.md) |
 | UIC-Wagennummer, Luhn | [internal/wiki-uic-wagennummer.md](internal/wiki-uic-wagennummer.md) |

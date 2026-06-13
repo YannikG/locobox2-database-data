@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59129",
+  "manufacturer": "PIKO",
+  "articleNumber": "59129",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "Privatbahn",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "Stadler",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Elektrotriebwagen GTW 2/6 \"Stadler\" StB VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59129\nEAN: 4015615591290\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2 #56139\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrotriebwagen-gtw-2-6-stadler-stb-vi-wechselstromversion,-inkl.-piko-sound-decoder-41566.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41566/thumbs/53128_436886.jpg"
+  },
+  "updatedAt": "2026-06-13T02:46:17Z"
+}

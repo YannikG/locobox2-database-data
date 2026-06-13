@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59139",
+  "manufacturer": "PIKO",
+  "articleNumber": "59139",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "HLB",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Dieseltriebwagen GTW 2/6 \"Stadler\" HLB VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59139\nEAN: 4015615591399\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-gtw-2-6-stadler-hlb-vi,-inkl.-piko-sound-decoder-41562.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41562/thumbs/53670_435912.jpg"
+  },
+  "updatedAt": "2026-06-13T02:47:24Z"
+}

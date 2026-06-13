@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96889",
+  "manufacturer": "PIKO",
+  "articleNumber": "96889",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 255.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4",
+    "number": "10033",
+    "livery": "TEE",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok Re 4/4 10033 TEE SBB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96889\nEAN: 4015615968894\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56585\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-re-4-4-10033-tee-sbb-iv-42261.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_42261/thumbs/52461_449272.jpg"
+  },
+  "updatedAt": "2026-06-13T03:00:00Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27503",
+  "manufacturer": "PIKO",
+  "articleNumber": "27503",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "THURBO",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Elektotriebwagen GTW 2/6 \"Stadler\" THURBO bwegt SBB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27503\nEAN: 4015615275039\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56617\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektotriebwagen-gtw-2-6-stadler-thurbo-bwegt-sbb-iv-42278.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_42278/thumbs/53110_435948.jpg"
+  },
+  "updatedAt": "2026-06-12T21:30:05Z"
+}

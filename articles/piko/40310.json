@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40310",
+  "manufacturer": "PIKO",
+  "articleNumber": "40310",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 255.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 118",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "IV",
+    "luepMm": 106,
+    "minRadiusMm": 192
+  },
+  "description": "N E-Lok BR 118 DB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40310\nEAN: 4015615403104\nHersteller: PIKO\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 106\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 658 PluX16\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-e-lok-br-118-db-iv-41357.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41357/thumbs/53693_437311.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

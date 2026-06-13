@@ -36,11 +36,12 @@ def _is_piko(article: Article) -> bool:
 def _strip_prefix(t: str) -> str:
     u = t.strip()
     u = re.sub(r"^[~]\s*", "", u)
+    u = re.sub(r"^(?:N|H0|TT)\s+", "", u, count=1, flags=re.I)
     for _ in range(6):
         old = u
         u = re.sub(r"^Sound[- ]?", "", u, count=1, flags=re.I)
         u = re.sub(
-            r"^(Zweikraftlok|Elektrotriebwagen|Elektrotriebzug|Dieseltriebwagen|"
+            r"^(Zweikraftlok|Elektotriebwagen|Elektrotriebwagen|Elektrotriebzug|Dieseltriebwagen|"
             r"Elektrolokomotive|Diesellokomotive|Schlepptenderlok|Dampflok|Elektrolok|"
             r"Diesellok|E[- ]?Triebzug|E-Triebzug|Sound-E-Triebzug|E[- ]?Lok(?:/Sound)?|"
             r"E[- ]?Triebwagen|N[- ]?Triebwagen|E-Lok|Zugset)\s+",
@@ -59,9 +60,9 @@ def _strip_prefix(t: str) -> str:
 def _strip_suffixes(u: str, article: Article) -> str:
     model = article.get("model") or {}
     era = (model.get("era") or "").strip()
-    u = re.sub(r",?\s*inkl\.?\s*PIKO Sound-Decoder.*$", "", u, flags=re.I)
+    u = re.sub(r",?\s*inkl\.?\s*PIKO Sound-?Decoder.*$", "", u, flags=re.I)
     u = re.sub(r"\s+und Dampfgenerator.*$", "", u, flags=re.I)
-    u = re.sub(r"\s+Wechselstromversion.*$", "", u, flags=re.I)
+    u = re.sub(r"\s+Wechselstrom(?:version)?.*$", "", u, flags=re.I)
     u = re.sub(r"\s+modifiziert.*$", "", u, flags=re.I)
     u = re.sub(r"\s+DB AG\s+[IVX]+\s+Wechselstrom\s*$", "", u, flags=re.I)
     if era:
@@ -82,6 +83,7 @@ def _strip_suffixes(u: str, article: Article) -> str:
 
 def _clean_type(raw: str, article: Article) -> str:
     u = _strip_suffixes(_strip_prefix(raw), article)
+    u = re.sub(r'^["\u201e\u201c](.+)["\u201d\u201c]$', r"\1", u.strip())
     u = re.sub(r"\bBR(\d{3})\b", r"BR \1", u, flags=re.I)
     u = re.sub(r"\bRh(\d{2,5})\b", r"Rh \1", u, flags=re.I)
     return re.sub(r"\s+", " ", u).strip()
@@ -161,7 +163,14 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
 
     m = re.match(r'^GTW\s+2/6(?:\s+"([^"]+)")?(?:\s+(.+))?$', clean, re.I)
     if m:
-        liv = _pick_livery(article, m.group(1) or (m.group(2) or "").strip() or None)
+        desc_l = ((article.get("description") or "") + " " + ((article.get("source") or {}).get("url") or "")).lower()
+        tail = (m.group(2) or "").strip()
+        tail = re.sub(r"\bbwe?gt\b", "", tail, flags=re.I)
+        tail = re.sub(rf"\s+SBB\s+{_ROMAN}\.?\s*$", "", tail, flags=re.I)
+        tail = re.sub(r"\s+THURBO\s*$", "", tail, flags=re.I)
+        liv = _pick_livery(article, m.group(1) or tail or None)
+        if liv and liv.lower() == "stadler" and "thurbo" in desc_l:
+            liv = _pick_livery(article, "THURBO")
         return ("piko_gtw", "GTW 2/6", None, liv, None)
 
     m = re.fullmatch(r"S-200\s+(.+)", clean, re.I)
@@ -171,6 +180,19 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
     m = re.fullmatch(r"431\.(\d+)", clean)
     if m and (model.get("operator") or "").upper() == "MAV":
         return ("piko_mav_dot", "431", m.group(1), None, None)
+
+    m = re.match(r"^(Re\s+4/4)\s+(\d{4,5})(?:\s+(.*))?$", clean, re.I)
+    if m:
+        tail = (m.group(3) or "").strip()
+        tail = re.sub(r",?\s*inkl\.?\s*PIKO Sound.*$", "", tail, flags=re.I)
+        tail = re.sub(rf"\s+SBB\s+{_ROMAN}\.?\s*$", "", tail, flags=re.I)
+        tail = re.sub(r"\s+Wechselstrom\s*$", "", tail, flags=re.I)
+        return ("piko_re44", m.group(1), m.group(2), _pick_livery(article, tail or None), None)
+
+    m = re.match(r"^(Ae\s+6/6)\s+(.+)$", clean, re.I)
+    if m:
+        tail = re.sub(rf"\s+SBB\s+{_ROMAN}\.?\s*$", "", m.group(2).strip(), flags=re.I)
+        return ("piko_ae66", m.group(1), None, _pick_livery(article, tail or None), None)
 
     m = re.match(r"^(Re\s+4/4)\s*[|]\s*(\d+)(?:\s+(.*))?$", clean, re.I)
     if m:
@@ -193,6 +215,32 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
     m = re.fullmatch(r"EP09-(\d{3})(?:\s+(\S+))?", clean, re.I)
     if m:
         return ("piko_ep09_num", "EP09", m.group(1), _pick_livery(article, m.group(2)), None)
+
+    m = re.fullmatch(r"Schienenbus (\d+) mit Steuerwagen ([\d.]+)", clean, re.I)
+    if m:
+        return ("piko_schienenbus", f"Schienenbus {m.group(1)}", m.group(2), None, None)
+
+    m = re.fullmatch(rf"Hondekop(?:\s+NS\s+{_ROMAN}(?:-{_ROMAN})?)?(?:,\s*(.+))?", clean, re.I)
+    if m:
+        return ("piko_hondekop", "Hondekop", None, _pick_livery(article, m.group(1)), None)
+
+    m = re.fullmatch(r'TGK2\s+"([^"]+)"', clean, re.I)
+    if m:
+        return ("piko_tgk2", "TGK2", None, _pick_livery(article, m.group(1)), None)
+
+    m = re.fullmatch(r"Hondekop", clean, re.I)
+    if m:
+        return ("piko_hondekop_plain", "Hondekop", None, None, None)
+
+    m = re.match(r"^(?:N-)?2er Set E-Triebwagen\s+(Rbe\s+4/4)\b.*$", clean, re.I)
+    if m:
+        return (
+            "piko_rbe_set",
+            m.group(1),
+            None,
+            _pick_livery(article, "2er Set + Bt Steuerwagen"),
+            None,
+        )
 
     return None
 
@@ -253,6 +301,11 @@ def propose_fix(article: Article) -> Optional[Fix]:
     if m:
         return ("piko_pl_e", m.group(1), m.group(2), None, None)
 
+    # BR E 32 / E 32 (Epoche-II-Deutschland)
+    m = re.fullmatch(r"BR E (\d+)", clean, re.I)
+    if m:
+        return ("piko_br_e", "BR E", m.group(1), None, None)
+
     # BR / Rh (inkl. langer Shop-Titel nach Clean)
     m = re.search(
         r"\b((?:BR|Rh)\s+\d+(?:\.\d+)?)(?:\s+(\d{2,4}))?(?=\s|$|[,\"\u201e\u201c(])",
@@ -293,6 +346,9 @@ def propose_fix(article: Article) -> Optional[Fix]:
         return ("piko_clean", clean, None, None, None)
 
     cur_liv = (model.get("livery") or "")
+    if isinstance(cur_liv, str) and cur_liv.strip().lower() == "stadler" and "thurbo" in desc_l:
+        return ("piko_gtw_thurbo", model.get("type"), None, "THURBO", None)
+
     if isinstance(cur_liv, str) and cur_liv.strip():
         new_liv = _propose_livery_cleanup(cur_liv)
         if new_liv and new_liv != cur_liv.strip():

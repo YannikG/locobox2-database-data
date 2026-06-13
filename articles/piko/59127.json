@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59127",
+  "manufacturer": "PIKO",
+  "articleNumber": "59127",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "Privatbahn",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "Stadler",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrotriebwagen GTW 2/6 \"Stadler\" StB VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59127\nEAN: 4015615591276\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2 #56139\nSound: PIKO Sound-Decoder nachrüstbar #56617\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrotriebwagen-gtw-2-6-stadler-stb-vi-41564.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41564/thumbs/53126_405681.jpg"
+  },
+  "updatedAt": "2026-06-13T02:45:10Z"
+}

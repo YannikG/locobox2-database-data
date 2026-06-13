@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-94166",
+  "manufacturer": "PIKO",
+  "articleNumber": "94166",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 427.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Rbe 4/4",
+    "number": null,
+    "livery": "2er Set + Bt Steuerwagen",
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 662 Next18",
+    "era": "IV",
+    "luepMm": 148,
+    "minRadiusMm": 225
+  },
+  "description": "N-2er Set E-Triebwagen Rbe 4/4 SBB IV + Bt Steuerwagen Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 94166\nEAN: 4015615941668\nHersteller: PIKO\nBahnverwaltung: SBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 148\nMindestradius [mm]: 225\nDigitale Schnittstelle: NEM 662 Next18\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-2er-set-e-triebwagen-rbe-4-4-sbb-iv-bt-steuerwagen-38256.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38256/thumbs/45959_439260.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

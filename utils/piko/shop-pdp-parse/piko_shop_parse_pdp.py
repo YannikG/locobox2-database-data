@@ -301,6 +301,22 @@ def _canonical_electric_system_from_description(description: str) -> Optional[st
     return None
 
 
+def _infer_electric_system_from_description(description: str) -> Optional[str]:
+    """
+    Stromsystem aus PIKO-Shop-Beschreibung; Fallback wenn ``Stromsystem:`` fehlt
+    (typisch N-Shop ohne Gleichstrom-Zeile).
+    """
+    es = _canonical_electric_system_from_description(description)
+    if es:
+        return es
+    d = description or ""
+    if "Hersteller: PIKO" not in d and "Artikelnummer:" not in d:
+        return None
+    if _description_has_installed_decoder(d):
+        return "DC-Digital"
+    return "DC-Analog"
+
+
 def _int_mm(val: str) -> Optional[int]:
     m = re.search(r"(\d+)", val or "")
     if not m:
@@ -455,7 +471,7 @@ def parse_html(
                 parts.append("\n".join(lines[:18]))
         description = "\n\n".join(p for p in parts if p).strip()
 
-    es = _canonical_electric_system_from_description(description)
+    es = _infer_electric_system_from_description(description)
     if es:
         model["electricSystem"] = es
 

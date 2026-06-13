@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 """
 Extract locomotives, Triebzüge, Triebwagen, and freight/passenger cars from
-pdftotext output of the PIKO H0 Neuheiten PDF.
+pdftotext output of a PIKO Katalog-PDF (H0, N, …).
 
 **Nur Pipeline-Stufe 1** (Katalog → Artikelnummern + Metadaten). Stufe 2/3 (MCP + PDP-Parser)
 sind dieselbe Idee wie bei Roco; siehe ``utils/shop-import/README.md``.
 
 Default input/output: repository ``.tmp/`` (gitignored scratch; not ``tmp/``).
+Alle Pfade sind über CLI überschreibbar (Katalog/Jahr/Spur im Dateinamen frei wählbar).
 
-    pdftotext -layout path/to/piko_2026_h0.pdf .tmp/piko_2026_h0.txt
+    pdftotext -layout path/to/katalog.pdf .tmp/piko_catalog.txt
     python3 utils/piko/catalog-extract/extract_piko_h0_catalog.py \
-        --articles-queue-out .tmp/piko_shop_article_numbers.txt
+        --text-file .tmp/piko_catalog.txt \
+        --articles-queue-out .tmp/piko_catalog_article_numbers.txt \
+        --min-price-eur 120
 
 Shop-PDP: ``utils/piko/shop-pdp-parse/piko_mcp_chrome_search_import.py`` (``--articles``,
 ``--delay``) plus ``piko_shop_parse_pdp.py``.
@@ -128,9 +131,10 @@ def run_extract(
     out_json: Path,
     out_txt: Path,
     articles_queue_out: Path | None,
+    min_price_eur: float | None = None,
 ) -> int:
     if not text_path.is_file():
-        print(f"error: Text fehlt: {text_path}\n  zuerst: pdftotext -layout …/piko_2026_h0.pdf {text_path}", file=sys.stderr)
+        print(f"error: Text fehlt: {text_path}\n  zuerst: pdftotext -layout katalog.pdf {text_path}", file=sys.stderr)
         return 2
     out_json.parent.mkdir(parents=True, exist_ok=True)
     raw = text_path.read_text(encoding="utf-8", errors="replace").splitlines()
@@ -206,17 +210,22 @@ def run_extract(
 
     rows.sort(key=lambda r: (r["section"], int(r["article"]), r["kind"]))
 
+    filtered = rows
+    if min_price_eur is not None:
+        filtered = [r for r in rows if float(r["price_eur"]) > min_price_eur]
+
     out_json.write_text(
-        json.dumps(rows, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(filtered, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
+    price_note = f", UVP > {min_price_eur:g} EUR" if min_price_eur is not None else ""
     lines_out = [
-        "# PIKO H0 Neuheiten 2026, rollendes Material (heuristisch aus Katalog-Text, pdftotext)",
-        f"# Anzahl Artikelnummern: {len(rows)}",
+        f"# PIKO Katalog, rollendes Material{price_note} (heuristisch aus Katalog-Text, pdftotext)",
+        f"# Anzahl Artikelnummern: {len(filtered)}",
         "",
     ]
-    for r in rows:
+    for r in filtered:
         lines_out.append(
             f"{r['article']}\t{r['kind']}\t{r['section']}\t{r['price_raw']} EUR\t{r['line_context'][:120]}"
         )
@@ -224,19 +233,26 @@ def run_extract(
 
     if articles_queue_out is not None:
         articles_queue_out.parent.mkdir(parents=True, exist_ok=True)
-        nums = sorted({int(r["article"]) for r in rows}, key=lambda n: n)
+        nums = sorted({int(r["article"]) for r in filtered}, key=lambda n: n)
+        header = (
+            f"# PIKO Katalog-Artikel{price_note} (eine Nummer pro Zeile, für Shop-MCP --articles)\n"
+            if min_price_eur is not None
+            else ""
+        )
         articles_queue_out.write_text(
-            "\n".join(str(n) for n in nums) + "\n",
+            header + "\n".join(str(n) for n in nums) + ("\n" if nums else ""),
             encoding="utf-8",
         )
         print(f"wrote {len(nums)} lines -> {articles_queue_out} (für Shop-MCP --articles)")
 
-    print(f"wrote {len(rows)} rows -> {out_json}\n{out_txt}")
+    if min_price_eur is not None:
+        print(f"filter: UVP > {min_price_eur:g} EUR ({len(filtered)} von {len(rows)} Artikeln)")
+    print(f"wrote {len(filtered)} rows -> {out_json}\n{out_txt}")
     return 0
 
 
 def main() -> None:
-    p = argparse.ArgumentParser(description="PIKO H0 Katalog-Text → Artikelnummer-Liste (.tmp/).")
+    p = argparse.ArgumentParser(description="PIKO Katalog-Text → Artikelnummer-Liste (.tmp/).")
     p.add_argument(
         "--repo-root",
         type=Path,
@@ -247,19 +263,19 @@ def main() -> None:
         "--text-file",
         type=Path,
         default=None,
-        help="pdftotext-Ausgabe (Default: <repo>/.tmp/piko_2026_h0.txt).",
+        help="pdftotext-Ausgabe (Default: <repo>/.tmp/piko_catalog.txt).",
     )
     p.add_argument(
         "--out-json",
         type=Path,
         default=None,
-        help="Default: <repo>/.tmp/piko_2026_h0_rolling_stock.json",
+        help="Default: <repo>/.tmp/piko_catalog_rolling_stock.json",
     )
     p.add_argument(
         "--out-txt",
         type=Path,
         default=None,
-        help="Default: <repo>/.tmp/piko_2026_h0_rolling_stock_list.txt",
+        help="Default: <repo>/.tmp/piko_catalog_rolling_stock_list.txt",
     )
     p.add_argument(
         "--articles-queue-out",
@@ -269,16 +285,25 @@ def main() -> None:
         help=(
             "Zusätzlich: eine Artikelnummer pro Zeile (gleiches Format wie --articles bei "
             "utils/roco/shop-pdp-parse/roco_mcp_chrome_search_import.py). "
-            "Typisch: <repo>/.tmp/piko_shop_article_numbers.txt"
+            "Typisch: <repo>/.tmp/piko_catalog_article_numbers.txt"
         ),
+    )
+    p.add_argument(
+        "--min-price-eur",
+        type=float,
+        default=None,
+        metavar="EUR",
+        help="Nur Artikel mit UVP strikt über diesem Betrag (z. B. 120 für >120 EUR).",
     )
     args = p.parse_args()
     root = args.repo_root.resolve()
     tmp = root / ".tmp"
-    text = args.text_file or tmp / "piko_2026_h0.txt"
-    out_json = args.out_json or tmp / "piko_2026_h0_rolling_stock.json"
-    out_txt = args.out_txt or tmp / "piko_2026_h0_rolling_stock_list.txt"
-    raise SystemExit(run_extract(text, out_json, out_txt, args.articles_queue_out))
+    text = args.text_file or tmp / "piko_catalog.txt"
+    out_json = args.out_json or tmp / "piko_catalog_rolling_stock.json"
+    out_txt = args.out_txt or tmp / "piko_catalog_rolling_stock_list.txt"
+    raise SystemExit(
+        run_extract(text, out_json, out_txt, args.articles_queue_out, args.min_price_eur)
+    )
 
 
 if __name__ == "__main__":

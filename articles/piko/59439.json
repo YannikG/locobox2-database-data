@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59439",
+  "manufacturer": "PIKO",
+  "articleNumber": "59439",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "BR 345",
+    "number": null,
+    "livery": "SKL",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 125,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 345 SKL VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59439\nEAN: 4015615594390\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 125\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56618\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-345-skl-vi-41172.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41172/thumbs/48879_425386.jpg"
+  },
+  "updatedAt": "2026-06-13T02:50:29Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40531",
+  "manufacturer": "PIKO",
+  "articleNumber": "40531",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 305.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 216",
+    "number": null,
+    "livery": "DB Cargo",
+    "scale": "N",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 662 Next18",
+    "era": "V",
+    "luepMm": 100,
+    "minRadiusMm": 192
+  },
+  "description": "N Sound-Diesellokomotive BR 216 DB Cargo V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40531\nEAN: 4015615405313\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: DB Cargo\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 100\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nVerbauter Decoder: Next18 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-sound-diesellokomotive-br-216-db-cargo-v,-inkl.-piko-sound-decoder-41313.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41313/thumbs/52214_450638.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

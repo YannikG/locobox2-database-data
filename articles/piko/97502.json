@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97502",
+  "manufacturer": "PIKO",
+  "articleNumber": "97502",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 355.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "1000",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 187,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok Rh 1000 NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97502\nEAN: 4015615975021\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 187\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-rh-1000-ns-iii,-inkl.-piko-sound-decoder-41651.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41651/thumbs/51521_433224.jpg"
+  },
+  "updatedAt": "2026-06-13T03:08:56Z"
+}

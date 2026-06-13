@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97406",
+  "manufacturer": "PIKO",
+  "articleNumber": "97406",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "Rh",
+    "number": "242",
+    "livery": "CD Cargo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok Rh 242 CD Cargo VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97406\nEAN: 4015615974062\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-rh-242-cd-cargo-vi-wechselstromversion,-inkl.-piko-sound-decoder-41916.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41916/thumbs/50402_421539.jpg"
+  },
+  "updatedAt": "2026-06-13T03:04:45Z"
+}
