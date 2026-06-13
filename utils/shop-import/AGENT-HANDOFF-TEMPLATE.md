@@ -9,7 +9,7 @@
 
 Typischer Ablauf: Katalog analysiert → Artikelnummern-Liste liegt in `.tmp/…txt` → User fragt den Agent «gib mir den Import-Befehl» → User führt den Befehl aus → User meldet Ergebnis oder Agent liest Terminal/JSON → Agent liefert Handoff-Block für PR/neuen Chat.
 
-Runbook (Befehle, Autofix, Fehler): [README.md](README.md) → Abschnitt **Headless: Cursor Agent**.
+Runbook (Befehle, MCP, Fehler): [README.md](README.md). Gesamtworkflow: [IMPORT-WORKFLOW.md](IMPORT-WORKFLOW.md).
 
 ---
 

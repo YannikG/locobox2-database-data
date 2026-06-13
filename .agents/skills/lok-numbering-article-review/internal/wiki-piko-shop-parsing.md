@@ -1,6 +1,6 @@
 # PIKO Webshop: Titel-Artefakte und Lesarten (Review)
 
-Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `piko-shop.de`. **Import-Runbook** (Chrome headless, Autofix, Agent-Rückmeldung): [utils/shop-import/README.md](../../../../utils/shop-import/README.md) und [AGENT-HANDOFF-TEMPLATE.md](../../../../utils/shop-import/AGENT-HANDOFF-TEMPLATE.md).
+Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `piko-shop.de`. **Import-Workflow** (PDF → Queue → User-Terminal): [utils/shop-import/IMPORT-WORKFLOW.md](../../../../utils/shop-import/IMPORT-WORKFLOW.md).
 
 ## Kontext
 

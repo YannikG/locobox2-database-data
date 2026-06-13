@@ -1,5 +1,7 @@
 # Shop-Import: gleiche Strategie (Roco und PIKO)
 
+**Workflow (PDF/Liste → Queue → User-Lauf → Handoff):** [IMPORT-WORKFLOW.md](IMPORT-WORKFLOW.md) · **Handoff-Vorlage:** [AGENT-HANDOFF-TEMPLATE.md](AGENT-HANDOFF-TEMPLATE.md)
+
 **Hinweis:** Roco-Skripte unter `utils/roco/` bleiben unverändert; PIKO ergänzt nur eigene Pfade unter `utils/piko/`.
 
 Ziel ist **dieselbe dreistufige Pipeline**, nur Hersteller-spezifisch bei URL und HTML-Parser.
