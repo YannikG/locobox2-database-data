@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": null,
+    "country": "DE",
+    "operator": "DB",
     "type": "BR 140",
     "number": null,
     "livery": "Personenzug",

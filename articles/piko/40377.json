@@ -15,7 +15,7 @@
     "number": "1100",
     "livery": null,
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 662 Next18",
     "era": "IV",
     "luepMm": 88,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37868/thumbs/41961_440045.jpg"
   },
-  "updatedAt": "2026-06-12T19:23:46Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

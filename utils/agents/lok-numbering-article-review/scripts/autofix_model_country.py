@@ -74,7 +74,10 @@ def _country_missing(model: dict[str, Any]) -> bool:
 def _norm_op(raw: Any) -> str:
     if not isinstance(raw, str):
         return ""
-    return unicodedata.normalize("NFKC", raw).strip()
+    s = unicodedata.normalize("NFKC", raw).strip()
+    if s.lower() == "privatbahhn":
+        return "Privatbahn"
+    return s
 
 
 def _text_blob(article: Article) -> str:
@@ -82,6 +85,14 @@ def _text_blob(article: Article) -> str:
     d = article.get("description")
     if isinstance(d, str):
         parts.append(d)
+    model = article.get("model")
+    if isinstance(model, dict):
+        liv = model.get("livery")
+        if isinstance(liv, str) and liv.strip():
+            parts.append(liv)
+        typ = model.get("type")
+        if isinstance(typ, str) and typ.strip():
+            parts.append(typ)
     cats = article.get("categories")
     if isinstance(cats, list):
         parts.extend(str(x) for x in cats if x is not None)
@@ -152,7 +163,36 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "D&RGW": "US",
     "SP (Southern Pacific)": "US",
     "CFL": "LU",
+    "USA": "US",
+    "PR": "PL",
+    "Norte": "US",
+    "DB Cargo": "DE",
 }
+
+
+def _propose_missing_operator_fields(
+    article: Article,
+) -> Optional[tuple[str, Optional[str], Optional[str]]]:
+    """
+    Fehlender ``operator`` (und ggf. ``country``) aus Livery/Fliesstext — konservativ.
+    Returns ``(rule_id, operator, country_or_none)``.
+    """
+    model = article.get("model")
+    if not isinstance(model, dict):
+        return None
+    op = model.get("operator")
+    if op is not None and isinstance(op, str) and op.strip():
+        return None
+    blob = _text_blob(article).lower()
+    liv = str(model.get("livery") or "").lower()
+    c = f"{liv} {blob}"
+    if "db italia" in c or re.search(r"\b191 italia\b", c):
+        return ("db_italia", "DB Italia", "IT")
+    if "personenzug" in c and "db/dr" in c.replace(" ", ""):
+        return ("personenzug_db_dr", "DB", "DE")
+    if "piko jubil" in c:
+        return ("piko_jubilaeum", None, "DE")
+    return None
 
 
 def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
@@ -164,10 +204,40 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
     if not isinstance(model, dict):
         return None
     t = _norm_op(model.get("type"))
+    liv = _norm_op(model.get("livery"))
     blob = _text_blob(article)
-    c = f"{t} {blob}".lower()
+    c = f"{t} {liv} {blob}".lower()
 
     checks: list[tuple[str, str, Callable[[], bool]]] = [
+        ("privatbahn_be_kombirail", "BE", lambda: "kombirail" in c),
+        ("privatbahn_cz_regiojet", "CZ", lambda: "regiojet" in c),
+        ("privatbahn_de_railpool", "DE", lambda: "railpool" in c),
+        ("privatbahn_nl_ecco", "NL", lambda: "ecco-rail" in c or "eccorail" in c),
+        ("privatbahn_de_mrce", "DE", lambda: "mrce" in c),
+        ("privatbahn_cz_lokotrans", "CZ", lambda: "lokotrans" in c),
+        ("privatbahn_ch_railadventure", "CH", lambda: "railadventure" in c),
+        ("privatbahn_dk_lokaltog", "DK", lambda: "lokaltog" in c),
+        ("privatbahn_de_bayernbahn", "DE", lambda: "bayernbahn" in c),
+        ("privatbahn_be_solvay", "BE", lambda: "solvay" in c),
+        ("privatbahn_de_mkb", "DE", lambda: re.search(r"\bmkb\b", c) is not None),
+        ("privatbahn_ch_bls", "CH", lambda: re.search(r"\bbls\b", c) is not None),
+        ("privatbahn_be_lineas", "BE", lambda: "lineas" in c),
+        ("privatbahn_de_rbh", "DE", lambda: re.search(r"\brbh\b", c) is not None),
+        ("privatbahn_de_irp", "DE", lambda: re.search(r"\birp\b", c) is not None),
+        ("privatbahn_de_skl", "DE", lambda: re.search(r"\bskl\b", c) is not None),
+        ("privatbahn_de_train_charter", "CH", lambda: "train charter" in c),
+        ("privatbahn_de_talent2", "DE", lambda: "talent 2" in c or "talent2" in c),
+        ("privatbahn_it_pmt", "IT", lambda: "e483 pmt" in c or "pmt vi" in c),
+        ("privatbahn_nl_strukton", "NL", lambda: "strukton" in c),
+        ("privatbahn_pl_en57", "PL", lambda: "en 57" in c and (" pr" in c or " km" in c or "pkp" in c)),
+        ("privatbahn_pl_et21", "PL", lambda: "et 21 ctl" in c or "et21 ctl" in c),
+        ("privatbahn_de_altmark", "DE", lambda: "altmark-rail" in c or "altmark rail" in c),
+        ("privatbahn_de_bundeswehr", "DE", lambda: "bundeswehr" in c),
+        ("privatbahn_de_v23", "DE", lambda: re.search(r"\bv 23\b", c) is not None),
+        ("privatbahn_pl_eu07", "PL", lambda: "eu07" in c and " pr" in c),
+        ("privatbahn_de_stadler_gtw", "DE", lambda: "gtw 2/6" in c and "stadler" in c and "db" in c),
+        ("privatbahn_at_stb", "AT", lambda: "gtw 2/6" in c and "stadler" in c and " stb" in c),
+        ("privatbahn_de_hlb", "DE", lambda: "gtw 2/6" in c and "stadler" in c and " hlb" in c),
         ("privatbahn_pl_wisko", "PL", lambda: "pl-wisko" in c or "wiskol" in c or "lotos" in c),
         ("privatbahn_pl_pmp", "PL", lambda: "pmp-pw" in c),
         ("privatbahn_pl_pkp", "PL", lambda: "pkp skm" in c),
@@ -253,6 +323,9 @@ def propose_country(article: Article) -> Optional[tuple[str, str]]:
 
     op = _norm_op(model.get("operator"))
     if not op:
+        missing = _propose_missing_operator_fields(article)
+        if missing and _country_missing(model) and missing[2]:
+            return (missing[0], missing[2])
         return None
 
     if op == "K.P.E.V.":
@@ -307,9 +380,28 @@ def main(argv: list[str]) -> int:
             continue
         prop = propose_country(data)
         sp_fields = _propose_sp_operator_era(data)
-        if not prop and not sp_fields:
+        missing_op = _propose_missing_operator_fields(data)
+        if not prop and not sp_fields and not missing_op:
             continue
         file_dirty = False
+        if missing_op:
+            rule_id, new_op, new_c = missing_op
+            if new_op and (
+                model.get("operator") is None
+                or (isinstance(model.get("operator"), str) and not str(model.get("operator")).strip())
+            ):
+                if not dry_run:
+                    model["operator"] = new_op
+                    file_dirty = True
+                else:
+                    print(f"{path}\t{rule_id}\toperator -> {new_op!r}", file=sys.stderr)
+            if new_c and _country_missing(model):
+                if not dry_run:
+                    model["country"] = new_c
+                    file_dirty = True
+                    changed.append((path, rule_id, new_c))
+                else:
+                    changed.append((path, rule_id, new_c))
         if prop:
             rule_id, new_c = prop
             old_c = model.get("country")

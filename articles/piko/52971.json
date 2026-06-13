@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": "Privatbahhn",
+    "country": "CH",
+    "operator": "Privatbahn",
     "type": "BR 365",
     "number": null,
     "livery": "RailAdventure",

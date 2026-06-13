@@ -15,7 +15,7 @@
     "number": null,
     "livery": "Coradia Donau-Isar, 5tlg.",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX12",
     "era": "VI",
     "luepMm": 560,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37686/thumbs/42848_432722.jpg"
   },
-  "updatedAt": "2026-06-12T19:15:40Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

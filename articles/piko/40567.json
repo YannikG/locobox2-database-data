@@ -15,7 +15,7 @@
     "number": null,
     "livery": "\"Ecophant\"",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 662 Next18",
     "era": "VI",
     "luepMm": 119,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41161/thumbs/47679_442992.jpg"
   },
-  "updatedAt": "2026-06-12T19:42:55Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

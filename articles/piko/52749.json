@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "TGK2 \"Bundeswehr\"",
+    "type": "TGK2",
     "number": null,
-    "livery": null,
+    "livery": "Bundeswehr",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",

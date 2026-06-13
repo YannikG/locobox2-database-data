@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "DB Cargo",
     "type": "BR 216",
     "number": null,
     "livery": "DB Cargo",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",
     "era": "V",
     "luepMm": 100,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41311/thumbs/52213_444022.jpg"
   },
-  "updatedAt": "2026-06-12T19:36:32Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

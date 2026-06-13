@@ -11,11 +11,11 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "N Schienenbus 798 mit Steuerwagen 998.6",
-    "number": null,
+    "type": "Schienenbus 798",
+    "number": "998.6",
     "livery": null,
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX16",
     "era": "IV",
     "luepMm": 182,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_19233/thumbs/14986_406371.jpg"
   },
-  "updatedAt": "2026-06-12T19:13:58Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

@@ -3,8 +3,8 @@
 Set ``categories`` from PIKO shop ``source.url`` (and first description line) when empty.
 
 Only fills when ``categories`` is empty (or missing) and the URL is a clear PIKO shop
-article slug (``dampflok-``, ``diesellok-``, ``e-lok-``, ``zweikraftlok-``, ``dieseltriebzug-``,
-``elektrotriebzug-``, ``dieseltriebwagen-``, ``sound-e-triebwagen-``, …).
+article slug (``dampflok-``, ``diesellok-``, ``e-lok-``, ``elektotriebwagen-`` (PIKO-Schreibweise),
+``zweikraftlok-``, ``dieseltriebzug-``, ``elektrotriebzug-``, ``zugset-``, ``start-set-``, …).
 
 Usage (repo root)::
 
@@ -22,17 +22,38 @@ from pathlib import Path
 from typing import Any, Optional
 
 
-def _blob(url: str, description: str) -> str:
+def _blob(url: str, description: str, model_type: str = "") -> str:
     first = (description or "").split("\n", 1)[0].lower()
-    return f"{url.lower()} {first}"
+    mt = (model_type or "").strip().lower()
+    return f"{url.lower()} {first} {mt}"
 
 
-def _categories_from_piko(url: str, description: str = "") -> Optional[list[str]]:
+def _lok_subtype_from_power(b: str) -> Optional[str]:
+    """Zweite Kategorie für Lokomotiven aus Antriebs-Hinweisen im Slug/Titel."""
+    if "zweikraftlok" in b or "dual-mode" in b or "dual mode" in b:
+        return "elektrolokomotive"
+    if "dampflok" in b or "schlepptenderlok" in b:
+        return "dampflokomotive"
+    if "diesellok" in b:
+        return "diesellokomotive"
+    if (
+        "e-lok" in b
+        or "elektrolok" in b
+        or "sound-e-lok" in b
+        or re.search(r"\bbr\s*\d+", b)
+        or "eu44" in b
+        or "metropolitan" in b
+    ):
+        return "elektrolokomotive"
+    return None
+
+
+def _categories_from_piko(url: str, description: str = "", model_type: str = "") -> Optional[list[str]]:
     u = url.lower()
     if "piko-shop.de" not in u and "piko.de" not in u:
         return None
 
-    b = _blob(url, description)
+    b = _blob(url, description, model_type)
 
     if "dieseltriebwagen" in b or "sound-dieseltriebwagen" in u:
         return ["lokomotive", "dieseltriebwagen"]
@@ -40,6 +61,7 @@ def _categories_from_piko(url: str, description: str = "") -> Optional[list[str]
         "sound-e-triebwagen" in u
         or "e-triebwagen" in u
         or "elektrotriebwagen" in b
+        or "elektotriebwagen" in b
         or "n-triebwagen" in u
         or re.search(r"(?<![a-z])triebwagen", b)
     ):
@@ -51,15 +73,15 @@ def _categories_from_piko(url: str, description: str = "") -> Optional[list[str]
     if "schienenbus" in b:
         return ["lokomotive", "triebzug"]
 
-    if "zweikraftlok" in b or "dual-mode" in b or "dual mode" in b:
-        return ["lokomotive", "elektrolokomotive"]
+    if "zugset" in b or "start-set" in b or "start-set" in u or "start_set" in b:
+        sub = _lok_subtype_from_power(b)
+        if sub:
+            return ["lokomotive", sub]
+        return None
 
-    if "dampflok" in b or "schlepptenderlok" in b:
-        return ["lokomotive", "dampflokomotive"]
-    if "diesellok" in b:
-        return ["lokomotive", "diesellokomotive"]
-    if "e-lok" in b or "elektrolok" in b or "sound-e-lok" in u:
-        return ["lokomotive", "elektrolokomotive"]
+    sub = _lok_subtype_from_power(b)
+    if sub:
+        return ["lokomotive", sub]
 
     return None
 
@@ -103,7 +125,8 @@ def main(argv: list[str]) -> int:
             continue
 
         desc = data.get("description") or ""
-        new_cats = _categories_from_piko(url, desc)
+        model_type = ((data.get("model") or {}).get("type") or "").strip()
+        new_cats = _categories_from_piko(url, desc, model_type)
         if not new_cats:
             skipped.append((path, "url/description not a known PIKO lok class"))
             continue

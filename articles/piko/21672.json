@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "NL",
     "operator": "Privatbahn",
     "type": "BR 193",
     "number": null,

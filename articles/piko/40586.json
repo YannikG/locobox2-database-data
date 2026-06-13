@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "CH",
     "operator": "Privatbahn",
     "type": "BR 485",
     "number": null,
     "livery": "BLS",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",
     "era": "VI",
     "luepMm": 118,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41296/thumbs/49848_419000.jpg"
   },
-  "updatedAt": "2026-06-12T19:46:33Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

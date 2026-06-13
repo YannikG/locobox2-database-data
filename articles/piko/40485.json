@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
-    "type": "N Diesellok G 1206 IRP",
+    "type": "G 1206",
     "number": null,
-    "livery": null,
+    "livery": "IRP",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 651",
     "era": "VI",
     "luepMm": 92,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41207/thumbs/48702_450727.jpg"
   },
-  "updatedAt": "2026-06-12T19:30:44Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

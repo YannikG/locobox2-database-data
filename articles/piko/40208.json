@@ -15,7 +15,7 @@
     "number": null,
     "livery": "\"Talent 2\" VBB",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX12",
     "era": "VI",
     "luepMm": 352,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_34904/thumbs/38120_403991.jpg"
   },
-  "updatedAt": "2026-06-12T19:04:25Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "Norte",
     "type": "BR 55",
     "number": null,

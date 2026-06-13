@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "GTW 2/6",
     "number": null,
-    "livery": "Stadler",
+    "livery": "HLB",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",

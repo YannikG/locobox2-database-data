@@ -15,7 +15,7 @@
     "number": null,
     "livery": "DB AG V, 3-tlg.",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX12",
     "era": "V",
     "luepMm": 497,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37879/thumbs/50118_426754.jpg"
   },
-  "updatedAt": "2026-06-12T19:15:05Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

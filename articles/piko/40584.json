@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "BR 185",
     "number": null,
     "livery": "MRCE",
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",
     "era": "VI",
     "luepMm": 118,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41293/thumbs/48539_425868.jpg"
   },
-  "updatedAt": "2026-06-12T19:45:26Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

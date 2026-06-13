@@ -9,13 +9,13 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "US",
     "operator": "USA",
-    "type": "N Diesellokomotive ACL 65-Ton",
+    "type": "ACL 65-Ton",
     "number": null,
     "livery": null,
     "scale": "N",
-    "electricSystem": null,
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",
     "era": null,
     "luepMm": 82,
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38315/thumbs/46763_447671.jpg"
   },
-  "updatedAt": "2026-06-12T19:54:22Z"
+  "updatedAt": "2026-06-13T07:17:03Z"
 }

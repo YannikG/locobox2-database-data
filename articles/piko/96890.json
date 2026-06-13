@@ -11,9 +11,9 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Re 4/4 10033 TEE SBB IV, inkl. PIKO SoundDecoder",
-    "number": null,
-    "livery": null,
+    "type": "Re 4/4",
+    "number": "10033",
+    "livery": "TEE",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",

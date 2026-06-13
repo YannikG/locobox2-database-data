@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "PL",
     "operator": "PR",
     "type": "EU07 PR",
     "number": null,

@@ -9,7 +9,7 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
+    "country": "DE",
     "operator": "Privatbahn",
     "type": "NoHAB 1149 Altmark-Rail",
     "number": null,

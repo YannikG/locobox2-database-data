@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": null,
-    "operator": null,
+    "country": "IT",
+    "operator": "DB Italia",
     "type": "BR 191",
     "number": null,
     "livery": "DB Italia",
