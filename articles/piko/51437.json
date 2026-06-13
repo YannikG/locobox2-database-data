@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51437",
+  "manufacturer": "PIKO",
+  "articleNumber": "51437",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 255.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "V 43",
+    "number": "1001",
+    "livery": "Jubiläumslok",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 180,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR V 43 Jubiläumslok 1001 MAV V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51437\nEAN: 4015615514374\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56598\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-v-43-jubilaeumslok-1001-mav-v-38298.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_38298/thumbs/45282_439170.jpg"
+  },
+  "updatedAt": "2026-06-13T08:06:40Z"
+}

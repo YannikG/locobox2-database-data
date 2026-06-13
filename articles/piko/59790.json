@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59790",
+  "manufacturer": "PIKO",
+  "articleNumber": "59790",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 189.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "ČSD",
+    "type": "T770 CS Army",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 199,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok T770 CS Army IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59790\nEAN: 4015615597902\nHersteller: PIKO\nStromsystem: Gleichstrom\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 199\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Beleuchtetes Nummernschild\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56542\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-t770-cs-army-iv-38196.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38196/thumbs/46922_402899.jpg"
+  },
+  "updatedAt": "2026-06-13T08:29:06Z"
+}

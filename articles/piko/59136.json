@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59136",
+  "manufacturer": "PIKO",
+  "articleNumber": "59136",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "Arriva",
+    "type": "GTW 2/8",
+    "number": null,
+    "livery": "Arriva",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 642,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen GTW 2/8 \"Stadler\" Arriva VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59136\nEAN: 4015615591368\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 642\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139 + 1x 56143\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder nachrüstbar #56616\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-gtw-2-8-stadler-arriva-vi-38319.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38319/thumbs/46787_406242.jpg"
+  },
+  "updatedAt": "2026-06-13T08:27:14Z"
+}

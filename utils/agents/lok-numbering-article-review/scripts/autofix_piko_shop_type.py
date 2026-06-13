@@ -280,9 +280,13 @@ def propose_fix(article: Article) -> Optional[Fix]:
         liv = _pick_livery(article, "S-Bahn Leipzig" if "s-bahn leipzig" in desc_l else None)
         return ("piko_br243", f"BR {m.group(1)}", m.group(2), liv, None)
 
-    # Deutsche UIC ohne BR: «185 329 Black Dragons»
+    # Deutsche UIC ohne BR: «185 329 Black Dragons», «143 175 SLRS»
     m = re.fullmatch(r"(\d{3}) (\d{2,3})(?:\s+(.+))?", clean)
-    if m and (model.get("country") or "") in ("DE", "AT", "CH", "DD"):
+    if m and (
+        (model.get("country") or "") in ("DE", "AT", "CH", "DD")
+        or "slrs" in desc_l
+        or m.group(1) in ("143", "185", "187")
+    ):
         liv = _pick_livery(article, m.group(3))
         return ("piko_uic_br", f"BR {m.group(1)}", m.group(2), liv, None)
 
@@ -336,6 +340,15 @@ def propose_fix(article: Article) -> Optional[Fix]:
     if m:
         liv = _pick_livery(article, m.group(1))
         return ("piko_sm42", "SM42", None, liv, None)
+
+    m = re.match(
+        r"^GTW 2/8\s+[\"'\u201e\u201c]?Stadler[\"'\u201d\u201c]?\s+(.+)$",
+        clean,
+        re.I,
+    )
+    if m:
+        liv = _pick_livery(article, m.group(1).strip())
+        return ("piko_gtw_arriva", "GTW 2/8", None, liv, None)
 
     refined = _propose_refined_split(clean, article)
     if refined:
