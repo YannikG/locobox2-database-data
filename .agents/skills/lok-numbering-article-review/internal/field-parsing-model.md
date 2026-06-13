@@ -2,6 +2,42 @@
 
 Locobox-Schema (`contracts/article.schema.json`): `model.type` und `model.number` sind optional (Strings oder `null`). `model.electricSystem` muss, wenn gesetzt, einem der Enum-Werte entsprechen: **`DC-Analog`**, **`DC-Digital`**, **`AC-Analog`**, **`AC-Digital`** (ältere Importe oder Parserreste abweichend → **Finding**). Importe liefern oft **eine** zusammengezogene Anschrift; das Review soll vorschlagen, wie man sie **sinnvoll aufteilt** oder ob **eine** Zeichenkette beibehalten werden soll.
 
+## Modell-Stromsystem (`model.electricSystem`) vs. Vorbild-Netz
+
+**Locobox-Feld `model.electricSystem` beschreibt das Modell-Antriebssystem am Gleis**, nicht das Prototyp-Bahnstromnetz (15 kV 16,7 Hz, 3 kV DC, …). Die **`internal/wiki-*.md`**-Tabellen zu kV/Hz dienen dem **Vorbild-Plausibilitätscheck** in Fliesstext und Historie, **nicht** der direkten Befüllung von `model.electricSystem`.
+
+| Shop-/Import-Hinweis (PIKO typisch) | Locobox-Wert | Review-Hinweis |
+|-------------------------------------|--------------|----------------|
+| `Stromsystem: Gleichstrom`, kein Werkdecoder / «nachrüstbar» | **DC-Analog** | PluX/Next18-Schnittstelle allein ≠ Digital |
+| `Stromsystem: Gleichstrom` + Werk-Sound/Decoder (`Sound ja/nein: ja`, `Verbauter Decoder:`) | **DC-Digital** | Sound-Titel allein reicht nicht ohne Beleg in Attributen |
+| `Stromsystem: Wechselstrom` (+ ggf. Werkdecoder) | **AC-Analog** / **AC-Digital** | analog zu Gleichstrom-Logik |
+| **Keine** `Stromsystem:`-Zeile (häufig **PIKO N**) | Default **DC-Analog**; Sound werkseitig → **DC-Digital** | siehe [wiki-piko-shop-parsing.md](wiki-piko-shop-parsing.md) |
+
+**Auto-Fix:** `model.electricSystem` wird im Skill **nicht** aus Schwesterlogik gesetzt. Parser-/Import-Pipeline darf PIKO-N-Defaults setzen; Review prüft **`null`** und Widerspruch zur Beschreibung. Details: `SKILL.md` → Allowlist Stromsystem.
+
+## Sets und Triebzüge ohne Betriebsnummer
+
+Langer `model.type`, **`model.number`: `null`**, **ohne** splittbare UIC/EVN in URL oder erster Beschreibungszeile — oft **kein Fehler**, sondern Set-/Triebzug-Konvention:
+
+| Muster (nach Bereinigung Shop-Artefakte) | Split-Lesart | Finding nur wenn … |
+|------------------------------------------|--------------|---------------------|
+| `Schienenbus 798 mit Steuerwagen 998.6` | `type` `Schienenbus 798`, `number` `998.6` (Steuerwagen-Klasse) oder alles in `type`, `number` null | Widerspruch zwischen Titel und Beschreibung |
+| `Rbe 4/4` + Set-Hinweis («2er Set», «+ Bt Steuerwagen») | `type` `Rbe 4/4`, Livery kurz Set-Bezeichnung | EVN in URL erwartet aber fehlend |
+| `BR 193` / Vectron ohne Ziffernblock im Shop-Titel | `type` `BR 193`, `number` null | UIC im Fliesstext vorhanden, aber nicht gesplittet |
+| `GTW 2/6` + `"Stadler"` + EVU/Lack (THURBO, HLB, …) | `type` `GTW 2/6`, Livery = Lack/EVU-Name | Livery fälschlich «Stadler» (Hersteller) |
+
+## PIKO Variantengruppen (Schwester-Review)
+
+Ohne Auto-Fix-Scope-Erweiterung: in **Pass 1** Stromsystem und Typ **gegen nahe Artikelnummern** vergleichen, wenn dokumentiert:
+
+| Gruppe | Erkennung | Review |
+|--------|-----------|--------|
+| Sound vs. Analog | Gleiche Baureihe, benachbarte SKU; Titel «Sound-» / «inkl. Sound» | Sound-Variante → **DC-Digital** wenn Werkdecoder in Attributen; Schwester ohne Sound → **DC-Analog** |
+| Gleichstrom vs. Wechselstrom | Titel «Wechselstromversion»; Paare wie Re 4/4 gleiche Lackierung | `electricSystem` AC vs. DC konsistent zum Titel |
+| GTW 2/6 Stadler | Mehrere Lacks (THURBO, HLB, StB, DB …) | Livery unterscheidet; **nicht** Operator/Land von einer Variante auf andere kopieren |
+
+Referenz Shop-Titel: [wiki-piko-shop-parsing.md](wiki-piko-shop-parsing.md). Privatbahn-Lack: [wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md).
+
 ## Ziele beim Review
 
 1. **Parsen:** Welche Baureihe / Gattung / Reihe und welche **laufende Nummer** stecken im String?
@@ -36,7 +72,7 @@ In Frankreich erscheint die übliche **Anschrift** oft als **ein** String: **Pr�
 
 ## Hersteller und Variantengruppen (Auto-Fix)
 
-**Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier** oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings. **`model.electricSystem`** wird im Auto-Fix **nicht** aus Text oder Schwesterlogik gesetzt (siehe `SKILL.md`).
+**Schwesterartikel** gelten nur dann als Gruppe, wenn die Regel **hier**, in [wiki-piko-shop-parsing.md](wiki-piko-shop-parsing.md) (PIKO) oder in einem `internal/wiki-*.md` zum Hersteller steht (z. B. gleicher Nummernkern, unterschiedliche Ziffer für Analog/Digital/AC). Ohne Eintrag: kein automatisches Mitnehmen weiterer Dateien, nur Findings. **`model.electricSystem`** wird im Auto-Fix **nicht** aus Schwesterlogik gesetzt (siehe `SKILL.md` und Abschnitt «Modell-Stromsystem» oben).
 
 ## Skript-gestützter Split (Auto-Fix)
 
