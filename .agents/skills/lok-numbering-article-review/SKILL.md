@@ -202,6 +202,7 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 | Splitting `model.type` / `model.number` | [internal/field-parsing-model.md](internal/field-parsing-model.md) |
 | Modell-`electricSystem` (DC/AC am Modell) | [internal/field-parsing-model.md](internal/field-parsing-model.md) («Modell-Stromsystem») |
 | PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
+| Shop-Import headless (MCP) + **Pflicht-Rückmeldung** | [utils/shop-import/README.md](../../../utils/shop-import/README.md), Vorlage [utils/shop-import/AGENT-HANDOFF-TEMPLATE.md](../../../utils/shop-import/AGENT-HANDOFF-TEMPLATE.md) |
 | Privatbahn → Land (Livery-Anker) | [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |
 | EVN / 12 Stellen | [internal/wiki-eindeutige-fahrzeugnummer.md](internal/wiki-eindeutige-fahrzeugnummer.md) |

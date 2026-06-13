@@ -121,9 +121,9 @@ npm run check
 
 Review-Regeln und PIKO-Shop-Artefakte: Skill **`.agents/skills/lok-numbering-article-review/`** (Pass 1 Checkliste, `internal/wiki-piko-shop-parsing.md`).
 
-### Agent-Rückmeldung (für neuen Chat / PR-Kommentar)
+### Agent-Rückmeldung (Pflicht)
 
-Am Ende einer headless Import-Session diese Kurzfassung liefern (Platzhalter ersetzen):
+Am Ende **jeder** headless Import-Session den ausgefüllten Block aus **[AGENT-HANDOFF-TEMPLATE.md](AGENT-HANDOFF-TEMPLATE.md)** an User oder PR liefern. Kurzform:
 
 ```markdown
 ## PIKO Shop-Import (headless)
