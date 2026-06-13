@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59164",
+  "manufacturer": "PIKO",
+  "articleNumber": "59164",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "IRP",
+    "type": "G 1206",
+    "number": null,
+    "livery": "IRP",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok G 1206 IRP VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59164\nEAN: 4015615591641\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56555\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-g-1206-irp-vi-wechselstromversion-37759.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_37759/thumbs/46830_450054.jpg"
+  },
+  "updatedAt": "2026-06-13T08:27:43Z"
+}

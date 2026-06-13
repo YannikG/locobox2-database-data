@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50665",
+  "manufacturer": "PIKO",
+  "articleNumber": "50665",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 93",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 159,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR 93 DR III, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50665\nEAN: 4015615506652\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 159\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-93-dr-iii,-inkl.-piko-sound-decoder-und-dampfgenerator-37790.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_37790/thumbs/44628_457606.jpg"
+  },
+  "updatedAt": "2026-06-13T08:02:07Z"
+}

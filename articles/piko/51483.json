@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51483",
+  "manufacturer": "PIKO",
+  "articleNumber": "51483",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 479.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 254",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 214,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR 254 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51483\nEAN: 4015615514831\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 214\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-254-dr-iv-wechselstromversion,-inkl.-piko-sound-decoder-37811.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_37811/thumbs/43418_457987.jpg"
+  },
+  "updatedAt": "2026-06-13T08:08:55Z"
+}

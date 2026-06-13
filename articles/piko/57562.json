@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57562",
+  "manufacturer": "PIKO",
+  "articleNumber": "57562",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "BR 55",
+    "number": null,
+    "livery": "(G7.1) Tp1",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Schlepptenderlok BR 55 (G7.1) Tp1 PKP III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57562\nEAN: 4015615575627\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/schlepptenderlok-br-55-g7.1-tp1-pkp-iii-37716.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_37716/thumbs/44758_446149.jpg"
+  },
+  "updatedAt": "2026-06-13T08:24:29Z"
+}

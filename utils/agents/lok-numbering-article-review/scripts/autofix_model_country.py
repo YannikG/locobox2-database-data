@@ -192,6 +192,12 @@ def _propose_missing_operator_fields(
         return ("personenzug_db_dr", "DB", "DE")
     if "piko jubil" in c:
         return ("piko_jubilaeum", None, "DE")
+    if "slovakia" in liv or re.search(r"\bslovakia\b", c):
+        return ("zssk_slovakia", "ZSSK", "SK")
+    if re.search(r"\bt770\b", c) and re.search(r"\bcs\b", c):
+        return ("cs_army_t770", "ČSD", "CS")
+    if re.search(r"\bsu46\b", c) and "pkp" in c:
+        return ("pkp_su46", "PKP", "PL")
     return None
 
 
@@ -273,10 +279,45 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
         ("privatbahn_cs_t435", "CS", lambda: "t435" in c),
         ("privatbahn_dk_midtjyske", "DK", lambda: "midtjyske" in c),
         ("privatbahn_de_railion", "DE", lambda: "railion" in c),
+        ("privatbahn_cz_metrans", "CZ", lambda: "metrans" in c),
+        ("privatbahn_nl_fyra", "NL", lambda: "fyra" in c),
+        ("privatbahn_it_gts", "IT", lambda: "gts" in c and re.search(r"\b191\b", c)),
+        ("privatbahn_pl_orlen", "PL", lambda: "orlen" in c),
+        ("privatbahn_us_whitcomb", "US", lambda: "whitcomb" in c),
+        ("privatbahn_de_slrs", "DE", lambda: "slrs" in c),
+        ("privatbahn_hu_gysev", "HU", lambda: "gysev" in c),
+        ("privatbahn_nl_arriva", "NL", lambda: "arriva" in c),
+        ("privatbahn_pl_ctl232", "PL", lambda: re.search(r"\b232\b", c) and re.search(r"\bctl\b", c)),
+        ("privatbahn_de_evb", "DE", lambda: re.search(r"\bevb\b", c)),
+        ("privatbahn_cz_cargounit", "CZ", lambda: "cargounit" in c or "cargo unit" in c),
+        ("privatbahn_de_traxx_start", "DE", lambda: "traxx start" in c),
     ]
     for rule_id, iso, fn in checks:
         if fn():
             return (rule_id, iso)
+    return None
+
+
+def _propose_era_from_blob(article: Article) -> Optional[tuple[str, str]]:
+    """``era`` aus Beschreibung oder erster Titelzeile, wenn leer."""
+    model = article.get("model")
+    if not isinstance(model, dict):
+        return None
+    era = model.get("era")
+    if era is not None and isinstance(era, str) and era.strip():
+        return None
+    blob = _text_blob(article)
+    em = re.search(r"Epoche:\s*([IVX]+(?:-[IVX]+)*)", blob, re.I)
+    if em:
+        return ("era_from_description", em.group(1).strip())
+    first = blob.split("\n", 1)[0]
+    tm = re.search(r"\b(I{1,3}|IV|V|VI)(?:\s|$)", first)
+    if tm:
+        return ("era_from_title", tm.group(1))
+    if re.search(r"\bsu46\b", blob.lower()) and "pkp" in blob.lower():
+        return ("era_su46_pkp", "V")
+    if "whitcomb" in blob.lower():
+        return ("era_whitcomb_us", "III")
     return None
 
 
@@ -381,7 +422,8 @@ def main(argv: list[str]) -> int:
         prop = propose_country(data)
         sp_fields = _propose_sp_operator_era(data)
         missing_op = _propose_missing_operator_fields(data)
-        if not prop and not sp_fields and not missing_op:
+        era_prop = _propose_era_from_blob(data)
+        if not prop and not sp_fields and not missing_op and not era_prop:
             continue
         file_dirty = False
         if missing_op:
@@ -430,6 +472,17 @@ def main(argv: list[str]) -> int:
                     file_dirty = True
                 else:
                     print(f"{path}\tsp_km_ml\tera -> {new_era!r}", file=sys.stderr)
+        if era_prop:
+            era_rule, new_era = era_prop
+            if new_era and (
+                model.get("era") is None
+                or (isinstance(model.get("era"), str) and not str(model.get("era")).strip())
+            ):
+                if not dry_run:
+                    model["era"] = new_era
+                    file_dirty = True
+                else:
+                    print(f"{path}\t{era_rule}\tera -> {new_era!r}", file=sys.stderr)
         if file_dirty:
             save_article(path, data)
 

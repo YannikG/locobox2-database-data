@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59459",
+  "manufacturer": "PIKO",
+  "articleNumber": "59459",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 122.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 219,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 101 DB AG V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59459\nEAN: 4015615594598\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 219\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56613\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-101-db-ag-v-37682.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37682/thumbs/43125_453828.jpg"
+  },
+  "updatedAt": "2026-06-13T08:28:21Z"
+}
