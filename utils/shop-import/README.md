@@ -58,9 +58,11 @@ python3 utils/piko/catalog-extract/extract_piko_h0_catalog.py \
   --delay 3.0
 ```
 
-## Headless: Cursor Agent (ohne manuelles Browser-Klicken)
+## Headless: Cursor Agent (User führt Befehle aus)
 
-Diese Pipeline ist für **Agent-Sessions** gedacht: der Agent startet Chrome über den **stdio-MCP** `chrome-devtools` (nicht Glass/`cursor-ide-browser`). Der User muss **nicht** selbst im Shop suchen.
+Die Pipeline nutzt **Chrome-DevTools-MCP** (stdio, `--mcp-from-cursor`). Der **User** startet Import und Autofix **im eigenen Terminal**; der **Agent** bereitet Copy-Paste-Befehle vor und liefert danach den [Handoff-Block](AGENT-HANDOFF-TEMPLATE.md).
+
+**Nicht** Glass/`cursor-ide-browser` für Shop-Suche verwenden (Session-Regeln).
 
 ### Voraussetzungen
 
@@ -123,7 +125,7 @@ Review-Regeln und PIKO-Shop-Artefakte: Skill **`.agents/skills/lok-numbering-art
 
 ### Agent-Rückmeldung (Pflicht)
 
-Am Ende **jeder** headless Import-Session den ausgefüllten Block aus **[AGENT-HANDOFF-TEMPLATE.md](AGENT-HANDOFF-TEMPLATE.md)** an User oder PR liefern. Kurzform:
+Nach dem **User-Lauf** den ausgefüllten Block aus **[AGENT-HANDOFF-TEMPLATE.md](AGENT-HANDOFF-TEMPLATE.md)** liefern (Befehle vorher, Handoff danach). Kurzform:
 
 ```markdown
 ## PIKO Shop-Import (headless)

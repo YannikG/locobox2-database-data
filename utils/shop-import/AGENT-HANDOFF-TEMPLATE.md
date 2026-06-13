@@ -1,6 +1,13 @@
 # Chrome headless: Agent-Rückmeldung (Pflicht)
 
-Nach **jedem** PIKO- oder Roco-Shop-Import über `*_mcp_chrome_search_import.py` mit `--mcp-from-cursor` (oder stdio-MCP) liefert der Agent **am Ende der Session** genau **einen** Block im untenstehenden Format — als Chat-Antwort, PR-Kommentar oder Issue-Update. **Nicht** weglassen, auch wenn der User nur «importieren» sagt.
+## Rollen
+
+| Wer | Was |
+|-----|-----|
+| **User** | Führt die Shell-Befehle **selbst** im Terminal aus (neben dem Agent-Chat). Katalog-PDF, Queue-`.txt` und Import laufen auf der Maschine des Users. |
+| **Agent** | Liefert **fertige Copy-Paste-Blöcke** (Queue-Pfad, `--campaign-tag`, `--delay`, Autofix, `npm run check`) und am Ende den **ausgefüllten Handoff-Block** unten. Der Agent startet den Import **nicht** stellvertretend, ausser der User verlangt das ausdrücklich. |
+
+Typischer Ablauf: Katalog analysiert → Artikelnummern-Liste liegt in `.tmp/…txt` → User fragt den Agent «gib mir den Import-Befehl» → User führt den Befehl aus → User meldet Ergebnis oder Agent liest Terminal/JSON → Agent liefert Handoff-Block für PR/neuen Chat.
 
 Runbook (Befehle, Autofix, Fehler): [README.md](README.md) → Abschnitt **Headless: Cursor Agent**.
 
@@ -29,11 +36,39 @@ Runbook (Befehle, Autofix, Fehler): [README.md](README.md) → Abschnitt **Headl
 
 ### Kurz-Checkliste (Agent, vor Rückmeldung)
 
-- [ ] Import-JSON am Ende mit `{"ok":…,"fail":…}` ausgewertet
-- [ ] Post-Import-Autofix auf Kampagnen-Scope (`--apply`)
-- [ ] `npm run check` ausgeführt
-- [ ] Fehlende Shop-SKUs in `.tmp/*_missing.txt` notiert (falls Katalog-Abgleich)
-- [ ] Obiger Block an User/PR gepostet
+- [ ] User hat Import-Befehl erhalten (Copy-Paste mit korrektem `QUEUE` + `CAMPAIGN`)
+- [ ] Import-JSON `{"ok":…,"fail":…}` aus User-Terminal oder Log ausgewertet
+- [ ] User hat Post-Import-Autofix-Befehle erhalten (oder selbst ausgeführt)
+- [ ] `npm run check` — Ergebnis bekannt
+- [ ] Fehlende Shop-SKUs: Pfad zu `.tmp/*_missing.txt` genannt (falls Katalog-Abgleich)
+- [ ] Obiger Handoff-Block an User/PR gepostet
+
+### Was der Agent dem User geben soll (Copy-Paste)
+
+Sobald die Queue-Datei existiert, **zuerst** diese Blöcke ausgeben (Pfade/Tags konkret einsetzen, nicht Platzhalter stehen lassen):
+
+```bash
+# 1) Shop-Import — User führt diesen Befehl selbst aus
+CAMPAIGN=piko-neuheiten-2024
+QUEUE=.tmp/piko_shop_article_numbers.txt
+
+.venv/bin/python utils/piko/shop-pdp-parse/piko_mcp_chrome_search_import.py \
+  --articles "$QUEUE" \
+  --mcp-from-cursor \
+  --campaign-tag "$CAMPAIGN" \
+  --delay 3.0
+```
+
+```bash
+# 2) Danach Autofix + Check — ebenfalls User-Terminal
+SCOPE=articles/piko
+.venv/bin/python utils/agents/lok-numbering-article-review/scripts/autofix_piko_shop_type.py --apply "$SCOPE"
+.venv/bin/python utils/agents/lok-numbering-article-review/scripts/autofix_model_country.py --apply "$SCOPE"
+.venv/bin/python utils/agents/lok-numbering-article-review/scripts/autofill_categories_from_piko_url.py --apply "$SCOPE"
+npm run check
+```
+
+Erst **nach** dem Lauf: Handoff-Tabelle unten ausfüllen.
 
 ---
 
