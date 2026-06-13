@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "Privatbahn",
-    "type": "187 002 TX Logistik Railpool",
-    "number": null,
-    "livery": null,
+    "type": "BR 187",
+    "number": "002",
+    "livery": "TX Logistik Railpool",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",

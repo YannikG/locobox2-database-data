@@ -18,6 +18,7 @@ PIKO-Shop-Titel und die in `description` eingebetteten Attributzeilen sind **Mar
 | Anführungszeichen um **`"Stadler"`** bei GTW 2/6 | **Fahrzeughersteller / Typenname**, nicht Lackierung | Livery aus Rest des Titels (THURBO, HLB, StB, …), nicht «Stadler» |
 | **`bwegt`** bei THURBO-Titeln | Shop-Tippfehler für **«bewegt»** (Werbefolierung) | ignorieren; Livery **THURBO**, nicht «bwegt» |
 | **`operator`: «Privatbahn»** | Shop-Platzhalter statt EVU | Land/EVU aus Livery und Fliesstext ([wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md)); Tippfehler **«Privatbahhn»** wie Privatbahn behandeln |
+| **`187 002 TX Logistik Railpool`** (UIC ohne **`BR`**) | Shop-Titel ohne Baureihenpräfix | Split: `type` **`BR 187`**, `number` **`002`**, `livery` **`TX Logistik Railpool`**; Regel **`piko_uic_br`** in `autofix_piko_shop_type.py` |
 
 ## Niederlande: `Rh` + Ziffernblock
 
