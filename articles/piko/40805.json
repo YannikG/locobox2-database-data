@@ -17,7 +17,7 @@
     "scale": "N",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 662 Next18",
-    "era": null,
+    "era": "III",
     "luepMm": 82,
     "minRadiusMm": 192
   },

@@ -10,14 +10,14 @@
   },
   "model": {
     "country": "DE",
-    "operator": null,
+    "operator": "Privatbahn",
     "type": "BR 185",
     "number": null,
     "livery": "PIKO Jubiläum",
     "scale": "N",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 662 Next18",
-    "era": null,
+    "era": "VI",
     "luepMm": 118,
     "minRadiusMm": 192
   },
