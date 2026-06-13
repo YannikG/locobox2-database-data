@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40566",
+  "manufacturer": "PIKO",
+  "articleNumber": "40566",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 101",
+    "number": null,
+    "livery": "\"Ecophant\"",
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "VI",
+    "luepMm": 119,
+    "minRadiusMm": 192
+  },
+  "description": "N E-Lok BR 101 \"Ecophant\" DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40566\nEAN: 4015615405665\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 119\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-e-lok-br-101-ecophant-db-ag-vi-41160.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41160/thumbs/47678_434307.jpg"
+  },
+  "updatedAt": "2026-06-12T19:42:21Z"
+}

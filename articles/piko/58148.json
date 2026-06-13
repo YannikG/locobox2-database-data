@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58148",
+  "manufacturer": "PIKO",
+  "articleNumber": "58148",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 500.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "BR 140",
+    "number": null,
+    "livery": "Personenzug",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Exklusiv-Set 2024 zum Tag der Offenen Tür: E-Lok BR 140 Personenzug DB/DR IV Wechselstrom Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 58148\nEAN: 4015615581482\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nEpoche: IV\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLimitierte Sonderauflage: Ja\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-exklusiv-set-2024-zum-tag-der-offenen-tuer-e-lok-br-140-personenzug-db-dr-iv-wechselstrom-41305.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41305/thumbs/48709_431030.jpg"
+  },
+  "updatedAt": "2026-06-13T02:40:55Z"
+}

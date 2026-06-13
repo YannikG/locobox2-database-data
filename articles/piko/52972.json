@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52972",
+  "manufacturer": "PIKO",
+  "articleNumber": "52972",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 335.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "BR 365",
+    "number": null,
+    "livery": "RailAdventure",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 120,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok BR 365 RailAdventure VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52972\nEAN: 4015615529729\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 120\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 1\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: digital schaltbare Triebwerksbeleuchtung (mit PluX22 Decoder)",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-365-railadventure-vi-wechselstromversion,-inkl.-piko-sound-decoder-41623.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41623/thumbs/49066_451192.jpg"
+  },
+  "updatedAt": "2026-06-13T01:09:14Z"
+}

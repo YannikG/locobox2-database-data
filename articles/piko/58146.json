@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58146",
+  "manufacturer": "PIKO",
+  "articleNumber": "58146",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 380.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": null,
+    "type": "BR 140",
+    "number": null,
+    "livery": "Personenzug",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Exklusiv-Set 2024 zum Tag der Offenen Tür: E-Lok BR 140 Personenzug DB/DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 58146\nEAN: 4015615581468\nHersteller: PIKO\nStromsystem: Gleichstrom\nEpoche: IV\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56549\nLimitierte Sonderauflage: Ja\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/exklusiv-set-2024-zum-tag-der-offenen-tuer-e-lok-br-140-personenzug-db-dr-iv-41303.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41303/thumbs/48707_430917.jpg"
+  },
+  "updatedAt": "2026-06-13T02:39:48Z"
+}

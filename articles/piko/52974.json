@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52974",
+  "manufacturer": "PIKO",
+  "articleNumber": "52974",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 441.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "Desiro",
+    "number": null,
+    "livery": "Lokaltog",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 479,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Dieseltriebwagen \"Desiro\" Lokaltog VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52974\nEAN: 4015615529743\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 479\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-desiro-lokaltog-vi,-inkl.-piko-sound-decoder-41451.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41451/thumbs/50348_430755.jpg"
+  },
+  "updatedAt": "2026-06-13T01:27:08Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40803",
+  "manufacturer": "PIKO",
+  "articleNumber": "40803",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 330.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "USA",
+    "type": "N Sound-Diesellokomotive BR 65-DE-19-A USATC",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "II",
+    "luepMm": 82,
+    "minRadiusMm": 192
+  },
+  "description": "N Sound-Diesellokomotive BR 65-DE-19-A USATC II, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40803\nEAN: 4015615408031\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: USA\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 82\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-sound-diesellokomotive-br-65-de-19-a-usatc-ii,-inkl.-piko-sound-decoder-38312.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38312/thumbs/46766_447659.jpg"
+  },
+  "updatedAt": "2026-06-12T19:53:48Z"
+}

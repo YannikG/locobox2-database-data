@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21678",
+  "manufacturer": "PIKO",
+  "articleNumber": "21678",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 169.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "E.483 Mercitalia",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolok E.483 Mercitalia VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21678\nEAN: 4015615216780\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56613\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-e.483-mercitalia-vi-41873.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41873/thumbs/50263_440618.jpg"
+  },
+  "updatedAt": "2026-06-12T21:26:28Z"
+}

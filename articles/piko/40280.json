@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40280",
+  "manufacturer": "PIKO",
+  "articleNumber": "40280",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "N Elektrotriebwagen Hondekop NS IV-V, mit 3. Spitzenlicht",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "IV",
+    "luepMm": 320,
+    "minRadiusMm": 228
+  },
+  "description": "N Elektrotriebwagen Hondekop NS IV-V, mit 3. Spitzenlicht Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40280\nEAN: 4015615402800\nHersteller: PIKO\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 320\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar #46193\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-elektrotriebwagen-hondekop-ns-iv-v,-mit-3.-spitzenlicht-16953.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_16953/thumbs/11813_405362.jpg"
+  },
+  "updatedAt": "2026-06-12T19:16:13Z"
+}

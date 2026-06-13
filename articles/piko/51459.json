@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51459",
+  "manufacturer": "PIKO",
+  "articleNumber": "51459",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "EN 57 PR",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 747,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Triebzug EN 57 PR V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51459\nEAN: 4015615514596\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 747\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebzug-en-57-pr-v,-inkl.-piko-sound-decoder-41352.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41352/thumbs/51196_424508.jpg"
+  },
+  "updatedAt": "2026-06-12T21:47:24Z"
+}

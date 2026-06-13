@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97500",
+  "manufacturer": "PIKO",
+  "articleNumber": "97500",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "1000",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 187,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok Rh 1000 NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97500\nEAN: 4015615975007\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 187\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56632\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung (mit PluX22 Decoder)\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1000-ns-iii-41650.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41650/thumbs/51520_437827.jpg"
+  },
+  "updatedAt": "2026-06-13T03:08:22Z"
+}

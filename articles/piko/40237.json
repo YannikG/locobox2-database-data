@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40237",
+  "manufacturer": "PIKO",
+  "articleNumber": "40237",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 335.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "N Dieseltriebwagen GTW 2/6 \"Stadler\"",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "VI",
+    "luepMm": 243,
+    "minRadiusMm": 228
+  },
+  "description": "N Dieseltriebwagen GTW 2/6 \"Stadler\" DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40237\nEAN: 4015615402374\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 243\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-dieseltriebwagen-gtw-2-6-stadler-db-ag-vi-38064.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38064/thumbs/53115_401430.jpg"
+  },
+  "updatedAt": "2026-06-12T19:13:08Z"
+}

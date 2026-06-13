@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-27504",
+  "manufacturer": "PIKO",
+  "articleNumber": "27504",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektotriebwagen GTW 2/6 \"Stadler\" THURBO bwegt SBB IV, inkl. PIKO SoundDecoder",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Elektotriebwagen GTW 2/6 \"Stadler\" THURBO bwegt SBB IV, inkl. PIKO SoundDecoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 27504\nEAN: 4015615275046\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektotriebwagen-gtw-2-6-stadler-thurbo-bwegt-sbb-iv,-inkl.-piko-sounddecoder-42279.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_42279/thumbs/53111_429670.jpg"
+  },
+  "updatedAt": "2026-06-12T21:30:39Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40446",
+  "manufacturer": "PIKO",
+  "articleNumber": "40446",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "N Diesellok 2200 Strukton",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "V",
+    "luepMm": 88,
+    "minRadiusMm": 192
+  },
+  "description": "N Diesellok 2200 Strukton V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40446\nEAN: 4015615404460\nHersteller: PIKO\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 88\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 658 PluX12\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-diesellok-2200-strukton-v-38046.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38046/thumbs/44953_434498.jpg"
+  },
+  "updatedAt": "2026-06-12T19:26:32Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51458",
+  "manufacturer": "PIKO",
+  "articleNumber": "51458",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "EN 57 PR",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 747,
+    "minRadiusMm": 358
+  },
+  "description": "E-Triebzug EN 57 PR V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51458\nEAN: 4015615514589\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 747\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-triebzug-en-57-pr-v-41351.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41351/thumbs/51195_439235.jpg"
+  },
+  "updatedAt": "2026-06-12T21:46:50Z"
+}

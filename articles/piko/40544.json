@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40544",
+  "manufacturer": "PIKO",
+  "articleNumber": "40544",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "N E-Lok BR E 91",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "II",
+    "luepMm": 104,
+    "minRadiusMm": 192
+  },
+  "description": "N E-Lok BR E 91 DRG II Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40544\nEAN: 4015615405443\nHersteller: PIKO\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 104\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-e-lok-br-e-91-drg-ii-37883.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37883/thumbs/41976_450752.jpg"
+  },
+  "updatedAt": "2026-06-12T19:38:44Z"
+}

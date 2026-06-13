@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40371",
+  "manufacturer": "PIKO",
+  "articleNumber": "40371",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 380.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "1100",
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "IV",
+    "luepMm": 88,
+    "minRadiusMm": 192
+  },
+  "description": "N Sound-E-Lok Rh 1100 NS IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40371\nEAN: 4015615403715\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 88\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nVerbauter Decoder: Next18 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit Next18 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-sound-e-lok-rh-1100-ns-iv,-inkl.-piko-sound-decoder-30558.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_30558/thumbs/32418_440236.jpg"
+  },
+  "updatedAt": "2026-06-12T19:20:42Z"
+}

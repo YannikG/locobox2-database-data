@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40466",
+  "manufacturer": "PIKO",
+  "articleNumber": "40466",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 265.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "1200",
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "III",
+    "luepMm": 113,
+    "minRadiusMm": 192
+  },
+  "description": "N E-Lok Rh 1200 NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40466\nEAN: 4015615404668\nHersteller: PIKO\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 113\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-e-lok-rh-1200-ns-iii-37637.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37637/thumbs/42753_424709.jpg"
+  },
+  "updatedAt": "2026-06-12T19:28:30Z"
+}

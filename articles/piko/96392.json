@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96392",
+  "manufacturer": "PIKO",
+  "articleNumber": "96392",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "PR",
+    "type": "EU07 PR",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 183,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok EU07 PR VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96392\nEAN: 4015615963929\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PR\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-eu07-pr-vi,-inkl.-piko-sound-decoder-41409.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41409/thumbs/51675_419636.jpg"
+  },
+  "updatedAt": "2026-06-13T02:58:19Z"
+}

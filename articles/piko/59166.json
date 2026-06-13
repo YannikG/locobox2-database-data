@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59166",
+  "manufacturer": "PIKO",
+  "articleNumber": "59166",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "G 1206",
+    "number": null,
+    "livery": "Alpha Trains",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 169,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok G 1206 Alpha Trains VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59166\nEAN: 4015615591665\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 169\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56555\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-g-1206-alpha-trains-vi-wechselstromversion-41722.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41722/thumbs/49161_423228.jpg"
+  },
+  "updatedAt": "2026-06-13T02:48:32Z"
+}

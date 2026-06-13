@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59138",
+  "manufacturer": "PIKO",
+  "articleNumber": "59138",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 309.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "GTW 2/6",
+    "number": null,
+    "livery": "Stadler",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen GTW 2/6 \"Stadler\" HLB VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59138\nEAN: 4015615591382\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 453\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder nachrüstbar #56616\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-gtw-2-6-stadler-hlb-vi-38321.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38321/thumbs/53668_420317.jpg"
+  },
+  "updatedAt": "2026-06-13T02:46:51Z"
+}

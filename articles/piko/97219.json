@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97219",
+  "manufacturer": "PIKO",
+  "articleNumber": "97219",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 6/6 Uri",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 211,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok Ae 6/6 Uri SBB VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97219\nEAN: 4015615972198\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 211\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56595\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-ae-6-6-uri-sbb-vi-42258.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_42258/thumbs/50341_405581.jpg"
+  },
+  "updatedAt": "2026-06-13T03:02:14Z"
+}

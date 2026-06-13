@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40587",
+  "manufacturer": "PIKO",
+  "articleNumber": "40587",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 319.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "BR 485",
+    "number": null,
+    "livery": "BLS",
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 662 Next18",
+    "era": "VI",
+    "luepMm": 118,
+    "minRadiusMm": 192
+  },
+  "description": "N Sound-E-Lok BR 485 BLS VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40587\nEAN: 4015615405870\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 118\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nVerbauter Decoder: Next18 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-sound-e-lok-br-485-bls-vi,-inkl.-piko-sound-decoder-41308.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41308/thumbs/49849_420688.jpg"
+  },
+  "updatedAt": "2026-06-12T19:47:07Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40448",
+  "manufacturer": "PIKO",
+  "articleNumber": "40448",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh",
+    "number": "2200",
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "IV",
+    "luepMm": 88,
+    "minRadiusMm": 192
+  },
+  "description": "N Diesellok Rh 2200 NS IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40448\nEAN: 4015615404484\nHersteller: PIKO\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 88\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 658 PluX12\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-diesellok-rh-2200-ns-iv-41158.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_41158/thumbs/50419_444649.jpg"
+  },
+  "updatedAt": "2026-06-12T19:27:06Z"
+}

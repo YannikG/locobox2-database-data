@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40482",
+  "manufacturer": "PIKO",
+  "articleNumber": "40482",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": null,
+    "operator": "Privatbahn",
+    "type": "N Diesellok G 1206 Lineas NL",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": null,
+    "decoderInterface": "NEM 651",
+    "era": "VI",
+    "luepMm": 92,
+    "minRadiusMm": 192
+  },
+  "description": "N Diesellok G 1206 Lineas NL VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40482\nEAN: 4015615404828\nHersteller: PIKO\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 92\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 651\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-diesellok-g-1206-lineas-nl-vi-34906.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_34906/thumbs/36776_438029.jpg"
+  },
+  "updatedAt": "2026-06-12T19:29:20Z"
+}

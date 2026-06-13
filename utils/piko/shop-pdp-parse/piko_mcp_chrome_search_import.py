@@ -285,6 +285,30 @@ def _is_pdp_url_piko(href: str) -> bool:
     return "piko-shop" in u and "/artikel/" in u and u.endswith(".html")
 
 
+def _piko_search_url(start_url: str, article: str) -> str:
+    """Direkte Shop-Suche (GET q= auf praesenz/search.html)."""
+    base = start_url.strip().rstrip("/")
+    if not base or "piko-shop" not in base:
+        base = "https://www.piko-shop.de/de"
+    elif not base.endswith("/de"):
+        base = "https://www.piko-shop.de/de"
+    return f"{base}/praesenz/search.html?q={article}"
+
+
+def _js_dismiss_cookie_banner() -> str:
+    return """() => {
+  const nodes = Array.from(document.querySelectorAll('button, a, [role="button"]'));
+  for (const el of nodes) {
+    const t = (el.textContent || '').trim();
+    if (/^Alle erlauben$/i.test(t) || /^Accept all$/i.test(t)) {
+      el.click();
+      return JSON.stringify({ ok: true });
+    }
+  }
+  return JSON.stringify({ ok: false, skipped: true });
+}"""
+
+
 def _js_search_submit_piko(article: str) -> str:
     if not article.isdigit():
         raise ValueError("Artikelnummer nur Ziffern")
@@ -311,13 +335,12 @@ def _js_click_first_pdp_link_piko(article: str) -> str:
         raise ValueError("Artikelnummer nur Ziffern")
     return f"""() => {{
   const art = "{article}";
+  const artRe = new RegExp("Artikelnummer:\\\\s*" + art + "\\\\b");
   const links = Array.from(document.querySelectorAll('a[href*="/artikel/"]'));
   const hit = links.find((a) => {{
     const t = ((a.innerText || "") + " " + (a.textContent || "") + " " + (a.getAttribute("href") || ""));
-    return (
-      (t.includes("Artikelnummer") || t.includes("Item number")) &&
-      t.includes(art)
-    );
+    const norm = t.replace(/\\s+/g, " ");
+    return artRe.test(norm) || new RegExp("\\\\b" + art + "\\\\b").test(norm) && norm.includes("Artikelnummer");
   }});
   if (!hit) return JSON.stringify({{ err: "no_pdp_link" }});
   hit.click();
@@ -489,36 +512,27 @@ async def _run_piko_mcp_import(
             sp = await session.call_tool("select_page", {"pageId": pid, "bringToFront": True})
             _tool_raise("select_page", sp)
 
+            cookies_dismissed = False
+
             for art in articles:
                 print(f"-- {art}", flush=True)
                 try:
+                    search_url = _piko_search_url(start_url, art)
                     nav = await session.call_tool(
                         "navigate_page",
-                        {"type": "url", "url": start_url, "timeout": 60000},
+                        {"type": "url", "url": search_url, "timeout": 60000},
                     )
                     _tool_raise("navigate_page", nav)
                     await asyncio.sleep(delay_s)
 
-                    ev = await session.call_tool(
-                        "evaluate_script",
-                        {"function": _js_search_submit_piko(art)},
-                    )
-                    _tool_raise("evaluate_script", ev)
-                    body = _tool_text(ev)
-                    if "no_search_input" in body:
-                        print(f"error: {art}: Suchfeld nicht gefunden", file=sys.stderr)
-                        fail += 1
-                        continue
-
-                    await asyncio.sleep(delay_s)
-                    try:
-                        wf = await session.call_tool(
-                            "wait_for",
-                            {"text": [art], "timeout": 45000},
+                    if not cookies_dismissed:
+                        ck = await session.call_tool(
+                            "evaluate_script",
+                            {"function": _js_dismiss_cookie_banner()},
                         )
-                        _tool_raise("wait_for", wf)
-                    except Exception as ex:
-                        print(f"warning: wait_for: {ex}", file=sys.stderr)
+                        _tool_raise("evaluate_script", ck)
+                        cookies_dismissed = True
+                        await asyncio.sleep(max(0.5, min(2.0, delay_s * 0.2)))
 
                     href_ev = await session.call_tool(
                         "evaluate_script",
