@@ -11,9 +11,9 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh 5045",
-    "number": null,
-    "livery": "BBÖ III Blauer Blitz, 3tlg.",
+    "type": "Rh",
+    "number": "5045",
+    "livery": "BBÖ Blauer Blitz",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
@@ -22,7 +22,9 @@
     "minRadiusMm": 415
   },
   "description": "Dieseltriebwagen Rh 5045 BBÖ III Blauer Blitz, 3tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52070\nEAN: 4015615520702\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 755\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56534\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "dieseltriebwagen"
+  ],
   "tags": [
     "piko-neuheiten-2019"
   ],

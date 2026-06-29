@@ -22,7 +22,9 @@
     "minRadiusMm": 358
   },
   "description": "Diesellok D.145 FS IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52841\nEAN: 4015615528418\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: FS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 175\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "dieseltriebwagen"
+  ],
   "tags": [
     "piko-neuheiten-2019"
   ],

@@ -17,12 +17,15 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III",
+    "era": "IV",
     "luepMm": 212,
     "minRadiusMm": 358
   },
   "description": "Diesellok V 200.1 DB III Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52601\nEAN: 4015615526018\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 212\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX16\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56559\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "piko-neuheiten-2019"
   ],

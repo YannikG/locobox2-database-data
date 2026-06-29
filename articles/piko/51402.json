@@ -22,7 +22,9 @@
     "minRadiusMm": 421
   },
   "description": "Sound-E-Triebzug BR 412 ICE 4 DB AG VI, 4tlg., inkl. PIKO Decoder mit Soundmodul Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51402\nEAN: 4015615514022\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1330\nMindestradius [mm]: 421\nDigitale Schnittstelle: 20polig\nVerbauter Decoder: 20poliger Multiprotokolldecoder mit Soundmodul\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
-  "categories": [],
+  "categories": [
+    "triebzug"
+  ],
   "tags": [
     "piko-neuheiten-2019"
   ],
