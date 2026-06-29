@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50069",
+  "manufacturer": "PIKO",
+  "articleNumber": "50069",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 380.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 94.20-21",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III",
+    "luepMm": 145,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflok BR 94.20-21 DR III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50069\nEAN: 4015615500698\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 145\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-94.20-21-dr-iii-27987.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_27987/thumbs/29098_422967.jpg"
+  },
+  "updatedAt": "2026-06-14T11:12:57Z"
+}

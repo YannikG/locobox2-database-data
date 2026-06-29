@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51403",
+  "manufacturer": "PIKO",
+  "articleNumber": "51403",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 779.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 412",
+    "number": null,
+    "livery": "ICE 4 DB AG VI, 4tlg.",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "20polig",
+    "era": "VI",
+    "luepMm": 1330,
+    "minRadiusMm": 421
+  },
+  "description": "Sound-E-Triebzug BR 412 ICE 4 DB AG VI, 4tlg. Wechselstromversion, inkl. PIKO Decoder mit Soundmodul Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51403\nEAN: 4015615514039\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1330\nMindestradius [mm]: 421\nDigitale Schnittstelle: 20polig\nVerbauter Decoder: 20poliger Multiprotokolldecoder mit Soundmodul\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebzug-br-412-ice-4-db-ag-vi,-4tlg.-wechselstromversion,-inkl.-piko-decoder-mit-soundmodul-28260.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_28260/thumbs/32445_436530.jpg"
+  },
+  "updatedAt": "2026-06-14T11:56:16Z"
+}

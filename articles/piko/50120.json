@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50120",
+  "manufacturer": "PIKO",
+  "articleNumber": "50120",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 41",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "IV",
+    "luepMm": 278,
+    "minRadiusMm": 415
+  },
+  "description": "Dampflok BR 41 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50120\nEAN: 4015615501206\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 278\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 6\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-41-dr-iv-28201.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28201/thumbs/27041_443592.jpg"
+  },
+  "updatedAt": "2026-06-14T11:15:10Z"
+}

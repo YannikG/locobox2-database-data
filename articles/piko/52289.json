@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52289",
+  "manufacturer": "PIKO",
+  "articleNumber": "52289",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 642",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "V",
+    "luepMm": 479,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen \"Desiro\" BR 642 DB AG V Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52289\nEAN: 4015615522898\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 479\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-desiro-br-642-db-ag-v-wechselstromversion-27448.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_27448/thumbs/26758_454291.jpg"
+  },
+  "updatedAt": "2026-06-14T12:11:46Z"
+}

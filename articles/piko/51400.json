@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51400",
+  "manufacturer": "PIKO",
+  "articleNumber": "51400",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 619.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 412",
+    "number": null,
+    "livery": "ICE 4 DB AG VI, 4tlg.",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "20polige Schnittstelle",
+    "era": "VI",
+    "luepMm": 1330,
+    "minRadiusMm": 421
+  },
+  "description": "E-Triebzug BR 412 ICE 4 DB AG VI, 4tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51400\nEAN: 4015615514008\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1330\nMindestradius [mm]: 421\nDigitale Schnittstelle: 20polige Schnittstelle\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56288 + #56290\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar 1x #56429\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Motorwagen mit werkseitig eingebauter Innenbeleuchtung ausgerüstet\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-triebzug-br-412-ice-4-db-ag-vi,-4tlg.-28258.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_28258/thumbs/28522_427832.jpg"
+  },
+  "updatedAt": "2026-06-14T11:53:34Z"
+}
