@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51298",
+  "manufacturer": "PIKO",
+  "articleNumber": "51298",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 380.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 93",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 203,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive E 93 DB III Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51298\nEAN: 4015615512981\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 203\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolokomotive-e-93-db-iii-wechselstromversion-28003.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_28003/thumbs/51423_419273.jpg"
+  },
+  "updatedAt": "2026-06-14T11:42:30Z"
+}

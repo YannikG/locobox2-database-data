@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52880",
+  "manufacturer": "PIKO",
+  "articleNumber": "52880",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "VT 2.09",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 311,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen VT 2.09 DR III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52880\nEAN: 4015615528807\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 311\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder nachrüstbar #56535\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-vt-2.09-dr-iii-28234.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28234/thumbs/29340_431563.jpg"
+  },
+  "updatedAt": "2026-06-14T12:30:18Z"
+}
