@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-47820",
+  "manufacturer": "PIKO",
+  "articleNumber": "47820",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 205.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "TT Diesellok Vectron BR 247 DPB VI",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "\n\nArtikelnummer: 47820\nEAN: 4015615478201\nHersteller: PIKO\nBahnverwaltung: Privatbahn\nEpoche: VI\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 176\nMindestradius [mm]: 310\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #46199\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/47820.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_51008/thumbs/63654_568067.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

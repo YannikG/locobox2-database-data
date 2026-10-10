@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-47352",
+  "manufacturer": "PIKO",
+  "articleNumber": "47352",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 178.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "TT Diesellok BR 229 mit Latz DB AG V",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V"
+  },
+  "description": "\n\nArtikelnummer: 47352\nEAN: 4015615473527\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: V\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 162\nMindestradius [mm]: 310\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #46543\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/47352.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_48601/thumbs/63653_568114.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

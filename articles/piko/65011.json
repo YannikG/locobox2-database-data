@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-65011",
+  "manufacturer": "PIKO",
+  "articleNumber": "65011",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 220.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "G Abgebranntes Haus",
+    "number": null,
+    "livery": null,
+    "scale": "G",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "\n\nArtikelnummer: 65011\nEAN: 4015615650119\nBemerkung: Accessoires und Figuren nicht enthalten! Abbildung zeigt Gestaltungsvorschlag\nHersteller: PIKO\nMassbezeichnung: H x L x B\nMass [mm]: 365 x 300 x 456\nAltersempfehlung: ab 14 Jahren\nWarnhinweis H225: Klebstoff: Flüssigkeit und Dampf leicht entzündbar.\nWarnhinweis H319: Klebstoff: Verursacht schwere Augenreizung.\nWarnhinweis H336: Klebstoff: Kann Schläfrigkeit und Benommenheit verursachen.",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/65011.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_g/oart_49309/thumbs/60342_532921.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

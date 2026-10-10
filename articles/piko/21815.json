@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21815",
+  "manufacturer": "PIKO",
+  "articleNumber": "21815",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 195.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "Elektrolok Rh 1216 LTE VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "\n\nArtikelnummer: 21815\nEAN: 4015615218159\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 225\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56615\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/21815.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49071/thumbs/63623_568039.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

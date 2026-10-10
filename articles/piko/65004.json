@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-65004",
+  "manufacturer": "PIKO",
+  "articleNumber": "65004",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 220.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "G Lokschuppen kurz",
+    "number": null,
+    "livery": null,
+    "scale": "G",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "\n\nArtikelnummer: 65004\nEAN: 4015615650041\nBemerkung: Accessoires und Figuren nicht enthalten! Abbildung zeigt Gestaltungsvorschlag\nHersteller: PIKO\nMassbezeichnung: H x L x B\nMass [mm]: 485 x 300 x 305\nAltersempfehlung: ab 14 Jahren\nWarnhinweis H225: Klebstoff: Flüssigkeit und Dampf leicht entzündbar.\nWarnhinweis H319: Klebstoff: Verursacht schwere Augenreizung.\nWarnhinweis H336: Klebstoff: Kann Schläfrigkeit und Benommenheit verursachen.",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/65004.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_g/oart_49306/thumbs/59876_527069.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

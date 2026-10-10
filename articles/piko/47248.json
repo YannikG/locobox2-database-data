@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-47248",
+  "manufacturer": "PIKO",
+  "articleNumber": "47248",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "TT Triebwagen Talent 2 S-Bahn Rostock 5-tlg. Jubiläum VI",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "VI"
+  },
+  "description": "\n\nArtikelnummer: 47248\nEAN: 4015615472483\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: VI\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 726\nMindestradius [mm]: 310\nDigitale Schnittstelle: NEM 658 PluX16\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar #46191\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/47248.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_48606/thumbs/63651_568052.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}

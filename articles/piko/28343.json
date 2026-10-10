@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-28343",
+  "manufacturer": "PIKO",
+  "articleNumber": "28343",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 133.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "2er Set Knickkesselwagen RTI VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "\n\nArtikelnummer: 28343\nEAN: 4015615283430\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 380\nMindestradius [mm]: 358\nKupplung: NEM Schacht + Kurzkupplungskulisse\nTauschradsätze AC: 56061\nAltersempfehlung: ab 14 Jahren",
+  "categories": [],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/28343.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49304/thumbs/63635_568093.jpg"
+  },
+  "updatedAt": "2026-10-10T17:10:08Z"
+}
