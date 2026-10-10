@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "G Abgebranntes Haus",
+    "type": "Abgebranntes Haus",
     "number": null,
     "livery": null,
     "scale": "G",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_g/oart_49309/thumbs/60342_532921.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

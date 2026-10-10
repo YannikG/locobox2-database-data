@@ -9,18 +9,21 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Privatbahn",
-    "type": "Sound-Elektrolok Rh 1216 LTE VI",
+    "country": "AT",
+    "operator": "LTE",
+    "type": "Rh 1216",
     "number": null,
-    "livery": null,
+    "livery": "LTE",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",
     "era": "VI"
   },
   "description": "Herbstneuheit 2026: Die moderne Elektrolokomotive Rh 1216 im markanten Design der LTE überzeugt mit einer detaillierten Ausführung und zahlreichen feinen Details. Das charakteristische Erscheinungsbild der für den grenzüberschreitenden Güterverkehr eingesetzten Lokomotive macht sie zu einem Blickfang auf jeder Modellbahnanlage.\n\nDetailliert ausgeführtes modernes Design\nSpitzenlicht in Fahrtrichtung weiss/rot wechselnd\nEinholmstromabnehmer aus Metall\nDetaillierter Dachgarten\nFreistehend montierte Hand- und Griffstangen\nZahlreiche, vorbildgetreue Soundfunktionen.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49072/thumbs/63624_568045.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

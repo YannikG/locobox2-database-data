@@ -10,17 +10,20 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB",
-    "type": "TT Diesellok BR 229 mit Latz DB AG V",
+    "operator": "DB AG",
+    "type": "BR 229",
     "number": null,
-    "livery": null,
+    "livery": "orientrot mit Latz",
     "scale": "TT",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
     "era": "V"
   },
   "description": "Herbstneuheit 2026: Die Diesellokomotive der Baureihe 229 in orientroter Lackierung der DB AG mit markantem Latz präsentiert sich als detailliertes TT-Modell der Epoche V. Die markante Farbgebung und die charakteristische Formgebung des Vorbilds werden präzise umgesetzt.\n\nFeine Gravuren an Rahmen und Drehgestell\nVorbildgerechte Gehäusegestaltung\nFür unkomplizierte Soundnachrüstung vorbereitet\nTT-Kurzkupplungen für realistische Kupplungsabstände.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_48601/thumbs/63653_568114.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

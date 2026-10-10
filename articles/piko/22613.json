@@ -11,16 +11,19 @@
   "model": {
     "country": "IT",
     "operator": "FS",
-    "type": "Sound-Diesellok D.445.1086 3. Serie Navetta FS V",
-    "number": null,
-    "livery": null,
+    "type": "D.445",
+    "number": "1086",
+    "livery": "Navetta",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
     "era": "V"
   },
   "description": "Herbstneuheit 2026: Das PIKO Modell der Diesellokomotive D.445.1086 der dritten Serie präsentiert sich in der charakteristischen Navetta-Lackierung der italienischen FS in Epoche V. Die markante Formgebung, die detaillierte Inneneinrichtung und zahlreiche fein ausgeführte Details geben das Vorbild überzeugend wieder. Besonders hervorzuheben sind die frei beweglichen Lüfterräder unter den fein geätzten Gittern.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Maschinenraumbeleuchtung\nDetaillierte Inneneinrichtung\nFrei bewegliche Lüfterräder unter fein geätzten Gittern\nCharakteristische Navetta-Lackierung der FS\nZahlreiche, vorbildgetreue Soundfunktionen.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51915/thumbs/63630_568155.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

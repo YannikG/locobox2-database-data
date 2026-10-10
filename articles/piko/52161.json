@@ -9,18 +9,21 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Privatbahn",
-    "type": "Sound-Diesellok Vectron BR 247 DPB VI",
+    "country": "AT",
+    "operator": "DPB",
+    "type": "BR 247",
     "number": null,
-    "livery": null,
+    "livery": "DPB",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
     "era": "VI"
   },
   "description": "Herbstneuheit 2026: Die Diesellokomotive der Baureihe 247 im markanten Design der DPB Rail Infra Service GmbH steht für modernen, grenzüberschreitenden Güterverkehr und flexible Baustellenlogistik. Das österreichische Eisenbahnverkehrsunternehmen setzt auf moderne Lokomotiven für den Transport von Baumaterialien und Gütern sowie für Überführungs- und Rangierleistungen. Das Modell überzeugt mit einer detaillierten Ausführung und zahlreichen filigranen Anbauteilen.\n\nExtra Handgriffe und Sandboxen\nFiligrane Antennen und Treppen\nScharf gravierte Drehgestelle\nSeparat angesetzte Schienenräumer\nFeine Lüftergitter\nZahlreiche, vorbildgetreue Soundfunktionen.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51015/thumbs/63880_569376.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

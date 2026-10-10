@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "Sound-E-Lok E 17 DR III",
-    "number": null,
+    "type": "E 17",
+    "number": "123",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -20,7 +20,10 @@
     "era": "III"
   },
   "description": "Herbstneuheit 2026: Die Elektrolokomotive E17 123 der Deutschen Reichsbahn (DR) gehörte zu den letzten Vertretern der bereits Ende der 1920er-Jahre entwickelten Baureihe E17 im DR-Bestand. Nach dem Zweiten Weltkrieg verblieben mit der E17 123 und E17 124 nur zwei Lokomotiven dieser Baureihe in der DDR. Beide Maschinen waren zuvor in Schlesien eingesetzt und gelangten nach Kriegsende als Reparationsleistung in die Sowjetunion. 1952 kehrten sie in die DDR zurück und wurden 1957 wieder in Betrieb genommen. Die E17 123 war anschliessend im mitteldeutschen elektrifizierten Netz vor Reisezügen im Einsatz, bevor sie 1968 ausgemustert und verschrottet wurde. Das detaillierte Modell bildet die charakteristischen Merkmale der bei der DR eingesetzten E17 123 vorbildgerecht nach. Die Lok ist ab Werk mit einem passenden PSD XP Sound-Decoder mit grösstmöglichem Lautsprecher ausgestattet.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Maschinenraumbeleuchtung\nFührerpultbeleuchtung\nZwei Scherenstromabnehmer aus Metall\nRillenisolatoren mit Querachse SBS 10\nDetailliert ausgestalteter Dachgarten mit feinen Dachlaufstegen\nUrsprüngliche DRG-Lampenbauform\nSIFA-Leitungen und Scheibenwischer nach Bauart DR\nPIKO TrainSound® onboard.",
-  "categories": [],
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51275/thumbs/63864_569356.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

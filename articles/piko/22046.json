@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Privatbahn",
+    "operator": "Railion",
     "type": "BR 296",
     "number": null,
-    "livery": null,
+    "livery": "Railion",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49575/thumbs/59557_526540.jpg"
   },
-  "updatedAt": "2026-10-10T17:19:11Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

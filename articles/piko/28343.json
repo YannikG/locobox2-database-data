@@ -10,17 +10,19 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Privatbahn",
-    "type": "2er Set Knickkesselwagen RTI VI",
+    "operator": "RTI",
+    "type": "Knickkesselwagen",
     "number": null,
-    "livery": null,
+    "livery": "RTI",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Unbekannt",
     "era": "VI"
   },
   "description": "Herbstneuheit 2026: Anfang der neunziger Jahre wurden die ersten Tankwagen mit einem sogenannten “Knickkessel” gebaut. Die Konstruktion der Kessel erfolgte so, dass sich die beiden Kesselhälften zur Mitte hin um jeweils 3° neigen. Deshalb fliesst der Kesselinhalt, in der Hauptsache Mineralölprodukte, ohne weitere Hilfsmittel so gut wie restlos ab. Da die in Stahlleichtbauweise gefertigten Fahrzeuge für höhere Geschwindigkeiten geeignet sind, wurden sie bald auch von anderen Unternehmen in ganz Europa beschafft.\n\nSet bestehend aus zwei RTI Knickkesselwagen\nMit Bremserbühne\nFreistehend montierte Leitern und Plattform\nOriginalgetreue Nachbildung des Knickkessels\nDetaillierte Drehgestelle\nAusgezeichnete Rolleigenschaften",
-  "categories": [],
+  "categories": [
+    "wagen"
+  ],
   "tags": [
     "piko-herbstneuheiten-2026"
   ],
@@ -29,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49304/thumbs/63635_568093.jpg"
   },
-  "updatedAt": "2026-10-10T17:18:17Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }
