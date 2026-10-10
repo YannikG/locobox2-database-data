@@ -21,7 +21,7 @@
     "luepMm": 92,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok BR 102.1 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52635\nEAN: 4015615526353\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 92\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Ausziehbare Antenne\nAltersempfehlung: ab 14 Jahren",
+  "description": "Druckvariante der Formneuheit BR 102.1 in der Ausführung der DR in orangefarbener Lackierung. Technisch-konstruktiv entspricht das Modell #52631. Der ab Werk eingebaute Lok-Sounddecoder beherrscht die Datenformate DCC mit RailComPlus®, Motorola®, Selectrix® und M4. Der Decoder ist auf den Loktyp abgestimmt und verfügt über bis zu 23 schaltbare Funktionen. Viele loktypische Geräusche wie Motorengeräusch, Signalhörner, Bremsenquietschen und weitere sind einzeln abrufbar. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_21441/thumbs/32472_430162.jpg"
   },
-  "updatedAt": "2026-06-13T21:33:16Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

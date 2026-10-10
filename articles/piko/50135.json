@@ -21,7 +21,7 @@
     "luepMm": 174,
     "minRadiusMm": 415
   },
-  "description": "Dampflok BR 95 DR III, Kohle Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50135\nEAN: 4015615501350\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 174\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 3\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "description": "Druckvariante der BR 95 der DR mit Kohlefeuerung in Ep. III",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_21109/thumbs/17182_415735.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

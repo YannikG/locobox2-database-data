@@ -21,7 +21,7 @@
     "luepMm": 311,
     "minRadiusMm": 358
   },
-  "description": "Dieseltriebwagen VT 2.09 DR III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52880\nEAN: 4015615528807\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 311\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder nachrüstbar #56535\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Mit dem neukonstruierten Modell des Schienenbusses VT 2.09 der Deutschen Reichsbahn entspricht PIKO einem oft genannten Wunsch vieler Modellbahner nach einer zeitgemässen, detaillierten und auch betriebstauglichen Ausführung der bekannten Ferkeltaxe. Nach der Entwicklung der innovativen Steuerungslogik des DB-Schienenbusses, für die PIKO das Goldene Gleis 2017 erhielt, liegt es nahe, nun auch das weitverbreitete Pendant aus Ostdeutschland detailverliebt mit einer entsprechenden Logik umzusetzen. Der Triebwagen wird von einem starken Kleinstmotor angetrieben, der zugunsten einwandfreierLaufeigenschaften mit Schwungmassen ausgestattet ist und besitzt für optimale Fahreigenschaften ohne Soundunterbrechungen einen ab Werk eingebauten Pufferkondensator. Der Antrieb wirkt auf beideAchsen des Triebwagens. Trieb- und Steuerwagen sind über eine stromleitende Kurzkupplungskinematik miteinander kuppelbar. Die Beleuchtungsfunktionen beider Fahrzeuge sind gesondert schaltbar, der freie Durchblick durch die Fahrgasträume möglich. Das Triebfahrzeug registriert zum Beispiel selbständig, ob ein Steuerwagen beigefügt ist und schaltet dann zwischen den Fahrzeugen die Beleuchtung aus. Die PIKO Ferkeltaxe ist für eine unkomplizierte Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [
     "dieseltriebwagen"
   ],
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28234/thumbs/29340_431563.jpg"
   },
-  "updatedAt": "2026-06-14T12:30:18Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

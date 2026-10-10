@@ -21,7 +21,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Sound-Elektrolok Vectron BR 7193 Medway VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21831\nEAN: 4015615218319\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 218\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Druckvariante des Vectron im markanten Design von Medway in der Epoche VI. Das Modell verfügt über einen PSD XP Sound-Decoder",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49413/thumbs/59530_526572.jpg"
   },
-  "updatedAt": "2026-05-14T20:08:40Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 212,
     "minRadiusMm": 358
   },
-  "description": "Diesellok V 200.1 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52600\nEAN: 4015615526001\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 212\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56559\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Das neukonstruierte PIKO Modell der V 200.1 weist an Dach, Gehäuse und den Drehgestellen alle optischen Änderungen zur Vorgängerbaureihe auf, in seinem konstruktiven Grundaufbau entspricht das neue Modell den PIKO Modellen der V 200.0. Mit den freistehenden, einzeln angesetzten Fronthandstangen und fein gravierten Drehgestellen gibt das Modell das Vorbild exakt wieder. Der schwere, aus Zinkdruckguss gefertigte Rahmen verleiht den Modellen im Zusammenspiel mit dem gewählten Motor mit zwei grossen Schwungmassen hervorragende Laufeigenschaften. Die PIKO V 200.1 verfügt über einen fahrtrichtungsabhängigen Lichtwechsel weiss/rot sowie beidseitige Kurzkupplungskinematiken. Das Modell besitzt eine Digitalschnittstelle PluX22. Eine leichte Nachrüstung mit Sound ist vorbereitet. Die Führerstandbeleuchtung ist nur schaltbar mit PluX22 Decodern.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_21282/thumbs/18704_417392.jpg"
   },
-  "updatedAt": "2026-06-13T21:26:24Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

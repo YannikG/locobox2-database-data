@@ -21,7 +21,7 @@
     "luepMm": 125,
     "minRadiusMm": 358
   },
-  "description": "Diesellok 106.2 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59429\nEAN: 4015615594291\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 125\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56618\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Diesellok 106.2 DR IV",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_17925/thumbs/13220_443013.jpg"
   },
-  "updatedAt": "2026-06-13T22:52:37Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

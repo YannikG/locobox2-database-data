@@ -21,7 +21,7 @@
     "luepMm": 129,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok 102 RRF VI inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96468\nEAN: 4015615964681\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 129\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Das PIKO Modell der Baureihe 74 der SNCB basiert auf der technologischen Konstruktion der V 60 der DR, insbesondere auf dem vielfach bewährten Antriebskonzept des D-Kupplers. Der stabile, aus Zinkdruckguss gefertigte Rahmen sorgt in Kombination mit dem Motor und einer präzise konzipierten Schwungmasse für feinfühlig regelbareLaufeigenschaften bei sehr hoher Zugkraft. Konstruktiv entspricht das Modell in seinen weiteren Merkmalen #96466. Der ab Werk eingebaute PIKO Sounddecoder 4.1 der neuesten Generation beherrscht die Datenformate DCC mit RailComPlus®, Motorola®, Selectrix® und ist mfx-fähig. Der verbaute Lautsprecher ist genau auf den Loktyp abgestimmt. Viele loktypische Geräusche wie Motorengeräusch, Signalhörner, Bremsenquietschen und weitere schaltbare Funktionen sind einzeln abrufbar. Mit einstellbarem individuellem Mapping für bis zu 44 Funktionen. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch. Bremsschläuche zum optionalen Aufrüsten für den Vitrineneinsatz liegen bei.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_25400/thumbs/32483_432910.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

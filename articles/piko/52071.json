@@ -21,7 +21,7 @@
     "luepMm": 755,
     "minRadiusMm": 415
   },
-  "description": "Sound-Dieseltriebwagen Rh 5045 BBÖ III Blauer Blitz, 3tlg. inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52071\nEAN: 4015615520719\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 755\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung vorhanden\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Modellpflege: Der beliebte Dieseltriebwagen Blauer Blitz der ÖBB in Epoche III Ausführung mit erhabenen Logos der BBÖ und PluX22 Schnittstelle",
   "categories": [
     "dieseltriebwagen"
   ],
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28185/thumbs/26242_448461.jpg"
   },
-  "updatedAt": "2026-06-14T12:08:11Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

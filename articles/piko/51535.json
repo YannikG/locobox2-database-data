@@ -21,7 +21,7 @@
     "luepMm": 180,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 141 mit Latz DB IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51535\nEAN: 4015615515357\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Das PIKO Modell der BR E 41 erscheint in den Farben der DB in Epoche III. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Technisch-konstruktiv entspricht das Modell den bekannten PIKO Modellen der BR 141. Das Modell besitzt ab Werk einen passenden PSD XP Sound-Decoder sowie einen Lautsprecher.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41128/thumbs/53133_430873.jpg"
   },
-  "updatedAt": "2026-06-12T21:53:00Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

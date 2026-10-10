@@ -21,7 +21,7 @@
     "luepMm": 217,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 186 FYRA V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21624\nEAN: 4015615216247\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56613\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der BR 186 im Design FYRA in Epoche V. Das Modell verfügt über eine 8-polige Digitalschnittstelle nach NEM 652 und ist für die Soundnachrüstung mit grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37660/thumbs/42821_457557.jpg"
   },
-  "updatedAt": "2026-06-13T07:59:53Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

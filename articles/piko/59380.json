@@ -21,7 +21,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 118.4 DR IV, 6-achsig Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59380\nEAN: 4015615593805\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56557\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "BR 118, das Modell gibt die sechsachsige Ausführung der Lokbaureihe wieder, neben den dreiachsigen Drehgestellen, unterscheidet sie sich durch andere Lüfter- und Fenstereinteilung von der vierachsigen Ausführung",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_11660/thumbs/10483_452416.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

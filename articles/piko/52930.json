@@ -21,7 +21,7 @@
     "luepMm": 202,
     "minRadiusMm": 358
   },
-  "description": "Diesellok T679.1 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52930\nEAN: 4015615529309\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 202\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56525\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der V 200 als T679.1 der ČSD in Epoche IV. Das PIKO Modell der T679.1 zeichnet sich durch eine exakte Umsetzung aller relevanten Details seines Vorbildes aus und überzeugt durch feinste Lackierung und Bedruckung, angesetzten Griffstangen, scharf gravierte Drehgestellblenden, Maschinenraumeinrichtungen, serienmässig eingebaute, mit einem PluX22-Decoder digital schaltbare Führerstands- und Maschinenraumbeleuchtung und fahrtrichtungsabhängig funktionierende Schlusslichter. Der starke fünfpolige Motor sorgt mit zwei Schwungmassen für hervorragende Fahreigenschaften. Das Modell besitzt eine Digitalschnittstelle PluX22 nach NEM 658 und ist für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Bremsschläuche zum Nachrüsten liegen bei.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38194/thumbs/45211_448506.jpg"
   },
-  "updatedAt": "2026-06-13T08:22:17Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

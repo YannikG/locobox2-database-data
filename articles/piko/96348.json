@@ -21,7 +21,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok 201E-277, PL-WISKO Wiskol (LOTOS) VI inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96348\nEAN: 4015615963486\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 221\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Druckvariante der ET22 im Design von LOTOS in der Epoche VI. Die PIKO ET22 besitzt als Highlights feinste Lackierung und Bedruckung, filigrane Stromabnehmer, exakt umgesetzte Lampenbereiche, digital schaltbare Führerstandsbeleuchtungen und fahrtrichtungsabhängig funktionierende Front- und Schlusslichter. Die Beleuchtung erfolgt mittels LEDs. Das mit einem Zinkdruckgussrahmen versehene Modell verfügt über einen fünfpoligen Motor mit Schwungmassen für hervorragende Fahreigenschaften und zwei Haftreifen für hohe Zugkräfte, die auf den innenliegenden Achsen beider Drehgestelle diagonal angeordnet sind. Das Modell besitzt in der Soundvariante werkseitig einen PluX22-SoundDecoder. Ansteckbare Bremsschlauchattrappen liegen dem Modell der ET22 bei.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49418/thumbs/59888_528248.jpg"
   },
-  "updatedAt": "2026-05-14T21:39:35Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

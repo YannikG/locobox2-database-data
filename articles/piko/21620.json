@@ -21,7 +21,7 @@
     "luepMm": 217,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok 484 020 \"Gut fürs Klima\" SBB Cargo VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21620\nEAN: 4015615216209\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der Re 484 im Design \"Gut auf der Schiene - gut fürs Klima\" der SBB in Epoche VI. Das Modell verfügt über einen PSD XP Sound-Decoder.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38206/thumbs/46324_444579.jpg"
   },
-  "updatedAt": "2026-06-13T07:59:17Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 212,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok BR 221 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52619\nEAN: 4015615526193\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 212\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Formvariante der BR 221 ohne Zierleisten in blaubeiger Ausführung der DB in der Epoche IV. Technisch-konstruktiv entspricht das Modell der PIKO V200.1 #52600. Das Modell verfügt ab Werk über einen PIKO XP Sound-Decoder mit passendem Lautsprecher.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49099/thumbs/60481_533927.jpg"
   },
-  "updatedAt": "2026-05-14T21:14:45Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 217,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 388 Regiojet VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21658\nEAN: 4015615216582\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Druckvariante der BR 187 als BR 388 Regiojet in Epoche VI. Die Elektrolok ist ab Werk mit einem PSD XP Sound-Decoder mit grösstmöglichem Lautsprecher ausgestattet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41927/thumbs/50261_439785.jpg"
   },
-  "updatedAt": "2026-06-12T21:17:49Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

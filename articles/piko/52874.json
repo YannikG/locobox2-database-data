@@ -21,7 +21,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Diesellok SU46 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52874\nEAN: 4015615528746\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 218\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56533\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Druckvariante der SU46 im Design der PKP in Epoche V. Das PIKO Modell der SU46 zeichnet sich durch den gelungenen Formenbau und die stimmige Umsetzung aller relevanten Details der Vorbildmaschine aus. Die PIKO SU46 besitzt passende Lampen, digital schaltbare Führerstands- und Maschinenraumbeleuchtungen und fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter mittels LEDs. Die detailliert dargestellte Maschinenraumeinrichtung wurde für einen realistischeren Effekt als Highlight mit freiem Durchblick gestaltet. Durch den schweren Zinkdruckgussrahmen, zwei Haftreifen und den fünfpoligen Motor mit zwei Schwungmassen werden hervorragende Fahreigenschaften und hohe Zugkräfte erreicht. Die unkomplizierte Nachrüstung mit Sound und grösstmöglichem Lautsprecher ist auf der aufgeräumten Platine mit PluX22-Schnittstelle vorbereitet. Ansteckbare Bremsschlauchattrappen liegen dem Modell der SU46 bei.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41410/thumbs/53360_444775.jpg"
   },
-  "updatedAt": "2026-06-12T22:32:39Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

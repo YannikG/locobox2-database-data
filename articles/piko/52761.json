@@ -21,7 +21,7 @@
     "luepMm": 239,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 132 DR IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52761\nEAN: 4015615527619\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 239\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56573\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Mit den BR 132/232 offeriert PIKO ein weiteres hochdetailliertes Modell eines DR-Klassikers. Das PIKO Modell überzeugt durch den gelungen Formenbau und die originalgetreue Umsetzung aller relevanten Details der jeweiligen Vorbildmaschine. Die PIKO Modelle der Baureihen 132 der DR bzw. 232 der Deutschen Bahn AG zeichnen sich u.a. durch feinste Lackierung und Bedruckung, freistehende Griffstangen, einen Zinkdruckgussrahmen und einen kräftigen fünfpoligen Motor aus, der in Kombination mit zwei ausgewuchteten Schwungmassen ausgeglichene Laufeigenschaften garantiert. Die Beleuchtung erfolgt mittels LEDs. Die Führerstandsbeleuchtung und das Schlusslicht lassen sich mit einem PluX22 Decoder digital schalten. Das Modell verfügt über zwei Haftreifen, die in diagonaler Anordnung auf den inneren Achsen der beiden Drehgestelle sitzen. Die Stromabnahme erfolgt über sämtliche Räder. Das Modell wird mit einer PluX22-Schnittstelle geliefert, eine Soundnachrüstung mit grösstmöglichem Lautsprecher ist vorbereitet.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_23727/thumbs/22686_450010.jpg"
   },
-  "updatedAt": "2026-06-13T21:46:53Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

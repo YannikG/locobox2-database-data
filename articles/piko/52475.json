@@ -21,7 +21,7 @@
     "luepMm": 150,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok Rh 2000 NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52475\nEAN: 4015615524755\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 150\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Version der Diesellokomotive BR 65-DE-19-A USA TC als Rh 2000 der NS in Epoche III. Das formschöne Modell berücksichtigt alle länderspezifischen Details der Diesellok. In der Soundausführung verfügt das Modell werkseitig über einen PIKO Sound-Decoder mit grossem Lautsprecher.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38153/thumbs/45162_457805.jpg"
   },
-  "updatedAt": "2026-06-13T08:18:17Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 125,
     "minRadiusMm": 358
   },
-  "description": "Diesellok 106.0-1 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59428\nEAN: 4015615594284\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 125\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56618\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Die BR 106 in der V0 Ausführung mit kleinem Dach und hoch gesetztem Spitzenlicht der DR Ep. IV",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_16885/thumbs/18913_449177.jpg"
   },
-  "updatedAt": "2026-06-13T22:51:54Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

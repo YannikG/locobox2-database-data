@@ -21,7 +21,7 @@
     "luepMm": 80,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok BR 102 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52545\nEAN: 4015615525455\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 80\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Formneuheit der BR 102 mit gekröpftem Rahmen zusätzlich mit eingebautem Lok-Sounddecoder. Der Decoder verfügt über insgesamt 25 schaltbare Funktionen. Viele loktypische Geräusche wie die Fahrmotoren, Signalhörner, Bremsenquietschen, Rangieren und weitere Geräusche wie z. B. Bahnhofsdurchsagen sind einzeln abrufbar. Das Schlusslicht ist separat schaltbar. Sound auch im Analogbetrieb möglich - nur Motorengeräusch.\n\nLogik der Lichtfunktionen:\n\nF0 schaltet vorne weisses Licht (3 Lampen an) und hinten rot (2 Lampen) [Bilder oben]\n\nF6 schaltet den Rangiergang, wobei auf beiden Seiten je 3 weisse Lampen aktiviert werden [Bilder Mitte]\n\nF9 schaltet die Rangierbeleuchtung, wobei auf beiden Seiten die untere linke Lampe (in Fahrtrichtung gesehen) aktiviert wird [Bilder unten]",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_19180/thumbs/32496_430221.jpg"
   },
-  "updatedAt": "2026-06-13T21:21:43Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

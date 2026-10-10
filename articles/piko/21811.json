@@ -21,7 +21,7 @@
     "luepMm": 205,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok Rh 1110.0 ÖBB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21811\nEAN: 4015615218111\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: ÖBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 205\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Variante der österreichischen Elektrolokomotive Rh 1110.0 der ÖBB in der Epoche IV. Die Soundausführung des Modells verfügt werkseitig über einen PIKO Sound-Decoder inkl. grösstmöglichem Lautsprecher.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49497/thumbs/59525_526575.jpg"
   },
-  "updatedAt": "2026-05-14T20:05:23Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

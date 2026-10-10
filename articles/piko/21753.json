@@ -21,7 +21,7 @@
     "luepMm": 818,
     "minRadiusMm": 358
   },
-  "description": "Sound-Elektrotriebwagen BR 440 Bwegt DB AG VI 4-tlg., inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21753\nEAN: 4015615217534\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 818\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56145 + 2x #56146\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "description": "Neuheit 2025: Designvariante der BR 440 der DB AG in Epoche VI im bwegt Design. Das Modell verfügt über einen PSD XP Sound-Decoder.",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45217/thumbs/56080_406944.jpg"
   },
-  "updatedAt": "2026-05-18T04:38:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

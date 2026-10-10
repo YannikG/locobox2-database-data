@@ -21,7 +21,7 @@
     "luepMm": 195,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 118 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51869\nEAN: 4015615518693\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 195\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Elektrolok BR 118 DB Ep. IV, blau-beige. Mit dem hervorragend detaillierten Modell der Kultlokomotiven der BR 118 setzt PIKOeiner weiteren deutschen Altbauelektrolokomotive ein würdiges Denkmal. Das PIKO Modell überzeugt durch die stimmige Umsetzung ihrer Vorbildmaschine der Bundesbahn. Hervorzuheben sind die feinen Radsätze, die exakte Nachbildung der vorbildgerechtenDachausrüstung mit filigranen Stromabnehmern und die exakte Nachbildung der Frontpartien. Die Führerstands-und die Maschinenraumbeleuchtungen sowie die fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter sind mit PluX22Decoder digital schaltbar. Das mit einem Zinkdruckgussrahmen versehene Modell besitzt hervorragende Fahreigenschaften und hohe Zugkräfte. Der ab Werk eingebaute PIKO SmartDecoder 4.1 Sound für PluX22 der neuesten Generation beherrscht dieDatenformate DCC mit RailComPlus®, Motorola®, Selectrix® und ist mfx-fähig. Der verbaute Lautsprecher ist genau auf den Loktyp abgestimmt. Viele loktypische Geräusche wie Motorengeräusch, Signalhörner, Bremsenquietschen und weitere schaltbare Funktionen sind einzeln abrufbar. Mit einstellbarem individuellem Mapping. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_28140/thumbs/32449_437326.jpg"
   },
-  "updatedAt": "2026-06-14T12:04:39Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

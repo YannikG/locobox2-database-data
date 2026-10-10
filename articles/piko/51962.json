@@ -21,7 +21,7 @@
     "luepMm": 193,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 111 DB AG V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51962\nEAN: 4015615519621\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Zugzielanzeige (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56572\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Elektrolokomotive der Baureihe 111 der DB AG in Epoche V. Durch die glasklaren Fenster an der Lok-Seitenwand ist die detailliert nachgebildete Maschinenraumeinrichtung erkennbar. Die stimmige Erscheinung wird durch die feingliedrigen Metall-Stromabnehmer und die scharf gravierten Drehgestelle perfekt abgerundet. Das Modell ist für die einfache Nachrüstung von Sound mit grösstmöglichem Lautsprecher vorbereitet. Das Modell verfügt über eine beleuchtete, zuschaltbare Zugzielanzeige sowie digital schaltbare Beleuchtungen im Führerstand und Maschinenraum. Dank der modernen PluX22-Schnittstelle kann zur Nutzung dieser Funktionen im Handumdrehen ein passender Decoder eingebaut werden. Darüber hinaus ist das Modell für die unkomplizierte Sound-Nachrüstung mit grösstmöglichem Decoder vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41124/thumbs/52544_430513.jpg"
   },
-  "updatedAt": "2026-06-12T22:01:08Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

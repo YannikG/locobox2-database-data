@@ -21,7 +21,7 @@
     "luepMm": 213,
     "minRadiusMm": 358
   },
-  "description": "Diesellok V 200.0 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59700\nEAN: 4015615597001\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 213\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56541\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Das Modell gibt das Vorbild in Epoche III wieder, mit erhabenen Zierleisten und erhabenem Schriftzug DB. Feine Gravuren des Gehäuses und der Drehgestellblenden geben das Vorbild realitätsnah wieder. Die, bisher von Mitbewerbern erschienenen Modell der V 200.0 haben falsche Drehgestellblenden, zum Teil falsche Frontklappen und Tankattrappen. Wir werden die Vorbildunterschiede auch im Modell richtig umsetzen.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_15199/thumbs/10424_421053.jpg"
   },
-  "updatedAt": "2026-06-13T23:04:06Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

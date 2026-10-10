@@ -21,7 +21,7 @@
     "luepMm": 189,
     "minRadiusMm": 358
   },
-  "description": "E-Lok Rh 242 CSD V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97407\nEAN: 4015615974079\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56622\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Formvariante der S499.02 in der Ausführung der Rh 242 ČSD in Epoche V. Das Modell berücksichtigt alle spezifischen Besonderheiten des gewählten Vorbildes. Wie beim Vorbild stellt die S499.02 auch im Modell eine Weiterentwicklung der legendären „Laminátka“ dar. Der Lokkasten mit dem auffälligen Lüfterband, dessen Gravur im Modell höchste Plastizität vermittelt, wurde präzise wiedergegeben. Die darüber liegenden Maschinenraumfenster sind perfekt bündig eingesetzt. Ein besonderes Merkmal ist die Einfassung der Stirnfenster, dem im Massstab 1:87 separat eingesetzte Rahmen gerecht werden. Abgesehen von den äusseren Qualitäten weiss das Modell auch technisch zu überzeugen. Unter den Beleuchtungsfunktionen ist besonders die digital schaltbare Fahrwerksbeleuchtung mit den filigranen Lampengläsern hervorzuheben. Die analoge Version ist dank der PluX22-Schnittstelle im Handumdrehen mit einem Decoder auszustatten und verfügt anschliessend zusätzlich über digital schaltbare Beleuchtungen in den Führerständen und Instrumententafeln sowie im Maschinenraum.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41917/thumbs/53120_449242.jpg"
   },
-  "updatedAt": "2026-06-13T03:05:19Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

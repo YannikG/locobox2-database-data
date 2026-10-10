@@ -21,7 +21,7 @@
     "luepMm": 150,
     "minRadiusMm": 358
   },
-  "description": "Diesellok Rh 2000 NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52474\nEAN: 4015615524748\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 150\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56596\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Version der Diesellokomotive BR 65-DE-19-A USA TC als Rh 2000 der NS in Epoche III. Das formschöne Modell berücksichtigt alle länderspezifischen Details der Diesellok. Eine PluX22-Schnittstelle ermöglicht den schnellen Einbau eines Digitaldecoders. Darüber hinaus ist die Lok für die Nachrüstung von Sound mit grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38152/thumbs/45161_447843.jpg"
   },
-  "updatedAt": "2026-06-13T08:18:08Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

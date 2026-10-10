@@ -21,7 +21,7 @@
     "luepMm": 183,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 117 DB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51497\nEAN: 4015615514978\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56604\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Druckvariante der BR 117 in der Ausführung der DB in der frühen Epoche IV. Das PIKO Modell überzeugt durch vorbildgetreue Details, wie die filigranen Handstangen und Dachleitungen sowie die freistehend angebrachten Sandkästen und Federn. Die charakteristische Frontansicht mit dem dreigeteilten Fenster sind perfekt dem Vorbild nachempfunden. Das Modell besitzt eine in Fahrtrichtung wechselnde Beleuchtung in modernster LED-Technik. Eine Nachrüstung mit Sound und grösstmöglichem Lautsprecher ist auf der Platine mit PluX22-Schnittstelle vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_44571/thumbs/54557_423887.jpg"
   },
-  "updatedAt": "2026-05-18T04:38:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

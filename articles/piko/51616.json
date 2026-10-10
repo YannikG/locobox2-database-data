@@ -21,7 +21,7 @@
     "luepMm": 193,
     "minRadiusMm": 358
   },
-  "description": "E-Lok 3E/1 PMP-PW IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51616\nEAN: 4015615516163\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56589\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Ab 1958 begann bei Pafawag in Breslau die Serienfertigung der ersten polnischen Güterzug-Elektrolokomotive. Bis 1971 wurden insgesamt 658 Loks dieses Typs ausgeliefert. Die für eine Höchstgeschwindigkeit von 100 km/h zugelassenen Maschinen waren in ihrer Leistung so ausgelegt, dass sie einen 2400 t schweren Güterzug in der Ebene mit 70 km/h befördern konnten. Die ET21 war lange Zeit auf praktisch allen elektrifizierten Strecken in Polen anzutreffen.\n\nFormvariante\nDigitale Schaltung von Führerstandbeleuchtung, Maschinenraumbeleuchtung und Fahrwerksbeleuchtung durch Nachrüstung eines Digitaldecoders\nZwei Scherenstromabnehmer aus Metall\nGravierte, plastisch anmutende Lüftergitter\nPräzise durchbrochene Drehgestellblenden",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45945/thumbs/58285_511515.jpg"
   },
-  "updatedAt": "2026-05-18T05:32:14Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

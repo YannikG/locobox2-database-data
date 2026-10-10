@@ -21,7 +21,7 @@
     "luepMm": 444,
     "minRadiusMm": 358
   },
-  "description": "Dieseltriebwagen BR 646 DB AG VI \"Stadler\" Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59520\nEAN: 4015615595205\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 444\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit #2x 56139\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder nachrüstbar #56616\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Für die Innenbeleuchtung wird 2x 56139 benötigt.\n\nModell:\n\nDer dank seines modularen Aufbaus im Betriebsdienst beliebte Stadler-Triebzug stellte von Anfang an ein von vielen Modellbahnern sehr begehrtes Schienenfahrzeug dar. PIKO reagierte auf diesen Kundenwunsch und entwickelte sowohl den GTW 2/6 als auch den GTW 2/8 als H0-Modelle. Grössten Wert legte PIKO auf die präzise Wiedergabe des futuristischen Erscheinungsbilds, wobei die in ihrer äusseren Gestalt voneinander abweichenden Kopfformen der verschiedenen Triebzugvarianten konsequent nachgestaltet wurden. Vorbildorientierte Modellbahner dürften die separat und formschlüssig eingesetzten Fenster, die zahlreichen, feinen Gravuren, die hoch detailliert nachgebildeten Drehgestelle sowie die exakt konstruierten Dachstromabnehmer (bei den elektrischen Varianten) zu schätzen wissen.",
   "categories": [
     "lokomotive",
     "dieseltriebwagen"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_11689/thumbs/6613_435963.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 213,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok V 200.0 DB III Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59709\nEAN: 4015615597094\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 213\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Der ab Werk eingebaute Lok-Sounddecoder beherrscht die vier Datenformate DCC mit RailComPlus®, Motorola®,Selectrix® und M4. Der verbaute, grösstmögliche Lautsprecher ist auf den Loktyp abgestimmt. Der Decoder verfügt über bis zu 23 schaltbare Funktionen. Viele loktypische Geräusche wie Motorengeräusch, Signalhörner, Bremsenquietschen,Rangiergang und weitere Geräusche wie z.B. Bahnhofsdurchsagen sind einzeln abrufbar. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_16424/thumbs/32482_439711.jpg"
   },
-  "updatedAt": "2026-06-13T23:07:21Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

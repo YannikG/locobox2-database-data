@@ -21,7 +21,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 119 DR IV, Spitzenlicht oben Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59830\nEAN: 4015615598305\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56557\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Formneuheit der Diesellok BR 119 der DR, die Lokbaureihe erhielt wegen der runden Fenster im Maschinenraum den Spitznamen \"U-Boot\"\n\nModell:\n\nDas komplett neu entwickelte H0-Modell der Baureihe 119/219 wurde, analog zum Vorbild, aus der übersichtlichen, robusten und funktionssicheren Konstruktion der V 180 von PIKO abgeleitet. Da dies jedoch mit konstruktiver Konsequenz und in hoher fertigungstechnischer Qualität erfolgte, muss kein PIKO Modellbahner (wie seinerzeit die Lokführer der DR) um die Zuverlässigkeit seiner 119/219 fürchten. Im Gegenteil: Dank des kräftigen, mit präzise ausgewuchteten Schwungmassen versehenen Motors überzeugt das PIKO Modell der 119/219 mit ausgeglichener Laufkultur und beachtlicher Zugkraft. Die Form- und Farbgestaltung der wegen ihrer Bullaugen \"U-Boot\" genannten Lok steht ihrer feinmechanischen Präzision nicht nach. PIKO liefert sowohl die ältere Version mit dem vorstehenden Dach und dem darin integrierten Spitzenlicht über den Stirnfenstern als auch die Nachfolgeserie ohne Dachvorstand mit dem dritten Spitzenlicht unterhalb der Führerstandsfenster in allen von DR und DB AG her bekannten Farbvarianten.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_11699/thumbs/10500_412468.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

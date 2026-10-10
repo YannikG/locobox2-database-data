@@ -21,7 +21,7 @@
     "luepMm": 183,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok ET41 PKP Cargo VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96396\nEAN: 4015615963967\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich",
+  "description": "Neuheit 2025: Von 1977 bis 1980 lieferte die Firma Cegielski aus Poznan unter der Baureihenbezeichnung ET 41 insgesamt 200 elektrische Doppellokomotiven für den schweren Güterzugdienst der Polnischen Staatsbahnen PKP. Die Hochleistungslokomotiven entstanden durch die Kombination von je zwei Lokomotiven, die konstruktiv auf der einteiligen EU 07 basierten. Anstelle der an den Kurzkupplungsenden nun fehlenden Führerstände setzte man Ballast zur Erhöhung der Reibungsmasse ein. Für den Güterzugdienst wurde der Rahmen vereinfacht und verstärkt. Im Alltagsbetrieb fand sich für die ET 41 ein breites Einsatzgebiet, wobei sie sich vor allem im schweren Gebirgsdienst in Südpolen bis heute bestens bewährt.\n\nFormvariante\nDigital schaltbare Führerstandbeleuchtung\nVier Scherenstromabnehmer aus Metall\nOberleitungsbetrieb möglich\nHohe Zugkräfte\nVorbildgerechter Sound",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45530/thumbs/58408_512636.jpg"
   },
-  "updatedAt": "2026-05-18T06:09:51Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

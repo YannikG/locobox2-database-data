@@ -21,7 +21,7 @@
     "luepMm": 1330,
     "minRadiusMm": 421
   },
-  "description": "Sound-E-Triebzug BR 412 ICE 4 DB AG VI, 4tlg., inkl. PIKO Decoder mit Soundmodul Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51402\nEAN: 4015615514022\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1330\nMindestradius [mm]: 421\nDigitale Schnittstelle: 20polig\nVerbauter Decoder: 20poliger Multiprotokolldecoder mit Soundmodul\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "description": "Mit dem massstäblichen ICE 4 erscheint unser Modellbahn-Highlight des Jahres. Der Zug begeistert durch feinste Bedruckung, abnehmbare Frontkappen zum Kuppeln von 2 Triebzügen, realistisch unterschiedliche Ausführungen der Wagen, Stromabnahme von allen Rädern der Endwagen, stromführende Kupplungen und Lichtwechsel weiss/rot. Die Stromabnahme für stromlose Abschnitte wird ohne bremsende Mechanik vom führenden Endwagen ausgesteuert, so dass der Zug trotz angetriebenem Motorwagen in der Mitte exakt vor Halt zeigenden Signale zum Stehen kommen kann. Das aufwendige Modell verfügt weiterhin über 2 starke Motoren mit Schwungmassen, Führerstandsbeleuchtung und ist ab Werk mit Innenbeleuchtung ausgestattet. Der speziell konstruierte ab Werk verbaute 20polige Decoder und das PIKO Soundmodul der neuesten Generation beherrschen die Datenformate DCC mit RailComPlus®, Motorola® und Selectrix®. Der verbaute Lautsprecher ist genau auf den Triebzug abgestimmt. Viele loktypische Geräusche wie Motorengeräusch, Signalhörner, Bremsenquietschen und weitere schaltbare Funktionen sind einzeln abrufbar. Mit einstellbarem individuellem Mapping. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch. Durch die konsequent massstäbliche Umsetzung kann der Triebzug erst ab Radius 2 eingesetzt werden!\n\nHinweis: Es handelt sich bei der Schnittstelle um eine PIKO eigene 20-polige Schnittstelle",
   "categories": [
     "triebzug"
   ],
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_28261/thumbs/32444_437491.jpg"
   },
-  "updatedAt": "2026-06-14T11:55:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

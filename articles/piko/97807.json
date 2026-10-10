@@ -21,7 +21,7 @@
     "luepMm": 97806,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR E.428 1. Serie FS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97807\nEAN: 4015615978077\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 97806\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Mit Beginn der Gleichstrom-Elektrifizierung des italienischen Streckennetzes in den späten 1920er-Jahren benötigte die Italienische Staatsbahn neue, leistungsfähige Elektrolokomotiven. Als Weiterentwicklung der E.326 entstanden die Hochleistungslokomotiven E.428, von denen zwischen 1934 und 1943 insgesamt 242 Einheiten gefertigt wurden. Das Einsatzgebiet der universell eingesetzten Maschinen erstreckte sich im Laufe der Zeit über die gesamte Halbinsel. Typischerweise werden die Lokomotiven in drei Serien unterteilt. Die erste 122 Maschinen verfügten über einen zentralen Aufbau mit zwei Vorbauten. Anschliessend folgten die zweite, semi-aerodynamische Serie und die dritte, aerodynamische Serie.\n\nDigitale Schaltung von Führerstandbeleuchtung, Innenraumbeleuchtung und Maschinenraumbeleuchtung durch Nachrüstung eines Digitaldecoders\nZwei Scherenstromabnehmer aus Metall\n1. Serie mit Vorbauten\nPIKO TrainSound® onboard",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44763/thumbs/58303_511648.jpg"
   },
-  "updatedAt": "2026-05-18T06:19:49Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

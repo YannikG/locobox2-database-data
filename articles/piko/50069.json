@@ -21,7 +21,7 @@
     "luepMm": 145,
     "minRadiusMm": 358
   },
-  "description": "Dampflok BR 94.20-21 DR III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50069\nEAN: 4015615500698\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 145\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "description": "Druckvariante der Tenderlokomotive BR 94.20-21 der DR mit Gegendruckbremse in Ep. IV",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_27987/thumbs/29098_422967.jpg"
   },
-  "updatedAt": "2026-06-14T11:12:57Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 121,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok Rh 1067 ÖBB IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21045\nEAN: 4015615210450\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 121\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Mit der Reihe 1067 waren für die ÖBB zwischen 1961 und 1994 wahre Exoten im Einsatz. Von diesen elektrischen Lokomotiven wurden lediglich ein Prototyp und vier weitere Maschinen hergestellt. Sie waren mit einer technischen Besonderheit ausgestattet: einem elektrohydraulischen Antrieb. Die von den Jenbacher Werken gebauten Elektrolokomotiven mit Mittelführerstand wurden im Verschubdienst eingesetzt und konnten in tannengrüner oder blutoranger Ausführung angetroffen werden. Das stark an Diesellokomotiven angelehnte Antriebskonzept erwies sich als anfällig für Defekte und Schäden, weshalb die Produktion nicht fortgesetzt und die Lokomotive 1067.03 als letztes aktives Exemplar am 1. Oktober 1994 ausser Dienst gestellt wurde. Heute können noch zwei der Fahrzeuge in den Eisenbahnmuseen Knittelfeld und Ampflwang bewundert werden.\n\nFeingliedriger Scherenstromabnehmer aus Metall, ohne sichtbare Verschraubung\nDetailliert nachgebildete Kühlanlage im Vorbau mit freistehendem Lüfterrad\nDetailliertes Fahrwerk mit zahlreichen Anbauteilen\nDreilicht-Spitzensignal mit roten Schlussleuchten, im Analogbetrieb mit der Fahrtrichtung wechselnd und im Digitalbetrieb schaltbar\nFührerpultbeleuchtung; Analog bei Fahrbetrieb ein, sonst digital schaltbar\nZusätzliche digitale Lichtfunktionen, wie Rangiersignal und wahlweise abschaltbarer Stirn- und Schlussbeleuchtung\nDigitale Soundversionen mit zahlreichen, fahrzeugtypischen Sounds\nGrundplatte mit Gleisnachbildung und passende Zurüstteile, wie Bremsleitungen, Kuppelhaken und Kupplungsabdeckung, für die Präsentation in der Vitrine",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49120/thumbs/61121_538659.jpg"
   },
-  "updatedAt": "2026-05-14T19:38:31Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

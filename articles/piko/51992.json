@@ -21,7 +21,7 @@
     "luepMm": 189,
     "minRadiusMm": 358
   },
-  "description": "E-Lok Rh S 489.0 CSD III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51992\nEAN: 4015615519928\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56586\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Variante der BR S499 als S489.0 \"Laminátka\" der ČSD Cargo in Epoche III. Die Anmut der formschönen Maschinen vom Typ Škoda 47E „Laminátka“ wurde hervorragend in den Massstab 1:87 übertragen und ein absolut stimmiges Gesamtbild geschaffen. Die vielen attraktiven Details, wie etwa die Oberlichter im Maschinenraum, wurden elegant umgesetzt und die stark gliedernde Linienführung des Lokkastens durch scharfe Gravuren visualisiert. Präzise nachgebildet wurden technische Elemente, wie der Drehgestelle, welche die gelungene Formgebung des Modells komplettieren. Die farbenfrohe Livree des Vorbilds, samt dynamisch wirkender Zierelemente, steht der Lok auch in 1:87 dank aufwendiger Lackierung und Bedruckung ausgezeichnet. Angetrieben wird die Lok durch einen fünfpoligen Motor, dessen gleichmässiger Lauf durch zwei Schwungmassen perfektioniert wird. Eine mit der Fahrtrichtung wechselnde Beleuchtung in Rot und Weiss ist selbstverständlich vorhanden und in zeitgemässer LED-Technik ausgeführt. Zur einfachen Nachrüstung eines Digitaldecoders besitzt die Lok eine PluX22-Schnittstelle. Dank einer grosszügig dimensionierten Lautsprecher-Aufnahme lässt sich auch ein Fahrzeugsound ganz einfach einbauen.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41920/thumbs/52459_416124.jpg"
   },
-  "updatedAt": "2026-06-12T22:17:05Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

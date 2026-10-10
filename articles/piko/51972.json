@@ -21,7 +21,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 140 Bayernbahn VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51972\nEAN: 4015615519720\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 190\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "description": "Neuheit 2024: Druckvariante der BR 140 in der Ausführung der BayernBahn in Epoche VI. Das Modell verfügt über eine serienmässig eingebaute, digital schaltbare Führerstandsbeleuchtung. Der fünfpolige Motor sorgt mit zwei grossen Schwungmassen und der Stromabnahme über acht Räder für exzellente Laufeigenschaften. Um eine hohe Zugkraft zu gewährleisten, verfügt das PIKO Modell neben dem Zinkdruckgussrahmen über zwei Haftreifen, die auf den innen laufenden Achsen beider Drehgestelle in diagonaler Anordnung zueinander sitzen. Das Modell besitzt ab Werk einen PSD XP Sound-Decoder mit grösstmöglichem Lautsprecher.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41177/thumbs/48867_432683.jpg"
   },
-  "updatedAt": "2026-06-12T22:06:43Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

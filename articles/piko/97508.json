@@ -21,7 +21,7 @@
     "luepMm": 187,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok 1008 NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97508\nEAN: 4015615975083\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 187\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "description": "Neuheit 2026: Die Elektrolokomotiven der Reihe 1000 der Niederländischen Staatsbahnen basieren auf der SBB Ae 4/6. Im Gegensatz zu den Schweizer Lokomotiven waren sie nicht für Wechselstrom, sondern für das niederländische Gleichstromnetz ausgelegt. Ursprünglich für den Schnellzugdienst zwischen den niederländischen Grossstädten gedacht, wurden sie in der Betriebszeit zwischen 1948 und 1982 fast ausschliesslich im Güterzugdienst eingesetzt. Von den zehn gefertigten Lokomotiven ist die 1010 als einzige erhalten und kann im Eisenbahnmuseum in Utrecht besichtig werden.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Maschinenraumbeleuchtung\nZwei Scherenstromabnehmer aus Metall\nStimmige Lackierung und Bedruckung\nPIKO TrainSound® onboard",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49075/thumbs/60570_534714.jpg"
   },
-  "updatedAt": "2026-05-14T21:44:52Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

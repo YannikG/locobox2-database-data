@@ -21,7 +21,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok V200 1001 DR III, Messe Leipzig inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52585\nEAN: 4015615525851\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Als erste Sonderbauform wurde 1965 die V 180 059 in einem neuen Designkonzept mit Dach- und Stirnwandpartie aus glasfaserverstärktem Polyester und blendfreier Frontscheibengestaltung durch steil nachvorn geneigte Stirnfenster vorgestellt. Neben einem Langzeittest zur Verwendbarkeit von Kunststoffen ging es auch um ein attraktiveres Erscheinungsbild. 1966 folgten zwei weitere Maschinen mit glasfaserverstärkten Polyesterkanzeln. Das Modell gibt die V200 1001 der DR in Ep. III als Messelok Leipzig wieder. Die Lok verfügt ab Werk über einen modernen PSD XP Decoder mit Sound und vielfältigen Funktionen.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49378/thumbs/60477_534013.jpg"
   },
-  "updatedAt": "2026-05-14T21:12:51Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

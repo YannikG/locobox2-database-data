@@ -21,7 +21,7 @@
     "luepMm": 588,
     "minRadiusMm": 358
   },
-  "description": "Sound-Elektrotriebwagen \"Hondekop\" NS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57577\nEAN: 4015615575771\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 588\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Lokführerfigur im Führerstand\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Die zweiteiligen Regionaltriebwagen mit dem Spitznamen \"Hondekop\" haben über Jahrzehnte das Bild der Eisenbahn in den Niederlanden geprägt. Der Triebzug erscheint in der Ausführung der NS in Epoche III. Das Modell verfügt ab Werk über einen passenden PSD XP Sound-Decoder.",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41787/thumbs/50275_428755.jpg"
   },
-  "updatedAt": "2026-06-13T02:38:08Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }
