@@ -27,6 +27,9 @@ def ensure_cmd(
     order: Optional[int] = typer.Option(
         None, "--order", help="Order within the same year (higher = later)"
     ),
+    source: Optional[str] = typer.Option(
+        None, "--source", help="HTTPS URL to campaign PDF or landing page"
+    ),
     dry_run: bool = typer.Option(False, "--dry-run"),
     repo_root: Optional[Path] = typer.Option(None, "--repo-root"),
 ) -> None:
@@ -41,6 +44,7 @@ def ensure_cmd(
             manufacturer_slug=manufacturer_slug,
             year=year,
             order=order,
+            source=source,
             dry_run=dry_run,
         )
     except ValueError as exc:

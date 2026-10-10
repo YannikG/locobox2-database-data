@@ -52,6 +52,11 @@
       "minimum": 0,
       "maximum": 1000,
       "description": "Reihenfolge innerhalb desselben Jahres; höher = neuer/später."
+    },
+    "source": {
+      "type": "string",
+      "pattern": "^https://",
+      "description": "HTTPS-URL zum Katalog-PDF oder zur Kampagnen-Webseite."
     }
   }
 }
