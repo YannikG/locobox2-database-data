@@ -2,5 +2,10 @@
   "schemaVersion": "1.0.0",
   "name": "Roco Neuheiten 2025",
   "slug": "roco-neuheiten-2025",
-  "description": "Artikel aus dem Roco-Neuheitenkatalog 2025."
+  "description": "Artikel aus dem Roco-Neuheitenkatalog 2025.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "roco",
+  "year": 2025,
+  "order": 1,
+  "source": "https://www.roco.cc/rde/kataloge"
 }

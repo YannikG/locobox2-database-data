@@ -2,5 +2,10 @@
   "schemaVersion": "1.0.0",
   "name": "PIKO Neuheiten 2023",
   "slug": "piko-neuheiten-2023",
-  "description": "Artikel aus dem PIKO H0 Neuheiten-Katalog 2023 (99523.pdf), Lokomotiven und Triebzüge."
+  "description": "Artikel aus dem PIKO H0 Neuheiten-Katalog 2023 (99523.pdf), Lokomotiven und Triebzüge.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "piko",
+  "year": 2023,
+  "order": 1,
+  "source": "https://www.piko-shop.de/de/download.html"
 }
