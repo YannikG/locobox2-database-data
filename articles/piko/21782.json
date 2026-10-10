@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21782",
+  "manufacturer": "PIKO",
+  "articleNumber": "21782",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "E 17",
+    "number": "123",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III"
+  },
+  "description": "Herbstneuheit 2026: Die Elektrolokomotive E17 123 der Deutschen Reichsbahn (DR) gehörte zu den letzten Vertretern der bereits Ende der 1920er-Jahre entwickelten Baureihe E17 im DR-Bestand. Nach dem Zweiten Weltkrieg verblieben mit der E17 123 und E17 124 nur zwei Lokomotiven dieser Baureihe in der DDR. Beide Maschinen waren zuvor in Schlesien eingesetzt und gelangten nach Kriegsende als Reparationsleistung in die Sowjetunion. 1952 kehrten sie in die DDR zurück und wurden 1957 wieder in Betrieb genommen. Die E17 123 war anschliessend im mitteldeutschen elektrifizierten Netz vor Reisezügen im Einsatz, bevor sie 1968 ausgemustert und verschrottet wurde. Das detaillierte Modell bildet die charakteristischen Merkmale der bei der DR eingesetzten E17 123 vorbildgerecht nach.\n\nDigitale Schaltung von Führerstandbeleuchtung und Maschinenraumbeleuchtung durch Nachrüstung eines Digitaldecoders\nFührerpultbeleuchtung\nZwei Scherenstromabnehmer aus Metall\nRillenisolatoren mit Querachse SBS 10\nDetailliert ausgestalteter Dachgarten mit feinen Dachlaufstegen\nUrsprüngliche DRG-Lampenbauform\nSIFA-Leitungen und Scheibenwischer nach Bauart DR.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/21782.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_51274/thumbs/63863_569373.jpg"
+  },
+  "updatedAt": "2026-10-10T17:21:11Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21845",
+  "manufacturer": "PIKO",
+  "articleNumber": "21845",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 111",
+    "number": null,
+    "livery": "ozeanblau/beige",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Herbstneuheit 2026: Die Elektrolokomotive der Baureihe 111 in klassischer ozeanblau-beiger Farbgebung verkörpert das typische Erscheinungsbild der Deutschen Bundesbahn in der Epoche IV. Das PIKO Modell gibt die charakteristischen Details des Vorbilds wie Lampen, Fenster, Puffer, Steckdosen und die Maschinenraumeinrichtung originalgetreu wieder. Als besonderes Detail trägt die Lok das Emblem „150 Jahre Deutsche Eisenbahnen“, wie es 1985 zahlreiche Lokomotiven der Deutschen Bundesbahn zierte.\n\nDigitale Schaltung von Führerstandbeleuchtung und Maschinenraumbeleuchtung durch Nachrüstung eines Digitaldecoders\nAusführung in blau-beiger Lackierung der Epoche IV\nFeine Einholmstromabnehmer aus Metall\nAngesetzte Front- und Griffstangen\nSeparate UIC Stecker, Antennen und Pfeifen\nDetaillierte Drehgestelle.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/21845.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_51270/thumbs/63866_569407.jpg"
+  },
+  "updatedAt": "2026-10-10T17:21:11Z"
+}

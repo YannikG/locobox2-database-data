@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Privatbahn",
+    "operator": "Railion",
     "type": "BR 296",
     "number": null,
-    "livery": null,
+    "livery": "Railion",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
@@ -21,18 +21,19 @@
     "luepMm": 165,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok BR 296 Railion VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 22045\nEAN: 4015615220459\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 165\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Zuverlässig im modernen Rangierdienst – Die Baureihe 296\n\nDie Baureihe 296 ist eine weiterentwickelte, dieselhydraulische Rangier- und Verschiebelokomotive, aufgebaut auf dem Fundament der bekannten V-90-Familie. Ursprünglich als funkfernsteuerbare Variante der Baureihe 295 konzipiert, entstand mit der Integration moderner Steuer- und Sicherheitsausrüstung ein leistungsfähiges Arbeitsgerät für die Anforderungen des Einzelwagenverkehrs im 21. Jahrhundert. Die Umrüstung erfolgte ab den späten 1990er-Jahren, als die damalige Gütersparte Railion den Bedarf an effizienten, fernsteuerbaren Rangierlokomotiven deutlich ausweitete. Die Lokomotiven tragen heute das verkehrsrote Erscheinungsbild des Güterverkehrs und sind vollständig für den Einsatz mit Funkfernsteuerung eingerichtet. Ihre Stärke zeigt die Baureihe besonders im täglichen Betrieb bei DB Cargo: Sie bespannt Übergaben, verteilt Wagen und übernimmt präzise Rangieraufgaben auf grossen Rangierbahnhöfen. Durch ihre Zuverlässigkeit und Flexibilität ist die 296 ein wesentlicher Baustein für reibungslose Abläufe im deutschen Güterverkehr.\n\nAusführung mit Voith Lüfterrad\nMit Nachbildung der charakteristischen Fernsteuerungsbeleuchtung am Führerhaus\nBeleuchtetes Fahrerpult\nIm Digitalbetrieb mit schaltbarer Führerstands- und Rangierbeleuchtung\nPSD XP Sounddecoder mit authentischem Sound und vielen Funktionen ab Werk\nBremsschläuche und Kuppelhaken beiliegend",
   "categories": [
     "lokomotive",
     "diesellokomotive"
   ],
   "tags": [
-    "piko-neuheiten-2026"
+    "piko-neuheiten-2026",
+    "piko-herbstneuheiten-2026"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-296-railion-vi,-inkl.-piko-sound-decoder-49574.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49574/thumbs/59556_526542.jpg"
   },
-  "updatedAt": "2026-05-14T20:20:54Z"
+  "updatedAt": "2026-10-10T17:21:11Z"
 }

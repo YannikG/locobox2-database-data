@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "PIKO Herbstneuheiten 2026",
+  "slug": "piko-herbstneuheiten-2026",
+  "description": "Artikel aus dem PIKO-Herbstneuheitenkatalog 2026 (99530).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "piko",
+  "year": 2026,
+  "order": 2,
+  "source": "https://www.piko-shop.de/de/seite/herbstneuheiten-2026-121.html"
+}

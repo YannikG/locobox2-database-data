@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21817",
+  "manufacturer": "PIKO",
+  "articleNumber": "21817",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "LTE",
+    "type": "Rh 1216",
+    "number": null,
+    "livery": "LTE",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Herbstneuheit 2026: Die moderne Elektrolokomotive Rh 1216 im markanten Design der LTE überzeugt mit einer detaillierten Ausführung und zahlreichen feinen Details. Das charakteristische Erscheinungsbild der für den grenzüberschreitenden Güterverkehr eingesetzten Lokomotive macht sie zu einem Blickfang auf jeder Modellbahnanlage.\n\nDetailliert ausgeführtes modernes Design\nSpitzenlicht in Fahrtrichtung weiss/rot wechselnd\nEinholmstromabnehmer aus Metall\nDetaillierter Dachgarten\nFreistehend montierte Hand- und Griffstangen\nZahlreiche, vorbildgetreue Soundfunktionen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/21817.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49073/thumbs/63625_568050.jpg"
+  },
+  "updatedAt": "2026-10-10T17:21:11Z"
+}

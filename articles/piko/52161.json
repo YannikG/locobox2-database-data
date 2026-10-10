@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52161",
+  "manufacturer": "PIKO",
+  "articleNumber": "52161",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 300.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "DPB",
+    "type": "BR 247",
+    "number": null,
+    "livery": "DPB",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Herbstneuheit 2026: Die Diesellokomotive der Baureihe 247 im markanten Design der DPB Rail Infra Service GmbH steht für modernen, grenzüberschreitenden Güterverkehr und flexible Baustellenlogistik. Das österreichische Eisenbahnverkehrsunternehmen setzt auf moderne Lokomotiven für den Transport von Baumaterialien und Gütern sowie für Überführungs- und Rangierleistungen. Das Modell überzeugt mit einer detaillierten Ausführung und zahlreichen filigranen Anbauteilen.\n\nExtra Handgriffe und Sandboxen\nFiligrane Antennen und Treppen\nScharf gravierte Drehgestelle\nSeparat angesetzte Schienenräumer\nFeine Lüftergitter\nZahlreiche, vorbildgetreue Soundfunktionen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/52161.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51015/thumbs/63880_569376.jpg"
+  },
+  "updatedAt": "2026-10-10T17:21:11Z"
+}

@@ -43,6 +43,42 @@ def _dismiss_cookies(page) -> None:
             continue
 
 
+def _html_has_article_sku(html: str, article: str) -> bool:
+    """True when PDP HTML marks ``article`` as the product SKU (not a substring hit)."""
+    art = article.strip()
+    if not art:
+        return False
+    markers = (
+        f'"sku":"{art}"',
+        f"Artikelnummer: <span>{art}</span>",
+        f'Artikelnummer:</td><td class="attribute-value">{art}</td>',
+    )
+    return any(m in html for m in markers)
+
+
+def _is_piko_artikel_url(url: str) -> bool:
+    if not url:
+        return False
+    u = url.split("#")[0].split("?", 1)[0].lower()
+    return "piko-shop" in u and "/artikel/" in u and u.endswith(".html")
+
+
+def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
+    """Piko search often 301-redirects to a PDP whose slug uses a shop-internal id."""
+    if site.slug != "piko":
+        return None
+    url = (page.url or "").split("#")[0]
+    if not _is_piko_artikel_url(url):
+        return None
+    try:
+        html = page.content()
+    except Exception:
+        return None
+    if not _html_has_article_sku(html, article):
+        return None
+    return url
+
+
 def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
     links = page.eval_on_selector_all(
         "a[href]",
@@ -51,7 +87,7 @@ def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
     for href in links:
         if site.is_pdp_url(href, article):
             return href
-    return None
+    return _redirect_pdp_url(page, site, article)
 
 
 def _looks_blocked(page) -> bool:

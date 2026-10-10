@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-47248",
+  "manufacturer": "PIKO",
+  "articleNumber": "47248",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Talent 2",
+    "number": "422 837",
+    "livery": "S-Bahn Rostock Jubiläum",
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX16",
+    "era": "VI"
+  },
+  "description": "Herbstneuheit 2026: Zum 50-jährigen Jubiläum der S-Bahn Rostock trägt der Talent 2 422 837 ein aussergewöhnliches, zweigeteiltes Jubiläums-Design. Eine Hälfte des Triebzuges präsentiert sich im aktuellen RostockerS-Bahn-Rot, während die andere Hälfte an die Geschichte erinnert: Sie ist im historischen blau-beigen Farbkleid der Rostocker Doppelstock-S-Bahn-Züge gestaltet, die in den 1980er-Jahren auf den Strecken rund um Rostock unterwegs waren. Damit verbindet der Zug eindrucksvoll Vergangenheit und Gegenwart. Das Vorbild ist auf der Linie S3 im Einsatz und fährt dabei unter anderem den Rostocker Hauptbahnhof an. Eine besondere Hommage an 50 Jahre S-Bahn Rostock und ihre Geschichte.\n\nModell im zweigeteilten Jubiläumsdesign\nFeiner Einholmstromabnehmer aus Metall\nFreier Blick durch den Fahrgastraum mit detaillierter Inneneinrichtung\nWerkseitig mit Innenbeleuchtung ausgestattet\nFür Soundnachrüstung vorbereitet",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-herbstneuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/47248.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_48606/thumbs/63651_568052.jpg"
+  },
+  "updatedAt": "2026-10-10T17:21:11Z"
+}
