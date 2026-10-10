@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52271",
+  "manufacturer": "PIKO",
+  "articleNumber": "52271",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 509.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh",
+    "number": "5045",
+    "livery": "BBÖ Blauer Blitz",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 755,
+    "minRadiusMm": 415
+  },
+  "description": "Sound-Dieseltriebwagen Rh 5045 BBÖ Blauer Blitz, 3tlg. Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52271\nEAN: 4015615522713\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: ÖBB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 755\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung vorhanden\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-rh-5045-bboe-blauer-blitz,-3tlg.-wechselstromversion,-inkl.-piko-sound-decoder-28204.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28204/thumbs/26245_444227.jpg"
+  },
+  "updatedAt": "2026-06-14T12:10:53Z"
+}

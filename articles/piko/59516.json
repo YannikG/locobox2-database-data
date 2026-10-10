@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59516",
+  "manufacturer": "PIKO",
+  "articleNumber": "59516",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "BR 442",
+    "number": null,
+    "livery": "Talent 2",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 636,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Elektrotriebwagen BR 442 \"Talent 2\" Abellio VI 3-tlg., inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59516\nEAN: 4015615595168\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 636\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Werkseitig nicht für Innenbeleuchtung vorbereitet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrotriebwagen-br-442-talent-2-abellio-vi-3-tlg.,-inkl.-piko-sound-decoder-41558.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41558/thumbs/53458_448537.jpg"
+  },
+  "updatedAt": "2026-06-13T02:51:37Z"
+}

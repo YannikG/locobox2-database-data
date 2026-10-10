@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78496",
+  "manufacturer": "Roco",
+  "articleNumber": "78496",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1116",
+    "number": "195-9",
+    "livery": "Nightjet",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1116 195 „Nightjet“ der Österreichischen Bundesbahnen.Das Modell ist auf einer Seite mit einer vierpoligen elektrischen Kupplung ausgestattet. Mittels DIP-Schalter kann die Stromaufnahme zwischen der Lok und dem ROCO Nightjet/Railjet-Steuerwagen (nur in Ausführung mit elektrischer Kupplung) für den Wendezugbetrieb umgeschalten werden. In neuer „Nightjet“-Lackierung. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht. Lizenziertes ÖBB-Modell. Z21 Führerstand verfügbarDie bislang im Nightjet-Design gestalteten Lokomotiven erhielten eine Überarbeitung. Anstelle der Folierung wurde einer Lackierung in den Farben der neuesten Nightjet-Ausführung der Vorzug gegeben. Der bisher verwendete Sternenhimmel ist damit Schnee von gestern.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78496-elektrolokomotive-1116-195-9-nightjet-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248295.jpg"
+  },
+  "updatedAt": "2026-05-07T21:53:53Z"
+}

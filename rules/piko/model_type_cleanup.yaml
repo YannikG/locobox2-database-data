@@ -1,0 +1,17 @@
+# Simple PIKO model.type cleanups (expand over time; complex splits stay agent Pass-2).
+rules:
+  - id: piko-strip-inkl-sound-decoder
+    when:
+      manufacturer: piko
+      field: model.type
+      match: "(?i),?\\s*inkl\\.?\\s*PIKO Sound-?Decoder.*$"
+    then:
+      replace: ""
+
+  - id: piko-strip-trailing-wechselstrom
+    when:
+      manufacturer: piko
+      field: model.type
+      match: "(?i)\\s+Wechselstrom(?:version)?\\s*$"
+    then:
+      replace: ""

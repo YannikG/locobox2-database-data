@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50135",
+  "manufacturer": "PIKO",
+  "articleNumber": "50135",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 290.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 95",
+    "number": null,
+    "livery": "Kohle",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III",
+    "luepMm": 174,
+    "minRadiusMm": 415
+  },
+  "description": "Dampflok BR 95 DR III, Kohle Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50135\nEAN: 4015615501350\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 174\nMindestradius [mm]: 415\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 3\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-95-dr-iii,-kohle-21109.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_21109/thumbs/17182_415735.jpg"
+  },
+  "updatedAt": "2026-06-14T07:41:13Z"
+}

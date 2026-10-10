@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52999",
+  "manufacturer": "PIKO",
+  "articleNumber": "52999",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 265.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 119",
+    "number": null,
+    "livery": "Probefahrt",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok BR 119 Probefahrt DR IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52999\nEAN: 4015615529996\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-119-probefahrt-dr-iv,-inkl.-piko-sound-decoder-45477.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45477/thumbs/58822_517808.jpg"
+  },
+  "updatedAt": "2026-05-18T05:50:54Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52962",
+  "manufacturer": "PIKO",
+  "articleNumber": "52962",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 315.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "M62",
+    "number": "078",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 202,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok M62 078 MAV IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52962\nEAN: 4015615529620\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 202\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-m62-078-mav-iv,-inkl.-piko-sound-decoder-41833.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41833/thumbs/50288_449431.jpg"
+  },
+  "updatedAt": "2026-06-13T00:16:05Z"
+}

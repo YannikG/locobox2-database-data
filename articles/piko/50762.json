@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50762",
+  "manufacturer": "PIKO",
+  "articleNumber": "50762",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 493.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "TKt48",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 163,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok TKt48 PKP IV, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50762\nEAN: 4015615507628\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 163\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-tkt48-pkp-iv,-inkl.-piko-sound-decoder-und-dampfgenerator-46086.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_46086/thumbs/58672_516335.jpg"
+  },
+  "updatedAt": "2026-05-18T05:25:05Z"
+}

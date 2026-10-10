@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97400",
+  "manufacturer": "PIKO",
+  "articleNumber": "97400",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 229.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "BR S499.02",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR S499.02 CSD IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97400\nEAN: 4015615974000\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56622\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-s499.02-csd-iv-37166.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37166/thumbs/43095_449160.jpg"
+  },
+  "updatedAt": "2026-06-13T08:31:16Z"
+}

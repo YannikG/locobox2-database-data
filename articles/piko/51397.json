@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51397",
+  "manufacturer": "PIKO",
+  "articleNumber": "51397",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 385.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 240",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR 240 CD V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51397\nEAN: 4015615513971\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 189\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-240-cd-v,-inkl.-piko-sound-decoder-38182.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38182/thumbs/45050_446755.jpg"
+  },
+  "updatedAt": "2026-06-13T08:05:36Z"
+}

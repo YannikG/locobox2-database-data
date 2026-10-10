@@ -1,0 +1,232 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://database.locobox.ch/schemas/article.schema.json",
+  "title": "Locobox Community Article",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "manufacturer",
+    "articleNumber",
+    "releaseDate",
+    "uvp",
+    "model"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "manufacturer": {
+      "type": "string",
+      "minLength": 1
+    },
+    "articleNumber": {
+      "type": "string",
+      "minLength": 1
+    },
+    "setNumber": {
+      "type": ["string", "null"]
+    },
+    "releaseDate": {
+      "anyOf": [
+        {
+          "type": "null",
+          "description": "Liefertermin noch unbekannt (z. B. Vorbestellung)."
+        },
+        {
+          "type": "string",
+          "format": "date",
+          "description": "ISO 8601 Kalenderdatum (YYYY-MM-DD)."
+        },
+        {
+          "type": "string",
+          "pattern": "^[12][0-9]{3}$",
+          "description": "Nur vierstelliges Erscheinungsjahr, falls kein exaktes Datum vorliegt."
+        },
+        {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "Freitext zur Verfügbarkeit, z. B. Saison und Jahr (Herstellerangabe)."
+        }
+      ]
+    },
+    "uvp": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["amount", "currency"],
+      "properties": {
+        "amount": {
+          "type": "number",
+          "minimum": 0
+        },
+        "currency": {
+          "type": "string",
+          "pattern": "^[A-Z]{3}$"
+        }
+      }
+    },
+    "model": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "country",
+        "operator",
+        "type",
+        "number",
+        "livery",
+        "scale",
+        "electricSystem",
+        "era"
+      ],
+      "properties": {
+        "country": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "operator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "number": {
+          "oneOf": [
+            {
+              "type": "null",
+              "description": "Betriebsnummer noch nicht gesplittet oder nicht eindeutig."
+            },
+            {
+              "type": "string",
+              "minLength": 1
+            }
+          ]
+        },
+        "livery": {
+          "oneOf": [
+            {
+              "type": "null",
+              "description": "Lackierung unbekannt, Import-Artefakt entfernt oder noch zu kürzen."
+            },
+            {
+              "type": "string",
+              "minLength": 1
+            }
+          ]
+        },
+        "scale": {
+          "type": "string",
+          "minLength": 1
+        },
+        "electricSystem": {
+          "type": "string",
+          "description": "Muss einem Eintrag in config/electric-systems entsprechen (kanonischer `name` oder `slug` pro Datei). Bei neuen Stromsystemen Contract und Taxonomie gemeinsam erweitern.",
+          "enum": [
+            "DC-Analog",
+            "DC-Digital",
+            "AC-Analog",
+            "AC-Digital",
+            "Other",
+            "other",
+            "Unbekannt",
+            "unbekannt"
+          ]
+        },
+        "era": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decoderInterface": {
+          "type": "string",
+          "minLength": 1
+        },
+        "variantGroup": {
+          "type": "string",
+          "minLength": 1
+        },
+        "couplerSystem": {
+          "type": "string",
+          "minLength": 1
+        },
+        "luepMm": {
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
+          "description": "LÜP in mm; null wenn Hersteller keine Angabe liefert."
+        },
+        "minRadiusMm": {
+          "oneOf": [{ "type": "null" }, { "type": "number", "minimum": 0 }],
+          "description": "Mindestradius in mm; null wenn unbekannt."
+        },
+        "features": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        }
+      }
+    },
+    "description": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "description": "Freie Schlagworte (Kampagnen-Slug beim Roco-Import z. B. mit roco_shop_parse_pdp.py --campaign-tag setzen). Spur gehört in model.scale, nicht als H0-Tag duplizieren.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ean": {
+          "type": "string",
+          "pattern": "^([0-9]{8}|[0-9]{13}|[0-9]{14})$"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "imageUrl": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://",
+          "description": "HTTPS-URL zum Produktbild, typischerweise von derselben Stelle wie source.url."
+        }
+      }
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}

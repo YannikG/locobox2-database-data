@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52607",
+  "manufacturer": "PIKO",
+  "articleNumber": "52607",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 225.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 221",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 221 DB IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52607\nEAN: 4015615526070\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 212\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56559\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-221-db-iv-wechselstromversion-23140.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_23140/thumbs/20560_427032.jpg"
+  },
+  "updatedAt": "2026-06-13T21:28:55Z"
+}

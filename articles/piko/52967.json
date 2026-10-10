@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52967",
+  "manufacturer": "PIKO",
+  "articleNumber": "52967",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 199.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 160 010",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 184,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok V 160 010 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52967\nEAN: 4015615529675\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 184\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56597\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-v-160-010-db-iii-41041.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41041/thumbs/48233_431108.jpg"
+  },
+  "updatedAt": "2026-06-13T00:33:40Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78461",
+  "manufacturer": "Roco",
+  "articleNumber": "78461",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "68050",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 207,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 68050 der Französischen Staatseisenbahnen.Update!. Erstmals mit PluX22-Sounddecoder und LED-Beleuchtung. Ursprungsausführung mit erhabenen Zierlinien und Nummern. Feinst detaillierte Lüftungsgitter. Im Digitalbetrieb sind Lichtfunktionen nach französischem Vorbild schaltbar. Soundausführung bestückt mit zwei LautsprechernZwischen 1963 und 1968 wurden 80 Lokomotiven der Baureihe A1A-A1A 68000 für den schweren Dienst bei den französischen Staatsbahnen (SNCF) gebaut. Sie hatten viele Gemeinsamkeiten mit der zeitgleich gelieferten leichteren BB 67000, aber aufgrund des Einsatzes eines stärkeren, schwereren Sulzer-Dieselmotors LVA 24 und seines grösseren Generators wurden die Drehgestelle mit drei Achsen konstruiert, um auf einigen Strecken der ex-Etat- und PO-Midi-Linien mit weniger Achslast fahren zu können. Ihre recht ungewöhnliche Achskonfiguration besteht aus zwei Drehgestellen, von denen nur die äusseren Achsen angetrieben werden. Ein Kessel und Wassertanks für die Dampfheizung der Personenzüge wurden ebenfalls eingebaut, wobei die zusätzliche Last durch die beiden nicht angetriebenen Achsen ermöglicht wurde.Die sechsachsige, dieselelektrische Lokomotive hatte ein Betriebsgewicht von 106 Tonnen. Mit ihrem 12-Zylinder-Dieselmotor mit einer Leistung von 1.985 kW und einer Leistung am Spurkranz von 1.660 kW erreichte sie eine Höchstgeschwindigkeit von 130 km/h.In ihrer ursprünglichen Version hatten die Lokomotiven ein einzigartiges Design mit Pfeilen und aufgesetzten Zierleisten, das von dem berühmten Eisenbahndesigner Paul Arzens entworfen wurde und sie unverwechselbar machte. Sie wurden im schweren Personen- und Güterverkehr eingesetzt. Ihr Einsatz in West-, Nord-, Ost- und Zentralfrankreich führte die Lokomotiven auch zu den Bahnhöfen Bantzenheim an der deutschen und Delle an der Schweizer Grenze sowie nach Basel in der Schweiz.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78461-diesellokomotive-68050-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254201.jpg"
+  },
+  "updatedAt": "2026-05-07T21:49:41Z"
+}

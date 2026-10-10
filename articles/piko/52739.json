@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52739",
+  "manufacturer": "PIKO",
+  "articleNumber": "52739",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 409.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 798",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 321,
+    "minRadiusMm": 360
+  },
+  "description": "Sound-Schienenbus 798 + Steuerwagen 998.6 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52739\nEAN: 4015615527398\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 321\nMindestradius [mm]: 360\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Beleuchtete seitliche Zugzielanzeige\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-schienenbus-798-steuerwagen-998.6-db-iv-wechselstromversion,-inkl.-piko-sound-decoder-38318.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38318/thumbs/42198_437143.jpg"
+  },
+  "updatedAt": "2026-06-13T08:20:47Z"
+}

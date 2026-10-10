@@ -1,0 +1,22 @@
+# Shared deterministic text fixes (applied by `locobox pipeline apply`).
+rules:
+  - id: description-ocr-ue
+    when:
+      field: description
+      match: "Ã¼"
+    then:
+      replace: "ü"
+
+  - id: description-ocr-oe
+    when:
+      field: description
+      match: "Ã¶"
+    then:
+      replace: "ö"
+
+  - id: description-ocr-ae
+    when:
+      field: description
+      match: "Ã¤"
+    then:
+      replace: "ä"

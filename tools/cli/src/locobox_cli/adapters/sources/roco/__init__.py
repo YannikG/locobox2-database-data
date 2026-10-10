@@ -1,0 +1,1 @@
+"""Roco shop adapters."""

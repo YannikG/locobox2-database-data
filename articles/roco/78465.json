@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78465",
+  "manufacturer": "Roco",
+  "articleNumber": "78465",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "Mercitalia Rail",
+    "type": "E 412 013",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 223,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive E 412 013 der Mercitalia Rail.Update!. Erstmals mit PluX22-Schnittstelle, LED-Spitzenlicht und als Soundmodell erhältlich. Filigrane Ausführung der beiden unterschiedlichen Stromabnehmer. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Im Digitalbetrieb mit schaltbarem Spitzen- oder SchlusslichtDie italienischen Staatsbahnen liessen bei ABB technomasio 20 Zweisystem-Lokomotiven bauen, um diese im grenz- und systemüberschreitenden Verkehr zwischen Italien und Österreich bzw. Deutschland einzusetzen. Diese Hochleistungslokomotiven erreichen eine Geschwindigkeit von 220 km/h und sind in der Lage, unter 3 kV Gleichstrom bzw. 15 kV 16 2/3 Hz Wechselstrom eine Leistung von 6 MW bzw. 5,5 MW zu erbringen.Die 1997 in Betrieb genommenen Maschinen bewähren sich bis heute im Einsatz in Italien und tragen zu einem Grossteil das aktuelle Lackierschema der Mercitalia Rail.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78465-elektrolokomotive-e-412-013-mercitalia-rail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254203.jpg"
+  },
+  "updatedAt": "2026-05-07T21:51:05Z"
+}

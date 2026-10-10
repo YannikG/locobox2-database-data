@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50902",
+  "manufacturer": "PIKO",
+  "articleNumber": "50902",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 275,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR 03 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50902\nEAN: 4015615509028\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-03-dr-iv-wechselstromversion,-inkl.-piko-sound-decoder-und-dampfgenerator-45156.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45156/thumbs/56449_441441.jpg"
+  },
+  "updatedAt": "2026-05-18T05:26:32Z"
+}

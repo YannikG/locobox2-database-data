@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52438",
+  "manufacturer": "PIKO",
+  "articleNumber": "52438",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "T435",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 144,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok T435 CSD III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52438\nEAN: 4015615524380\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 144\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Beleuchtetes Nummernschild",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-t435-csd-iii,-inkl.-piko-sound-decoder-38214.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38214/thumbs/45908_457798.jpg"
+  },
+  "updatedAt": "2026-06-13T08:17:59Z"
+}

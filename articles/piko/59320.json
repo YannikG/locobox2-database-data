@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59320",
+  "manufacturer": "PIKO",
+  "articleNumber": "59320",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 646",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 444,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen BR 646 DB AG VI \"Stadler\" Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59320\nEAN: 4015615593201\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 444\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-polig\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-br-646-db-ag-vi-stadler-wechselstromversion-11690.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_11690/thumbs/6614_435993.jpg"
+  },
+  "updatedAt": "2026-06-14T07:41:13Z"
+}

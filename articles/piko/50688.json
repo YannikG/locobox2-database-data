@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50688",
+  "manufacturer": "PIKO",
+  "articleNumber": "50688",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "BR Pm2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 275,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR Pm2 PKP IV, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50688\nEAN: 4015615506881\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-pm2-pkp-iv,-inkl.-piko-sound-decoder-und-dampfgenerator-38142.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38142/thumbs/47488_431932.jpg"
+  },
+  "updatedAt": "2026-06-13T08:03:44Z"
+}

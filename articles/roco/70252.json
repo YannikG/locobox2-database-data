@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70252",
+  "manufacturer": "Roco",
+  "articleNumber": "70252",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "023",
+    "number": "038-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 245,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 023 038 der Deutschen Bundesbahn. Fein detailliertes Modell mit vielen separat angesetzten Teilen. Metallräder mit filigranen Speichen. Mit authentischen SoundfunktionenDie Moderne BR 23 der Deutschen Bundesbahn „überlebte“ die preussische P 8 – sie war als deren Ersatz gedacht – nur um ein Jahr. Sie leistete 1.314 kW, wog 131,8 t und fuhr vorwärts 110 km/h bzw. Tender voraus 85 km/h. Am 31.12.1971 waren 76 Maschinen im Unterhaltungsbestand und ausnahmslos in drei Bahnbetriebswerken (Saarbrücken, Kaiserslautern und Crailsheim) stationiert. Nach der offiziellen Ausmusterung im Dezember 1975 sind 8 Exemplare der Nachwelt bei Vereinen und in Museen teilweise einsatzfähig erhalten geblieben.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70252-dampflokomotive-023-038-3-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/251212.jpg"
+  },
+  "updatedAt": "2026-05-07T20:45:21Z"
+}

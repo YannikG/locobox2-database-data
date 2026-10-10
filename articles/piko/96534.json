@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96534",
+  "manufacturer": "PIKO",
+  "articleNumber": "96534",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 479.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Z 9600 origine",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 576,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Triebzug Z 9600 origine SNCF IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96534\nEAN: 4015615965343\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: SNCF\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 576\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebzug-z-9600-origine-sncf-iv-wechselstromversion,-inkl.-piko-sound-decoder-45620.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45620/thumbs/61243_539537.jpg"
+  },
+  "updatedAt": "2026-05-18T06:12:14Z"
+}

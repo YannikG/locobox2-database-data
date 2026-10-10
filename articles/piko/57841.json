@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57841",
+  "manufacturer": "PIKO",
+  "articleNumber": "57841",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 142.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "BR 182",
+    "number": null,
+    "livery": "MAV-Start",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 182 MAV-Start VI Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57841\nEAN: 4015615578413\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: MAV\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 221\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658\nVerbauter Decoder: PluX22\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-182-mav-start-vi-wechselstromversion-46131.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_46131/thumbs/56986_482151.jpg"
+  },
+  "updatedAt": "2026-05-18T05:55:15Z"
+}

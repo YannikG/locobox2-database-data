@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59796",
+  "manufacturer": "PIKO",
+  "articleNumber": "59796",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "T669.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 199,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok T669.0 CSD IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59796\nEAN: 4015615597964\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CSD\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 199\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-t669.0-csd-iv,-inkl.-piko-sound-decoder-45893.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45893/thumbs/59247_523038.jpg"
+  },
+  "updatedAt": "2026-05-18T06:04:40Z"
+}

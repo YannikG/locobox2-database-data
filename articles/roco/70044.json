@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70044",
+  "manufacturer": "Roco",
+  "articleNumber": "70044",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 509.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "26",
+    "number": "084",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 26.084 der Belgischen Staatsbahnen.Update!Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok. Erstmals mit PluX16-Sounddecoder. Witte-Windleitbleche und Wannentender. Mit feinen Speichenrädern aus Metall. Treib- und Kuppelstangen aus Feingussmetall. Z21 Führerstand verfügbarDie in Belgien verbliebenen Lokomotiven der Kriegslok Baureihe 52 der Deutschen Reichsbahn wurden als Reihe 26 bezeichnet. Es waren jene Loks, die durch die belgischen Lokfabriken erst 1945 gebaut und kurz nach Kriegsende ausgeliefert wurden. Insgesamt umfasste die Reihe 26 die Loks 26.001 bis 26.100.Mit Genehmigung von NMBS Train World.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70044-dampflokomotive-26084-sncb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254248.jpg"
+  },
+  "updatedAt": "2026-05-07T20:19:42Z"
+}

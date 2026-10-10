@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21002",
+  "manufacturer": "PIKO",
+  "articleNumber": "21002",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E410 inkl. PIKO Sound-Decoder foo",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III"
+  },
+  "description": "Sound-E-Lok mit ß und Ã¼",
+  "categories": [],
+  "tags": [],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/21002.html",
+    "notes": "test"
+  },
+  "updatedAt": "2024-01-01T00:00:00Z"
+}

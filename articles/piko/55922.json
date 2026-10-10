@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-55922",
+  "manufacturer": "PIKO",
+  "articleNumber": "55922",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 579.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 003",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 275,
+    "minRadiusMm": 422
+  },
+  "description": "Sound-Dampflok BR 003 DB IV, inkl. PIKO Sound-Decoder und Digital-Kupplung Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 55922\nEAN: 4015615559221\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nKupplung: NEM Schacht + Kurzkupplungskulisse + Digital-Kupplung\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-003-db-iv,-inkl.-piko-sound-decoder-und-digital-kupplung-38132.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38132/thumbs/52112_429254.jpg"
+  },
+  "updatedAt": "2026-06-13T08:23:52Z"
+}

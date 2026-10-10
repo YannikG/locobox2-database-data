@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78408",
+  "manufacturer": "Roco",
+  "articleNumber": "78408",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "151",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 448,
+    "minRadiusMm": 358
+  },
+  "description": "Lokomotiv-Set mit den Elektrolokomotiven 151 094 und 151 117 der Deutschen Bundesbahn. Beide Lokomotiven vollwertig ausgestattet. Viele angesetzte Steckteile, teilweise in Ätztechnik ausgeführt. Einsatz im Erzverkehr. Passend zu den Wagensets Art.-Nr. 77030, 77031. Kupplung der Bauart AK69e beiliegend. Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schlusslicht und FührerstandsbeleuchtungZu den besonderen Leistungen der Baureihe 151 zählte jahrzehntelang die Beförderung der schwersten Erz Züge Westeuropas zwischen den Nordseehäfen und den Stahlwerken Peine-Salzgitter sowie ins Saarland. Die Züge erreichten Lasten von bis zu 5.700 Tonnen. Dabei wurde ausschliesslich in Doppeltraktion und mit automatischer Kupplung gefahren, da die herkömmliche Schraubenkupplung den sehr hohen Zugkräften nicht standgehalten hätte.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78408-2-tlg-set-elektrolokomotiven-151-094-0-und-151-117-9-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/251555.jpg"
+  },
+  "updatedAt": "2026-05-07T21:48:18Z"
+}

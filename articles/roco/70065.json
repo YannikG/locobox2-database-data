@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70065",
+  "manufacturer": "Roco",
+  "articleNumber": "70065",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "TX Logistik",
+    "type": "193",
+    "number": "997-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 997 der TX Logistik. Aufwendig bedrucktes Modell exklusiv bei ROCO. Im auffälligen „Pferde“-Design. Dachausrüstung mit zwei Stromabnehmern. Einsatz im internationalen Güterverkehr. Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht und Führerstandsbeleuchtung. In Kooperation mit Loc & More„Wir bringen die Kraft von 8.500 Pferden auf die Schiene“ – lautet der Slogan auf den Seitenwänden der Vectron-Mehrsystemlokomotive. Das Grundmotiv der Beklebung sind die handgezeichneten Silhouetten von Pferden. Die Lokomotive des Eisenbahnverkehrsunternehmens TX Logistik ist von Railpool gemietet und in Deutschland, Österreich sowie Ungarn im Einsatz. Es ist bereits die dritte Lokomotive, die ein Werbemotiv mit Anspielung auf die Pferdestärken der Güterzugmaschinen macht.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70065-elektrolokomotive-193-997-4-tx-logistik.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/254262.jpg"
+  },
+  "updatedAt": "2026-05-07T20:26:14Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57564",
+  "manufacturer": "PIKO",
+  "articleNumber": "57564",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "Norte",
+    "type": "BR 55",
+    "number": null,
+    "livery": "(G7.1) Norte",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Schlepptenderlok BR 55 (G7.1) Norte III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 57564\nEAN: 4015615575641\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Norte\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/schlepptenderlok-br-55-g7.1-norte-iii-40919.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_40919/thumbs/51430_438370.jpg"
+  },
+  "updatedAt": "2026-06-13T02:27:58Z"
+}

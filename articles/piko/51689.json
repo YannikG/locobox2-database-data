@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51689",
+  "manufacturer": "PIKO",
+  "articleNumber": "51689",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 219.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103",
+    "number": null,
+    "livery": "DB AG V, kurze Ausführung",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok BR 103 DB AG V, kurze Ausführung Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51689\nEAN: 4015615516897\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 224\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56550\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-103-db-ag-v,-kurze-ausfuehrung-38144.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_38144/thumbs/48201_442518.jpg"
+  },
+  "updatedAt": "2026-06-13T08:11:09Z"
+}

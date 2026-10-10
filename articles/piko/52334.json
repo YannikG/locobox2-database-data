@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52334",
+  "manufacturer": "PIKO",
+  "articleNumber": "52334",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 305.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "Privatbahn",
+    "type": "Am 847 Sersa",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 139,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Diesellok Am 847 Sersa V, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52334\nEAN: 4015615523345\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 139\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-am-847-sersa-v,-inkl.-piko-sound-decoder-42256.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_42256/thumbs/49555_415495.jpg"
+  },
+  "updatedAt": "2026-06-12T22:25:25Z"
+}

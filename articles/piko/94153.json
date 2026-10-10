@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-94153",
+  "manufacturer": "PIKO",
+  "articleNumber": "94153",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 370.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RBe 4/4",
+    "number": "1406",
+    "livery": "Prototyp, alte Schrift",
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 662 Next18",
+    "era": "IV",
+    "luepMm": 148,
+    "minRadiusMm": 225
+  },
+  "description": "Sound-E-Triebwagen RBe 4/4 1406 Prototyp, alte Schrift, SBB IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 94153\nEAN: 4015615941538\nHersteller: PIKO\nSound ja/nein: ja\nBahnverwaltung: SBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 148\nMindestradius [mm]: 225\nDigitale Schnittstelle: NEM 662 Next18\nVerbauter Decoder: Next18 Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / weiß\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebwagen-rbe-4-4-1406-prototyp,-alte-schrift,-sbb-iv,-inkl.-piko-sound-decoder-47655.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_47655/thumbs/58963_519820.jpg"
+  },
+  "updatedAt": "2026-05-18T06:07:01Z"
+}

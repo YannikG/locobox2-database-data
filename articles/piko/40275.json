@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40275",
+  "manufacturer": "PIKO",
+  "articleNumber": "40275",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 375.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 440",
+    "number": null,
+    "livery": "Coradia Donau-Isar, 5tlg.",
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "VI",
+    "luepMm": 560,
+    "minRadiusMm": 228
+  },
+  "description": "N Elektrotriebwagen BR 440 Coradia Donau-Isar, 5tlg. DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40275\nEAN: 4015615402756\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 560\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar #46190\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-elektrotriebwagen-br-440-coradia-donau-isar,-5tlg.-db-ag-vi-37686.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37686/thumbs/42848_432722.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

@@ -1,0 +1,13 @@
+node_modules
+.venv
+.venv-*
+**/.venv/**
+.tmp
+artifacts
+site/public/search/**
+articles/**
+config/**
+examples/**
+skills/**
+.agents/**
+utils/**

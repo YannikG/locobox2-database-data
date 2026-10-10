@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50690",
+  "manufacturer": "PIKO",
+  "articleNumber": "50690",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 275,
+    "minRadiusMm": 422
+  },
+  "description": "Dampflok BR 03 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50690\nEAN: 4015615506904\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56620\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion nachrüstbar #56620\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dampflok-br-03-db-iii-41684.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41684/thumbs/50266_403533.jpg"
+  },
+  "updatedAt": "2026-06-12T21:32:02Z"
+}

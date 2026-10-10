@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21023",
+  "manufacturer": "PIKO",
+  "articleNumber": "21023",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "CSD",
+    "type": "E669.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 216,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok E669.1 CSD III Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21023\nEAN: 4015615210238\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: CSD\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 216\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstands- und Maschinenraumbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-e669.1-csd-iii-wechselstromversion,-inkl.-piko-sound-decoder-45707.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45707/thumbs/57792_505431.jpg"
+  },
+  "updatedAt": "2026-05-18T04:58:33Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97807",
+  "manufacturer": "PIKO",
+  "articleNumber": "97807",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "BR E.428 1. Serie",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 97806,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR E.428 1. Serie FS III, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97807\nEAN: 4015615978077\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 97806\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-e.428-1.-serie-fs-iii,-inkl.-piko-sound-decoder-44763.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44763/thumbs/58303_511648.jpg"
+  },
+  "updatedAt": "2026-05-18T06:19:49Z"
+}

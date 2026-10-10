@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "DC-Digital",
+  "slug": "DC-Digital",
+  "description": "Gleichstrom, digital (z. B. DCC, NEM-Schnittstelle, PluX)."
+}

@@ -1,0 +1,7 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "PluX12",
+  "slug": "plux12",
+  "description": "Elektrische Schnittstelle PluX12 (PIKO N u. a.).",
+  "aliases": ["NEM 658 PluX12"]
+}

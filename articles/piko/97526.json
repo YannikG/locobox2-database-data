@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97526",
+  "manufacturer": "PIKO",
+  "articleNumber": "97526",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "EP09",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok EP09 PKP IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97526\nEAN: 4015615975267\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56636\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-ep09-pkp-iv-45480.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45480/thumbs/57634_502332.jpg"
+  },
+  "updatedAt": "2026-05-18T06:17:27Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52670",
+  "manufacturer": "PIKO",
+  "articleNumber": "52670",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "G6",
+    "number": null,
+    "livery": "CUMMINS",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 124,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok Vossloh G6 DB AG VI (CUMMINS) Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52670\nEAN: 4015615526704\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 124\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 1\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56580\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbares Fernlicht\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-vossloh-g6-db-ag-vi-cummins-38201.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38201/thumbs/53630_433547.jpg"
+  },
+  "updatedAt": "2026-06-13T08:19:51Z"
+}

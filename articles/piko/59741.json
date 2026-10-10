@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59741",
+  "manufacturer": "PIKO",
+  "articleNumber": "59741",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 229.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 130",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 237,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 130 DR IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59741\nEAN: 4015615597414\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 237\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX16\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-130-dr-iv-wechselstromversion-15207.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_15207/thumbs/31709_451926.jpg"
+  },
+  "updatedAt": "2026-06-13T23:10:13Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52939",
+  "manufacturer": "PIKO",
+  "articleNumber": "52939",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "Privatbahn",
+    "type": "Whitcomb",
+    "number": null,
+    "livery": "Industrial",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 150,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok Whitcomb Industrial Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52939\nEAN: 4015615529392\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 150\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56596\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-whitcomb-industrial-37754.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_37754/thumbs/45262_457833.jpg"
+  },
+  "updatedAt": "2026-06-13T08:23:11Z"
+}

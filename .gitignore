@@ -1,0 +1,13 @@
+node_modules/
+artifacts/
+site/public/search/*.json
+
+.tmp/
+**/__pycache__/
+.venv/
+**/.venv/
+.venv-*/
+*.egg-info/
+.pytest_cache/
+
+graphify-out/

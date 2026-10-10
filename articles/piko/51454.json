@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51454",
+  "manufacturer": "PIKO",
+  "articleNumber": "51454",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "EN 57",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 747,
+    "minRadiusMm": 358
+  },
+  "description": "E-Triebzug EN 57 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51454\nEAN: 4015615514541\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 747\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56599\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-triebzug-en-57-pkp-v-38268.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_38268/thumbs/46502_420508.jpg"
+  },
+  "updatedAt": "2026-06-13T08:07:26Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59137",
+  "manufacturer": "PIKO",
+  "articleNumber": "59137",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "Arriva",
+    "type": "GTW 2/8",
+    "number": null,
+    "livery": "Arriva",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 642,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-Dieseltriebwagen GTW 2/8 \"Stadler\" Arriva VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59137\nEAN: 4015615591375\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 642\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56139 + 1x 56143\nAnzahl Haftreifen: 2\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-gtw-2-8-stadler-arriva-vi,-inkl.-piko-sound-decoder-38320.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38320/thumbs/46788_435960.jpg"
+  },
+  "updatedAt": "2026-06-13T08:27:24Z"
+}

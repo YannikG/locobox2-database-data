@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52008",
+  "manufacturer": "PIKO",
+  "articleNumber": "52008",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 265.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 612",
+    "number": null,
+    "livery": "Regioswinger",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 590,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen VT 612 \"Regioswinger\" DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52008\nEAN: 4015615520085\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 590\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56619\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2025-2-halbjahr"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-vt-612-regioswinger-db-ag-vi-45621.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_45621/thumbs/58903_518991.jpg"
+  },
+  "updatedAt": "2026-05-18T05:33:12Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52970",
+  "manufacturer": "PIKO",
+  "articleNumber": "52970",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 225.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "Privatbahn",
+    "type": "BR 365",
+    "number": null,
+    "livery": "RailAdventure",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 120,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellok BR 365 RailAdventure VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52970\nEAN: 4015615529705\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 120\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 1\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56524\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: digital schaltbare Triebwerksbeleuchtung (mit PluX22 Decoder)\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-br-365-railadventure-vi-41619.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_41619/thumbs/49064_449985.jpg"
+  },
+  "updatedAt": "2026-06-13T00:52:58Z"
+}

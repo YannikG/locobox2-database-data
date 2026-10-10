@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21615",
+  "manufacturer": "PIKO",
+  "articleNumber": "21615",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 195.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "BR 183",
+    "number": null,
+    "livery": "Husarz PKP VI Intercity",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolok BR 183 Husarz PKP VI Intercity Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21615\nEAN: 4015615216155\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 225\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56615\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-br-183-husarz-pkp-vi-intercity-37898.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37898/thumbs/43646_439578.jpg"
+  },
+  "updatedAt": "2026-06-13T07:58:41Z"
+}

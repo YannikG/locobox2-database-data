@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40282",
+  "manufacturer": "PIKO",
+  "articleNumber": "40282",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Hondekop Benelux",
+    "number": null,
+    "livery": null,
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "III",
+    "luepMm": 320,
+    "minRadiusMm": 228
+  },
+  "description": "N Elektrotriebwagen Hondekop Benelux NS III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40282\nEAN: 4015615402824\nHersteller: PIKO\nBahnverwaltung: NS\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 320\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar #46193\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Spezialkupplung für Mehrfachtraktion liegt bei\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-elektrotriebwagen-hondekop-benelux-ns-iii-38049.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38049/thumbs/45645_438348.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

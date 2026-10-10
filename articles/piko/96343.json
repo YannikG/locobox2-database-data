@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96343",
+  "manufacturer": "PIKO",
+  "articleNumber": "96343",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 225.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "ET 22",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "E-Lok ET 22 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96343\nEAN: 4015615963431\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 221\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56569\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-et-22-pkp-v-41429.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_41429/thumbs/53141_421336.jpg"
+  },
+  "updatedAt": "2026-06-13T02:56:38Z"
+}

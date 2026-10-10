@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71379",
+  "manufacturer": "Roco",
+  "articleNumber": "71379",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 449.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "038",
+    "number": "509-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 214,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 038 509 der Deutschen Bundesbahn.Edition-Modell!. Komplette Neukonstruktion. Fein detailliertes Modell mit vielen separat angesetzten Steckteilen. Räder mit feinen Speichen. Ausführung mit Nietentender und Witte-Windleitblechen. Beheimatung BD Stuttgart, Bw Tübingen. Zwei Schlussleuchten nur am Tender. Führerstands- und Triebwerksbeleuchtung eingebaut; im Digitalbetrieb schaltbarDie Dampflokomotiven der Baureihe 038 zählten lange Zeit mit ihren Nietentendern und Witte-Windleitblechen zum gewohnten Bild auf deutschen Nebenbahnen. Dort beförderten sie zumeist Personenzüge und waren im Nahverkehr daher lange Zeit nicht ersetzbar. Erst die zunehmende Modernisierung bei der Deutschen Bundesbahn leitet die Ablöse in Form von Diesel- und Elektrolokomotiven ein.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/71379-dampflokomotive-038-509-6-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/250531.jpg"
+  },
+  "updatedAt": "2026-05-07T21:03:32Z"
+}

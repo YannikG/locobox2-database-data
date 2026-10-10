@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://database.locobox.ch/schemas/taxonomy-item.schema.json",
+  "title": "Locobox Taxonomy Item",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "name", "slug"],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)*$",
+      "description": "Kurzcode; Grossbuchstaben erlaubt (z. B. Massstab H0 im Slug)."
+    },
+    "description": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "description": "Zusätzliche erlaubte Werte (z. B. Hersteller-Rohlabel), die in Artikeln vorkommen dürfen."
+    }
+  }
+}

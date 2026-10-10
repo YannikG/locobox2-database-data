@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-40263",
+  "manufacturer": "PIKO",
+  "articleNumber": "40263",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 375.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 624",
+    "number": null,
+    "livery": "DB AG V, 3-tlg.",
+    "scale": "N",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX12",
+    "era": "V",
+    "luepMm": 497,
+    "minRadiusMm": 228
+  },
+  "description": "N Dieseltriebwagen BR 624 DB AG V, 3-tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40263\nEAN: 4015615402633\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 497\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #46192\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/n-dieseltriebwagen-br-624-db-ag-v,-3-tlg.-37879.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37879/thumbs/50118_426754.jpg"
+  },
+  "updatedAt": "2026-06-13T07:17:03Z"
+}

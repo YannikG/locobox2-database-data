@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-21623",
+  "manufacturer": "PIKO",
+  "articleNumber": "21623",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 289.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "BR 480",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Sound-E-Lok BR 480 MAV VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21623\nEAN: 4015615216230\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: MAV\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-480-mav-vi,-inkl.-piko-sound-decoder-38151.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38151/thumbs/51495_454618.jpg"
+  },
+  "updatedAt": "2026-06-13T07:59:44Z"
+}
