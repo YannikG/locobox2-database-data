@@ -64,6 +64,10 @@ class TagTaxonomy:
         *,
         name: Optional[str] = None,
         description: Optional[str] = None,
+        kind: Optional[str] = None,
+        manufacturer_slug: Optional[str] = None,
+        year: Optional[int] = None,
+        order: Optional[int] = None,
         dry_run: bool = False,
     ) -> dict[str, Any]:
         s = normalize_tag_slug(slug)
@@ -76,13 +80,23 @@ class TagTaxonomy:
                 "path": str(path),
                 "dry_run": dry_run,
             }
-        payload = {
+        payload: dict[str, Any] = {
             "schemaVersion": "1.0.0",
             "name": (name or "").strip() or default_tag_name(s),
             "slug": s,
             "description": (description or "").strip()
             or f"Import-Kampagne {s}.",
         }
+        kind_norm = (kind or "").strip()
+        if kind_norm:
+            payload["kind"] = kind_norm
+        mfr = (manufacturer_slug or "").strip().lower()
+        if mfr:
+            payload["manufacturerSlug"] = mfr
+        if year is not None:
+            payload["year"] = int(year)
+        if order is not None:
+            payload["order"] = int(order)
         if not dry_run:
             self.tags_dir.mkdir(parents=True, exist_ok=True)
             path.write_text(
