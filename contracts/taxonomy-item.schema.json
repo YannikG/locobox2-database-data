@@ -30,6 +30,28 @@
       },
       "uniqueItems": true,
       "description": "Zusätzliche erlaubte Werte (z. B. Hersteller-Rohlabel), die in Artikeln vorkommen dürfen."
+    },
+    "kind": {
+      "type": "string",
+      "enum": ["neuheiten"],
+      "description": "Optionale Kampagnen-Art. Nur für Tags unter config/tags/ gesetzt."
+    },
+    "manufacturerSlug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "Hersteller-Slug für Kampagnen-Tiles auf Herstellerseiten."
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1990,
+      "maximum": 2100,
+      "description": "Kalenderjahr der Kampagne (primäre Sortierung)."
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000,
+      "description": "Reihenfolge innerhalb desselben Jahres; höher = neuer/später."
     }
   }
 }
