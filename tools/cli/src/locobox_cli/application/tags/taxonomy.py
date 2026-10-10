@@ -68,6 +68,7 @@ class TagTaxonomy:
         manufacturer_slug: Optional[str] = None,
         year: Optional[int] = None,
         order: Optional[int] = None,
+        source: Optional[str] = None,
         dry_run: bool = False,
     ) -> dict[str, Any]:
         s = normalize_tag_slug(slug)
@@ -97,6 +98,11 @@ class TagTaxonomy:
             payload["year"] = int(year)
         if order is not None:
             payload["order"] = int(order)
+        source_norm = (source or "").strip()
+        if source_norm:
+            if not source_norm.startswith("https://"):
+                raise ValueError(f"source must be an https:// URL, got {source_norm!r}")
+            payload["source"] = source_norm
         if not dry_run:
             self.tags_dir.mkdir(parents=True, exist_ok=True)
             path.write_text(
