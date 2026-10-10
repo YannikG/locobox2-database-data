@@ -19,7 +19,7 @@
     "decoderInterface": "NEM 652",
     "era": "VI"
   },
-  "description": "\n\nArtikelnummer: 21817\nEAN: 4015615218173\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 225\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 652\nVerbauter Decoder: 8-poliger Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Herbstneuheit 2026: Die moderne Elektrolokomotive Rh 1216 im markanten Design der LTE überzeugt mit einer detaillierten Ausführung und zahlreichen feinen Details. Das charakteristische Erscheinungsbild der für den grenzüberschreitenden Güterverkehr eingesetzten Lokomotive macht sie zu einem Blickfang auf jeder Modellbahnanlage.\n\nDetailliert ausgeführtes modernes Design\nSpitzenlicht in Fahrtrichtung weiss/rot wechselnd\nEinholmstromabnehmer aus Metall\nDetaillierter Dachgarten\nFreistehend montierte Hand- und Griffstangen\nZahlreiche, vorbildgetreue Soundfunktionen.",
   "categories": [],
   "tags": [
     "piko-herbstneuheiten-2026"
@@ -29,5 +29,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49073/thumbs/63625_568050.jpg"
   },
-  "updatedAt": "2026-10-10T17:10:08Z"
+  "updatedAt": "2026-10-10T17:18:17Z"
 }

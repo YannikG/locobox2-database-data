@@ -19,7 +19,7 @@
     "decoderInterface": "NEM 658 PluX22",
     "era": "III"
   },
-  "description": "\n\nArtikelnummer: 21784\nEAN: 4015615217848\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: III\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Herbstneuheit 2026: Die Elektrolokomotive E17 123 der Deutschen Reichsbahn (DR) gehörte zu den letzten Vertretern der bereits Ende der 1920er-Jahre entwickelten Baureihe E17 im DR-Bestand. Nach dem Zweiten Weltkrieg verblieben mit der E17 123 und E17 124 nur zwei Lokomotiven dieser Baureihe in der DDR. Beide Maschinen waren zuvor in Schlesien eingesetzt und gelangten nach Kriegsende als Reparationsleistung in die Sowjetunion. 1952 kehrten sie in die DDR zurück und wurden 1957 wieder in Betrieb genommen. Die E17 123 war anschliessend im mitteldeutschen elektrifizierten Netz vor Reisezügen im Einsatz, bevor sie 1968 ausgemustert und verschrottet wurde. Das detaillierte Modell bildet die charakteristischen Merkmale der bei der DR eingesetzten E17 123 vorbildgerecht nach. Die Lok ist ab Werk mit einem passenden PSD XP Sound-Decoder mit grösstmöglichem Lautsprecher ausgestattet.\n\nDas Modell trägt das Gütezeichen \"fits mfx®\". Um Digitaldecoder für alle Nutzer der aktuellen Märklin Digitalzentralen zuverlässig einsetzbar zu machen, wurde gemeinsam mit Märklin und anderen Herstellern ein neues Gütezeichen „fits mfx®“ eingeführt. Dieses kann nur von Digitaldecodern verwendet werden, die einen speziellen mfx®-Test durchlaufen und vollumfänglich bestanden haben.\n\nDiese Decoder und auch die Lokomotiven in denen sie verbaut sind, tragen das Gütezeichen „fits mfx®“, welches die uneingeschränkte mfx® Funktionalität zertifiziert. Das bedeutet, dass nunmehr auch PIKO Produkte mit dem „fits mfx®“ Logo die vielfältigen Funktionen von mfx® vollständig unterstützen.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Maschinenraumbeleuchtung\nFührerpultbeleuchtung\nZwei Scherenstromabnehmer aus Metall\nRillenisolatoren mit Querachse SBS 10\nDetailliert ausgestalteter Dachgarten mit feinen Dachlaufstegen\nUrsprüngliche DRG-Lampenbauform\nSIFA-Leitungen und Scheibenwischer nach Bauart DR\nPIKO TrainSound® onboard",
   "categories": [],
   "tags": [
     "piko-herbstneuheiten-2026"
@@ -29,5 +29,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51276/thumbs/63865_569388.jpg"
   },
-  "updatedAt": "2026-10-10T17:10:08Z"
+  "updatedAt": "2026-10-10T17:18:17Z"
 }

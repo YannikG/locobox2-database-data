@@ -21,5 +21,8 @@ def test_parse_piko_pdp_fixture_is_schema_valid() -> None:
     assert art["model"]["type"].startswith("E-Lok")
     assert art["uvp"]["amount"] == 325.0
     assert "piko-neuheiten-2024" in art["tags"]
+    assert "Elektrolokomotive BR E410" in art["description"]
+    assert "Artikelnummer:" not in art["description"]
+    assert "PluX22 Schnittstelle" in art["description"]
     issues = ValidateArticle.from_contracts(REPO).run(art)
     assert issues == [], issues

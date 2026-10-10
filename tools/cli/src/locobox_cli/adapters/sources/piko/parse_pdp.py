@@ -110,6 +110,35 @@ def _type_line(html: str, og_title: str) -> str:
     return swiss_ss(t.strip())
 
 
+def _product_description(html: str) -> Optional[str]:
+    """Shop marketing prose from PDP body (not the attribute table dump)."""
+    m = re.search(
+        r'class=["\']product__description_text[^"\']*["\'][^>]*>(.*?)</div>',
+        html,
+        re.I | re.S,
+    )
+    if not m:
+        return None
+    fragment = m.group(1)
+    text = re.sub(r"<br\s*/?>", "\n\n", fragment, flags=re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html_lib.unescape(text)
+    paragraphs: list[str] = []
+    for para in re.split(r"\n\s*\n+", text):
+        para = para.strip()
+        if not para:
+            continue
+        # Feature lists are often joined with " | "
+        bits = [re.sub(r"\s+", " ", bit).strip() for bit in re.split(r"\s*\|\s*", para)]
+        bits = [bit for bit in bits if bit]
+        if not bits:
+            continue
+        paragraphs.append("\n".join(bits))
+    if not paragraphs:
+        return None
+    return swiss_ss("\n\n".join(paragraphs))
+
+
 def _scale_from_type(type_line: str) -> str:
     if re.match(r"^TT\b", type_line, re.I):
         return "TT"
@@ -148,11 +177,12 @@ def parse_piko_pdp(
     title = _meta(html, "og:title") or ""
     attrs = parse_attributes(html)
     type_line = _type_line(html, title)
-    desc = swiss_ss(_meta(html, "og:description") or title)
-    if attrs:
-        lines = [f"{k}: {v}" for k, v in attrs.items() if "WEEE" not in k]
-        if lines:
-            desc = swiss_ss(desc + "\n\n" + "\n".join(lines[:18]))
+    desc = _product_description(html)
+    if not desc:
+        fallback = _meta(html, "og:description") or type_line or title
+        fallback = re.sub(r"\s*\|\s*PIKO Webshop\s*$", "", fallback or "", flags=re.I)
+        fallback = re.sub(r"\s+Modelleisenbahn\s+kaufen\s*$", "", fallback, flags=re.I)
+        desc = swiss_ss(fallback.strip())
 
     shop_article = (attrs.get("Artikelnummer") or "").strip() or article.strip()
     if shop_article != article.strip():

@@ -19,7 +19,7 @@
     "decoderInterface": "NEM 658 PluX22",
     "era": "V"
   },
-  "description": "\n\nArtikelnummer: 22612\nEAN: 4015615226123\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: V\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 162\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Herbstneuheit 2026: Das PIKO Modell der Diesellokomotive D.445.1086 der dritten Serie präsentiert sich in der charakteristischen Navetta-Lackierung der italienischen FS in Epoche V. Die markante Formgebung, die detaillierte Inneneinrichtung und zahlreiche fein ausgeführte Details geben das Vorbild überzeugend wieder. Besonders hervorzuheben sind die frei beweglichen Lüfterräder unter den fein geätzten Gittern.\n\nDigitale Schaltung von Führerstandbeleuchtung und Maschinenraumbeleuchtung durch Nachrüstung eines Digitaldecoders\nDetaillierte Inneneinrichtung\nFrei bewegliche Lüfterräder unter fein geätzten Gittern\nCharakteristische Navetta-Lackierung der FS\nFür Soundnachrüstung vorbereitet.",
   "categories": [],
   "tags": [
     "piko-herbstneuheiten-2026"
@@ -29,5 +29,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_51916/thumbs/63629_568107.jpg"
   },
-  "updatedAt": "2026-10-10T17:10:08Z"
+  "updatedAt": "2026-10-10T17:18:17Z"
 }

@@ -19,7 +19,7 @@
     "decoderInterface": "NEM 658 PluX22",
     "era": "IV"
   },
-  "description": "\n\nArtikelnummer: 21846\nEAN: 4015615218463\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: IV\nMassbezeichnung: LüP / Länge über Puffer\nMass [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Zugzielanzeige (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiss / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "description": "Herbstneuheit 2026: Die Elektrolokomotive der Baureihe 111 in klassischer ozeanblau-beiger Farbgebung verkörpert das typische Erscheinungsbild der Deutschen Bundesbahn in der Epoche IV. Das PIKO Modell gibt die charakteristischen Details des Vorbilds wie Lampen, Fenster, Puffer, Steckdosen und die Maschinenraumeinrichtung originalgetreu wieder. Als besonderes Detail trägt die Lok das Emblem „150 Jahre Deutsche Eisenbahnen“, wie es 1985 zahlreiche Lokomotiven der Deutschen Bundesbahn zierte.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Maschinenraumbeleuchtung\nAusführung in blau-beiger Lackierung der Epoche IV\nFeine Einholmstromabnehmer aus Metall\nAngesetzte Front- und Griffstangen\nSeparate UIC Stecker, Antennen und Pfeifen\nDetaillierte Drehgestelle\nZahlreiche, vorbildgetreue Soundfunktionen.",
   "categories": [],
   "tags": [
     "piko-herbstneuheiten-2026"
@@ -29,5 +29,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51271/thumbs/63867_569410.jpg"
   },
-  "updatedAt": "2026-10-10T17:10:08Z"
+  "updatedAt": "2026-10-10T17:18:17Z"
 }
