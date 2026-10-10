@@ -7,8 +7,10 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
+from urllib.parse import urlparse
 
 _SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+_ALLOWED_SOURCE_HOSTS_REL = "config/allowed-source-hosts.json"
 
 
 def normalize_tag_slug(raw: str) -> str:
@@ -20,6 +22,39 @@ def normalize_tag_slug(raw: str) -> str:
             f"invalid tag slug {raw!r}; expected kebab-case like piko-neuheiten-2024"
         )
     return s
+
+
+def load_allowed_source_hosts(repo_root: Path) -> set[str]:
+    path = repo_root / _ALLOWED_SOURCE_HOSTS_REL
+    data = json.loads(path.read_text(encoding="utf-8"))
+    hosts_raw = data.get("hosts") if isinstance(data, dict) else None
+    if not isinstance(hosts_raw, list) or not hosts_raw:
+        raise ValueError(f"{_ALLOWED_SOURCE_HOSTS_REL}: hosts must be a non-empty array")
+    hosts: set[str] = set()
+    for entry in hosts_raw:
+        if isinstance(entry, str) and entry.strip():
+            hosts.add(entry.strip().lower())
+    if not hosts:
+        raise ValueError(f"{_ALLOWED_SOURCE_HOSTS_REL}: hosts must be a non-empty array")
+    return hosts
+
+
+def assert_allowed_source_url(repo_root: Path, source: str) -> str:
+    source_norm = source.strip()
+    if not source_norm.startswith("https://"):
+        raise ValueError(f"source must be an https:// URL, got {source_norm!r}")
+    try:
+        parsed = urlparse(source_norm)
+    except ValueError as exc:
+        raise ValueError(f"source is not a valid URL: {source_norm!r}") from exc
+    host = (parsed.hostname or "").lower()
+    allowed = load_allowed_source_hosts(repo_root)
+    if host not in allowed:
+        raise ValueError(
+            f"source host {host!r} is not in {_ALLOWED_SOURCE_HOSTS_REL}; "
+            "ask a maintainer to add it in a dedicated PR"
+        )
+    return source_norm
 
 
 def default_tag_name(slug: str) -> str:
@@ -100,9 +135,7 @@ class TagTaxonomy:
             payload["order"] = int(order)
         source_norm = (source or "").strip()
         if source_norm:
-            if not source_norm.startswith("https://"):
-                raise ValueError(f"source must be an https:// URL, got {source_norm!r}")
-            payload["source"] = source_norm
+            payload["source"] = assert_allowed_source_url(self.repo_root, source_norm)
         if not dry_run:
             self.tags_dir.mkdir(parents=True, exist_ok=True)
             path.write_text(

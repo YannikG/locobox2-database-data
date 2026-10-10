@@ -10,6 +10,7 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 from jsonschema import Draft202012Validator
 
@@ -17,10 +18,14 @@ ROOT = Path(__file__).resolve().parents[2]
 CONTRACTS = ROOT / "contracts"
 ARTICLE_DIR = ROOT / "articles"
 CONFIG_DIR = ROOT / "config"
+ALLOWED_SOURCE_HOSTS_PATH = CONFIG_DIR / "allowed-source-hosts.json"
 
-CONFIG_SKIP_NAMES = {"skills-lock.json"}
+CONFIG_SKIP_NAMES = {"skills-lock.json", "allowed-source-hosts.json"}
 
 ARTICLE_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+HOST_RE = re.compile(
+    r"^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9-]*[a-z0-9])?)+$"
+)
 
 
 def slugify(value: str) -> str:
@@ -76,6 +81,71 @@ def collect_slugs_from_tree(subdir: str, errors: list[str]) -> set[str]:
         if isinstance(slug, str) and slug.strip():
             slugs.add(slug)
     return slugs
+
+
+def load_allowed_source_hosts(errors: list[str]) -> set[str]:
+    data = load_json(ALLOWED_SOURCE_HOSTS_PATH, errors)
+    if data is None:
+        return set()
+    if not isinstance(data, dict):
+        fail(errors, f"{ALLOWED_SOURCE_HOSTS_PATH.as_posix()}: root must be a JSON object")
+        return set()
+    hosts_raw = data.get("hosts")
+    if not isinstance(hosts_raw, list) or not hosts_raw:
+        fail(errors, f"{ALLOWED_SOURCE_HOSTS_PATH.as_posix()}: hosts must be a non-empty array")
+        return set()
+    hosts: set[str] = set()
+    for entry in hosts_raw:
+        if not isinstance(entry, str) or not entry.strip():
+            fail(
+                errors,
+                f"{ALLOWED_SOURCE_HOSTS_PATH.as_posix()}: hosts entries must be non-empty strings",
+            )
+            continue
+        host = entry.strip().lower()
+        if not HOST_RE.fullmatch(host):
+            fail(
+                errors,
+                f"{ALLOWED_SOURCE_HOSTS_PATH.as_posix()}: invalid hostname {entry!r}",
+            )
+            continue
+        if host in hosts:
+            fail(
+                errors,
+                f"{ALLOWED_SOURCE_HOSTS_PATH.as_posix()}: duplicate hostname {host!r}",
+            )
+            continue
+        hosts.add(host)
+    return hosts
+
+
+def validate_tag_source_hosts(errors: list[str], allowed_hosts: set[str]) -> None:
+    tags_dir = CONFIG_DIR / "tags"
+    if not tags_dir.is_dir() or not allowed_hosts:
+        return
+    for path in sorted(tags_dir.glob("*.json")):
+        rel = path.relative_to(ROOT).as_posix()
+        data = load_json(path, errors)
+        if not isinstance(data, dict):
+            continue
+        source = data.get("source")
+        if not isinstance(source, str) or not source.strip():
+            continue
+        try:
+            parsed = urlparse(source)
+        except ValueError:
+            fail(errors, f"{rel}: source is not a valid URL ({source!r})")
+            continue
+        if parsed.scheme != "https":
+            fail(errors, f"{rel}: source must use https: ({source!r})")
+            continue
+        host = (parsed.hostname or "").lower()
+        if host not in allowed_hosts:
+            fail(
+                errors,
+                f"{rel}: source host {host!r} is not in "
+                f"{ALLOWED_SOURCE_HOSTS_PATH.relative_to(ROOT).as_posix()} ({source!r})",
+            )
 
 
 def validate_config_files(errors: list[str], validators: dict[str, Draft202012Validator]) -> None:
@@ -247,10 +317,13 @@ def main() -> int:
         "electric-systems": collect_slugs_from_tree("electric-systems", errors),
     }
 
+    allowed_hosts = load_allowed_source_hosts(errors)
+
     validate_config_files(
         errors,
         {"taxonomy": taxonomy_validator, "manufacturer": manufacturer_validator},
     )
+    validate_tag_source_hosts(errors, allowed_hosts)
     validate_articles(errors, article_validator, slug_sets)
 
     if errors:
