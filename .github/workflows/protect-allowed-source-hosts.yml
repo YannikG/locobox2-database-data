@@ -1,0 +1,97 @@
+name: Protect allowed-source-hosts
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - "config/allowed-source-hosts.json"
+
+permissions:
+  contents: read
+
+jobs:
+  protect-allowlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skip enforcement for draft pull requests
+        if: github.event.pull_request.draft == true
+        run: echo "Draft PR; allowlist protection skipped."
+
+      - name: Checkout pull request history
+        if: github.event.pull_request.draft == false
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Require maintainer-only single-file allowlist PR
+        if: github.event.pull_request.draft == false
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ACTOR: ${{ github.actor }}
+          REPO: ${{ github.repository }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PROTECTED_PATH: config/allowed-source-hosts.json
+        run: |
+          set -euo pipefail
+
+          EXEMPT=false
+          if [ "${ACTOR}" = "${REPO_OWNER}" ]; then
+            EXEMPT=true
+            echo "Actor is the repository owner (${REPO_OWNER})."
+          elif PERM=$(gh api "repos/${REPO}/collaborators/${ACTOR}/permission" --jq -r .permission 2>/dev/null); then
+            case "${PERM}" in
+              admin|maintain)
+                EXEMPT=true
+                echo "Actor has repository role '${PERM}' on ${REPO}."
+                ;;
+              *)
+                echo "Actor has repository role '${PERM}'."
+                ;;
+            esac
+          else
+            echo "Actor has no collaborator permission API result."
+          fi
+
+          if [ "${EXEMPT}" != true ]; then
+            echo "::error::Only the repository owner or collaborators with admin/maintain may change ${PROTECTED_PATH}."
+            exit 1
+          fi
+
+          mapfile -t CHANGED < <(git diff --name-only "${BASE_SHA}" "${HEAD_SHA}")
+          if [ "${#CHANGED[@]}" -eq 0 ]; then
+            echo "No file changes detected."
+            exit 0
+          fi
+
+          TOUCHES_PROTECTED=false
+          OTHER=()
+          for f in "${CHANGED[@]}"; do
+            if [ "${f}" = "${PROTECTED_PATH}" ]; then
+              TOUCHES_PROTECTED=true
+            else
+              OTHER+=("$f")
+            fi
+          done
+
+          if [ "${TOUCHES_PROTECTED}" != true ]; then
+            echo "Protected path not in diff; nothing to enforce."
+            exit 0
+          fi
+
+          # Bootstrap: when the file is new on the base branch, allow shipping
+          # validation/workflow together with the first allowlist. Afterwards,
+          # allowlist PRs must touch only this file.
+          if git cat-file -e "${BASE_SHA}:${PROTECTED_PATH}" 2>/dev/null; then
+            if [ "${#OTHER[@]}" -gt 0 ]; then
+              echo "::error::PRs that change ${PROTECTED_PATH} may only contain that file. Offending paths:"
+              for f in "${OTHER[@]}"; do
+                echo "  - ${f}"
+              done
+              exit 1
+            fi
+            echo "Allowlist-only change by maintainer; OK."
+          else
+            echo "Bootstrap: ${PROTECTED_PATH} is new on base; multi-file introduction by maintainer allowed."
+          fi

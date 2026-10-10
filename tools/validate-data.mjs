@@ -7,6 +7,11 @@ import {
   loadManufacturerConfigs,
   loadTaxonomyCollections
 } from "./lib/data-source.mjs";
+import {
+  ALLOWED_SOURCE_HOSTS_REL,
+  checkSourceUrlHost,
+  loadAllowedSourceHosts
+} from "./lib/allowed-source-hosts.mjs";
 import { slugifyForUrl } from "../shared/text-utils.mjs";
 
 const ROOT = process.cwd();
@@ -101,6 +106,18 @@ function validateManufacturerReferences(articles, manufacturerConfigs) {
   }
 }
 
+function validateTagSourceHosts(taxonomyCollections, allowedHosts) {
+  for (const item of taxonomyCollections.tags ?? []) {
+    if (typeof item.source !== "string" || !item.source.trim()) {
+      continue;
+    }
+    const result = checkSourceUrlHost(item.source, allowedHosts);
+    if (!result.ok) {
+      fail(`Tag source rejected in ${item._filePath}: ${result.reason}`);
+    }
+  }
+}
+
 function validateArticlePathConvention(articles) {
   for (const article of articles) {
     const match = article._filePath.match(/articles\/([^/]+)\/([^/]+)\.json$/);
@@ -184,6 +201,16 @@ async function main() {
   const validateTaxonomyItem = ajv.compile(taxonomyItemSchema);
   const validateManufacturer = ajv.compile(manufacturerSchema);
 
+  let allowedSourceHosts;
+  try {
+    allowedSourceHosts = await loadAllowedSourceHosts();
+  } catch (error) {
+    fail(
+      `Failed to load ${ALLOWED_SOURCE_HOSTS_REL}: ${error instanceof Error ? error.message : String(error)}`
+    );
+    throw new Error("Validation failed", { cause: error });
+  }
+
   const articles = await loadArticles();
   const taxonomyCollections = await loadTaxonomyCollections();
   const manufacturerConfigs = await loadManufacturerConfigs();
@@ -232,6 +259,7 @@ async function main() {
   validateArticleTaxonomyReferences(articles, taxonomyCollections);
   validateTaxonomyCollectionIntegrity(taxonomyCollections);
   validateManufacturerReferences(articles, manufacturerConfigs);
+  validateTagSourceHosts(taxonomyCollections, allowedSourceHosts.hosts);
 
   if (process.exitCode) {
     console.error(
