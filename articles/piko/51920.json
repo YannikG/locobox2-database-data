@@ -21,7 +21,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 110 mit Latz DB AG V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51920\nEAN: 4015615519201\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 190\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56549\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der BR 110 in orientroter Ausführung mit Latz der DB AG in Epoche V. Für eine unkomlizierte Nachrüstung eines Decoders verfügt das Modell über eine moderne PluX22-Schnittstelle.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37727/thumbs/45927_457762.jpg"
   },
-  "updatedAt": "2026-06-13T08:13:25Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

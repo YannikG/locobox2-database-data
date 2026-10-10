@@ -21,7 +21,7 @@
     "luepMm": 176,
     "minRadiusMm": 358
   },
-  "description": "E-Lok Rh 1041 ÖBB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21722\nEAN: 4015615217220\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 176\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56520\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Die markanten Maschinen mit ihrer elektrischen Ausrüstung von AEG, BBC, ELIN und SSW bewährten sich in dem zugewiesenen Einsatzgebiet hervorragend. Bis Ende 2003 wurden alle Fahrzeuge der Reihe während eines grundlegenden Modernisierungsprozesses bei den ÖBB aus dem aktiven Dienst ausgemustert. Einige Exemplare sind als Museumslokomotiven erhalten.\n\nFormvariante\nDigitale Schaltung von Führerstandbeleuchtung und Maschinenraumbeleuchtung durch Nachrüstung eines Digitaldecoders\nZwei Scherenstromabnehmer aus Metall\nDetaillierter Dachgarten\nEinrichtung in den Führerständen und im Maschinenraum",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_44770/thumbs/58568_515645.jpg"
   },
-  "updatedAt": "2026-05-18T05:03:17Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

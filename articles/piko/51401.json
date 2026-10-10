@@ -21,7 +21,7 @@
     "luepMm": 1330,
     "minRadiusMm": 421
   },
-  "description": "E-Triebzug BR 412 ICE 4 DB AG VI, 4tlg. Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51401\nEAN: 4015615514015\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 1330\nMindestradius [mm]: 421\nDigitale Schnittstelle: 20polig\nVerbauter Decoder: 20poliger Multiprotokolldecoder\n(Innen-)Beleuchtung: Innenbeleuchtung nachrüstbar mit 2x #56288 + #56290\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Modul nachrüstbar 1x #56429\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Motorwagen mit werkseitig eingebauter Innenbeleuchtung ausgerüstet\nAltersempfehlung: ab 14 Jahren",
+  "description": "Mit dem massstäblichen ICE 4 der DB AG erscheint das Modellbahn-Highlight des Jahres von PIKO! Das Modell begeistert durch feinste Lackierung und Bedruckung, abnehmbare Frontkappen zum Kuppeln von zwei Triebzügen, realistisch unterschiedliche Ausführungen der Wagen, Stromabnahme von allen Rädern der Endwagen, stromführende Kupplungen und Lichtwechsel weiss/rot. Die Stromabnahme für stromlose Abschnitte wird ohne bremsende Mechanik vom führenden Endwagen aus gesteuert, so dass der Zug trotz angetriebenem Motorwagen in der Mitte exakt vor Halt zeigenden Signale zum Stehen kommen kann. Das aufwendige Modell verfügt weiterhin über zwei starke Motoren mit Schwungmassen, Führerstandsbeleuchtung, eine speziell konstruierte Schnittstelle für den besonderen PIKO SmartDecoder 4.1 für den ICE 4 und ist für den unkomplizierten Einbau einer Innenbeleuchtung vorbereitet, die die detaillierte Inneneinrichtung passend zur Geltung bringt. Der Motorwagen im Grundset besitzt schon eine Innenbeleuchtung ab Werk, die über Kontakte aktivierbar ist. Die unkomplizierte Nachrüstung mit dem besonderen Soundmodul # 56429 und Lautsprecher ist auf der aufgeräumten Platine vorbereitet. Das AC-Modell besitzt ab Werk einen mfx-fähigen Decoder. Durch die konsequent massstäbliche Umsetzung kann der Triebzug erst ab Radius 2 eingesetzt werden!\n\nHinweis: Es handelt sich bei der Schnittstelle um eine PIKO eigene 20-polige Schnittstelle.",
   "categories": [
     "triebzug"
   ],
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_28259/thumbs/28523_434500.jpg"
   },
-  "updatedAt": "2026-06-14T11:54:28Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

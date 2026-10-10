@@ -21,7 +21,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "E-Lok E 41 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51531\nEAN: 4015615515319\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 190\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56549\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Das PIKO Modell der BR E 41 erscheint in den Farben der DB in Epoche III. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Technisch-konstruktiv entspricht das Modell den bekannten PIKO Modellen der BR 141. Das Modell besitzt für den einfachen Einbau eines Decoders eine PluX22-Schnittstelle und ist für die Nachrüstung von Sound mit grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37689/thumbs/42931_429346.jpg"
   },
-  "updatedAt": "2026-06-13T08:09:31Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

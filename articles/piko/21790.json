@@ -21,7 +21,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 139 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21790\nEAN: 4015615217909\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 190\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Digital schaltbare Maschinenraumbeleuchtung",
+  "description": "Neuheit 2026: Druckvariante der BR 139 der DB in grüner Farbgebung der Epoche IV. Die Soundausführung des Modells verfügt werkseitig über einen PIKO Sound-Decoder inkl. grösstmöglichem Lautsprecher.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49127/thumbs/61880_547824.jpg"
   },
-  "updatedAt": "2026-05-14T20:00:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

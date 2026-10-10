@@ -21,7 +21,7 @@
     "luepMm": 102,
     "minRadiusMm": 192
   },
-  "description": "N E-Lok E16 DB III Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40355\nEAN: 4015615403555\nHersteller: PIKO\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 102\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 662 Next18\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Die Formavariante der BR E 16 berücksichtigt alle Besonderheiten der DB Ausführung in Epoche III.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37877/thumbs/46712_417801.jpg"
   },
-  "updatedAt": "2026-06-13T07:17:03Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

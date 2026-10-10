@@ -21,7 +21,7 @@
     "luepMm": 184,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok V 160 010 DB III Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52969\nEAN: 4015615529699\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: III\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 184\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Die V 160 010 der DB in Epoche III als vorbildgetreue Formvariante der BR 216 von PIKO. Bei der Konstruktion wurden die spezifischen Besonderheiten des Vorbildes präzise ins Modell übertragen. Die Baureihe V 160 bzw. 216 war in den 1960er- und 1970er-Jahren bei der Bundesbahn die Eilzuglok für Strecken ohne Fahrdraht. Das PIKO Modell verbindet die vorbildgetreue Umsetzung mit ausgezeichneten Fahreigenschaften. Diese Attribute werden durch den wirkungsvollen Einsatz perfekter Gravuren und einer bis ins kleinste Detail stimmigen Lackierung unterstrichen. Zeitgemässe LED-Technik dient als Basis für den Lichtwechsel in Rot/Weiss sowie die digital schaltbaren Lichtfunktionen. Das Modell ist werkseitig mit einem PSD XP Sound-Decoder mit grossem Lautsprecher ausgestattet. Mit beigelegten Zurüstteilen lässt sich die Pufferbohle des Fahrzeugs vorbildgerecht vervollständigen.\n\nDas Modell trägt das Gütezeichen \"fits mfx®\". Um Digitaldecoder für alle Nutzer der aktuellen Märklin Digitalzentralen zuverlässig einsetzbar zu machen, wurde gemeinsam mit Märklin und anderen Herstellern ein neues Gütezeichen „fits mfx®“ eingeführt. Dieses kann nur von Digitaldecodern verwendet werden, die einen speziellen mfx®-Test durchlaufen und vollumfänglich bestanden haben.Diese Decoder und auch die Lokomotiven in denen sie verbaut sind, tragen das Gütezeichen „fits mfx®“, welches die uneingeschränkte mfx® Funktionalität zertifiziert. Das bedeutet, dass nunmehr auch PIKO Produkte mit dem „fits mfx®“ Logo die vielfältigen Funktionen von mfx® vollständig unterstützen.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41043/thumbs/48235_449928.jpg"
   },
-  "updatedAt": "2026-06-13T00:35:50Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

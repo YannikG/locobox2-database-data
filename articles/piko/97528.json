@@ -21,7 +21,7 @@
     "luepMm": 193,
     "minRadiusMm": 358
   },
-  "description": "E-Lok EP09 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 97528\nEAN: 4015615975281\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 193\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56636\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Die EP09 von PIKO in der Ausführung der PKP in Epoche V. Die Umsetzung des charakteristisch kantigen Vorbildes im Modell ist in gewohnt hoher Qualität gelungen. Die glatten Kanten des modernen Lokdesigns werden durch feine Details komplettiert, wobei die spezifischen Besonderheiten des gewählten Vorbildes sich auch im Modell widerspiegeln. Feinste Gravuren, plastische Lüfternachbildungen sowie eine hoch detaillierte Dachgestaltung und kleinteilig ausgestaltete Drehgestelle zeichnen das PIKO Expert Modell aus. Dank des hohen Eigengewichts und einem perfekt abgestimmtem Antriebskonzept verfügt die Lokomotive über hohe Zugkraft, die sich noch durch die einfache Installation eines Digitaldecoders optimieren lässt. Abgerundet wird das Modell durch die saubere, vorbildgerechte Lackierung und die aufwendige Bedruckung. Das Modell verfügt über eine PuX22-Schnittstelle für die einfache Nachrüstung mit einem Decoder, zudem ist auf der Platine ausreichend Platz für den Einbau eines Lautsprechers.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45773/thumbs/56153_424923.jpg"
   },
-  "updatedAt": "2026-05-18T04:38:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

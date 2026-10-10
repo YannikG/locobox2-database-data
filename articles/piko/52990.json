@@ -21,7 +21,7 @@
     "luepMm": 150,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok Rh 2200 NS IV, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52990\nEAN: 4015615529903\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: NS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 150\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Druckvariante der Rh 2200 der NS in Epoche IV. Das Modell besticht durch feinste Gehäuse-Gravuren und Detaildarstellungen der schweren Drehgestelle amerikanischer Bauform mit vielen extra angesetzten Teilen. Die Geländer sind filigran und freistehend ausgeführt. Weitere Besonderheiten stellen der freie Führerhausdurchblick und die digital schaltbare Führerstandsbeleuchtung dar. Die Soundvariante der Rh 2200 der NS besitzt ab Werk einen PSD XP Sound-Decoder.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45166/thumbs/56451_440291.jpg"
   },
-  "updatedAt": "2026-05-18T04:38:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

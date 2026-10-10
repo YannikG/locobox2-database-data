@@ -21,7 +21,7 @@
     "luepMm": 237,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 130 DR IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 59741\nEAN: 4015615597414\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 237\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX16\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Modell:\n\nDas PIKO Modell der Lokomotive 130 006-0 stellt das erste, konsequent vorbildgetreue H0-Modell der DR-Baureihe 130 dar. Exakt am Vorbild orientiert, verfügt die PIKO 130 über die grossen Stirn- und Seitenfenster der ersten Lieferserien. Ebenso typisch waren wie die separat angesetzten Handlaufstangen vor den Führerständen und das \"aufgeräumte\" Dach. Die 130 ist zwar kürzer als die Baureihe 132, erscheint mit ihren herabgezogenen Frontschürzen jedoch auch im Modell grösser und wuchtiger. Einen ganz besonderen Clou stellt die vorbildgerecht beleuchtete, seitliche Beschilderung dar. Vorbildorientierte Modellbahner dürfte überdies die exakt wiedergegebene, robuste Drehgestelldetaillierung überzeugen, die auch dem harten Betriebsalltag auf der Modellbahn widersteht. Der mit zwei Schwungmassen versehene Motor verleiht dem Modell zusammen mit dem schweren Zinkdruckguss-Rahmen, dem eleganten Kardanwellenantrieb auf vier Achsen (zwei mit Haftreifen bezogene Räder in diagonaler Anordnung) exzellente Laufeigenschaften und hohe Zugkräfte. Als Modell der PIKO Expert-Linie verfügt die 130 006-0 über Kurzkupplungskinematiken und eine Digitalschnittstelle Plux16/22. Die Nachrüstung mit Sound ist vorbereitet.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_15207/thumbs/31709_451926.jpg"
   },
-  "updatedAt": "2026-06-13T23:10:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

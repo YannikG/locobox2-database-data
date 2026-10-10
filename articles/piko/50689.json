@@ -21,7 +21,7 @@
     "luepMm": 275,
     "minRadiusMm": 422
   },
-  "description": "Sound-Dampflok BR Pm2 PKP IV Wechselstromversion, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50689\nEAN: 4015615506898\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "description": "Neuheit 2023: Für den Einsatz auf Strecken mit einer maximalen Radsatzlast von 18 t wurden zwischen1930 und 1938 insgesamt 298 Einheits-Schnellzuglokomotiven der Baureihe 03 für dieDeutsche Reichsbahn gebaut. Nach dem Zweiten Weltkrieg gelangten 36 Lokomotiven in den Bestand der PKP und wurden dort als Pm2 geführt.Den eleganten Pacific-Dampflokomotiven widmete dereinst Arthur Honegger eine musikalische Komposition. Mit der 03 rollt eine solche Maschine in das PIKO Sortiment. Der hochliegende schlanke Kessel und der luftige Barrenrahmen mit freiem Durchblick prägen auch im Modell die Silhouette der Maschine. Besonders anmutig wirkt das filigrane Fahrwerk mit feinen Speichen und sehr plastischen Ausgleichsgewichten. Die Neukonstruktion verfügt über passenden Anbauteile wie etwa Glocken, Pumpen und Lampen. Zahlreiche angesetzte Kesselleitungen vervollständigen den äusseren Eindruck. Für ideale Fahreigenschaften sorgt der im Tender untergebrachte Antrieb samt Schwungmasse. Die werkseitig digitalen Varianten des Modells verfügen über schaltbare Beleuchtung auf dem Führerstand, sowie eine rot flackernde Feuerbüchse. Diese Funktionen sowie velfältige Sounds können mit dem werkseitig integrierten PIKO Sound-Decoder gesteuert werden. Die Soundvariante verfügt zudem ab Werk über einen integrierten Dampfgenerator.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38143/thumbs/47489_423163.jpg"
   },
-  "updatedAt": "2026-06-13T08:03:53Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

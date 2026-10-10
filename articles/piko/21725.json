@@ -21,7 +21,7 @@
     "luepMm": 205,
     "minRadiusMm": 358
   },
-  "description": "E-Lok Rh 1010 ÖBB V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21725\nEAN: 4015615217251\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 205\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56563\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Formvariante der österreichischen Rh 1010 der ÖBB in Epoche V. Das technisch anspruchsvolle und zeitgemässe PIKO Expert Modell zeichnet sich durch eine vorbildgetreue Umsetzung seiner Vorbildlokomotive mit feinster Lackierung und Bedruckung aus. Ausgerüstet mit einem starken fünfpoligen Motor, der mit zwei präzise ausgewuchteten Schwungmassen kombiniert wurde, überzeugt das PIKO Modell mit hoher Zugkraft, ausgezeichneter Laufkultur und vorbildgerechter Maximalgeschwindigkeit. Die Modelle sind mit einer PluX22-Schnittstelle für den Digitalbetrieb und eine unkomplizierte Nachrüstung mit einem Sounddecoder mit grossem Lautsprecher vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_44773/thumbs/56073_406662.jpg"
   },
-  "updatedAt": "2026-05-18T04:38:22Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

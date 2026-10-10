@@ -21,7 +21,7 @@
     "luepMm": 226,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Lok BR 152 Captrain VI Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51135\nEAN: 4015615511359\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 226\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: In den frühen 1990er-Jahren zeichnete sich ein Bedarf an modernen und leistungsfähigen Drehstrom-Lokomotiven für den Güterzugdienst ab, sodass die DB 1993 die Entwicklung eines solchen Fahrzeugs ausschrieb. Dabei überzeugte das Konsortium Siemens/Krauss-Maffei und man schuf bis 1995 den Prototyp 152 001-4, als zweites Mitglied der bekannten EuroSprinter-Familie. Von der anschliessenden Bestellung über 195 Exemplare rief die DB AG 170 Maschinen ab. Mit Indienststellung wurden alle Loks dem Bw Nürnberg Rangierbahnhof zugeteilt. Von hier aus werden die Fahrzeuge vor Güterzügen in ganz Deutschland eingesetzt, wobei die Hinterlandverkehre des Hamburger Hafens vom Rangierbahnhof Maschen ausgehend einen Schwerpunkt darstellen. Neben den Loks der DB AG produzierte Siemens auch zwei Maschinen unter der Bezeichnung ES64F für das hauseigene Leasingunternehmen „Dispolok“. Diese wurden später an die Eisenbahngesellschaft ITL verkauft und sind gegenwärtig für Captrain in der markanten neongrünen Lackierung im Einsatz. Technisch führt das Modell die bewährte Linie der PIKO Expert Modelle fort. Als Antrieb dient ein kräftiger Mittelmotor, zwei Schwungmassen kultivieren die Laufeigenschaften. Auf den beiden inneren Achsen sorgen diagonal angeordnete Haftreifen für zusätzliche Reibung und ermöglichen die Beförderung stattlicher Modellgüterzüge. Im Digitalbetrieb mit dem PIKO SmartDecoder XP 5.1 können Führerstands- und Führerpultbeleuchtung sowie das Fernlicht digital geschaltet werden. Die Sound-Ausführungen der Lok verfügen dank PIKO TrainSound® zudem über vorbildgerechte Fahrzeuggeräusche.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49136/thumbs/59749_526180.jpg"
   },
-  "updatedAt": "2026-05-14T20:38:33Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

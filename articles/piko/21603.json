@@ -21,7 +21,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolok Vectron \"QR Code\" CD VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21603\nEAN: 4015615216032\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 218\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56544\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante des Vectron mit QR-Code der ČD in Epoche VI. Das Modell verfügt über eine PluX22-Digitalschnittstelle und ist für die Soundnachrüstung mit grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_38187/thumbs/44966_433114.jpg"
   },
-  "updatedAt": "2026-06-13T07:57:05Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

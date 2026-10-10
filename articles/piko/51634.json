@@ -21,7 +21,7 @@
     "luepMm": 185,
     "minRadiusMm": 358
   },
-  "description": "E-Lok Rh 1044 ÖBB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51634\nEAN: 4015615516347\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: ÖBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 185\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56592\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Führerpultbeleuchtung\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Variante der Rh 1044 in der Ausführung der ÖBB in Epoche IV. Das charaktervolle Lokgesicht des einstigen ÖBB-Paradepferds wurde in der Modellumsetzung hervorragend getroffen, ebenso die markante Seitenpartie der Fahrzeuge, die mit den ausgeprägten Sicken und den typischen „Bullaugen“ durchaus Herausforderungen an den Formenbau stellte. Der dabei entstandene Eindruck idealer optischer Wirkung setzt sich in den Drehgestellen der Lokomotive fort. Nicht zuletzt weiss die 1044 technisch zu überzeugen: Ein fünfpoliger PIKO Motor, auf dessen Welle zwei fein gewuchtete Schwungmassen sitzen, sorgt für gleichmässigen Vortrieb. Modellbahner, die den Digitalbetrieb bevorzugen, profitieren von der modernen PluX22-Schnittstelle – sie erlaubt den Einbau eines Digitaldecoders mit wenigen Handgriffen. Der heute obligatorische Lichtwechsel wurde in zeitgemässer LED-Technik realisiert.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37910/thumbs/46326_442428.jpg"
   },
-  "updatedAt": "2026-06-13T08:10:16Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 217,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 245 DB AG VI Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52510\nEAN: 4015615525103\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 217\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56543\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Die 245 ist ein Modell der Serienausführung, das sich durch die Anzahl und Ausführung der Dach- und Seitenlüfter und dem Schlot von den Vorserienlokomotiven unterscheidet. Hervorzuheben sind besonders präzise gefertigte Teile und Baugruppen, wie der solide Zinkdruckgussrahmen, geätzte Metalllüftungsgitter, die vorbildgerecht detaillierten Drehgestelle und zahlreiche, freistehend, angesetzte Teile, wie die Frontgriffstangen. Das Modell verfügt über Lichtwechsel weiss/rot und ist für Sound vorbereitet.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_16928/thumbs/13000_407114.jpg"
   },
-  "updatedAt": "2026-06-14T07:41:13Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

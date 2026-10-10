@@ -21,7 +21,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Sound-Elektrolok Vectron \"QR Code\" CD VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 21604\nEAN: 4015615216049\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: CD\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 218\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante des Vectron mit QR-Code der ČD in Epoche VI. Das Modell verfügt über einen PSD XP Sound-Decoder.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38188/thumbs/44967_439146.jpg"
   },
-  "updatedAt": "2026-06-13T07:57:15Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

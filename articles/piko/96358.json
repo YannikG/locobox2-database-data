@@ -21,7 +21,7 @@
     "luepMm": 183,
     "minRadiusMm": 358
   },
-  "description": "E-Lok EU07 PKP V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96358\nEAN: 4015615963585\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56552\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: In den 1950er Jahren beschleunigten die PKP die Elektrifizierung ihrer Hauptstrecken und beschafften in grösserem Stil geeignete Elektrolokomotiven. Als Weiterentwicklung der in Lizenz gebauten EU06 folgte zu Beginn der 1960er Jahre die auf englischen Konstruktionen basierende Universal-Baureihe EU07, die zusammen mit ihren Unterbauarten die meistgebaute Lokfamilie bei den vierachsigen polnischen Elektrolokomotiven darstellt.\n\nDigitale Schaltung der Führerstandbeleuchtung durch Nachrüstung eines Digitaldecoders\nZwei Scherenstromabnehmer aus Metall\nZahlreiche separat angesetzte Teile\nOriginalgetreu nachgebildete Pufferbohlen",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45487/thumbs/58573_515766.jpg"
   },
-  "updatedAt": "2026-05-18T06:08:26Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

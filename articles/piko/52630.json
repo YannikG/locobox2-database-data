@@ -21,7 +21,7 @@
     "luepMm": 92,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 102.1 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52630\nEAN: 4015615526308\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 92\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56562\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Ausziehbare Antenne\nAltersempfehlung: ab 14 Jahren",
+  "description": "Als Expert Modell erhielt die Formneuheit der PIKO 102.1 einen Motor mit präzise ausgewuchteter Schwungmasse. Mit dem fahrtrichtungsabhängigen, automatischen Lichtwechsel weiss/rot ist die separate Abschaltbarkeit des roten „Rücklichts“ verbunden. Die Führerstands-Beleuchtung ermöglicht vorbildgetreuen Nachtbetrieb. Das Modell ist mit einer PluX22-Schnittstelle für Digitalbetrieb einschliesslich Sounddecoder vorbereitet. Freistehende Griffstangen und Geländer komplettieren das anspruchsvolle Erscheinungsbild des PIKO Modells.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_21340/thumbs/52807_426875.jpg"
   },
-  "updatedAt": "2026-06-13T21:30:44Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

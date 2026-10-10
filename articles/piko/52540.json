@@ -21,7 +21,7 @@
     "luepMm": 80,
     "minRadiusMm": 358
   },
-  "description": "Diesellok BR 101 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52540\nEAN: 4015615525400\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 80\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56551\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Formneuheit der BR 101 mit geradem Rahmen. Die Rangierlokomotive war in grossen Stückzahlen bei der DR und bei Werksbahnen vorhanden. Das Modell weisst zahlreiche einzeln angesetzte Teile auf. Der Zinkdruckguss-Rahmen verleiht dem Modell ausreichende Zugkraft.\n\nLogik der Lichtfunktionen:\n\nnur in Verbindung mit dem PIKO Lok-Sounddecoder #56451 !!!\n\nF0 schaltet vorne weisses Licht (3 Lampen an) und hinten rot (2 Lampen) [Bilder oben]\n\nF7 schaltet den Rangiergang, wobei auf beiden Seiten je 3 weisse Lampen aktiviert werden [Bilder Mitte]\n\nF8 schaltet die Rangierbeleuchtung, wobei auf beiden Seiten die untere linke Lampe (in Fahrtrichtung gesehen) aktiviert wird [Bilder unten]",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_19175/thumbs/14264_429727.jpg"
   },
-  "updatedAt": "2026-06-13T21:19:33Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

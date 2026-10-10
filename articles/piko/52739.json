@@ -21,7 +21,7 @@
     "luepMm": 321,
     "minRadiusMm": 360
   },
-  "description": "Sound-Schienenbus 798 + Steuerwagen 998.6 DB IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52739\nEAN: 4015615527398\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 321\nMindestradius [mm]: 360\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Beleuchtete seitliche Zugzielanzeige\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Variante des Schienenbusses BR 798 der DB in Epoche IV. Mit den Modellen des legendären Schienenbusses VT 98/VS 98 der Deutschen Bundesbahn offeriert PIKO ein perfekt auf den Einsatz auf Modellbahnhaupt- und Nebenstrecken abgestimmtes Fahrzeug mit vielen Highlights. Einen echten Blickfang stellen die beleuchteten seitlichen Zugzielanzeiger dar. Der Triebwagen wird von einem starken Kleinstmotor angetrieben, der zugunsten einwandfreier Laufeigenschaften mit Schwungmassen ausgestattet ist, und besitzt für optimale Fahreigenschaften ohne Soundunterbrechungen einen ab Werk eingebauten Pufferkondensator. Trieb- und Steuerwagen sind über eine stromleitende Kurzkupplungskinematik miteinander kuppelbar. Die Beleuchtungsfunktionen beider Fahrzeuge, u.a. auch die Lampen über den Führerständen, sind gesondert schaltbar. Trotz der konstruktiven Ausstattung von Trieb- und Steuerwagen ist ein freier Durchblick durch die Fahrgasträume möglich. Der Triebwagen lässt sich vorbildgerecht auch als Triebfahrzeug für die Mitnahme einzelner Güterwagen verwenden. Für ein optimales Sounderlebnis verfügt der Triebwagen ab Werk über einen PIKO Sound-Decoder inkl. Lautsprecher.",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_38318/thumbs/42198_437143.jpg"
   },
-  "updatedAt": "2026-06-13T08:20:47Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

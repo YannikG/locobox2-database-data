@@ -21,7 +21,7 @@
     "luepMm": 497,
     "minRadiusMm": 228
   },
-  "description": "N Dieseltriebwagen BR 624 DB AG V, 3-tlg. Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40263\nEAN: 4015615402633\nHersteller: PIKO\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 497\nMindestradius [mm]: 228\nDigitale Schnittstelle: NEM 658 PluX12\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 4\nKupplung: NEM Schacht / keine Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #46192\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023:3tlg. Druckvariante der BR 624 in mintgrün der DB AG Ep. V. Die Baureihen VT 23 und VT 24 bezeichnen Dieseltriebzüge der Deutschen Bundesbahn, bestehend aus zwei angetriebenen Endwagen und bis zu zwei Mittelwagen. Diese wurden als VM 23 bzw. VM 24 bezeichnet. 1968 wurden die Triebwagen in die Baureihe 624 umgezeichnet, die mit Luftfederung ausgestatteten Fahrzeuge erhielten die Bezeichnung 634. Die Mittelwagen liefen fortan als 924 bzw. 934. Es wurden insgesamt 80 Triebwagen und 55 Mittelwagen bei MAN und der Waggonfabrik Uerdingen gebaut. 1967 begannen die ersten Versuche mit der gleisbogenabhängigen Wagenkastensteuerung. Dazu wurden zahlreiche VT und VM mit Luftfederung nachgerüstet. Die Triebzüge bestehen in der Regel aus je zwei angetriebenen Trieb- und einem nichtangetriebenen Mittelwagen. Es können jedoch auch Einheiten ohne oder mit bis zu zwei Mittelwagen gebildet werden. Eine noch grössere Anzahl von Mittelwagen ist im Fahrgastbetrieb nicht möglich, jedoch dürfen zur Bildung von Mehrfachtraktion maximal drei Einheiten / sechs Maschinenanlagen in einem Zugverband betrieben werden. Ab 2005 wurden die Triebwagen durch neue Fahrzeuge ersetzt und abgestellt.",
   "categories": [
     "lokomotive",
     "dieseltriebwagen"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_37879/thumbs/50118_426754.jpg"
   },
-  "updatedAt": "2026-06-13T07:17:03Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

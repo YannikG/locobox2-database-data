@@ -21,7 +21,7 @@
     "luepMm": 197,
     "minRadiusMm": 422
   },
-  "description": "Sound-Dampflok BR 62 DRG II, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50708\nEAN: 4015615507086\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: DRG\nEpoche: II\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 197\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "description": "Neuheit 2025: Die BR 62 war das Ergebnis der Bestrebungen des Reichsbahn-Zentralamtes, eine Serie von Einheitslokomotiven für verschiedene Einsatzgebiete zu entwickeln. Basierend auf der nie gebauten BR 20 wurde eine sprintschnelle Zweizylinder-Heissdampf-Tenderlokomotive mit der Achsfolge 2’C2’ entwickelt. Den Zuschlag für den Bau der Maschinen erhielt die Firma Henschel, welche 1928 insgesamt 15 Lokomotiven lieferte. Die DRG übernahm zunächst nur die 62 001 und 002 und setzte sie im Ruhrgebiet ein. Die übrigen 13 Maschinen wurden erst 1932 in Dienst gestellt.\n\nFormvariante\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Fahrwerksbeleuchtung\nDigital schaltbares Feuerbüchsenflackern\nMit Dampfgenerator\nFiligrane Barrenrahmen\nfreien Durchblick im Triebwerksbereich\nFeine Radsterne\nFeines Bremsgestänge\nFenstereinsätze im Führerhaus\nunverbauter Innenraum\nDetaillierte Kessel- und Führerhausrückwand\nZinkdruckguss- und Metallteile\nMotor mit Schwungmassen\nPIKO TrainSound® onboard",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44683/thumbs/58816_517574.jpg"
   },
-  "updatedAt": "2026-05-18T05:21:27Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

@@ -21,7 +21,7 @@
     "luepMm": 197,
     "minRadiusMm": 422
   },
-  "description": "Sound-Dampflok BR 62 DR IV Wechselstromversion, inkl. PIKO Sound-Decoder und Dampfgenerator Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50712\nEAN: 4015615507123\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 197\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion werkseitig ausgerüstet",
+  "description": "Neuheit 2026: Die BR 62 war das Ergebnis der Bestrebungen des Reichsbahn-Zentralamtes, eine Serie von Einheitslokomotiven für verschiedene Einsatzgebietezu entwickeln. Basierend auf der nie gebauten BR 20 wurde eine sprintschnelle Zweizylinder-Heissdampf-Tenderlokomotive mit der Achsfolge 2’C2’ entwickelt. Den Zuschlag für den Bau der Maschinen erhielt die Firma Henschel, welche 1928 insgesamt 15 Lokomotiven lieferte. Die DRG übernahm zunächst nur die 62 001 und 002 und setzte sie im Ruhrgebiet ein. Die übrigen 13 Maschinen wurden erst 1932 in Dienst gestellt. Ausführung der Deutschen Reichsbahn in der Epoche IV. Mit realistischen Sound und vielen Funktionen. Ab Werk mit Verdampfer.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_49283/thumbs/59732_528088.jpg"
   },
-  "updatedAt": "2026-05-14T20:30:26Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

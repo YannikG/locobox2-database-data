@@ -21,7 +21,7 @@
     "luepMm": 202,
     "minRadiusMm": 358
   },
-  "description": "Diesellok ST44 PKP IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52924\nEAN: 4015615529248\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 202\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56538\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der V 200 als ST44 der PKP in Epoche IV. Für eine unkomlizierte Nachrüstung eines Decoders verfügt das Modell über eine moderne PluX22-Schnittstelle.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38192/thumbs/44561_434402.jpg"
   },
-  "updatedAt": "2026-06-13T08:21:32Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

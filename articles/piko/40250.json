@@ -21,7 +21,7 @@
     "luepMm": 182,
     "minRadiusMm": 192
   },
-  "description": "N Schienenbus 798 mit Steuerwagen 998.6 DB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 40250\nEAN: 4015615402503\nHersteller: PIKO\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 182\nMindestradius [mm]: 192\nDigitale Schnittstelle: NEM 658 PluX16\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #46526\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "„Der Retter der Nebenbahnen“ wurde der VT genannt. Die PIKO Modelle des Trieb- und des Steuerwagens verkörpern, wie ihre DB-Vorbilder, übersichtliche, funktionssichere und wartungsarme Konstruktionen. Das Triebwagenmodell wird von einem Kleinstmotor angetrieben, der zugunsten einwandfreier Laufeigenschaften mit zwei vergleichsweise grossen, präzise dimensionierten Schwungmassen ausgestattet ist. Der Antrieb wirkt auf beide Achsen. Da Trieb- und Steuerwagen über eine Stromleitende Kurzkupplungskinematik miteinander kuppelbar sind, können bei Einsätzen mit Steuerwagen zwei weitere (und damit vier) Achsen zur sicheren Stromabnahme herangezogen werden. Der Triebwagen besitzt eine Digitalschnittstelle PluX16 nach NEM 658. Die Beleuchtungsfunktionen beider Fahrzeuge sind gesondert schaltbar. Trotz der konstruktiven Ausstattung von Trieb-und Steuerwagen ist ein freier Durchblick durch die Fahrgasträume möglich. Der Triebwagen lässt sich vorbildgerecht auch als Triebfahrzeug für die Mitnahme einzelner Güterwagen verwenden. Eine Achse ohne Haftreifen, zum Tausch gegen die Achse mit Haftreifen des VT, liegt bei.",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_19233/thumbs/14986_406371.jpg"
   },
-  "updatedAt": "2026-06-13T07:17:03Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

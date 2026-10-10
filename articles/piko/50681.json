@@ -21,7 +21,7 @@
     "luepMm": 275,
     "minRadiusMm": 422
   },
-  "description": "Dampflok BR 003 DB IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 50681\nEAN: 4015615506812\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: DB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 275\nMindestradius [mm]: 422\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung und Feuerbüchsenbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht\nSound: PIKO Sound-Decoder nachrüstbar #56620\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Dampffunktion nachrüstbar #56163\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Für den Einsatz auf Strecken mit einer maximalen Radsatzlast von 18 t wurden zwischen 1930 und 1938 insgesamt 298 Einheits-Schnellzuglokomotiven der Baureihe 03 für die Deutsche Reichsbahn gebaut. Die Konstruktion war an die Baureihe 01 angelehnt, deren Radsatzfahrmasse über 20 t betrug. Um die Gesamtmasse zu reduzieren, verfügte die Baureihe 03 über einen leichteren Barrenrahmen sowie einen kleineren Kessel und Zylinder. Während die ersten 122 Maschinen zunächst für eine Höchstgeschwindigkeit von 120 km/h zugelassen waren, lag diese bei den späteren Einheiten ab Werk bei 130 km/h. Der Bestand der DB umfasste 1959 insgesamt 145 Exemplare der BR 03. Neun Jahre später hatte sich dieser auf 45 der nun als Baureihe 003 bezeichneten Loks verjüngt, von denen die letzten drei schliesslich 1972 z-gestellt wurden.Den eleganten Pacific-Dampflokomotiven widmete dereinst Arthur Honegger eine musikalische Komposition. Mit der 03 rollt eine solche Maschine in das PIKO Sortiment. Der hochliegende schlanke Kessel und der luftige Barrenrahmen mit freiem Durchblick prägen auch im Modell die Silhouette der Maschine. Besonders anmutig wirkt das filigrane Fahrwerk mit feinen Speichen und sehr plastischen Ausgleichsgewichten. Die Neukonstruktion verfügt über passenden Anbauteile wie etwa Glocken, Pumpen und Lampen. Zahlreiche angesetzte Kesselleitungen vervollständigen den äusseren Eindruck. Für ideale Fahreigenschaften sorgt der im Tender untergebrachte Antrieb samt Schwungmasse. Die werkseitig digitalen Varianten des Modells verfügen über schaltbare Beleuchtung im Triebwerk und auf dem Führerstand, sowie eine rot flackernde Feuerbüchse. Diese Funktionen können mithilfe des werkseitig eingebauten, mfx-Fähigen Digital-Decoder geschalten werden. Zusätzlich ist die Lok für die Nachrüstung mit Sound und Dampf vorbereitet.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_38135/thumbs/46231_433863.jpg"
   },
-  "updatedAt": "2026-06-13T08:02:53Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

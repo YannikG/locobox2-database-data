@@ -21,7 +21,7 @@
     "luepMm": 175,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok D.145 FS VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52956\nEAN: 4015615529569\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: FS\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 175\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2024: Druckvariante der Diesellokomotive D.145 FS in Epoche VI. Die D.145 von PIKO überzeugt durch feinste Lackierung und Bedruckung, die exakte Gehäuseform, angesetzten Griffstangen und scharf gravierte Drehgestellblenden. Der Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängigen Schlusslichter sind mit einem PluX22-Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das Modell besitzt ab Werk einen PS XP Sound-Decoder mit grösstmöglichem Lautsprecher für ein besonderes Sounderlebnis. Bremsschläuche zum Nachrüsten liegen bei.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41427/thumbs/53132_449548.jpg"
   },
-  "updatedAt": "2026-06-12T23:24:01Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

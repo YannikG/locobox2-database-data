@@ -21,7 +21,7 @@
     "luepMm": 183,
     "minRadiusMm": 358
   },
-  "description": "E-Lok ET41 PKP IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96386\nEAN: 4015615963868\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 183\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56552\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Oberleitungsbetrieb möglich\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der ET41 PKP im Design der Epoche IV. Die PIKO ET 41 verkörpert, wie das grosse Vorbild, eine übersichtliche, funktionssichere und wartungsarme Konstruktion. Als Doppellokomotive besteht das PIKO Modell aus einem Fahrzeugsegment mit Antrieb und einem antriebslosen Segment. Dank des kräftigen, mit zwei präzise ausgewuchteten Schwungmassen versehenen Motors und der Kardanwellenantriebe auf die beiden je zweiachsigen Drehgestelle besitzt die PIKO ET 41 sehr ausgeglichene Laufeigenschaften. Das hohe Eigengewicht sorgt im Zusammenwirken mit der diagonalen Haftbereifung der innen laufenden Achsen der angetriebenen Drehgestelle für vorbildgerecht hohe Zugkräfte. Da auch die vier Achsen des antriebslosen Segments zur Stromabnahme dienen und beide Segmente über eine stromführende Kurzkupplung verbunden sind, verfügt das Modell über eine aussergewöhnlich sichere Stromabnahme über insgesamt 16 Räder. Das Modell ist für Digitalbetrieb und Soundnachrüstung vorbereitet. Als Besonderheit ist die Umschaltung auf Oberleitungsbetrieb möglich.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37712/thumbs/43140_455352.jpg"
   },
-  "updatedAt": "2026-06-13T08:30:25Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

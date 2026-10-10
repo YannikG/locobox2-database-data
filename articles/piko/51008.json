@@ -21,7 +21,7 @@
     "luepMm": 180,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 204 DR IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51008\nEAN: 4015615510086\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DR\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 180\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nBesonderheiten: Lokführerfigur im Führerstand\nAltersempfehlung: ab 14 Jahren",
+  "description": "Druckvariante der E-Lok BR 204 DR Ep. IV\n\nUmschaltung auf Oberleitungsbetrieb ist möglich",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_25269/thumbs/40231_438789.jpg"
   },
-  "updatedAt": "2026-06-13T20:22:14Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

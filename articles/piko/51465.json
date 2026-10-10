@@ -21,7 +21,7 @@
     "luepMm": 747,
     "minRadiusMm": 358
   },
-  "description": "Sound-E-Triebzug EN 57 PR VI, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51465\nEAN: 4015615514657\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Gleichstrom\nBahnverwaltung: Privatbahn\nEpoche: VI\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 747\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2025: Von 1961 bis 1993 wurde der elektrische Triebwagen der Baureihe EN57 für die Polnischen Staatsbahnen (PKP) gebaut. Das Einsatzgebiet des dreiteiligen Triebzuges war seit jeher der Nahverkehr. Anzutreffen ist er im Umland von Danzig, oder auf der S-Bahnstrecke Szybka Kolej Miejska w Trójmieście. Mittlerweile ist dieses Aufgabenfeld nicht mehr direkt der PKP unterstellt. Ein vollwertiger Zug besteht aus einer festen Zugkonfiguration von zwei Steuerwagen (Bezeichnung 5B) und einem Mittelwagen (Herstellerbezeichnung Typ 6A). Durch die Scharfenbergkupplung ist die Bildung von Doppeltraktionen oder noch längeren Zuggarnituren möglich.\n\nDigital schaltbare Führerstandbeleuchtung\nDigital schaltbare Zugzielanzeige\nDigital schaltbare Innenbeleuchtung\nZwei Scherenstromabnehmer aus Metall\nRealistisch wiedergegebene Lampen\nStimmige Inneneinrichtung\nKurzkupplungen für die Fahrt in Doppeltraktion\nPIKO TrainSound® onboard",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45506/thumbs/58775_517330.jpg"
   },
-  "updatedAt": "2026-05-18T05:30:20Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

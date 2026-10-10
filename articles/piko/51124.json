@@ -21,7 +21,7 @@
     "luepMm": 226,
     "minRadiusMm": 358
   },
-  "description": "E-Lok BR 152 DB Cargo V Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 51124\nEAN: 4015615511243\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: DB AG\nEpoche: V\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 226\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56606\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante der BR 152 der DB Cargo in Epoche V. Die grossen Seitenflächen und das glatte Dach der Baureihe 152 verkörpern den Lokomotivbau der 1990er-Jahre. Diese Gesamterscheinung gibt das neue PIKO Modell im Massstab 1:87 exzellent wieder. Ebenso grosser Wert wurde bei Konstruktion und Werkzeugbau auch auf Details gelegt: äusserst plastisch wirkende Gravuren der Lüftungsgitter und Drehgestelle mit hervorragender optischer Tiefenwirkung unterstreichen dies. Als Antrieb dient ein kräftiger Mittelmotor, zwei Schwungmassen kultivieren zusätzlich die Laufeigenschaften und diagonal angeordnete Haftreifen ermöglichen die Beförderung stattlicher Lasten. Im Digitalbetrieb kann die Führerstandsbeleuchtung digital geschaltet werden. Das Modell ist für die unkomplizierte Nachrüstung eines Digitaldecoders sowie Sound vorbereitet.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_37894/thumbs/43455_445788.jpg"
   },
-  "updatedAt": "2026-06-13T08:04:25Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

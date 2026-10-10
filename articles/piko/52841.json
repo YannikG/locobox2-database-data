@@ -21,7 +21,7 @@
     "luepMm": 175,
     "minRadiusMm": 358
   },
-  "description": "Diesellok D.145 FS IV Wechselstromversion Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52841\nEAN: 4015615528418\nHersteller: PIKO\nStromsystem: Wechselstrom\nBahnverwaltung: FS\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 175\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Mit der markanten Diesellokomotive D.145 der FS erscheint nun erstmals eine PIKO Neukonstruktion eines rein italienischen Fahrzeuges! Durch das besondere Erscheinungsbild, das grosse Einsatzgebiet und die hervorragenden Fahreigenschaften mit einer gelungenen Mischung aus Detailverliebtheit undBetriebstauglichkeit wird diese Maschine Sammler aussergewöhnlicher europäischer Loks und Anlagenbetreiber gleichermassen begeistern. Die D.145 von PIKO überzeugt durch feinste Lackierung und Bedruckung, die exakte Gehäuseform, angesetzten Griffstangen und scharf gravierte Drehgestellblenden. Der Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind mit einem PluX22 Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das Modell besitzt eine Digitalschnittstelle PluX22 nach NEM 658 und ist für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Das AC-Modell ist bereits ab Werk mit einem passenden mfx-geeigneten PIKO SmartDecoder 4.1 PluX22 Decoder ausgerüstet.Bremsschläuche zum Nachrüsten liegen bei.",
   "categories": [
     "dieseltriebwagen"
   ],
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_27808/thumbs/27260_449893.jpg"
   },
-  "updatedAt": "2026-06-14T12:26:45Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

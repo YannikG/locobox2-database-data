@@ -21,7 +21,7 @@
     "luepMm": 130,
     "minRadiusMm": 358
   },
-  "description": "Sound-Diesellok Sm41 PKP IV Wechselstromversion, inkl. PIKO Sound-Decoder Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 52389\nEAN: 4015615523895\nHersteller: PIKO\nSound ja/nein: ja\nStromsystem: Wechselstrom\nBahnverwaltung: PKP\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 130\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\nVerbauter Decoder: PluX22 Sounddecoder\n(Innen-)Beleuchtung: Digital schaltbare Führerstandsbeleuchtung (mit PluX22 Decoder)\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder werkseitig ausgerüstet\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2026: Als Mitte der 1950er Jahre leistungsstarke Diesellokomotiven für den Rangierdienst in Polen fehlten, entschied sich die Polskie Koleje Państwowe Polskie Koleje Państwowe für bewährte ungarische Technik: die Lokomotiven der Baureihe M44. In einer Phase, in der die polnische Dieseltraktion noch im Aufbau war und viele Bahnbetriebswerke mit überalterten Dampfrangierlokomotiven arbeiteten, bot die robuste M44 eine praktikable und vergleichsweise schnell verfügbare Lösung. Nach erfolgreichen Tests im Jahr 1957, die in den Rangierbahnhöfen Warszawa Odolany und Poznań Franowo durchgeführt wurden, folgte 1958 der Kauf von zehn Maschinen, die als PKP SM40-01 bis 10 PKP SM40 in Dienst gestellt wurden. Diese ersten M44 für Polen entsprachen weitgehend der ungarischen Grundversion, wurden aber bereits mit polnischen Sicherheits- und Funkausrüstungen ausgerüstet. Ihr Einsatzgebiet reichte von grossen Knotenbahnhöfen wie Warszawa, Gdańsk und Wrocław bis hin zu regionalen Güterbahnhöfen und Industriewerken. Die Lok galt als zuverlässig, durchzugsstark und unkompliziert zu warten – Eigenschaften, die sie in den damaligen Betriebswerken ebenso beliebt machten wie bei Industriebahnen der Hütten- und Chemiewerke. Einige Exemplare blieben als Zeitzeugen erhalten – darunter die SM40-01 im Skansen Taboru Kolejowego Chabówka Skansen Taboru Kolejowego Chabówka. Sie steht stellvertretend für eine Epoche, in der polnische Bahnhöfe und Rangiergleise vom charakteristischen Klang und der markanten Silhouette dieser Maschinen geprägt waren.\n\nAusführung mit Gehäuse mit Rippen\nBeleuchtetes Fahrerpult\nIm Digitalbetrieb mit schaltbarer Führerstandsbeleuchtung\nAngesetzte Sandkästen, Sandfallrohre und Bremsbacken\nExtra Tank, Klimagerät, Geschwindigkeitsmesser und Horn\nFeine Griffe und Trittstufen\nAuspuff nach Bauart MAV\nPKP Antenne\nPSD XP Sounddecoder mit authentischem Sound und vielen Funktionen ab Werk",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_48027/thumbs/61720_546309.jpg"
   },
-  "updatedAt": "2026-05-14T21:11:53Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }

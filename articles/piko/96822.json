@@ -21,7 +21,7 @@
     "luepMm": 272,
     "minRadiusMm": 358
   },
-  "description": "Triebwagen RBe 4/4 SBB IV Modelleisenbahn kaufen | PIKO Webshop\n\nArtikelnummer: 96822\nEAN: 4015615968221\nHersteller: PIKO\nStromsystem: Gleichstrom\nBahnverwaltung: SBB\nEpoche: IV\nMaßbezeichnung: LüP / Länge über Puffer\nMaß [mm]: 272\nMindestradius [mm]: 358\nDigitale Schnittstelle: NEM 658 PluX22\n(Innen-)Beleuchtung: Schaltbare Innenbeleuchtung werkseitig ausgerüstet\nAnzahl Haftreifen: 2\nKupplung: NEM Schacht + Kurzkupplungskulisse\nSound: PIKO Sound-Decoder nachrüstbar #56526\nLichtwechsel: Fahrtrichtungsabhängiger Lichtwechsel weiß / rot\nAltersempfehlung: ab 14 Jahren",
+  "description": "Neuheit 2023: Druckvariante des Triebzugs Rbe 4/4 2. Serie der SBB in Epoche IV mit grüner Lackierung und alter Schrift. Für eine unkomplizierte Digitalsierung verfügt das Modell über eine PluX22-Schnittstelle und ist für die Nachrüstung mit Sound vorbereitet.",
   "categories": [
     "lokomotive",
     "triebzug"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_t/oart_37904/thumbs/46047_458384.jpg"
   },
-  "updatedAt": "2026-06-13T08:30:56Z"
+  "updatedAt": "2026-10-10T19:52:11Z"
 }
