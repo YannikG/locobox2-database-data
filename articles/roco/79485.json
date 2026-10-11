@@ -9,8 +9,8 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "Rh 1216",
-    "number": null,
-    "livery": null,
+    "number": "019",
+    "livery": "Leonardo",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240928.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:31:45Z"
 }
