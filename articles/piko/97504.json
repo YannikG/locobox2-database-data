@@ -11,8 +11,8 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "Rh",
-    "number": "1000",
+    "type": "Rh 1000",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_44764/thumbs/59256_523199.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }

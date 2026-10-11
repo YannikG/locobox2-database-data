@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh",
-    "number": "1041",
+    "type": "Rh 1041",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_44772/thumbs/58570_515879.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }

@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh",
-    "number": "5045",
+    "type": "Rh 5045",
+    "number": null,
     "livery": "BBÖ Blauer Blitz",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_28204/thumbs/26245_444227.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }

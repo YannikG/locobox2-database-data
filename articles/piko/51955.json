@@ -11,8 +11,8 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "Rh",
-    "number": "1100",
+    "type": "Rh 1100",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_37909/thumbs/45978_458086.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }
