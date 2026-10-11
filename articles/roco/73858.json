@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 26000",
-    "number": null,
+    "number": "426230",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236387.jpg"
   },
-  "updatedAt": "2026-10-11T10:49:25Z"
+  "updatedAt": "2026-10-11T11:35:14Z"
 }
