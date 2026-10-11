@@ -9,7 +9,7 @@
     "country": "HU",
     "operator": "GySEV",
     "type": "M62",
-    "number": null,
+    "number": "905",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239283.jpg"
   },
-  "updatedAt": "2026-10-11T11:22:23Z"
+  "updatedAt": "2026-10-11T11:22:44Z"
 }
