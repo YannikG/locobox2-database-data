@@ -8,8 +8,8 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "2435",
-    "number": null,
+    "type": "2400",
+    "number": "2435",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

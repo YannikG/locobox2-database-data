@@ -9,7 +9,7 @@
     "country": "DD",
     "operator": "DR",
     "type": "BR 44",
-    "number": null,
+    "number": "0104",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 260,
     "minRadiusMm": 358
   },
-  "description": "Schwere Güterzug-Dampflokomotive Baureihe 44 mit Ölfeuerung der Deutschen Reichsbahn. Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok, Epoche IV.",
+  "description": "Schwere Güterzug-Dampflokomotive Baureihe 44 0104 mit Ölfeuerung der Deutschen Reichsbahn, Epoche IV.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

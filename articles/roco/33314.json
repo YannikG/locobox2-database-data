@@ -9,7 +9,7 @@
     "country": "DD",
     "operator": "DR",
     "type": "V 60 K",
-    "number": null,
+    "number": "4801",
     "livery": null,
     "scale": "H0e",
     "electricSystem": "DC-Analog",
@@ -17,7 +17,7 @@
     "era": "III-IV",
     "minRadiusMm": 200
   },
-  "description": "Diesellokomotive V 60 K der Deutschen Reichsbahn, Epoche III-IV.",
+  "description": "Diesellokomotive V 60 K 4801 der Deutschen Reichsbahn, Epoche III-IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

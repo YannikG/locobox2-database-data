@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "Rh 2043",
-    "number": null,
+    "number": "022",
     "livery": "Valousek",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 182,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive Reihe 2043 der Österreichischen Bundesbahnen. Ausführung im „Valousek“-Design ‒ verkehrsrot mit achatgrauer Bauchbinde, Epoche V.",
+  "description": "Diesellokomotive Reihe 2043 022 der Österreichischen Bundesbahnen. Ausführung im „Valousek“-Design ‒ verkehrsrot mit achatgrauer Bauchbinde, Epoche V.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
