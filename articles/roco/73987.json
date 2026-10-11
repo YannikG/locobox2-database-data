@@ -10,7 +10,7 @@
     "operator": "MRCE",
     "type": "193",
     "number": "875-2",
-    "livery": "TX Logistik",
+    "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241865.jpg"
   },
-  "updatedAt": "2026-10-11T11:12:31Z"
+  "updatedAt": "2026-10-11T11:12:40Z"
 }
