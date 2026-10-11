@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33273",
+  "manufacturer": "Roco",
+  "articleNumber": "33273",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "NÖVOG",
+    "type": "Mh.4",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "VI",
+    "minRadiusMm": 261
+  },
+  "description": "Schmalspur-Dampflokomotive Mh.4 der NÖVOG (Digital/Sound).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-h0e-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/33273-h0e-dampflokomotive-mh4-novog.html",
+    "notes": "H0e-Katalog 2019; Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240838.jpg"
+  },
+  "updatedAt": "2026-10-11T10:20:08Z"
+}

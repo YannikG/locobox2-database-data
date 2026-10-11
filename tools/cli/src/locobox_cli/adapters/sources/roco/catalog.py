@@ -10,17 +10,20 @@ from locobox_cli.domain.queue import QueueDocument, QueueEntry
 from locobox_cli.domain.text import swiss_ss
 
 # TT/H0 Neuheiten catalogs: product title then SKU + DC/DCC, or older «Art. Nr.:».
+# Section headers only (not prose like «Diesellokomotiven der Baureihe …»).
 _SECTION_LOCO = re.compile(
     r"^\s*(?:H0\s+)?"
     r"(Dampflokomotiven|Elektrolokomotiven|Diesellokomotiven|"
-    r"Dampf-\s*&\s*Elektrolokomotiven)\b",
+    r"Dampf-\s*&\s*Elektrolokomotiven)"
+    r"(?:\s*/\s*.{0,80})?\s*$",
     re.I,
 )
 _SECTION_OTHER = re.compile(
     r"^\s*(?:H0\s+)?"
     r"(Personenwagen|Güterwagen|Startsets|COLLECTOR'?S?\s*EDITION|"
     r"Was finde ich wo|Impressum|Reisezugwagen|Beiwagen|Railjet|"
-    r"Passenger coaches|Goods wagons)\b",
+    r"Passenger coaches|Goods wagons)"
+    r"(?:\s*/\s*.{0,80})?\s*$",
     re.I,
 )
 _TITLE_LOCO = re.compile(
@@ -41,6 +44,8 @@ _TITLE_NON_LOCO = re.compile(
 _SKU_DC = re.compile(r"(?<!\d)(\d{7})\s+(DC|DCC)\b")
 # Older H0 catalogs (e.g. Winterneuheiten 2018/19): «Art. Nr.: 72016»
 _SKU_ART_NR = re.compile(r"Art\.\s*Nr\.:\s*(\d{5,7})\b", re.I)
+# H0e year catalogs: SKU + decoder count «33298  4/1» or «33253  3/0»
+_SKU_DECODER_FRAC = re.compile(r"(?<!\d)(\d{5,7})\s+(\d/\d)\b")
 # Wagon / set / trailer families that appear next to loco pages in TT catalogs.
 _NON_LOCO_PREFIXES = ("628", "629", "408", "348", "669", "778", "779", "614", "641", "664", "671")
 _LOCO_PREFIXES = ("718", "719", "738", "739", "758", "759")
@@ -130,6 +135,9 @@ def extract_roco_catalog_rows(
 
         sku_hits: list[str] = [m.group(1) for m in _SKU_DC.finditer(line)]
         sku_hits.extend(m.group(1) for m in _SKU_ART_NR.finditer(line))
+        sku_hits.extend(m.group(1) for m in _SKU_DECODER_FRAC.finditer(line))
+        # Deduplicate while preserving order (dual SKUs on one H0e page).
+        sku_hits = list(dict.fromkeys(sku_hits))
         for art in sku_hits:
             if art in seen:
                 continue
