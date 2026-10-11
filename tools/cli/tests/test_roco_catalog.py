@@ -46,3 +46,23 @@ def test_extract_art_nr_winter_catalog_locomotives() -> None:
     by_art = {r.article: r for r in rows}
     assert "421" in by_art["73256"].line_context
     assert "BR 170" in by_art["73224"].line_context
+
+
+H0E = Path(__file__).parent / "fixtures" / "roco_h0e_2019_catalog_snippet.txt"
+
+
+def test_extract_h0e_decoder_frac_skus() -> None:
+    rows = extract_roco_catalog_rows(H0E.read_text(encoding="utf-8"))
+    arts = [r.article for r in rows]
+    assert "33298" in arts
+    assert "33299" in arts
+    assert "33300" in arts
+    assert "33301" in arts
+    assert "33272" in arts
+    assert "33273" in arts
+    assert "33253" in arts
+    assert "33204" in arts  # second SKU on dual loco page
+    assert "33238" in arts
+    assert "34031" not in arts
+    assert "34030" not in arts
+    assert "34060" not in arts

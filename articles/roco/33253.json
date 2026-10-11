@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33253",
+  "manufacturer": "Roco",
+  "articleNumber": "33253",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 99",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "III-IV",
+    "minRadiusMm": 228
+  },
+  "description": "Schmalspurdampflokomotive BR 99 (HF110C) der Deutschen Reichsbahn.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-h0e-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/33253-schmalspurdampflokomotive-br-99-dr.html",
+    "notes": "H0e-Katalog 2019; Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240285.jpg"
+  },
+  "updatedAt": "2026-10-11T10:20:08Z"
+}
