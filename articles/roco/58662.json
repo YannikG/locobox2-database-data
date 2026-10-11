@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Ae 610 500-1",
-    "number": null,
+    "type": "Ae 610",
+    "number": "500-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236913.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:02:02Z"
 }
