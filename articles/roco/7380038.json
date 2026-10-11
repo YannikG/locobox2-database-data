@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "CZ",
-    "operator": "CD",
-    "type": "753 604-8",
-    "number": null,
-    "livery": null,
+    "operator": "CZ LOKO",
+    "type": "753",
+    "number": "604-8",
+    "livery": "CZ LOKO rot/grau",
     "scale": "TT",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
@@ -21,7 +21,7 @@
     "luepMm": 138,
     "minRadiusMm": 286
   },
-  "description": "Diesellokomotive 753 604 der CZ LOKO.■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Mit beiliegenden Bahnräumern in geschlossener Form zur vorbildgetreuen VitrinendarstellungCZ LOKO ist ein tschechisches Unternehmen mit Sitz in Česká Třebová. Es ist auf die Reparatur, Herstellung und Modernisierung von Schienenfahrzeugen spezialisiert. 2013 stellte CZ LOKO die EffiLiner 1600-Lokomotive 753 604-8 fertig. Die in den rot-grauen Farben von CZ LOKO lackierte Lokomotive wurde anschliessend zu Vorführzwecken eingesetzt.",
+  "description": "Diesellokomotive 753 604-8 von CZ LOKO in rot-grauer Vorführlackierung.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270058.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:38:03Z"
 }

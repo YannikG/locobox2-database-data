@@ -11,8 +11,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "112 276-1",
-    "number": null,
+    "type": "112",
+    "number": "276-1",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 116,
     "minRadiusMm": 267
   },
-  "description": "Diesellokomotive 112 276 der Deutschen Reichsbahn.■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Freistehende, filigrane Griffstangen■ Beheimatung Rbd Greifswald, Bw Stralsund■ Im Digitalbetrieb mit schaltbarem Rangierlicht (beidseitig 3x weiss) und schaltbarem Spitzen-/SchlusslichtZu Versuchszwecken erhielten im Jahre 1972 einige wenige Lokomotiven der Baureihe 110 einen stärkeren, nun 1.200 PS starken, Dieselmotor. Dies war notwendig, um die Lokomotiven auch im Schnellzugverkehr einsetzen zu können. Weitere Bauteile wurden bei den Versuchslokomotiven ebenfalls angepasst. Aufgrund der guten Testergebnisse wurden im Reichsbahnausbesserungswerk Stendal insgesamt fast 500 Lokomotiven zur stärkeren Baureihe 112 umgebaut.",
+  "description": "Diesellokomotive 112 276-1 der DR, Beheimatung Bw Stralsund.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269729.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

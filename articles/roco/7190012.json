@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "CZ",
+    "country": "CS",
     "operator": "CSD",
-    "type": "455 244",
-    "number": null,
+    "type": "455",
+    "number": "244",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 115,
     "minRadiusMm": 286
   },
-  "description": "Dampflokomotive 455 244 der Tschechoslowakischen Staatsbahnen.Formvariante!■ Ausführung mit Zweilicht-Spitzenbeleuchtung■ Markanter Stern an der Rauchkammertür■ Freistehende Leitungen■ Lang ausgeschnittene Wasserkästen■ Im Digitalbetrieb mit schaltbarer FührerstandsbeleuchtungDie CSD-Reihe 455.2 bezeichnete ehemalige deutsche Dampflokomotiven der DRG-Baureihe 86, die nach dem Zweiten Weltkrieg in der Tschechoslowakei verblieben und von den CSD übernommen wurden. Es handelte sich um Tenderlokomotiven mit der Achsfolge 1’D1’, die ursprünglich für Nebenbahnen, Güterzüge und gemischte Dienste entwickelt worden waren. Bei den CSD liefen diese Maschinen ab 1945 als Reihe 455.2; insgesamt waren es etwa 26 Lokomotiven.",
+  "description": "Dampflokomotive 455 244 der CSD. Formvariante mit Zweilicht-Spitzenbeleuchtung und Stern an der Rauchkammertür.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270033.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

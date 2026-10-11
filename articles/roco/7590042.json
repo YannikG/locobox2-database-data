@@ -10,9 +10,9 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Privatbahn",
-    "type": "145 040-2",
-    "number": null,
+    "operator": "TRI",
+    "type": "145",
+    "number": "040-2",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 145 040 der TRI Train Rental GmbH.■ Auffällige Lackierung■ Einsatz im Reisezugverkehr■ Mehrfarbig gestaltete Führerstandsrückwand und Bedienpult■ Im Digitalbetrieb mit schaltbarem Spitzen-/SchlusslichtDie Elektrolokomotive der Baureihe 145 wurde ab Ende der 1990er-Jahre von ADtranz (später Bombardier Transportation) für den Güterverkehr in Deutschland entwickelt. Sie gehört zur ersten Generation der modularen TRAXX-Plattform.Die 145 040-2 von TRI entspricht der frühen TRAXX F140 AC1. Zunächst für DB Cargo eingesetzt, wurde sie später mit dem „Nahverkehrspaket“ für Expo-2000-Leistungen versehen. Ab 2018 war sie Teil der RBH-Flotte und 2024 an TRI verkauft. Seit 2025 wird die Lok im TRI-Design vor deren Reisezügen eingesetzt.",
+  "description": "Elektrolokomotive 145 040-2 der TRI Train Rental.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270042.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:23Z"
 }

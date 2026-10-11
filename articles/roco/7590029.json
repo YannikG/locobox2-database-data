@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB-AG",
-    "type": "185 142-7",
-    "number": null,
-    "livery": null,
+    "operator": "DB AG",
+    "type": "185",
+    "number": "142-7",
+    "livery": "Edelweiss",
     "scale": "TT",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 185 142 der Deutschen Bahn.■ Edelweiss-Design■ Mit detaillierter Dachgestaltung■ Im Digitalbetrieb mit schaltbarem Spitzen-/SchlusslichtDie TRAXX AC1 ist eine überwiegend für den Güterverkehr entwickelte E-Lok-Baureihe. Die Bezeichnung TRAXX steht für „Transnational Railway Applications with eXtreme fleXibility“. Die Baureihe 185.1, direkt abgeleitet von der Baureihe 145 nun in geänderter Bauart und Baureihenbezeichnung, war jetzt für beide in Europa üblichen Wechselspannungssysteme 15 kV/16 2/3 Hz und 25 kV/50 Hz einsetzbar. Bei einem Gewicht von 84 t leistet sie 5,6 MW Dauerleistung und ist für 140 km/h zugelassen. Für grenzüberschreitende Einsätze wurden die Lokomotiven mit verschiedenen Länderpaketen ausgerüstet. 65 Loks (185 085 – 185 149) wurden mit dem Länderpaket Schweiz geliefert. Ab Mai 2007 war 185 142 im auffälligen Edelweiss-Design im Einsatz.",
+  "description": "Elektrolokomotive 185 142-7 der DB AG im Edelweiss-Design.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270070.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:30Z"
 }

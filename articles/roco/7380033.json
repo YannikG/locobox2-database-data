@@ -10,9 +10,9 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Privatbahn",
-    "type": "V 300 005",
-    "number": null,
+    "operator": "SBW",
+    "type": "V 300",
+    "number": "005",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Analog",
@@ -21,7 +21,7 @@
     "luepMm": 174,
     "minRadiusMm": 267
   },
-  "description": "Diesellokomotive V 300 005 der Starkenberger Güterlogistik.■ Mit mehrfarbig gestalteten Führerstands-Rückwänden■ Zugkräftiges, betriebssicheres Modell für vorbildgerecht lange ZügeDie Starkenberger Güterlogistik GmbH mit Sitz in Starkenberg ist ein Dienstleister für Transportaufgaben der Bahnlogistik. Sie verfügt über einen Fuhrpark mit Lokomotiven und Güterwagen. Unter anderem sind auch umgebaute Diesellokomotiven der Baureihe 232, mit Caterpillar-Sechszylinder-Motoren des Typs 3606, im Bestand.",
+  "description": "Diesellokomotive V 300 005 der SBW (Starkenberger Güterlogistik), Umbau aus Baureihe 232.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269734.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:38:03Z"
 }

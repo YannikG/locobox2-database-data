@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Privatbahn",
-    "type": "749 162-4",
-    "number": null,
+    "country": "CZ",
+    "operator": "IDS Cargo",
+    "type": "749",
+    "number": "162-4",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 138,
     "minRadiusMm": 286
   },
-  "description": "Diesellokomotive 749 162 der IDS Cargo.Formvariante!■ Variante der 1. Serie mit gesickten Seitenwänden unter den Maschinenraumfenstern■ Mit mehrfarbig gestalteter Führerstandsrückwand■ Mit beiliegenden Bahnräumern in geschlossener Form zur vorbildgetreuenVitrinendarstellung■ Im Digitalbetrieb mit schaltbarem Spitzen-/SchlusslichtIDS CARGO a.s. ist Teil der IDS-Baukonzern-Holding. Das Unternehmen wurde vor 15 Jahren gegründet und ist hauptsächlich im Schienengüterverkehr tätig. Innerhalb weniger Jahre hat sich das Unternehmen zu einem Unternehmen mit 150 Mitarbeitern entwickelt. In diesem Geschäftsbereich nimmt IDS CARGO eine herausragende Stellung unter nationalen und multinationalen Unternehmen ein.",
+  "description": "Diesellokomotive 749 162-4 der IDS Cargo, Formvariante 1. Serie mit gesickten Seitenwänden.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270040.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

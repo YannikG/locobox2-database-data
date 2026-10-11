@@ -11,8 +11,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "120 050-0",
-    "number": null,
+    "type": "120",
+    "number": "050-0",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Analog",
@@ -21,7 +21,7 @@
     "luepMm": 146,
     "minRadiusMm": 267
   },
-  "description": "Diesellokomotive 120 050 der Deutschen Reichsbahn.■ Lackierung mit Ausbesserungsflecken■ Betriebszustand ab Mai 1985 nach I6 vom RAW Cottbus■ Ausführung mit Meininger Schalldämpfer■ Dreiteilige Kühler-Jalousie■ Hochgesetzte Übergangsleiter über der Kühlkammer■ Beheimatung Rbd Erfurt, Bw GeraUm den Traktionswechsel zu beschleunigen, beschaffte die Deutsche Reichsbahn (DR) von 1966 bis 1975 aus der Sowjetunion insgesamt 378 Lokomotiven der Baureihe V 200 (später BR 120). Da den Lokomotiven ab Werk eine Zugheizung fehlte, wurden sie überwiegend im Güterzugverkehr eingesetzt. Aufgrund des lauten Motorgeräusches bürgerte sich für die Lokomotiven schnell der Name „Taigatrommel“ ein.",
+  "description": "Diesellokomotive 120 050-0 der DR («Taigatrommel») mit Ausbesserungsflecken, Bw Gera.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269726.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

@@ -10,9 +10,9 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB-AG",
-    "type": "232 469-7",
-    "number": null,
+    "operator": "DB AG",
+    "type": "232",
+    "number": "469-7",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 174,
     "minRadiusMm": 267
   },
-  "description": "Diesellokomotive Baureihe 232 der Deutschen Bahn.■ Ausführung im aktuellen Betriebszustand■ Mit mehrfarbig gestalteter Führerstandsrückwand■ Zugkräftiges, betriebssicheres Modell für vorbildgerecht lange Züge■ Im Digitalbetrieb mit schaltbarem Spitzen-/SchlusslichtAus den Erfahrungen mit den Baureihen 130 und 131 wurde die Konstruktion der Baureihe 132 abgeleitet. Von der optimierten Lokomotive mit elektrischer Heizeinrichtung beschaffte die DR 709 Maschinen von der Lokomotivfabrik Woroschilowgrad aus der Sowjetunion. Die Höchstgeschwindigkeit wurde auf 120 km/h festgelegt, die Leistung der vielseitig verwendbaren Maschine betrug 3.000 PS. Mit der Zusammenführung der Deutschen Reichsbahn mit der Deutschen Bundesbahn zur Deutschen Bahn AG nach der Wiedervereinigung wurden die Diesellokomotiven der DR gemäss dem Baureihenschema der DB auf eine führende „2“ umgezeichnet.",
+  "description": "Diesellokomotive 232 469-7 der DB AG im aktuellen Betriebszustand.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269733.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:30Z"
 }

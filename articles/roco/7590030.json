@@ -11,8 +11,8 @@
   "model": {
     "country": "DE",
     "operator": "Captrain",
-    "type": "185 550-1",
-    "number": null,
+    "type": "185",
+    "number": "550-1",
     "livery": null,
     "scale": "TT",
     "electricSystem": "DC-Digital",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 185 550 der Captrain.■ Attraktive Captrain-Ausführung mit moderner Privatbahn-Beschriftung■ Mit detaillierter Dachgestaltung■ Grenzüberschreitender Einsatz im Güterverkehr■ Im Digitalbetrieb mit schaltbarem Spitzen-/SchlusslichtDie TRAXX AC1 ist eine überwiegend für den Güterverkehr entwickelte E-Lok-Baureihe. Die Bezeichnung TRAXX steht für „Transnational Railway Applications with eXtreme fleXibility“. Bei einem Gewicht von 84 t leistet sie 5,6 MW Dauerleistung und ist für 140 km/h zugelassen.Die 185 550 wurde 2005 an Rail4Chem geliefert. Seit 2010 steht sie im Eigentum der Captrain Deutschland GmbH und kam unter anderem bei Unternehmen wie RBB, BCB und BLS Cargo zum Einsatz. Seit Ende 2012 trägt die Lok das typische Captrain-Design und steht für den privaten europäischen Schienengüterverkehr.",
+  "description": "Elektrolokomotive 185 550-1 der Captrain.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270072.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

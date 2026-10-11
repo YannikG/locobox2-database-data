@@ -11,9 +11,9 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "261 634-0",
-    "number": null,
-    "livery": null,
+    "type": "261",
+    "number": "634-0",
+    "livery": "ozeanblau/beige",
     "scale": "TT",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
@@ -21,7 +21,7 @@
     "luepMm": 87,
     "minRadiusMm": 286
   },
-  "description": "Diesellokomotive 261 634 der Deutschen Bundesbahn.■ Fein detailliertes Modell in ozeanblau/beiger Lackierung■ Freier Führerhausdurchblick■ Separat angesetzte Griffstangen und RangiergeländerUm den Mangel an leistungsfähigen Rangierlokomotiven zu beheben, beschaffte die Deutsche Bundesbahn ab Mitte der 1950er Jahre die Lokomotiven der Baureihe V 60. Der Unterschied zwischen den Baureihen V 60 (260) und V 60.1 (261) besteht in der höheren Reibungslast der BR 261. Diese auf nahezu allen deutschen Rangierbahnhöfen anzutreffenden Maschinen erreichten im Rangiergang eine Höchstgeschwindigkeit von 30 km/h, im Streckengang 60 km/h. 1975 bestimmten die Farben Ozeanblau/Beige das äussere Bild der Lokomotiven.",
+  "description": "Diesellokomotive 261 634-0 der DB in ozeanblau/beige.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270061.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:13Z"
 }

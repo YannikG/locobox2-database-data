@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "DE",
-    "operator": "DB-AG",
-    "type": "146 013-8",
-    "number": null,
-    "livery": null,
+    "operator": "DB AG",
+    "type": "146",
+    "number": "013-8",
+    "livery": "Felsenbühne Rathen",
     "scale": "TT",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 146 013 der Deutschen Bahn.■ Ausführung im „Felsenbühne Rathen“-Design■ Einsatz im Reisezugverkehr■ Mehrfarbig gestaltete Führerstandsrückwand und BedienpultDie DB Regio benötigte im Nahverkehr trotz aller Umstellungsbemühungen auf Triebwagen dringend moderne, schnelllaufende E-Loks für den Einsatz vor Doppelstockzügen bis 160 km/h. Daher gab man beim Hersteller Bombardier eine spezielle Variante der BR 145 für den Nahverkehr in Auftrag, die als Baureihe 146 eingereiht wurde. Grösster Unterschied zur BR 145 ist der für 160 km/h zugelassene Hohlwellen-Antrieb anstelle des Tatzlager-Antriebs und der unübersehbare Zugzielanzeiger. In den Jahren 2001 bis 2002 wurden insgesamt 31 Loks an DB Regio geliefert. Es folgten später noch zwei weitere Bauserien.",
+  "description": "Elektrolokomotive 146 013-8 der DB AG im Design «Felsenbühne Rathen».",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270043.jpg"
   },
-  "updatedAt": "2026-10-11T07:03:17Z"
+  "updatedAt": "2026-10-11T07:36:30Z"
 }
