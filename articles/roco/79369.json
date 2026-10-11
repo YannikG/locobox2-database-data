@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB AG",
-    "type": "151 070-0",
-    "number": null,
+    "type": "BR 151",
+    "number": "070-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 151 070 der Deutschen Bahn AG, Geschäftsbereich Railion.■ Räder mit niedrigen Spurkränzen■ Einsatz im schweren Güterverkehr■ Im Digitalbetrieb schaltbare FührerstandsbeleuchtungFür den schweren Güterzugdienst stellte die DB ab 1973 über 100 dieser Maschinen in Dienst. Mit einer Höchstgeschwindigkeit von 120 km/h und einer Leistung von 5982 kW war die BR 151 eine der stärksten Güterzugloks der Deutschen Bundesbahn.",
+  "description": "Elektrolokomotive 151 070 der Deutschen Bahn AG, Geschäftsbereich Railion, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

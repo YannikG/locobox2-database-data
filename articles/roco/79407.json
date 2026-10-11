@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "Railpool",
-    "type": "151 062-7",
-    "number": null,
+    "type": "BR 151",
+    "number": "062-7",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 151 062 der Railpool.■ Modell exklusiv bei ROCO erhältlich■ Viele angesetzte Steckteile, teilweise in Ätztechnik ausgeführt ■ Radsätze mit niedrigen Spurkränzen■ Mit schaltbarer FührerstandsbeleuchtungDas Vorbild leistet 5.962 kW (8.100 PS), wiegt 118 Tonnen und besitzt eine Höchstgeschwindigkeit von 120 km/h. Insgesamt wurden zwischen 1972 und 1978 170 Exemplare der schweren Güterzuglok geliefert. Die DB Cargo AG verkauft 200 Lokomotiven an ein Konsortium um Railpool und Toshiba. Nach Angaben des DB-Konzerns werden u. a. die Elektrolokomotiven der Baureihen 151 nach dem Verkauf zur Vermietung angeboten, was auch der DB Cargo die Möglichkeit gibt, je nach Auftragslage bis zu 100 Loks zurück zu leasen. Die weiteren Loks sollen auf dem freien Markt angeboten werden.",
+  "description": "Elektrolokomotive 151 062 der Railpool, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

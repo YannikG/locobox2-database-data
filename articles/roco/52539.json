@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "212 053-3",
-    "number": null,
+    "type": "BR 212",
+    "number": "053-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 141,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive 212 053 der Deutschen Bundesbahn.■ Neue Betriebsnummer■ Passende Lok zum Kranzug■ Mit PluX22-Sounddecoder und LED-Spitzenlicht■ Im Digitalbetrieb mit schaltbarem Rangier-, Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtIn den 1950er Jahren entwickelte die Deutsche Bundesbahn zur Erneuerung des Fahrzeugparks ein Diesellok-Typenprogramm. Das wesentliche Ziel war die Ablösung der Dampftraktion auf dem noch recht umfangreichen Nebenstreckennetz. Für den gemischten Nebenbahndienst wurde die einmotorige Baureihe V 100 mit 1100-PS-Motoren entwickelt. Parallel zu diesen V 100.10 wurden von 1962 bis 1965 insgesamt 380 Maschinen mit 1350-PS-Motor als V 100.20 geliefert. Mit Einführung der Computernummer wurde die Baureihenbezeichnung der stärkeren Maschinen auf 212 geändert. Nach dem klassischen Rot erhielten zahlreiche Maschinen ab 1974/75 ein Farbkleid in ozeanblau/beige.Nach Stilllegung zahlreicher Nebenbahnen schrumpfte auch das klassische Einsatzgebiet der V 100. Nach wie vor standen vor allem Nahverkehrs- und Übergabezüge auf dem Einsatzprogramm. Einige Maschinen waren im Bauzugdienst anzutreffen. Zahlreiche Lokomotiven fanden neue Eigentümer, unter anderem bei NE-Bahnen und Gleisbaufirmen im In- und Ausland.",
+  "description": "Diesellokomotive 212 053 der Deutschen Bundesbahn, Epoche IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "103 195-4",
-    "number": null,
+    "type": "BR 103",
+    "number": "195-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 103 195 der Deutschen Bundesbahn.■ Ausführung mit kurzem Führerstand und Scherenstromabnehmer■ Mit vorbildgerechtem Sound■ Passende Lok zum Autoreisezug „Christoforus-Express“, Art.-Nr. 74095, 74096, 74097■ Maschinenraumbeleuchtung schaltbar■ Z21 Führerstand verfügbar! In den 1960er Jahren entstand mit der Baureihe E 03 die bis dahin stärkste Elektrolokomotive für den Einsatz im Reisezugverkehr bei der Deutschen Bundesbahn. Von 1970 bis 1974 wurden insgesamt 145 Serienlokomotiven gebaut und offiziell als Baureihe 103.1 bezeichnet. Optisch gelten die 103er bis heute als eine der formschönsten Elektrolokomotiven. Die Lokomotiven wurden bis zur Betriebsnummer 215 mit Scherenstromabnehmer ausgeliefert.",
+  "description": "Elektrolokomotive 103 195 der Deutschen Bundesbahn, Epoche IV.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

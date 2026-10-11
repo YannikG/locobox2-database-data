@@ -8,9 +8,9 @@
   "model": {
     "country": "DE",
     "operator": "alex",
-    "type": "223 013-4",
-    "number": null,
-    "livery": null,
+    "type": "BR 223",
+    "number": "013-4",
+    "livery": "bodo",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
@@ -18,7 +18,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive 223 013 der Länderbahn GmbH im „bodo“-Werbedesign.■ Feine Dachlüfter mit darunter liegendem Lüfterrad■ Farblich abgesetzte Bremsscheiben■ Beigelegte Aussenspiegel für ein- und ausgeklappte Stellung■ Extra angesetzte Griffstangen, Scheibenwischer und UIC-DosenAufwendig bedrucktes Modell im Erscheinungsbild des „bodo“ ‒ das ist ein Verkehrsverbund der die Angebote von Bus & Bahn in den Landkreisen Bodenseekreis, Ravensburg und Lindau verbindet.Die Länderbahn ist ein privates Eisenbahnverkehrsunternehmen das Verkehrsdienstleistungen im Personennahverkehr in Deutschland und Tschechien anbietet, unter anderen mit der Produktmarke „alex“. Seit 2011 gehört die Länderbahn zur NETINERA Deutschland GmbH.",
+  "description": "Diesellokomotive 223 013 der Länderbahn GmbH im „bodo“-Werbedesign, Epoche VI.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

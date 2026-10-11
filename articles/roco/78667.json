@@ -8,9 +8,9 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1116 200-7 „Demokratie in Bewegung“",
-    "number": null,
-    "livery": null,
+    "type": "Rh 1116",
+    "number": "200-7",
+    "livery": "Demokratie in Bewegung",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 1116 200 der Österreichischen Bundesbahnen in „Demokratie in Bewegung“ Werbe-Lackierung. Das Modell kann mit dem beiliegenden Kupplungsadapter auch vor den Railjet-Garnituren eingesetzt werden, jedoch ohne elektrische Verbindung zwischen Lok und Wagenzug.■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Z21-Führerstand verfügbar■ Lizenziertes ÖBB-ModellDie ÖBB-Lok „Demokratie in Bewegung“ im Parlamentsdesign ist auf den Schienen in ganz Österreich und dem benachbarten Ausland unterwegs. Dem Parlament und den ÖBB ist es ein Anliegen, Demokratie zu fördern und zu erhalten, was mit dem Slogan „Demokratie in Bewegung“  transportiert wird. Dieser macht auf das gleichnamige Bildungsangebot des Parlaments aufmerksam. Die Lokomotive wird überwiegend vor dem Railjet eingesetzt.",
+  "description": "Elektrolokomotive 1116 200 der Österreichischen Bundesbahnen in „Demokratie in Bewegung“ Werbe-Lackierung, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

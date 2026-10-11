@@ -8,9 +8,9 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "460 058-1 „Circus Knie“",
-    "number": null,
-    "livery": null,
+    "type": "Re 460",
+    "number": "058-1",
+    "livery": "Circus Knie",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 212,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 460 058 der Schweizerischen Bundesbahnen im „Circus Knie“-Werbedesign.■ Fein detaillierter Faiveley Stromabnehmer■ In aktueller Ausführung mit extra angesetztem SBB-Logo sowie zusätzlicher Griffstange an der FrontAnlässlich des 100-jährigen Jubiläums des Schweizer National-Circus Knie wird von ROCO eine Sonderedition mit Lokomotiven und Wagen als „Circus Knie-Edition“ gefertigt.",
+  "description": "Elektrolokomotive 460 058 der Schweizerischen Bundesbahnen im „Circus Knie“-Werbedesign, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

@@ -10,7 +10,7 @@
     "operator": "DB AG",
     "type": "BR 193",
     "number": null,
-    "livery": null,
+    "livery": "I am European",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive Baureihe 193 der Deutschen Bahn AG.■ Modell exklusiv bei ROCO erhältlich■ DB Cargo Lok im Europa-Design ‒ „I am European“■ Mit vorbildgerechter niedriger Ausführung des Bedienpults am Führerstand■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Sound in Kooperation mit LeosoundlabMit der Anschaffung von mehrsystemfähigen Lokomotiven unterstreicht DB Cargo die Bedeutung des Schienengüterverkehrs in Europa und gestaltet einige Vectrons im Europa-Design. 100 Loks der Baureihe 193 Vectron MS (BR 193) werden von Siemens in verschiedenen Länderpaketvarianten durch DB Cargo angeschafft. Die Lokomotiven verfügen über eine Leistung von 6,4 Megawatt und eine Höchstgeschwindigkeit von 160 km/h, sie sind mit den erforderlichen nationalen Zugsicherungssystemen sowie mit dem Europäischen Zugsicherungssystem ETCS ausgestattet.",
+  "description": "Elektrolokomotive Baureihe 193 der Deutschen Bahn AG. DB Cargo Lok im Europa-Design ‒ „I am European“, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

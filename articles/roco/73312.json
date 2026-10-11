@@ -7,9 +7,9 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "EINSTELLER",
-    "type": "193 813-3",
-    "number": null,
+    "operator": "Flixtrain",
+    "type": "BR 193",
+    "number": "813-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 813 des Flixtrain in grüner Lackierung.■ Vorbild: Ausführung für Wechselstromnetz■ Dachausrüstung mit zwei Stromabnehmern■ Vorbildgerechte Lackierung und Beschriftung■ Mit kurzer Regenrinne■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenFlixMobility ist ein Mobilitätsanbieter und bietet seit 2013 unter der Marke FlixBus Fernbusreisen an. Die eigens gegründete Tochtergesellschaft Flixtrain erhielt im August 2017 eine Lizenz als Eisenbahnverkehrsunternehmen und nahm zunächst die Verbindung Berlin – Stuttgart auf. Seit 2018 gibt es eine Zugverbindung zwischen Hamburg und Köln. Seit Mai 2019 wird die Strecke Berlin – Köln bedient. Im Fernverkehr ist das Unternehmen, abgesehen von ausländischen Bahngesellschaften, der einzige Konkurrent der Deutschen Bahn. Flixtrain besitzt keine eigenen Reisezugwagen oder Lokomotiven. Stattdessen werden private Eisenbahnverkehrsunternehmen beauftragt, die neben den Fahrzeugen auch das Zugpersonal stellen. Das Wagenmaterial dafür stammt unter anderem aus ehemaligen Reisezugwagen der Deutschen Bahn. Die von Railpool angemietete Vectron-Lokomotive wird seit Anfang 2019 zur Beförderung der Züge eingesetzt. Ausserdem wird der „Flixtrain-Vectron“ auch zur Bespannung von Bahntouristikexpress-Sonderzügen von Norddeutschland nach Österreich verwendet.",
+  "description": "Elektrolokomotive 193 813 des Flixtrain in grüner Lackierung, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

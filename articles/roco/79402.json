@@ -8,9 +8,9 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "420 294-1 „Circus Knie“",
-    "number": null,
-    "livery": null,
+    "type": "Re 420",
+    "number": "294-1",
+    "livery": "Circus Knie",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 177,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 420 294 der Schweizerischen Bundesbahnen im „Circus Knie“-Werbedesign.■ Feine, separat angesetzte Lüftungsgitter und Scheibenwischer aus Ätzblech■ Ausführung mit nachgerüsteter Klimaanlage■ Lichtfunktionen nach Schweizer Vorbild■ Z21-Führerstand verfügbarAnlässlich des 100-jährigen Jubiläums des Schweizer National-Circus Knie wird von ROCO eine Sonderedition mit Lokomotiven und Wagen als „Circus Knie-Edition“ gefertigt.",
+  "description": "Elektrolokomotive 420 294 der Schweizerischen Bundesbahnen im „Circus Knie“-Werbedesign, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

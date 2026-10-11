@@ -6,10 +6,10 @@
   "releaseDate": "2020",
   "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "EINSTELLER",
-    "type": "193 623-6",
-    "number": null,
+    "country": "NL",
+    "operator": "Rail Force One",
+    "type": "BR 193",
+    "number": "623-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 623 der Rail Force One.■ Modell exklusiv bei ROCO erhältlich■ Aufwendige Bedruckung■ Mit langer Regenrinne■ Einsatz im internationalen Güterverkehr■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ In Kooperation mit Railcolor DesignDas niederländische Eisenbahnunternehmen Rail Force One hat eine Vectron Lokomotive in einem bemerkenswerten Design in Betrieb genommen. Das Aussehen der Lok ähnelt einem Hai. Die Maschine wird vor allem im Güterverkehr in den Niederlanden, Deutschland und Polen eingesetzt.",
+  "description": "Elektrolokomotive 193 623 der Rail Force One, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

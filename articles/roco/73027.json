@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DRG",
-    "type": "86 261",
-    "number": null,
+    "type": "BR 86",
+    "number": "261",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 160,
     "minRadiusMm": 358
   },
-  "description": "Dampflokomotive 86 261 der Deutschen Reichsbahn Gesellschaft.Formvariante!■ Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen■ Kurz ausgeschnittene Wasserkästen in geschweisster Ausführung■ Feine Metallradsätze■ Vorbildgerechtes 2-Spitzenlicht■ Mit schaltbarer Führerstandsbeleuchtung■ Vorbildgerechte Licht- und SoundfunktionenVon 1928 bis 1943 lieferten fast alle deutschen Lokomotivfabriken insgesamt 775 Maschinen dieser Baureihe an die Deutsche Reichsbahn Gesellschaft. Konstruktiv waren die 1000-PS-Loks für eine Geschwindigkeit von 70–80 km/h ausgelegt, womit sie neben ihrem Haupteinsatzgebiet der „Nebenbahn“ auch auf Haupt- und Zulaufstrecken einsetzbar waren.",
+  "description": "Dampflokomotive 86 261 der Deutschen Reichsbahn Gesellschaft, Epoche II.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

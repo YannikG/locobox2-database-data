@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "SZD",
-    "type": "M62 1616",
-    "number": null,
+    "type": "M62",
+    "number": "1616",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -17,7 +17,7 @@
     "era": "IV",
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive M62 1616 der Sowjetischen Eisenbahnen.■ Dachfunkantenne in Ätztechnik■ Hohe Betriebssicherheit und Zugkraft für lange ZügeGemäss den Regularien innerhalb des RGW (Rat für gegenseitige Wirtschaftshilfe) wurden von der Sowjetunion unter der Herstellerbezeichnung M62 zahlreiche sechsachsige Güterzuglokomotiven an viele Staaten geliefert. Lieferant war die Lokomotivfabrik „Oktoberrevolution“ in Lugansk, dass zu den grössten Werken in der Sowjetunion gehörte. Die ersten Prototypen erschienen 1964, ab 1965 begann die Serienlieferung. Die Lokomotiven mit einer Leistung von 1470 kW erreichten eine Höchstgeschwindigkeit von 100 km/h. Bis 1976 wurden insgesamt 723 Breitspurlokomotiven an die SZD geliefert.",
+  "description": "Diesellokomotive M62 1616 der Sowjetischen Eisenbahnen, Epoche IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

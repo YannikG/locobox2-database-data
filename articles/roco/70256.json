@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "50 2973",
-    "number": null,
+    "type": "BR 50",
+    "number": "2973",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 265,
     "minRadiusMm": 358
   },
-  "description": "Dampflokomotive 50 2973 der Deutschen Bundesbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ 3-domige Kesselausführung mit Witte-Windleitblechen■ Mit grossen Lampen auf der vorderen Pufferbohle■ Mit feinen Metallradsätzen und Treib- und Kuppelstangen aus Metallguss■ Passend zum Postzug, Art.-Nr. 74091Geplant als Ersatz für die preussische G 10 im Güterverkehr, entwickelte sich die BR 50 bis zum Ende der Dampflokzeit zur Universallokomotive. Von 1939 bis 1943 wurden insgesamt 3.164 Stück in 21 verschiedenen Lokomotivfabriken hergestellt. Nach 1945 verblieben über 2.000 Loks bei der Deutschen Bundesbahn und mussten zum Teil grössere Umbauten über sich ergehen lassen, wodurch eine Vielzahl von Varianten entstand. Die Maschinen erreichten eine Höchstgeschwindigkeit von 80 km/h, leisteten ca. 1.200 kW und wiesen eine Achslast von 15 t auf.",
+  "description": "Dampflokomotive 50 2973 der Deutschen Bundesbahn. Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok, Epoche III.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

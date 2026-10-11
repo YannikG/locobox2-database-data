@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 522307",
     "number": null,
-    "livery": null,
+    "livery": "En Voyage",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 201,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive BB 522307 der Französischen Staatseisenbahnen.■ Ausführung im aktuellen „En Voyage“-Design■ Feinst detailliertes Modell mit separat angesetzten Steckteilen■ Durchbrochene TrittblecheDie BB 22200 ist eine französische Elektrolokomotivbaureihe für den Einsatz sowohl auf dem mit 1,5 kV elektrifizierten Gleichstromnetz der SNCF als auch auf dem mit 25 kV 50 Hz elektrifizierten Wechselstromnetz. In den Jahren 1976 bis 1986 wurden von Alstom in sechs Bauserien insgesamt 205 Lokomotiven gebaut. Durch die Mehrsystemfähigkeit und die Auslegung als Universallokomotive kommen die BB 22200 auf nahezu allen normalspurigen elektrifizierten Strecken Frankreichs vor Güter- und Personenzügen zum Einsatz.",
+  "description": "Elektrolokomotive BB 522307 der Französischen Staatseisenbahnen. Ausführung im aktuellen „En Voyage“-Design, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

@@ -8,8 +8,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "02 0201-0",
-    "number": null,
+    "type": "BR 02",
+    "number": "0201-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 289,
     "minRadiusMm": 358
   },
-  "description": "Dampflokomotive 02 0201 der Deutschen Reichsbahn.■ Erstmals als Epoche-IV-Ausführung im Zustand der 1980er Jahre■ Wiederauflage des beliebten ROCO-Modells■ Metallräder in filigraner Ausführung■ Mit nur einem Generator auf der Rauchkammer■ Ohne Ölsteigleitung an der Tenderrückseite■ Mit Henning-SoundZur Erprobung neuer Reisezugwagen benötigte die Versuchsanstalt Halle eine weitere schnellfahrende Dampflok. Die neue Maschine 18 201 entstand aus der Schnellfahr-Tenderlokomotiven 61 002 und Teilen der Hochdruck-Versuchslok H 25 024. Als Dampferzeuger diente ein abgewandelter Neubaukessel der Baureihe 22 mit einer verlängerten Rauchkammer und Giesl-Ejektor. Zum exakten Einhalten der Geschwindigkeit bei schneller Fahrt stattete man die Maschine mit einer Gegendruckbremse aus. Schnelle Fahrt bedeutete bis zu 175 km/h, denn für diese Höchstgeschwindigkeit war die 18 201 zunächst ‒ später 180 km/h ‒ zugelassen, freilich nur vorwärts.1967 wurde eine Ölhauptfeuerung eingebaut. Mit Umstellung auf das neue System computergerechter Betriebsnummern bei der DR im Jahr 1970 wurde die Maschine als 02 0201-0 geführt. Den Status als Traditionslok hatte sie schon zu DDR-Zeiten erhalten. Oft kam sie schon in den 1980er Jahren zu Sonderzugehren, entweder auf Bestellung des DMV, oder ‒ devisenbringend ‒ für westliche Reiseveranstalter. 1985, zum 150-Jahr Jubiläum der deutschen Eisenbahnen, erhielt die Lok das erste Mal eine Ausreisegenehmigung in den Westen. Sie stellte damals eine der grossen Attraktionen auf der Nürnberger Ausstellung dar.",
+  "description": "Dampflokomotive 02 0201 der Deutschen Reichsbahn. Erstmals als Epoche-IV-Ausführung im Zustand der 1980er Jahre.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

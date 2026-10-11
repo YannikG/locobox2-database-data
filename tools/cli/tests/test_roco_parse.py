@@ -70,6 +70,21 @@ def test_title_longest_prefix() -> None:
     assert "nahverkehrs-steuerwagen" in cats2
 
 
+def test_title_h0e_hyphen_dampflokomotive() -> None:
+    typ, op, cats = _parse_title("33277 H0e-Dampflokomotive 399.02, ÖBB")
+    assert typ == "399.02"
+    assert op == "ÖBB"
+    assert "dampflokomotive" in cats
+
+
+def test_title_dieseltriebwagen_strips_beiwagen() -> None:
+    typ, _, cats = _parse_title(
+        "70372 Dieseltriebwagen Rh M 152.0 mit Beiwagen, CSD"
+    )
+    assert typ == "Rh M 152.0"
+    assert "dieseltriebwagen" in cats
+
+
 def test_parse_roco_pdp_fixture_schema_valid() -> None:
     html = FIXTURE.read_text(encoding="utf-8")
     art = parse_roco_pdp(

@@ -20,6 +20,8 @@ _TITLE_PREFIXES: tuple[str, ...] = tuple(
             "Schienennahverkehrstriebzug",
             "Nahverkehrs-Steuerwagen",
             "Elektrotriebzug",
+            "Dieseltriebwagen",
+            "Elektrotriebwagen",
             "Diesellokomotive",
             "Elektrolokomotive",
             "Dampflokomotive",
@@ -40,6 +42,12 @@ _TITLE_PREFIXES: tuple[str, ...] = tuple(
         key=len,
         reverse=True,
     )
+)
+
+# Shop titles often use «H0e-Dampflokomotive …» (scale glued with hyphen).
+_SCALE_TITLE_PREFIX = re.compile(
+    r"^(?:H0e|H0|TT|N|0|1|G)[-\s]+",
+    re.I,
 )
 
 _OPERATOR_COUNTRY = {
@@ -242,6 +250,7 @@ def _parse_title(title: str) -> tuple[str, Optional[str], list[str]]:
         head, op = t.split(",", 1)
         operator = op.strip() or None
         type_line = head.strip()
+    type_line = _SCALE_TITLE_PREFIX.sub("", type_line).strip()
     for pref in _TITLE_PREFIXES:
         if type_line.startswith(pref + " "):
             slug = _category_slug(pref)
@@ -249,6 +258,8 @@ def _parse_title(title: str) -> tuple[str, Optional[str], list[str]]:
                 cats.append(slug)
             type_line = type_line[len(pref) + 1 :].strip()
             break
+    # Set/trailer marketing does not belong in model.type.
+    type_line = re.sub(r"\s+mit\s+Beiwagen\b.*$", "", type_line, flags=re.I).strip()
     return type_line or "Unbekannt", operator, cats
 
 

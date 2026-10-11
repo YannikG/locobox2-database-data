@@ -10,7 +10,7 @@
     "operator": "DR",
     "type": "BR 106",
     "number": null,
-    "livery": null,
+    "livery": "Goldbroiler",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 125,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive Baureihe 106 der Deutschen Reichsbahn.Komplette Neukonstruktion 2020 der als \"Goldbroiler\" bekannten Lokomotive.■ Korrekte Nachbildung aller Details der BR 106■ Mit Regenschutzdach über den Seitenfenstern■ Frostschutzabdeckungen der Lüftergitter im offenen und geschlossenem Zustand montierbar■ Motorvorbauten aus Zinkdruckguss, daher mehr Eigengewicht und hohe Zugkraft■ Modell in fein detaillierter Ausführung mit vielen separat angesetzten Steckteilen■ Mit schaltbarer FührerstandsbeleuchtungIm Lauf der Entwicklung der Rangierlokomotive BR V 60 der Deutschen Reichsbahn (Ost) begann 1959 die Erprobung der ersten beiden Baumustermaschinen. Vor der Serienfertigung waren noch einige konstruktive Änderungen notwendig, die in einer weiteren Kleinserie von fünf Maschinen erprobt wurden. Von 1962 bis 1964 wurde die erste Serie mit 163 Lokomotiven von LKM Babelsberg an die DR abgeliefert. Noch während des Baus der ersten Hauptserie wurde ein Regenschutzdach über den Seitenfenstern montiert. Auch die Lokfronten der Vorbauten wurden leicht abgeändert. Im Gegensatz zu den ersten Maschinen, deren Vorbauten mit einer leicht um eine senkrechte Achse gekrümmten Ausführung und dadurch auf Konsolen montierte, vorstehende Lampen hatten, waren die neuen Vorbauten ab der Loknummer V 60 1053 bis auf die Eckrundungen gerade ausgeführt und die Lampen direkt auf der Front montiert. Aufgrund einer neuen Dienstvorschrift wurden DR-Rangierloks sukzessive im Zuge von Revisionen mit einem orange-gelben Anstrich versehen.",
+  "description": "Diesellokomotive Baureihe 106 der Deutschen Reichsbahn. Bekannt als „Goldbroiler“, Epoche IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

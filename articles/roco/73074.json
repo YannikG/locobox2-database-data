@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "110 148-4",
-    "number": null,
+    "type": "BR 110",
+    "number": "148-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 110 148 der Deutschen Bundesbahn in blauer Lackierung.■ Fein detailliertes Modell mit Einfachlampen■ Ausführung mit Klatte Lüftern und eckigem Maschinenraumfenster■ Silberne Griffstangen liegen dem Modell bei■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDie Baureihe 110 ist eine für die Deutsche Bundesbahn erstmals im Jahre 1952 gebaute Einheitselektrolokomotive für den Schnellzugverkehr. Sie setzte neue Massstäbe im E-Lokbau. Kennzeichen hierfür waren die hohe Leistung bei niedrigem Gewicht, die geringe Schadanfälligkeit und Wartungsintensität, sowie die Bedienungsfreundlichkeit. Die Baureihe 110 war lange Jahre die wichtigste Lokomotiv-Baureihe im bundesdeutschen Schnellzugverkehr.",
+  "description": "Elektrolokomotive 110 148 der Deutschen Bundesbahn in blauer Lackierung, Epoche IV.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

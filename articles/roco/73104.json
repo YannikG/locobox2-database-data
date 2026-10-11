@@ -7,10 +7,10 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "TX-Logistik",
-    "type": "193 555-0",
-    "number": null,
-    "livery": null,
+    "operator": "TX Logistik",
+    "type": "BR 193",
+    "number": "555-0",
+    "livery": "Offroad",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 555 der TX-Logistik.■ Modell exklusiv bei ROCO erhältlich■ Im auffälligen „Offroad“-Design■ Mit vorbildgerechtem Dach für den Einsatz als DAI-Vectron■ Mit langer Regenrinne■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Alpha Trains Lokomotive vermietet an TX Logistik■ In Kooperation mit Loc & MoreTX-Logistik wurde 1999 als privates Eisenbahnverkehrsunternehmen gegründet und verfügt über ein leistungsfähiges europäisches Netzwerk. Heute ist es eines der grössten Transportunternehmen für Schienengüterverkehr in Europa.",
+  "description": "Elektrolokomotive 193 555 der TX-Logistik. Im auffälligen „Offroad“-Design, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "151 036-1",
-    "number": null,
+    "type": "BR 151",
+    "number": "036-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 224,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 151 036 der Deutschen Bundesbahn.■ Räder mit niedrigen Spurkränzen■ Mit altem, orientrotem DB-LogoFür den schweren Güterzugdienst stellte die DB ab 1973 über 100 dieser Maschinen in Dienst. Bei der Entwicklung der BR 151 wurde zum Teil auf bei den Baureihen 110, 140, 150 und 103 bewährte Konstruktionen zurückgegriffen. Drei abnehmbare Hauben zwischen den Führerständen erleichtern den Ein- und Ausbau grösserer Ausrüstungsteile. Mit einer Höchstgeschwindigkeit von 120 km/h und einer Leistung von 5982 kW ist die 151 eine der stärksten Güterzugloks der DB. Das Vorbild wurde auch regelmässig in Österreich eingesetzt.",
+  "description": "Elektrolokomotive 151 036 der Deutschen Bundesbahn, Epoche IV.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

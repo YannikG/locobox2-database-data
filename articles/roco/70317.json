@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "086 400-9",
-    "number": null,
+    "type": "BR 86",
+    "number": "400-9",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 160,
     "minRadiusMm": 358
   },
-  "description": "Dampflokomotive 086 400 der Deutschen Bundesbahn.Formvariante!■ Variante mit De Limon-Spurkranzschmierung■ Kohlekasten mit geschweissten Aufsatz (Bauzustand 1972)■ Vor- und Nachlaufradsatz mit 9 Speichen■ Mit DB-Reflexlampen■ Mit Regenblech am Führerhaus■ Rauchgenerator nachrüstbarNach dem Ende des 2. Weltkrieges befanden sich 386 Maschinen der BR 86 auf Westdeutschem Gebiet. Die meisten liessen sich instand setzen, sodass die DB 1952 über 378 Loks dieser Baureihe verfügte. Zum Aufgabenbereich gehörten neben den klassischen Nebenbahnzügen auch regelmässig die Beförderung von Eilzügen sowie das Rangieren in Güterbahnhöfen. Die letzten Maschinen schieden bei der DB 1974, als Baureihe 086 bezeichnet, aus dem Betriebsdienst aus.",
+  "description": "Dampflokomotive 086 400 der Deutschen Bundesbahn, Epoche IV.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

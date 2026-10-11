@@ -10,7 +10,7 @@
     "operator": "NS",
     "type": "„Blokkendoos“",
     "number": null,
-    "livery": null,
+    "livery": "Blokkendoos",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
@@ -18,7 +18,7 @@
     "luepMm": 912,
     "minRadiusMm": 358
   },
-  "description": "4-teiliger Elektrotriebzug „Blokkendoos“ der Niederländischen Staatsbahnen bestehend aus einem Motorwagen, Gattung mBD, einem Mittelwagen, Gattung Bec, einem Mittelwagen, Gattung Cec und einem Steuerwagen, Gattung mC.■ Jubiläumsmodell ‒ 60 Jahre ROCO!■ Betriebszustand der 1930er Jahre in zweifarbiger LackierungAb 1923 beschafften die Niederländischen Eisenbahnen (NS) elektrische Triebwagen für den Vorort-Verkehr der Ballungsräume, die eine lange Geschichte der Niederländischen Eisenbahn schreiben sollten: die Blokkendoos. Hersteller waren: Fabriken J.J. Beijnes in Haarlem, NV Werkspoor in Amsterdam und die Hannoversche Wagonfabrik. Je nach Bedarf wurden die Triebwagen in der Länge variiert und auf einen Motorwagen, von denen manche ein Gepäckabteil besassen, folgte in der Regel ein Beiwagen. Die Triebwagen galten als zuverlässige Arbeitstiere und Generationen von Pendlern verbrachten den Weg zum und vom Arbeitsplatz in den Blokkendoos, daher kaum verwunderlich, dass der Abschied aus dem aktiven Dienst von unzähligen Zeitungsmeldungen begleitet wurde. Die Zeit der Blokkendoos ist im Nederlands Spoorwegmuseum in Utrecht längst noch nicht vorbei: der Triebwagen mBD 9107 von 1927 und der Beiwagen C 9410 von 1928 erinnern heute an den Pendleralltag von gestern.",
+  "description": "4-teiliger Elektrotriebzug „Blokkendoos“ der Niederländischen Staatsbahnen, Epoche II.",
   "categories": [
     "lokomotive",
     "triebzug"

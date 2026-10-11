@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "name": "Roco Neuheiten 2020",
   "slug": "roco-neuheiten-2020",
-  "description": "Artikel aus dem Roco-Neuheitenkatalog 2020 (H0-Lokomotiven).",
+  "description": "Artikel aus dem Roco-Neuheitenkatalog 2020.",
   "kind": "neuheiten",
   "manufacturerSlug": "roco",
   "year": 2020,

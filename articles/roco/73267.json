@@ -8,8 +8,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1116 225-4",
-    "number": null,
+    "type": "Rh 1116",
+    "number": "225-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 1116 225 der Österreichischen Bundesbahnen.Eine passende Railjet-Garnitur lässt sich mit den Artikelnummern 74084 und 74087 bilden.Das Modell ist auf einer Seite mit einer vierpoligen elektrischen Kupplung ausgestattet. Mittels DIP-Schalter kann die Stromaufnahme zwischen der Lok und dem ROCO Railjet-Steuerwagen (nur in Ausführung mit elektrischer Kupplung) für den Wendezugbetrieb umgeschalten werden.■ Mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Z21-Führerstand verfügbar■ Lizenziertes ÖBB-Modell",
+  "description": "Elektrolokomotive 1116 225 der Österreichischen Bundesbahnen. Eine passende Railjet-Garnitur lässt sich mit den Artikelnummern 74084 und 74087 bilden, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

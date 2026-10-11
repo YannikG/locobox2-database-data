@@ -8,8 +8,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1116 225-4",
-    "number": null,
+    "type": "Rh 1116",
+    "number": "225-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 1116 225 der Österreichischen Bundesbahnen.Eine passende Railjet-Garnitur lässt sich mit den Artikelnummern 74083 und 74086 bilden.■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Z21 Führerstand verfügbar■ Modell mit NEM Schacht zum koppeln von normalen Kupplungen und beiliegendem Kupplungsadapter für die elektrische Kupplung des Railjet■ Lizenziertes ÖBB-Modell",
+  "description": "Elektrolokomotive 1116 225 der Österreichischen Bundesbahnen. Eine passende Railjet-Garnitur lässt sich mit den Artikelnummern 74083 und 74086 bilden, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

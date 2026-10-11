@@ -8,9 +8,9 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "V 100 1273",
-    "number": null,
-    "livery": null,
+    "type": "V 100",
+    "number": "1273",
+    "livery": "altroter",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 139,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive V 100 1273 der Deutschen Bundesbahn.■ Ausführung in „altroter“ Lackierung■ Epoche-III-Ausführung mit Sounddecoder■ LED-SpitzenlichtDie Baureihe V 100 wurde ‒ nach Erprobung von Vorserienmaschinen ‒ ab 1961/62 in Serie beschafft. Eingesetzt wurde sie im gemischten Nebenbahnbetrieb auf nicht elektrifizierten Strecken und im leichten Dienst auf Hauptbahnen. Bei einer Leistung von 1.100 PS (810 kW) war sie für 110 km/h zugelassen. 1968 wurden die Maschinen in Baureihe 211 umgezeichnet.",
+  "description": "Diesellokomotive V 100 1273 der Deutschen Bundesbahn. Ausführung in „altroter“ Lackierung, Epoche III.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

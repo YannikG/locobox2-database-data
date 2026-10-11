@@ -6,10 +6,10 @@
   "releaseDate": "2020",
   "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "SK",
     "operator": "ZSSK",
-    "type": "752 070-3",
-    "number": null,
+    "type": "BR 752",
+    "number": "070-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive 752 070 der Slowakischen Staatsbahn.■ Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur DachkanteDie Baureihe 752 ist eine dieselelektrische Universallokomotive. Dem markanten Äusseren verdanken die Lokomotiven ihren Spitznamen „Bardotka“, benannt nach der französischen Schauspielerin Brigitte Bardot. In den Jahren 1966 bis 1971 entstanden 230 Serienlokomotiven für die ehemalige CSD im Werk CKD in Prag. Seit der Teilung der CSD im Jahr 1993 sind auch heute noch einige Lokomotiven bei den ZSSK aktiv.",
+  "description": "Diesellokomotive 752 070 der Slowakischen Staatsbahn, Epoche VI.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

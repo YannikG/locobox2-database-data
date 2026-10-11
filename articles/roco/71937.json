@@ -7,9 +7,9 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "EINSTELLER",
-    "type": "192 002-4",
-    "number": null,
+    "operator": "Siemens Mobility",
+    "type": "BR 192",
+    "number": "002-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 192 002 der Siemens Mobility Division.Formvariante!■ Vorbildgerechte Umsetzung des Smartrons mit neuer Frontplatte und Verschieberauftritten■ Ideal für den Einsatz im Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Sound in Kooperation mit LeosoundlabAlle Smartron-Lokomotiven werden in einer standardisierten Ausführung, nur für den Verkehr in Deutschland, an den Besitzer übergeben. Aufbauend auf der Vectron-Plattform wird den Kunden mit dem Smartron eine Lokomotive zu attraktiven Konditionen angeboten. Für Bahnbetreiber liegt der Vorteil darin, dass die Bedienung des Smartron identisch zur Vectron Lokomotive ist und daher keine umfangreichen Schulungen nötig sind. Abgeliefert werden alle Lokomotiven im attraktiven Capriblau, welches um das Design der jeweiligen Kunden ergänzt wird. Optisch unterscheidet sich der Smartron in einer geänderten Frontplatte, Verschiebertritten mit Smartron-Schriftzug und Seitenflächen ohne Kameras von den Vectron-Lokomotiven.Smartron und Vectron sind eingetragene Marken der Siemens AG",
+  "description": "Elektrolokomotive 192 002 der Siemens Mobility Division, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

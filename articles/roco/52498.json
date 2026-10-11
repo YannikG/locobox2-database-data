@@ -8,8 +8,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "132 285-8",
-    "number": null,
+    "type": "BR 132",
+    "number": "285-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 237,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive 132 285 der Deutschen Reichsbahn in gealterter Ausführung.■ Aufwendig per Handarbeit gealtert■ Ideal für den Einsatz vor Personen- und GüterzügenEnde der 1960er Jahre beschloss der RGW (Rat für gegenseitige Wirtschaftshilfe), den Bau von Grossdieselloks in Rumänien und der UdSSR zu konzentrieren. Auf den Bedarf der DR ausgerichtet, stellte die Lokomotivfabrik Woroschilowgrad 1970 eine längere, schnellere und leistungsfähigere Diesellok als Baureihe 130 vor. 1973 wurde mit dem Serienbau der Maschine begonnen. Durch Änderung der Getriebeübersetzung wurde dann aus der BR 130 eine reine Güterzuglokomotive als BR 131 in Dienst gestellt.Aus den Erfahrungen mit den Baureihen 130 und 131 wurde die Konstruktion der BR 132 abgeleitet. Die gesamten Rahmen- und Gehäuse-Konstruktionen wurden überarbeitet, da nur so der Platz für die elektrische Zugheizanlage geschaffen werden konnte. Die Höchstgeschwindigkeit wurde auf max. 120 km/h festgelegt, die Leistung beträgt 2200 kW.",
+  "description": "Diesellokomotive 132 285 der Deutschen Reichsbahn in gealterter Ausführung, Epoche IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

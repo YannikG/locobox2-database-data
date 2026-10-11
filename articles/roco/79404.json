@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "430 364-0",
-    "number": null,
+    "type": "Re 430",
+    "number": "364-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 177,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 430 364 der Schweizerischen Bundesbahnen.■ Erstmals in grüner Lackierung im aktuellen Zustand mit UIC-Nummer■ Ideal für Doppeltraktion mit der Re 620■ Extra angesetzte Teile, teilweise in Ätztechnik■ Z21-Führerstand verfügbarDie Lokomotiven der Bauart Re 4/4ˡˡ und Re 4/4ˡˡˡ wurden, mit Ausnahme der TEE-Lokomotiven und des letzten Bauloses, alle in grüner Farbe ausgeliefert. Danach wurde bei Hauptrevisionen der feuerrote Lack zur Standardfarbe. Als eine der letzten Maschinen im SBB-Konzern hat die heute als 430 364-0 bezeichnete Lok das grüne Farbkleid über die gesamte Einsatzzeit behalten.",
+  "description": "Elektrolokomotive 430 364 der Schweizerischen Bundesbahnen. Erstmals in grüner Lackierung im aktuellen Zustand mit UIC-Nummer, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

@@ -8,8 +8,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "243 591-5",
-    "number": null,
+    "type": "BR 243",
+    "number": "591-5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 192,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 243 591 der Deutschen Reichsbahn.■ In bordeauxroter Lackierung■ Ausführung mit rundem Dach■ Mit Henning-SoundAb 1984 wurden die E-Loks der Baureihe 243 an die Deutsche Reichsbahn geliefert. Insgesamt wurden über 600 Fahrzeuge dieser Baureihe von der DR abgenommen. Als Universallokomotive war sie vor allen Zuggattungen unterwegs.",
+  "description": "Elektrolokomotive 243 591 der Deutschen Reichsbahn. In bordeauxroter Lackierung, Epoche IV.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

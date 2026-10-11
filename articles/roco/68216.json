@@ -8,9 +8,9 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "24 017",
-    "number": null,
-    "livery": null,
+    "type": "BR 24",
+    "number": "017",
+    "livery": "Steppenpferd",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 196,
     "minRadiusMm": 358
   },
-  "description": "Schlepptenderlokomotive 24 017 „Steppenpferd“ der Deutschen Bundesbahn.  Update!■ Erstmals mit PluX22-Schnittstelle und vorbildgerechten Soundfunktionen■ Ausführung mit Wagner-WindleitblechenGedacht war die BR 24 vornehmlich für Personenzüge, ihr Einsatzgebiet wurde dank der robusten Konstruktion bald auf leichte Güterzüge ausgedehnt, somit galt sie als eine zuverlässige Mehrzwecklokomotive für leichtere Dienste.",
+  "description": "Schlepptenderlokomotive 24 017 „Steppenpferd“ der Deutschen Bundesbahn, Epoche III.",
   "categories": [
     "lokomotive",
     "dampflokomotive"

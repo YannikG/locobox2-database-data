@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "620 018-2",
-    "number": null,
+    "type": "Re 620",
+    "number": "018-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 222,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 620 018 der Schweizerischen Bundesbahnen.■ Eingesetzte, filigrane Ätzteile wie Lüftungsgitter und Scheibenwischer■ Frontseitig ohne erhabene Betriebsnummer ■ Feine Speichenräder und StromabnehmerDie Re 6/6 sind sechsachsige, elektrische Lokomotiven der Schweizerischen Bundesbahnen, die als Ersatz für die Ae 6/6 für den schweren Dienst am Gotthard angeschafft wurden. Später als Re 620 bezeichnet wurden sie ab 2005 mit Führerstandsklimaanlage ausgestattet.",
+  "description": "Elektrolokomotive 620 018 der Schweizerischen Bundesbahnen, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

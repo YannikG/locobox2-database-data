@@ -63,9 +63,10 @@ class TestProposeSplit(unittest.TestCase):
             m.propose_split(art), ("sncf_bb_cc_4", "CC 6500", "6514")
         )
 
-    def test_rh_109(self) -> None:
+    def test_rh_109_no_split(self) -> None:
+        """ÖBB/ČSD «Rh» + Reihe stays in type (not Rh / 109)."""
         art = {"model": {"type": "Rh 109", "number": None}}
-        self.assertEqual(m.propose_split(art), ("rh_n", "Rh", "109"))
+        self.assertIsNone(m.propose_split(art))
 
     def test_rh_valousek_skipped(self) -> None:
         art = {"model": {"type": "Rh 1144 „Valousek-Edition“", "number": None}}

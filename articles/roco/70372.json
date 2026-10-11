@@ -8,7 +8,7 @@
   "model": {
     "country": "CZ",
     "operator": "CSD",
-    "type": "Dieseltriebwagen Rh M 152.0 mit Beiwagen",
+    "type": "Rh M 152.0",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -18,7 +18,7 @@
     "luepMm": 322,
     "minRadiusMm": 358
   },
-  "description": "Dieseltriebwagen Reihe M 152.0 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung mit Beiwagen, Gattung Blm.Neukonstruktion!■ Ausführung von Farbgebung und Beschriftung entsprechend der ersten Lieferserie■ Separat angesetzte Scheibenwischer■ Mit beiliegenden Steckteilen zur Darstellung der geschlossenen Frontschürze■ Vorbildgerechte Beleuchtungsfunktionen in Trieb-/Beiwagen und Innenbeleuchtung schaltbar mit DIP-Schalter■ Decoder zum Nachrüsten für Trieb- und Beiwagen Art.-Nr. 10895Um die nicht mehr zeitgemässen Triebwagen der Reihe M 131.1 abzulösen beschafften die Tschechoslowakischen Staatsbahnen neue zweiachsige Dieseltriebwagen mit der Reihenbezeichnung M 152.0. Die ab 1975 in Serie abgelieferten Fahrzeuge wurden von einem 155 kW starken Sechszylinder-Reihenmotor angetrieben und erreichten eine Höchstgeschwindigkeit von 80 km/h. Im Fahrgastabteil standen 56 Sitzplätze zur Verfügung. Die Ursprüngliche CSD-Farbgebung war rot-creme mit hellgrauem Dach, grauem Rahmen und schwarzem Fahrwerk. Sie waren, mit und ohne Beiwagen, auf allen Nebenbahnen der ehemaligen Tschechoslowakei im Einsatz.",
+  "description": "Dieseltriebwagen Reihe M 152.0 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung mit Beiwagen, Gattung Blm, Epoche IV.",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"

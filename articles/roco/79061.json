@@ -8,9 +8,9 @@
   "model": {
     "country": "DE",
     "operator": "Lokomotion",
-    "type": "193 776-2",
-    "number": null,
-    "livery": null,
+    "type": "BR 193",
+    "number": "776-2",
+    "livery": "Zebra",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 776 der Lokomotion.■ Modell im „Zebra“-Design mit roten Streifen■ Mit vorbildgerechtem Dach für den Einsatz als DAI-Vectron■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Aufwendige Bedruckung■ Sound in Kooperation mit LeosoundlabDas private Eisenbahnverkehrsunternehmen Lokomotion mit Sitz in München betreibt seit fast 20 Jahren grenzüberschreitenden Güterverkehr. Bekannt ist es für seine Lokomotiven im Zebra-Design. Egal ob blau, rot, grün, silbern oder mehrfarbig, sie sind immer ein Blickfang.",
+  "description": "Elektrolokomotive 193 776 der Lokomotion. Im „Zebra“-Design mit roten Streifen, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

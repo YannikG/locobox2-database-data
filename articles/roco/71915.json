@@ -6,10 +6,10 @@
   "releaseDate": "2020",
   "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "HUPAC",
-    "type": "193 491-8",
-    "number": null,
+    "country": "CH",
+    "operator": "Hupac",
+    "type": "BR 193",
+    "number": "491-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 491 des Logistikunternehmens Hupac Intermodal.■ Fein detailliertes Modell mit vier Stromabnehmern■ Vorbildgerecht mit langer Regenrinne und hohen Führerständen für den Einsatz in Italien■ Freistehende Griffstangen, teilweise aus Metall■ In Kooperation mit Railcolor Design■ Sound in Kooperation mit LeosoundlabDas Schweizer Logistikunternehmen für kombinierte Verkehre Hupac bestellte bei Siemens acht Güterzuglokomotiven vom Typ Vectron MS. Die Mehrsystem-Fahrzeuge ermöglichen es den mit Hupac kooperierenden Betreibern, die europäischen Wirtschaftsräume mit dem Betrieb durch den neuen Gotthard-Basistunnel zusammenzubringen. Im Januar 2019 erhielten die Loks 193 490 und 491 das offizielle Hupac-Design.",
+  "description": "Elektrolokomotive 193 491 des Logistikunternehmens Hupac Intermodal, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

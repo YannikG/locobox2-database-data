@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "SETG",
-    "type": "193 839-8",
-    "number": null,
+    "type": "BR 193",
+    "number": "839-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 218,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive 193 839 der Salzburger Eisenbahn Transport Logistik (SETG).■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Aufwendige Bedruckung als „Alpenlok“■ Mit detaillierter Dachgestaltung■ Sound in Kooperation mit LeosoundlabSeit Anfang 2019 ist dieser besonders auffällige Vectron auf Europas Schienen unterwegs. Beide Lokseiten sind mit jeweils drei unterschiedlichen Alpenmotiven gestaltet.",
+  "description": "Elektrolokomotive 193 839 der Salzburger Eisenbahn Transport Logistik (SETG), Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
