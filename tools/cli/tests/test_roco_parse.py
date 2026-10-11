@@ -88,6 +88,20 @@ def test_parse_roco_pdp_fixture_schema_valid() -> None:
     assert issues == [], issues
 
 
+def test_parse_roco_pdp_zero_price_uvp_null() -> None:
+    html = FIXTURE.read_text(encoding="utf-8").replace(
+        'content="277.9"', 'content="0"'
+    )
+    art = parse_roco_pdp(
+        html,
+        canonical_url="https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70035-dampflokomotive-t3-kpev.html",
+        article="70035",
+    )
+    assert art["uvp"] is None
+    issues = ValidateArticle.from_contracts(REPO).run(art)
+    assert issues == [], issues
+
+
 def test_parse_roco_pdp_article_mismatch() -> None:
     html = FIXTURE.read_text(encoding="utf-8")
     try:

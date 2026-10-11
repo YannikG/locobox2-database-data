@@ -326,7 +326,7 @@ def parse_roco_pdp(
         "manufacturer": "Roco",
         "articleNumber": art,
         "releaseDate": release,
-        "uvp": {"amount": price if price else 0.0, "currency": "EUR"},
+        "uvp": {"amount": price, "currency": "EUR"} if price > 0 else None,
         "model": model,
         "description": desc,
         "categories": cats,
