@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "BLS",
-    "type": "Re 465 016",
-    "number": null,
+    "type": "Re 465",
+    "number": "016",
     "livery": "Stockhorn",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239014.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:13:57Z"
 }
