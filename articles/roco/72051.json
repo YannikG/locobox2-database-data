@@ -9,8 +9,8 @@
     "country": "CZ",
     "operator": "CSD",
     "type": "Rh T 478.3",
-    "number": null,
-    "livery": null,
+    "number": "3098",
+    "livery": "grün/weiss",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
@@ -18,7 +18,7 @@
     "luepMm": 190,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive Reihe T 478.3 der Tschechoslowakischen Staatsbahnen, Epoche IV.",
+  "description": "Diesellokomotive Rh T 478.3 3098 der Tschechoslowakischen Staatsbahnen in grün/weisser Lackierung, Epoche IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

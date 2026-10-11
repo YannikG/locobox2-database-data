@@ -8,9 +8,9 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Rh 1116 „60 Jahre ROCO“",
-    "number": null,
-    "livery": null,
+    "type": "Rh 1116",
+    "number": "199-1",
+    "livery": "60 Jahre ROCO",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -18,7 +18,7 @@
     "luepMm": 221,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive Reihe 1116 „60 Jahre ROCO“ der Österreichischen Bundesbahnen, Epoche VI.",
+  "description": "Elektrolokomotive Rh 1116 199-1 der Österreichischen Bundesbahnen im „60 Jahre ROCO“-Design, Epoche VI.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"

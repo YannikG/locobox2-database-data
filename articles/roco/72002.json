@@ -9,7 +9,7 @@
     "country": "IT",
     "operator": "FS",
     "type": "D.225.6000",
-    "number": null,
+    "number": "6011",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 92,
     "minRadiusMm": 358
   },
-  "description": "Diesellokomotive D.225.6000 der Italienischen Staatseisenbahnen, Epoche III-IV.",
+  "description": "Diesellokomotive D.225.6011 (Gruppe D.225.6000) der Italienischen Staatseisenbahnen, Epoche III-IV.",
   "categories": [
     "lokomotive",
     "diesellokomotive"

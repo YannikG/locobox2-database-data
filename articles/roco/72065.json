@@ -8,7 +8,7 @@
   "model": {
     "country": "NL",
     "operator": "NS",
-    "type": "„Blokkendoos“",
+    "type": "Mat '24",
     "number": null,
     "livery": "Blokkendoos",
     "scale": "H0",
@@ -18,9 +18,8 @@
     "luepMm": 912,
     "minRadiusMm": 358
   },
-  "description": "4-teiliger Elektrotriebzug „Blokkendoos“ der Niederländischen Staatsbahnen, Epoche II.",
+  "description": "4-teiliger Elektrotriebzug Mat '24 («Blokkendoos») der Niederländischen Staatsbahnen, Epoche II.",
   "categories": [
-    "lokomotive",
     "triebzug"
   ],
   "tags": [
