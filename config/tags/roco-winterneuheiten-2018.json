@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Roco Winterneuheiten 2018",
+  "slug": "roco-winterneuheiten-2018",
+  "description": "Artikel aus dem Roco-Winterneuheitenkatalog 2018/19.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "roco",
+  "year": 2018,
+  "order": 3,
+  "source": "https://www.roco.cc/rde/kataloge"
+}

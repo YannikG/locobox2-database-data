@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73494",
+  "manufacturer": "Roco",
+  "articleNumber": "73494",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1016",
+    "number": "020",
+    "livery": "Nachhaltigkeits-Werbedesign",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1016 020 der ÖBB im Nachhaltigkeits-Werbedesign.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-winterneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73494-elektrolokomotive-1016-020-obb.html",
+    "notes": "Winterneuheiten 2018/19; Shop-UVP oft 0 (Artikel ausgelaufen).",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/231466.jpg"
+  },
+  "updatedAt": "2026-10-11T08:38:17Z"
+}

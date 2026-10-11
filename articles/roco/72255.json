@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72255",
+  "manufacturer": "Roco",
+  "articleNumber": "72255",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 23",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III",
+    "luepMm": 264,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive BR 23 001 der DR mit Rekokessel und Rundschlot.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-winterneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/72255-dampflokomotive-23-001-dr.html",
+    "notes": "Winterneuheiten 2018/19; Shop-UVP oft 0 (Artikel ausgelaufen).",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242689.jpg"
+  },
+  "updatedAt": "2026-10-11T08:38:17Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-52680",
+  "manufacturer": "Roco",
+  "articleNumber": "52680",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 220",
+    "number": "036-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive BR 220 036-8 der DB.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-winterneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/52680-diesellokomotive-220-036-8-db.html",
+    "notes": "Winterneuheiten 2018/19; Shop-UVP oft 0 (Artikel ausgelaufen).",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241415.jpg"
+  },
+  "updatedAt": "2026-10-11T08:38:17Z"
+}

@@ -9,28 +9,40 @@ from locobox_cli.domain.article import ArticleNumber
 from locobox_cli.domain.queue import QueueDocument, QueueEntry
 from locobox_cli.domain.text import swiss_ss
 
-# TT/H0 Neuheiten catalogs: product title then SKU + DC/DCC (prices live in the shop).
+# TT/H0 Neuheiten catalogs: product title then SKU + DC/DCC, or older «Art. Nr.:».
 _SECTION_LOCO = re.compile(
-    r"^\s*(Dampflokomotiven|Elektrolokomotiven|Diesellokomotiven)\b",
+    r"^\s*(?:H0\s+)?"
+    r"(Dampflokomotiven|Elektrolokomotiven|Diesellokomotiven|"
+    r"Dampf-\s*&\s*Elektrolokomotiven)\b",
     re.I,
 )
 _SECTION_OTHER = re.compile(
-    r"^\s*(Personenwagen|Güterwagen|Startsets|COLLECTOR'?S?\s*EDITION|"
-    r"Was finde ich wo|Impressum|Reisezugwagen|Beiwagen|Railjet)\b",
+    r"^\s*(?:H0\s+)?"
+    r"(Personenwagen|Güterwagen|Startsets|COLLECTOR'?S?\s*EDITION|"
+    r"Was finde ich wo|Impressum|Reisezugwagen|Beiwagen|Railjet|"
+    r"Passenger coaches|Goods wagons)\b",
     re.I,
 )
 _TITLE_LOCO = re.compile(
-    r"^\s*((?:Dampf|Diesel|Elektro)lokomotive)\b(.{0,120})$",
+    # Do not require end-of-line: bilingual catalogs often continue with prose.
+    r"^\s*((?:Dampf|Diesel|Elektro)lokomotive)\b(.{0,100})",
     re.I,
 )
 _TITLE_NON_LOCO = re.compile(
-    r"^\s*(Dieseltriebwagen|Elektrotriebwagen|Triebwagen|Beiwagen|"
-    r"Reisezugwagen|Güterwagen|Startset|Taschenwagen|Packwagen)\b",
+    r"^\s*(?:"
+    r"(?:\d+-tlg\.\s+)?(?P<set>Set|Wagenset|Zugset)\b|"
+    r"(?P<other>Dieseltriebwagen|Elektrotriebwagen|Dieseltriebzug|Elektrotriebzug|"
+    r"Triebwagen|Beiwagen|Reisezugwagen|Personenwagen|Güterwagen|"
+    r"Startset|Taschenwagen|Packwagen|Zwischenwagen|Doppelstockwagen|"
+    r"Schlafwagen|Silowagen)\b"
+    r")",
     re.I,
 )
 _SKU_DC = re.compile(r"(?<!\d)(\d{7})\s+(DC|DCC)\b")
+# Older H0 catalogs (e.g. Winterneuheiten 2018/19): «Art. Nr.: 72016»
+_SKU_ART_NR = re.compile(r"Art\.\s*Nr\.:\s*(\d{5,7})\b", re.I)
 # Wagon / set / trailer families that appear next to loco pages in TT catalogs.
-_NON_LOCO_PREFIXES = ("628", "629", "408", "348", "669", "778", "779")
+_NON_LOCO_PREFIXES = ("628", "629", "408", "348", "669", "778", "779", "614", "641", "664", "671")
 _LOCO_PREFIXES = ("718", "719", "738", "739", "758", "759")
 
 
@@ -82,10 +94,11 @@ def extract_roco_catalog_rows(
         if not stripped:
             continue
 
-        if _SECTION_LOCO.match(stripped) and len(stripped) < 60:
+        if _SECTION_LOCO.match(stripped) and len(stripped) < 90:
             section = "locomotive"
+            product = "unknown"
             continue
-        if _SECTION_OTHER.match(stripped) and len(stripped) < 80:
+        if _SECTION_OTHER.match(stripped) and len(stripped) < 90:
             if re.match(r"COLLECTOR", stripped, re.I):
                 section = "collector"
             elif re.match(r"Railjet", stripped, re.I):
@@ -93,23 +106,31 @@ def extract_roco_catalog_rows(
                 section = "railjet"
             else:
                 section = "other"
+            product = "unknown"
             continue
 
         non = _TITLE_NON_LOCO.match(stripped)
         if non:
-            product = "nonloco"
-            kind = non.group(1)
-            title = stripped
-            continue
+            is_set = bool(non.group("set"))
+            # Product titles are short and usually «Gattung, Operator»;
+            # wrapped prose like «Doppelstockwagen von …» must not win.
+            if is_set or (len(stripped) < 90 and "," in stripped):
+                product = "nonloco"
+                kind = (non.group("set") or non.group("other") or "Set").strip()
+                title = stripped[:240]
+                continue
         loco = _TITLE_LOCO.match(stripped)
         if loco:
             product = "loco"
             kind = _kind_from_title(loco.group(1))
-            title = stripped
+            # Keep short title only (drop bilingual prose on same line).
+            title = f"{loco.group(1)}{loco.group(2)}".strip()
+            title = re.split(r"\s{2,}", title, maxsplit=1)[0].strip()[:240]
             continue
 
-        for sm in _SKU_DC.finditer(line):
-            art = sm.group(1)
+        sku_hits: list[str] = [m.group(1) for m in _SKU_DC.finditer(line)]
+        sku_hits.extend(m.group(1) for m in _SKU_ART_NR.finditer(line))
+        for art in sku_hits:
             if art in seen:
                 continue
             if art.startswith(_NON_LOCO_PREFIXES):
