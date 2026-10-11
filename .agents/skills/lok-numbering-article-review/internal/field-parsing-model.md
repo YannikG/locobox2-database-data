@@ -25,6 +25,9 @@ Langer `model.type`, **`model.number`: `null`**, **ohne** splittbare UIC/EVN in 
 | `Rbe 4/4` + Set-Hinweis («2er Set», «+ Bt Steuerwagen») | `type` `Rbe 4/4`, Livery kurz Set-Bezeichnung | EVN in URL erwartet aber fehlend |
 | `BR 193` / Vectron ohne Ziffernblock im Shop-Titel | `type` `BR 193`, `number` null | UIC im Fliesstext vorhanden, aber nicht gesplittet |
 | `GTW 2/6` + `"Stadler"` + EVU/Lack (THURBO, HLB, …) | `type` `GTW 2/6`, Livery = Lack/EVU-Name | Livery fälschlich «Stadler» (Hersteller) |
+| ČSD **M 152.0 mit Beiwagen Blm** (Roco-Set) | Motorwagen: `type` `Rh M 152.0`, `number` = M-Laufnummer; Beiwagen **eigene** Datei `type` `Blm`, `number` = Blm-Laufnummer, `setNumber` = Set-SKU, Kategorie `wagen` | Beiwagen-Gattung/Nummer nur in der Motorwagen-`type`-Zeile belassen |
+
+Details ČSD M 152.0 / Blm / 810 / 010: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md).
 
 ## PIKO Variantengruppen (Schwester-Review)
 

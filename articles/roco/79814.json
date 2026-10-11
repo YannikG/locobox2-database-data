@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Ae 8/14 11851",
-    "number": null,
+    "type": "Ae 8/14",
+    "number": "11851",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

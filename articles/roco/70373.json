@@ -9,7 +9,7 @@
     "country": "CZ",
     "operator": "CSD",
     "type": "Rh M 152.0",
-    "number": null,
+    "number": "0047",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 322,
     "minRadiusMm": 358
   },
-  "description": "Dieseltriebwagen Reihe M 152.0 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung mit Beiwagen, Gattung Blm, Epoche IV.",
+  "description": "Dieseltriebwagen Rh M 152.0 0047 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung (Set mit Beiwagen Blm), Epoche IV.",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"
@@ -31,5 +31,6 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245105.jpg"
   },
-  "updatedAt": "2026-10-11T12:15:28Z"
+  "updatedAt": "2026-10-11T12:15:28Z",
+  "setNumber": "70373"
 }
