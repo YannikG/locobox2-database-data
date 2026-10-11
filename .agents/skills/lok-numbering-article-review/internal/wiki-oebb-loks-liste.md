@@ -24,7 +24,9 @@ Separate Tabellen für geplante Reihen (z. B. Coradia Stream, KISS-Varianten, Mi
 
 ## Review-Hinweis
 
-- `model.type` wie **1116 195-9** → Baureihe **1116** plausibel zu ÖBB; Betriebsnummer und Prüfziffer separat prüfen (Luhn nur wenn alle Ziffern sicher extrahiert).
+- **Rh** = **Reihe**. Locobox: `model.type` = **`Rh 1216`** (Präfix + Reihennummer), `model.number` = Laufnummer/Prüfziffer (z. B. `017-4`) oder `null`.
+- **Falsch:** `type` nur `Rh` und Reihe in `number` (häufiger PIKO-Import); oder nackte `1216` ohne `Rh`.
+- Shop-Titel «1116 195-9» ohne Rh → trotzdem `type` **`Rh 1116`**, `number` **`195-9`**, wenn Operator ÖBB/AT klar ist.
 - Keine Baureihe erzwingen: wenn Nummer unbekannt, **unklar**.
 
 ## Locobox-Validierung (Kurz)
