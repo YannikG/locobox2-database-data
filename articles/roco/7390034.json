@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7390034",
+  "manufacturer": "Roco",
+  "articleNumber": "7390034",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 284.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "Pol-Miedz Trans",
+    "type": "BR 232",
+    "number": "049",
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "VI",
+    "luepMm": 174,
+    "minRadiusMm": 267
+  },
+  "description": "Diesellokomotive BR 232 049 der Pol-Miedz Trans.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7390034-diesellokomotive-br-232-049-pmt.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269736.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

@@ -9,7 +9,14 @@ import typer
 from locobox_cli.adapters.pdftotext import run_pdftotext_layout
 from locobox_cli.adapters.paths import find_repo_root
 from locobox_cli.adapters.queue_fs import FilesystemQueueStore
-from locobox_cli.adapters.sources.piko.catalog import extract_piko_catalog_rows, rows_to_queue
+from locobox_cli.adapters.sources.piko.catalog import (
+    extract_piko_catalog_rows,
+    rows_to_queue as piko_rows_to_queue,
+)
+from locobox_cli.adapters.sources.roco.catalog import (
+    extract_roco_catalog_rows,
+    rows_to_queue as roco_rows_to_queue,
+)
 from locobox_cli.application.ports.queue_store import QueueKind
 from locobox_cli.application.queue.parse import render_queue_text
 from locobox_cli.domain.manufacturer import Manufacturer
@@ -34,15 +41,24 @@ def extract_cmd(
     out: Optional[Path] = typer.Option(None, "--out", "-o", help="Candidate queue path"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
     min_price_eur: Optional[float] = typer.Option(None, "--min-price-eur"),
+    locomotives_only: bool = typer.Option(
+        True,
+        "--locomotives-only/--all-rolling-stock",
+        help="Roco: keep only locomotives (default). Ignored for PIKO.",
+    ),
     repo_root: Optional[Path] = typer.Option(None, "--repo-root"),
 ) -> None:
-    """Extract article candidates from catalog text (PIKO)."""
+    """Extract article candidates from catalog text (PIKO or Roco)."""
     mfr = Manufacturer.parse(source)
-    if mfr != Manufacturer.PIKO:
-        raise typer.BadParameter("only --source piko is implemented so far")
     text = text_file.read_text(encoding="utf-8", errors="replace")
-    rows = extract_piko_catalog_rows(text)
-    queue = rows_to_queue(rows, min_price_eur=min_price_eur)
+    if mfr == Manufacturer.PIKO:
+        rows = extract_piko_catalog_rows(text)
+        queue = piko_rows_to_queue(rows, min_price_eur=min_price_eur)
+    elif mfr == Manufacturer.ROCO:
+        rows = extract_roco_catalog_rows(text, locomotives_only=locomotives_only)
+        queue = roco_rows_to_queue(rows, min_price_eur=min_price_eur)
+    else:
+        raise typer.BadParameter(f"unsupported --source {source!r}")
     rendered = render_queue_text(queue, numbers_only=False)
 
     root = repo_root or find_repo_root()

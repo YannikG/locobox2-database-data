@@ -1,0 +1,65 @@
+                           Dampflokomotiven
+TT
+     Dampflokomotive 86 1591-6
+
+         DR
+               IV
+
+     Q2/2027
+     7180020         DC    4/0
+
+     7190020         DCC   4/0
+
+
+
+     Dampflokomotive 38 2833
+
+         DR
+               III
+
+     Q3/2027
+     7180019         DC    2/2
+     7190019         DCC   2/2
+
+
+                           Elektrolokomotiven
+TT
+     Elektrolokomotive Rh 1116 „Railjet“
+
+     Q1/2027
+     7580046          DC   4/1
+
+     7590046         DCC   4/1
+
+
+                           Diesellokomotiven
+TT
+     Diesellokomotive 112 276-1
+
+     Q3/2027
+     7380031         DC    4/1
+     7390031         DCC   4/1
+
+
+     COLLECTOR'S EDITION
+                                                                                                                                                                7380039      DC             4/2
+
+                                                                                                                                                                7390039     DCC             4/2
+
+
+Dieseltriebwagen M 152.0478 mit Beiwagen
+
+Q3/2027
+7780011         DC      2/0
+7790011         DCC     2/0
+
+
+Beiwagen zum Motorwagen M 152.0
+
+Q3/2027
+7790012         DCC
+
+
+Personenwagen
+6280074         BCi              Photomontage
+6280075                                          Art. Nr. 6280076: Geänderte Betriebsnummer

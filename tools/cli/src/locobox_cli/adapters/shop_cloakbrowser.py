@@ -64,19 +64,23 @@ def _is_piko_artikel_url(url: str) -> bool:
 
 
 def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
-    """Piko search often 301-redirects to a PDP whose slug uses a shop-internal id."""
-    if site.slug != "piko":
+    """Search often lands directly on a PDP (Piko redirect / Roco Magento)."""
+    url = (page.url or "").split("#", 1)[0].split("?", 1)[0]
+    if site.slug == "piko":
+        if not _is_piko_artikel_url(url):
+            return None
+        try:
+            html = page.content()
+        except Exception:
+            return None
+        if not _html_has_article_sku(html, article):
+            return None
+        return url
+    if site.slug == "roco":
+        if site.is_pdp_url(url, article):
+            return url
         return None
-    url = (page.url or "").split("#")[0]
-    if not _is_piko_artikel_url(url):
-        return None
-    try:
-        html = page.content()
-    except Exception:
-        return None
-    if not _html_has_article_sku(html, article):
-        return None
-    return url
+    return None
 
 
 def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
@@ -191,8 +195,11 @@ class CloakShopFetcher:
                             FetchItemResult(article=art, ok=False, error="no_pdp_link")
                         )
                         continue
-                    page.goto(href, wait_until="domcontentloaded", timeout=60000)
-                    self._wait()
+                    # Search may already have landed on the PDP (common for Roco).
+                    already = (page.url or "").split("#", 1)[0].split("?", 1)[0]
+                    if already.rstrip("/") != href.split("#", 1)[0].split("?", 1)[0].rstrip("/"):
+                        page.goto(href, wait_until="domcontentloaded", timeout=60000)
+                        self._wait()
                     if _looks_blocked(page):
                         summary.blocked = True
                         summary.fail += 1

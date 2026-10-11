@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7580029",
+  "manufacturer": "Roco",
+  "articleNumber": "7580029",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 185",
+    "number": "142-7",
+    "livery": "Edelweiss",
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 158,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive BR 185 142-7 der DB AG im Edelweiss-Design.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7580029-elektrolokomotive-185-142-7-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270069.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

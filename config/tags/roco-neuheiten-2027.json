@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Roco Neuheiten 2027",
+  "slug": "roco-neuheiten-2027",
+  "description": "Artikel aus dem Roco-Neuheitenkatalog 2027 (TT-Lokomotiven).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "roco",
+  "year": 2027,
+  "order": 1,
+  "source": "https://www.roco.cc/rde/kataloge"
+}

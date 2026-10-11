@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380043",
+  "manufacturer": "Roco",
+  "articleNumber": "7380043",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 149.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "PRESS",
+    "type": "BR 363",
+    "number": null,
+    "livery": "PRESS blau",
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": 87,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive BR 363 der PRESS in blauer Lackierung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380043-diesellokomotive-br-363-press.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270063.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

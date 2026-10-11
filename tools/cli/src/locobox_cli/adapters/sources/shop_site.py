@@ -42,7 +42,7 @@ class RocoShopSite:
     def is_pdp_url(self, href: str, article: str) -> bool:
         if not href or not href.startswith("http"):
             return False
-        u = href.split("?", 1)[0].lower()
+        u = href.split("#", 1)[0].split("?", 1)[0].lower()
         return "roco.cc" in u and f"/{article}-" in u and u.endswith(".html")
 
     def fallback_pdp_url(self, article: str) -> str:

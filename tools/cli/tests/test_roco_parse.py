@@ -21,6 +21,11 @@ def test_roco_shop_site_pdp_url() -> None:
         "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70035-dampflokomotive-t3-kpev.html",
         "70035",
     )
+    assert site.is_pdp_url(
+        "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/"
+        "7180012-dampflokomotive-455-244-csd.html#contentarea",
+        "7180012",
+    )
     assert not site.is_pdp_url(
         "https://www.roco.cc/rde/catalogsearch/result/?q=70035", "70035"
     )

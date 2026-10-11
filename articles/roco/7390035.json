@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7390035",
+  "manufacturer": "Roco",
+  "articleNumber": "7390035",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 120",
+    "number": "050-0",
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 146,
+    "minRadiusMm": 267
+  },
+  "description": "Diesellokomotive BR 120 050-0 der DR («Taigatrommel») mit Ausbesserungsflecken, Bw Gera.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7390035-diesellokomotive-120-050-0-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269727.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

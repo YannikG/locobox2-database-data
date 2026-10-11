@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7190020",
+  "manufacturer": "Roco",
+  "articleNumber": "7190020",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 419.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 86",
+    "number": "1591-6",
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "IV",
+    "luepMm": 115,
+    "minRadiusMm": 286
+  },
+  "description": "Dampflokomotive BR 86 1591-6 der DR, Formvariante ohne Glocke, Bw Aue.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7190020-dampflokomotive-86-1591-6-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270064.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

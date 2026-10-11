@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380041",
+  "manufacturer": "Roco",
+  "articleNumber": "7380041",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 149.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 261",
+    "number": "634-0",
+    "livery": "ozeanblau/beige",
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 87,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive BR 261 634-0 der DB in ozeanblau/beige.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380041-diesellokomotive-261-634-0-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270061.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

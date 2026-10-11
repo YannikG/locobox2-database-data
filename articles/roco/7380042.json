@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380042",
+  "manufacturer": "Roco",
+  "articleNumber": "7380042",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 149.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 365",
+    "number": "715-2",
+    "livery": "verkehrsrot",
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "V-VI",
+    "luepMm": 87,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive BR 365 715-2 der DB AG in Verkehrsrot.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380042-diesellokomotive-365-715-2-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270062.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

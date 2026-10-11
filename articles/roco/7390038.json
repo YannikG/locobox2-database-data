@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7390038",
+  "manufacturer": "Roco",
+  "articleNumber": "7390038",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 289.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CZ LOKO",
+    "type": "753",
+    "number": "604-8",
+    "livery": "CZ LOKO rot/grau",
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 138,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive 753 604-8 von CZ LOKO in rot-grauer Vorführlackierung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7390038-diesellokomotive-753-604-8-cz-loko.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270059.jpg"
+  },
+  "updatedAt": "2026-10-11T07:38:03Z"
+}

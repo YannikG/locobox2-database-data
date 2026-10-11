@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7590030",
+  "manufacturer": "Roco",
+  "articleNumber": "7590030",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Captrain",
+    "type": "BR 185",
+    "number": "550-1",
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 158,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive BR 185 550-1 der Captrain.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7590030-elektrolokomotive-185-550-1-captrain.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270072.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380031",
+  "manufacturer": "Roco",
+  "articleNumber": "7380031",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 184.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 112",
+    "number": "276-1",
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 116,
+    "minRadiusMm": 267
+  },
+  "description": "Diesellokomotive BR 112 276-1 der DR, Beheimatung Bw Stralsund.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380031-diesellokomotive-112-276-1-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269728.jpg"
+  },
+  "updatedAt": "2026-10-11T07:43:02Z"
+}
