@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73782",
+  "manufacturer": "Roco",
+  "articleNumber": "73782",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BLS",
+    "type": "Re 4/4 194",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 178,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 4/4 194 der BLS.Motor mit Schwungmasse.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73782-elektrolokomotive-re-44-194-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240984.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

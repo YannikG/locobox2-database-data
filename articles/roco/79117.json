@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79117",
+  "manufacturer": "Roco",
+  "articleNumber": "79117",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BLS",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive BR 193 der HUPAC/SBB, Epoche VI.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/79117-elektrolokomotive-br-193-hupacsbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241569.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

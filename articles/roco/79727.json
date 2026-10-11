@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79727",
+  "manufacturer": "Roco",
+  "articleNumber": "79727",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218",
+    "number": "218-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 218 218 der Deutschen Bundesbahn.■ Erstmals mit ozeanblauem Dach■ Typisches Fahrzeug der Epoche IV■ Einsatz vor Güter- und Personenzügen■ Z21-Führerstand verfüg…",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/79727-diesellokomotive-218-218-6-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/233708.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

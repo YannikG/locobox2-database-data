@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-58662",
+  "manufacturer": "Roco",
+  "articleNumber": "58662",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 610 500-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Ae 610 500 der Schweizerischen Bundesbahnen, Abteilung Cargo, Epoche VI.Motor mit Schwungmasse.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/58662-elektrolokomotive-ae-610-500-1-sbb-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236913.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

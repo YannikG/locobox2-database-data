@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72293",
+  "manufacturer": "Roco",
+  "articleNumber": "72293",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6ˡˡ",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "II-III",
+    "luepMm": 163,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Ae 3/6ˡˡ der Schweizerischen Bundesbahnen.■ Erstmals als digitale Soundversion■ Filigrane Ausführung des Fahrwerks■ Modell mit Digital-Decoder und digital scha…",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/72293-elektrolokomotive-ae-36%cb%a1%cb%a1-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242802.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

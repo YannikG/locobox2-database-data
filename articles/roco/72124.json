@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72124",
+  "manufacturer": "Roco",
+  "articleNumber": "72124",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 38",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III",
+    "luepMm": 201,
+    "minRadiusMm": 420
+  },
+  "description": "Dampflokomotive Reihe 38 der Österreichischen Bundesbahnen im Zustand der 1960er Jahre mit Rundschlot.Modell mit niedrigen Spurkränzen, Vollmetallrädern, LED-Beleuchtung, beidse…",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/72124-dampflokomotive-rh-38-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/1/218524.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

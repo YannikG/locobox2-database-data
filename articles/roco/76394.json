@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-76394",
+  "manufacturer": "Roco",
+  "articleNumber": "76394",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BW",
+    "type": "Schwerlastwagen",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "V-VI",
+    "luepMm": 124
+  },
+  "description": "Schwerlastwagen der Bundeswehr/Deutschen Bahn AG beladen mit MAN 6x6 in getarnter Ausführung.Diesen Artikel erhalten Sie exklusiv bei MC-Vedes Fachhändlern!",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/guterwagen/76394-schwerlastwagen-bwdb-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242504.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:22Z"
+}

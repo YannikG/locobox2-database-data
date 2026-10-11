@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-56335",
+  "manufacturer": "Roco",
+  "articleNumber": "56335",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Selbstentladewagen",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 138
+  },
+  "description": "Selbstentladewagen, Gattung Fad 159, der Deutschen Bundesbahn.Exclusivmodell für die Wilde 13!",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/wagen/guterwagen/56335-selbstentladewagen-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243984.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:21Z"
+}

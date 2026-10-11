@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73072",
+  "manufacturer": "Roco",
+  "articleNumber": "73072",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 110",
+    "number": "314-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV-V",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 110 314 der Deutschen Bundesbahn.■ In orientroter Lackierung mit DB-Latz■ Ideale Zuglok für den EC „Leonardo Da Vinci“ auf dem deutschen Streckenabschnitt■ Sch…",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73072-elektrolokomotive-110-314-2-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242357.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}
