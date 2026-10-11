@@ -6,9 +6,9 @@
   "releaseDate": "2019",
   "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "SI",
     "operator": "SZ",
-    "type": "541",
+    "type": "BR 541",
     "number": "002-6",
     "livery": "Innofreight",
     "scale": "H0",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236739.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:19:41Z"
 }

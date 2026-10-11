@@ -8,7 +8,7 @@
   "model": {
     "country": "DE",
     "operator": "DB AG",
-    "type": "146",
+    "type": "BR 146",
     "number": "219-1",
     "livery": null,
     "scale": "H0",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239419.jpg"
   },
-  "updatedAt": "2026-10-11T11:06:57Z"
+  "updatedAt": "2026-10-11T11:19:41Z"
 }
