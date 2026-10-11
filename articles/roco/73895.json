@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73895",
+  "manufacturer": "Roco",
+  "articleNumber": "73895",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 118",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe 118 der Deutschen Reichsbahn.■ Sehr detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen, teilweise aus Metall■ 6-achsige Ausführung mit feinen Radsätzen■ In Sparlack-Ausführung■ Beheimatung Rbd Magdeburg/Bw Brandenburg■ Führerstands- und Maschinenraumbeleuchtung■ Mit Henning-SoundDie Baureihe V 180 der Deutschen Reichsbahn der DDR war die grösste in der DDR gebaute Diesellokomotive. Sie wurde Anfangs in einer vierachsigen Version mit zwei 2-achsigen Drehgestellen gebaut, später gab es auch 6-achsige Varianten. Als ingenieurtechnische Meisterleistung gilt noch heute bei der sechsachsigen Version die geringe Achsfahrmasse von 15,6 t, sodass diese Lok universell auch auf Nebenbahnen eingesetzt werden kann. Ausserdem hat sie eine Zulassung für Steilstrecken. Das dadurch entstehende mögliche Einsatzgebiet ist einmalig bei deutschen Grossdieselloks.Die V 180 beschleunigte den Traktionswechsel bei der Deutschen Reichsbahn ersetzte diverse Dampflokomotivbaureihen in den Leistungsklassen oberhalb der V 100. 1995 schieden die letzten Lokomotiven aus dem Betriebsdienst bei der DB AG. Danach wurden zahlreiche Exemplare an Privatbahnen verkauft.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/73895-diesellokomotive-br-118-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240883.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

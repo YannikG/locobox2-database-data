@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78657",
+  "manufacturer": "Roco",
+  "articleNumber": "78657",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "460 058-1 „Circus Knie“",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 460 058 der Schweizerischen Bundesbahnen im „Circus Knie“-Werbedesign.■ Fein detaillierter Faiveley Stromabnehmer■ In aktueller Ausführung mit extra angesetztem SBB-Logo sowie zusätzlicher Griffstange an der FrontAnlässlich des 100-jährigen Jubiläums des Schweizer National-Circus Knie wird von ROCO eine Sonderedition mit Lokomotiven und Wagen als „Circus Knie-Edition“ gefertigt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78657-elektrolokomotive-460-058-1-circus-knie-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245019.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

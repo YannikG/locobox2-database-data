@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70711",
+  "manufacturer": "Roco",
+  "articleNumber": "70711",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 2043",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 182,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe 2043 der Österreichischen Bundesbahnen.■ Ausführung im „Valousek“-Design ‒ verkehrsrot mit achatgrauer Bauchbinde■ Passende Lok zum Digitalkran, Art. Nr. 73036Mitte der 1960er Jahre wurde von den ÖBB eine neue Diesellokomotivreihe in Auftrag gegeben um die Dampflokomotiven der Reihen 52, 77 und 93 zu ersetzen. Nach einigen Prototypen wurde von den Jenbacher Werken die Reihe 2043 mit einem 1500 PS leistenden Zweitakt-Dieselmotor geliefert. Ursprünglich war sie für 100 km/h zugelassen, später für 110. Mit 17 t Achsdruck war sie auch für den Einsatz auf Nebenbahnen geeignet.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70711-diesellokomotive-rh-2043-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245521.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

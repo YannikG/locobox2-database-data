@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72261",
+  "manufacturer": "Roco",
+  "articleNumber": "72261",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung G 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "I",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive der Gattung G 10 der Königlich Preussischen Eisenbahn-Verwaltung.■ Ausführung in Urspungslackierung■ Kessel mit drei DomenVon dieser Lokomotive wurden zwischen 1910 und 1925 mehr als 2500 Einheiten gebaut. Die im Güterzug- und Rangierdienst eingesetzten Loks (Höchstgeschwindigkeit 60 km/h, Leistung 800 kW) wurde auch an die  Bahnverwaltungen derTürkei, Rumänien, Polen und Litauen geliefert.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/72261-dampflokomotive-gattung-g-10-kpev.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/238078.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

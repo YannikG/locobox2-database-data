@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71916",
+  "manufacturer": "Roco",
+  "articleNumber": "71916",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "193 521-2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 521 der SBB Cargo International.LED-Spitzenbeleuchtung mit der Fahrtrichtung wechselnd (3x weiss vorne, 1x weiss hinten). Im Digitalbetrieb sind Lichtfunktionen nach Schweizer Vorbild schaltbar. ■ Ausführung mit Taufnamen „Donau“■ Vorbildgerecht mit langer Regenrinne und hohen Führerständen für den Einsatz in Italien■ Freistehende Griffstangen, teilweise aus Metall■ In Kooperation mit Railcolor Design2019 hat SBB Cargo International in Zusammenarbeit mit der SüdLeasing GmbH 20 Vectron-Lokomotiven bei Siemens Mobility bestellt. Die Maschinen verfügen über eine Ausrüstung für Einsätze in Deutschland, Österreich, Schweiz, Italien und den Niederlanden (DACHINL).",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71916-elektrolokomotive-193-521-2-sbb-cargo-international.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245328.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

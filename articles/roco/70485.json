@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70485",
+  "manufacturer": "Roco",
+  "articleNumber": "70485",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1116 „60 Jahre ROCO“",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1116 „60 Jahre ROCO“ der Österreichischen Bundesbahnen.■ Mit aufwendiger Bedruckung im Jubiläumsdesign■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Z21 Führerstand verfügbar60 Jahre und kein bisschen müde!ROCO feiert 2020 einen runden Geburtstag und dabei darf natürlich auch die passende Kunstlokomotive nicht fehlen. Das aufwendige Design der Taurus Lokomotive wurde wieder in Zusammenarbeit mit der wunderbaren Künstlerin, Gudrun Geiblinger, gestaltet. Versinnbildlicht wird dabei die Brücke von der Gründung ROCOs mit der Herstellung von Kinderspielzeug, wie dem bekannten Sandkübel, bis hin zu heutigen Meisterwerken der Modellbahnwelt geschlagen. Denn 60 Jahre ROCO bedeuten sechs Jahrzehnte Innovation und Technisierung im Kleinen Massstab, aber grossem Stil. Gudrun Geiblinger greift diese Entwicklungen auf und verwendet viele moderne Elementen, wie eine Platine, für ihr Design. Natürlich darf dabei das Markenzeichen schlechthin nicht fehlen: Der allseits bekannte ROCO Schriftzug in der Verwandlung von früher bis heute. Ein Modell, dass in keiner Sammlung fehlen darf und nur einmalig im Jubiläumsjahr aufgelegt wird.Das grosse Original befördert in Kooperation mit den ÖBB sowohl Personenzüge als auch Güterzüge in Österreich und dem benachbarten Ausland.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70485-elektrolokomotive-rh-1116-60-jahre-roco-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245527.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

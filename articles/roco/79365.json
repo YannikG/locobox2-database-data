@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79365",
+  "manufacturer": "Roco",
+  "articleNumber": "79365",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "151 036-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 151 036 der Deutschen Bundesbahn.■ Räder mit niedrigen Spurkränzen■ Mit altem, orientrotem DB-Logo■ Mit schaltbarer FührerstandsbeleuchtungFür den schweren Güterzugdienst stellte die DB ab 1973 über 100 dieser Maschinen in Dienst. Bei der Entwicklung der BR 151 wurde zum Teil auf bei den Baureihen 110, 140, 150 und 103 bewährte Konstruktionen zurückgegriffen. Drei abnehmbare Hauben zwischen den Führerständen erleichtern den Ein- und Ausbau grösserer Ausrüstungsteile. Mit einer Höchstgeschwindigkeit von 120 km/h und einer Leistung von 5982 kW ist die 151 eine der stärksten Güterzugloks der DB. Das Vorbild wurde auch regelmässig in Österreich eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79365-elektrolokomotive-151-036-1-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239509.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

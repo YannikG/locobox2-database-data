@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73963",
+  "manufacturer": "Roco",
+  "articleNumber": "73963",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "1041.15",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 176,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1041.15 des Vereins ARGE 1041.15.■ Formvariante mit Blendschutzdächern■ Freistehende Griffstangen, zum Teil aus Metall■ Dachlaufstege als feines Ätzteil■ Mit beiliegender US-Flagge■ Sound in Kooperation mit LeosoundlabMit dem Bau der Reihe 1041 stieg die Firma Simmering-Graz-Pauker AG erstmals in die Entwicklung von Lokomotiven ein, wobei für den elektrischen Teil die Firmen AEG, BBC, ELIN und SSW zuständig waren. Ab 1952 wurden 25 Maschinen an die Österreichischen Bundesbahnen geliefert. Die jeweils neueste Lok der Baureihe bespannte den Zug der amerikanischen Streitkräfte den „Mozart“ von Wien nach Salzburg und war dabei mit der Flagge der Vereinigten Staaten von Amerika geschmückt. Die Lok wurde nach der Ausmusterung vom Verein ARGE 1041.15 übernommen, soweit wie möglich in den Ursprungszustand zurückgebaut und wird seither für Nostalgiefahrten genutzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73963-elektrolokomotive-104115.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239951.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

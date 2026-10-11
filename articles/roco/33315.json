@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33315",
+  "manufacturer": "Roco",
+  "articleNumber": "33315",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "V 60 K",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III-IV",
+    "minRadiusMm": 200
+  },
+  "description": "Diesellokomotive V 60 K der Deutschen Reichsbahn.■ Feinste Details: freistehende Griffstangen, feine Lampenringe und ein durchbrochenes Lüftungsgitter am Dach■ Sound in Kooperation mit Leosoundlab„Was wäre, wenn…?“1956 begann die Deutsche Reichsbahn zwei Dieselloks für die 750 mm Schmalspurbahn zu entwickeln, diese sollten die immer älter werdende IV K ablösen. Neben eigenen Entwicklungen, suchte man auch in der CSSR und in Österreich nach Dieselloks mit 750 mm Spurweite. In Österreich wurde man mit der ÖBB Lokreihe 2095 fündig. Für eine einmonatige Erprobung lieh man sich von der ÖBB die 2095.11 im Jahre 1963, die damals noch sehr junge Lok aus und stationierte sie in Wilsdruff. Mit ihren 600 PS erfüllte sie das geforderte Leitungsprogramm, auch eine sehr hohe Zuverlässigkeit wurde der Lok nachgesagt. Ein Ankauf der gewünschten 30 Lokomotiven der Reihe 2095, welche die DR unter der Baureihe V60 4801 – 4830 eingereiht hätte, unterblieb jedoch aus ökonomischen Gründen. Für die einmonatige Erprobung wurde die Lok sogar entsprechend den DR Farbvorschriften umlackiert. Zusätzlich wurden in der Pockauer Schilderwerkstatt vier Lokschilder mit der Nummer [V 60 4801] angefertigt.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/33315-diesellokomotive-v-60-k-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/246014.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

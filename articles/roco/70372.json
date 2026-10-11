@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70372",
+  "manufacturer": "Roco",
+  "articleNumber": "70372",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "Dieseltriebwagen Rh M 152.0 mit Beiwagen",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 322,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen Reihe M 152.0 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung mit Beiwagen, Gattung Blm.Neukonstruktion!■ Ausführung von Farbgebung und Beschriftung entsprechend der ersten Lieferserie■ Separat angesetzte Scheibenwischer■ Mit beiliegenden Steckteilen zur Darstellung der geschlossenen Frontschürze■ Vorbildgerechte Beleuchtungsfunktionen in Trieb-/Beiwagen und Innenbeleuchtung schaltbar mit DIP-Schalter■ Decoder zum Nachrüsten für Trieb- und Beiwagen Art.-Nr. 10895Um die nicht mehr zeitgemässen Triebwagen der Reihe M 131.1 abzulösen beschafften die Tschechoslowakischen Staatsbahnen neue zweiachsige Dieseltriebwagen mit der Reihenbezeichnung M 152.0. Die ab 1975 in Serie abgelieferten Fahrzeuge wurden von einem 155 kW starken Sechszylinder-Reihenmotor angetrieben und erreichten eine Höchstgeschwindigkeit von 80 km/h. Im Fahrgastabteil standen 56 Sitzplätze zur Verfügung. Die Ursprüngliche CSD-Farbgebung war rot-creme mit hellgrauem Dach, grauem Rahmen und schwarzem Fahrwerk. Sie waren, mit und ohne Beiwagen, auf allen Nebenbahnen der ehemaligen Tschechoslowakei im Einsatz.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/70372-dieseltriebwagen-rh-m-1520-mit-beiwagen-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245104.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:28Z"
+}

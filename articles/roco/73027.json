@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73027",
+  "manufacturer": "Roco",
+  "articleNumber": "73027",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "86 261",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "II",
+    "luepMm": 160,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 86 261 der Deutschen Reichsbahn Gesellschaft.Formvariante!■ Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen■ Kurz ausgeschnittene Wasserkästen in geschweisster Ausführung■ Feine Metallradsätze■ Vorbildgerechtes 2-Spitzenlicht■ Mit schaltbarer Führerstandsbeleuchtung■ Vorbildgerechte Licht- und SoundfunktionenVon 1928 bis 1943 lieferten fast alle deutschen Lokomotivfabriken insgesamt 775 Maschinen dieser Baureihe an die Deutsche Reichsbahn Gesellschaft. Konstruktiv waren die 1000-PS-Loks für eine Geschwindigkeit von 70–80 km/h ausgelegt, womit sie neben ihrem Haupteinsatzgebiet der „Nebenbahn“ auch auf Haupt- und Zulaufstrecken einsetzbar waren.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73027-dampflokomotive-86-261-drg.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244230.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

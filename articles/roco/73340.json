@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73340",
+  "manufacturer": "Roco",
+  "articleNumber": "73340",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "E.483 320-4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive E.483 320 der Mercitalia.Update!■ Ausführung mit Schneepflug am Chassis■ Erstmals mit PluX22 Schnittstelle■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDie Mercitalia Rail stellt die Güterverkehrssparte der italienischen Staatsbahn (FS) dar. Zum Fuhrpark zählen unter anderem auch Elektrolokomotiven der Bombardier Traxx Familie. Die als E.483 bezeichneten Lokomotiven können nur auf dem italienischen Gleichstromnetz eingesetzt werden und unterscheiden sich zu den anderen Lokomotiven der Traxx Familie durch einen geänderten „Dachgarten“.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73340-elektrolokomotive-e483-320-4-mercitalia.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239423.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71918",
+  "manufacturer": "Roco",
+  "articleNumber": "71918",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 170",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 170 der DB Schenker Rail Polska. ■ Vorbild: Ausführung für Gleichstromnetz■ Mit kurzer RegenrinneDie Vectron-Variante für DB Schenker Rail Polska ist für den Betrieb im polnischen Gleichstromnetz konzipiert und mit der entsprechenden Zugsicherungseinrichtung ausgerüstet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71918-elektrolokomotive-br-170-db-schenker-rail-polska.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245349.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33277",
+  "manufacturer": "Roco",
+  "articleNumber": "33277",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Dampflokomotive 399.02",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "minRadiusMm": 261
+  },
+  "description": "Schmalspur-Dampflokomotive 399.02 der Österreichischen Bundesbahnen.■ Vorbildgerechte Umsetzung im Betriebszustand der 1980er Jahre■ Sound in Kooperation mit LeosoundlabFür die Mariazellerbahn-Bergstrecke wurden Anfang des 20. Jahrhunderts leistungsfähige Schmalspur-Stütztenderlokomotiven der Reihe Mh beschafft. Das hohe Fahrgastaufkommen führte schon nach wenigen Jahren zur Elektrifizierung der Strecke nach Mariazell und Gusswerk, sodass die Dampflokomotiven ab 1911 nur mehr auf der nicht elektrifizierten Seitenstrecke der Mariazellerbahn von Ober-Grafendorf nach Gresten – der so genannten „Krumpe“ – eingesetzt wurden. In der Folge fanden die Mh, die 1953 von den ÖBB auf die Reihe 399 umgezeichnet worden waren, auch auf anderen österreichischen Schmalspurbahnen Verwendung. Ab etwa 1970 konzentrierte sich der Bestand der Reihe 399 dann im Waldviertel, wo sie bis in die 1980er-Jahre hinein einen Grossteil des Verkehrs bewältigten.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/33277-h0e-dampflokomotive-39902-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/246033.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:28Z"
+}

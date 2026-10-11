@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78020",
+  "manufacturer": "Roco",
+  "articleNumber": "78020",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 333",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 90,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe 333 der Deutschen Bundesbahn in ozeanblau/elfenbeinfarbener Lackierung.■ Mit digitaler Rangierkupplung für mehr Spielspass■ Motorvorbau und Getriebeblock aus Zinkdruckguss, daher mehr Eigengewicht und hohe Zugkraft■ Fein detaillierte Ausführung mit vielen Steckteilen und freistehenden Griffstangen■ Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbar■ Freier Durchblick durch den nachgebildeten Führerstand■ AC-Modell mit Pufferkondensator für unterbrechungsfreie StromversorgungAb Mitte der 1970er Jahre wurde die Lackierung der BR 333 in ozeanblau/elfenbein zur Standardfarbgebung. Es überwog die blaue Farbe, lediglich ein umlaufender Zierstreifen, der auf der Rückseite etwas breiter ausfiel, und ein Rahmen um den Motorlüfter wurde in elfenbein (RAL 1014) lackiert. 70 Maschinen der letzten Bauserie wurden in diesem Erscheinungsbild abgeliefert.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78020-diesellokomotive-br-333-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245334.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

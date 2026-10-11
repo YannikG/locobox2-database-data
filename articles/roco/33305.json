@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33305",
+  "manufacturer": "Roco",
+  "articleNumber": "33305",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2095.07",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "minRadiusMm": 200
+  },
+  "description": "Diesellokomotive 2095.07 der Österreichischen Bundesbahnen.■ Feinste Details: freistehende Griffstangen, feine Lampenringe und ein durchbrochenes Lüftungsgitter am Dach■ Lackierung in blutorange■ Je eine Stirnseite der Lok mit Pflatsch und Flügelrad■ Dach in elfenbeinfarbener Lackierung■ Modell mit erhabenen Zierleisten■ Sound in Kooperation mit LeosoundlabNach einer Kollision auf der Bregenzerwaldbahn im Januar 1982 wurde die 2095.07 schwer beschädigt. Bei der Reparatur wurde auf der beschädigten Seite 2 der ÖBB-Pflatsch und Klebeziffern angebracht, während die Seite 1 noch das Flügelrad und die Nummerntafel behielt. Bis zur nächsten Hauptuntersuchung war die Maschine in dieser Ausführung unterwegs.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/33305-diesellokomotive-209507-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245570.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

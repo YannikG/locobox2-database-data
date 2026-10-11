@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70319",
+  "manufacturer": "Roco",
+  "articleNumber": "70319",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 193 der Deutschen Bahn AG.■ Modell exklusiv bei ROCO erhältlich■ DB Cargo Lok im Europa-Design ‒ „I am European“■ Mit vorbildgerechter niedriger Ausführung des Bedienpults am Führerstand■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus MetallMit der Anschaffung von mehrsystemfähigen Lokomotiven unterstreicht DB Cargo die Bedeutung des Schienengüterverkehrs in Europa und gestaltet einige Vectrons im Europa-Design. 100 Loks der Baureihe 193 Vectron MS (BR 193) werden von Siemens in verschiedenen Länderpaketvarianten durch DB Cargo angeschafft. Die Lokomotiven verfügen über eine Leistung von 6,4 Megawatt und eine Höchstgeschwindigkeit von 160 km/h, sie sind mit den erforderlichen nationalen Zugsicherungssystemen sowie mit dem Europäischen Zugsicherungssystem ETCS ausgestattet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70319-elektrolokomotive-br-193-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245345.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73800",
+  "manufacturer": "Roco",
+  "articleNumber": "73800",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SZD",
+    "type": "M62 1616",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive M62 1616 der Sowjetischen Eisenbahnen.■ Dachfunkantenne in Ätztechnik■ Hohe Betriebssicherheit und Zugkraft für lange ZügeGemäss den Regularien innerhalb des RGW (Rat für gegenseitige Wirtschaftshilfe) wurden von der Sowjetunion unter der Herstellerbezeichnung M62 zahlreiche sechsachsige Güterzuglokomotiven an viele Staaten geliefert. Lieferant war die Lokomotivfabrik „Oktoberrevolution“ in Lugansk, dass zu den grössten Werken in der Sowjetunion gehörte. Die ersten Prototypen erschienen 1964, ab 1965 begann die Serienlieferung. Die Lokomotiven mit einer Leistung von 1470 kW erreichten eine Höchstgeschwindigkeit von 100 km/h. Bis 1976 wurden insgesamt 723 Breitspurlokomotiven an die SZD geliefert.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/73800-diesellokomotive-m62-1616-szd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244445.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

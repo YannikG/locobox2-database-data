@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79063",
+  "manufacturer": "Roco",
+  "articleNumber": "79063",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "243 591-5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 192,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 243 591 der Deutschen Reichsbahn.■ In bordeauxroter Lackierung■ Ausführung mit rundem Dach■ Mit Henning-SoundAb 1984 wurden die E-Loks der Baureihe 243 an die Deutsche Reichsbahn geliefert. Insgesamt wurden über 600 Fahrzeuge dieser Baureihe von der DR abgenommen. Als Universallokomotive war sie vor allen Zuggattungen unterwegs.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79063-elektrolokomotive-243-591-5-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245193.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

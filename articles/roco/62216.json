@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-62216",
+  "manufacturer": "Roco",
+  "articleNumber": "62216",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "24 017",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 196,
+    "minRadiusMm": 358
+  },
+  "description": "Schlepptenderlokomotive 24 017 „Steppenpferd“ der Deutschen Bundesbahn.Update!  ■ Erstmals mit PluX22-Schnittstelle und vorbildgerechten Soundfunktionen■ Ausführung mit Wagner-WindleitblechenGedacht war die BR 24 vornehmlich für Personenzüge, ihr Einsatzgebiet wurde dank der robusten Konstruktion bald auf leichte Güterzüge ausgedehnt, somit galt sie als eine zuverlässige Mehrzwecklokomotive für leichtere Dienste.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/62216-dampflokomotive-24-017-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245414.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71400",
+  "manufacturer": "Roco",
+  "articleNumber": "71400",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "alex",
+    "type": "223 013-4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 223 013 der Länderbahn GmbH im „bodo“-Werbedesign.■ Feine Dachlüfter mit darunter liegendem Lüfterrad■ Farblich abgesetzte Bremsscheiben■ Beigelegte Aussenspiegel für ein- und ausgeklappte Stellung■ Extra angesetzte Griffstangen, Scheibenwischer und UIC-DosenAufwendig bedrucktes Modell im Erscheinungsbild des „bodo“ ‒ das ist ein Verkehrsverbund der die Angebote von Bus & Bahn in den Landkreisen Bodenseekreis, Ravensburg und Lindau verbindet.Die Länderbahn ist ein privates Eisenbahnverkehrsunternehmen das Verkehrsdienstleistungen im Personennahverkehr in Deutschland und Tschechien anbietet, unter anderen mit der Produktmarke „alex“. Seit 2011 gehört die Länderbahn zur NETINERA Deutschland GmbH.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/71400-diesellokomotive-223-013-4-alex.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245530.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

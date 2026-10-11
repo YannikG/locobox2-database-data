@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-52538",
+  "manufacturer": "Roco",
+  "articleNumber": "52538",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "212 053-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 141,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 212 053 der Deutschen Bundesbahn.■ Neue Betriebsnummer■ Passende Lok zum Kranzug■ Mit PluX22-Schnittstelle und LED-SpitzenlichtIn den 1950er Jahren entwickelte die Deutsche Bundesbahn zur Erneuerung des Fahrzeugparks ein Diesellok-Typenprogramm. Das wesentliche Ziel war die Ablösung der Dampftraktion auf dem noch recht umfangreichen Nebenstreckennetz. Für den gemischten Nebenbahndienst wurde die einmotorige Baureihe V 100 mit 1100-PS-Motoren entwickelt. Parallel zu diesen V 100.10 wurden von 1962 bis 1965 insgesamt 380 Maschinen mit 1350-PS-Motor als V 100.20 geliefert. Mit Einführung der Computernummer wurde die Baureihenbezeichnung der stärkeren Maschinen auf 212 geändert. Nach dem klassischen Rot erhielten zahlreiche Maschinen ab 1974/75 ein Farbkleid in ozeanblau/beige.Nach Stilllegung zahlreicher Nebenbahnen schrumpfte auch das klassische Einsatzgebiet der V 100. Nach wie vor standen vor allem Nahverkehrs- und Übergabezüge auf dem Einsatzprogramm. Einige Maschinen waren im Bauzugdienst anzutreffen. Zahlreiche Lokomotiven fanden neue Eigentümer, unter anderem bei NE-Bahnen und Gleisbaufirmen im In- und Ausland.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/52538-diesellokomotive-212-053-3-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245971.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73614",
+  "manufacturer": "Roco",
+  "articleNumber": "73614",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1142",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 186,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1142 der Österreichischen Bundesbahnen.■ Erstmals mit langer UIC-Nummer■ Ohne Eckfenster■ Grosse Scheinwerfer■ Schaltbare Beleuchtung mit DIP-Schalter■ Passende Lok für ÖBB-Wendezüge■ Nachbildung mit Kleberest-Rückständen der Prüfziffer auf einer FrontAls rein Österreichische Konstruktion wurde die Reihe 1042 von 1963 bis 1977 in 257 Exemplaren gebaut. In den 1990er Jahren wurde ab der Seriennummer 1042.531 ‒ unter anderen Umbauten ‒ eine Wendezugsteuerung eingebaut und in Reihe 1142 umgezeichnet. Nicht nur vor Wendezügen sondern auch vor schweren Güterzügen in Mehrfachtraktion sind die 1142er bis heute unterwegs.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73614-elektrolokomotive-rh-1142-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/237575.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

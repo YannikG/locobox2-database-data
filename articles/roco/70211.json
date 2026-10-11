@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70211",
+  "manufacturer": "Roco",
+  "articleNumber": "70211",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "103 195-4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 103 195 der Deutschen Bundesbahn.■ Ausführung mit kurzem Führerstand und Scherenstromabnehmer■ Mit vorbildgerechtem Sound■ Maschinenraumbeleuchtung schaltbar■ Passende Lok zum Autoreisezug „Christoforus-Express“, Art.-Nr. 74095, 74096, 74097■ Z21 Führerstand verfügbar! In den 1960er Jahren entstand mit der Baureihe E 03 die bis dahin stärkste Elektrolokomotive für den Einsatz im Reisezugverkehr bei der Deutschen Bundesbahn. Von 1970 bis 1974 wurden insgesamt 145 Serienlokomotiven gebaut und offiziell als Baureihe 103.1 bezeichnet. Optisch gelten die 103er bis heute als eine der formschönsten Elektrolokomotiven. Die Lokomotiven wurden bis zur Betriebsnummer 215 mit Scherenstromabnehmer ausgeliefert.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70211-elektrolokomotive-103-195-4-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244982.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

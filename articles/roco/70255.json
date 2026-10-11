@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70255",
+  "manufacturer": "Roco",
+  "articleNumber": "70255",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "50 2973",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 50 2973 der Deutschen Bundesbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ 3-domige Kesselausführung mit Witte-Windleitblechen■ Mit grossen Lampen auf der vorderen Pufferbohle■ Mit feinen Metallradsätzen und Treib- und Kuppelstangen aus Metallguss■ Passend zum Postzug, Art. Nr. 74091 und Art. Nr. 74418Geplant als Ersatz für die preussische G 10 im Güterverkehr, entwickelte sich die BR 50 bis zum Ende der Dampflokzeit zur Universallokomotive. Von 1939 bis 1943 wurden insgesamt 3.164 Stück in 21 verschiedenen Lokomotivfabriken hergestellt. Nach 1945 verblieben über 2.000 Loks bei der Deutschen Bundesbahn und mussten zum Teil grössere Umbauten über sich ergehen lassen, wodurch eine Vielzahl von Varianten entstand. Die Maschinen erreichten eine Höchstgeschwindigkeit von 80 km/h, leisteten ca. 1.200 kW und wiesen eine Achslast von 15 t auf.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70255-dampflokomotive-50-2973-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245525.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

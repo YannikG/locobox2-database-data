@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72812",
+  "manufacturer": "Roco",
+  "articleNumber": "72812",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 030-DB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "III",
+    "luepMm": 106,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Serie 030-DB der Französischen Staatsbahn.■ Feine frei stehende Griffstangen■ Erstmalig als SNCF-AusführungAm Ende des Zweiten Weltkrieges verblieben zehn Lokomotiven der deutschen Type WR 360 C 14 in Frankreich. Dort wurden sie im Norden des Landes bis 1973 vornehmlich im Verschubdienst verwendet.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/72812-diesellokomotive-serie-030-db-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/237100.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

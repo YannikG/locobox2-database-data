@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78009",
+  "manufacturer": "Roco",
+  "articleNumber": "78009",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie Y 8000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 117,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Serie Y 8000 der Französischen Staatsbahnen.Komplette Neukonstruktion■ Erstmals mit neu entwickelter digitaler Rangierkupplung für mehr Spielspass■ Motorvorbau und Getriebeblock aus Zinkdruckguss, daher mehr Eigengewicht und hohe Zugkraft■ Fein detaillierte Ausführung mit vielen Steckteilen und freistehenden Griffstangen■ Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbar■ Freier Durchblick durch den nachgebildeten Führerstand■ AC-Modell mit Pufferkondensator für unterbrechungsfreie StromversorgungIm Juli 1977 rollte aus dem Werk der Firma Moyse die Rangierlok (in Frankreich Locotracteur genannt) Y 8001 als erster Vertreter einer 525 Einheiten umfassenden Serie für die Rangieraufgaben in den Bahnhöfen, Rangierbahnhöfen, Baustellen und Werkstätten der SNCF. Stärker und länger als seine Vorgänger konnten diese auch bestimmte Loks für die Zustellung leichter Güterzüge auf der Strecke ersetzen.Die Y 8000 erhielten bei der Indienststellung eine an die BB 63500 angelehnten Anstrich in dominierendem Orange ergänzt durch braun und weiss. In dieser Bemalung haben die meisten von ihnen ihre Karriere durchlaufen mit allen aufeinanderfolgenden Logos der SNCF bis zum aktuellen „Carmillon“. Einige wurden aber auch umlackiert für die entsprechenden Aktivitäten, denen sie zugeteilt wurden: Fret, Infra oder sogar TER.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78009-diesellokomotive-serie-y-8000-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243678.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

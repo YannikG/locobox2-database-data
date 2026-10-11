@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71403",
+  "manufacturer": "Roco",
+  "articleNumber": "71403",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "430 364-0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 177,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 430 364 der Schweizerischen Bundesbahnen.■ Erstmals in grüner Lackierung im aktuellen Zustand mit UIC-Nummer■ Ideal für Doppeltraktion mit der Re 620■ Extra angesetzte Teile, teilweise in Ätztechnik■ Z21 Führerstand verfügbarDie Lokomotiven der Bauart Re 4/4ˡˡ und Re 4/4ˡˡˡ wurden, mit Ausnahme der TEE-Lokomotiven und des letzten Bauloses, alle in grüner Farbe ausgeliefert. Danach wurde bei Hauptrevisionen der feuerrote Lack zur Standardfarbe. Als eine der letzten Maschinen im SBB-Konzern hat die heute als 430 364-0 bezeichnete Lok das grüne Farbkleid über die gesamte Einsatzzeit behalten.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71403-elektrolokomotive-430-364-0-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245573.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

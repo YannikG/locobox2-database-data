@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72969",
+  "manufacturer": "Roco",
+  "articleNumber": "72969",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "ZSSK",
+    "type": "752 070-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 752 070 der Slowakischen Staatsbahn.■ Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur DachkanteDie Baureihe 752 ist eine dieselelektrische Universallokomotive. Dem markanten Äusseren verdanken die Lokomotiven ihren Spitznamen „Bardotka“, benannt nach der französischen Schauspielerin Brigitte Bardot. In den Jahren 1966 bis 1971 entstanden 230 Serienlokomotiven für die ehemalige CSD im Werk CKD in Prag. Seit der Teilung der CSD im Jahr 1993 sind auch heute noch einige Lokomotiven bei den ZSSK aktiv.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/72969-diesellokomotive-752-070-3-zssk.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236853.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

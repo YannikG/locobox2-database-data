@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79369",
+  "manufacturer": "Roco",
+  "articleNumber": "79369",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "151 070-0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 151 070 der Deutschen Bahn AG, Geschäftsbereich Railion.■ Räder mit niedrigen Spurkränzen■ Einsatz im schweren Güterverkehr■ Im Digitalbetrieb schaltbare FührerstandsbeleuchtungFür den schweren Güterzugdienst stellte die DB ab 1973 über 100 dieser Maschinen in Dienst. Mit einer Höchstgeschwindigkeit von 120 km/h und einer Leistung von 5982 kW war die BR 151 eine der stärksten Güterzugloks der Deutschen Bundesbahn.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79369-elektrolokomotive-151-070-0-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236582.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:13Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73406",
+  "manufacturer": "Roco",
+  "articleNumber": "73406",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Railpool",
+    "type": "151 062-7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 151 062 der Railpool.■ Modell exklusiv bei ROCO erhältlich■ Viele angesetzte Steckteile, teilweise in Ätztechnik ausgeführt ■ Radsätze mit niedrigen Spurkränzen■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDas Vorbild leistet 5.962 kW (8.100 PS), wiegt 118 Tonnen und besitzt eine Höchstgeschwindigkeit von 120 km/h. Insgesamt wurden zwischen 1972 und 1978 170 Exemplare der schweren Güterzuglok geliefert. Die DB Cargo AG verkaufte 200 Lokomotiven an ein Konsortium um Railpool und Toshiba. Nach Angaben des DB-Konzerns werden u. a. die Elektrolokomotiven der Baureihen 151 nach dem Verkauf zur Vermietung angeboten, was auch der DB Cargo die Möglichkeit gibt, je nach Auftragslage bis zu 100 Loks zurück zu leasen. Die weiteren Loks sollen auf dem freien Markt angeboten werden.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73406-elektrolokomotive-151-062-7-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/2/225052.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

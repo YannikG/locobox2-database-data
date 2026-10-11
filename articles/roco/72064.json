@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72064",
+  "manufacturer": "Roco",
+  "articleNumber": "72064",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "„Blokkendoos“",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "II",
+    "luepMm": 912,
+    "minRadiusMm": 358
+  },
+  "description": "4-teiliger Elektrotriebzug „Blokkendoos“ der Niederländischen Staatsbahnen bestehend aus einem Motorwagen, Gattung mBD, einem Mittelwagen, Gattung Bec, einem Mittelwagen, Gattung Cec und einem Steuerwagen, Gattung mC.■ Jubiläumsmodell ‒ 60 Jahre ROCO!■ Betriebszustand der 1930er Jahre in zweifarbiger LackierungAb 1923 beschafften die Niederländischen Eisenbahnen (NS) elektrische Triebwagen für den Vorort-Verkehr der Ballungsräume, die eine lange Geschichte der Niederländischen Eisenbahn schreiben sollten: die Blokkendoos. Hersteller waren: Fabriken J.J. Beijnes in Haarlem, NV Werkspoor in Amsterdam und die Hannoversche Wagonfabrik. Je nach Bedarf wurden die Triebwagen in der Länge variiert und auf einen Motorwagen, von denen manche ein Gepäckabteil besassen, folgte in der Regel ein Beiwagen. Die Triebwagen galten als zuverlässige Arbeitstiere und Generationen von Pendlern verbrachten den Weg zum und vom Arbeitsplatz in den Blokkendoos, daher kaum verwunderlich, dass der Abschied aus dem aktiven Dienst von unzähligen Zeitungsmeldungen begleitet wurde. Die Zeit der Blokkendoos ist im Nederlands Spoorwegmuseum in Utrecht längst noch nicht vorbei: der Triebwagen mBD 9107 von 1927 und der Beiwagen C 9410 von 1928 erinnern heute an den Pendleralltag von gestern.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/72064-elektrotriebzug-blokkendoos-ns.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245353.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:28Z"
+}

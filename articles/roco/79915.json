@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79915",
+  "manufacturer": "Roco",
+  "articleNumber": "79915",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "HUPAC",
+    "type": "193 491-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 491 des Logistikunternehmens Hupac Intermodal.■ Fein detailliertes Modell mit vier Stromabnehmern■ Vorbildgerecht mit langer Regenrinne und hohen Führerständen für den Einsatz in Italien■ Freistehende Griffstangen, teilweise aus Metall■ In Kooperation mit Railcolor Design■ Sound in Kooperation mit LeosoundlabDas Schweizer Logistikunternehmen für kombinierte Verkehre Hupac bestellte bei Siemens acht Güterzuglokomotiven vom Typ Vectron MS. Die Mehrsystem-Fahrzeuge ermöglichen es den mit Hupac kooperierenden Betreibern, die europäischen Wirtschaftsräume mit dem Betrieb durch den neuen Gotthard-Basistunnel zusammenzubringen. Im Januar 2019 erhielten die Loks 193 490 und 491 das offizielle Hupac-Design.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79915-elektrolokomotive-193-491-8-hupac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244999.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:13Z"
+}

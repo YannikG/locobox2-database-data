@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70666",
+  "manufacturer": "Roco",
+  "articleNumber": "70666",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1116 200-7 „Demokratie in Bewegung“",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1116 200 der Österreichischen Bundesbahnen in „Demokratie in Bewegung“ Werbe-Lackierung. Das Modell kann mit dem beiliegenden Kupplungsadapter auch vor den Railjet-Garnituren eingesetzt werden, jedoch ohne elektrische Verbindung zwischen Lok und Wagenzug.■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Z21 Führerstand verfügbar■ Lizenziertes ÖBB-ModellDie ÖBB-Lok „Demokratie in Bewegung“ im Parlamentsdesign ist auf den Schienen in ganz Österreich und dem benachbarten Ausland unterwegs. Dem Parlament und den ÖBB ist es ein Anliegen, Demokratie zu fördern und zu erhalten, was mit dem Slogan „Demokratie in Bewegung“  transportiert wird. Dieser macht auf das gleichnamige Bildungsangebot des Parlaments aufmerksam. Die Lokomotive wird überwiegend vor dem Railjet eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70666-elektrolokomotive-1116-200-7-demokratie-in-bewegung-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/246018.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}
