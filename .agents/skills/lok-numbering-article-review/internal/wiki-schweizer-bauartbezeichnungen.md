@@ -39,3 +39,16 @@ Beispiel: **Re 4/4 II** = R + e + 4 Triebachsen + 4 Achsen, zweite Serie.
 ## Review-Hinweis
 
 CH-Modell: oft **Kurzname + 6 Ziffern + Prüfziffer**. 12-stellige volle Nummer nur grob prüfen; Sonder- und Historikfälle ohne weitere Quelle als **unklar** markieren.
+
+### Re 420 / Re 421 (SBB / SBB Cargo)
+
+Nach dem System ab 1989 heisst die frühere **Re 4/4 II** in der Kurzform **`Re 420`** (Personen-/Cargo-Stamm) bzw. **`Re 421`** (Umbauten mit DB-Zulassung, SBB Cargo, Nummernkreis typisch **421 371–397**).
+
+| Shop-/Import | Locobox |
+|--------------|---------|
+| Titel «Elektrolokomotive **421 389-8**, SBB Cargo» (oft ohne «Re») | `type` **`Re 421`**, `number` **`389-8`** |
+| Titel «… **420** …» analog | `type` **`Re 420`**, `number` = Ordnungsblock |
+
+**Nicht** nur `421` / `420` in `model.type` belassen: Repo-Konvention und Suche erwarten das Präfix **`Re`** (vgl. bestehende `Re 420`-Artikel). Altbezeichnung **Re 4/4 II** darf in der `description` stehen, gehört aber nicht allein in `type`, wenn die Betriebsnummer schon im 421-/420-Schema ist.
+
+Beleg Vorbild: [SBB Re 4/4 II](https://de.wikipedia.org/wiki/SBB_Re_4/4_II) (Re 420/421, Cargo 421 371–397).
