@@ -25,9 +25,9 @@ Langer `model.type`, **`model.number`: `null`**, **ohne** splittbare UIC/EVN in 
 | `Rbe 4/4` + Set-Hinweis («2er Set», «+ Bt Steuerwagen») | `type` `Rbe 4/4`, Livery kurz Set-Bezeichnung | EVN in URL erwartet aber fehlend |
 | `BR 193` / Vectron ohne Ziffernblock im Shop-Titel | `type` `BR 193`, `number` null | UIC im Fliesstext vorhanden, aber nicht gesplittet |
 | `GTW 2/6` + `"Stadler"` + EVU/Lack (THURBO, HLB, …) | `type` `GTW 2/6`, Livery = Lack/EVU-Name | Livery fälschlich «Stadler» (Hersteller) |
-| ČSD **M 152.0 mit Beiwagen Blm** (Roco-Set) | Motorwagen: `type` `Rh M 152.0`, `number` = M-Laufnummer; Beiwagen **eigene** Datei `type` `Blm`, `number` = Blm-Laufnummer, `setNumber` = Set-SKU, Kategorie `wagen` | Beiwagen-Gattung/Nummer nur in der Motorwagen-`type`-Zeile belassen |
+| ČSD **M 152.0 mit Beiwagen Blm** (Roco-Set) | Motorwagen: `type` `Rh M 152.0`, `number` = vierstellige M-Laufnummer (**0001–0678**); Beiwagen **eigene** Datei `{sku}-blm`: `type` `Blm`, `number` = Inventar **000–909** (Serie Blm 24-29), `setNumber` = Set-SKU, Kategorie `wagen` | Beiwagen nur im Motorwagen-`type`; Verwechslung mit EDV **810**/**010**, Umbau **809/811–814**, oder Einzel-Beiwagen-SKU ohne Set |
 
-Details ČSD M 152.0 / Blm / 810 / 010: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md).
+Details, Nummernpläne, Gattungsfolge Blm→Baafx→010/011: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md) → Abschnitt «ČSD M 152.0 (810) und Beiwagen Blm (010)».
 
 ## PIKO Variantengruppen (Schwester-Review)
 
