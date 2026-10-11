@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC",
-    "number": "72000",
+    "type": "CC 72000",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 232,
     "minRadiusMm": 420
   },
-  "description": "Diesellokomotive CC 72000 2.",
+  "description": "Diesellokomotive CC 72000 (2. Serie) der SNCF (Digital/Sound).",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243413.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T10:49:25Z"
 }

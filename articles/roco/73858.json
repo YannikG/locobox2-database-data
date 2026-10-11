@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB",
-    "number": "26000",
+    "type": "BB 26000",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -18,7 +18,7 @@
     "luepMm": 204,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive BB 26000 der Französischen Staatsbahn.Motor mit Schwungmasse, Antrieb auf vier Achsen.",
+  "description": "Elektrolokomotive BB 26000 (Sybic) der SNCF (Digital/Sound).",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236387.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T10:49:25Z"
 }

@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC 6514",
-    "number": null,
+    "type": "CC 6500",
+    "number": "6514",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -18,7 +18,7 @@
     "luepMm": 232,
     "minRadiusMm": 358
   },
-  "description": "Elektrolokomotive CC 6514 in TEE-Lackierung der Französischen Staatsbahn.",
+  "description": "Elektrolokomotive CC 6514 (Serie CC 6500) der SNCF in TEE-Lackierung.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239997.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T10:49:25Z"
 }

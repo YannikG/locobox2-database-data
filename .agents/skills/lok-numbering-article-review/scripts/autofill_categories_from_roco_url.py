@@ -28,9 +28,9 @@ def _categories_from_url(url: str) -> Optional[list[str]]:
         return None
     # Slug before Magento folder: Shop parks Elektrotriebwagen under elektrolokomotiven/.
     if "-elektrotriebwagen-" in u or "/elektrotriebwagen-" in u:
-        return ["lokomotive", "elektrotriebwagen"]
+        return ["triebwagen", "elektrotriebwagen"]
     if "-dieseltriebwagen-" in u or "/dieseltriebwagen-" in u:
-        return ["lokomotive", "dieseltriebwagen"]
+        return ["triebwagen", "dieseltriebwagen"]
     if "/dampflokomotiven/" in u:
         return ["lokomotive", "dampflokomotive"]
     if "/diesellokomotiven/" in u:
@@ -47,9 +47,11 @@ def _categories_from_url(url: str) -> Optional[list[str]]:
         if "-elektrolokomotive-" in u:
             return ["lokomotive", "elektrolokomotive"]
         if "-elektrotriebwagen-" in u:
-            return ["lokomotive", "elektrotriebwagen"]
-        if "-elektrotriebzug-" in u or "-triebzug-" in u or "akkutriebwagen-" in u:
+            return ["triebwagen", "elektrotriebwagen"]
+        if "-elektrotriebzug-" in u or "-triebzug-" in u:
             return ["lokomotive", "triebzug"]
+        if "akkutriebwagen-" in u:
+            return ["triebwagen", "akkutriebwagen"]
     return None
 
 
