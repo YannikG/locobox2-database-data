@@ -7,7 +7,7 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "DB-AG",
+    "operator": "DB AG",
     "type": "146",
     "number": "219-1",
     "livery": null,
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239420.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:06:57Z"
 }
