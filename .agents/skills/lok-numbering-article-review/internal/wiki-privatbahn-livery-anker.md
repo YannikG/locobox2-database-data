@@ -12,7 +12,7 @@ PIKO (und teils andere Shops) setzen **`model.operator`: «Privatbahn»**, obwoh
 | Regiojet | **CZ** | |
 | Railpool | **DE** | Vermietung, Modell oft DE-Kontext |
 | MRCE | **DE** | |
-| ecco-Rail / Ecco Rail / eccorail | **NL** | Operator und Livery oft **Ecco Rail** (nicht Shop-Platzhalter «EINSTELLER»/«Privatbahn») |
+| ecco-Rail / eccorail | **NL** | |
 | Lokotrans | **CZ** | |
 | RailAdventure | **CH** | |
 | Train Charter | **CH** | |
