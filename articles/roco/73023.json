@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 86",
-    "number": null,
+    "number": "257",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242195.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:40:34Z"
 }
