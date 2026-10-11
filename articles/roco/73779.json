@@ -7,10 +7,10 @@
   "uvp": null,
   "model": {
     "country": "PL",
-    "operator": "PKP",
+    "operator": "PKP Cargo",
     "type": "ST44",
-    "number": null,
-    "livery": null,
+    "number": "324",
+    "livery": "PKP Cargo",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241561.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:33:24Z"
 }
