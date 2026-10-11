@@ -6,7 +6,7 @@
   "releaseDate": "2019",
   "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "HU",
     "operator": "GySEV",
     "type": "M62",
     "number": null,
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239283.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:22:23Z"
 }
