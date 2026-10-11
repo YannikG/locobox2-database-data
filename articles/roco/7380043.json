@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "PRESS",
-    "type": "363",
+    "type": "BR 363",
     "number": null,
     "livery": "PRESS blau",
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 87,
     "minRadiusMm": 286
   },
-  "description": "Diesellokomotive Baureihe 363 der PRESS in blauer Lackierung.",
+  "description": "Diesellokomotive BR 363 der PRESS in blauer Lackierung.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270063.jpg"
   },
-  "updatedAt": "2026-10-11T07:36:13Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }

@@ -11,7 +11,7 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "38",
+    "type": "BR 38",
     "number": "2833",
     "livery": null,
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 156,
     "minRadiusMm": 267
   },
-  "description": "Dampflokomotive 38 2833 der DR (DDR) mit Giesl-Ejektor («Quetschesse»), Bw Saalfeld.",
+  "description": "Dampflokomotive BR 38 2833 der DR (DDR) mit Giesl-Ejektor («Quetschesse»), Bw Saalfeld.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/269731.jpg"
   },
-  "updatedAt": "2026-10-11T07:38:03Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }

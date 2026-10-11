@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "TRI",
-    "type": "145",
+    "type": "BR 145",
     "number": "040-2",
     "livery": null,
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 145 040-2 der TRI Train Rental.",
+  "description": "Elektrolokomotive BR 145 040-2 der TRI Train Rental.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270041.jpg"
   },
-  "updatedAt": "2026-10-11T07:36:23Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }

@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "Captrain",
-    "type": "185",
+    "type": "BR 185",
     "number": "550-1",
     "livery": null,
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 158,
     "minRadiusMm": 286
   },
-  "description": "Elektrolokomotive 185 550-1 der Captrain.",
+  "description": "Elektrolokomotive BR 185 550-1 der Captrain.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270072.jpg"
   },
-  "updatedAt": "2026-10-11T07:36:13Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }

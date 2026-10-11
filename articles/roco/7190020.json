@@ -11,7 +11,7 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "86",
+    "type": "BR 86",
     "number": "1591-6",
     "livery": null,
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 115,
     "minRadiusMm": 286
   },
-  "description": "Dampflokomotive 86 1591-6 der DR, Formvariante ohne Glocke, Bw Aue.",
+  "description": "Dampflokomotive BR 86 1591-6 der DR, Formvariante ohne Glocke, Bw Aue.",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270064.jpg"
   },
-  "updatedAt": "2026-10-11T07:36:13Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }

@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "261",
+    "type": "BR 261",
     "number": "634-0",
     "livery": "ozeanblau/beige",
     "scale": "TT",
@@ -21,7 +21,7 @@
     "luepMm": 87,
     "minRadiusMm": 286
   },
-  "description": "Diesellokomotive 261 634-0 der DB in ozeanblau/beige.",
+  "description": "Diesellokomotive BR 261 634-0 der DB in ozeanblau/beige.",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270061.jpg"
   },
-  "updatedAt": "2026-10-11T07:36:13Z"
+  "updatedAt": "2026-10-11T07:43:02Z"
 }
