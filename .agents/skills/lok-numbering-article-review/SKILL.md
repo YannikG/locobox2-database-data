@@ -137,7 +137,8 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 
 - `country` **`null`** und `operator` **«K.P.E.V.»** oder gleichwertig klar **Deutsches Kaiserreich** (historisch) → **`DE`**.
 - `country` **`null`** und `operator` **«Südbahn»** (k. k. Südbahn) mit AT-Kontext in `description`/`categories` → **`AT`**.
-- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** / **DB AG** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- **Operator-Schreibweise:** kanonisch **`DB AG`** (Leerzeichen). Shop-Varianten **`DB-AG`** / **`DBAG`** → per Autofix/Parser auf **`DB AG`** normalisieren (nicht als eigener Operator belassen).
 - **PIKO «Privatbahn»:** Livery- und Textanker → [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md); nur bei eindeutigem Anker.
 
 **Nicht** per Skript raten: Grenzverkehr ohne Anker, SNCB/SŽ-Mischungen, neue EVU-Namen ohne Eintrag in der Referenztabelle. Dort **Findings** oder Map/Skript erweitern.

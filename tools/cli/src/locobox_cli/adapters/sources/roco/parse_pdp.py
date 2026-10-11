@@ -63,6 +63,12 @@ _OPERATOR_COUNTRY = {
     "DSB": "DK",
 }
 
+# Shop/attribute variants → Locobox spelling (before country map).
+_OPERATOR_ALIASES = {
+    "DB-AG": "DB AG",
+    "DBAG": "DB AG",
+}
+
 # Longest keys first so SNCF/DRG/DB AG win over NS/DR/DB.
 _OPERATOR_KEYS: tuple[tuple[str, str], ...] = tuple(
     sorted(_OPERATOR_COUNTRY.items(), key=lambda kv: len(kv[0]), reverse=True)
@@ -199,6 +205,10 @@ def _dr_country(era: str) -> str:
 
 def _operator_country(op: str, *, era: str = "") -> tuple[str, str]:
     key = op.strip()
+    for bad, good in _OPERATOR_ALIASES.items():
+        if key.upper() == bad.upper():
+            key = good
+            break
     ku = key.upper()
     for name, cc in _OPERATOR_KEYS:
         nu = name.upper()

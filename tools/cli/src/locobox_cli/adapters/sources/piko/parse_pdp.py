@@ -28,6 +28,11 @@ _OPERATOR_COUNTRY = {
     "MAV": "HU",
 }
 
+_OPERATOR_ALIASES = {
+    "DB-AG": "DB AG",
+    "DBAG": "DB AG",
+}
+
 
 def _meta(html: str, prop: str) -> Optional[str]:
     m = re.search(
@@ -161,6 +166,10 @@ def _electric_from_attrs(attrs: dict[str, str], description: str) -> str:
 
 def _operator_country(op: str) -> tuple[str, str]:
     key = op.strip()
+    for bad, good in _OPERATOR_ALIASES.items():
+        if key.upper() == bad.upper():
+            key = good
+            break
     for name, cc in _OPERATOR_COUNTRY.items():
         if key.upper() == name.upper() or key.upper().startswith(name.upper() + " "):
             return name if name != "OBB" else "ÖBB", cc

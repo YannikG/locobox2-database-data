@@ -66,7 +66,11 @@ def _normalize_piko_operator(raw: str) -> str:
         "OBB": "ÖBB",
         "CSD": "ČSD",
         "CD": "ČD",
+        "DB-AG": "DB AG",
+        "DBAG": "DB AG",
     }
+    if s in aliases:
+        return aliases[s]
     return aliases.get(s.upper(), s)
 
 

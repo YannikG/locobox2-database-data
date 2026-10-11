@@ -8,9 +8,9 @@ Tier **A** — ``SKILL.md`` «Allowlist: model.country»::
   - ``operator`` «Südbahn» (inkl. OCR «Sudbahn») + AT-Kontext in ``description``/``categories`` → ``AT``
 
 Tier **B** — explizite Operator→ISO-Zuordnung für klar staatliche oder eindeutig nationale Systeme
-(siehe ``_OPERATOR_COUNTRY``): u. a. **DB** → ``DE``, **CSD** → ``CS`` (wie bestehende ČSD-Artikel),
+(siehe ``_OPERATOR_COUNTRY``): u. a. **DB** / **DB AG** → ``DE``, **CSD** → ``CS`` (wie bestehende ČSD-Artikel),
 **VSM** → ``NL``, **GTS Rail** → ``IT``, **SBW** (Starkenberger Güterlogistik) → ``AT``,
-**D&RGW** / **SP (Southern Pacific)** → ``US`` (Nordamerika).
+**D&RGW** / **SP (Southern Pacific)** → ``US`` (Nordamerika). Operator-Alias **DB-AG** / **DBAG** → **DB AG**.
 
 Tier **C** — **PIKO-Shop** ``operator`` «Privatbahn»: nur wenn ``model.type`` plus Fliesstext/
 ``categories`` eindeutige Marken- oder Bahngesellschaftsanker enthalten (siehe
@@ -151,6 +151,7 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "ZSSK": "SK",
     "K.W.St.E.": "DE",
     "DB": "DE",
+    "DB AG": "DE",
     "CSD": "CS",
     "VSM": "NL",
     "NS": "NL",
@@ -169,6 +170,28 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "DB Cargo": "DE",
     "Ecco Rail": "NL",
 }
+
+# Locobox-kanonische Operator-Schreibweisen (Shop-Varianten → Zielstring).
+_OPERATOR_ALIASES: dict[str, str] = {
+    "DB-AG": "DB AG",
+    "DBAG": "DB AG",
+}
+
+
+def _propose_operator_alias(article: Article) -> Optional[tuple[str, str]]:
+    """``DB-AG`` / ``DBAG`` → ``DB AG`` (Leerzeichen, nicht Bindestrich)."""
+    model = article.get("model")
+    if not isinstance(model, dict):
+        return None
+    op = _norm_op(model.get("operator"))
+    if not op:
+        return None
+    for bad, good in _OPERATOR_ALIASES.items():
+        if op == bad or op.upper() == bad.upper():
+            if op == good:
+                return None
+            return (f"operator_alias:{bad}", good)
+    return None
 
 
 def _propose_missing_operator_fields(
@@ -427,10 +450,22 @@ def main(argv: list[str]) -> int:
         prop = propose_country(data)
         sp_fields = _propose_sp_operator_era(data)
         missing_op = _propose_missing_operator_fields(data)
+        op_alias = _propose_operator_alias(data)
         era_prop = _propose_era_from_blob(data)
-        if not prop and not sp_fields and not missing_op and not era_prop:
+        if not prop and not sp_fields and not missing_op and not op_alias and not era_prop:
             continue
         file_dirty = False
+        if op_alias:
+            alias_rule, new_op = op_alias
+            if model.get("operator") != new_op:
+                if not dry_run:
+                    model["operator"] = new_op
+                    file_dirty = True
+                else:
+                    print(
+                        f"{path}\t{alias_rule}\toperator -> {new_op!r}",
+                        file=sys.stderr,
+                    )
         if missing_op:
             rule_id, new_op, new_c = missing_op
             if new_op and (
