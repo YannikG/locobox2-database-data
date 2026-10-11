@@ -6,11 +6,11 @@
   "releaseDate": "2019",
   "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "HUPAC",
+    "country": "CH",
+    "operator": "SBB Cargo International",
     "type": "BR 193",
-    "number": null,
-    "livery": null,
+    "number": "492-6",
+    "livery": "Nightpiercer",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241559.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:16:14Z"
 }
