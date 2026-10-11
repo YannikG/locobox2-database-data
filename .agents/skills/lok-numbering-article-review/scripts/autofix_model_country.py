@@ -167,6 +167,7 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "PR": "PL",
     "Norte": "US",
     "DB Cargo": "DE",
+    "Ecco Rail": "NL",
 }
 
 
@@ -218,7 +219,11 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
         ("privatbahn_be_kombirail", "BE", lambda: "kombirail" in c),
         ("privatbahn_cz_regiojet", "CZ", lambda: "regiojet" in c),
         ("privatbahn_de_railpool", "DE", lambda: "railpool" in c),
-        ("privatbahn_nl_ecco", "NL", lambda: "ecco-rail" in c or "eccorail" in c),
+        (
+            "privatbahn_nl_ecco",
+            "NL",
+            lambda: "ecco-rail" in c or "ecco rail" in c or "eccorail" in c,
+        ),
         ("privatbahn_de_mrce", "DE", lambda: "mrce" in c),
         ("privatbahn_cz_lokotrans", "CZ", lambda: "lokotrans" in c),
         ("privatbahn_ch_railadventure", "CH", lambda: "railadventure" in c),
