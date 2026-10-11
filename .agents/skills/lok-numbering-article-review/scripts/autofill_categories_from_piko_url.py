@@ -56,7 +56,7 @@ def _categories_from_piko(url: str, description: str = "", model_type: str = "")
     b = _blob(url, description, model_type)
 
     if "dieseltriebwagen" in b or "sound-dieseltriebwagen" in u:
-        return ["lokomotive", "dieseltriebwagen"]
+        return ["triebwagen", "dieseltriebwagen"]
     if (
         "sound-e-triebwagen" in u
         or "e-triebwagen" in u
@@ -65,13 +65,13 @@ def _categories_from_piko(url: str, description: str = "", model_type: str = "")
         or "n-triebwagen" in u
         or re.search(r"(?<![a-z])triebwagen", b)
     ):
-        return ["lokomotive", "triebzug"]
+        return ["triebwagen", "elektrotriebwagen"]
     if "dieseltriebzug" in b or "elektrotriebzug" in b or "sound-elektrotriebzug" in u:
         return ["lokomotive", "triebzug"]
     if "triebzug" in b and "triebwagen" not in b:
         return ["lokomotive", "triebzug"]
     if "schienenbus" in b:
-        return ["lokomotive", "triebzug"]
+        return ["triebwagen", "dieseltriebwagen"]
 
     if "zugset" in b or "start-set" in b or "start-set" in u or "start_set" in b:
         sub = _lok_subtype_from_power(b)

@@ -43,9 +43,25 @@ class TestProposeSplit(unittest.TestCase):
         }
         self.assertIsNone(m.propose_split(art))
 
-    def test_cc(self) -> None:
+    def test_cc_unit(self) -> None:
         art = {"model": {"type": "CC 72052", "number": None}}
-        self.assertEqual(m.propose_split(art), ("sncf_bb_cc_5", "CC", "72052"))
+        self.assertEqual(
+            m.propose_split(art), ("sncf_bb_cc_5", "CC 72000", "72052")
+        )
+
+    def test_cc_series_no_split(self) -> None:
+        art = {"model": {"type": "CC 72000", "number": None}}
+        self.assertIsNone(m.propose_split(art))
+
+    def test_bb_series_no_split(self) -> None:
+        art = {"model": {"type": "BB 26000", "number": None}}
+        self.assertIsNone(m.propose_split(art))
+
+    def test_cc_4_unit(self) -> None:
+        art = {"model": {"type": "CC 6514", "number": None}}
+        self.assertEqual(
+            m.propose_split(art), ("sncf_bb_cc_4", "CC 6500", "6514")
+        )
 
     def test_rh_109(self) -> None:
         art = {"model": {"type": "Rh 109", "number": None}}

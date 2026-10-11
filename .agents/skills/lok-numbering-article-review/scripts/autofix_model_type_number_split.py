@@ -18,6 +18,7 @@ and ``SKILL.md`` (Auto-Fix Splitting).
 * Dampf: «BR 35.10» (DDR EDV-Unterbauart) → ``BR 35`` + ``10`` + ``dampflokomotive``.
 * Dampf: «Rh 354.1» (ČSD) → ``Rh 354`` + ``1`` + ``dampflokomotive``.
 * PIKO-Shop (``manufacturer``/URL): typische Titel mit ``BR``/``Rh`` + Baureihe nach Produktwörtern → ``type`` = Baureihe, ``number`` = ``null`` wenn keine Betriebsnummer im Titel steht.
+* SNCF ``BB``/``CC`` + Ziffern: Serie ``…000``/``…00`` → kein Split; sonst Serie in ``type``, volle Ziffern in ``number`` (siehe ``reference-sncf-type-number.md``).
 
 Usage::
 
@@ -276,9 +277,23 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     if m:
         return ("re_3_dash", m.group(1), m.group(2))
 
+    # SNCF: «BB 26022» → type BB 26000 + number 26022; pure series «BB 26000» → no split.
+    # See reference-sncf-type-number.md (never park the series in number alone).
     m = re.fullmatch(r"(BB|CC) (\d{5})", t)
     if m:
-        return ("sncf_bb_cc_5", m.group(1), m.group(2))
+        digits = m.group(2)
+        if digits.endswith("000"):
+            return None
+        series = str((int(digits) // 1000) * 1000)
+        return ("sncf_bb_cc_5", f"{m.group(1)} {series}", digits)
+
+    m = re.fullmatch(r"(BB|CC) (\d{4})", t)
+    if m:
+        digits = m.group(2)
+        if digits.endswith("00"):
+            return None
+        series = str((int(digits) // 100) * 100)
+        return ("sncf_bb_cc_4", f"{m.group(1)} {series}", digits)
 
     m = re.fullmatch(r"Y (\d{4,5})", t)
     if m:
