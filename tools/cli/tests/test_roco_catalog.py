@@ -28,3 +28,21 @@ def test_rows_to_queue_keeps_unknown_price_with_min_filter() -> None:
     rows = extract_roco_catalog_rows(FIXTURE.read_text(encoding="utf-8"))
     q = rows_to_queue(rows, min_price_eur=120)
     assert len(q.entries) == len(rows)
+
+
+WINTER = Path(__file__).parent / "fixtures" / "roco_winter_2018_catalog_snippet.txt"
+
+
+def test_extract_art_nr_winter_catalog_locomotives() -> None:
+    rows = extract_roco_catalog_rows(WINTER.read_text(encoding="utf-8"))
+    arts = [r.article for r in rows]
+    assert "72016" in arts
+    assert "78016" in arts
+    assert "72254" in arts
+    assert "73256" in arts  # 421 SBB despite prose on title line
+    assert "73224" in arts  # BR 170; wrapped Doppelstockwagen must not kill loco state
+    assert "74160" not in arts
+    assert "64188" not in arts
+    by_art = {r.article: r for r in rows}
+    assert "421" in by_art["73256"].line_context
+    assert "BR 170" in by_art["73224"].line_context

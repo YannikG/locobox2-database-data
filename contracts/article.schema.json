@@ -58,19 +58,26 @@
       ]
     },
     "uvp": {
-      "type": "object",
-      "additionalProperties": false,
-      "required": ["amount", "currency"],
-      "properties": {
-        "amount": {
-          "type": "number",
-          "minimum": 0
+      "anyOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["amount", "currency"],
+          "properties": {
+            "amount": {
+              "type": "number",
+              "minimum": 0
+            },
+            "currency": {
+              "type": "string",
+              "pattern": "^[A-Z]{3}$"
+            }
+          }
         },
-        "currency": {
-          "type": "string",
-          "pattern": "^[A-Z]{3}$"
+        {
+          "type": "null"
         }
-      }
+      ]
     },
     "model": {
       "type": "object",
