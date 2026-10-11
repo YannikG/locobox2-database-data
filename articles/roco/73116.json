@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73116",
+  "manufacturer": "Roco",
+  "articleNumber": "73116",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo International",
+    "type": "BR 193",
+    "number": "492-6",
+    "livery": "Nightpiercer",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive BR 193 der HUPAC AG, Epoche VI.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73116-elektrolokomotive-br-193-hupacsbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241558.jpg"
+  },
+  "updatedAt": "2026-10-11T11:16:14Z"
+}

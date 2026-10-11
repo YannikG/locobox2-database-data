@@ -26,6 +26,11 @@ def _categories_from_url(url: str) -> Optional[list[str]]:
     u = url.lower()
     if "roco.cc" not in u:
         return None
+    # Slug before Magento folder: Shop parks Elektrotriebwagen under elektrolokomotiven/.
+    if "-elektrotriebwagen-" in u or "/elektrotriebwagen-" in u:
+        return ["triebwagen", "elektrotriebwagen"]
+    if "-dieseltriebwagen-" in u or "/dieseltriebwagen-" in u:
+        return ["triebwagen", "dieseltriebwagen"]
     if "/dampflokomotiven/" in u:
         return ["lokomotive", "dampflokomotive"]
     if "/diesellokomotiven/" in u:
@@ -41,8 +46,12 @@ def _categories_from_url(url: str) -> Optional[list[str]]:
             return ["lokomotive", "diesellokomotive"]
         if "-elektrolokomotive-" in u:
             return ["lokomotive", "elektrolokomotive"]
-        if "-elektrotriebzug-" in u or "-triebzug-" in u or "akkutriebwagen-" in u:
+        if "-elektrotriebwagen-" in u:
+            return ["triebwagen", "elektrotriebwagen"]
+        if "-elektrotriebzug-" in u or "-triebzug-" in u:
             return ["lokomotive", "triebzug"]
+        if "akkutriebwagen-" in u:
+            return ["triebwagen", "akkutriebwagen"]
     return None
 
 

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73399",
+  "manufacturer": "Roco",
+  "articleNumber": "73399",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 6500",
+    "number": "6514",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 232,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive CC 6514 (Serie CC 6500) der SNCF in TEE-Lackierung.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73399-elektrolokomotive-cc-6514-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239998.jpg"
+  },
+  "updatedAt": "2026-10-11T10:49:25Z"
+}

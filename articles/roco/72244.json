@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72244",
+  "manufacturer": "Roco",
+  "articleNumber": "72244",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 50.50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 264,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 50.50 der Deutschen Reichsbahn, Epoche IV.Motor mit Schwungmasse, Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf die fünf Treibachsen der…",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/72244-dampflokomotive-br-5050-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239417.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

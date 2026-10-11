@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73485",
+  "manufacturer": "Roco",
+  "articleNumber": "73485",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1216",
+    "number": "019",
+    "livery": "Leonardo",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1216 der Österreichischen Bundesbahnen im „500 Jahre Leonardo Da Vinci“-Design, Epoche VI.Motor mit Schwungmasse.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73485-elektrolokomotive-rh-1216-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240897.jpg"
+  },
+  "updatedAt": "2026-10-11T11:31:45Z"
+}

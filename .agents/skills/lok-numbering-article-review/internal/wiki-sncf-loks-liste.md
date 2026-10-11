@@ -6,20 +6,23 @@
 |------|-----------|
 | `country` | **FR**, ausser grenzüberschreitendem Vorbild oder Import (dann Text/Operator) |
 | `operator` | **SNCF**, **SNCF Réseau**, **Fret SNCF**, **Captrain** (früher), **Thello** (eingestellt), Regionalmarken; **Keolis** / **Transilien**-Umfeld nur wenn Text passt |
-| `categories` | `elektrolokomotive` / `diesellokomotive` / `dampflokomotive` / `triebzug` muss zum **Antrieb** im Fliesstext passen |
-| `electricSystem` | Häufig **1,5 kV DC** (Altnetz), **25 kV 50 Hz AC** (LGV und modernes Netz), **Mehrsystem** bei Grenz- und Güterloks (z. B. «Sybic»-Familie) |
+| `categories` | Lok: `lokomotive` + `elektrolokomotive` / `diesellokomotive` / `dampflokomotive`. **Elektrotriebwagen:** `triebwagen` + `elektrotriebwagen` (**ohne** `lokomotive`). Triebzüge: `triebzug`. |
+| `electricSystem` | Häufig **1,5 kV DC** (Altnetz), **25 kV 50 Hz AC** (LGV und modernes Netz), **Mehrsystem** bei Grenz- und Güterloks (z. B. «Sybic»-Familie). **Achtung:** Locobox-`electricSystem` = Modellstrom (DC/AC-Analog/Digital), nicht Vorbild-kV. |
 
 ## Baureihen- und Schreibweisen (Stichworte, nicht vollständig)
 
-- **Elektro-Loks (Gattung):** Präfixe **BB** (Zweimotorig-Zweiachser-Tradition), **CC** (dreiteilig Co-Co), modern **Prima**, **Traxx**, **Vectron**-Derivate; Hochgeschwindigkeit **TGV** (Triebzug, nicht als klassische «Baureihe + Ordnungsnummer» behandeln).
-- **Diesel:** **A1AA1A 62000**, **BB 75000**-Linie, **Y**-Verschiebeloks; **Gasturbine** historisch (selten Modellfälle).
-- **Dampf:** Historische Achsfolge-Buchstaben und SNCF-**Reihennummern**; Museums- und Dampfbahn-Vorbilder oft Sondernummer.
-- **Triebzüge:** **TGV**, **Régiolis**, **Coradia** usw. → meist `triebzug`, nicht mit Einzellok-Baureihe verwechseln.
+- **Elektro-Loks (Gattung):** Präfixe **BB** (z. B. **BB 26000** Sybic), **CC** (z. B. **CC 6500**, **CC 72000** Diesel), modern **Prima**, **Traxx**, **Vectron**-Derivate; Hochgeschwindigkeit **TGV** (Triebzug).
+- **Diesel:** **CC 72000**, **BB 75000**-Linie, **Y**-Verschiebeloks; **Gasturbine** historisch (selten Modellfälle).
+- **Dampf:** Historische Achsfolge / «Serie …» (z. B. **232 TC**); Museums-Vorbilder oft Sondernummer.
+- **Triebzüge / Triebwagen:** **TGV**, **Régiolis**, **Coradia** → `triebzug`; Einzel-**Elektrotriebwagen** → `triebwagen` + `elektrotriebwagen`.
 
 ## Split `type` / `number`
 
-- Französische Shop-Strings oft «**BB 26000**» oder «**222 009-9**»-artig: Baureihe vs. EVN-Teil an Leerzeichen splitten, wenn das Vorbild einheitlich so geführt wird; bei **TGV** oft Zug-/Rame-Bezeichnung, nicht Lok-BR.
-- Punktnotation **seltener** als bei AT/CH; eher **Leerzeichen** oder reine BR-Zahl plus Nummer.
+**Pflichtreferenz:** [reference-sncf-type-number.md](../reference-sncf-type-number.md).
+
+- «**BB 26000**» / «**CC 72000**» im Shop ohne Einzelnummer → Serie in `type`, `number` **null** (nicht `BB` + `26000`).
+- «**CC 6514**» → `type` `CC 6500`, `number` `6514`.
+- Punktnotation **seltener** als bei AT/CH; eher **Leerzeichen**.
 
 ## Grenzfälle
 

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73900",
+  "manufacturer": "Roco",
+  "articleNumber": "73900",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 2143",
+    "number": "05",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 181,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 2143.05 der Österreichischen Bundesbahnen.Motor mit Schwungmasse, Antrieb auf vier Achsen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73900-diesellokomotive-214305-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236093.jpg"
+  },
+  "updatedAt": "2026-10-11T10:44:21Z"
+}

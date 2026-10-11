@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73020",
+  "manufacturer": "Roco",
+  "articleNumber": "73020",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 86",
+    "number": "1591",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 160,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 86 der Deutschen Reichsbahn, Epoche IV.Motor mit Schwungmasse, Antrieb auf 4 Achsen.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73020-dampflokomotive-br-86-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242192.jpg"
+  },
+  "updatedAt": "2026-10-11T11:42:03Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73363",
+  "manufacturer": "Roco",
+  "articleNumber": "73363",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 254",
+    "number": "017",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 213,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 254 der Deutschen Reichsbahn.■ Mit Metallgriffstangen und Handläufen sowie vielen separat angesetzten Steckteilen■ Typische Güterzuglokomotive der Epo…",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73363-elektrolokomotive-br-254-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240432.jpg"
+  },
+  "updatedAt": "2026-10-11T11:30:53Z"
+}

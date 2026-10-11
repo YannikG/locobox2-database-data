@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79783",
+  "manufacturer": "Roco",
+  "articleNumber": "79783",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Re 425",
+    "number": "194",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 178,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 4/4 194 der BLS.Wechselstrom-Modell mit Digital-Decoder und digital schaltbaren Sound- und Lichtfunktionen sowie Pufferkondensator für unterbrechungsfreie S…",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/79783-elektrolokomotive-re-44-194-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240998.jpg"
+  },
+  "updatedAt": "2026-10-11T11:26:39Z"
+}

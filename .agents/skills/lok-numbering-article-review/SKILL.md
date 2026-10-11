@@ -66,8 +66,8 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 
 - **`autofix_model_type_number_split.py`** — mechanischer Split `model.type` / `model.number` (Allowlist, ändert keine `description`).
 - **`autofix_description_ocr.py`** — optionale OCR-/Encoding-Ersetzungen nur in **`description`**.
-- **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Kategorie (sonst kein Schreiben).
-- **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (Kategorien; **kein** Ersatz für Typ-/Nummer-Review).
+- **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Lok-Kategorie, bzw. **`triebwagen`** + `elektrotriebwagen` / `dieseltriebwagen` / `akkutriebwagen` (**ohne** `lokomotive`) bei Triebwagen-Slug (sonst kein Schreiben).
+- **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (gleiche Parent-Regel Triebwagen vs. Lok; **kein** Ersatz für Typ-/Nummer-Review).
 - **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
 - **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
@@ -137,7 +137,8 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 
 - `country` **`null`** und `operator` **«K.P.E.V.»** oder gleichwertig klar **Deutsches Kaiserreich** (historisch) → **`DE`**.
 - `country` **`null`** und `operator` **«Südbahn»** (k. k. Südbahn) mit AT-Kontext in `description`/`categories` → **`AT`**.
-- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** / **DB AG** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- **Operator-Schreibweise:** kanonisch **`DB AG`** (Leerzeichen). Shop-Varianten **`DB-AG`** / **`DBAG`** → per Autofix/Parser auf **`DB AG`** normalisieren (nicht als eigener Operator belassen).
 - **PIKO «Privatbahn»:** Livery- und Textanker → [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md); nur bei eindeutigem Anker.
 
 **Nicht** per Skript raten: Grenzverkehr ohne Anker, SNCB/SŽ-Mischungen, neue EVU-Namen ohne Eintrag in der Referenztabelle. Dort **Findings** oder Map/Skript erweitern.
@@ -213,6 +214,7 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 | DR 1920–1945 (Reichsbahn) | [internal/wiki-dr-reichsbahn-1920-1945-baureihen-liste.md](internal/wiki-dr-reichsbahn-1920-1945-baureihen-liste.md) |
 | DDR: DR-Baureihen (1945–1993) | [internal/wiki-dr-ddr-baureihen-liste.md](internal/wiki-dr-ddr-baureihen-liste.md) |
 | SNCF Überblick (Frankreich) | [internal/wiki-sncf-loks-liste.md](internal/wiki-sncf-loks-liste.md) |
+| SNCF `type` / `number` (BB/CC Serie vs. Laufnummer) | [reference-sncf-type-number.md](reference-sncf-type-number.md) |
 | Italien Überblick | [internal/wiki-italien-loks-liste.md](internal/wiki-italien-loks-liste.md) |
 | Niederlande Überblick | [internal/wiki-niederlande-loks-liste.md](internal/wiki-niederlande-loks-liste.md) |
 | Ungarn | [internal/wiki-ungarn-loks-liste.md](internal/wiki-ungarn-loks-liste.md) |

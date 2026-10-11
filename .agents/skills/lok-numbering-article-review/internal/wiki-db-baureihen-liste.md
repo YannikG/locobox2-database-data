@@ -6,6 +6,7 @@
 
 ## Nummerierung / Rechtliches (Kurz)
 
+- Locobox-`operator` für die AG: **`DB AG`** (mit Leerzeichen; nicht `DB-AG` / `DBAG`).
 - Baureihen folgen dem **Baureihenschema der Deutschen Bundesbahn**, 1994 von der DB AG übernommen.
 - **Eisenbahn-Bundesamt** ab 2007: nationales Fahrzeugeinstellungsregister; Vergabe über **UIC-Baureihenschema Triebfahrzeuge**; öffentliche Liste „Baureihen im Fahrzeugeinstellungsregister“ existiert parallel.
 - Interne DB-Baureihennummern können von Registerangaben abweichen.

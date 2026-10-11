@@ -36,6 +36,8 @@ def test_operator_country_no_false_prefix() -> None:
     assert _operator_country("SNCF") == ("SNCF", "FR")
     assert _operator_country("DRG") == ("DRG", "DE")
     assert _operator_country("DB AG") == ("DB AG", "DE")
+    assert _operator_country("DB-AG") == ("DB AG", "DE")
+    assert _operator_country("DBAG") == ("DB AG", "DE")
     assert _operator_country("NS") == ("NS", "NL")
     assert _operator_country("DB Cargo") == ("DB", "DE")
 

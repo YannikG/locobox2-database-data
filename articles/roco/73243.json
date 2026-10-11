@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73243",
+  "manufacturer": "Roco",
+  "articleNumber": "73243",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "HU",
+    "operator": "GySEV",
+    "type": "M62",
+    "number": "905",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV-V",
+    "luepMm": 202,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe M62 der Raaberbahn/Györ-Sopron-Ebenfurti Vasút (GYSEV), Epoche IV–V.Motor mit Schwungmasse.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73243-diesellokomotive-m62-gysev.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239283.jpg"
+  },
+  "updatedAt": "2026-10-11T11:22:44Z"
+}

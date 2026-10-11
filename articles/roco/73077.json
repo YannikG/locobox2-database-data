@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73077",
+  "manufacturer": "Roco",
+  "articleNumber": "73077",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 112",
+    "number": "309-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 112 309-0 der Deutschen Bundesbahn, Epoche IV.Modell mit Digital-Decoder und digital schaltbaren Sound- und Lichtfunktionen.■ Ideale Zuglokomotive für die Rhei…",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73077-elektrolokomotive-112-309-0-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243661.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

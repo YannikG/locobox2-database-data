@@ -15,6 +15,7 @@ PIKO-Shop-Titel und die in `description` eingebetteten Attributzeilen sind **Mar
 | Präfix **`N `**, **`H0 `**, **`TT `** am Titelanfang | **Spur** des Modells | nicht als Baureihe interpretieren; `model.scale` ist massgebend |
 | **`Wechselstromversion`** / **`Wechselstrom`** im Titel | AC-Modellvariante | aus `model.type`; `model.electricSystem` prüfen (Modell-Enum, nicht Vorbild-kV) |
 | **`Elektotriebwagen`** (fehlendes «r») | PIKO-Schreibweise | gleichbedeutend mit Elektrotriebwagen; kein eigener Typ |
+| Shop-Slug **Diesel-/Elektrotriebwagen** | Kategorie | `triebwagen` + `dieseltriebwagen` / `elektrotriebwagen` (**ohne** `lokomotive`); siehe Autofill-Skript |
 | Anführungszeichen um **`"Stadler"`** bei GTW 2/6 | **Fahrzeughersteller / Typenname**, nicht Lackierung | Livery aus Rest des Titels (THURBO, HLB, StB, …), nicht «Stadler» |
 | **`bwegt`** bei THURBO-Titeln | Shop-Tippfehler für **«bewegt»** (Werbefolierung) | ignorieren; Livery **THURBO**, nicht «bwegt» |
 | **`operator`: «Privatbahn»** | Shop-Platzhalter statt EVU | Land/EVU aus Livery und Fliesstext ([wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md)); Tippfehler **«Privatbahhn»** wie Privatbahn behandeln |

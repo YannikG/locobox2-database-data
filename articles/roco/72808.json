@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72808",
+  "manufacturer": "Roco",
+  "articleNumber": "72808",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Beilhack Schneeschleuder",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V-VI",
+    "luepMm": 150,
+    "minRadiusMm": 358
+  },
+  "description": "Selbstfahrende Beilhack Schneeschleuder der Französischen Staatsbahn.Modell mit zahlreichen digital schaltbaren Funktionen: Heben und Senken der Fräseinrichtung, drehende Schleu…",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/72808-beilhack-schneeschleuder-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/233738.jpg"
+  },
+  "updatedAt": "2026-10-11T10:43:56Z"
+}

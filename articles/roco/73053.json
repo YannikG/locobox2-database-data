@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73053",
+  "manufacturer": "Roco",
+  "articleNumber": "73053",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Pt 2/3",
+    "number": "6068",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "I",
+    "luepMm": 107,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Gattung Pt 2/3 der Königlich Bayerischen Staats-Eisenbahnen, Epoche I.Modell: Vorbildgetreu lackiert und beschriftet.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73053-dampflokomotive-gattung-pt-23-kbaystsb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243043.jpg"
+  },
+  "updatedAt": "2026-10-11T11:39:34Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-52504",
+  "manufacturer": "Roco",
+  "articleNumber": "52504",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 232",
+    "number": "512-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "VI",
+    "luepMm": 237,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 232 512-4 der Deutschen Bahn AG.Fein detaillierte Ausführung mit 3-Licht Spitzensignal und 2 roten Schlusslichtern.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/52504-diesellokomotive-232-512-4-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/231565.jpg"
+  },
+  "updatedAt": "2026-10-11T11:19:41Z"
+}
