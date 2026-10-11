@@ -11,8 +11,8 @@
   "model": {
     "country": "CZ",
     "operator": "CD",
-    "type": "Rh",
-    "number": "242",
+    "type": "Rh 242",
+    "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45016/thumbs/55885_435303.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }

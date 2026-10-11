@@ -11,8 +11,8 @@
   "model": {
     "country": "CZ",
     "operator": "CD",
-    "type": "Rh",
-    "number": "230",
+    "type": "Rh 230",
+    "number": null,
     "livery": "CD Cargo",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -35,5 +35,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_45710/thumbs/58272_511590.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }

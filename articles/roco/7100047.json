@@ -11,8 +11,8 @@
   "model": {
     "country": "AT",
     "operator": "Südbahn",
-    "type": "Rh",
-    "number": "109",
+    "type": "Rh 109",
+    "number": null,
     "livery": "Südbahn",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -34,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265571.jpg"
   },
-  "updatedAt": "2026-05-05T21:22:01Z"
+  "updatedAt": "2026-10-11T10:06:50Z"
 }
