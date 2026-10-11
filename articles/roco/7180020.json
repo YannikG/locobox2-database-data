@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7180020",
+  "manufacturer": "Roco",
+  "articleNumber": "7180020",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 319.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "86 1591-6",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "IV",
+    "luepMm": 115,
+    "minRadiusMm": 286
+  },
+  "description": "Dampflokomotive 86 1591 der Deutschen Reichsbahn.Formvariante!■ Vor- und Nachlaufradsatz mit 7 Speichen■ Kesselausführung ohne Glocke■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Lang ausgeschnittene Wasserkästen■ Beheimatung Rbd Dresden, Bw AueVon 1928 bis 1943 lieferten fast alle deutschen Lokomotivfabriken insgesamt 775 Maschinen dieser Baureihe an die Deutsche Reichsbahn-Gesellschaft. Konstruktiv waren die 1.000-PS-Loks für eine Geschwindigkeit von 70–80 km/h ausgelegt, womit sie neben ihrem Haupteinsatzgebiet der „Nebenbahn“ auch auf Haupt- und Zulaufstrecken einsetzbar waren. Zu Beginn der 1950er Jahre standen in der DDR noch 164 Loks der Baureihe 86 zur Verfügung. 1970 erhielten noch 162 Maschinen eine EDV-gerechte Betriebsnummer, die Ausmusterung erfolgte ab 1973.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/7180020-dampflokomotive-86-1591-6-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270036.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

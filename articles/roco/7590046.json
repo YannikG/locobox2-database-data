@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7590046",
+  "manufacturer": "Roco",
+  "articleNumber": "7590046",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 319.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1116 „Railjet“",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 161,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive Reihe 1116 der Österreichischen Bundesbahnen.Neukonstruktion!■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Im Einsatz vor den ÖBB Railjet Zügen aber auch vor vielen anderen Zuggattungen■ Mit mehrfarbig gestalteter Führerstandsrückwand■ Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht■ Lizenziertes ÖBB-Modell■ Z21 Führerstand verfügbarMit der Indienststellung der ersten „Taurus“-Lokomotive Reihe 1016 im Sommer 1999 begann die rasante Modernisierung der österreichischen E-Lok-Flotte. Von dieser Universallokomotive wurde auch eine Zweisystemausführung für den Wechselstrombetrieb mit 15 kV/16,7 Hz sowie 25 kV/50 Hz beschafft. Bis 2006 wurden 282 Lokomotiven der Reihe 1116 in Dienst gestellt. Sie sind für 230 km/h zugelassen. Die Leistung beträgt 6.400 kW.Der Railjet ist ein bedeutender Bestandteil des europäischen Fernverkehrs und verbindet nicht nur wichtige Städte in Österreich, sondern auch internationale Destinationen. Die Lokomotiven 1116.201–251 wurden bei Siemens in München für die seit Dezember 2008 eingeführten Railjet-Verkehre adaptiert.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7590046-elektrolokomotive-rh-1116-railjet-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270233.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

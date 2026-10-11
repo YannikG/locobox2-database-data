@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380039",
+  "manufacturer": "Roco",
+  "articleNumber": "7380039",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "751 372-4",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "V",
+    "luepMm": 138,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive 751 372 der Tschechischen Staatsbahnen.■ Einmalige und streng limitierte Auflage im auffälligen „Blitzdesign“■ Erstes Modell der „ROCO COLLECTOR´S EDITION“ Reihe in Spur TT■ Mit mehrfarbig gestalteter Führerstandsrückwand■ Mit beiliegenden Bahnräumern in geschlossener Form zur vorbildgetreuenVitrinendarstellungROCO COLLECTOR’S EDITION – Ikonen der Eisenbahngeschichte im exklusiven Sammlerformat.Mit der neuen COLLECTOR’S EDITION lässt ROCO legendäre Lokomotiven in TT neu aufleben. Jedes Modell erscheint in streng limitierter Auflage von nur 555 Exemplaren – detailreich umgesetzt, technisch auf dem neuesten Stand und perfekt abgestimmt auf das umfangreiche ROCO-Wagensortiment. Jedes Modell der COLLECTOR’S EDITION wird in einer hochwertigen Verpackung mit exklusivem Schuber geliefert und enthält ein nummeriertes Echtheitszertifikat. Damit entsteht ein einzigartiges Sammlerstück, das die Eisenbahngeschichte im Massstab TT eindrucksvoll bewahrt.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380039-diesellokomotive-751-372-4-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270037.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

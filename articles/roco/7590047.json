@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7590047",
+  "manufacturer": "Roco",
+  "articleNumber": "7590047",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 319.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB-AG",
+    "type": "BR 182",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 161,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive Baureihe 182 der Deutschen Bahn.Neukonstruktion!■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Einsatz sowohl im Güter- als auch im Reisezugverkehr■ Mit mehrfarbig gestalteter Führerstandsrückwand■ Im Digitalbetrieb mit schaltbarem Spitzen-/Schlusslicht■ Z21 Führerstand verfügbarDie Baureihe 182 der DB AG ist eine elektrische Mehrsystemlokomotive des Typs Siemens ES64U2. Die Deutsche Bahn beschaffte 25 Lokomotiven dieser Baureihe, nachdem die ursprünglich geplante Baureihe 152 nicht wie vorgesehen für den Einsatz in Österreich zugelassen wurde.Bis 2009 wurden die Lokomotiven der Baureihe 182 trotz ihrer hohen Leistungsfähigkeit hauptsächlich im Güterverkehr eingesetzt. Inzwischen hatte DB Schenker, die damalige Güterverkehrssparte der DB, jedoch andere, für Österreich geeignete Lokomotiven (Baureihe 185) erhalten. Im Laufe des Jahres 2011 sind alle 25 Maschinen der Baureihe 182 in den Bestand der DB Regio übergegangen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7590047-elektrolokomotive-br-182-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270236.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

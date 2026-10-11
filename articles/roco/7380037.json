@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7380037",
+  "manufacturer": "Roco",
+  "articleNumber": "7380037",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "Rh 753.6",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 138,
+    "minRadiusMm": 286
+  },
+  "description": "Diesellokomotive Reihe 753.6 der CD Cargo.■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Mit beiliegenden Bahnräumern in geschlossener Form zur vorbildgetreuen VitrinendarstellungDie EffiLiner 1600 der Reihe 753.6 ist eine moderne dieselelektrische Streckenlokomotive von CZ LOKO. Sie entstand durch umfassenden Umbau älterer ČD-Lokomotiven der Reihe 753 und erhielt dabei einen vollständig modernisierten Aufbau, neue Führerstände und einen leistungsstarken Caterpillar-Dieselmotor. Mit 1.550 kW Leistung und 100 km/h Höchstgeschwindigkeit sind die Maschinen vor allem im schweren Güterverkehr in Tschechien, der Slowakei, Ungarn und Polen im Einsatz.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7380037-diesellokomotive-rh-7536-cd-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270056.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

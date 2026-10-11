@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7580042",
+  "manufacturer": "Roco",
+  "articleNumber": "7580042",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "145 040-2",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "VI",
+    "luepMm": 158,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive 145 040 der TRI Train Rental GmbH.■ Auffällige Lackierung■ Einsatz im Reisezugverkehr■ Mehrfarbig gestaltete Führerstandsrückwand und BedienpultDie Elektrolokomotive der Baureihe 145 wurde ab Ende der 1990er-Jahre von ADtranz (später Bombardier Transportation) für den Güterverkehr in Deutschland entwickelt. Sie gehört zur ersten Generation der modularen TRAXX-Plattform.Die 145 040-2 von TRI entspricht der frühen TRAXX F140 AC1. Zunächst für DB Cargo eingesetzt, wurde sie später mit dem „Nahverkehrspaket“ für Expo-2000-Leistungen versehen. Ab 2018 war sie Teil der RBH-Flotte und 2024 an TRI verkauft. Seit 2025 wird die Lok im TRI-Design vor deren Reisezügen eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7580042-elektrolokomotive-145-040-2-tri.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270041.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}

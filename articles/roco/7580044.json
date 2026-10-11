@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-7580044",
+  "manufacturer": "Roco",
+  "articleNumber": "7580044",
+  "releaseDate": "2027",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "111 147-5",
+    "number": null,
+    "livery": null,
+    "scale": "TT",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge Next18",
+    "era": "IV",
+    "luepMm": 137,
+    "minRadiusMm": 286
+  },
+  "description": "Elektrolokomotive 111 147 der Deutschen Bundesbahn.■ Ausführung in S-Bahn-Lackierung mit rotem DB-Logo■ Fein ausgeführte Dachausrüstung■ Maschinenraum mehrfarbig ausgeführt■ Zuglauf S12 Köln-Nippes – Au (Sieg)Auf der Basis bewährter Teile der Baureihe 110 wurde die Baureihe 111 als Schnellzuglok konzipiert. Dabei war den Konstrukteuren eine Verbesserung der Laufruhe bei hohen Geschwindigkeiten durch den Einsatz neuer Drehgestelle und verbesserte Arbeitsbedingungen für die Lokführer besonders wichtig. Insgesamt wurden zwischen 1974 und 1984 insgesamt 227 Lokomotiven von der DB beschafft.Als Mehrzwecklokomotive entwickelt kam sie auch im S-Bahnverkehr zum Einsatz. Diese Loks waren echte Schmuckstücke: Ein breites, rundum verlaufendes orangefarbenes Band zierte das kieselgraue Lokomotivgehäuse und verlieh der Maschine ihren unverwechselbaren S-Bahn-Charakter. Besonders bekannt wurde sie vor Wendezügen im Raum Rhein-Ruhr, wo sie schnelle Beschleunigung, Wendezugsteuerung und zuverlässigen Betrieb im dichten Taktverkehr bot.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2027"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7580044-elektrolokomotive-111-147-5-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/7/270045.jpg"
+  },
+  "updatedAt": "2026-10-11T07:03:17Z"
+}
