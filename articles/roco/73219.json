@@ -9,7 +9,7 @@
     "country": "CZ",
     "operator": "CD",
     "type": "Rh 1216",
-    "number": null,
+    "number": "249",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/243794.jpg"
   },
-  "updatedAt": "2026-10-11T10:43:56Z"
+  "updatedAt": "2026-10-11T11:21:55Z"
 }
