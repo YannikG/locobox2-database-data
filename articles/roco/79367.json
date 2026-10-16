@@ -6,10 +6,10 @@
   "releaseDate": "2020",
   "uvp": null,
   "model": {
-    "country": "SE",
+    "country": "DE",
     "operator": "Hectorrail",
     "type": "BR 162",
-    "number": null,
+    "number": "134-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

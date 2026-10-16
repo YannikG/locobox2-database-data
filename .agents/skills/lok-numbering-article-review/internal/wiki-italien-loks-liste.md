@@ -28,6 +28,8 @@ Gesamtübersicht **italienische Lokomotiven und Triebwagen** (Gliederung nach Ge
 ## Split `type` / `number`
 
 - Italienische Beschriftung oft «**E 464 321**» oder «**E464 321**»; einheitlich **BR in `type`**, Rest in `number`, wenn der Import nicht schon getrennt liefert.
+- **Klassische FS-Punktnotation Elektro/Diesel `E.xxx.yyy` / `D.xxx.yyy`:** Shop oft ohne Punkte («**E646043**» = **E.646.043**). **Bevorzugt** die **volle Anschrift in `type`** belassen (`E.646.043`), `number` **`null`** — analog zu bestehenden Roco-IT-Titeln wie «E 412 013» / «E.483 320-4». Nicht aggressiv zu `E.646` / `043` zerreissen, solange die Volllform schon korrekt im `type` steht. Wikipedia-Beispiel: [FS E.646](https://de.wikipedia.org/wiki/FS_E.646) Nummern **E.646.001–235**.
+- Ausnahme **Gruppenserie + abweichende Inventarnummer** (z. B. «D.225.6011» zur Gruppe **D.225.6000**): `type` = Gruppe, `number` = volle Inventar-Ziffern (**6011**).
 - **Dampf Gruppo `NNN.mmm` / Shop `NNN,mmm`:** `type` = **`Gruppo NNN`** (oder nur **`NNN`**, wenn schon so importiert), `number` = **`mmm`** ohne führende Nullen-Pflicht, aber dreistellig wie im Vorbild (**210**, nicht `736.210` nochmals in `number`). Komma im Shop **nicht** als Tausendertrenner lesen.
 - **Italo / Zugname:** Zug-/Marketingname → `livery` oder Fliesstext, nicht in `number` erzwingen.
 

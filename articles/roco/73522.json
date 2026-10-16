@@ -6,10 +6,10 @@
   "releaseDate": "2020",
   "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "HU",
     "operator": "MAV",
     "type": "Rh 470",
-    "number": null,
+    "number": "009",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

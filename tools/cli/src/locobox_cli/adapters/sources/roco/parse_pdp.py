@@ -69,12 +69,18 @@ _OPERATOR_COUNTRY = {
     "ČD": "CZ",
     "CD": "CZ",
     "DSB": "DK",
+    "MAV": "HU",
+    "MAV-START": "HU",
+    "MAV START": "HU",
 }
 
 # Shop/attribute variants → Locobox spelling (before country map).
 _OPERATOR_ALIASES = {
     "DB-AG": "DB AG",
     "DBAG": "DB AG",
+    "MÁV": "MAV",
+    "MÁV-START": "MAV-START",
+    "MÁV START": "MAV START",
 }
 
 # Longest keys first so SNCF/DRG/DB AG win over NS/DR/DB.

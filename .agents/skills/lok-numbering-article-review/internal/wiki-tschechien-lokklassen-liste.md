@@ -13,8 +13,41 @@
 ## Baureihen-Stichworte (Loks, unvollständig)
 
 - **Elektro:** **122** (Pendolino-Inland), **140**, **151**, **162 «Persing»**, **363** Mehrsystem, **371**, **380**, **383** Vectron-ähnlich.
-- **Diesel:** **714** «Nokia», **721**, **742** «Zamračenka», **749**, **753** «Goggomobil», **771** «Grumpy» (Spitznamen nur zur Erkennung im Text).
+- **Diesel:** **714** «Nokia», **721**, **742** «Zamračenka», **749**, **753** «Goggomobil», **771** «Grumpy» (Spitznamen nur zur Erkennung im Text); historische ČSD-Reihen **T 478.1 / T 478.2 / T 478.3** → eigener Abschnitt unten.
 - **Triebwagen:** **471** «RegioSpider», **650** «InterPanter», **844** «RegioShark» (Kategorien oft `triebzug`); **M 152.0 / 810** inkl. Beiwagen **Blm** → eigener Abschnitt unten.
+
+## ČSD T 478.1 / T 478.2 / T 478.3 (EDV 751/752/753, 749/750)
+
+Komprimiertes Review-Wissen für Shop-Titel ohne Punkte («**T4782059**») und mit Kryšpín-Punktnotation («**T 478.2059**»).
+
+### T 478.1 und T 478.2 («Bardotka» / «Zamračená»)
+
+| Thema | Fakt für Locobox |
+|-------|------------------|
+| Rolle | Dieselelektrische Universallok (ČKD Praha), Bo'Bo'; Personenzug (**T 478.1**, Dampfheizung) vs. Güterzugvariante (**T 478.2**, Ballast statt Heizkessel) |
+| Historische Nummern | **T 478.1001–1239** (230 Stück); **T 478.2001–2082** (82 Stück) |
+| Shop-Kompakt | «**T4782059**» / «**T 478.2059**» = Reihe **T 478.2**, Laufblock **2059** (im Band 2001–2082) |
+| Locobox-Split | `type` **`Rh T 478.1`** bzw. **`Rh T 478.2`** (oder ohne `Rh`), `number` = **vierstelliger** Block nach dem Punkt (**1001–1239** bzw. **2001–2082**), z. B. T4782059 → **`2059`**. Nicht nur die letzten drei Ziffern (`059`) |
+| EDV ab ca. **1988** | **T 478.1** → **751** (Inventar 001–239); **T 478.2** → **752** (001–082); modernisierte Heizungs-Umbauten oft **749** |
+| Spitznamen | «Bardotka», «Zamračená» / «Finstergesicht» → eher Erkennung im Text, nicht zwingend `livery` |
+| Provenienz | https://de.wikipedia.org/wiki/%C4%8CSD-Baureihe_T_478.1 |
+
+### T 478.3 («Taucherbrille» / «Brejlovec»)
+
+| Thema | Fakt für Locobox |
+|-------|------------------|
+| Rolle | Nachfolger-Universallok mit markanten Führerstandsfenstern; 408 Stück |
+| Historische Nummern | **T 478.3001–3408** |
+| Shop-Kompakt | «**T4783098**» / «**T 478.33098**» → `type` **`Rh T 478.3`**, `number` **`3098`** (vierstellig, inkl. führender **3**) |
+| EDV ab ca. **1988** | **753**; modernisiert mit el. Heizung oft **750** (ZSSK/ČD); spätere Umbauten **755**, **753.6/753.7**, SK **756/757** nur bei klarem Text |
+| Spitznamen | «Taucherbrille», «Brejlovec» / «Brillenschlange» |
+| Provenienz | https://de.wikipedia.org/wiki/%C4%8CSD-Baureihe_T_478.3 |
+
+### Typische Verwechslungen (Finding)
+
+- **T 478.1 vs. .2 vs. .3:** andere Nummernbänder und Optik; Shop-Ziffer nach dem Punkt (**1***/**2***/**3***) entscheidet die Unterreihe.
+- **EDV 751/752/753 vs. Kryšpín:** gleiche Familie, andere Epoche/Beschriftung → `type` an Epoche anpassen.
+- **Vierstellige `number`:** bei `Rh T 478.n` immer den **vollen** Block nach dem Punkt behalten (`2059`, `3098`), nicht auf `059`/`098` kürzen.
 
 ## ČSD M 152.0 (810) und Beiwagen Blm (010)
 
@@ -72,6 +105,7 @@ Shop-PDPs bündeln oft **einen** Motorwagen + **einen** Beiwagen unter **einer**
 
 - Häufig «**363 129-4**»-Muster: dreistellige BR + Nummer mit Prüfziffer → Standard-Split.
 - **M 152.0xxx** → `Rh M 152.0` / `xxxx` (vier Stellen, führende Nullen behalten).
+- **T 478.nxxx** / Shop **T478nxxx** (ohne Punkte) → `Rh T 478.n` / `nxxx` (vier Stellen; siehe Abschnitt T 478.1/.2/.3).
 - **Blm 24-29 xxx** (Epoche IV) → `Blm` / `xxx` (Inventar 000–909); nicht fälschlich als **010**-Inventar der ČD-Neunummerierung lesen.
 
 ## Review-Hinweis
@@ -86,6 +120,8 @@ Shop-PDPs bündeln oft **einen** Motorwagen + **einen** Beiwagen unter **einer**
 - Tschechoslowakei **ČSD:** https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CSD  
 - Tschechische Bahnen **ČD:** https://de.wikipedia.org/wiki/Liste_der_Lokomotiv-_und_Triebwagenbaureihen_der_%C4%8CD  
 - **M 152.0 / 810 (inkl. Beiwagen-Hinweis):** https://de.wikipedia.org/wiki/%C4%8CSD-Baureihe_M_152.0  
+- **T 478.1 / T 478.2 (751/752, 749):** https://de.wikipedia.org/wiki/%C4%8CSD-Baureihe_T_478.1  
+- **T 478.3 (753/750):** https://de.wikipedia.org/wiki/%C4%8CSD-Baureihe_T_478.3  
 
 **Vertiefung Beiwagen / Umbauten (optional):**
 

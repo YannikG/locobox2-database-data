@@ -8,8 +8,8 @@
   "model": {
     "country": "IT",
     "operator": "FS",
-    "type": "E.483 320-4",
-    "number": null,
+    "type": "E.483",
+    "number": "320-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

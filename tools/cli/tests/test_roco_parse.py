@@ -40,6 +40,9 @@ def test_operator_country_no_false_prefix() -> None:
     assert _operator_country("DBAG") == ("DB AG", "DE")
     assert _operator_country("NS") == ("NS", "NL")
     assert _operator_country("DB Cargo") == ("DB", "DE")
+    assert _operator_country("MAV") == ("MAV", "HU")
+    assert _operator_country("MÁV") == ("MAV", "HU")
+    assert _operator_country("MAV-START") == ("MAV-START", "HU")
 
 
 def test_dr_country_by_era() -> None:
