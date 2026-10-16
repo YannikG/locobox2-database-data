@@ -8,8 +8,8 @@
   "model": {
     "country": "IT",
     "operator": "FS",
-    "type": "E.646.043",
-    "number": null,
+    "type": "E.646",
+    "number": "043",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
