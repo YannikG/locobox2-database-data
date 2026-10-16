@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72911",
+  "manufacturer": "Roco",
+  "articleNumber": "72911",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 2067",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "V",
+    "luepMm": 120,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe 2067 der Österreichischen Bundesbahnen.■ Mit vielen separat angesetzten Steckteilen■ Feine Radsätze mit niedrigen Spurkränzen■ Ausführung in „Valousek“-Design■ Motorvorbau mit Wartungsklappen■ Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbarUm die in die Jahre gekommenen Dampflokomotiven Rh 392, 694 und andere mit modernen Fahrzeugen zu ersetzen, wurden ab 1959 leistungsfähige Diesellokomotiven beschafft. Wie bei den damaligen elektrischen Verschublokomotiven üblich, wurde auch hier ein Antrieb über Blindwelle und Kuppelstangen eingebaut. Insgesamt wurden bis 1978 nicht weniger als 111 Lokomotiven an die ÖBB geliefert. Die Lok mit hydraulischer Kraftübertragung leistet 440 kW und erreicht eine Höchstgeschwindigkeit von 65 km/h. Die Reihe 2067, eigentlich als schwere Rangiermaschine beschafft, wurde auch gerne vor Reise- und Güterzügen eingesetzt. Beispielsweise auf der Gailtal-, Ost- und Franz-Josefs-Bahn. Noch heute sind die 2067er im Bahnbetrieb eingesetzt. Einige Fahrzeuge sind bei privaten Eisenbahnverkehrsunternehmen, im Museumseinsatz oder für spezielle Einsatzzwecke adaptiert.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/72911-diesellokomotive-rh-2067-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/237324.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

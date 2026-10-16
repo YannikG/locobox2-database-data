@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72047",
+  "manufacturer": "Roco",
+  "articleNumber": "72047",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 55",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 210,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 55 der Deutschen Reichsbahn.■ Das Modell ist werkseitig mit einem fest eingelöteten Sounddecoder ausgestattet■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Erstmals mit eingesetzten Lampengläsern im ROCO-Programm■ Metalldruckguss-Fahrgestell■ Modell liegen Ätztafeln mit Beschriftung 55 4154-5 und 55 5110-6 bei■ FLEISCHMANN PROFI-Kupplung zum Tauschen liegt beiDie Baureihe 55.25–56 (ehem. preuss. G 8.1), von der fast 5.000 Stück gebaut wurden, war mit einer Leistung von 1.260 PS und einer Höchstgeschwindigkeit von 55 km/h vor allem im Güterzug- und schweren Rangierdienst eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/72047-dampflokomotive-br-55-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/249090.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

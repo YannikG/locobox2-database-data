@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70272",
+  "manufacturer": "Roco",
+  "articleNumber": "70272",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SNCB",
+    "type": "26.101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "V-VI",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 26.101 der „Patrimoine Ferroviaire et Tourisme/Toerisme en SpoorPatrimonium“.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ Witte-Windleitbleche und Wannentender■ Mit feinen Speichenrädern aus Metall■ Treib- und Kuppelstangen aus Feingussmetall■ Rauchgenerator nachrüstbar■ Z21 Führerstand verfügbarPFT-TSP ist die Abkürzung für Patrimoine Ferroviaire et Tourisme/Toerisme en SpoorPatrimonium, einem belgischen Verein zur Bewahrung historischer Schienenfahrzeuge und Ausrüstung der belgischen Eisenbahnen. Die Restaurierung wird ausschliesslich von Freiwilligen in ihrer Freizeit durchgeführt. Derzeit befindet sich die bereits restaurierte Ausrüstung im Eisenbahnmuseum in Saint-Ghislain. Die Museumsbahn „Le Chemin de Fer du Bocq“ zwischen Ciney und Purnode (Yvoir) wird ebenfalls durch den Verein betrieben.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70272-dampflokomotive-26101-pft-tsp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245030.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

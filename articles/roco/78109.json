@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78109",
+  "manufacturer": "Roco",
+  "articleNumber": "78109",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BBÖ",
+    "type": "Rh 209",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "II",
+    "luepMm": 201,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive Reihe 209 der Österreichischen Bundesbahn (BBÖ).■ Ideal für den Einsatz vor Eil- und Personenzügen■ Freistehende Leitungen und viele separat angesetzte Steckteile■ Vollmetallräder mit niedrigen Spurkränzen■ Rauchgenerator nachrüstbar■ Z21 Führerstand verfügbarVon der privaten Österreichischen Südbahn Gesellschaft wurde diese formschöne Dampflokomotive ab 1910 für die immer schwerer werdenden Schnellzüge auf deren Hauptstrecke Wien – Triest beschafft. Von 1910 bis 1914 wurden für das österreichische Netz der Südbahn insgesamt 44 Lokomotiven von der Lokomotivfabrik der StEG (Österreichisch-Ungarische Staatseisenbahngesellschaft) in Wien, der Lokomotivfabrik Wiener Neustadt und der Wiener Lokomotivfabrik Floridsdorf geliefert. Nach Verstaatlichung des österreichischen Teiles der Südbahn 1923 kamen die 17 Loks zu den Österreichischen Bundesbahnen (damals BBÖ) als Reihe 209, da die Nummer 109 dort schon besetzt war.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/78109-dampflokomotive-rh-209-bbo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239443.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

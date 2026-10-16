@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79037",
+  "manufacturer": "Roco",
+  "articleNumber": "79037",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "Digital-Eisenbahndrehkran EDK 750",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV-V",
+    "luepMm": 234,
+    "minRadiusMm": 358
+  },
+  "description": "Eisenbahndrehkran EDK 750 der Deutschen Reichsbahn mit echten Betriebsfunktionen – digital gesteuert.Funktionen:■ Eigenständiges Fahren■ Freilauf im Zugverband möglich■ Kran-Oberwagen mit Ausleger um 360° drehbar■ Ausleger heben und senken■ Teleskopausleger aus- und einfahren■ Kranhaken über Mehrfachseilrolle heben und senken■ Kranführerkabine mit schaltbarer Aussenbeleuchtung■ Arbeitslampe am Teleskopausleger schaltbar■ Mit Onboard-Digitaldecoder und schaltbaren Licht- und Soundfunktionen■ Bewegliche Stützausleger■ Schutzwagen mit Lagerbock, Gegengewicht und Abstützsockeln■ Steuerung mittels Z21 multiMAUS oder Z21 ᴡʟᴀɴMAUS■ Speziell angepasste Kransteuerung in der Z21 App■ Steuerung mittels PS4-ControllerVoll funktionsfähiges Modell eines 6-achsigen Eisenbahndrehkrans mit beweglichem Teleskopausleger. Der Kran kann selbständig fahren oder, nach von Hand entriegelter Getriebekupplung, im Zugverband mitlaufen. Der Oberwagen ist ohne Anschlag um 360° drehbar. Alle Dreh- und Hebebewegungen mit Soft Start und Stop. Damit lassen sich mit viel Spass, spielerisch Brücken einheben oder Weichen und Gleisjoche verlegen. Der waagerecht gestellte Ausleger ist für das Arbeiten unter Fahrleitung geeignet. Der Teleskopausleger kann in jeder Arbeitsstellung, auch mit Last am Kranhaken, gewippt und teleskopiert werden.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/79037-digital-eisenbahndrehkran-edk-750-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245778.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

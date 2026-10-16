@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73078",
+  "manufacturer": "Roco",
+  "articleNumber": "73078",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 E 40",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "III",
+    "luepMm": 272,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive 231 E 40 der Französischen Staatseisenbahnen.■ Nach langer Zeit wieder im ROCO-Programm erhältlich■ Einsatz im schweren Schnellzugverkehr■ Hoch detailliertes Modell in filigraner Ausführung■ Mit asymmetrischem 2-Licht Spitzensignal■ Rauchgenerator nachrüstbarDie Serie 231 E entstand aus der Notwendigkeit, nach dem Ersten Weltkrieg für die immer schwerer werdenden französischen Schnellzüge leistungsfähige Dampflokomotiven zu konstruieren. Anstelle teurer Neuentwicklungen wurde André Chapelon von der Paris-Orleans Bahn damit beauftragt, vorhandene Dampflokomotiven der Pacific-Bauart so zu überarbeiten, dass sie den neuen Anforderungen gerecht wurden. Die geforderten Leistungssteigerungen und Einsparungen beim Verbrauch erzielte der Ingenieur hauptsächlich durch Verbesserungen bei der Thermodynamik. Der Erfolg gab ihm recht: Die modifizierte Lok erreichte Testgeschwindigkeiten von bis zu 174 Stundenkilometer, und im alltäglichen Betrieb machte sie immer noch stolze 130 Stundenkilometer Spitze. Mit einer Leistungssteigerung um 50 Prozent und einer gleichzeitigen Senkung der Verbrauchskosten machte Chapelon aus den alten Dampfloks zukunftsfähige Schnellzuglokomotiven.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73078-dampflokomotive-231-e-40-sncf.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248226.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71939",
+  "manufacturer": "Roco",
+  "articleNumber": "71939",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BLS",
+    "type": "Re 465",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 465 der Schweizer Bahngesellschaft BLS.■ Farbgebung im Refit-Design■ Mit extra angesetzten Scheibenwischern■ Feine Darstellung der Frontgriffstangen■ Mit korrektem Lichtwechsel für die Re 465Bis 2022 werden die 18 BLS-Lokomotiven des Typs Re 465 modernisiert und erhalten einen Neuanstrich. Um den Einsatz mit Vectron- und Traxx-Lokomotiven im Güterverkehr zu ermöglichen, werden passende Vielfachsteuersysteme eingebaut. Für die Traktion der Autotunnel- und der zukünftigen Goldenpass-Züge wird weiters ein Ethernet Train Backbone implementiert. Die davor angebrachten Taufnamen werden nicht mehr verwendet. Die Arbeiten werden im eigenen Werk in Bönigen ausgeführt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71939-elektrolokomotive-re-465-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245999.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

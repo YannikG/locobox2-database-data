@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73799",
+  "manufacturer": "Roco",
+  "articleNumber": "73799",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SZD",
+    "type": "M62 1579",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive M62 1579 der Sowjetischen Eisenbahnen.■ Ausführung mit Mittelpufferkupplung und seitlichen Winterschutzblechen■ Modellkupplungen liegen bei■ Viele separat angesetzte Steckteile■ Hohe Betriebssicherheit und Zugkraft für lange Züge■ Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder SchlusslichtDie M62 1579 war eine der wenigen Loks dieser Baureihe die eine ständige Mannschaft (Brigade) hatte, die sie sorgfältig betreute. Von 1989 bis 1994 war sie, im Gegensatz zu ihren grünen Schwestern, in roter Lackierung auf der Strecke Leningrad (St. Petersburg)–Varschavski–Gdov im Einsatz.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/73799-diesellokomotive-m62-1579-szd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244444.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

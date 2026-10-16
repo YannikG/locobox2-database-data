@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78488",
+  "manufacturer": "Roco",
+  "articleNumber": "78488",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "Rh 1216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1216 „Railjet“ der Tschechischen Staatsbahnen.Eine passende Railjet-Garnitur lässt sich mit den Artikelnummern 74066 und 74069 bilden.Das Modell ist auf einer Seite mit einer vierpoligen elektrischen Kupplung ausgestattet. Mittels DIP-Schalter kann die Stromaufnahme zwischen der Lok und dem ROCO Railjet-Steuerwagen (nur in Ausführung mit elektrischer Kupplung) für den Wendezugbetrieb umgeschalten werden.■ Passende Lok zum Railjet „Vindobona“■ Mit korrekter Antennenbestückung■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtSeit dem Fahrplanwechsel 2014 verbinden Railjets der Tschechischen Eisenbahn (CD) die Strecke von Prag über Wien nach Graz. Dafür beschaffte man bei Siemens sieben Railjet-Garnituren in blauer Lackierung. Im Unterschied zu den ursprünglichen ÖBB-Garnituren verkehren die CD-Railjets mit fünf Economy-Wagen, einem Wagen mit Restaurant sowie dem Steuerwagen mit First und Business Class. Seit dem Sommerfahrplan 2020 erlebt die traditionsreiche Fernzugverbindung „Vindobona“ wieder eine Renaissance und verkehrt zwischen Berlin und Graz.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78488-elektrolokomotive-rh-1216-cd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248242.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70385",
+  "manufacturer": "Roco",
+  "articleNumber": "70385",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EINSTELLER",
+    "type": "810 054-7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "V-VI",
+    "luepMm": 161,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen 810 054 der SKPL.■ Mit dem Taufnamen „Tomek“■ Separat angesetzte Scheibenwischer■ Mit beiliegenden Steckteilen zur Darstellung der geschlossenen Frontschürze■ Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbarDie Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL; Vereinigung von Lokalbahnbetrieben) ist Betriebsführerin einiger polnischer Nebenbahnen. Zum Leistungsumfang von SKPL gehören auch Normalspurstrecken von lokaler Bedeutung auf denen ehemalige CD-Triebwagen der Reihe 810 eingesetzt werden.",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/70385-dieseltriebwagen-810-054-7-skpl.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245458.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

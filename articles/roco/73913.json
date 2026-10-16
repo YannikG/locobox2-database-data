@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73913",
+  "manufacturer": "Roco",
+  "articleNumber": "73913",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "ZSSK",
+    "type": "Rh 383",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 383 der Slowakischen Staatsbahn.■ Ausführung mit langer Regenrinne■ Im Einsatz vor Zügen im grenzüberschreitenden Verkehr■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDie Slowakische Staatsbahn hat für ihre Güterverkehrssparte ZSSK Cargo zehn Vectron-MS-Lokomotiven gemietet. Diese Maschinen sind mit dem Länderpaket DE-AT-PL-CZ-SK-HU-RO-HR-SI ausgerüstet. Damit sind Intermodal-, Autotransport- und andere Güterzüge ohne Lokwechsel an den Länder- und Systemgrenzen zu befördern.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73913-elektrolokomotive-rh-383-zssk.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/242493.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

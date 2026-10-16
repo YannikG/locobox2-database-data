@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78273",
+  "manufacturer": "Roco",
+  "articleNumber": "78273",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "85 009",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 187,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 85 009 der Deutschen Bundesbahn.Modell in Wechselstromausführung mit umfangreichen Soundfunktionen sowie dynamischen Dampf aus dem Schornstein ausgestattet. Der dynamische Dampf von ROCO sorgt für ein fahr- und geräuschsynchrones Rauchen der Lokomotive.■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Betriebszustand ca. 1959■ Ausführung mit DB-Keks■ Nummerntafeln mit spitzen Ziffern■ Windleitbleche■ Feine Metallradsätze■ Mit einem schaltbaren roten Schlusslicht auf der TenderseiteInsgesamt wurden nur 10 Lokomotiven der rund 133 Tonnen schweren Tenderlokomotive für den Einsatz auf der sogenannten Höllentalbahn gebaut. Die Lokomotiven der Baureihe 85 waren damit die schwersten Tenderlokomotiven, die in Deutschland eingesetzt wurden. Aufgrund ihrer Zugkraft bewährten sich die bullig aussehenden Tenderlokomotiven schnell auf der Bergstrecke. Wegen ihrer guten Leistungen konnte bereits im Jahr 1933 die für den Betrieb bis dahin erforderliche Zahnstange entfernt werden. Auch beim Lokomotivpersonal waren die Loks äusserst beliebt, verkürzten sie doch die Fahrzeiten mit Personenzügen um gut 1/3 der ursprünglichen Fahrzeit.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/78273-dampflokomotive-85-009-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236579.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

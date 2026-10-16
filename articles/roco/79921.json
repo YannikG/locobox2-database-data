@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79921",
+  "manufacturer": "Roco",
+  "articleNumber": "79921",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Litra EB 3202",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Litra EB 3202 der Dänischen Staatsbahnen.Formvariante!■ Vorbildgerecht mit zusätzlicher Griffstange an den Türen■ Vorbild: Ausführung für Wechselstromnetz■ Dachausrüstung mit zwei Stromabnehmern■ Mit langer Regenrinne■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Sound in Kooperation mit LeosoundlabIm Herbst 2020 wurden die ersten Lokomotiven der Baureihe EB an die Dänischen Staatsbahnen geliefert. Die Bestellung umfasst 42 Maschinen vom Typ Vectron des Herstellers Siemens. Die neuen Loks mit Wendezugsteuerung werden hauptsächlich vor den Doppelstockzügen und im Regionalverkehr auf Seeland zum Einsatz kommen. Sie ersetzen damit die in die Jahre gekommene Diesellok-Baureihe ME auf den mittlerweile elektrifizierten Strecken.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79921-elektrolokomotive-litra-eb-3202-dsb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245373.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

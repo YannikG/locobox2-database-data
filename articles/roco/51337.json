@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-51337",
+  "manufacturer": "Roco",
+  "articleNumber": "51337",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ROCO Edition – z21 Digitalset: Dampflokomotive BR 044 mit Erzzug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 1052,
+    "minRadiusMm": 358
+  },
+  "description": "Hochwertiges „ROCO Edition“ z21 Digitalset: Dampflokomotive Baureihe 044 mit Erzzug der Deutschen Bundesbahn.„Erzpark“ oder „Braune Wand“ – so wurden die schweren Erzzüge mit 4.000 t Anhängelast genannt, die zwischen dem Hafen in Emden und den Hütten im Ruhrgebiet und dem Saarland verkehrten. Dieses Edition-Startset ist der ideale Einstieg für diesen legendären Zug.Inhalt:■ 1 digital gesteuerte Dampflokomotive der BR 044 mit DCC-Decoder und Henning-Sound■ 6 Selbstentladewagen■ 1 z21■ 1 Z21 ᴡʟᴀɴMAUS■ 1 WLAN-Router■ 1 SteckernetzteilROCO LINE-Gleisoval mit Überholgleis (mit Bettung) :12 Gebogene Gleise R5, 18 Gerade Gleise G1, 1 Weiche links Wl15, 1 Weiche rechts Wr15, 2 Gebogene Gleise R10, 1 Gerades Gleis G½, 1 Anschlussgleis (G½), BöschungsteilePlatzbedarf: ca. 330 x 140 cm",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/sets/startsets/51337-roco-edition-%e2%80%93-z21-digitalset-dampflokomotive-br-044-mit-erzzug-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247700.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

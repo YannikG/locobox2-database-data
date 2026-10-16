@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71946",
+  "manufacturer": "Roco",
+  "articleNumber": "71946",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Metrans",
+    "type": "BR 383",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 383 der Metrans.■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenMetrans ist ein Eisenbahnverkehrsunternehmen für Güterverkehr mit dem Hauptsitz in Prag. Es verbindet die Nordseehäfen Rotterdam, Hamburg und Bremerhaven sowie den Adriahafen Koper im Intermodalverkehr mit dem Hinterland. Eigene Containerterminals befinden sich in Tschechien, der Slowakei und Österreich. Neben weiteren Elektro- und Dieselloks gehören auch zehn Loks vom Typ Vectron MS zum Fuhrpark. Sie sind für den Einsatz in Deutschland, Tschechien, Österreich, Ungarn, Polen und der Slowakei zugelassen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71946-elektrolokomotive-br-383-metrans.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247107.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

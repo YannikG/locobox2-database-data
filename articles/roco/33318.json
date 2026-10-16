@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33318",
+  "manufacturer": "Roco",
+  "articleNumber": "33318",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "NÖVOG",
+    "type": "V 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "minRadiusMm": 200
+  },
+  "description": "Schmalspur-Diesellokomotive V 10 (ex 2095 010) der Niederösterreichischen Verkehrsorganisationsgesellschaft.■ Feinste Details: freistehende Griffstangen, feine Lampenringe und ein durchbrochenes Lüftungsgitter am Dach■ Mit schaltbarer Führerstandsbeleuchtung■ Im Digitalbetrieb mit schaltbarem Fern- und Rangierlicht■ Sound in Kooperation mit LeosoundlabDie ab 1958 beschafften Lokomotiven der Reihe 2095 bildeten über Jahrzehnte das Rückgrat auf den dieselbetriebenen Schmalspurstrecken der ÖBB. 2010 übernahm die NÖVOG zehn der 600 PS starken und rund 60 km/h schnellen Maschinen.Mit der aktuellen Revision erhalten die noch betriebsfähigen Loks eine Lackierung das dem historischen Design-Entwurf der Firma Simmering-Graz-Pauker (SGP) aus den 1960er-Jahren nachempfunden ist. Darüber hinaus wurde auch auf Details, wie z. B. auf die Anfertigung eines SGP-Flügelrades wert gelegt.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/33318-diesellokomotive-v-10-novog.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248544.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71204",
+  "manufacturer": "Roco",
+  "articleNumber": "71204",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 01.10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "II",
+    "luepMm": 278,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive Baureihe 01.10 der Deutschen Reichsbahn (DRG 1937–1949).■ Stromlinienverkleidung von Lok und Tender■ Ausführung in roter Farbgebung■ Mit fünfachsigem Tender Bauart 2’3 T 38WAS WÄRE, WENN...?In den Jahren 1939/40 wurden 55 Dreizylindermaschinen der Baureihe 01.10 gebaut. Mit einer Stromlinienverkleidung versehen, verminderte sich der Luftwiderstand bereits im Windkanal drastisch. Fahrversuche bestätigten die Vermutung, dass die Maschinen locker 150 km/h erreichen konnten und dabei die effektive Zugkraft am Haken um fast 50 % gesteigert wurde. Eine Lackierung in roter Farbgebung wäre daher bei einigen Lokomotiven durchaus denkbar gewesen.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/71204-dampflokomotive-br-0110-drb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248467.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

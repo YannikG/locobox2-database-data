@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79043",
+  "manufacturer": "Roco",
+  "articleNumber": "79043",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 70.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "III",
+    "luepMm": 107,
+    "minRadiusMm": 358
+  },
+  "description": "Tenderlokomotive Baureihe 70.0 (bay. Pt 2/3) der Deutschen Bundesbahn.■ Filigrane Radsätze und Steuerung■ Ideal für den Einsatz auf Nebenbahnen■ Passender Lokalbahnzug Art. Nr. 74054■ FLEISCHMANN PROFI-Kupplung zum Tauschen liegt bei■ Sound in Kooperation mit LeosoundlabDie Baureihe 70.0 war eine Tenderlok für leichte Personenzüge. Sie wurde von den Königlich Bayerischen Staats-Eisenbahnen als Gattung Pt 2/3 in Auftrag gegeben. Zwischen 1909 und 1916 wurden von Krauss in München insgesamt 97 Maschinen gebaut. Um den Verkehr auf den Lokalbahnen zu optimieren wurde an der Rückseite eine Tür eingebaut, durch die der Heizer in den Zug gelangte, um die Aufgaben des Schaffners zu übernehmen. Charakteristisch an dieser Lokomotive war auch der aussergewöhnlich grosse Abstand zwischen Treib- und Laufachse von 4000 mm. Daraus resultierte ein sparsamer, aber wirtschaftlich sinnvoller Leichtbau der Maschine, die sich hervorragend bewährte. Die DB übernahm nach dem Zweiten Weltkrieg 89, der bis zu 65 km/h schnellen, Lokomotiven und setzte sie noch bis in die 1960er Jahre auf süddeutschen Nebenbahnen ein. Die letzte Lok wurde 1963 ausgemustert.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/79043-dampflokomotive-br-700-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248513.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

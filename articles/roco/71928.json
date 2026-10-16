@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71928",
+  "manufacturer": "Roco",
+  "articleNumber": "71928",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "RTB Cargo",
+    "type": "BR 192",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 192 der RTB Cargo.■ Vorbildgerechte Umsetzung des Smartrons■ Einsatz im Güterverkehr in Deutschland■ Freistehende Griffstangen, teilweise aus Metall■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ In Kooperation mit Railcolor DesignRTB Cargo hat seit April 2020 drei Lokomotiven des Siemens-Typs Smartron im Fuhrpark. Die von Northrail gemieteten Maschinen werden überwiegend im Autologistik-Verkehr zwischen Dingolfing und den Nordseehäfen eingesetzt. Alle Smartron-Lokomotiven werden in einer standardisierten Ausführung, nur für den Verkehr in Deutschland, an den Besitzer übergeben. Aufbauend auf der Vectron-Plattform wird den Kunden mit dem Smartron eine Lokomotive zu attraktiven Konditionen angeboten. Optisch unterscheidet sich der Smartron in einer geänderten Frontplatte, Verschiebertritten mit Smartron-Schriftzug und Seitenflächen ohne Kameras von den Vectron-Lokomotiven.Smartron und Vectron sind eingetragene Marken der Siemens AG",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71928-elektrolokomotive-br-192-rtb-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245577.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

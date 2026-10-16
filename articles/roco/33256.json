@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33256",
+  "manufacturer": "Roco",
+  "articleNumber": "33256",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1099.012-5",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "V",
+    "minRadiusMm": 261
+  },
+  "description": "Schmalspur-Elektrolokomotive 1099.012 der Österreichischen Bundesbahnen.■ Fein detailliertes Modell mit vielen separat angesetzten Steckteilen■ Mit Wappen „HOFSTETTEN/GRÜNAU“Zwischen 1911 und 1914 wurden 16 Lokomotiven dieser speziell für die Mariazellerbahn konstruierten Bauart von den ehem. niederösterreichischen Landesbahnen beschafft. In den Jahren 1959 bis 1962 wurden die Lokomotiven unter Beibehaltung der original Fahrwerke modernisiert und insbesondere mit neuen Lokkästen ausgestattet. Die Loks erreichten eine Höchstgeschwindigkeit von 50 km/h und hatten eine Leistung von 405 kW. Dreizehn der Lokomotiven wurden offiziell nach Gemeinden an der Mariazellerbahn benannt und mit deren Wappen versehen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/33256-elektrolokomotive-1099012-5-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/236605.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

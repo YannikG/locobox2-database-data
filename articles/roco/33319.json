@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33319",
+  "manufacturer": "Roco",
+  "articleNumber": "33319",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "PLB",
+    "type": "Vs 72",
+    "number": null,
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V-VI",
+    "minRadiusMm": 200
+  },
+  "description": "Diesellokomotive Vs 72 (ex 2095 004) der Pinzgauer Lokalbahn.■ Aktueller Betriebszustand in Rubinroter Lackierung■ Mit Wappen „Wald im Pinzgau“■ Feinste Details: freistehende Griffstangen, feine Lampenringe und ein durchbrochenes Lüftungsgitter am Dach■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDie ab 1958 beschafften Lokomotiven der Reihe 2095 bildeten über Jahrzehnte das Rückgrat auf den dieselbetriebenen Schmalspurstrecken der ÖBB. Mit 1. Juli 2008 übernahm das Land Salzburg die Pinzgauer Lokalbahn von den ÖBB und damit auch einige der 600 PS starken und rund 60 km/h schnellen Maschinen. Die Diesellokomotiven werden auf der „Krimmler Bahn“ für Güterzüge und Fahrradtouristikzüge eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/33319-diesellokomotive-vs-72-plb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248545.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

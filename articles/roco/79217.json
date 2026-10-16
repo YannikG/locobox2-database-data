@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79217",
+  "manufacturer": "Roco",
+  "articleNumber": "79217",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Regiojet",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 193 der Regiojet.■ Fein detailliertes Modell mit vier Stromabnehmern■ Im grenzüberschreitenden Einsatz vor Fernverkehrszügen■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Sound in Kooperation mit LeosoundlabDas private Eisenbahnverkehrsunternehmen „Regiojet“ mit Sitz in Brünn (CZ) wurde im Jahre 2009 gegründet. Wurden anfänglich nur Fernbuslinien betrieben, gehören heute neben mehreren Lokomotiven auch Reisezugwagen des Typs Eurofima zum Wagenpool. Die Fernverkehrszüge verkehren mittlerweile auf mehreren Strecken und erfreuen sich grösster Beliebtheit.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79217-elektrolokomotive-br-193-regiojet.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244560.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

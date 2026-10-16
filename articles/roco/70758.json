@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70758",
+  "manufacturer": "Roco",
+  "articleNumber": "70758",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "218 418-2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 218 418 der Deutschen Bahn.ERSTMALS mit 16-BIT-SOUND für ein perfektes Klangerlebnis■ Erstmals mit PluX22-Schnittstelle und PluX22-Sounddecoder■ Rangierlicht (beidseitig weiss) und Abstelllicht (beidseitig rot) digital schaltbar■ Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schlusslicht■ In aufwendiger „Touristik“-Lackierung■ Schriftzug „SüdostBayernBahn“ als Decal beiliegend■ Einsatz vor Güter- und Personenzügen■ Modell verfügt über vorbildgerechte niedrige Spurkränze■ Radsätze mit 1,2 mm hohen Spurkränzen als Ersatzteile erhältlich (Art.-Nr. 145433, 145435)■ Z21-Führerstand verfügbarFür den Touristikzug der Deutschen Bahn erhielten neben der 103 220 die 218 416 und die 218 418 ab Herbst 1995 eine besondere Lackierung. In diesem speziellen Wasser-Land-Sonne-Himmel Design und mit eigens dafür umgebauten Wagen verkehrten zwei Züge zu verschiedenen Destinationen in Deutschland und ins benachbarte Ausland. Von 2003 bis 2006 war 218 418 mit diesem bunten Design im RegioNetz der Südostbayernbahn in Verwendung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70758-diesellokomotive-218-418-2-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248462.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

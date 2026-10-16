@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73121",
+  "manufacturer": "Roco",
+  "articleNumber": "73121",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03.10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "III",
+    "luepMm": 275,
+    "minRadiusMm": 419
+  },
+  "description": "Schnellzug-Dampflokomotive Baureihe 03.10 der Deutschen Bundesbahn.■ Fein detailliert ausgeführtes Modell mit Neubaukessel ■ Tender mit händisch zu öffnenden Tenderklappen■ Feine Radsätze mit Speichenvorlaufrädern■ Nachbildung des dritten Innenzylinders mit Innentriebwerk■ Mit schaltbarer Triebwerksbeleuchtung im Digitalbetrieb■ Rauchgenerator nachrüstbarDer anwachsende Fernreiseverkehr in Deutschland, Streckenausbauten und Fahrzeitverkürzungen führten dazu, dass die Zweizylinder-Schnellzuglokomotiven der Baureihen 01 und 03 häufiger als zuvor bis an ihrer Leistungsgrenze gefordert wurden. 1936  beschloss man die Beschaffung von neu entwickelten Dreizylinder-Schnellzuglokomotiven, dem Zeitgeist folgend mit Stromlinienverkleidung. Im Dezember 1939 lieferte Borsig die erste Baumusterlok der Baureihe 03.10 aus.03 1001, 1002 und 1043 unternahmen zahlreich Messfahrten, bei denen durch das Drillingstriebwerk auch bei 150 km/h ein ruhiger Lauf und durch die aerodynamische Verkleidung eine erhebliche Brennstoffersparnis im Vergleich zu den Baureihen 01, 03, 17.10, 18.3 und 18.5 festgestellt wurde.Von den 60 tatsächlich gebauten Maschinen überlebten lediglich 45 den Krieg. 26 davon konnte die Deutsche Bundesbahn in ihren Bestand einreihen. Ganz anders als ursprünglich geplant begann die grosse Karriere für die 03.10 erst nach ihrer „Entkleidung‟ und Aufarbeitung. Bis 1966 versahen diese edlen Renner, zuletzt noch mit neuen Hochleistungskesseln, ihre Dienste im hochwertigen Schnellzugverkehr bei der DB.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73121-dampflokomotive-br-0310-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247372.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

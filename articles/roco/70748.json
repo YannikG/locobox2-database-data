@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70748",
+  "manufacturer": "Roco",
+  "articleNumber": "70748",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe 218.1 der Deutschen Bundesbahn.Formvariante!■ Erstmals mit PluX22-Schnittstelle■ Vorbildgerechte 218.1 in CityBahn-Lackierung■ Extra angesetzte Steckteile, teilweise in Ätztechnik ausgeführt■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Modell verfügt über vorbildgerechte niedrige Spurkränze■ Radsätze mit 1,2 mm hohen Spurkränzen als Ersatzteile erhältlich (Art.-Nr. 145433, 145435)■ Z21-Führerstand verfügbarUm Nebenstrecken attraktiver zu machen, führte die Deutsche Bundesbahn 1984 die neue Zuggattung „CityBahn“ im Nahverkehr ein. Dafür wurden 25 n-Wagen (Silberlinge) mit einer Modernen Innenausstattung hergerichtet und ausserdem reinorange/kieselgrau lackiert. Dieses markante Farbkleid erhielten auch zehn Lokomotiven der Baureihe 218.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70748-diesellokomotive-br-2181-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247464.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

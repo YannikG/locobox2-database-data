@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70060",
+  "manufacturer": "Roco",
+  "articleNumber": "70060",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 160",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 126,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 160 der Deutschen Bundesbahn.■ Erstes Modell der Serie „Edition Freilassing“■ Rangiererbühnen beidseitig■ Zusätzliche seitliche Führerstandsfenster■ Feine Spurkränze und separat gesteckte Ätzteile■ Funktionsfähige Nachbildung der BlindwelleFür den Verschubdienst auf den grossen bayerischen Bahnhöfen wurden von der Deutschen Reichsbahn ab dem Jahr 1927 14 Exemplare der Baureihe E 60 in Dienst gestellt. Aufgrund der markanten Gehäuseform trugen die Loks den Spitznamen „Bügeleisen“. In den Jahren 1957/58 wurden die Fahrzeuge gründlich aufgearbeitet und modernisiert. So erhielten sie u.a. Rangiererbühnen und zusätzliche Fenster. Selbst in der Epoche IV der Deutschen Bundesbahn waren noch einige Exemplare der ehemaligen BR E 60 (ab 1968: BR 160) im Einsatz.EDITION FREILASSINGUnter dem Label „Edition Freilassing“ werden in den nächsten Jahren ausgewählte Modelle aus dem früheren Bahnbetriebswerk Freilassing nachgebildet. Im Jahr 1905 bezogen die ersten Lokomotiven, damals noch Dampflokomotiven, den Lokschuppen mit seinen 20 Gleisen. Rund 20 Jahre später erfolgte die Errichtung der E-Lok Werkstätte, weitere Bauten folgten in den Jahren darauf. Auch ROCO verbindet eine enge Beziehung zur bayerischen Stadt Freilassing, befand sich hier doch das erste deutsche Vertriebsbüro. Freuen Sie sich auf die Modelle dieser einmaligen Edition!",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70060-elektrolokomotive-br-160-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248447.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

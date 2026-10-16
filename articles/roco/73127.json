@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73127",
+  "manufacturer": "Roco",
+  "articleNumber": "73127",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1020.027-7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 213,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1020.027 der Österreichischen Bundesbahnen.■ Radsätze mit niedrigen Spurkränzen■ Modell mit Metallgriffstangen und Handläufen■ Modell in tannengrüner Farbgebung■ ÖBB-Logos als Decal beiliegend■ Mit schaltbarer Führerstandsbeleuchtung■ Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder SchlusslichtNach Kriegsende befanden sich 44 Lokomotiven der DRG BR E 94 in Österreich. 1952 bestellten die ÖBB drei weitere Lokomotiven. Die Reihenbezeichnung wurde 1954 von E 94 in Reihe 1020 geändert. Die Reihe 1020 wurde über fünf Jahrzehnte im Güterzug- und Rampendienst in nahezu ganz Österreich eingesetzt.Das farbliche Erscheinungsbild der Reihe 1020 änderte sich im Laufe der Zeit von tannengrün über blutorange bis zu verkehrsrot. Wobei nicht alle Maschinen davon betroffen waren. Nachdem 1985 die letzte der drei tannengrünen Nachbaumaschinen aus dem Betriebsstand ausschied, gab es keine grüne 1020er mehr im Betriebseinsatz. Erst 1990 wurde die 1020 042 in tannengrün lackiert und stand fortan auch für nostalgische Zwecke (u. a. als Zuglok des Nostalgie-Orient-Express) zur Verfügung.Etwa ein Jahr später wurde auch die 1020 047 tannengrün lackiert. Zusätzlich wurden zwei grüne Zierlinien am Lokkasten und je eine Zierlinie an den Vorbauten aufgebracht. Die 1020 027 wurde im Gegensatz zur 1020 042 noch mit ÖBB-Bildmarken beklebt, die später wieder entfernt wurden.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73127-elektrolokomotive-1020027-7-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244548.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

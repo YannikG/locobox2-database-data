@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72947",
+  "manufacturer": "Roco",
+  "articleNumber": "72947",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "Rh T 478.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV-V",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe T 478.3 der Tschechoslowakischen Staatsbahnen.■ Fein detaillierte Ausführung in roter Lackierung mit gelbem Frontbalken■ Passend zum Digital-Eisenbahndrehkran Art.-Nr. 73038 und Bauzugset Art.-Nr. 76019Die sogenannte Taucherbrille oder Brillenschlange wurde bei CKD in Prag entwickelt und gebaut. Die ersten Prototypen der Diesellokomotive Reihe T 478.3 entstanden 1968. Insgesamt wurden 408 Stück der markanten Lokomotive gebaut. Ab 1988, mit Einführung des EDV-Nummernsystems, erhielten die Maschinen die Reihenbezeichnung 753. Neben dem Einsatz vor Personenzügen als auch Güterzügen, waren sie darüber hinaus im Bauzugdienst anzutreffen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/72947-diesellokomotive-rh-t-4783-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/231480.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

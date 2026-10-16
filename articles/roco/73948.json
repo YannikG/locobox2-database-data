@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73948",
+  "manufacturer": "Roco",
+  "articleNumber": "73948",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Hector Rail",
+    "type": "241 007-2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 241 007 der Hector Rail.■ Lokname „Bond‟■ Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt■ Einsatz im Güterverkehr in Dänemark, Deutschland, Schweden und Norwegen■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtFür das private schwedische Eisenbahnunternehmen Hector Rail fährt die in Deutschland unter der BR 185 bekannte Baureihe 241, die zu Bombardiers TRAXX-Familie gehört. Die ab 2007 gebauten Zweisystemloks sind für Hector Rail in Schweden, Norwegen, Dänemark und Deutschland unterwegs. 2011 wurden zwei weitere Lokomotiven geliefert, so dass zwölf Lokomotiven (241.001–012) im Einsatz sind. Die Loks in Bo",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73948-elektrolokomotive-241-007-2-hector-rail.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/237511.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

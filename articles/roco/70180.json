@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70180",
+  "manufacturer": "Roco",
+  "articleNumber": "70180",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 650",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 293,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen Baureihe 650 „Regio Shuttle“ der Deutschen Bahn.Update!■ Erstmals mit PluX-Schnittstelle■ Ideal für Nebenbahnen■ Aufwendig gestalteter InnenraumFür den Betrieb auf weniger frequentierten Strecken wurde bei der Deutschen Bahn ab 1999 als Ersatz für ältere Konstruktionen ein neuer Nahverkehrs-Triebwagen angeschafft. Die Wahl fiel auf den von der Firma ADtranz entwickelten RegioShuttle 1, der bei der DB AG als BR 650 bezeichnet wurde. Dieser Fahrzeugtyp hat sich überwiegend in Süddeutschland durchgesetzt. Charakteristisch für den RS 1 sind vor allem die innovativen, trapezförmigen Fensterbänder. Zwei Dieselmotoren mit je knapp 250 PS bringen den Niederflurzug auf eine Spitzengeschwindigkeit von 120 km/h. Mit 40 Tonnen Leermasse ist der Triebwagen, der bis zu 101 Passagieren Sitzplätze bietet, eher ein Leichtgewicht.",
+  "categories": [
+    "lokomotive",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/70180-dieseltriebwagen-br-650-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248449.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

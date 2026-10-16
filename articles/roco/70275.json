@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70275",
+  "manufacturer": "Roco",
+  "articleNumber": "70275",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 52",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "III",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 52 der Deutschen Bundesbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ Variante ohne Windleitbleche■ Mit feinen Speichenrädern aus Metall■ Treib- und Kuppelstangen aus Feingussmetall■ Rauchgenerator nachrüstbar■ Z21 Führerstand verfügbarIn den Jahren 1942 bis 1950 wurden von der Kriegslokomotive der Baureihe 52 über 7.000 Stück gebaut. Diese wurden mit möglichst wenig Aufwand konstruiert und auch am Material wurde gespart, wo es nur möglich war. Mit dem Gewicht von 84 Tonnen erreichte sie eine Leistung von 1.192 kW und eine Höchstgeschwindigkeit von 80 km/h. Die Deutsche Bundesbahn entledigte sich der Loks weitestgehend bereits 1953 – ihr standen genügend 50er und 44er zur Bespannung schwerer Güterzüge zur Verfügung. Lediglich einige erst 1945 fertiggestellte Loks verblieben bis 1962 in DB-Diensten.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70275-dampflokomotive-br-52-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248352.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

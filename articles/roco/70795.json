@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70795",
+  "manufacturer": "Roco",
+  "articleNumber": "70795",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 141",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V",
+    "luepMm": 180,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 141 der Deutschen Bahn.■ Modell in verkehrsroter Lackierung■ Geätzte Laufstege und Scheibenwischer ■ Fein detailliertes Modell mit freistehenden Griffstangen■ Im Digitalbetrieb mit einzeln schaltbarem Spitzen- oder Schlusslicht■ Mit schaltbarer FührerstandsbeleuchtungDie Maschinen der Baureihe E 41/141 wurden erstmals 1956 für den leichten gemischten Dienst auf Haupt- und Nebenstrecken ausgeliefert. Als einzige Baureihe des Einheitslokprogramms erhielten sie ein Schaltwerk auf der Niederspannungsseite des Transformators. Das Schaltwerk hatte eine charakteristische Geräuschentwicklung, die neben den grossen Zugkraftsprüngen zum Spitznamen „Knallfrosch“ führte.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70795-elektrolokomotive-br-141-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248464.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

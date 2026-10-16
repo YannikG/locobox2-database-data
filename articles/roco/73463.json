@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73463",
+  "manufacturer": "Roco",
+  "articleNumber": "73463",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2045.13",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "III",
+    "luepMm": 170,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 2045.13 der Österreichischen Bundesbahnen.■ Ausführung in tannengrüner Farbgebung mit einem braunen Vorbau■ Modell mit niedrigen AuspuffhutzenDurch den oftmaligen Aggregatetausch bei den Diesellokomotiven der Reihe 2045 konnte man auch unterschiedliche Farben bei den Vorbauten beobachten.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73463-diesellokomotive-204513-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241647.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

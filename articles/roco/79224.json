@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79224",
+  "manufacturer": "Roco",
+  "articleNumber": "79224",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 180",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 180 der Deutschen Bahn.Komplette Neukonstruktion inkl.16-BIT-SOUND für ein perfektes Klangerlebnis.■ Modell in fein detaillierter Ausführung mit vielen separat angesetzten Steckteilen■ Vollständig neu entwickelte Stromabnehmer mit innovativer Befestigung■ Aufwendige Gestaltung des Dachbereichs sowie der Lüfterlamellen mit freiem Durchblick■ Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder■ Mit beiliegenden Bahnräumern und Luftkesseln in geschlossener Form zur vorbildgetreuen Vitrinendarstellung■ Führerstands- und Bedienpultbeleuchtung sowie Maschinenraumbeleuchtung■ Neu entwickeltes „Dynamic Sound“-Paket für noch besseren Tiefenklang mit zwei LautsprechernIn den 1980er Jahren beschaffte die DR elektrische Zweisystemlokomotiven, um den stetig wachsenden Verkehr und die Betriebsabläufe im grenzüberschreitenden Verkehr zwischen der DDR und der Tschechoslowakei zu vereinfachen. Aufgrund der mangelnden Erfahrung auf dem Gebiet der Zweisystemtechnik (DDR: Wechselspannung 15 kV/16⅔ Hz, ČSSR: Gleichspannung 3 kV) und der vollen Auslastung beim E-Lok-Hersteller LEW in Hennigsdorf, entstanden die Maschinen auf Basis der ČSD-Baureihe ES 499.1. Allerdings hatte die Lokfabrik Škoda noch keine Maschine für das AC-System 15 kV/16⅔ Hz gebaut, deswegen wurden die Teile des Wechselstromteils aus der DDR zugeliefert. Durch den Bedarf der ČSD ergab sich für Škoda damit ein Doppelauftrag mit 15 Loks BR 372 und 20 Loks BR 230 für die DR. Bei der DB AG wurden die Maschinen, mit einer Stundenleistung von 3.260 kW und einer Höchstgeschwindigkeit von 120 km/h, in BR 180 umgezeichnet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79224-elektrolokomotive-br-180-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248171.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

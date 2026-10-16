@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70492",
+  "manufacturer": "Roco",
+  "articleNumber": "70492",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1116 182-7 „Bundesheer“",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1116 182 der Österreichischen Bundesbahnen.■ Mit aufwendiger Bedruckung im Bundesheer-Design■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Einmalige Auflage in Sonderverpackung■ Lizenziertes ÖBB-Modell■ Z21 Führerstand verfügbarDie ÖBB und das Österreichische Bundesheer verbindet seit Jahrzehnten eine enge Partnerschaft. Sei es bei Katastropheneinsätzen oder bei Militärtransporten. Als Zeichen dieser Zusammenarbeit wurde mit der 1116 182-7 die nunmehr dritte Taurus-Lok im Bundesheer-Design vorgestellt. Die Lokomotive kommt in Österreich und dem benachbarten Ausland zum Einsatz.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70492-elektrolokomotive-1116-182-7-bundesheer-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248283.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

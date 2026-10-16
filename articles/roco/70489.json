@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70489",
+  "manufacturer": "Roco",
+  "articleNumber": "70489",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "BR 370",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 370 der Polnischen Staatsbahnen.■ Fein detailliertes Modell mit separat montierten Griffstangen■ Aufwendiger „Dachgarten‟ mit vier Stromabnehmern■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenKurz nach der Ablieferung der ÖBB Rh 1216 bestellten auch die Polnischen Staatsbahnen zehn Stück der bei der PKP als Baureihe 370 bezeichneten Siemens Lokomotiven. Bei den PKP tragen die Lokomotiven, anders als bei den ÖBB als Taurus bezeichnet, den Namen „Husarz“. Die Lokomotiven bespannen täglich Eurocity-Züge und kommen dabei auch regelmässig nach Berlin und Prag.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70489-elektrolokomotive-br-370-pkp.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248000.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

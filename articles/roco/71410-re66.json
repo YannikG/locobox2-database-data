@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71410-re66",
+  "manufacturer": "Roco",
+  "articleNumber": "71410-re66",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 6/6",
+    "number": "11672",
+    "livery": "Balerna",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 6/6 11672 «Balerna» der Schweizerischen Bundesbahnen, Teil des Re-10/10-Doppeltraktions-Sets Art. 71410 (mit Re 4/4 III 11361), Epoche IV.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71410-e-lok-doppeltraktion-re-1010-sbb.html",
+    "notes": "Zweite Lok aus dem Set Art. 71410; Daten vom Produkt der Doppeltraktion.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/250125.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:40Z",
+  "setNumber": "71410"
+}

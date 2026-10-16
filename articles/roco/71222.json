@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71222",
+  "manufacturer": "Roco",
+  "articleNumber": "71222",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "Rh 372",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Rh 372 der Tschechoslowakischen Staatsbahnen.Komplette Neukonstruktion inkl.16-BIT-SOUND für ein perfektes Klangerlebnis.■ Modell in fein detaillierter Ausführung mit vielen separat angesetzten Steckteilen■ Vollständig neu entwickelte Stromabnehmer mit innovativer Befestigung■ Aufwendige Gestaltung des Dachbereichs sowie der Lüfterlamellen mit freiem Durchblick■ Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder■ Mit beiliegenden Bahnräumern und Luftkesseln in geschlossener Form zur vorbildgetreuen Vitrinendarstellung■ Mit beiliegendem geätztem Schildersatz■ Führerstands- und Bedienpultbeleuchtung sowie Maschinenraumbeleuchtung■ Neu entwickeltes „Dynamic Sound“-Paket für noch besseren Tiefenklang mit zwei LautsprechernIn den 1980er Jahren entschlossen sich die CSD und die DR Zweisystemloks zu beschaffen, um den stetig wachsenden Verkehr und die Betriebsabläufe im grenzüberschreitenden Verkehr auf der Strecke Berlin–Dresden–Prag zu vereinfachen. Der Lokomotivbauer in der DDR, das LEW Hennigsdorf, war zu dieser Zeit jedoch voll ausgelastet, sodass die tschechische Lokfabrik Skoda, die schon diverse Erfahrungen mit solchen Maschinen hatte, den Auftrag erhielt. Als Basis boten sich die CSD-Baureihen ES 499.1 und 499.2 an. Allerdings wurde mit dem deutschen Stromsystem 15 kV/16⅔ Hz Neuland betreten. Der Doppelauftrag enthielt 15 Loks BR 372 für die CSD und 20 Loks BR 230 für die DR. Die Universalmaschinen wurden im Personen- und Güterzugverkehr eingesetzt. Bei einer Stundenleistung von 3.260 kW wird eine Höchstgeschwindigkeit von 120 km/h erreicht. In Deutschland wird die Baureihe liebevoll „Knödelpresse“ genannt, das tschechische Pendant nennt man im Nachbarland „Bastard“.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71222-elektrolokomotive-rh-372-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248158.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

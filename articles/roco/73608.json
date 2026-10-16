@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73608",
+  "manufacturer": "Roco",
+  "articleNumber": "73608",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1042 563-5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV-V",
+    "luepMm": 186,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1042 563 der Österreichischen Bundesbahnen.■ Variante mit gekrümmten Eckfenstern■ Lackierung in Blutorange■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenVon der Universal-Elektrolokomotive Reihe 1042 wurden ab 1963 insgesamt 257 Maschinen gebaut. Ab 1966 wurden stärkere Motoren eingebaut um eine Höchstgeschwindigkeit von 150 km/h zu erreichen. Diese Loks erhielten die Reihenbezeichnung 1042.5. Eingesetzt wurden sie vor allen Zuggattungen, grossteils aber vor schnellen Reise- und Güterzügen, auch grenzüberschreitend nach Deutschland. Im Laufe der Zeit änderte sich das Erscheinungsbild der Lokomotiven. So wurde ab Mitte der 1980er Jahre im Zuge von Hauptausbesserungen der Rahmen, das Laufwerk und das Dach in Umbragrau lackiert.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73608-elektrolokomotive-1042-563-5-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/2/224609.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

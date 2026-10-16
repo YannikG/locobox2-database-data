@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70277",
+  "manufacturer": "Roco",
+  "articleNumber": "70277",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "52 1538-9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 265,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 52 der Deutschen Reichsbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ Ausführung mit Altbaukessel und Schneepflug■ Mit feinen Speichenrädern aus Metall■ Treib- und Kuppelstangen aus Feingussmetall■ Rauchgenerator nachrüstbar■ Z21 Führerstand verfügbarDie Dampflokomotiven der Baureihe 52 sind die bekanntesten Kriegslokomotiven Europas. Insgesamt wurden mehr als 7.000 Lokomotiven gebaut und in verschiedenste Länder geliefert. Auch die Deutsche Reichsbahn hatte über 1.000 Maschinen in ihrem Fuhrpark, welche vor allem mit der Bespannung von schweren Güterzügen beschäftigt waren.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70277-dampflokomotive-52-1538-9-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248457.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

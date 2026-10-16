@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73046",
+  "manufacturer": "Roco",
+  "articleNumber": "73046",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR V 180",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 224,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe V 180 der Deutschen Reichsbahn.■ Sehr detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen, teilweise aus Metall■ 6-achsige Ausführung mit feinen Radsätzen■ Mit senkrechten Griffstangen an der Front■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDie Baureihe V 180 der Deutschen Reichsbahn der DDR war die grösste in der DDR gebaute Diesellokomotive. Sie wurde Anfangs in einer vierachsigen Version mit zwei 2-achsigen Drehgestellen gebaut, später gab es auch 6-achsige Varianten. Als ingenieurtechnische Meisterleistung gilt noch heute bei der sechsachsigen Version die geringe Achsfahrmasse von 15,6 t, sodass diese Lok universell auch auf Nebenbahnen eingesetzt werden kann. Ausserdem hat sie eine Zulassung für Steilstrecken. Das dadurch entstehende mögliche Einsatzgebiet ist einmalig bei deutschen Grossdieselloks.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/73046-diesellokomotive-br-v-180-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244826.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

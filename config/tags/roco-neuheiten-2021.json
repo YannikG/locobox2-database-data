@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Roco Neuheiten 2021",
+  "slug": "roco-neuheiten-2021",
+  "description": "Artikel aus dem Roco-Neuheitenkatalog 2021.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "roco",
+  "year": 2021,
+  "order": 1,
+  "source": "https://www.roco.cc/rde/kataloge"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73318",
+  "manufacturer": "Roco",
+  "articleNumber": "73318",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EINSTELLER",
+    "type": "186 282-0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 186 282 der Railpool vermietet an die Rail Traction Company (RTC).■ Modell im „Zebra“-Design mit roten Streifen■ Einsatz im internationalen Güterverkehr■ Mit separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt■ Ausführung mit Schneepflug am Chassis■ Erstmals mit PluX22-Schnittstelle■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenDas private Eisenbahnverkehrsunternehmen Lokomotion mit Sitz in München betreibt seit fast 20 Jahren grenzüberschreitenden Güterverkehr. Bekannt ist es für seine Lokomotiven im Zebra-Design. Egal ob blau, rot, grün, silbern oder mehrfarbig, sie sind immer ein Blickfang.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73318-elektrolokomotive-186-282-0-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240429.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

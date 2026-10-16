@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70454",
+  "manufacturer": "Roco",
+  "articleNumber": "70454",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1043",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 179,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1043 der Österreichischen Bundesbahnen.■ Originales Schweden-Design mit ÖBB-Flügelrad ■ Mit umbragrau lackiertem Dach■ Feine Ätzschilder mit den Loknummern und Flügelrad beiliegend■ Dachkonfiguration im Originalzustand■ Umbau der Lampen nach ÖBB-Norm■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtUm den Wunsch der ÖBB nach rascher Lieferung neuer Lokomotiven für den Güterverkehr auf der Tauernbahn zu erfüllen wurden von einer in Bau befindlichen Serie der schwedischen Type Rc 2 vier Lokomotiven abgezweigt. Die mit Thyristortechnik ausgestatteten Loks bewährten sich gut und es wurden bis 1974 insgesamt zehn Maschinen geliefert. Kaum eine andere Reihe der ÖBB wies im Laufe ihrer Einsatzzeit derart vielfältige Beschriftungsvarianten auf.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70454-elektrolokomotive-rh-1043-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248460.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

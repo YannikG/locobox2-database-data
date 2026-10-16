@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71951",
+  "manufacturer": "Roco",
+  "articleNumber": "71951",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EINSTELLER",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 193 des Logistikunternehmens boxXpress.de.■ Vorbildgerechte Umsetzung mit detaillierter Dachgestaltung■ Freistehende Griffstangen, teilweise aus Metall■ Einsatz im internationalen Güterverkehr■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Sound in Kooperation mit LeosoundlabboxXpress.de verbindet seit der Gründung im Jahr 2000 die deutschen Seehäfen Bremerhaven und Hamburg mit den Wirtschaftsregionen in und um Frankfurt/Main, Dortmund, Stuttgart, München und Nürnberg. Das Transportkonzept besteht aus dem weitgehend ungebrochenen Betrieb von Ganzzügen. Neben fast 1.000 Containertragwagen stehen mittlerweile auch 31 Lokomotiven, davon vier Vectron Mehrsystemloks, für die Traktion der Züge zur Verfügung.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71951-elektrolokomotive-br-193-boxxpress.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247471.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

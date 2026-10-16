@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70316",
+  "manufacturer": "Roco",
+  "articleNumber": "70316",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "193 318-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 318 der Deutschen Bahn.■ Modell exklusiv bei ROCO erhältlich■ DB Cargo Lok im „Backbone“-Design■ Einsatz im internationalen Güterverkehr■ Freistehende Griffstangen, teilweise aus Metall■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Sound in Kooperation mit LeosoundlabÜblicherweise sind die Loks der Güterverkehrssparte der Deutschen Bahn rot lackiert. Im Rahmen der „I am“-Serie von DB Cargo sind sie in der letzten Zeit um einiges bunter geworden. Im Juli 2020 wurde eine weitere Vectron-Multisystem-Lokomotive der Baureihe 193 mit Eigenwerbung versehen. Seitdem ist sie im Design „I am the backbone of the economy“ („Ich bin das Rückgrat der Wirtschaft“) auf europäischen Schienen unterwegs. Besonders in der Corona-Krise hat sich gezeigt, dass der Schienengüterverkehr das Rückgrat der Wirtschaft ist.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70316-elektrolokomotive-193-318-3-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245342.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

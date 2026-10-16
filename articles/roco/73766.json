@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73766",
+  "manufacturer": "Roco",
+  "articleNumber": "73766",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2016 080-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe 2016 der Österreichischen Bundesbahnen.■ Wiederauflage mit geänderter UIC-Betriebsnummer■ Farblich abgesetzte Bremsscheiben■ Beigelegte Aussenspiegel für ein- und ausgeklappte Stellung■ Extra angesetzte Griffstangen, Scheibenwischer und UIC-DosenDer Lokomotivtyp Siemens ER20 der Eurorunner-Serie ist eine von Siemens Mobility (vormals Siemens Transportation Systems) gebaute dieselelektrische Lokomotive. Diese Loks wurden zunächst im Auftrag der Österreichischen Bundesbahnen gebaut und dort als 2016 oder Hercules bezeichnet.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/73766-diesellokomotive-2016-080-1-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/239620.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79167",
+  "manufacturer": "Roco",
+  "articleNumber": "79167",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 225,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 152 der Deutschen Bahn.Update!■ Erstmals mit PluX-Schnittstelle und Sound■ Fein detaillierte Ausführung mit freistehenden Griffstangen■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtDie Baureihe 152 ist für den schweren Güterverkehr entwickelt worden, um nach und nach vor allem die Baureihe 150 abzulösen. Ab Dezember 1996 wurden von Krauss-Maffei als Generalunternehmer – Siemens Verkehrstechnik steuerte den elektrischen Teil bei – 170 Lokomotiven an die DB AG geliefert. Als schwere Güterzuglok konzipiert verfügt sie über eine Dauerleistung von 6.400 kW und eine zulässige Höchstgeschwindigkeit von 140 km/h.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79167-elektrolokomotive-br-152-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241771.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

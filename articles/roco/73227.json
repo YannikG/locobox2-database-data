@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73227",
+  "manufacturer": "Roco",
+  "articleNumber": "73227",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "186 247-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 186 247 der Railpool in Lackierung der Alpha Trains. ■ Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt■ Im grenzüberschreitenden Einsatz vor Güterzügen■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder SchlusslichtDie Lokomotiven des Leasingunternehmens Alpha Trains werden oftmals weiterverkauft. So trägt auch die 186 247 noch die Lackierung ihres ehemaligen Eigentümers, ist jedoch schon für Railpool im Einsatz.Die Baureihe 186 ist eine Mehrsystemlokomotive der zweiten Traxx-Generation von Bombardier. Mit einem Dienstgewicht von 86 t leisten sie 5.600 kW. Die Höchstgeschwindigkeit beträgt bis zu 160 km/h.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/73227-elektrolokomotive-186-247-3-railpool.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/240893.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

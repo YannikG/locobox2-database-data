@@ -21,6 +21,8 @@ Aufbau: **Serienbuchstabe(n)** + **Traktion** (Kleinbuchstabe) + **Triebachsen**
 
 Beispiel: **Re 4/4 II** = R + e + 4 Triebachsen + 4 Achsen, zweite Serie.
 
+**Re 10/10** ist **keine** Baureihe, sondern die Betriebsbezeichnung der Doppeltraktion **Re 4/4 III + Re 6/6** (zehn angetriebene Achsen, oft Gotthard-Güterzug). Roco-Sets (z. B. **71409**) → **zwei** Artikeldateien mit `setNumber`, nicht `type` `Re 10/10`; siehe [field-parsing-model.md](field-parsing-model.md) → Sets.
+
 ## System 1902–1989: Triebwagen (Schema)
 
 Ähnlich: Grossbuchstaben für Wagenklassen (A Erste, B Zweite, D Gepäck, Z Post, R erhöhte Kurvengeschwindigkeit, Kombinationen wie ABDe), Traktion, Achszahlen, Index. Spezialfälle TEE (RAm/RAe) und Zahnrad (**h** vor Antriebskennzeichen bei reinem Zahnradfahrzeug).

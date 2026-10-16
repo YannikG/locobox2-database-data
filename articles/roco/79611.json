@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79611",
+  "manufacturer": "Roco",
+  "articleNumber": "79611",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "1142 684-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 186,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 1142 684 der Österreichischen Bundesbahnen.■ Mit langer UIC-Nummer■ Ohne Eckfenster■ Grosse Scheinwerfer■ Passende Lok für ÖBB-WendezügeAls rein Österreichische Konstruktion wurde die Reihe 1042 von 1963 bis 1977 in 257 Exemplaren gebaut. In den 1990er Jahren wurde ab der Seriennummer 1042.531 ‒ unter anderen Umbauten ‒ eine Wendezugsteuerung eingebaut und in Reihe 1142 umgezeichnet. Nicht nur vor Wendezügen sondern auch vor schweren Güterzügen in Mehrfachtraktion sind die 1142er bis heute unterwegs.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79611-elektrolokomotive-1142-684-8-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/2/224614.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

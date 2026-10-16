@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79959",
+  "manufacturer": "Roco",
+  "articleNumber": "79959",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1293",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 1293 der Österreichischen Bundesbahnen.Formvariante!■ Mehrsystemausführung mit Niederlande-Paket aus dem Nummernbereich 1293 173-200■ Vorbildgerechte Änderungen am Dach und an den Unterflurapparaturen■ Planmässiger Einsatz der Lokomotiven in Deutschland und den Niederlanden sowie Ost-Europa wie Tschechien und Polen■ Freistehende Griffstangen, teilweise aus Metall■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ Lizenziertes ÖBB Modell■ Sound in Kooperation mit LeosoundlabDie Österreichischen Bundesbahnen haben im Jänner 2017 mit Siemens einen Rahmenvertrag über insgesamt 200 neue Multi-Systemlokomotiven vom Typ Vectron abgeschlossen. Der Einsatz der Lokomotiven ist in mehr als zehn Ländern in Ost- und Südosteuropa sowie in Deutschland und Italien vorgesehen. Unter der Reihenbezeichnung 1293 werden die Loks in mehreren Lieferserien an die ÖBB übergeben.Die Auslieferung der dritten Lieferserie mit 61 Lokomotiven begann im März 2020. Davon werden 28 Maschinen auch für Einsätze in den Niederlanden und Belgien ausgerüstet. Die Lokomotiven der 1. und 2. Lieferserie sind mit dem Länderpaket für Österreich, Deutschland, Italien, Ungarn, Tschechien, Polen, Slowakei, Kroatien und Slowenien ausgestattet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79959-elektrolokomotive-rh-1293-obb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248966.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:03Z"
+}

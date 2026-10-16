@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71096",
+  "manufacturer": "Roco",
+  "articleNumber": "71096",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 95",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 174,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 95 der Deutschen Reichsbahn.■ Komplette Neukonstruktion■ Erstmals mit Neubaukessel als Grossserienmodell erhältlich■ Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen■ Räder mit feinen Speichen■ Mit dynamischem Dampf und vorbildgerechten Soundfunktionen■ Ausführung mit Öl-Feuerung■ Mit Führerstands- und TriebwerksbeleuchtungDiese Dampflokgattung war die stärkste je von der Deutschen Reichsbahn-Gesellschaft beschaffte Tenderlok. Insgesamt wurden 45 Stück dieser gigantischen Maschine gebaut. Ihren Spitznamen „Bergkönigin“ bekam sie aufgrund der vorwiegenden Verwendung auf den Bahnstrecken Sonneberg–Probstzella, der Spessartrampe, der Frankenwaldbahn, der Geislinger Steige, der Schiefen Ebene und der Rübelandbahn. Nach dem 2. Weltkrieg gelangten 31 Lokomotiven der Baureihe zur Deutschen Reichsbahn. In den 1950er Jahren wurden Kesselausrüstung, Armaturen, Pumpen, Führerhaus usw. im Zuge der Instandhaltung den Gepflogenheiten der DR angepasst und somit auch weitgehend vereinheitlicht. Zwischen 1966 und 1972 wurden 24 Maschinen auf Ölhauptfeuerung umgebaut, 10 Loks erhielten einen Neubaukessel ohne Speisedom. Die Bahnstrecke Eisfeld–Sonneberg war das letzte Einsatzgebiet. Erst 1981 wurden die letzten Maschinen ausgemustert.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/71096-dampflokomotive-br-95-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247306.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

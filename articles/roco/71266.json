@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71266",
+  "manufacturer": "Roco",
+  "articleNumber": "71266",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "01 1518-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 281,
+    "minRadiusMm": 419
+  },
+  "description": "Dampflokomotive 01 1518 der Deutschen Reichsbahn.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle drei Treibachsen der Lok.■ Ausführung mit Behelfsbeschilderung■ Modell mit Kohletender■ Feine Metallradsätze■ Rauchgenerator nachrüstbar■ Mit Henning-SoundDie Deutsche Reichsbahn befürchtete, aufgrund des zum Teil schlechten Zustands der Baureihe 01 für die Schnellzüge immer weniger Lokomotiven vorhalten zu können. Daher entschloss man sich die 01 zu rekonstruieren, was bei der Reichsbahn auch eine Steigerung der Leistung sowie die Beseitigung von Fehlern bedeutete und dass ist bei dieser Baureihe besonders gut gelungen. Der neue geschweisste Kessel bekam ein drittes Sicherheitsventil. Sämtliche Kesselaufbauten wurden verkleidet, das Führerhaus modernisiert und die Witte-Windleitbleche vorne abgeschrägt. Bei der Umzeichnung 1970 wurden die Lokomotiven mit Kohlefeuerung als BR 01.15 eingereiht. Die letzte Dienststelle der 01 1518 war Saalfeld. Die Ausmusterung erfolgte im Mai 1981.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/71266-dampflokomotive-01-1518-8-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248470.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

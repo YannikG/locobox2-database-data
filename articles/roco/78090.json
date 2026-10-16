@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78090",
+  "manufacturer": "Roco",
+  "articleNumber": "78090",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6ˡ 10700",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "Unbekannt",
+    "luepMm": 170,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Ae 3/6ˡ 10700 der Schweizerischen Bundesbahnen.Edition-Modell!■ Komplette, höchst aufwendige, Neukonstruktion mit sehr feiner Nachbildung des Buchli-Antrieb sowie der Stromabnehmer■ Feinste und völlig neu konstruierte Speichenräder■ Modell in SBB Historic-Ausführung aus der 3. Serie■ Gitter am Dachaufsatz aus Feinmetall■ Grosse Lampen■ Führerstands- und Maschinenraumbeleuchtung■ Sound-synchrone Schaltblitze im Maschinenraum■ ROCO Dynamic-Sound System und 16-bit Sound■ Kurzkupplungs-Kinematik an beiden Enden■ Perfekte Präsentation in GlasklarboxDie Elektrolokomotiven der Serie Ae 3/6ˡ wurden von 1921 bis 1929 in mehreren Bestellungen beschafft. Die Lokomotive 10700 stammt aus den Werkshallen der MFO und der SLM. Bedingt durch die lange Beschaffungszeit wurden auch technische Neuerungen eingebaut. Die Leistung der Loks stieg dadurch von 1.450 kW auf 1.600 kW. Dank der guten Laufeigenschaften konnte auch die Höchstgeschwindigkeit angehoben werden. Ab 1929 von 90 km/h auf 100 km/h und für die stärkeren Lokomotiven (ab Nr. 10637) 1937, nach Anpassungen am Laufachsdrehgestell, auf 110 km/h. Die Lokomotive 10700 war von 1927 bis 1986 im Depot Bern beheimatet. Sie ist bis heute als einsatzfähiges historisches Fahrzeug im Depot Olten einquartiert und gehört der Stiftung Historisches Erbe der SBB (SBB Historic).",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78090-elektrolokomotive-ae-36%cb%a1-10700-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247750.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

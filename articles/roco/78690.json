@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78690",
+  "manufacturer": "Roco",
+  "articleNumber": "78690",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BLS",
+    "type": "Ae 8/8 272",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV-V",
+    "luepMm": 347,
+    "minRadiusMm": 419
+  },
+  "description": "Doppel-Elektrolokomotive Ae 8/8 272 der Bern-Lötschberg-Simplon-Bahn (BLS).■ Erstmals mit neuen feinen Stromabnehmern des Typ BBC 350/2■ Beide Lokhälften angetrieben■ Ausführung mit Silbernem Dach■ Lichtwechsel nach Schweizer VorschriftMit den Loktypen Ae 6/8 und Ae 4/4 verfügte die BLS zwar über äusserst zugkräftige Maschinen, im Güterverkehr war ihr Einsatz jedoch aufgrund der Mitte der fünfziger Jahre zunehmend verstärkten und vereinheitlichten Ausführung des Wagenmaterials und damit längeren und schwereren Zügen mehr und mehr mit Vorspann- oder Schiebedienstleistungen verbunden.Bei der Evaluation eines neuen Triebfahrzeuges bis 900 Tonnen Anhängelast auf 27 Promille zeigte sich, dass eine Verdoppelung der bewährten Ae 4/4 die beste Lösung darstellen würde. Die so entstandenen Ae 8/8 entwickeln eine Stundenleistung von 8.800 PS (6.480 kW) bei 76 km/h und eine Höchstgeschwindigkeit von 125 km/h. Verschiedene technische Verbesserungen ermöglichen eine ausgezeichnete Ausnützung der Zugkraft und gaben den Maschinen schliesslich den Übernamen „Muni“ (Mundart für Zuchtstier). Als grossen Vorteil der Bauart mit fest verbundenen Lokhälften erwies sich die Ersparnis von zwei Führerständen und häufiger Leerfahrten von rückführenden Vorspann- und Schiebeloks auf der damals noch einspurigen Lötschbergstrecke. Die ersten drei Lokomotiven 271–273 wurden zwischen 1959 und 1963 von SLM und BBC an die BLS abgeliefert.1965 entschied man sich aufgrund der positiven Erfahrungen zum Bau von zwei weiteren Einheiten 274 und 275. Diesmal kam jedoch eine Methode zur Anwendung, die stark an Modellbau-Praktiken erinnert (ob der zuständige Ingenieur wohl ...?!): Je zwei bestehende Ae 4/4 wurden unter Ausführung der nötigen Anpassungsarbeiten zu mit den drei ersten Loks identischen Ae 8/8 zusammengebaut. Obwohl die schweren Transitgüterzüge zwischen Biel, Bern, Thun und Brig–Domodossola das Hauptbetätigungsfeld darstellten, konnten die „Munis” auch vor langen internationalen Reisezügen beobachtet werden. Mit den freilich weiter über den ursprünglich gedachten Wert von 900 Tonnen nach oben kletternden Zuglasten waren öfters Doppeltraktionen mit Ae 6/8, Ae 4/4, Re 4/4 und Re 465 nötig. Die Inbetriebnahme der zweiten Staffel Re 465 führte zur vorläufigen Remisierung sämtlicher Ae 8/8, währenddessen Lok 274 bereits davor ausrangiert wurde. Ein Schuppenbrand liess schliesslich auch Lok 271 und 272 von der Bildfläche verschwinden. Lok 273 ist als Historische Lokomotive erhalten geblieben. Momentan sucht die BLS-Stiftung Geld um die Lok wieder fahrfähig zu machen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/78690-elektrolokomotive-ae-88-272-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/249254.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

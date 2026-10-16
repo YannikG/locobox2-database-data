@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70813",
+  "manufacturer": "Roco",
+  "articleNumber": "70813",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 111",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 164,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe 111 der Deutschen Reichsbahn.■ Ausführung in gelber Lackierung■ Freistehende Griffstangen■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werdenUm den Bedarf an schweren Rangierlokomotiven zu decken, bestellte die DR Ende der 1970er Jahre 37 Maschinen bei LEW Henningsdorf, die solche Loks schon für den Export entwickelt hatte. Die von 1981 bis 1983 in drei Baulosen hergestellten Lokomotiven hatten den bewährten 1.000 PS Motor, jedoch ein Getriebe mit geänderter Übersetzung, ähnlich den ersten V 100-Lokomotiven. Die Höchstgeschwindigkeit betrug daher nur 65 km/h. Anstelle des Heizkessels wurde ein Ballastgewicht eingebaut. Wie alle DR-Rangierlokomotiven, hatten diese Loks einen orange-gelben Anstrich. Zur Sicherheit des Rangierpersonals während der Fahrt, wurden Geländer an den Vorbauten dieser Loks angebaut.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70813-diesellokomotive-br-111-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248465.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

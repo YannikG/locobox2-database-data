@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79029",
+  "manufacturer": "Roco",
+  "articleNumber": "79029",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "86 270",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 160,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 86 270 der Deutschen Reichsbahn.Mit 16-BIT-SOUND für ein perfektes Klangerlebnis■ Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen■ Betriebszustand ca. 1952■ Kurz ausgeschnittene Wasserkästen in geschweisster Ausführung■ Scherenbremsen■ Bw Dresden-Friedrichstadt■ Mit schaltbarer Führerstandsbeleuchtung■ Rauchgenerator nachrüstbarDie Baureihe 86 wurde als 1’D1’-Einheitstenderlok von der Deutschen Reichsbahn-Gesellschaft (DRG) entworfen und ab 1928 in grosser Stückzahl gebaut.Im Bereich der späteren DDR verblieben 244 Loks, von denen 71 an die Sowjetunion abgegeben werden mussten. Zu Beginn der 1950er Jahre standen der DR 164 Loks zur Verfügung. Die Maschinen wurden vorwiegend auf den Strecken im Harzvorland, im Erzgebirge und in der Oberlausitz eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/79029-dampflokomotive-86-270-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244246.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

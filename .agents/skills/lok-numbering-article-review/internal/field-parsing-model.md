@@ -26,8 +26,9 @@ Langer `model.type`, **`model.number`: `null`**, **ohne** splittbare UIC/EVN in 
 | `BR 193` / Vectron ohne Ziffernblock im Shop-Titel | `type` `BR 193`, `number` null | UIC im Fliesstext vorhanden, aber nicht gesplittet |
 | `GTW 2/6` + `"Stadler"` + EVU/Lack (THURBO, HLB, …) | `type` `GTW 2/6`, Livery = Lack/EVU-Name | Livery fälschlich «Stadler» (Hersteller) |
 | ČSD **M 152.0 mit Beiwagen Blm** (Roco-Set) | Motorwagen: `type` `Rh M 152.0`, `number` = vierstellige M-Laufnummer (**0001–0678**); Beiwagen **eigene** Datei `{sku}-blm`: `type` `Blm`, `number` = Inventar **000–909** (Serie Blm 24-29), `setNumber` = Set-SKU, Kategorie `wagen` | Beiwagen nur im Motorwagen-`type`; Verwechslung mit EDV **810**/**010**, Umbau **809/811–814**, oder Einzel-Beiwagen-SKU ohne Set |
+| SBB **Re 10/10** Doppellok-Set (z. B. Roco **71409**/71410/79410) | **Zwei** angetriebene Loks, **keine** eigene Baureihe «Re 10/10»: Datei `{sku}` = eine Lok (z. B. `Re 4/4 III` / `11361`), Datei `{sku}-re66` (o. ä.) = zweite Lok (`Re 6/6` / `11672`, Livery z. B. `Balerna`); beide `setNumber` = Shop-SKU, Kategorie jeweils `elektrolokomotive` | Eine Datei mit `type` `Re 10/10`; Nummern beider Loks in einem `type`/`number` |
 
-Details, Nummernpläne, Gattungsfolge Blm→Baafx→010/011: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md) → Abschnitt «ČSD M 152.0 (810) und Beiwagen Blm (010)».
+Details, Nummernpläne, Gattungsfolge Blm→Baafx→010/011: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md) → Abschnitt «ČSD M 152.0 (810) und Beiwagen Blm (010)». Re 10/10: [wiki-schweizer-bauartbezeichnungen.md](wiki-schweizer-bauartbezeichnungen.md).
 
 ## PIKO Variantengruppen (Schwester-Review)
 

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70920",
+  "manufacturer": "Roco",
+  "articleNumber": "70920",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "Rh T 478.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 190,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Reihe T 478.1 der Tschechoslowakischen Staatsbahnen.Update!■ Erstmals mit PluX22-Schnittstelle■ Ausführung der 3. Bauserie mit gesickten Seitenwänden bis zur Dachkante■ In roter Lackierung mit gelbem FrontbalkenDie Baureihe T 478.1 ist eine dieselelektrische Universallokomotive der CSD. Dem markanten Äusseren verdanken die Lokomotiven ihren Spitznamen Bardotka, benannt nach Brigitte Anne-Marie Bardot, ein ehemaliges französisches Model, frühere Filmschauspielerin, Sängerin und erotische Ikone der 1970er-Jahre. In den Jahren 1966 bis 1971 entstanden 230 Serienlokomotiven für die CSD im Werk CKD in Prag.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70920-diesellokomotive-rh-t-4781-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248224.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

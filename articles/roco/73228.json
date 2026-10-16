@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73228",
+  "manufacturer": "Roco",
+  "articleNumber": "73228",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "TX-Logistik",
+    "type": "182 572-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 182 572 der TX-Logistik.■ Aufwendig bedrucktes Modell im Flammen-Design exklusiv bei ROCO■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Z21 Führerstand verfügbar■ In Kooperation mit Loc & MoreDie Elektrolokomotiven der EuroSprinter-Familie von Siemens werden in Deutschland als Baureihe 182 bezeichnet. Mit der Leistung von 6.400 kW erreichen sie eine Höchstgeschwindigkeit von 230 km/h. Das Eisenbahnverkehrsunternehmen TX-Logistik beklebte ihre 182 572 in einem auffälligen Flammen-Design zur Anwerbung von Mitarbeitern.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/73228-elektrolokomotive-182-572-8-tx-logistik.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241669.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

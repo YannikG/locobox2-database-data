@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79041",
+  "manufacturer": "Roco",
+  "articleNumber": "79041",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "II",
+    "luepMm": 260,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 44 der Deutschen Reichsbahn-Gesellschaft.Antrieb auf zwei Achsen des Tenders und über Kardanwelle auf alle fünf Treibachsen der Lok.■ Fotografieranstrich■ Wagner-Windleitbleche■ Fein detailliertes Modell mit vielen separat angesetzten Teilen■ Metallräder mit filigranen Speichen■ Rauchgenerator nachrüstbarZum Einheitslokprogramm der Deutschen Reichsbahn-Gesellschaft (DRG) gehörte auch die Entwicklung einer leistungsstarken Güterzuglokomotive. Man erwartete von der als BR 44 bezeichneten Lokomotive mit Drillingstriebwerk die Beförderung von Güterzügen bis 1.200 t im Mittelgebirge und bis 600 t über Steilrampen. 1926 wurden die ersten 10 Maschinen mit der Achsfolge 1’E h3 ausgeliefert. Erst ab 1937, nach gestiegenen Ansprüchen der Zugförderung, ging diese Lokomotive in Serie und wurde in grosser Stückzahl, in verschiedenen Ausführungen, beschafft. Bis zur Ablösung durch moderne Diesel- und Elektrolokomotiven bildeten die Maschinen der Baureihe 44 das Rückgrat des schweren Güterzugdienstes in ganz Deutschland.Beim Fotografieranstrich handelt es sich um eine Sonderlackierung, die seitens der Lokomotivfabriken bei besonderen Lokomotiv-Exemplaren aufgetragen wurde, um zu den damaligen Zeiten eine bessere Darstellung auf Fotos zu erzielen. Dieser bestand aus abwaschbarer (Kalk-)Farbe und wurde nur zum Zwecke der Fotoarbeiten aufgetragen.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/79041-dampflokomotive-br-44-drg.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/241686.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

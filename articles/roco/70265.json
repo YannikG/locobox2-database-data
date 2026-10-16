@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70265",
+  "manufacturer": "Roco",
+  "articleNumber": "70265",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 106",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 125,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Baureihe 106 der Deutschen Reichsbahn.Formvariante!■ Lok der 1. Bauform mit auf Konsolen montierten, vorstehenden Lampen ■ Mit Regenschutzdach über den Seitenfenstern■ Frostschutzabdeckungen der Lüftergitter im offenen und geschlossenem Zustand montierbar■ Motorvorbauten aus Zinkdruckguss, daher mehr Eigengewicht und hohe Zugkraft■ Modell in fein detaillierter Ausführung mit vielen separat angesetzten Steckteilen■ Schaltbares Spitzen-/Schlusslicht mit DIP-Schalter■ Platine mit umfangreichen Lichtfunktionen (nach Digitalisierung schaltbar: Rangierlicht, einzeln schaltbares Spitzen- oder Schlusslicht, Abblendlicht, Führerstandsbeleuchtung)Ab 1955 entwickelte die Deutsche Reichsbahn der DDR die dieselhydraulische Lokomotive V 60 für den mittelschweren Rangierdienst. Diese Maschinen sollten vor allem den wenig rationellen Einsatz von Dampflokomotiven im Rangierdienst beenden. Von 1962 bis 1964 wurde die erste Serie mit 163 Lokomotiven von LKM Babelsberg an die DR abgeliefert. Noch während des Baus der ersten Hauptserie wurde ein Regenschutzdach über den Seitenfenstern montiert. Aufgrund einer neuen Dienstvorschrift wurden DR-Rangierloks sukzessive im Zuge von Revisionen mit einem orange-gelben Anstrich versehen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70265-diesellokomotive-br-106-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247367.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

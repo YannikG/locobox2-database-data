@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79033",
+  "manufacturer": "Roco",
+  "articleNumber": "79033",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "86 1361-4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "IV",
+    "luepMm": 160,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 86 1361 der Deutschen Reichsbahn.■ Mit Glocke■ Fein detailliert ausgeführtes Modell mit vielen separat angesetzten Steckteilen■ Lang ausgeschnittene Wasserkästen■ Feine Metallradsätze■ Bw Aue/Bw Karl-Marx-Stadt■ Rauchgenerator nachrüstbarVon 1928 bis 1943 lieferten fast alle deutschen Lokomotivfabriken insgesamt 775 Maschinen dieser Baureihe an die Deutsche Reichsbahn Gesellschaft. Konstruktiv waren die 1.000-PS-Loks für eine Geschwindigkeit von 70–80 km/h ausgelegt, womit sie neben ihrem Haupteinsatzgebiet der „Nebenbahn“ auch auf Haupt- und Zulaufstrecken einsetzbar waren. Zu Beginn der 1950er Jahre standen in der DDR noch 164 Loks der Baureihe 86 zur Verfügung. Die meisten der Maschinen wurden vom Betriebswerk Aue aus auf den Strecken des Erzgebirges eingesetzt. 1970 erhielten noch 162 Maschinen eine EDV-gerechte Betriebsnummer, die Ausmusterung erfolgte ab 1973.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/79033-dampflokomotive-86-1361-4-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248364.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71407",
+  "manufacturer": "Roco",
+  "articleNumber": "71407",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 421 394-8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 177,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 421 394 der Schweizerischen Bundesbahnen.■ Mit „Zürich–München‟ Werbebeklebung■ Fein detailliertes Modell mit Stromabnehmern für CH und D■ Mit vielen separat angesetzten Steckteilen teilweise in Ätztechnik ausgeführt■ Z21 Führerstand verfügbarZwischen Zürich HB und München Hbf werden ab dem Jahr 2021 täglich sechs Verbindungen mit einer Fahrzeit von 3,5 Stunden  angeboten. Grund für die Beschleunigung ist der Lückenschluss der Elektrifizierung im Teilabschnitt der Deutschen Bahn zwischen Geltendorf und Lindau. Um darauf Aufmerksam zu machen, hat SBB Personenverkehr zwei seiner Re 421-Lokomotiven in ein dunkelblaues Werbekleid gehüllt. Vorzugsweise sind die Lokomotiven zwischen Zürich HB–Lindau und Zürich HB–Singen im Einsatz.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71407-elektrolokomotive-re-421-394-8-sbb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247468.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

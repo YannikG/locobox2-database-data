@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70754",
+  "manufacturer": "Roco",
+  "articleNumber": "70754",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EINSTELLER",
+    "type": "218 054-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive 218 054 der Eisenbahn-Bau- und Betriebsgesellschaft Pressnitztalbahn mbH.■ Mit PluX22-Schnittstelle■ Extra angesetzte Steckteile, teilweise in Ätztechnik ausgeführt■ Beklebung „vermietet an DB AG“ als Decal beiliegend■ Das Spitzenlicht kann mit einem DIP-Schalter ganz oder teilweise abgeschaltet werden■ Modell verfügt über vorbildgerechte niedrige Spurkränze■ Radsätze mit 1,2 mm hohen Spurkränzen als Ersatzteile erhältlich (Art.-Nr. 145433, 145435)■ Z21-Führerstand verfügbarSeit Anfang 2020 verstärkt die 218 054 den Fuhrpark der PRESS. Als 54. Lok erhielt sie auch die entsprechende Betriebsnummer. Sie wurde 1977 als 218 448 an die DB geliefert und stand zuletzt im Einsatz für die DB Regio Niedersachsen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/70754-diesellokomotive-218-054-3-press.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248356.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

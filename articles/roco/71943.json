@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-71943",
+  "manufacturer": "Roco",
+  "articleNumber": "71943",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EINSTELLER",
+    "type": "193 717-6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive 193 717 der Mitsui Rail Capital Europe (MRCE).■ Aufwendig bedrucktes Modell im LWR-Design exklusiv bei ROCO■ Mit langer Regenrinne■ Einsatz im internationalen Güterverkehr■ Im Digitalbetrieb mit schaltbarem Fernlicht und einzeln schaltbarem Spitzen- oder Schlusslicht■ In Kooperation mit Loc & More■ Sound in Kooperation mit LeosoundlabIm November 2019 wurde die Lokomotivwerkstatt „Locomotive Workshop Rotterdam“ (LWR), ein Joint Venture von Siemens Mobility und Mitsui Rail Capital Europe (MRCE), in Rotterdam-Maasvlakte eröffnet. Aus diesem Anlass hat der MRCE Vectron X4 E-717 ein spezielles Design erhalten.Die strategisch günstige Lage des neuen Instandhaltungswerkes am Ende mehrerer europäischer Güterverkehrskorridore ermöglicht es, die notwendigen Service-Aufenthalte der Lokomotiven langfristig zu planen. LWR konzentriert sich vorerst auf die Wartung der Siemens Vectron- und Eurosprinter F4-Lokomotiven. Später werden weitere Typen folgen. Im Servicewerk werden Inspektionen und Wartungsarbeiten durchgeführt, ausserdem ist es möglich Lokomotiven unter allen relevanten in Europa verfügbaren Spannungsversorgungssystemen zu testen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/71943-elektrolokomotive-193-717-6-mrce.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247106.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

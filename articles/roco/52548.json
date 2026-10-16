@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-52548",
+  "manufacturer": "Roco",
+  "articleNumber": "52548",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 144",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 176,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 144 der Deutschen Bundesbahn.■ Passend zu Silberlingen■ Erstmals mit Betriebsnummer für WendezugVon der Elektrolokomotive der Baureihe E 44 wurden von 1932 bis 1954 fast 200 Lokomotiven in Dienst gestellt. Die Leistung der 4-achsigen Drehgestell-Lokomotiven betrug rund 2.200 kW, dabei lag die Höchstgeschwindigkeit bei 90 km/h. Die Loks bewährten sich dabei sowohl vor Personenzügen als auch vor Güterzügen und wurden damit schnell zum „Mädchen für alles“. Einige Lokomotiven wurden mit einer Wendezugsteuerung ausgerüstet und somit im Vorortverkehr in Ballungsräumen eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/52548-elektrolokomotive-br-144-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247398.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

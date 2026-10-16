@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73156",
+  "manufacturer": "Roco",
+  "articleNumber": "73156",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KKSTB/BBÖ",
+    "type": "Rh 85",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "I",
+    "luepMm": 79,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Reihe 85 der kaiserlich-königlichen österreichischen Staatsbahnen.■ Detaillierte Ausführung der Steuerung■ Modell mit vielen separat angesetzten SteckteilenAls die wichtigsten Eisenbahnstrecken im Wesentlichen ausgebaut waren und der Vorteil der erschlossenen Wirtschaftsgebiete sichtbar wurde, zeigte sich ein Zurückbleiben abgelegener Landstriche. Man ging daran diese Gebiete durch den Bau von „Secundärbahnen“ zu erschliessen. Mit dem Bau der einfach gehaltenen Lokalbahnen konnten unzählige Städtchen und Dörfer mit der grossen, weiten Welt verbunden werden.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73156-dampflokomotive-rh-85-kkstb.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248289.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:01Z"
+}

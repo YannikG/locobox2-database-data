@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79226",
+  "manufacturer": "Roco",
+  "articleNumber": "79226",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "Rh 372",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Reihe 372 der CD Cargo.Komplette Neukonstruktion inkl.16-BIT-SOUND für ein perfektes Klangerlebnis.■ Modell in fein detaillierter Ausführung mit vielen separat angesetzten Steckteilen■ Vollständig neu entwickelte Stromabnehmer mit innovativer Befestigung■ Aufwendige Gestaltung des Dachbereichs sowie der Lüfterlamellen mit freiem Durchblick■ Filigrane Ausgestaltung der Drehgestelle sowie der Speichenräder■ Mit beiliegenden Bahnräumern und Luftkesseln in geschlossener Form zur vorbildgetreuen Vitrinendarstellung■ Darstellung der modifizierten LED-Lampen mit vorbildgetreuen kaltweissen LED■ Führerstands- und Bedienpultbeleuchtung sowie Maschinenraumbeleuchtung■ Neu entwickeltes „Dynamic Sound“-Paket für noch besseren Tiefenklang mit zwei LautsprechernFür den durchgehenden elektrischen Betrieb auf der Bahnstrecke Dresden–Prag beschaffte die CSD zusammen mit der Deutschen Reichsbahn (DDR) insgesamt 35 Mehrsystemlokomotiven, die sowohl auf dem 3-kV-Gleichstromnetz der ČSSR als auch auf dem 15-kV-Wechselstromnetz der DDR eingesetzt werden konnten. Nach Erprobung eines Prototyps wurden ab 1991 vierzehn Serienmaschinen in Betrieb genommen und im Lokomotivdepot Děčín stationiert.Mit Gründung der Gütersparte CD Cargo im Jahr 2007, wurden neun Lokomotiven der neuen Gesellschaft zugeteilt. Dank der Tatsache, dass es bis 2016 die einzigen Lokomotiven von ČD Cargo waren, die im deutschen Eisenbahnnetz eingesetzt werden konnten, wurden alle Lokomotiven schrittweise modernisiert und in den neuen Firmenfarben lackiert.Neben dem Haupteinsatzgebiet für den Transport von Zügen am Grenzübergang Děčín/Bad Schandau (und weiter nach Dresden und Leipzig) werden sie gelegentlich im Inlandsverkehr eingesetzt und erreichen auch die Grenzbahnhöfe nach Polen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79226-elektrolokomotive-rh-372-cd-cargo.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248172.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:02Z"
+}

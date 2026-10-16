@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70669",
+  "manufacturer": "Roco",
+  "articleNumber": "70669",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BLS",
+    "type": "Re 465 004-0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "VI",
+    "luepMm": 212,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Re 465 004 der Schweizer Bahngesellschaft BLS.■ Aufwendig bedrucktes Modell im „Kambly“-Design■ Mit extra angesetzten Scheibenwischern■ Feine Darstellung der Frontgriffstangen■ Mit korrektem Lichtwechsel für die Re 465Zum 100-Jahr-Jubiläum des bekannten Schweizer Biscuitherstellers Kambly wurde eine Re 465 der BLS speziell gestaltet. Seither bespannt diese Lok den „Kambly Zug“ zwischen Bern – der Schweizer Hauptstadt, Trubschachen – dem Standort von Kambly und Luzern – dem weltbekannten Tourismusort. Entlang dieser sehenswerten Strecke verbindet der Zug die schönsten Ecken im Herzen der Schweiz.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70669-elektrolokomotive-re-465-004-0-bls.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/248550.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70249",
+  "manufacturer": "Roco",
+  "articleNumber": "70249",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "023 040-9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 245,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 023 040 der Deutschen Bundesbahn.■ Fein detailliertes Modell mit vielen separat angesetzten Teilen■ Metallräder mit filigranen SpeichenDie BR 023 war ein echtes Universalgenie. Sie beförderte Nahverkehrs-, Eil- und Schnellzüge. Gelegentlich konnte man sie gar im Güterzugdienst beobachten. Auch in der Epoche IV war die Bundesbahn-Neubaulokomotive der Baureihe 023 (bis 1968: BR 23) noch aktiv. Am 31.12.1971 waren 76 Maschinen im Unterhaltungsbestand und ausnahmslos in drei Bahnbetriebswerken (Saarbrücken, Kaiserslautern und Crailsheim) stationiert.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70249-dampflokomotive-023-040-9-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245027.jpg"
+  },
+  "updatedAt": "2026-10-16T13:05:00Z"
+}
