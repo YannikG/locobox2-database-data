@@ -8,8 +8,8 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1142 684-8",
-    "number": null,
+    "type": "Rh 1142",
+    "number": "684-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/2/224614.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:02Z"
+  "updatedAt": "2026-10-16T13:15:00Z"
 }

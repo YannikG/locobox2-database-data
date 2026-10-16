@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "Hector Rail",
-    "type": "241 007-2",
-    "number": null,
+    "type": "241",
+    "number": "007-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

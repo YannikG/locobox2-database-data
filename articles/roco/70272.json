@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "SNCB",
-    "type": "26.101",
-    "number": null,
+    "type": "26",
+    "number": "101",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 22332",
-    "number": null,
+    "type": "BB 22000",
+    "number": "22332",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

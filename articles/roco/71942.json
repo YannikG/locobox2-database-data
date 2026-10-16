@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "MRCE",
-    "type": "193 717-6",
-    "number": null,
+    "type": "193",
+    "number": "717-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

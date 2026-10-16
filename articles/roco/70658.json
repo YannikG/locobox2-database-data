@@ -6,10 +6,10 @@
   "releaseDate": "2021",
   "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "NO",
     "operator": "NSB",
-    "type": "EL 18 2247",
-    "number": null,
+    "type": "EL 18",
+    "number": "2247",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247097.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:00Z"
+  "updatedAt": "2026-10-16T13:15:00Z"
 }

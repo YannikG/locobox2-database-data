@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Re 421 394-8",
-    "number": null,
+    "type": "Re 421",
+    "number": "394-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

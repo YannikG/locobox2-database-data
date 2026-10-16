@@ -7,9 +7,9 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "EINSTELLER",
-    "type": "193 717-6",
-    "number": null,
+    "operator": "MRCE",
+    "type": "193",
+    "number": "717-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247121.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:02Z"
+  "updatedAt": "2026-10-16T13:15:50Z"
 }

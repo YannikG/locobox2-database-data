@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "TX-Logistik",
-    "type": "182 572-8",
-    "number": null,
+    "type": "182",
+    "number": "572-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

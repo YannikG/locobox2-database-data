@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB AG",
-    "type": "218 418-2",
-    "number": null,
+    "type": "218",
+    "number": "418-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

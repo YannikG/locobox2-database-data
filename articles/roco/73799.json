@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "SZD",
-    "type": "M62 1579",
-    "number": null,
+    "type": "M62",
+    "number": "1579",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

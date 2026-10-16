@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "193 525-3",
-    "number": null,
+    "type": "193",
+    "number": "525-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

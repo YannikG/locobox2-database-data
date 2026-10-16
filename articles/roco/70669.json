@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "BLS",
-    "type": "Re 465 004-0",
-    "number": null,
+    "type": "Re 465",
+    "number": "004-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

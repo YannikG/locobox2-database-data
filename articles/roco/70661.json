@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "460 068-0",
-    "number": null,
+    "type": "460",
+    "number": "068-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

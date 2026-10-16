@@ -7,7 +7,7 @@
   "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "EINSTELLER",
+    "operator": "boxXpress",
     "type": "BR 193",
     "number": null,
     "livery": null,
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247471.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:01Z"
+  "updatedAt": "2026-10-16T13:15:50Z"
 }

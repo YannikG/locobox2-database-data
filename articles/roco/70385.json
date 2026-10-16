@@ -6,10 +6,10 @@
   "releaseDate": "2021",
   "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "EINSTELLER",
-    "type": "810 054-7",
-    "number": null,
+    "country": "PL",
+    "operator": "SKPL",
+    "type": "810",
+    "number": "054-7",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -20,7 +20,7 @@
   },
   "description": "Dieseltriebwagen 810 054 der SKPL.■ Mit dem Taufnamen „Tomek“■ Separat angesetzte Scheibenwischer■ Mit beiliegenden Steckteilen zur Darstellung der geschlossenen Frontschürze■ Vorbildgerechte Licht- und Soundfunktionen mittels Onboarddecoder schaltbarDie Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL; Vereinigung von Lokalbahnbetrieben) ist Betriebsführerin einiger polnischer Nebenbahnen. Zum Leistungsumfang von SKPL gehören auch Normalspurstrecken von lokaler Bedeutung auf denen ehemalige CD-Triebwagen der Reihe 810 eingesetzt werden.",
   "categories": [
-    "lokomotive",
+    "triebwagen",
     "dieseltriebwagen"
   ],
   "tags": [
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245458.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:00Z"
+  "updatedAt": "2026-10-16T13:15:50Z"
 }

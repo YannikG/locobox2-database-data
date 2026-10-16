@@ -8,8 +8,8 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "01 1518-8",
-    "number": null,
+    "type": "01",
+    "number": "1518-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

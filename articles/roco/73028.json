@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "86 270",
-    "number": null,
+    "type": "86",
+    "number": "270",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

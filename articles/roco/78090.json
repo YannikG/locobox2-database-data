@@ -8,8 +8,8 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Ae 3/6ˡ 10700",
-    "number": null,
+    "type": "Ae 3/6ˡ",
+    "number": "10700",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/247750.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:02Z"
+  "updatedAt": "2026-10-16T13:15:00Z"
 }

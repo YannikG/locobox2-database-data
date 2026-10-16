@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "023 040-9",
-    "number": null,
+    "type": "023",
+    "number": "040-9",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

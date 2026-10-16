@@ -8,8 +8,8 @@
   "model": {
     "country": "DE",
     "operator": "DB AG",
-    "type": "Dieseltriebzug 628 509-1",
-    "number": null,
+    "type": "BR 628",
+    "number": "509-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/237954.jpg"
   },
-  "updatedAt": "2026-10-16T13:05:01Z"
+  "updatedAt": "2026-10-16T13:15:00Z"
 }
