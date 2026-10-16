@@ -257,9 +257,8 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     if m:
         return ("da_n", "Da", m.group(1))
 
-    m = re.fullmatch(r"Rh (\d+)", t)
-    if m:
-        return ("rh_n", "Rh", m.group(1))
+    # Do not split bare «Rh 1116» / «Rh 399»: ÖBB/ČSD «Rh» + Reihe belongs in type together.
+    # Only dotted sub-classes use _rule_rh354_dot_sub (e.g. Rh 354.1 → Rh 354 + 1).
 
     m = re.fullmatch(r"(Re 620) (\d{3}-\d)", t)
     if m:

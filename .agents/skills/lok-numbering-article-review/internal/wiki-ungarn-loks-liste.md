@@ -6,8 +6,8 @@ Vollständige **Baureihen- und Triebfahrzeuglisten** (Dampf, Diesel, Elektro, Tr
 
 | Feld | Erwartung |
 |------|-----------|
-| `country` | **HU** |
-| `operator` | **MÁV** (*Magyar Államvasutak*), Güter **MÁV Cargo**; historische und Museumsbezeichnungen im Text |
+| `country` | **HU** (nie Default-**DE**). Roco-Parser ohne MAV-Map fiel früher auf DE zurück — Artikel mit Operator **MAV** / **MAV-START** und `country` **DE** → auf **HU** korrigieren |
+| `operator` | **MÁV** (*Magyar Államvasutak*, Locobox oft **MAV**), Güter **MÁV Cargo** / **MAV-START**; historische und Museumsbezeichnungen im Text |
 | `electricSystem` | Viel **25 kV 50 Hz AC** (Hauptnetz); ältere / Spezialfälle im Modelltext prüfen |
 | `categories` | Dampf-Anteil historisch gross; moderne Artikel meist Elektro oder Diesel |
 

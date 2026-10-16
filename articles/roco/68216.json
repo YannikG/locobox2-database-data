@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-68216",
+  "manufacturer": "Roco",
+  "articleNumber": "68216",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "017",
+    "livery": "Steppenpferd",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III",
+    "luepMm": 196,
+    "minRadiusMm": 358
+  },
+  "description": "Schlepptenderlokomotive 24 017 „Steppenpferd“ der Deutschen Bundesbahn, Epoche III.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/68216-dampflokomotive-24-017-db.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245415.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

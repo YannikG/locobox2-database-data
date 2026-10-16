@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-73014",
+  "manufacturer": "Roco",
+  "articleNumber": "73014",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 03 (Reko)",
+    "number": "2117-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 651 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 275,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive Baureihe 03 (Reko) der Deutschen Reichsbahn, Epoche IV.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/73014-dampflokomotive-br-03-reko-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244541.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

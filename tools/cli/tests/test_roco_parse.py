@@ -40,6 +40,9 @@ def test_operator_country_no_false_prefix() -> None:
     assert _operator_country("DBAG") == ("DB AG", "DE")
     assert _operator_country("NS") == ("NS", "NL")
     assert _operator_country("DB Cargo") == ("DB", "DE")
+    assert _operator_country("MAV") == ("MAV", "HU")
+    assert _operator_country("MÁV") == ("MAV", "HU")
+    assert _operator_country("MAV-START") == ("MAV-START", "HU")
 
 
 def test_dr_country_by_era() -> None:
@@ -68,6 +71,21 @@ def test_title_longest_prefix() -> None:
     typ2, _, cats2 = _parse_title("Nahverkehrs-Steuerwagen Bnrdzf, DB")
     assert typ2 == "Bnrdzf"
     assert "nahverkehrs-steuerwagen" in cats2
+
+
+def test_title_h0e_hyphen_dampflokomotive() -> None:
+    typ, op, cats = _parse_title("33277 H0e-Dampflokomotive 399.02, ÖBB")
+    assert typ == "399.02"
+    assert op == "ÖBB"
+    assert "dampflokomotive" in cats
+
+
+def test_title_dieseltriebwagen_strips_beiwagen() -> None:
+    typ, _, cats = _parse_title(
+        "70372 Dieseltriebwagen Rh M 152.0 mit Beiwagen, CSD"
+    )
+    assert typ == "Rh M 152.0"
+    assert "dieseltriebwagen" in cats
 
 
 def test_parse_roco_pdp_fixture_schema_valid() -> None:

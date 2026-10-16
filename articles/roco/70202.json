@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70202",
+  "manufacturer": "Roco",
+  "articleNumber": "70202",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 02",
+    "number": "0201-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "IV",
+    "luepMm": 289,
+    "minRadiusMm": 358
+  },
+  "description": "Dampflokomotive 02 0201 der Deutschen Reichsbahn. Erstmals als Epoche-IV-Ausführung im Zustand der 1980er Jahre.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/dampflokomotiven/70202-dampflokomotive-02-0201-0-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245026.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}

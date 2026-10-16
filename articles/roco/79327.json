@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-79327",
+  "manufacturer": "Roco",
+  "articleNumber": "79327",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 112.1",
+    "number": "154-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "V-VI",
+    "luepMm": 192,
+    "minRadiusMm": 358
+  },
+  "description": "Elektrolokomotive Baureihe 112.1 der Deutschen Bahn AG, Epoche V-VI.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/79327-elektrolokomotive-br-1121-db-ag.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/3/230229.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

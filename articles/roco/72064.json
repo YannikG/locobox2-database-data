@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-72064",
+  "manufacturer": "Roco",
+  "articleNumber": "72064",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Mat '24",
+    "number": null,
+    "livery": "Blokkendoos",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge nach NEM 652 mit Steckvorrichtung",
+    "era": "II",
+    "luepMm": 912,
+    "minRadiusMm": 358
+  },
+  "description": "4-teiliger Elektrotriebzug Mat '24 («Blokkendoos») der Niederländischen Staatsbahnen, Epoche II.",
+  "categories": [
+    "triebzug"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/72064-elektrotriebzug-blokkendoos-ns.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245353.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:28Z"
+}

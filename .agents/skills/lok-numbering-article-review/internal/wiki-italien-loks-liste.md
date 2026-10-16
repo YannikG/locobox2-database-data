@@ -21,12 +21,16 @@ Gesamtübersicht **italienische Lokomotiven und Triebwagen** (Gliederung nach Ge
 
 - **Elektro-Loks:** Reihen **E.4xx**-Schema (historisch), **E.6xx**-Umfeld, modern **E.4xx** TRAXX/Vectron-Derivate je nach Epoche.
 - **Diesel:** **D.4xx**, Rangier **D.2xx**-Umfeld (stark vereinfacht; immer Text prüfen).
+- **Dampf (Gruppo):** klassisches FS-Schema **`NNN.mmm`** (Punkt), z. B. **Gruppo 736** = ex-USATC S160, Nummern **736.001–736.243** ([en: FS Class 736](https://en.wikipedia.org/wiki/FS_Class_736), [it: Locomotiva FS 736](https://it.wikipedia.org/wiki/Locomotiva_FS_736)). Shop-Texte schreiben denselben Wert oft mit **Komma** («**736,210**» = **736.210**).
 - **Triebzüge:** **Vivalto**, **Minuetto**, **Swing**, **Coradia**-Familien; **Italo** als eigenes Marken-Design (nicht FS).
 - **Schmalspur:** Eigene Baureihenlogik (Rittner Bahn, Vesuv, …) → `scale` / Text «950 mm» etc. prüfen.
 
 ## Split `type` / `number`
 
 - Italienische Beschriftung oft «**E 464 321**» oder «**E464 321**»; einheitlich **BR in `type`**, Rest in `number`, wenn der Import nicht schon getrennt liefert.
+- **Klassische FS-Punktnotation Elektro `E.xxx.yyy`:** Shop oft ohne Punkte («**E646043**» = **E.646.043**). Split: `type` **`E.xxx`**, `number` **`yyy`** (dreistellig, führende Nullen behalten), z. B. **E.646** / **043**. Wikipedia: [FS E.646](https://de.wikipedia.org/wiki/FS_E.646) Nummern **E.646.001–235**. Analog mit Leerzeichen/Prüfziffer: «**E.483 320-4**» → **E.483** / **320-4**.
+- **Gruppenserie + abweichende Inventarnummer** (z. B. «D.225.6011» zur Gruppe **D.225.6000**): `type` = Gruppe, `number` = volle Inventar-Ziffern (**6011**).
+- **Dampf Gruppo `NNN.mmm` / Shop `NNN,mmm`:** `type` = **`Gruppo NNN`** (oder nur **`NNN`**, wenn schon so importiert), `number` = **`mmm`** ohne führende Nullen-Pflicht, aber dreistellig wie im Vorbild (**210**, nicht `736.210` nochmals in `number`). Komma im Shop **nicht** als Tausendertrenner lesen.
 - **Italo / Zugname:** Zug-/Marketingname → `livery` oder Fliesstext, nicht in `number` erzwingen.
 
 ## Grenzfälle
@@ -41,5 +45,7 @@ Gesamtübersicht **italienische Lokomotiven und Triebwagen** (Gliederung nach Ge
 ## Provenienz
 
 **Primär:** Struktur und Baureihen aus der deutschsprachigen Wikipedia «Liste der italienischen Lokomotiven und Triebwagen»: https://de.wikipedia.org/wiki/Liste_der_italienischen_Lokomotiven_und_Triebwagen
+
+**Gruppo 736 (Dampf, USATC S160):** https://en.wikipedia.org/wiki/FS_Class_736 · https://it.wikipedia.org/wiki/Locomotiva_FS_736 (Nummern **736.001–736.243**; Shop-Komma «736,210» = Punktnotation).
 
 Inhalt dieser Datei **komprimiert offline** nach obiger Gliederung (Gesellschaften, Antrieb).

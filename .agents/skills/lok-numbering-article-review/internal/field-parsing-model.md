@@ -25,6 +25,9 @@ Langer `model.type`, **`model.number`: `null`**, **ohne** splittbare UIC/EVN in 
 | `Rbe 4/4` + Set-Hinweis («2er Set», «+ Bt Steuerwagen») | `type` `Rbe 4/4`, Livery kurz Set-Bezeichnung | EVN in URL erwartet aber fehlend |
 | `BR 193` / Vectron ohne Ziffernblock im Shop-Titel | `type` `BR 193`, `number` null | UIC im Fliesstext vorhanden, aber nicht gesplittet |
 | `GTW 2/6` + `"Stadler"` + EVU/Lack (THURBO, HLB, …) | `type` `GTW 2/6`, Livery = Lack/EVU-Name | Livery fälschlich «Stadler» (Hersteller) |
+| ČSD **M 152.0 mit Beiwagen Blm** (Roco-Set) | Motorwagen: `type` `Rh M 152.0`, `number` = vierstellige M-Laufnummer (**0001–0678**); Beiwagen **eigene** Datei `{sku}-blm`: `type` `Blm`, `number` = Inventar **000–909** (Serie Blm 24-29), `setNumber` = Set-SKU, Kategorie `wagen` | Beiwagen nur im Motorwagen-`type`; Verwechslung mit EDV **810**/**010**, Umbau **809/811–814**, oder Einzel-Beiwagen-SKU ohne Set |
+
+Details, Nummernpläne, Gattungsfolge Blm→Baafx→010/011: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md) → Abschnitt «ČSD M 152.0 (810) und Beiwagen Blm (010)».
 
 ## PIKO Variantengruppen (Schwester-Review)
 
@@ -52,6 +55,9 @@ Referenz Shop-Titel: [wiki-piko-shop-parsing.md](wiki-piko-shop-parsing.md). Pri
 | `NNN nnn-n` oder `NNN nnn-n` mit Leerzeichen | DB-ähnlich: Baureihe, Ordnungsnummer, Prüfziffer | `type` = Baureihe (z. B. `103`), `number` = `245-3` oder komplett `103 245-3` in `type`, `number` null je nach Projekt-Konvention |
 | `NN NNNN` (zwei Ziffern, Leerzeichen, **genau** vier Ziffern; oft Dampf-Titel ohne Prüfziffer) | z. B. `38 3713`, `50 1751` | `type` = `38`, `number` = `3713` (Slug `38-3713` in der URL bestätigt); **Auto-Fix** nur wenn Allowlist in `SKILL.md` erfüllt |
 | `NN.mm` oder `NNN.mmm` (Punkt) | Österreich, Schweiz, frühe Bezeichnungen: **Reihe / Unternummer** (oft ohne führende Null bei zweiter Gruppe) | `type` = Reihe (`77`), `number` = `14` oder `014`; Punktnotation in `type` nur behalten, wenn eure Datenbank das so indexiert |
+| `NNN,mmm` (Komma, FS-Shop) | Italienische **Gruppo**-Dampfanschrift; Komma = Punktnotation **`NNN.mmm`** (nicht Tausender) | `type` = `Gruppo NNN`, `number` = `mmm` (z. B. Shop «736,210» → `Gruppo 736` / `210`); Details: [wiki-italien-loks-liste.md](wiki-italien-loks-liste.md) |
+| `T478nxxx` / `T 478.nxxx` (ČSD, oft ohne Punkte) | Kryšpín-Diesel **T 478.1/.2/.3**; Shop klebt Buchstaben und Ziffern | `type` = `Rh T 478.n`, `number` = **vierstelliger** Block (`2059`, `3098`); Details: [wiki-tschechien-lokklassen-liste.md](wiki-tschechien-lokklassen-liste.md) → «T 478.1 / T 478.2 / T 478.3» |
+| `Exxxyyy` / `E.xxx.yyy` (FS-Shop ohne Punkte) | Klassische FS-Elektroanschrift; «**E646043**» = **E.646.043** | `type` = `E.xxx`, `number` = `yyy` (z. B. `E.646` / `043`); Details: [wiki-italien-loks-liste.md](wiki-italien-loks-liste.md) |
 | `Re 460 003-7` (Buchstaben + Ziffern + Strich) | CH-Kurzform | `type` oft Präfix + Baureihe (`Re 460`), `number` = `003-7`; Varianten möglich |
 | `193 452-0 „Schweizpiercer“` (oder Deutschlandpiercer, ähnliche Shop-/Marketingnamen im Import) | Baureihe + EVN-Teil + **Folien-/Marketingname** | `type` `193`, `number` `452-0`, **`livery`** z. B. `Schweizpiercer` (nicht nur generisch `SBB`, wenn der Name die Lackvariante beschreibt) |
 | `370 094-2 „Adriatic Express“` | Baureihe + Nummer + **Zug-/Produktname** | `type` `370`, `number` `094-2`, **`livery`** z. B. `Adriatic Express` |

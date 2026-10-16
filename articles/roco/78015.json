@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-78015",
+  "manufacturer": "Roco",
+  "articleNumber": "78015",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 200/300",
+    "number": "288",
+    "livery": "Sik",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "III-IV",
+    "luepMm": 83,
+    "minRadiusMm": 358
+  },
+  "description": "Diesellokomotive Serie 200/300 „Sik“ der Niederländischen Staatsbahnen in grüner Farbgebung, Epoche III-IV.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/78015-diesellokomotive-serie-200300-ns.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/244409.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:12Z"
+}

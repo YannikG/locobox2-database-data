@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-70372",
+  "manufacturer": "Roco",
+  "articleNumber": "70372",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "Rh M 152.0",
+    "number": "0047",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX16",
+    "era": "IV",
+    "luepMm": 322,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen Rh M 152.0 0047 der Tschechoslowakischen Staatsbahnen in Ursprungsausführung (Set mit Beiwagen Blm), Epoche IV.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/triebzuge/70372-dieseltriebwagen-rh-m-1520-mit-beiwagen-csd.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/245104.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:28Z",
+  "setNumber": "70372"
+}

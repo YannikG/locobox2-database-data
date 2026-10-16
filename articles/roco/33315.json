@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "roco-33315",
+  "manufacturer": "Roco",
+  "articleNumber": "33315",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "V 60 K",
+    "number": "4801",
+    "livery": null,
+    "scale": "H0e",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Elektrische Schnittstelle für Triebfahrzeuge PluX22",
+    "era": "III-IV",
+    "minRadiusMm": 200
+  },
+  "description": "Diesellokomotive V 60 K 4801 der Deutschen Reichsbahn, Epoche III-IV.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "roco-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/33315-diesellokomotive-v-60-k-dr.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/4/246014.jpg"
+  },
+  "updatedAt": "2026-10-11T12:15:11Z"
+}
