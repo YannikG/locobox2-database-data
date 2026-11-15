@@ -9,10 +9,14 @@ class Manufacturer(str, Enum):
     ROCO = "roco"
     TRIX = "trix"
     REE = "ree"
+    LSMODELS = "lsmodels"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
         key = raw.strip().lower()
+        compact = key.replace(" ", "").replace(".", "").replace("-", "")
+        if compact in {"lsmodels", "lsmodel"}:
+            key = "lsmodels"
         try:
             return cls(key)
         except ValueError as exc:
@@ -26,6 +30,7 @@ class Manufacturer(str, Enum):
             Manufacturer.ROCO: "Roco",
             Manufacturer.TRIX: "Trix",
             Manufacturer.REE: "REE",
+            Manufacturer.LSMODELS: "LS Models",
         }[self]
 
     @property
