@@ -71,6 +71,7 @@ class MaerklinShopSite:
 
 
 def shop_site_for(source: str) -> ShopSite:
+    from locobox_cli.adapters.sources.maerklin.shop_site import MaerklinProductDbSite
     from locobox_cli.adapters.sources.ree.shop_site import ReeShopSite
     from locobox_cli.adapters.sources.trix.shop_site import TrixProductDbSite
 
@@ -83,6 +84,8 @@ def shop_site_for(source: str) -> ShopSite:
         return TrixProductDbSite()
     if key == "ree":
         return ReeShopSite()
-    if key in {"maerklin", "marklin", "lgb"}:
-        return MaerklinShopSite(slug=key.replace("marklin", "maerklin"))
+    if key in {"maerklin", "marklin"}:
+        return MaerklinProductDbSite()
+    if key == "lgb":
+        return MaerklinShopSite(slug="lgb")
     raise ValueError(f"unknown shop source: {source!r}")

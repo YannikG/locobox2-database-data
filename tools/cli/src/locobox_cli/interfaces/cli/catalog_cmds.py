@@ -17,6 +17,10 @@ from locobox_cli.adapters.sources.roco.catalog import (
     extract_roco_catalog_rows,
     rows_to_queue as roco_rows_to_queue,
 )
+from locobox_cli.adapters.sources.maerklin.catalog import (
+    extract_maerklin_catalog_rows,
+    rows_to_queue as maerklin_rows_to_queue,
+)
 from locobox_cli.adapters.sources.ree.catalog import (
     extract_ree_catalog_rows,
     rows_to_queue as ree_rows_to_queue,
@@ -52,11 +56,11 @@ def extract_cmd(
     locomotives_only: bool = typer.Option(
         True,
         "--locomotives-only/--all-rolling-stock",
-        help="Roco/Trix/REE: keep only locomotives/motorized (default). Ignored for PIKO.",
+        help="Roco/Trix/REE/Märklin: keep only locomotives/motorized (default). Ignored for PIKO.",
     ),
     repo_root: Optional[Path] = typer.Option(None, "--repo-root"),
 ) -> None:
-    """Extract article candidates from catalog text (PIKO, Roco, Trix or REE)."""
+    """Extract article candidates from catalog text (PIKO, Roco, Trix, REE or Märklin)."""
     mfr = Manufacturer.parse(source)
     text = text_file.read_text(encoding="utf-8", errors="replace")
     if mfr == Manufacturer.PIKO:
@@ -71,6 +75,9 @@ def extract_cmd(
     elif mfr == Manufacturer.REE:
         rows = extract_ree_catalog_rows(text, locomotives_only=locomotives_only)
         queue = ree_rows_to_queue(rows, min_price_eur=min_price_eur)
+    elif mfr == Manufacturer.MAERKLIN:
+        rows = extract_maerklin_catalog_rows(text, locomotives_only=locomotives_only)
+        queue = maerklin_rows_to_queue(rows, min_price_eur=min_price_eur)
     else:
         raise typer.BadParameter(f"unsupported --source {source!r}")
     rendered = render_queue_text(queue, numbers_only=False)

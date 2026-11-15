@@ -9,10 +9,11 @@ class Manufacturer(str, Enum):
     ROCO = "roco"
     TRIX = "trix"
     REE = "ree"
+    MAERKLIN = "maerklin"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
-        key = raw.strip().lower()
+        key = raw.strip().lower().replace("marklin", "maerklin")
         try:
             return cls(key)
         except ValueError as exc:
@@ -26,6 +27,7 @@ class Manufacturer(str, Enum):
             Manufacturer.ROCO: "Roco",
             Manufacturer.TRIX: "Trix",
             Manufacturer.REE: "REE",
+            Manufacturer.MAERKLIN: "Maerklin",
         }[self]
 
     @property
