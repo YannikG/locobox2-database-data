@@ -3,5 +3,9 @@
   "name": "REE Neuheiten 2026",
   "slug": "ree-neuheiten-2026",
   "description": "REE Modèles H0/HOm Neuheiten aus dem Katalog 2026 (Motorfahrzeuge).",
-  "manufacturerSlug": "ree"
+  "kind": "neuheiten",
+  "manufacturerSlug": "ree",
+  "year": 2026,
+  "order": 1,
+  "source": "https://www.ree-modeles.com/CATALOGUE-2026-HO.pdf"
 }

@@ -83,9 +83,9 @@ def _scale_from_props(props: dict[str, list[str]], title: str) -> str:
     vals = props.get("Échelle") or props.get("Echelle") or []
     blob = " ".join(vals) + " " + title
     if re.search(r"\bHOm\b", blob, re.I):
-        return "HOm"
+        return "H0m"
     if re.search(r"\bHOe\b", blob, re.I):
-        return "HOe"
+        return "H0e"
     if re.search(r"\bN\b", blob):
         return "N"
     if re.search(r"\bHO\b|\bH0\b", blob, re.I):
@@ -122,14 +122,74 @@ def _operator_country(props: dict[str, list[str]]) -> tuple[str, str]:
     return raw, "FR"
 
 
-def _type_from_title(title: str, article: str) -> str:
+def _categories_from_url(url: str, title: str, article: str) -> list[str]:
+    u = (url or "").lower()
+    blob = f"{u} {title} {article}".lower()
+    if "/autorails/" in u or re.search(r"\brgp\b|autorail|triebwagen", blob):
+        if re.search(r"électrique|electrique|tgv|electro", blob):
+            return ["triebwagen", "elektrotriebwagen"]
+        return ["triebwagen", "dieseltriebwagen"]
+    if "/machines/" in u and re.search(r"\btgv\b", blob):
+        return ["triebzug", "elektrotriebwagen"]
+    if "locomotives-electriques" in u or re.search(r"\bbb\s*\d|électrique|electrique", blob):
+        return ["lokomotive", "elektrolokomotive"]
+    if "locomotives-diesel" in u or re.search(r"diesel", blob):
+        return ["lokomotive", "diesellokomotive"]
+    if "locomotive-vapeur" in u or "vapeur" in u or re.search(r"vapeur|dampf", blob):
+        return ["lokomotive", "dampflokomotive"]
+    if article.upper().startswith("TGV") or re.search(r"\btgv\b", blob):
+        return ["triebzug", "elektrotriebwagen"]
+    if article.upper().startswith("VM"):
+        return ["triebwagen", "dieseltriebwagen"]
+    return ["lokomotive"]
+
+
+def _type_and_number_from_title(title: str, article: str) -> tuple[str, Optional[str], Optional[str]]:
+    """Return (type, number, livery) with shop noise stripped."""
     t = swiss_ss(_plain(title))
     t = re.sub(r"^\[HO[em]?\]\s*:\s*", "", t, flags=re.I)
     compact = ArticleNumber.parse(article).compact()
     t = re.sub(rf"\s*[-–—]\s*{re.escape(compact)}\s*$", "", t, flags=re.I)
     t = re.sub(rf"\s*[-–—]\s*{re.escape(article)}\s*$", "", t, flags=re.I)
-    t = re.sub(r"\s+", " ", t).strip(" -–—")
-    return t or "Unbekannt"
+    t = re.sub(
+        r"\s*[-–—,]\s*(?:DIGITAL\s+SOUND|DCC\s+SOUND|AC\s+SOUND|ANALOGIQUE|ANALOG)\s*$",
+        "",
+        t,
+        flags=re.I,
+    )
+    t = re.sub(r"\s*,?\s*Ep\.?\s*[IVX]+(?:\s*[-/]\s*[IVX]+)?\s*$", "", t, flags=re.I)
+    t = re.sub(r"\s+", " ", t).strip(" -–—,")
+
+    number: Optional[str] = None
+    livery: Optional[str] = None
+    # BB 9317 … or X 2771
+    m_num = re.search(r"\b((?:BB|CC|X)\s*\d{3,5}[A-Z]?)\b", t, re.I)
+    if m_num:
+        number = re.sub(r"\s+", " ", m_num.group(1).upper().replace("  ", " "))
+        number = number.replace("BB ", "BB ").replace("CC ", "CC ")
+    # Quoted marketing / train name
+    m_liv = re.search(r"[“\"«]([^”\"»]+)[”\"»]", t)
+    if m_liv:
+        livery = swiss_ss(m_liv.group(1).strip())
+    # Prefer short class token for type when BB/CC present
+    m_type = re.search(r"\b(BB|CC)\s*(\d{2,5})\b", t, re.I)
+    if m_type:
+        prefix = m_type.group(1).upper()
+        series = m_type.group(2)
+        if prefix == "BB" and series.startswith("93") and len(series) == 4:
+            typ = "BB 9300"
+        elif prefix == "BB" and series.startswith("251"):
+            typ = "BB 25100"
+        elif prefix == "BB" and series.startswith("252"):
+            typ = "BB 25200"
+        else:
+            typ = f"{prefix} {series}"
+        return typ, number, livery
+    if re.search(r"\brgp\s*1\b", t, re.I):
+        return "RGP 1", number, livery
+    if re.search(r"\btgv\b", t, re.I):
+        return "TGV PSE", number, livery
+    return (t or "Unbekannt"), number, livery
 
 
 def _price_from_product(product: dict[str, Any]) -> Optional[float]:
@@ -174,6 +234,9 @@ def parse_ree_pdp(
     if isinstance(img, dict):
         img = img.get("url")
     price = _price_from_product(product)
+    # Drop obviously broken HT/placeholder prices (full sound locos are >> 50 EUR).
+    if price is not None and price < 50:
+        price = None
 
     tags: list[str] = []
     if campaign_tag and campaign_tag.strip():
@@ -192,6 +255,8 @@ def parse_ree_pdp(
         source["imageUrl"] = str(img)
 
     uvp = {"amount": price, "currency": "EUR"} if price is not None else None
+    model_type, model_number, model_livery = _type_and_number_from_title(title, wanted.value)
+    categories = _categories_from_url(canonical_url, title, wanted.value)
 
     return {
         "schemaVersion": "1.0.0",
@@ -203,15 +268,15 @@ def parse_ree_pdp(
         "model": {
             "country": country,
             "operator": operator,
-            "type": _type_from_title(title, wanted.value),
-            "number": None,
-            "livery": None,
+            "type": model_type,
+            "number": model_number,
+            "livery": model_livery,
             "scale": _scale_from_props(props, title),
             "electricSystem": _electric_from_props(props, title),
             "era": _era_from_props(props),
         },
         "description": swiss_ss(_plain(title)) if title else "Unbekannt",
-        "categories": [],
+        "categories": categories,
         "tags": tags,
         "source": source,
         "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

@@ -50,7 +50,9 @@ def test_parse_ree_pdp_sample() -> None:
     assert art["model"]["operator"] == "SNCF"
     assert art["model"]["country"] == "FR"
     assert art["model"]["electricSystem"] == "DC-Digital"
-    assert "BB 9317" in art["model"]["type"]
+    assert art["model"]["type"] == "BB 9300"
+    assert art["model"]["number"] == "BB 9317"
+    assert art["categories"] == ["lokomotive", "elektrolokomotive"]
     assert art["source"]["imageUrl"].startswith("https://www.ree-store.com/")
     assert "ree-neuheiten-2026" in art["tags"]
     ValidateArticle.from_contracts(REPO).assert_valid(art)
