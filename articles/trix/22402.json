@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22402",
+  "manufacturer": "Trix",
+  "articleNumber": "22402",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 299.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Netz",
+    "type": "BR 233",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 233 \"Tiger\" der DB Netz Instandhaltung, Bahnbau Gruppe. Aktueller Betriebszustand.\n\nModell: Lokomotive in Metallausführung, mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Nachempfundener Abgasausstoss in 3 Stufen: minimal - Fahrbetrieb - maximal (automatisch gesteuert durch den Decoder). Dies wird mit dem versteckt verbauten Piezo-Vernebler realisiert (Betrieb mit destilliertem Wasser). 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22402",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/9a/ba9a6124ccaa100717c9ee44f5aa097e1547535606.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

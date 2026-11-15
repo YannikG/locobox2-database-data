@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22686",
+  "manufacturer": "Trix",
+  "articleNumber": "22686",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120.1",
+    "number": "140-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.1 der Deutschen Bahn AG (DB AG). Serienausführung. Betriebsnummer 120 140-9. Betriebszustand um 1995.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Führerstandsbeleuchtung separat digital schaltbar. Führerstände mit Inneneinrichtung. Kurzkupplungen in Normaufnahme mit Kulissenführung. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22686",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/c8/85c81c844b87da095841b545f41067f11450030203.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

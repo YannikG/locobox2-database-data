@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22610",
+  "manufacturer": "Trix",
+  "articleNumber": "22610",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 199.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "GTS Rail",
+    "type": "BR E 483",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe E 483 der GTS Rail, Italien. Betriebszustand um 2011.\n\nModell: Mit Digital-Decoder mfx und DCC, sowie umfangreichen Geräuschfunktionen. Spezialmotor zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22610",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/9e/e49eba3c4c581cda9c6f4961d4e832151477500059.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

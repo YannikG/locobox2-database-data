@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22688",
+  "manufacturer": "Trix",
+  "articleNumber": "22688",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 229.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.1 der Deutschen Bahn AG (DB AG). Serienausführung.\n\nHinweis: Shop-PDP nicht mehr verfügbar; Felder aus Neuheiten-Katalog 2016.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22688",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

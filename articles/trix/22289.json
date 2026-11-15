@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22289",
+  "manufacturer": "Trix",
+  "articleNumber": "22289",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 289.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 380",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "Vorbild: Elektrolokomotive BR 380 (Škoda Typ 109 E) der Tschechischen Staatsbahn (ČD). Mit Werbeaufschrift.\n\nHinweis: Shop-PDP nicht mehr verfügbar; Felder aus Neuheiten-Katalog 2019.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22289",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

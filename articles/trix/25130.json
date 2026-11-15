@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25130",
+  "manufacturer": "Trix",
+  "articleNumber": "25130",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 219.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 130 TB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Serie 130 TB der Société nationale des chemins de fer français (SNCF), ex Baureihe 74. Betriebszustand 1948.\n\nModell: Mit mfx-Digital-Decoder und Spezialmotor mit Schwungmasse. 3 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25130",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/52/b25228702c1cad95255793270d96e3c11584369041.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

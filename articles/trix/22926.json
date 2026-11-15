@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22926",
+  "manufacturer": "Trix",
+  "articleNumber": "22926",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 499.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "C 5/6",
+    "number": "2976",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 223.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Serie C 5/6 \"Elefant\" der Schweizerischen Bundesbahnen (SBB), mit 3-achsigem Schlepptender und Umbau auf Öl-Hauptfeuerung. Lok-Betriebsnummer 2976. Betriebszustand der 1950er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok und 2 Lichter am Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. An der Vorderseite der Lok und am Tender Kurzkupplung mit NEM-Schacht, am Tender kinematikgeführt. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22926",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/d8/f5d864aba3608b6ac5a4b47985eca6c91516110728.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

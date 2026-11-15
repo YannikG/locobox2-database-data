@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22454",
+  "manufacturer": "Trix",
+  "articleNumber": "22454",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 380",
+    "number": "004-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 207.0
+  },
+  "description": "Vorbild: Elektrolokomotive BR 380 (Škoda Typ 109 E) der Tschechischen Staatsbahn (ČD). Betriebsnummer 380 004-2 in Sonderfarbgebung zum 100. Jahrestag der Tschechoslowakischen Staatsgründung. Betriebszustand 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). 2 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 20,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22454",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/30/da30feb33585a9224eaa39d63082ca871575183616.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

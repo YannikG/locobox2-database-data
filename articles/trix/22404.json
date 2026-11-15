@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22404",
+  "manufacturer": "Trix",
+  "articleNumber": "22404",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 340.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR V 140",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Diesel-hydraulische Lokomotive Baureihe V 140 001, blaue Grundfarbgebung. Ausführung in der Museumsversion des Deutschen Museums München, als Leihgabe untergebracht im Ringlokschuppen der Lokwelt Freilassing. Beschriftet als V 140 001 der ehemaligen Deutschen Reichsbahn (DR), Epoche II/VI.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 3 Achsen über Kuppelstangen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Lichtfunktion. Führerstandsbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22404",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9e/eb/9eebeadc8661dfdb5ecda739bd4f0aaf1541778628.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

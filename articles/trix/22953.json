@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22953",
+  "manufacturer": "Trix",
+  "articleNumber": "22953",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 459.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Ce 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen (SBB). Bauart aus der ersten Bauserie. Dunkelbraune Grundfarbgebung, mit Stangenpuffer, stirnseitigen Übergangsblechen, kleinen Rangierertreppen und Handstangen, mit Besandungsanlage, ohne Falschfahrsignal und ohne Indusi-Magnet. Betriebszustand um 1930.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jedem Treibgestell. Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Mit Besandungsanlage zwischen den Treibradgruppen. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22953",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/78/dd78ae81467a3779197834500a88edea1434534697.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

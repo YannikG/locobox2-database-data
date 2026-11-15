@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22165",
+  "manufacturer": "Trix",
+  "articleNumber": "22165",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 199.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BR 186",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe TRAXX 2 E 186 der Firma Akiem S.A.S., Clichy, vermietet an die Französischen Staatsbahnen (SNCF), zugeteilt dem Bereich Güterverkehr (FRET). Zweisystem-Lokomotive mit 4 Pantographen. Betriebszustand um 2010.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LEDs). 4 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22165",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/36/16/3616918a6af14c4eafae9146be03d8e71450030202.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22919",
+  "manufacturer": "Trix",
+  "articleNumber": "22919",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR E 19.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 19.1 in purpurroter Grundfarbgebung. Ausführung in der Museumsversion des DB Museums Nürnberg. Beschriftet als E 19 12 der ehemaligen Deutschen Reichsbahn (DR), Epoche II. Betriebszustand II/VI.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Einzelheiten. Vorbildgerechte Scheren-Stromabnehmer. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Puffer aus Metall, separat eingesetzt, in gewölbter und flacher Ausführung. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22919",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ab/c2/abc2541e2f3ffcd55e50af967f24eb791521702023.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

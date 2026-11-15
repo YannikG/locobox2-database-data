@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22933",
+  "manufacturer": "Trix",
+  "articleNumber": "22933",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 399.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103.1",
+    "number": "167-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Ausführung mit „kurzem“ Führerstand, Scherenstromabnehmern, Frontschürze und Pufferverkleidung. Farbgebung in purpurrot/beige. Betriebsnummer 103 167-3. Beheimatet im Bahnbetriebswerk München Hbf. Betriebszustand ab Ende August 1971 bis Mai 1974.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 5-poliger Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Scherenstromabnehmer digital schaltbar. Angesetzte Scheibenwischer. Angesetzte Griffstangen und Dachleitungen aus Metall. Geschlossene Schürze, Bremsleitungen, Steckdosen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22933",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e0/91/e09105047a34341bdba51a309959b89c1543734011.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

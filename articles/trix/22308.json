@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22308",
+  "manufacturer": "Trix",
+  "articleNumber": "22308",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 259.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 323",
+    "number": "781-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 323 (Köf II) der Deutschen Bundesbahn (DB). In rotbrauner Farbgebung und mit geschlossenem Führerhaus. Betriebsnummer 323 781-5. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 1 und 2 jeweils separat digital schaltbar. Wenn Rangiergang aktiviert oder Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Separat angesetzte Metallgriffstangen. Länge über Puffer ca. 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22308",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/40/a7/40a772e36902d2d3008a4c212b8a8e1b1541778313.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

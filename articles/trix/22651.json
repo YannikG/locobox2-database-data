@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22651",
+  "manufacturer": "Trix",
+  "articleNumber": "22651",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 239.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 147.5",
+    "number": "557-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 147. 5 der Deutsche Bahn AG (DB AG) für den Fernverkehr. Mehrsystemlokomotive ohne Flex-Panel, gebaut von Bombardier als Serienlokomotive aus der aktuellen TRAXX-Generation P160 AC3. Lichtgraue Fernverkehrs-Farbgebung mit verkehrsrotem Zierstreifen, im aktuellen IC-Design. Betriebsnummer 147 557-3. Betriebszustand Juli 2018.\n\nModell: Elektrolokomotive in Metallausführung, mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). 4 mechanisch funktionsfähige Dachstromabnehmer. Vorbildgerechte Nachbildung der Seitenflächen. Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22651",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/dc/7bdccc18312d3742883cc483d303f2861571464828.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

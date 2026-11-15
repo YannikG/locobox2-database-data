@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Sommerneuheiten 2022",
+  "slug": "trix-sommerneuheiten-2022",
+  "description": "Artikel aus dem Trix H0 Sommerneuheiten-Prospekt 2022.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2022,
+  "order": 2,
+  "source": "https://www.trix.de/de/produkte/produkt-informationen/kataloge/neuheiten"
+}

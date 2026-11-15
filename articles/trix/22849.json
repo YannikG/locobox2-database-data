@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22849",
+  "manufacturer": "Trix",
+  "articleNumber": "22849",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 420",
+    "number": "202-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 4/4 II als Re 420 der Schweizerischen Bundesbahnen (SBB). Umbauversion als Teil des Modernisierungsprojektes LION für den Züricher S-Bahn-Verkehr. Feuerrote Grundfarbgebung. Lok-Betriebsnummer 420 202-4. Aktueller Betriebszustand um 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes als rotes Nothalt-Signal. Fernscheinwerfer, Führerstandbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Kupplungen gegen beiliegende Frontschürzen austauschbar. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22849",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/02/7e/027e47f252614a88b4b62f1a24864fd51577343632.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

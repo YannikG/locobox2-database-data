@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22432",
+  "manufacturer": "Trix",
+  "articleNumber": "22432",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 429.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 320",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 264.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe V 320 der Deutschen Bundesbahn (DB), zum Einsatz im hochwertigen Personenverkehr auf der Allgäubahn. Beheimatet im Bw Kempten. Ursprungsausführung in purpurroter Grundfarbgebung. Lok-Betriebsnummer V 320 001. Betriebszustand um 1965.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. 2 Lautsprecher für eine optimale Loksound-Wiedergabe. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandbeleuchtung und Maschinenraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). 4 bewegliche Lüfterräder mit je einem Motor angetrieben und paarweise separat digital schaltbar. Unterschiedliche Geschwindigkeiten der Lüfterräder möglich. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Ansteckbare Hauptluftleitungen, Heizleitungen und Kupplungsschläuche liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22432",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/8b/8c8b6613b6d4a17833a3e64ddf476bc51571464826.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

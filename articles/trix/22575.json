@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22575",
+  "manufacturer": "Trix",
+  "articleNumber": "22575",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 18",
+    "number": "1804",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 253.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie 18 der Belgischen Staatsbahnen (SNCB/NMBS). Viersystem-Lokomotive für ganz Frankreich, Benelux und Deutschland. Betriebszustand um 1980. Betriebsnummer 1804.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen. Beleuchtung mit warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Eingesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Länge über Puffer 25,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22575",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3b/b1/3bb153ef08e2687fb9620789b038352a1523685639.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

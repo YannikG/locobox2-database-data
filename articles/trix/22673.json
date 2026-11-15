@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22673",
+  "manufacturer": "Trix",
+  "articleNumber": "22673",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 299.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 1600",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 1600 der Luxemburgischen Staatsbahnen (CFL). NOHAB-Mehrzweckmaschine in weinroter Farbgebung der Epoche III.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Führerstandsbeleuchtung an Lokseite 1 und 2 jeweils digital separat schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22673",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c8/a5/c8a5c25c2d1bb35fecf4f34d2979044c1477500318.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

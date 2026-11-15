@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22664",
+  "manufacturer": "Trix",
+  "articleNumber": "22664",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 065",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 178.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Tenderlokomotive Baureihe 065 der Deutschen Bundesbahn (DB). Ausführung mit Oberflächenvorwärmer, Lüftungsaufbau auf dem Dach und DB-Reflexglaslampen. Betriebsnummer 065 001. Gealterte Ausführung.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Rauchsatz serienmässig eingebaut. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, konventionell in Betrieb, digital schaltbar. Zwei rote Schlusslichter separat digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit authentischen Betriebsspuren. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 17,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22664",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/bc/f6bc89e3cec238e51fafb310badb9ec91643634030.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

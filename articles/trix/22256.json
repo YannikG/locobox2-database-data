@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22256",
+  "manufacturer": "Trix",
+  "articleNumber": "22256",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 469.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 18.1",
+    "number": "102",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 18.1 der Deutschen Bundesbahn (DB). Frühere Württemberger Reihe C. Betriebsnummer 18 102. Betriebszustand um 1953.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Vorbereitet für Rauchsatz 72270. Lokomotive weitgehend aus Metall wie beispielsweise Kessel, Kamin, Dom, Führerhaus, Umlauf und Tender. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22256",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/a7/afa7e0ea31862ac76abfb16ec3880b081571464823.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

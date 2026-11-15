@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22163",
+  "manufacturer": "Trix",
+  "articleNumber": "22163",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 970.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Big Boy",
+    "number": "4014",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Reihe 4000 \"Big Boy\" der Union Pacific Railroad (U.P.). Ausführung der Lokomotive mit Ölfeuerung. Betriebsnummer 4014. Betriebszustand 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 8 Achsen angetrieben. Haftreifen. Eingerichtet für zwei Rauchsätze 7226. Fahrtrichtungsabhängig wechselndes Spitzensignal, Nummerntafeln und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurvengängiges Gelenkfahrwerk. Boxpok-Räder. Serienmässig mit RP 25-Profil und Kadee-kompatibler Kupplung. Mittlere Kuppelachsen gefedert. Dampfleitungen schwenkbar mit den Zylindern geführt. Kurzkupplung zwischen Lok und Tender. Leistungsfähiger Lautsprecher im Tender, Lautstärke einstellbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Länge über Kupplungen ca. 46,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22163",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4a/b6/4ab61fdd3b7a3fdb262460aab60812511589873719.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

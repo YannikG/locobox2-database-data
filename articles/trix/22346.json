@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22346",
+  "manufacturer": "Trix",
+  "articleNumber": "22346",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 349.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "TX Logistik",
+    "type": "TRAXX",
+    "number": "91806182560-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive 91 80 6182 560-3 der Mitsui Rail Capital Europe (MRCE) vermietet an TX Logistik (TXL), Baujahr ab 2000.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22346",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cb/6e/cb6e70b835695bbd74a347da03a730d21439901166.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

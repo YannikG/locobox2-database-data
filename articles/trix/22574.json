@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22574",
+  "manufacturer": "Trix",
+  "articleNumber": "22574",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie CC 40100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 253.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie CC 40100 der Französischen Staatsbahnen (SNCF). Viersystem-Lokomotive für ganz Frankreich, Benelux und Deutschland. Betriebsnummer CC 40109. Einsatz im internationalen TEE-Verkehr. Betriebszustand um 1974.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell an, digital schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden. Angesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Länge über Puffer ca. 25,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22574",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/0d/f50d74bd567e14abbec8e8d50809c6021484067362.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

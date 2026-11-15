@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22451",
+  "manufacturer": "Trix",
+  "articleNumber": "22451",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 335.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 18",
+    "number": "32",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 18 in stahlblauer Grundfarbgebung. Ausführung mit flachen Lampen als Spitzensignal unten und beidseitigem Indusi. Lok-Betriebsnummer E 18 32. Betriebszustand um 1964.\n\nModell: Mit mfx-Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Einzelheiten. Vorbildgerechte Scheren-Stromabnehmer. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Puffer aus Metall, separat eingesetzt, in gewölbter und flacher Ausführung. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22451",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/15/af/15af4ce334e2b5887a685b5d4e857b7f1575788439.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

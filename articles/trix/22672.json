@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22672",
+  "manufacturer": "Trix",
+  "articleNumber": "22672",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 299.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 204",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 204 der Belgischen Staatsbahnen (SNCB/NMBS). Belgische Lizenzvariante der allgemein bekannten \"NOHAB\" des Herstellers AFB (Anglo-Franco-Belge) in grüner Farbgebung der Epoche III.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 digital separat schaltbar. Führerstandsbeleuchtung an Lokseite 1 und 2 digital separat schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22672",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/79/90/7990c6adb46102c9e3d34e0a706d19c11477500272.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

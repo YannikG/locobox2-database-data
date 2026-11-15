@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25193",
+  "manufacturer": "Trix",
+  "articleNumber": "25193",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 193",
+    "number": "343",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 193 (Vectron) der Deutschen Bahn AG (DB AG), Güterverkehrsbereich DB Cargo. Betriebsnummer 193 343. Betriebszustand 2021.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Fernscheinwerfer und Führerstandbeleuchtung separat digital schaltbar. Rangierlicht NL und CH und Falschfahrt IT und CH jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Länge über Puffer ca. 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25193",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ae/f3/aef319201a1cfb04747ea8979aaa4fd21660629620.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

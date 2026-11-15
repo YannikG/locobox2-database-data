@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22929",
+  "manufacturer": "Trix",
+  "articleNumber": "22929",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 479.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103",
+    "number": "144-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 103 der Deutschen Bundesbahn (DB). Ausführung mit „kurzem“ Führerstand, Einholmstromabnehmern und Pufferverkleidung. Orientrote Grundfarbgebung. Betriebsnummer 103 144-2. Betriebszustand ab 1989.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Stromabnehmer digital heb- und senkbar. Bewegliche Lokführerfigur in beiden Führerständen digital schaltbar. Separat angesetzte Radimitationen, Griffstangen, Scheibenwischer, UIC-Steckdosen und Dachleitungen. Pufferhöhe nach NEM. Leicht gealterter Betriebszustand. Bremsleitungen, Trittstufen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22929",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/75/7875f139d3ea93635e922890ad1d6e221670850006.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22619",
+  "manufacturer": "Trix",
+  "articleNumber": "22619",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 150",
+    "number": "144-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 150 der Deutschen Bahn AG (DB AG). Orientrote Grundfarbgebung. Mit Doppellampen und eckigen Maschinenraumfenstern. Betriebsnummer 150 144-4. Betriebszustand 1999. Stark ausgebleichte und gealterte Ausführung.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen seitlich und stirnseitig aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Brems- und Kupplungsschläuche liegen bei. Lokführerfigur im Führerstand 1. Die Lokomotive befindet sich in einem gealterten und ausgeblichenen Zustand. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22619",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/20/fd/20fde0e4e448562f83945ba28ad29b821629115239.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

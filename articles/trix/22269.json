@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22269",
+  "manufacturer": "Trix",
+  "articleNumber": "22269",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe EG 2x2/2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Elektrolokomotive der Reihe EG 2x2/2 der Bayerischen Staatsbahnen. Betriebszustand um 1920.\n\nModell: Elektrolokomotive mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen und Blindwelle angetrieben. 2 Haftreifen. Kurvengängiges Gelenkfahrwerk, beweglich unter den festen Vorbauten gelagert. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22269",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/66/a0/66a01b5dc90144f9ca4ffbb2bd26edd71541778311.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

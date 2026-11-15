@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22382",
+  "manufacturer": "Trix",
+  "articleNumber": "22382",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 379.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 38.10",
+    "number": "3812",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Personenzuglokomotive Baureihe 38.10-40 mit Wannentender 2´2´T30 der Deutschen Bundesbahn (DB). Ehemalige preussische P 8. Kessel mit 3 Domen. Mit Witte-Windleitblechen und Läutewerk. Betriebsnummer 38 3812. Betriebszustand um 1965.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen. Rauchsatz 72270 nachrüstbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand. Bremsschläuche, Vorbildkupplungen und Kolbenstangenschutzrohre liegen bei. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22382",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/df/2edf83338b106d4958cad499b6a072311434534642.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Herbstneuheiten 2020",
+  "slug": "trix-herbstneuheiten-2020",
+  "description": "Artikel aus dem Trix H0 Herbstneuheiten-Prospekt 2020 (EN-Spiegel).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2020,
+  "order": 2,
+  "source": "https://www.trix.de/de/produkte/produkt-informationen/kataloge/neuheiten"
+}
