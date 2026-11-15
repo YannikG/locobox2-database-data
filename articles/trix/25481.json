@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25481",
+  "manufacturer": "Trix",
+  "articleNumber": "25481",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 649.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Reihe 1",
+    "number": "1.002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 284.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Reihe 1 der Belgischen Staatsbahn (SNCB/NMBS). Betriebsnummer 1.002. Musealer Betriebszustand.\n\nModell: Digital-Decoder mfx mit Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben, zwei Achsen über Kuppelstange angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Stirnseitiges Zweilicht-Spitzensignal digital schaltbar. Zusätzlich sind die Führerstandbeleuchtung und das Feuerflackern in der Feuerbüchse separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Uneingeschränkte Kurvengängigkeit der Lok im Radius 437,5 mm (Radius 2). Bremsschläuche, Schraubenkupplungsimitation und Signalhalter liegen bei. Länge über Puffer ca. 28,4 cm",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25481",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/7e/c97e2c5bdc204c0509b293cb67782fe91791886089.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

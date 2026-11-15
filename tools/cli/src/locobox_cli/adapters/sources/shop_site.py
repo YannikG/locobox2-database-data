@@ -49,10 +49,37 @@ class RocoShopSite:
         return f"https://www.roco.cc/rde/catalogsearch/result/?q={article}"
 
 
+@dataclass(frozen=True, slots=True)
+class MaerklinShopSite:
+    """Shared Shopware shop for Trix, Märklin and LGB (maerklinshop.de)."""
+
+    slug: str = "trix"
+
+    def search_url(self, article: str) -> str:
+        # Shopware classic: form field name is sSearch (Artikelnr. ohne Markenpräfix).
+        return f"https://www.maerklinshop.de/search?sSearch={article}"
+
+    def is_pdp_url(self, href: str, article: str) -> bool:
+        if not href or not href.startswith("http"):
+            return False
+        u = href.split("#", 1)[0].split("?", 1)[0].lower()
+        # PDP URLs use internal sArticle ids; article number is only in page content.
+        return "maerklinshop.de" in u and "/detail/index/sarticle/" in u
+
+    def fallback_pdp_url(self, article: str) -> str:
+        return self.search_url(article)
+
+
 def shop_site_for(source: str) -> ShopSite:
+    from locobox_cli.adapters.sources.trix.shop_site import TrixProductDbSite
+
     key = source.strip().lower()
     if key == "piko":
         return PikoShopSite()
     if key == "roco":
         return RocoShopSite()
+    if key == "trix":
+        return TrixProductDbSite()
+    if key in {"maerklin", "marklin", "lgb"}:
+        return MaerklinShopSite(slug=key.replace("marklin", "maerklin"))
     raise ValueError(f"unknown shop source: {source!r}")

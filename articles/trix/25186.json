@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25186",
+  "manufacturer": "Trix",
+  "articleNumber": "25186",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "SEL",
+    "type": "BR 181.2",
+    "number": "218-9",
+    "livery": "GÖPPINGEN",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 205.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 181.2 der Schlünss Eisenbahn Logistik (SEL). Orientrote Grundfarbgebung. Betriebsnummer 181 218-9. Betriebszustand ab September 2025 mit dem Taufnamen \"GÖPPINGEN\".\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Stromabnehmer digital heb- und senkbar. Separat angesetzte Radimitationen, Griffstangen, Scheibenwischer, UIC-Steckdosen und Dachleitungen. Pufferhöhe nach NEM. Bremsleitungen, Schraubenkupplungen und verschiedene Steckdosen liegen als separat ansteckbare Teile bei. Länge über Puffer 20,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25186",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e3/de/e3deab7ee2c9ca24d13ff2945fdb693e1756130435.jpg"
+  },
+  "updatedAt": "2026-11-15T20:00:41Z"
+}

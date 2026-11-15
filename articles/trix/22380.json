@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22380",
+  "manufacturer": "Trix",
+  "articleNumber": "22380",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DBG",
+    "type": "BR 220",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Mehrzwecklokomotive Baureihe 220 der Deutschen Bahn Gleisbau (DBG). Fiktive Gestaltung. Grundfarbgebung goldgelb.\n\nModell: Mit Digital-Decoder und umfangreichen Betriebs- und Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstand- und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Kulissengeführte Kupplung. Seitlich und frontal angesetzte Griffstangen aus Metall. Länge über Puffer ca. 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22380",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b0/b4/b0b49e390284fd7b5b0ef55ea23ad8a71765800009.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

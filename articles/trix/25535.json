@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25535",
+  "manufacturer": "Trix",
+  "articleNumber": "25535",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 579.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 52",
+    "number": "6884",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 52, mit Steifrahmen-Tender K4 T30 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Witte-Windleitbleche. Vorlauf-Radsatz mit Vollrädern. Lok-Betriebsnummer 52 6884. Betriebszustand um 1951.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Steifrahmen-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe nach NEM. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25535",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1c/24/1c2424103a3b630c8fb88253a38e839c1765800007.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

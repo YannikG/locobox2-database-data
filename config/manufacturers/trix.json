@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix",
+  "slug": "trix",
+  "description": "Trix ist die Marke von Märklin für Gleichstrom-Modelleisenbahnen in H0 und N (Minitrix).",
+  "website": "https://www.trix.de",
+  "wikipedia": "https://de.wikipedia.org/wiki/Trix",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/TRIX.svg",
+  "country": "DE"
+}

@@ -3,9 +3,12 @@ name: locobox-import
 description: >-
   Orchestrate Locobox article import with tools/cli (uv run locobox): catalog
   extract, manual queue gate with the user, CloakBrowser shop fetch with jitter,
-  shared YAML pipeline, agent logic checks via articles set-field/patch, and
+  shared YAML pipeline, then mandatory lok-numbering-article-review on the
+  imported campaign/tag scope, agent patches via articles set-field/patch, and
   handoff. Prefer tools/cli over any legacy MCP import scripts. Use when
-  importing catalog/shop articles or when this skill is attached.
+  importing catalog/shop articles or when this skill is attached. After parse
+  (or when new articles exist under articles/), always load and follow skill
+  lok-numbering-article-review before treating the import as done.
 ---
 
 # Locobox Import (Agent in der Mitte)
@@ -20,6 +23,16 @@ uv run locobox --help
 ```
 
 Repo-Root für Pfade: `articles/`, `rules/`, `config/tags/`, `.tmp/import/{campaign}/`.
+
+### Working-Dir `.tmp/` (gitignored, Pflicht)
+
+Alles flüchtige Scraping-/Import-Material **nur** unter `.tmp/` (steht in `.gitignore`). Nie ins Repo oder nach `tools/cli/tests/fixtures/` legen:
+
+- Katalog-PDFs und `pdftotext`-Ausgaben
+- Shop-/Produktdatenbank-HTML (Fetch-Cache)
+- Fetch-/Parse-Logs, Blocklisten, Queue-Arbeitsdateien unter `.tmp/import/{campaign}/`
+
+Tests bekommen höchstens **kleine synthetische Snippets** (wenige KB, wie `piko_pdp_sample.html`). Volle Live-PDPs zum Debuggen: `.tmp/import/{campaign}/html/`.
 
 ## Ablauf (Pflicht)
 
@@ -68,11 +81,13 @@ uv run locobox shop fetch --source SOURCE \
   --delay-min 2.5 --delay-max 6.0
 ```
 
-`SOURCE`: `piko` | `roco`.
+`SOURCE`: `piko` | `roco` | `trix`.
 
 - concurrency 1, `--skip-existing` default
+- HTML-Cache landet unter `.tmp/import/CAMPAIGN/html/` (nicht committen)
 - bei Block: stoppen, `.tmp/import/CAMPAIGN/blocked.txt` prüfen, ggf. Delay erhöhen / später Pro-Cloak
 - **kein** Glass/`cursor-ide-browser` für Batches, **kein** Chrome-MCP-Import
+- Trix: Produktdatenbank `trix.de/de/produkte/details/article/{nr}` (maerklinshop-Suche oft unbrauchbar für Neuheiten)
 
 ### 4. Parse + shared Pipeline
 
@@ -91,11 +106,16 @@ uv run locobox articles append-tag --mfr SOURCE --tag IMPORT_TAG \
 - Existiert ohne `--append-tag-if-exists` → `skipped_existing`.
 - YAML-Rules: `rules/common/`, `rules/piko/`, `rules/roco/`.
 
-### 5. Agent-Logikchecks
+### 5. Loknummer-Review (Pflicht, kein Überspringen)
 
-Stichproben / Kampagnen-Tag-Scope lesen. Domänenregeln und Pass-2: Skill **`lok-numbering-article-review`**.
+Sobald neue oder geänderte Artikel-JSON unter `articles/` liegen (nach Parse, Patch oder manuellem Import):
 
-Korrekturen **nicht** freestyle basteln, sondern:
+1. Skill **`lok-numbering-article-review`** **sofort lesen und ausführen** (`.agents/skills/lok-numbering-article-review/SKILL.md`).
+2. Scope: Kampagnen-**Tag** (z. B. `trix-neuheiten-2026`) oder die gerade geschriebenen Pfade / Git-Diff auf dem Branch.
+3. Ablauf wie im Review-Skill: optional Auto-Fix nur wenn User das verlangt → **Pass 1** → **Phase 2** dateiweise mit dem User.
+4. Handoff erst, wenn Pass 1 gelaufen ist und Phase 2 erledigt, abgebrochen oder der User den Review bewusst verschiebt.
+
+Korrekturen aus dem Review **nicht** freestyle basteln, sondern:
 
 ```bash
 uv run locobox articles set-field --mfr piko --article NR --path model.type --value "…"
@@ -123,17 +143,18 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 
 | Feld | Wert |
 |------|------|
-| **Hersteller** | PIKO \| Roco |
+| **Hersteller** | PIKO \| Roco \| Trix |
 | **Import-Tag** | `{IMPORT_TAG}` \| ohne Tag |
-| **Kampagne (Working-Dir)** | `{CAMPAIGN}` |
+| **Kampagne (Working-Dir)** | `{CAMPAIGN}` unter `.tmp/import/` |
 | **Branch** | `{branch}` |
 | **Kandidaten / Approved** | `{N}` / `{M}` |
 | **Fetch** | ok={OK} fail={FAIL} skipped={S} blocked={yes/no} |
-| **JSON** | `{COUNT}` unter `articles/{piko\|roco}/` |
+| **JSON** | `{COUNT}` unter `articles/{piko\|roco\|trix}/` |
 | **Pipeline/Rules** | {kurz} |
+| **Loknummer-Review** | Pass 1 / Phase 2 Status (Skill `lok-numbering-article-review`) |
 | **Logikchecks / patch** | {kurz} |
 | **`npm run check`** | PASS \| FAIL |
-| **Offen** | {missing shop, Pass-2, …} |
+| **Offen** | {missing shop, Phase-2 Findings, …} |
 ```
 
 ## Hard rules
@@ -142,11 +163,13 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 2. **Eine Pipeline nach Raw** — Fixes primär `rules/**/*.yaml`, dann `articles set-field`/`patch`.
 3. **Agent entscheidet Tool-Reihenfolge**, erfindet aber keine parallele MCP-/Utils-Pipeline.
 4. **Schweizer Text:** Umlaute, kein ß (Pipeline macht swiss-ss).
-5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco`.
+5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix`.
 6. **Auto-Tag:** User nach Tag fragen; vorher `tags ensure`; Existing nicht überschreiben (skip oder `--append-tag-if-exists` / `articles append-tag`).
+7. **`.tmp/` only for scrapes** — PDFs, Katalogtext, Live-HTML, Logs, Queues nur unter `.tmp/` (gitignored). Keine vollen Shop-PDPs in `tests/fixtures/` oder sonst commitbaren Pfaden.
+8. **Nach Parse immer `lok-numbering-article-review`** — Skill lesen und starten (Pass 1 mindestens). Import ohne diesen Schritt ist nicht fertig; Handoff erst danach bzw. mit klarem Review-Status.
 
 ## Verweise
 
 - CLI: [`tools/cli/README.md`](../../../tools/cli/README.md)
 - Rules: [`rules/README.md`](../../../rules/README.md)
-- Domänen-Review: Skill `lok-numbering-article-review`
+- Domänen-Review (Pflicht nach Import): [`.agents/skills/lok-numbering-article-review/SKILL.md`](../lok-numbering-article-review/SKILL.md)

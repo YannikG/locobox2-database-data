@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Neuheiten 2026",
+  "slug": "trix-neuheiten-2026",
+  "description": "Artikel aus dem Trix-Neuheitenkatalog 2026.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2026,
+  "order": 1,
+  "source": "https://www.trix.de/de/produkte/"
+}
+
