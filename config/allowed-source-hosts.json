@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "description": "Erlaubte Hostnamen f\u00fcr HTTPS-URLs im Tag-Feld source (exakter Hostname, Kleinbuchstaben). \u00c4nderungen nur per Maintainer-PR, der ausschliesslich diese Datei enth\u00e4lt.",
+  "description": "Erlaubte Hostnamen für HTTPS-URLs im Tag-Feld source (exakter Hostname, Kleinbuchstaben). Änderungen nur per Maintainer-PR, der ausschliesslich diese Datei enthält.",
   "hosts": [
     "www.piko.de",
     "www.piko-shop.de",
