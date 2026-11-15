@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25803",
+  "manufacturer": "Trix",
+  "articleNumber": "25803",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "HSL",
+    "type": "BR 186",
+    "number": "181-4",
+    "livery": "HSL",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 186 der Railpool GmbH, vermietet an die HSL. Betriebsnummer 186 181-4. Betriebszustand ab 2018 mit attraktiver Werbegestaltung \"HSL - Wir verbinden Europa\".\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlicht schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Führerstands- und Führerpultbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Viele separat angesetzte Teile wie Griffstangen, Sandkästen, UIC-Steckdosen und Dachleitungen. Detailliert ausgeführte Dachaufbauten mit vier neu konstruierten Stromabnehmern mit unterschiedlichen Schleifstücken für den Einsatz in Deutschland, Belgien, den Niederlanden und Österreich. Pufferhöhe nach NEM. Bremsleitungen, Schraubenkupplungen, Steckdosen und geschlossene Schienenräumer liegen als separat ansteckbare Teile bei. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25803",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/18/29/1829042943c6be0af980f897ae64ea961734094826.jpg"
+  },
+  "updatedAt": "2026-11-15T21:05:38Z"
+}

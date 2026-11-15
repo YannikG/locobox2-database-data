@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22407",
+  "manufacturer": "Trix",
+  "articleNumber": "22407",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 369.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 132",
+    "number": "457-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Diesellokomotive BR 132 der Deutschen Reichsbahn (DR/DDR), auch bekannt unter dem Spitznamen „Ludmilla“. Rubinrote Grundfarbgebung. Betriebsnummer 132 457-3. Betriebszustand um 1990.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Lokomotive mit simuliertem Abgasausstoss durch Piezo-Vernebler, digital über drei Stufen schaltbar (Betrieb mit destilliertem Wasser). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22407",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/8b/2f8b8c719be64b22dd5c9a73087232a31734094813.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}

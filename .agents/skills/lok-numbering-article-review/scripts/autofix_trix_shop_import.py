@@ -86,11 +86,15 @@ def _normalize_type(raw: str) -> tuple[str, Optional[str]]:
     if re.fullmatch(r"\d+\.\d+", t):
         return f"Reihe {t.split('.', 1)[0]}", quoted
 
+    # «… mit Kabinentender Baureihe 051» after product-prefix strip
+    t = re.sub(r"^mit\s+Kabinentender\s+", "", t, flags=re.I).strip()
+
     m = _BAUREIHE.match(t)
     if m:
         rest = m.group(1).strip()
         # drop trailing variant words that are not the class id
         rest = re.sub(r"\s+Neubau$", "", rest, flags=re.I).strip()
+        rest = re.sub(r"^mit\s+Kabinentender\s+", "", rest, flags=re.I).strip()
         # Spitzname ohne Anführungszeichen am Ende (z. B. «477.0 Papagei»)
         nick = re.match(r"^(\d+(?:\.\d+)?)\s+([A-Za-zÄÖÜäöü][\w\-]*)$", rest)
         if nick and not quoted:
