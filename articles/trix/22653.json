@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22653",
+  "manufacturer": "Trix",
+  "articleNumber": "22653",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 229.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Captrain",
+    "type": "BR 185.2",
+    "number": "578-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe 185.2 der Firma CAPTRAIN Deutschland GmbH, registriert in Deutschland. Mit Werbung zum 150-jährigen Jubiläum der Hamburger Hafenbahn. Zweisystem-Lokomotive mit 4 Pantographen. Lok-Betriebsnummer 185 578-2. Aktueller Betriebszustand 2016.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). 4 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22653",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f8/b9/f8b9a24dd99ed5b4f48a536e9b4017c11484067544.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

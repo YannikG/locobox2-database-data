@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22433",
+  "manufacturer": "Trix",
+  "articleNumber": "22433",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 229.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "061",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 24 mit Schlepptender Baureihe 50 2'2' T 26 der Deutschen Bundesbahn (DB). 1948 erhielt diese Lok zum Einsatz bei der Prüfanstalt Göttingen den grösseren Tender, der deutlich mehr Wasser aufnehmen konnte als der Standard-Tender. Durch seine Führerhausrückwand wurden auch Rückwärtsfahrten mit bis zu 80 km/h möglich. Einheitslokomotive mit kleinen, ursprünglichen Wagner-Windleitblechen. Lok-Betriebsnummer 24 061. Betriebszustand um 1950.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht. Schlepptender der Baureihe 50. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22433",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/60/2e/602ef75734276be83ee4ed6c7abc8a5c1548831624.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

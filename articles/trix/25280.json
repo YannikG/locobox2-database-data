@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25280",
+  "manufacturer": "Trix",
+  "articleNumber": "25280",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Rc 6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Elektrolokomotive Rc 6 der Schwedischen Staatsbahnen (SJ). Ausführung in schwarzer Grundfarbgebung mit Scherenstromabnehmern. Betriebszustand 2010.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Vier Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Vierlicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann wird beidseitig das Rangierlicht eingeschaltet. Zahlreiche unterschiedliche Lichtsignale digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Kunststoff und Metall. Rückspiegel montiert. Bremsleitungen, Schraubenkupplungsimitationen und ein geschlossener Schienenräumer liegen bei. Länge über Puffer 17,7 cm",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25280",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/62/9a/629a34479543b506e3c9cfc2764292901637845222.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22194",
+  "manufacturer": "Trix",
+  "articleNumber": "22194",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 159.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Railpool",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 193 der Railpool GmbH, München. Gebaut von Siemens als Serienlokomotive aus dem Vectron-Typenprogramm.\n\nModell: Elektrolokomotive in Metallausführung, mit 21-poliger Digital-Schnittstelle. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). 2 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22194",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ea/8d/ea8df6faa9eedba446a3b14fca9b211f1452636602.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

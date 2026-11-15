@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22977",
+  "manufacturer": "Trix",
+  "articleNumber": "22977",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 449.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 92",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Güterzug-Tenderlok der Baureihe 92 der Deutschen Bundesbahn (DB). Ehemalige Preussische T 13.\n\nModell: Mit mfx-Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal, digital schaltbar, konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22977",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/64/a76437330c3fbaf0dc0fa86cef78e9551566367219.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

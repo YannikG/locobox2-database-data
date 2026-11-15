@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22816",
+  "manufacturer": "Trix",
+  "articleNumber": "22816",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 429.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "B&O",
+    "type": "Class Q-3",
+    "number": "4526",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Class Q-3 der Baltimore and Ohio Railroad (B&O). USRA-Typ Light Mikado. Betriebsnummer 4526.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien LED. Geschwindigkeitsabhängiges, synchronisiertes Dampflokgeräusch, Pfeifsignal sowie Läutewerk oder Anfahr- und Bremsverzögerung digital schaltbar. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Authentische Gebrauchsspuren. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 29 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22816",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/14/70/14701251ed8eaebfb64f69ad3b764def1459955784.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

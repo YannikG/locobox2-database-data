@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22940",
+  "manufacturer": "Trix",
+  "articleNumber": "22940",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 749.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Challenger",
+    "number": "3969",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere US-Güterzug-Dampflokomotive Klasse 3900 \"Challenger\", der Union Pacific Railroad (UP), mit Kohlen-Schlepptender. Lok-Betriebsnummer 3969. Betriebszustand der 1950er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Unterschiedliche Betriebsgeräusche wie Kohle und Wasser nachfüllen oder Geräusche vom Öffnen und Schliessen von Schiebefenster und Lüftungsklappe am Führerstand zusätzlich digital schaltbar. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 6 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Boxpok-Räder. Stirnlampe an Lok und Tender, Nummerntafeln/Markerlights mit wartungsfreien warmweissen Leuchtdioden (LED) beleuchtet. 2 Rauchsätze (7226) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung und Nummerntafeln/Markerlights separat digital schaltbar. Leistungsfähiger Lautsprecher im Tender. Stirnseitig Kupplungsimitation im Normschacht am Schienenräumer einsteckbar. Kurzkupplung mit Kinematik zwischen Lok und Tender. Dampfleitungen am vorderen Treibgestell schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele weitere angesetzte Einzelheiten. Lokführer- und Heizer-Figur im Führerstand. Länge über Kupplungen 42,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22940",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/e1/25e1121ea5a9f05cb6c1bfd87d1149b31524290429.jpg"
+  },
+  "updatedAt": "2026-11-15T22:02:01Z"
+}

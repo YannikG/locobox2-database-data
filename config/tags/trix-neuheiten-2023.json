@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Neuheiten 2023",
+  "slug": "trix-neuheiten-2023",
+  "description": "Artikel aus dem Trix H0 Neuheiten-Prospekt 2023.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2023,
+  "order": 1,
+  "source": "https://www.trix.de/de/produkte/produkt-informationen/kataloge/neuheiten"
+}

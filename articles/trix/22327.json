@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22327",
+  "manufacturer": "Trix",
+  "articleNumber": "22327",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie BB 12000",
+    "number": "12100",
+    "livery": "Bügeleisen",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Elektrolokomotive BB 12000 der Französischen Staatsbahnen (SNCF). Ausführung in grüner Grundfarbgebung mit separaten Schlusslichtern. Betriebsnummer BB 12100. Epoche V, Zustand 1990.\n\nModell: Mit Digital-Decoder und geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED. Bremsschläuche und Kupplungsnachbildungen an der Pufferbohle ansteckbar. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22327",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1c/f7/1cf7745049cc131273a5f4b2951022a81512124773.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:06Z"
+}

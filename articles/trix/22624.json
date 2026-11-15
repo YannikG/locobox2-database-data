@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22624",
+  "manufacturer": "Trix",
+  "articleNumber": "22624",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 460",
+    "number": "067-2",
+    "livery": "Hohle Gasse",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 460 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Neutrale feuerrote Grundfarbgebung. Lokname: „Hohle Gasse\". Ausführung mit erhabenem Stirnsignet. Betriebsnummer: 460 067-2. Betriebszustand ab 2021.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weissen Schlusslicht konventionell in Betrieb, digital schaltbar. Schweizer Lichtwechsel und Lichtwechsel weiss/rot digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Fernscheinwerfer digital schaltbar. Führerstandbeleuchtung digital schaltbar. Warnsignal und Fahrberechtigungssignal digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Filigrane Einholm-Stromabnehmer. Angesetzte Griffstangen aus Metall. Länge über Puffer ca. 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22624",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bc/89/bc895b896e5cfd327b091ab1e719a0bc1670050819.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:33Z"
+}

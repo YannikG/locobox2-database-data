@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22048",
+  "manufacturer": "Trix",
+  "articleNumber": "22048",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 199.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 335",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Kleindiesellokomotive Köf III als Baureihe 335 der Deutschen Bundesbahn (DB) in Epoche IV. Farbgebung in ozeanblau/elfenbein. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung.\n\nModell: Mit Digital-Decoder DCC und geregeltem Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell an und digital schaltbar. Beleuchtung mit warmweissen LED. Spitzensignal an beiden Seiten abschaltbar. Telex-Kupplung vorne und hinten getrennt schaltbar. Freier Durchblick im Führerhaus, Griffstangen angesetzt. Bremsleitungen und Rangierkupplungen liegen bei. Länge über Puffer 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22048",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5a/26/5a26a45056b4145057b4a297ccecdbb41541778307.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

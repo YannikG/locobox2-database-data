@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22413",
+  "manufacturer": "Trix",
+  "articleNumber": "22413",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 339.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 460",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Serie Re 460 der Schweizerischen Bundesbahnen (SBB/CFF/FFS) mit Werbegestaltung zum Anlass des 100jährigen Jubiläums des Schweizer National-Circus Knie (Rapperswil, CH). Betriebszustand 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Weitere separat schaltbare Lichtfunktionen: Umschalten auf ein rotes Schlusslicht, Fernlicht, umschalten auf zwei rote Schlusslichter, Rangierlicht, umschalten auf Warnsignal und Fahrberechtigungssignal. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstände mit Inneneinrichtung. Länge über Puffer 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22413",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/20/8720c477cc1e309b3accde15afb07b341545030017.jpg"
+  },
+  "updatedAt": "2026-11-15T22:01:03Z"
+}

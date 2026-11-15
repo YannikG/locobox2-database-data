@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25984",
+  "manufacturer": "Trix",
+  "articleNumber": "25984",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Klasse 800",
+    "number": "844",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schwere US-Dampflokomotive Klasse 800 der Union Pacific Railroad (UP), mit Öl-Tender. Lok-Betriebsnummer 844. Betriebszustand ab 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Unterschiedliche Betriebsgeräusche wie Öl und Wasser nachfüllen oder Geräusche vom Öffnen und Schliessen von Schiebefenstern und Lüftungsklappen am Führerstand zusätzlich digital schaltbar. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Boxpok-Räder. Stirnlampe an Lok und Tender, Führerstandsbeleuchtung sowie Nummerntafeln/Markerlights mit wartungsfreien warmweissen Leuchtdioden (LED), digital schaltbar. Rauchgenerator mit dynamischem Dampfausstoss serienmässig eingebaut. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zwei leistungsfähige Lautsprecher im Tender. Stirnseitig Kupplungsimitation im Normschacht am Schienenräumer einsteckbar. Kurzkupplung mit Kinematik zwischen Lok und Tender. Angesetzte Griffstangen aus Metall. Viele weitere angesetzte Details. Länge über Kupplungen ca. 41 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25984",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ed/b9/edb91aec2c2e3d64e3225aa914e221dc1629115246.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:38Z"
+}

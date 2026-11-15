@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22437",
+  "manufacturer": "Trix",
+  "articleNumber": "22437",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 199.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 37 (ehem. BR 24)",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive mit Schlepptender Baureihe 37 der Deutschen Reichsbahn (DR). Einheitslokomotive mit Wagner-Windleitblechen. Die Lokomotive ist im Zustand um 1970 kurz nach der Umnummerierung und hat die EDV-Nummer 37 1009-2. Zuletzt kam das Fahrzeug zum Bw Güsten. 1972 wurde sie in die Bundesrepublik Deutschland verkauft. Dort wurde sie wieder in 24 009 umbenannt.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Lok mit Rauchsatzkontakt, zum nachträglichen Einbau eines Rauchsatzes (72270) vorbereitet. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22437",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/19/a6/19a6fe9fc9c7ad6fcae73b5d9ca54d771541778315.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

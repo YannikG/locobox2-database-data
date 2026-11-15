@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25539",
+  "manufacturer": "Trix",
+  "articleNumber": "25539",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 81",
+    "number": "81.340",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Dampflokomotive der Serie 81 (ehem. preussische G 8.1) mit Kohlen-Schlepptender der Belgischen Staatsbahnen (NMBS/SNCB). Moosgrün/schwarze Grundfarbgebung. Lok-Betriebsnummer 81.340. Betriebszustand Anfang/Mitte der 1950er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden (LED). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Bremsleitungen und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25539",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/bc/9cbcc81a8d3d75e994bec0a1339f1bd41640264436.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

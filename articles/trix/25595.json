@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25595",
+  "manufacturer": "Trix",
+  "articleNumber": "25595",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 529.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB Historic",
+    "type": "Serie Ce 6/8 II",
+    "number": "14253",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Ce 6/8 II „Krokodil“, als Museumslokomotive der SBB Historic. Bauart aus der ersten Bauserie. Dunkelbraune Grundfarbgebung. Mit Hülsenpuffer, stirnseitigen Übergangsblechen, kleinen Rangierertreppen und Handstangen, mit Falschfahrsignal und Signum-Integra-Magnete. Lok-Betriebsnummer 14253. Aktueller Betriebszustand.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jedem Treibgestell. Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25595",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/8e/dc8e5ffd71d16d6242e7daecd8645a271638514845.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:38Z"
+}

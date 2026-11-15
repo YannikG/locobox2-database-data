@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22883",
+  "manufacturer": "Trix",
+  "articleNumber": "22883",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 620",
+    "number": "011-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Elektrolokomotive Re 6/6 als Re 620 der Schweizerischen Bundesbahnen (SBB), eingesetzt für den Güterverkehrsbereich SBB Cargo. Ausführung in feuerrot/ultramarinblauer Grundfarbgebung. Eckige Stirnlampen, UIC-Steckdosen, stirnseitig schräge Griffstangen, an einer Lokseite mit Wartungsklappe für Klimaanlage. Lok-Betriebsnummer 620 011-7, mit Lok-Wappen \"Rüti ZH\". Aktueller Betriebszustand um 2019.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen (jeweils beide Achsen in den beiden äusseren Drehgestellen) über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung umschaltbar auf 2 rote Schlusslichter. Fernscheinwerfer, Führerstandbeleuchtung und Maschinenraumbeleuchtung zusätzlich jeweils digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Aufstiegsgriffstangen aus Metall. Kupplungen gegen detaillierte Frontschürzen austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22883",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/4a/254ae27429eff06261576e7954b89d2d1577343616.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

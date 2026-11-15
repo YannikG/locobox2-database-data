@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22197",
+  "manufacturer": "Trix",
+  "articleNumber": "22197",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 299.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG (DB AG). Mit längsseitiger Werbung zum Jubiläum \"25 Jahre Starlight Express\". Aktueller Betriebszustand 2013.\n\nModell: Mit DCC/mfx-Decoder, geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen. Bewegliche Imitation der Drehgestell-Anlenkung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22197",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/31/20/31206782cfee046e2750119525b2bceb1434534708.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

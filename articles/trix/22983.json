@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22983",
+  "manufacturer": "Trix",
+  "articleNumber": "22983",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 379.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": "1746",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 260.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 44, mit Öl-Tender der Grundform 2´2´T34 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. ÜK-Führerhaus mit nur einem seitlichen Fenster, mit Witte-Windleitblechen der Regelausführung, Vorlauf-Radsatz mit Speichenrädern, ohne Rauchkammer-Zentralverschluss, mit Indusi-Magnet einseitig. Lok-Betriebsnummer 44 1746. Betriebszustand um 1961.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Öl-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22983",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/97/d0/97d035b4623e16f59ed4bfc0e5bf017a1544943634.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

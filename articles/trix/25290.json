@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25290",
+  "manufacturer": "Trix",
+  "articleNumber": "25290",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 249",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 236.0
+  },
+  "description": "Vorbild: Zweikraftlokomotive BR 249 (Vectron Dual Mode light) der DB Cargo AG. Aus der Vectron-Produktfamilie von Siemens. Betriebsnummer 249 002. Werkszustand Mai 2022.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Fernscheinwerfer separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). ­Ansteckbare Bremsschläuche und Rangierkupplung liegen separat bei. Länge über Puffer ca. 23,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25290",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/67/3a/673a9bd05e74bbbad9d54b1482d142fb1668841215.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:35Z"
+}

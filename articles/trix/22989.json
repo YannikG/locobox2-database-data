@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22989",
+  "manufacturer": "Trix",
+  "articleNumber": "22989",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 489.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": "1315",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 260.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 44, mit Öl-Tender der Einheitsbauart 2´2´T34 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Führerhaus mit zwei seitlichen Fenstern, mit Witte-Windleitblechen der Regelausführung, Vorlauf-Radsatz mit Speichenrädern, ohne Rauchkammer-Zentralverschluss, mit Indusi-Magneten beidseitig. Lok-Betriebsnummer 44 1315. Restaurierte Lokomotive beim Märklineum im historischen Betriebszustand um 1963/64.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Öl-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Eine ebenfalls beiliegende DVD zeigt die Geschichte der Dampflokomotive sowie den Transport zum Märklineum und die anschliessende Restaurierung der Lokomotive. Länge über Puffer 26 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22989",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/46/70/46706804a264dfcdd96f1093eb2b21831612357217.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

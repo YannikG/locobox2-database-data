@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22925",
+  "manufacturer": "Trix",
+  "articleNumber": "22925",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 499.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "C 5/6",
+    "number": "2965",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-V",
+    "luepMm": 223.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Gotthard-Dampflokomotive Serie C 5/6 \"Elefant\" der Schweizerischen Bundesbahnen (SBB), mit 3-achsigem Schlepptender, für den Einsatz im Güter- und Schnellzugverkehr auf der Gotthard-Strecke. Betriebsnummer 2965, heute noch im Verkehrshaus in Luzern ausgestellt.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok und 2 Lichter am Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. An der Vorderseite der Lok und am Tender Kurzkupplung mit NEM-Schacht, am Tender kinematikgeführt. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22925",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3d/20/3d206a39d338dc44adef87e2529f70cd1488821559.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

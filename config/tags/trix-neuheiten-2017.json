@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Neuheiten 2017",
+  "slug": "trix-neuheiten-2017",
+  "description": "Artikel aus dem Trix H0 Neuheiten-Prospekt 2017.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2017,
+  "order": 1,
+  "source": "https://www.trix.de/de/produkte/produkt-informationen/kataloge/neuheiten"
+}

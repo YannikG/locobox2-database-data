@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22195",
+  "manufacturer": "Trix",
+  "articleNumber": "22195",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 279.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 102",
+    "number": "003-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 207.0
+  },
+  "description": "Vorbild: Elektrolokomotive BR 102 (Škoda Typ 109 E) der Deutschen Bahn AG (DB AG) in verkehrsroter Farbgebung. Neuzustand 2016. Betriebsnummer 102 003-1.\n\nModell: Elektrolokomotive in Metallausführung, mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). 2 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 20,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22195",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/da/2dda21b65cadd9f5d92d5c0991df7e0a1514358073.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

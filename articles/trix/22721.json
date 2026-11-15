@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22721",
+  "manufacturer": "Trix",
+  "articleNumber": "22721",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 239.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "PtL 2/2",
+    "number": "4514",
+    "livery": "Glaskasten",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Dampflokomotive PtL 2/2 (\"Glaskasten\") der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung mit Blindwelle. Betriebsnummer 4514. Betriebszustand um 1910.\n\nModell: Mit Digital-Decoder (DCC/mfx). Miniaturmotor im Kessel. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Pufferkondensator. Innenkessel aus Metall. Zahlreiche angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Länge über Puffer 8,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22721",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5f/5f/5f5f21e9baccaf0d9cf648a5d4bcbdfd1545548431.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

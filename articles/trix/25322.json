@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25322",
+  "manufacturer": "Trix",
+  "articleNumber": "25322",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 232",
+    "number": "001-8",
+    "livery": "TEE",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 264.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 232 der Deutschen Bundesbahn (DB). In fiktiver TEE-Farbgebung. Zum Einsatz im hochwertigen TEE-Reisezugverkehr. Lok-Betriebsnummer 232 001-8. Betriebszustand Anfang der 1970er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. 2 Lautsprecher für eine optimale Loksound-Wiedergabe. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandbeleuchtung und Maschinenraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). 4 bewegliche Lüfterräder mit je einem Motor angetrieben und paarweise separat digital schalbar. Unterschiedliche Geschwindigkeiten der Lüfterräder möglich. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Ansteckbare Hauptluftleitungen, Heizleitungen und Kupplungsschläuche liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25322",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/86/99/86993419753d151072f21d1dab24b40c1670914820.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:36Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25499",
+  "manufacturer": "Trix",
+  "articleNumber": "25499",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 218",
+    "number": "499-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 218 der Deutschen Bahn AG (DB AG). Verkehrsrote Grundfarbgebung. Betriebsnummer 218 499-2. Betriebszustand ab 2011.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen seitlich und stirnseitig aus Metall. Detaillierte Pufferbohle mit den für die Baureihe typischen Schneeräumern. Bremsleitungen, Schraubenkupplungen und geschlossene Schneeräumer liegen als separat ansteckbare Teile bei. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25499",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/d9/c9d939fa258f726b42b27e29c2648fe01670050820.jpg"
+  },
+  "updatedAt": "2026-11-15T21:35:44Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22843",
+  "manufacturer": "Trix",
+  "articleNumber": "22843",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 299.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Reihe 4/4 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 II der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Ausführung in Anlehnung an die Gestaltung der Ge 4/4 II Nr. 617 der Rhätischen Bahn, wie sie seit dem 12.01.2018 für ein Jahr lang in der Schweiz fährt.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes als rotes Nothalt-Signal. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Kupplungen gegen beiliegende Frontschürzen austauschbar. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22843",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4a/ab/4aab51adb3b020fec1d0cb8b6b6e3d251513753263.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

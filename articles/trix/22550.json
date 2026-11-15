@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22550",
+  "manufacturer": "Trix",
+  "articleNumber": "22550",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 219.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 74",
+    "number": "867",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 74 der Deutschen Bundesbahn (DB), ex preussische T12. Betriebsnummer 74 867. Epoche III, Betriebszustand um 1955.\n\nModell: Mit mfx-Digital-Decoder und Spezialmotor mit Schwungmasse. 3 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22550",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5f/e7/5fe7b149b9dd60dde342d4128b1577001576738816.jpg"
+  },
+  "updatedAt": "2026-11-15T22:03:01Z"
+}

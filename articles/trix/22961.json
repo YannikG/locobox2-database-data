@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22961",
+  "manufacturer": "Trix",
+  "articleNumber": "22961",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 359.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "De 6/6",
+    "number": "15302",
+    "livery": "Seetal-Krokodil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 162.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie De 6/6 \"Seetal-Krokodil\" der Schweizerischen Bundesbahnen (SBB). Rotbraune Grundfarbgebung. Lok-Betriebsnummer 15302. Betriebszustand Mitte der 1960er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 6 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Bremsschläuche liegen separat bei. Länge über Puffer 16,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22961",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b8/00/b8001b5c798536d41d050a411107e7a01512124804.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

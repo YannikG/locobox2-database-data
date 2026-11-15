@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22248",
+  "manufacturer": "Trix",
+  "articleNumber": "22248",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 189.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive mit Schlepptender Baureihe 24 der Deutschen Bundesbahn (DB). Einheitslokomotive mit Wagner-Windleitblechen. Betriebszustand um 1957.\n\nModell: Mit Digital-Decoder mfx und DCC, sowie umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben, Haftreifen. Kessel aus Metall. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Der Rauchsatzkontakt ist dauerhaft an. Die Lok ist vorbereitet zum nachträglichen Einbau des Rauchsatzes 72270. Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung im NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22248",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/df/0fdf2ce846332ca30009c4622e49e82a1434534640.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

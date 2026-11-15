@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22658",
+  "manufacturer": "Trix",
+  "articleNumber": "22658",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 339.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 64",
+    "number": "026",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Personenzug-Tenderlok Baureihe 64 der Deutschen Bundesbahn (DB). Ausführung mit genieteten Wasserkästen. Lok-Betriebsnummer 64 026. Diese Lok wurde 1927 von Henschel gebaut. Sie war von Mai 1936 bis Juli 1963 durchgehend beim Bw Gemünden beheimatet, wo sie auch am 10.03.1965 ausgemustert wurde. Betriebszustand um 1960.\n\nModell: Mit DCC-/mfx-Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb und 3 angetriebenen Achsen. Haftreifen. Vorbereitet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22658",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/70/2d70ced68129a0f5cadf7ef527fdd1ed1541778659.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22004",
+  "manufacturer": "Trix",
+  "articleNumber": "22004",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "RRF",
+    "type": "BR 189",
+    "number": "091-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 189 der MRCE gemietet von der Rotterdam Rail Feeding B.V. (RRF). Mehrsystemlokomotive mit 4 Dachstromabnehmern für den grenzüberschreitenden Güterverkehr Niederlande-Deutschland. Betriebsnummer 189 091-2. Betriebszustand ab 2019.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Fernlicht digital zuschaltbar. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden (LED). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Vorbildgerecht mit unterschiedlichen Stromabnehmern für die Stromsysteme in Deutschland und den Niederlanden ausgestattet. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22004",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/dd/d1ddfdbdf46b07f4283b084938f3acb21648126810.jpg"
+  },
+  "updatedAt": "2026-11-15T21:36:37Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22034",
+  "manufacturer": "Trix",
+  "articleNumber": "22034",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 229.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "PtL 2/2",
+    "number": null,
+    "livery": "Glaskasten",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Baureihe 98.3 \"Glaskasten\" (ehem. bayerische PtL 2/2) ohne Blindwelle der Deutschen Bundesbahn (DB). Betriebszustand um 1952.\n\nModell: Mit Digital-Decoder (DCC/mfx). Miniaturmotor im Kessel. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Pufferkondensator. Innenkessel aus Metall. Zahlreiche angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Länge über Puffer 8,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22034",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/82/a082607dcab18fad004073ee7a36175b1556344822.jpg"
+  },
+  "updatedAt": "2026-11-15T21:57:51Z"
+}
