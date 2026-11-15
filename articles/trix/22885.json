@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22885",
+  "manufacturer": "Trix",
+  "articleNumber": "22885",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 599.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "GB",
+    "operator": "National Railway Museum",
+    "type": "Class A3",
+    "number": null,
+    "livery": "Flying Scotsman",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 245.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive mit Schlepptender der Klasse A3. Ausführung als Museumslokomotive in Wartime Black mit unterschiedlichen angeschriebenen Betriebsnummern. Betriebsfähiger Museumszustand Anfang 2015 mit Korridor-Tender und Windleitblechen. Lokomotive des National Railway Museum in York.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und eine Lampe an der Tenderrückseite konventionell in Betrieb, digital schaltbar. Lampe an der Tenderrückseite kann auf rotes Licht umgeschaltet werden. Drittes Spitzenlicht an der Lokfront als elektrische Lampe separat zu- und auf rote Beleuchtung umschaltbar. Führerstandsbeleuchtung und Feuerbüchsenflackern digital schaltbar. Beleuchtung des Tender-Durchgangs digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe an Lok und Tender nach NEM. Bremsschläuche, Schraubenkupplungsimitationen und geschlossene Zylinderdeckel liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22885",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/ec/2bec72e6ee6466fb756e67e2f88219711724173210.jpg"
+  },
+  "updatedAt": "2026-11-15T21:14:56Z"
+}
