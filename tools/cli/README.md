@@ -68,7 +68,7 @@ uv run locobox shop parse --source roco --campaign demo \
   --tag roco-neuheiten-2024
 ```
 
-`--source`: `piko` | `roco`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
 
 ## Pipeline + YAML-Rules
 

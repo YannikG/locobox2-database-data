@@ -91,6 +91,10 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
         if site.is_pdp_url(url, article):
             return url
         return None
+    if site.slug == "ree" or "ree-store.com" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            return url
+        return None
     if "maerklinshop" in (page.url or "").lower() or site.slug in {
         "maerklin",
         "lgb",
