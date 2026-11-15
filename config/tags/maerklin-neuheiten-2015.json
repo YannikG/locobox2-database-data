@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Märklin Neuheiten 2015",
+  "slug": "maerklin-neuheiten-2015",
+  "description": "Artikel aus dem Märklin H0 Neuheiten-Hauptkatalog DE 2015.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "maerklin",
+  "year": 2015,
+  "order": 1,
+  "source": "https://www.maerklin.de/de/service/extras/kataloge/neuheitenprospekte"
+}

@@ -53,6 +53,7 @@ def _html_has_article_sku(html: str, article: str) -> bool:
         f"Artikelnummer: <span>{art}</span>",
         f'Artikelnummer:</td><td class="attribute-value">{art}</td>',
         f"Art.Nr. {art}",
+        f'itemprop="productID">{art}</span>',
         f'data-main-ordernumber="T{art}"',
         f'data-main-ordernumber="M{art}"',
         f'data-main-ordernumber="L{art}"',
@@ -91,10 +92,11 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
         if site.is_pdp_url(url, article):
             return url
         return None
-    if "maerklinshop" in (page.url or "").lower() or site.slug in {
-        "maerklin",
-        "lgb",
-    }:
+    if site.slug == "maerklin" or "maerklin.de" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            return url
+        return None
+    if "maerklinshop" in (page.url or "").lower() or site.slug == "lgb":
         if site.is_pdp_url(url, article):
             try:
                 html = page.content()
