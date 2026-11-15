@@ -3,12 +3,14 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass
 
-_ARTICLE_RE = re.compile(r"^\d{4,8}$")
+# Digits (PIKO/Roco/Trix) or Lima Expert / Hobby SKUs (HL#### / HC####).
+_ARTICLE_RE = re.compile(r"^(?:\d{4,8}|H[LC]\d{3,5})$", re.I)
+_LIMA_SKU_RE = re.compile(r"^(H[LC])\s*(\d{3,5})$", re.I)
 
 
 @dataclass(frozen=True, slots=True)
 class ArticleNumber:
-    """Canonical shop/catalog article number (digits only)."""
+    """Canonical shop/catalog article number (digits or Lima HL/HC prefix)."""
 
     value: str
 
@@ -21,9 +23,11 @@ class ArticleNumber:
         s = raw.strip()
         if not s or s.startswith("#"):
             raise ValueError(f"not an article number: {raw!r}")
-        # allow leading zeros stripped only if still 4–8 digits after strip of spaces
+        lima = _LIMA_SKU_RE.fullmatch(s)
+        if lima:
+            return cls(f"{lima.group(1).upper()}{lima.group(2)}")
         if not s.isdigit():
-            raise ValueError(f"article number must be digits: {raw!r}")
+            raise ValueError(f"article number must be digits or Lima HL/HC SKU: {raw!r}")
         return cls(s)
 
     def __str__(self) -> str:

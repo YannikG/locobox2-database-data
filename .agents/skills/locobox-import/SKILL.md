@@ -81,13 +81,14 @@ uv run locobox shop fetch --source SOURCE \
   --delay-min 2.5 --delay-max 6.0
 ```
 
-`SOURCE`: `piko` | `roco` | `trix`.
+`SOURCE`: `piko` | `roco` | `trix` | `lima`.
 
 - concurrency 1, `--skip-existing` default
 - HTML-Cache landet unter `.tmp/import/CAMPAIGN/html/` (nicht committen)
 - bei Block: stoppen, `.tmp/import/CAMPAIGN/blocked.txt` prüfen, ggf. Delay erhöhen / später Pro-Cloak
 - **kein** Glass/`cursor-ide-browser` für Batches, **kein** Chrome-MCP-Import
 - Trix: Produktdatenbank `trix.de/de/produkte/details/article/{nr}` (maerklinshop-Suche oft unbrauchbar für Neuheiten)
+- Lima: `it.limamodel.it` Suche → PDP (`/products/…-{hlxxxx}`); Suche oft leer bei OOS. SKUs `HL####` / `HC####`. Bei `no_pdp_link` HTML manuell cachen und `shop parse`
 
 ### 4. Parse + shared Pipeline
 
@@ -104,7 +105,7 @@ uv run locobox articles append-tag --mfr SOURCE --tag IMPORT_TAG \
 
 - Neu → Write inkl. Tag (wenn `--tag` gesetzt).
 - Existiert ohne `--append-tag-if-exists` → `skipped_existing`.
-- YAML-Rules: `rules/common/`, `rules/piko/`, `rules/roco/`.
+- YAML-Rules: `rules/common/`, `rules/piko/`, `rules/roco/` (Lima nutzt vorerst nur `common/`).
 
 ### 5. Loknummer-Review (Pflicht, kein Überspringen)
 
@@ -143,13 +144,13 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 
 | Feld | Wert |
 |------|------|
-| **Hersteller** | PIKO \| Roco \| Trix |
+| **Hersteller** | PIKO \| Roco \| Trix \| Lima |
 | **Import-Tag** | `{IMPORT_TAG}` \| ohne Tag |
 | **Kampagne (Working-Dir)** | `{CAMPAIGN}` unter `.tmp/import/` |
 | **Branch** | `{branch}` |
 | **Kandidaten / Approved** | `{N}` / `{M}` |
 | **Fetch** | ok={OK} fail={FAIL} skipped={S} blocked={yes/no} |
-| **JSON** | `{COUNT}` unter `articles/{piko\|roco\|trix}/` |
+| **JSON** | `{COUNT}` unter `articles/{piko\|roco\|trix\|lima}/` |
 | **Pipeline/Rules** | {kurz} |
 | **Loknummer-Review** | Pass 1 / Phase 2 Status (Skill `lok-numbering-article-review`) |
 | **Logikchecks / patch** | {kurz} |
@@ -163,7 +164,7 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 2. **Eine Pipeline nach Raw** — Fixes primär `rules/**/*.yaml`, dann `articles set-field`/`patch`.
 3. **Agent entscheidet Tool-Reihenfolge**, erfindet aber keine parallele MCP-/Utils-Pipeline.
 4. **Schweizer Text:** Umlaute, kein ß (Pipeline macht swiss-ss).
-5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix`.
+5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix|lima`.
 6. **Auto-Tag:** User nach Tag fragen; vorher `tags ensure`; Existing nicht überschreiben (skip oder `--append-tag-if-exists` / `articles append-tag`).
 7. **`.tmp/` only for scrapes** — PDFs, Katalogtext, Live-HTML, Logs, Queues nur unter `.tmp/` (gitignored). Keine vollen Shop-PDPs in `tests/fixtures/` oder sonst commitbaren Pfaden.
 8. **Nach Parse immer `lok-numbering-article-review`** — Skill lesen und starten (Pass 1 mindestens). Import ohne diesen Schritt ist nicht fertig; Handoff erst danach bzw. mit klarem Review-Status.

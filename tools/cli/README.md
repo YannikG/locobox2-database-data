@@ -38,7 +38,7 @@ uv run locobox catalog extract --source piko -t .tmp/piko_catalog.txt \
   --campaign demo --min-price-eur 120
 ```
 
-## Shop fetch + parse (PIKO / Roco / CloakBrowser)
+## Shop fetch + parse (PIKO / Roco / Trix / Lima / CloakBrowser)
 
 ```bash
 # nach queue approve …
@@ -66,9 +66,19 @@ uv run locobox shop fetch --source roco \
   --campaign demo --delay-min 2.5 --delay-max 6.0
 uv run locobox shop parse --source roco --campaign demo \
   --tag roco-neuheiten-2024
+
+# Lima Expert (limamodel.it Suche → PDP; SKUs HL#### / HC####)
+uv run locobox catalog extract --source lima -t .tmp/lima_catalog.txt --campaign demo
+uv run locobox shop fetch --source lima \
+  -a .tmp/import/demo/approved.txt \
+  --campaign demo --delay-min 2.5 --delay-max 6.0
+uv run locobox shop parse --source lima --campaign demo \
+  --tag lima-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `lima`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+
+Lima: offizieller Shop `it.limamodel.it`. PDP-Pfade enden mit `-{sku}` (z. B. `…/products/…-hl2664`); die Site-Suche liefert bei OOS/älteren Artikeln oft keine Treffer (ähnlich unsicherer Shop-Suche bei Trix). Dann HTML manuell unter `.tmp/import/{campaign}/html/` legen und `shop parse` fahren.
 
 ## Pipeline + YAML-Rules
 
@@ -121,7 +131,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco` / `trix` / `lima`)
 - `interfaces/cli/` — Typer
 
 ## Tests

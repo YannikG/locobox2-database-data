@@ -53,6 +53,9 @@ def _html_has_article_sku(html: str, article: str) -> bool:
         f"Artikelnummer: <span>{art}</span>",
         f'Artikelnummer:</td><td class="attribute-value">{art}</td>',
         f"Art.Nr. {art}",
+        f"Codice articolo: <br> {art}",
+        f"Item code: {art}",
+        f'product:retailer_item_id" content="{art}"',
         f'data-main-ordernumber="T{art}"',
         f'data-main-ordernumber="M{art}"',
         f'data-main-ordernumber="L{art}"',
@@ -88,6 +91,10 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
             return url
         return None
     if site.slug == "trix" or "trix.de" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            return url
+        return None
+    if site.slug == "lima" or "limamodel.it" in (page.url or "").lower():
         if site.is_pdp_url(url, article):
             return url
         return None

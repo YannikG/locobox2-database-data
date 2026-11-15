@@ -8,6 +8,7 @@ class Manufacturer(str, Enum):
     PIKO = "piko"
     ROCO = "roco"
     TRIX = "trix"
+    LIMA = "lima"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
@@ -24,6 +25,7 @@ class Manufacturer(str, Enum):
             Manufacturer.PIKO: "PIKO",
             Manufacturer.ROCO: "Roco",
             Manufacturer.TRIX: "Trix",
+            Manufacturer.LIMA: "Lima",
         }[self]
 
     @property

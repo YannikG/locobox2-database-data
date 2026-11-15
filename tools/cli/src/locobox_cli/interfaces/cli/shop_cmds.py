@@ -11,6 +11,7 @@ from locobox_cli.adapters.article_fs import FilesystemArticleRepository
 from locobox_cli.adapters.paths import find_repo_root
 from locobox_cli.adapters.rules_yaml import load_rules_tree
 from locobox_cli.adapters.shop_cloakbrowser import CloakShopFetcher
+from locobox_cli.adapters.sources.lima.parse_pdp import parse_lima_pdp
 from locobox_cli.adapters.sources.piko.parse_pdp import parse_piko_pdp
 from locobox_cli.adapters.sources.roco.parse_pdp import parse_roco_pdp
 from locobox_cli.adapters.sources.trix.parse_pdp import parse_trix_pdp
@@ -33,7 +34,7 @@ def _html_dir(root: Path, campaign: Optional[str], source: str) -> Path:
 
 @app.command("fetch")
 def fetch_cmd(
-    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix"),
+    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix | lima"),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
     delay_min: float = typer.Option(2.5, "--delay-min"),
@@ -89,7 +90,7 @@ def fetch_cmd(
 
 @app.command("parse")
 def parse_cmd(
-    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix"),
+    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix | lima"),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
     article: Optional[str] = typer.Option(None, "--article"),
@@ -213,6 +214,14 @@ def parse_cmd(
                 )
             elif mfr == Manufacturer.TRIX:
                 raw = parse_trix_pdp(
+                    html,
+                    canonical_url=canon,
+                    article=num,
+                    campaign_tag=import_tag,
+                    uvp_amount=uvp_by_article.get(num),
+                )
+            elif mfr == Manufacturer.LIMA:
+                raw = parse_lima_pdp(
                     html,
                     canonical_url=canon,
                     article=num,
