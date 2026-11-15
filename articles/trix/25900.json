@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25900",
+  "manufacturer": "Trix",
+  "articleNumber": "25900",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 294",
+    "number": "863-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Diesel-Rangierlokomotive Baureihe 294 der Deutschen Bahn AG. Verkehrsrote Grundfarbgebung. Betriebsnummer 294 863-6. Betriebszustand ab 2007.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Der Lokführer dreht sich in die jeweilige Fahrtrichtung und schaut bei Stillstand aus dem Fenster. Telex-Kupplung und Führerstandsbeleuchtung digital schaltbar. Kupplungswalzer. Führerstand mit Relief-Inneneinrichtung. Pufferhöhe nach NEM. Separat angesetzte Griffstangen, Geländer und Imitationen der automatischen Kupplung. Zusätzliche Trittstufen unter dem Führerstand für grössere Gleisradien und Bremsschläuche liegen als separat ansteckbare Teile bei. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25900",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f2/78/f278f503022b07a1463941531f0526161724173211.jpg"
+  },
+  "updatedAt": "2026-11-15T21:14:58Z"
+}

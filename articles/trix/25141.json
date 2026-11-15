@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25141",
+  "manufacturer": "Trix",
+  "articleNumber": "25141",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 679,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "141.R",
+    "number": "1244",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 279.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Öl-Tender 141.R.1244 für gemischten Betrieb, im optischen Zustand der Französischen Staatsbahnen (SNCF). Aktueller Betriebszustand, so wie die Lokomotive derzeit betriebsfähig beim Verein Mikado 1244 in Brugg in der Schweiz beheimatet ist.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben, davon drei Achsen über Kuppelstangen. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator. Fahrtrichtungsabhängig wechselndes Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Umschalten auf ein rotes Schlusslicht. Führerstandbeleuchtung, Fahrwerkbeleuchtung und Feuerbüchsen- / Brenner-Flackern jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe an Lok und Tender nach NEM. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 27,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25141",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b0/93/b09356a9454e145d801d28e2d2f3bb841724162411.jpg"
+  },
+  "updatedAt": "2026-11-15T21:15:47Z"
+}

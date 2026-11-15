@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25210",
+  "manufacturer": "Trix",
+  "articleNumber": "25210",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Elektrolokomotive BR 193 (Vectron) der SBB Cargo AG im neuen Design. Betriebszustand 2024.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des „Doppel-A-Lichts“. Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot schaltbar. Fernscheinwerfer digital schaltbar. Führerstandbeleuchtung digital schaltbar. Rangierlicht, Warnsignal und Falschfahrt digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Ansteckbare Bremsschläuche liegen separat bei. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-herbstneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25210",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e6/24/e624c9c6f12a67d75709c121ac12a3fc1726131607.jpg"
+  },
+  "updatedAt": "2026-11-15T21:14:57Z"
+}
