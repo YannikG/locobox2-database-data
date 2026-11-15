@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25323",
+  "manufacturer": "Trix",
+  "articleNumber": "25323",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 679.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 18",
+    "number": "323",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 272.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 18 323 mit Kohlen-Schlepptender 2´2 T29,6 der Deutschen Bundesbahn (DB). Ehemalige Badische IVh. Versuchslokomotive beim Bundesbahnversuchsamt Minden. Schwarz/rote Grundfarbgebung. Mit Witte-Windleitblechen und Indusi auf der Lokführer-Seite. Schornstein mit Caledonian-Krempe. Betriebszustand um 1966.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Fahrwerkbeleuchtung und Feuerbüchsenflackern sind ebenfalls separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe an Lok und Tender nach NEM. Befahrbarer Mindestradius 360 mm. Für grosse Radien oder Vitrine liegen enger anliegende Aufstiegstreppen unterhalb des Führerhauses zum Austausch bei. Kolbenstangenschutzrohre, Heiz- und Bremsschläuche liegen ebenfalls bei. Länge über Puffer 27,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25323",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/76/b2/76b2c0c814e89dcb33518aac6247de361709049616.jpg"
+  },
+  "updatedAt": "2026-11-15T21:24:18Z"
+}

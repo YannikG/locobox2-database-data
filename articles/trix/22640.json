@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22640",
+  "manufacturer": "Trix",
+  "articleNumber": "22640",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 140",
+    "number": "800-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 190.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 140 der Deutschen Bundesbahn (DB). Ausführung mit Verschleisspufferbohle. Ozeanblau/Elfenbeinfarbene Grundfarbgebung. Betriebsnummer 140 800-4. Betriebszustand ab 1986.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstands- und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Detailliert ausgeführte Dachaufbauten mit neu konstruierten Stromabnehmern der Bauart DBS 54. Stromabnehmer digital heb- und senkbar. Viele separat angesetzte Teile wie Griffstangen, Tritte und UIC-Steckdosen. Pufferhöhe nach NEM. Kinematikgeführte Kurzkupplungen. Lokführerfigur im Führerstand 1 sitzend. Bremsleitungen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 19 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-sommerneuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22640",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/8f/9c8f6c09d426424c4f627940dcb1ac0c1713189609.jpg"
+  },
+  "updatedAt": "2026-11-15T21:21:12Z"
+}
