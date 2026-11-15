@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25601",
+  "manufacturer": "Trix",
+  "articleNumber": "25601",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 260",
+    "number": "106-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel-Rangierlokomotive Baureihe 260 der Deutschen Bundesbahn (DB). Grundfarbgebung ozeanblau/elfenbein. Dieselhydraulischer Antrieb mit Blindwelle. Vorbauten und Führerhaus der Serienausführung. Kühlergitter in verstärkter Form mit breitem Rahmen. Führerhausdach in der Bauform der Loks bis ca. V 60 390. Führerhausdach mit Lüftungsklappen. Mit Zugbahnfunk und beidseitig Indusi. Erste Form des Schalldämpfers. Mit Dofa-Ofen ohne Kohlebehälter. Betriebsnummer 260 106-0. Betriebszustand um 1980.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Eine Achse angetrieben, zwei Achsen und Blindwelle über Kuppelstangen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Fahrwerksbeleuchtung digital schaltbar. Doppel-A-Licht schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden (LED). Mit Pufferspeicher. Telex-Kupplungen vorne und hinten jeweils separat digital schaltbar. Angesetzte Griffstangen und Geländer aus Metall. Länge über Puffer ca. 12 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25601",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d5/18/d51805286a02a1ca236048db0f85cbba1765803603.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

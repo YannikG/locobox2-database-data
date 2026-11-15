@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25350",
+  "manufacturer": "Trix",
+  "articleNumber": "25350",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/5",
+    "number": "10217",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 128.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 3/5 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Mit stirnseitigen Übergangsblechen und Falschfahrsignal über dem oberen Spitzensignal. Tannengrüne Grundfarbgebung mit grauem Fahrwerk. Lok-Betriebsnummer 10217. Betriebszustand 2022.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. Zwei Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Falschfahrsignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandbeleuchtung, Führerpultbeleuchtung, Blitzen am Schaltwerk und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Führerstand- und Maschinenraum-Nachbildung. Detaillierte Dachausrüstung mit Dachleitungen, Isolatoren und Dachlaufbrettern sowie Scherenstromabnehmer. Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer ca. 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25350",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/1e/ba1e5a45c37da483092a9d73e75208551765800013.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

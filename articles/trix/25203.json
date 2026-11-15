@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25203",
+  "manufacturer": "Trix",
+  "articleNumber": "25203",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 120",
+    "number": "323",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 202.0
+  },
+  "description": "Vorbild: Diesellokomotive BR 120 der Deutschen Reichsbahn (DR), auch bekannt unter dem Spitznamen „Taigatrommel“. Ausführung mit Schalldämpfer sowjetischer Bauart. Betriebszustand 1973. Betriebsnummer 120 323.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Seitlich angesetzte Griffstangen aus Metall. Frontschürze gegen geschlossene Frontschürzen austauschbar. Länge über Puffer ca. 20,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25203",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/97/72/9772a6837d5861a8d65bef47359952451765796409.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

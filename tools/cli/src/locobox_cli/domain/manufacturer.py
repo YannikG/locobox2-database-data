@@ -7,6 +7,7 @@ from enum import Enum
 class Manufacturer(str, Enum):
     PIKO = "piko"
     ROCO = "roco"
+    TRIX = "trix"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
@@ -22,6 +23,7 @@ class Manufacturer(str, Enum):
         return {
             Manufacturer.PIKO: "PIKO",
             Manufacturer.ROCO: "Roco",
+            Manufacturer.TRIX: "Trix",
         }[self]
 
     @property

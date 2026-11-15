@@ -13,6 +13,7 @@ from locobox_cli.adapters.rules_yaml import load_rules_tree
 from locobox_cli.adapters.shop_cloakbrowser import CloakShopFetcher
 from locobox_cli.adapters.sources.piko.parse_pdp import parse_piko_pdp
 from locobox_cli.adapters.sources.roco.parse_pdp import parse_roco_pdp
+from locobox_cli.adapters.sources.trix.parse_pdp import parse_trix_pdp
 from locobox_cli.adapters.sources.shop_site import shop_site_for
 from locobox_cli.application.articles.validate import ValidateArticle
 from locobox_cli.application.pipeline.run import RunArticlePipeline
@@ -32,7 +33,7 @@ def _html_dir(root: Path, campaign: Optional[str], source: str) -> Path:
 
 @app.command("fetch")
 def fetch_cmd(
-    source: str = typer.Option(..., "--source", "-s", help="piko | roco"),
+    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix"),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
     delay_min: float = typer.Option(2.5, "--delay-min"),
@@ -88,7 +89,7 @@ def fetch_cmd(
 
 @app.command("parse")
 def parse_cmd(
-    source: str = typer.Option(..., "--source", "-s", help="piko | roco"),
+    source: str = typer.Option(..., "--source", "-s", help="piko | roco | trix"),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
     article: Optional[str] = typer.Option(None, "--article"),
@@ -133,6 +134,14 @@ def parse_cmd(
             files.append((path.stem, path))
     if not files:
         raise typer.BadParameter("no HTML files found")
+
+    uvp_by_article: dict[str, float] = {}
+    if campaign:
+        approved = root / ".tmp" / "import" / campaign / "approved.txt"
+        if approved.is_file():
+            for entry in parse_queue_text(approved.read_text(encoding="utf-8")).entries:
+                if entry.price_eur is not None:
+                    uvp_by_article[entry.article.value] = float(entry.price_eur)
 
     pipeline = None
     if apply_pipeline:
@@ -198,10 +207,20 @@ def parse_cmd(
                 raw = parse_piko_pdp(
                     html, canonical_url=canon, article=num, campaign_tag=import_tag
                 )
-            else:
+            elif mfr == Manufacturer.ROCO:
                 raw = parse_roco_pdp(
                     html, canonical_url=canon, article=num, campaign_tag=import_tag
                 )
+            elif mfr == Manufacturer.TRIX:
+                raw = parse_trix_pdp(
+                    html,
+                    canonical_url=canon,
+                    article=num,
+                    campaign_tag=import_tag,
+                    uvp_amount=uvp_by_article.get(num),
+                )
+            else:
+                raise NotImplementedError(f"PDP parse for {mfr.slug!r} is not implemented yet")
             if pipeline:
                 raw = pipeline.run(raw).article
             validator.assert_valid(raw)

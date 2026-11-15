@@ -52,6 +52,13 @@ def _html_has_article_sku(html: str, article: str) -> bool:
         f'"sku":"{art}"',
         f"Artikelnummer: <span>{art}</span>",
         f'Artikelnummer:</td><td class="attribute-value">{art}</td>',
+        f"Art.Nr. {art}",
+        f'data-main-ordernumber="T{art}"',
+        f'data-main-ordernumber="M{art}"',
+        f'data-main-ordernumber="L{art}"',
+        f'data-ordernumber="T{art}"',
+        f'data-ordernumber="M{art}"',
+        f'data-ordernumber="L{art}"',
     )
     return any(m in html for m in markers)
 
@@ -80,10 +87,71 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
         if site.is_pdp_url(url, article):
             return url
         return None
+    if site.slug == "trix" or "trix.de" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            return url
+        return None
+    if "maerklinshop" in (page.url or "").lower() or site.slug in {
+        "maerklin",
+        "lgb",
+    }:
+        if site.is_pdp_url(url, article):
+            try:
+                html = page.content()
+            except Exception:
+                return None
+            if _html_has_article_sku(html, article):
+                return url
+        return None
     return None
 
 
+
+def _find_maerklin_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
+    """Match product box by Art.-Nr. / ordernumber; PDP path has no article SKU."""
+    art = article.strip()
+    try:
+        href = page.evaluate(
+            """(art) => {
+              const boxes = [...document.querySelectorAll('.product--box, .product--info')];
+              for (const box of boxes) {
+                const on = (box.getAttribute('data-ordernumber') || '').replace(/^[TML]/i, '');
+                const text = (box.innerText || '');
+                const hit = on === art
+                  || text.includes('Art.Nr. ' + art)
+                  || text.includes('Art.-Nr.: ' + art)
+                  || text.includes('Artikel-Nr.: ' + art)
+                  || text.includes('Artikel-Nr: ' + art);
+                if (!hit) continue;
+                const a = box.querySelector('a[href*="detail/index/sArticle"], a[href*="/detail/"]');
+                if (a && a.href) return a.href;
+              }
+              const links = [...document.querySelectorAll('a[href*="detail/index/sArticle"]')];
+              for (const a of links) {
+                const row = a.closest('.product--box, .product--info, li, article') || a.parentElement;
+                const blob = ((row && row.innerText) || '') + ' ' + (a.getAttribute('title') || '');
+                if (blob.includes(art)) return a.href;
+              }
+              return null;
+            }""",
+            art,
+        )
+    except Exception:
+        return None
+    if href and site.is_pdp_url(href, art):
+        return href
+    return None
+
+
+def _is_maerklin_shop(site: ShopSite) -> bool:
+    return "maerklinshop.de" in site.search_url("0")
+
+
 def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
+    if _is_maerklin_shop(site):
+        found = _find_maerklin_pdp_href(page, site, article)
+        if found:
+            return found
     links = page.eval_on_selector_all(
         "a[href]",
         """els => els.map(a => a.href).filter(Boolean)""",

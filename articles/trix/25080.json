@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25080",
+  "manufacturer": "Trix",
+  "articleNumber": "25080",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 80",
+    "number": "016",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 80 der Deutschen Bundesbahn. Ausführung mit drei Kesselaufbauten, Läutewerk und Turbodynamo links, Rauchkammertüre ohne Zentralverschluss mit Nummernschild mittig. Tiefschwarze Grundfarbgebung. Betriebsnummer 80 016. Betriebszustand um 1953.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Serienmässig eingebauter Rauchsatz. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Mit Pufferspeicher. Telex-Kupplung vorne und hinten jeweils separat digital schaltbar. Zahlreiche angesetzte Griffstangen und Leitungen. Pufferhöhe nach NEM. Bremsleitungen liegen als separat ansteckbare Teile bei. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25080",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/6a/f56ad465eb3d8504d403e0a55d4f31771765796414.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}

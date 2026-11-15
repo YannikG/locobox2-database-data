@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22740",
+  "manufacturer": "Trix",
+  "articleNumber": "22740",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 649.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01.10",
+    "number": "1059",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 277.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.10 mit Neubau-Hochleistungskessel und Kohlen-Schlepptender 2´3 T38 der Deutschen Bundesbahn (DB). Schwarze Grundfarbgebung mit rotem Fahrwerk. Ausführung ohne Stromlinienverkleidung. Mit silbernen Kesselringen. Zweilicht-Spitzensignal. Witte-Windleitbleche und einseitige Indusi. Lok-Betriebsnummer 01 1059. Betriebszustand nach Kessel-Umbau um 1955/56.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Feuerbüchsenflackern und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe an Lok und Tender nach NEM. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22740",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b8/a9/b8a9196015e5d10bcfb78fc2a52875291765796408.jpg"
+  },
+  "updatedAt": "2026-11-15T19:50:11Z"
+}
