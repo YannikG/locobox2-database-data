@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25110",
+  "manufacturer": "Trix",
+  "articleNumber": "25110",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1100",
+    "number": "1108",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 149.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie 1100 der Niederländischen Eisenbahnen (NS). Lokomotive aus der 1. Bauserie, ohne Frontverstärkung. Dunkelblauer Lok-Aufbau mit schwarzem Fahrwerk. Mit erhabenen Zierleisten. Drehgestelle mit abgerundeten Aussparungen. Lok-Betriebsnummer 1108. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal als umgekehrtes L-Signal (2 x gelb unten, 1 x weiss oben) und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet, dann Rangierbeleuchtung je Lokseite 1 x gelb unten. Führerstandbeleuchtung und Maschinenraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien gelben, warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit neu konstruierten Scherenstromabnehmern Faively G5. Am Drehgestell Kurzkupplungen im Normschacht. Pufferhöhe nach NEM. Bremsleitungen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer 14,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25110",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/49/b7/49b7dcccc0b14346181ae9341fafea011734109228.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}

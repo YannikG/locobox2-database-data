@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25059",
+  "manufacturer": "Trix",
+  "articleNumber": "25059",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 579.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 59",
+    "number": "032",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 235.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 59 (ehemalige Württ. K) mit Kohlen-Schlepptender 2 2 T20. Deutsche Bundesbahn (DB). Schwarze Grundfarbgebung mit rotem Fahrwerk. Betriebsnummer 59 032. Beheimatung BD Stuttgart, Bw Plochingen. Betriebszustand um 1949.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Achsen angetrieben. Haftreifen. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Mit Pufferspeicher. Verstellbare Kurzkupplung zwischen Lok und Tender. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25059",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/a7/e1a7f9e4c0182532147e302c203830cc1734109219.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}

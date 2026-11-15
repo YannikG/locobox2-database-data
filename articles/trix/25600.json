@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25600",
+  "manufacturer": "Trix",
+  "articleNumber": "25600",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 60",
+    "number": "390",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel-Rangierlokomotive Baureihe V 60 der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Dieselhydraulischer Antrieb mit Blindwelle. Vorbauten und Führerhaus der Serienausführung. Führerhausdach in der Bauform der Loks bis ca. V 60 390. Führerhausdach mit Lüftungsklappen. Erste Form des Schalldämpfers. Dofa-Ofen mit Kohlefeuerung, Kohlebehälter am rechten Umlauf hinter dem Dofa-Ofen. Betriebsnummer V 60 334. Betriebszustand um 1960.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Eine Achse angetrieben, zwei Achsen und Blindwelle über Kuppelstangen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Triebwerkbeleuchtung digital schaltbar. Doppel-A-Licht schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Telex-Kupplungen vorne und hinten jeweils separat digital schaltbar. Angesetzte Griffstangen und Geländer aus Metall. Länge über Puffer ca. 12 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25600",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d0/a8/d0a8f55d8611cd6b3ae09349392b75cd1734109220.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}

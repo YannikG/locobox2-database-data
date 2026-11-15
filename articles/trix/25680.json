@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25680",
+  "manufacturer": "Trix",
+  "articleNumber": "25680",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 569.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Ae 6/8",
+    "number": "207",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 233.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 6/8 der Bern-Lötschberg-Simplon Bahn (BLS). Lokomotive aus der 2. Bauserie. Dunkelbraune Grundfarbgebung mit schwarzem Fahrwerk. Ausführung im ursprünglichen Zustand mit 2 Pantographen und Bremswiderstände im Maschinenraum. Mit stirnseitigen Übergangsblechen und Falschfahrsignal. Signum-Integra Magnet am Lokende II. Längsseitig jeweils mit 4 Maschinenraum-Fenster und Lamellen-Lüftergitter. Lok-Betriebsnummer 207. Betriebszustand Ende 1940er-/Anfang 1950er-Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Jeweils beide äusseren Treibradsätze in jedem Treibgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Falschfahrsignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandbeleuchtung, Führerpultbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25680",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/54/fd54f18fd1996c687b5f53773f7f0fbf1744797616.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}

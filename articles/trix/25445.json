@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25445",
+  "manufacturer": "Trix",
+  "articleNumber": "25445",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 499,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "Norfolk Southern",
+    "type": "GE ES44AC",
+    "number": "8102",
+    "livery": "Pennsylvania RR",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schwere dieselelektrische Güterzuglokomotive Typ General Electric ES44AC der Norfolk Southern (NS). Grundfarbgebung in Tuscan Red der ehemaligen Pennsylvania RR. Betriebsnummer 8102. Aktueller Betriebszustand als Heritage-Lokomotive.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Je zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsunabhängig schaltbare Spitzenbeleuchtung bestehend aus je vier Lampen an der Front und am Heck der Lokomotive. Spitzensignal konventionell in Betrieb und jeweils paarweise separat digital abschaltbar. Führerstandsbeleuchtung, Betriebsnummerntafeln, Fernlicht und Blinkfunktion der Spitzenlichter digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Serienmässig eingebauter Rauchgenerator mit dynamischem Rauchausstoss, digital schaltbar. Viele separat angesetzte Details. Für den Betrieb mit Klauenkupplungen kann der NEM-Schacht mittels beiliegenden Klemmstücken fixiert werden. Ein Schienenräumer mit geringerer Aussparung für die Front, Bremsschläuche und zwei Klemmstücke für den NEM-Schacht liegen bei. Länge über Kupplung ca. 27 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25445",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/1d/251d5917ca1ba3a99c723252e0f0da281702908007.jpg"
+  },
+  "updatedAt": "2026-11-15T21:05:44Z"
+}

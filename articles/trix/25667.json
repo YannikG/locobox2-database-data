@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25667",
+  "manufacturer": "Trix",
+  "articleNumber": "25667",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 459.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "Ae 610",
+    "number": "519-1",
+    "livery": "Giubiasco",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 610 der SBB Cargo. Ultramarinblau/Feuerrote Grundfarbgebung. Betriebsnummer 610 519-1 mit Städtewappen Giubiasco. Betriebszustand ab 2005.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Je zwei Achsen in beiden Drehgestellen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Weitere separat schaltbare Lichtfunktionen: Umschalten auf ein rotes Schlusslicht, umschalten auf zwei rote Schlusslichter, umschalten auf Warnsignal und Rangierlicht. Führerstands- und Maschinenraumbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Viele angesetzte Details wie Griffstangen aus Metall. Kurzkupplungskinematik. Geschlossene Blenden für den Schienenräumer liegen als separat ansteckbare Teile bei. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25667",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/36/ee/36ee826d842df25e15305171e45932661734091206.jpg"
+  },
+  "updatedAt": "2026-11-15T21:05:37Z"
+}

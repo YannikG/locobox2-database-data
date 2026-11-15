@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25950",
+  "manufacturer": "Trix",
+  "articleNumber": "25950",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR E 95",
+    "number": "01",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 241.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Baureihe E 95 der Deutschen Reichsbahn-Gesellschaft (DRG). Für den Einsatz vor schweren Kohleganzzügen im schlesischen Netz. Blaugraue Grundfarbgebung. Die Elektrolokomotive war lange Zeit die grösste Elektrolokomotive Deutschlands. Lok-Betriebsnummer E 95 01. Betriebszustand um 1928.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jeder Lokhälfte. Jeweils beide äussere Treibradsätze in jeder Treibradgruppe angetrieben. 2 Haftreifen. Beide Lokhälften über kulissengeführte Verbindung fest miteinander gekuppelt. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zusätzlich 3. Spitzenlicht oben als Zugbegegnungslicht jeweils in Fahrtrichtung vorne separat digital schaltbar. Führerstand-Beleuchtung und Maschinenraum-Beleuchtung in jeder Lokhälfte jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Mit Pufferspeicher. Heb- und senkbarer Pantograph in jeder Lokhälfte separat digital schaltbar. Hochdetaillierte Ausführung weitgehend aus Metall, mit vielen separat angesetzten Einzelheiten. Kinematikgeführte Kurzkupplungen mit NEM-Schacht an beiden Lokenden. Pufferhöhe nach NEM. Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen zum Nachrüsten bei. Länge über Puffer 24,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25950",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c0/53/c05399a045634746715843863f1297491730100002.jpg"
+  },
+  "updatedAt": "2026-11-15T20:34:27Z"
+}
