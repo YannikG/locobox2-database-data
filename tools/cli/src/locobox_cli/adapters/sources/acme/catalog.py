@@ -48,6 +48,8 @@ _SKU_PRICE = re.compile(
 # Sound / AC-sound siblings often 69xxx next to 60xxx DC locos.
 _LOCO_PREFIXES = ("60", "69")
 _NON_LOCO_PREFIXES = ("50", "51", "52", "55", "70", "79", "90")
+# Herbst layout: UVP alone on the next line under a pair of loco SKUs.
+_ORPHAN_PRICE = re.compile(r"^\s*(?P<price>\d{2,4})\s*$")
 
 
 def _norm(s: str) -> str:
@@ -98,16 +100,26 @@ def extract_acme_catalog_rows(
     rows: list[CatalogRow] = []
     seen: set[str] = set()
     prices: dict[str, float] = {}
+    pending_price_skus: list[str] = []
 
     for line in raw:
         stripped = line.strip()
         if not stripped:
             continue
 
+        orphan = _ORPHAN_PRICE.match(stripped)
+        if orphan and pending_price_skus:
+            price = float(orphan.group("price"))
+            for sku in pending_price_skus:
+                prices.setdefault(sku, price)
+            pending_price_skus = []
+            continue
+
         if _NON_LOCO_TITLE.match(stripped) and len(stripped) < 120:
             product = "nonloco"
             kind = stripped.split()[0][:40]
             title = stripped[:240]
+            pending_price_skus = []
             continue
 
         loco = _LOCO_HEADER.match(stripped) or _LOCO_BODY.match(stripped)
@@ -117,6 +129,7 @@ def extract_acme_catalog_rows(
             title = stripped[:240]
             continue
 
+        line_skus: list[str] = []
         for m in _SKU_PRICE.finditer(line):
             prices[m.group("sku")] = float(m.group("price"))
 
@@ -134,31 +147,28 @@ def extract_acme_catalog_rows(
                     continue
 
             accept = False
-            row_kind = kind
-            if product == "loco":
-                # ACME loco SKUs are 60xxx (DC) / 69xxx (sound). Ignore ZIP codes
-                # and other five-digit noise on the same flyer page.
-                accept = art.startswith(_LOCO_PREFIXES)
+            row_kind = kind if product == "loco" else "Lokomotive"
+            # 60xxx / 69xxx are always locomotives in ACME numbering, even when
+            # the previous block was a set/coach page (Herbst: SKU before title).
+            if art.startswith(_LOCO_PREFIXES):
+                accept = True
+                if product == "loco":
+                    row_kind = kind
+            elif product == "loco":
+                accept = True
             elif product == "nonloco":
                 accept = False
-            elif art.startswith(_LOCO_PREFIXES):
-                # Bare 60xxx/69xxx without a fresh title still look like locos.
-                accept = True
-                row_kind = "Lokomotive" if row_kind == "Lokomotive" else row_kind
 
             if locomotives_only and not accept:
                 continue
             if not locomotives_only:
-                if product == "nonloco":
-                    continue
                 if not accept:
-                    # Broad extract: other SKUs only with loco page context, still
-                    # skip hard non-loco prefixes handled above.
                     if product != "loco" or art.startswith(_NON_LOCO_PREFIXES):
                         continue
                     accept = True
 
             seen.add(art)
+            line_skus.append(art)
             ctx = (title or stripped)[:240]
             rows.append(
                 CatalogRow(
@@ -169,6 +179,11 @@ def extract_acme_catalog_rows(
                     line_context=ctx,
                 )
             )
+
+        if line_skus and any(s.startswith(_LOCO_PREFIXES) for s in line_skus):
+            pending_price_skus = [s for s in line_skus if s.startswith(_LOCO_PREFIXES)]
+        elif not orphan:
+            pending_price_skus = []
 
     # Fill prices discovered after the SKU line (flyer sound SKU then price elsewhere).
     for i, row in enumerate(rows):

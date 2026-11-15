@@ -59,3 +59,17 @@ def test_shop_site_flyer_url() -> None:
     assert site.fallback_pdp_url("60655") == "https://www.acmetreni.it/files/AC60655.pdf"
     assert site.is_pdp_url("https://www.acmetreni.it/files/AC60655.pdf", "60655")
     assert not site.is_pdp_url("https://www.acmetreni.it/files/AC60654.pdf", "60655")
+
+
+def test_herbst_sku_before_title_still_extracts_locos() -> None:
+    text = (
+        Path(__file__).parent / "fixtures" / "acme_herbst_sku_before_title.txt"
+    ).read_text(encoding="utf-8")
+    rows = extract_acme_catalog_rows(text)
+    arts = {r.article for r in rows}
+    assert arts == {"60741", "69741", "60197", "69197"}
+    by_art = {r.article: r for r in rows}
+    assert by_art["60741"].price_eur == 217.0
+    assert by_art["69741"].price_eur == 217.0
+    assert by_art["60197"].price_eur == 197.0
+    assert "55390" not in arts

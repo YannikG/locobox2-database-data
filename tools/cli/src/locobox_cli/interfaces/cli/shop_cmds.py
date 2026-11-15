@@ -132,15 +132,29 @@ def parse_cmd(
             raise typer.Exit(code=1) from exc
 
     files: list[tuple[str, Path]] = []
+
+    def _article_from_stem(stem: str) -> str:
+        s = stem.strip()
+        if mfr == Manufacturer.ACME and s.upper().startswith("AC") and s[2:].isdigit():
+            return s[2:]
+        return s
+
     if html_file:
-        num = article or html_file.stem
+        num = article or _article_from_stem(html_file.stem)
         files.append((num, html_file))
     else:
         d = html_dir or _html_dir(root, campaign, mfr.slug)
         for path in sorted(d.glob("*.html")):
-            files.append((path.stem, path))
+            files.append((_article_from_stem(path.stem), path))
+        # ACME: flyer pdftotext dumps (no HTML PDP).
+        if mfr == Manufacturer.ACME:
+            for path in sorted(d.glob("*.txt")):
+                files.append((_article_from_stem(path.stem), path))
     if not files:
-        raise typer.BadParameter("no HTML files found")
+        raise typer.BadParameter(
+            "no HTML files found"
+            + (" (ACME also accepts *.txt flyer text)" if mfr == Manufacturer.ACME else "")
+        )
 
     uvp_by_article: dict[str, float] = {}
     if campaign:

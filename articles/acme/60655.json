@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "acme-60655",
+  "manufacturer": "ACME",
+  "articleNumber": "60655",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 212.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "SBB Re 450 060",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "Lokomotive Re 450 060 für den Vorortverkehr der Stadt Zürich mit roter Lackierung und „Zürichsee“-Dekoration auf der linken Seite.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "acme-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.acmetreni.it/files/AC60655.pdf",
+    "notes": "Daten aus ACME-Flyer-PDF (pdftotext), automatisch geparsed."
+  },
+  "updatedAt": "2026-11-15T22:19:04Z"
+}
