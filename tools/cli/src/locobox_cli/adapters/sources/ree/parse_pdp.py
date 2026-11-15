@@ -189,7 +189,28 @@ def _type_and_number_from_title(title: str, article: str) -> tuple[str, Optional
         return "RGP 1", number, livery
     if re.search(r"\btgv\b", t, re.I):
         return "TGV PSE", number, livery
-    return (t or "Unbekannt"), number, livery
+    # HOm/HOe autorails (Billard / De Dion)
+    t2 = re.sub(r"^\[[^\]]+\]\s*:\s*", "", t)
+    t2 = re.sub(
+        r"\s*[-–—,]\s*(?:DIGITAL\s+SOUND|DCC\s+SOUND|AC\s+SOUND|ANALOGIQUE|ANALOG)\s*$",
+        "",
+        t2,
+        flags=re.I,
+    )
+    t2 = re.sub(r"\s*,?\s*Ep\.?\s*[IVX]+(?:\s*[-/]\s*[IVX]+)?\s*$", "", t2, flags=re.I)
+    t2 = re.sub(r"\s+", " ", t2).strip(" -–—,")
+    if re.search(r"billard|a80\s*d1|de\s*dion", t2, re.I):
+        if re.search(r"a80\s*d1", t2, re.I):
+            typ = "Billard A80 D1"
+        elif re.search(r"de\s*dion", t2, re.I):
+            typ = "De Dion ND"
+        else:
+            typ = "Autorail"
+        m_n = re.search(r"\b(?:n[°ºo]|N°|X)\s*([0-9]{2,4})\b", t2, re.I)
+        if m_n:
+            number = m_n.group(1)
+        return typ, number, livery
+    return (t2 or t or "Unbekannt"), number, livery
 
 
 def _price_from_product(product: dict[str, Any]) -> Optional[float]:
@@ -260,8 +281,8 @@ def parse_ree_pdp(
 
     return {
         "schemaVersion": "1.0.0",
-        "id": f"ree-{wanted.value.lower()}",
-        "manufacturer": "REE Modèles",
+        "id": f"ree-{wanted.value}",
+        "manufacturer": "REE",
         "articleNumber": wanted.value,
         "releaseDate": release,
         "uvp": uvp,

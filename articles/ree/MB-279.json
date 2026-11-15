@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-279",
+  "manufacturer": "REE",
+  "articleNumber": "MB-279",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25179",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "[HO] : BB 25179 THIONVILLE Livrée FRET, Ep.V-VI - ANALOGIQUE - MB279",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4096--ho-bb-25179-thionville-livree-fret-epv-vi-analogique-mb279-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2258-large_default/-ho-bb-25179-thionville-livree-fret-epv-vi-analogique-mb279.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

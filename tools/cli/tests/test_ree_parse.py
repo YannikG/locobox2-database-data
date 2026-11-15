@@ -41,9 +41,9 @@ def test_parse_ree_pdp_sample() -> None:
         article="MB-263S",
         campaign_tag="ree-neuheiten-2026",
     )
-    assert art["manufacturer"] == "REE Modèles"
+    assert art["manufacturer"] == "REE"
     assert art["articleNumber"] == "MB-263S"
-    assert art["id"] == "ree-mb-263s"
+    assert art["id"] == "ree-MB-263S"
     assert art["uvp"]["amount"] == 374.17
     assert art["model"]["scale"] == "H0"
     assert art["model"]["era"] == "III-IV"

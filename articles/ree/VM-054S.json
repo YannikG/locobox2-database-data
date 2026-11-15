@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-054S",
+  "manufacturer": "REE",
+  "articleNumber": "VM-054S",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "De Dion ND",
+    "number": "202",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Vivarais-Lozère n°202, DCC Sound – VM054S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/2315--hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-lozere-n202-dcc-sound-vm054s-0637902943281.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/392-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-lozere-n202-dcc-sound-vm054s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

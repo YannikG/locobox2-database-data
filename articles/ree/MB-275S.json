@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-275S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-275S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "RGP 1",
+    "number": "X 2776",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Rame RGP 1 – X 2776, L'ARBALETE, Rouge TEE, Ep.III-IV - DCC SOUND - MB275S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3996--ho-rame-rgp-1-x-2776-l-arbalete-rouge-tee-epiii-iv-dcc-sound-mb275s-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

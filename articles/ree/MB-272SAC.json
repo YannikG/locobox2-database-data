@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-272SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-272SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 25100",
+    "number": "BB 25188",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : BB 25188 CHAMBERY Béton, logo Nouille Ep.V-VI, (Sauvegardée par l'APMFS) - DCC 3 RAILS - MB272SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4092--ho-bb-25188-chambery-beton-logo-nouille-epv-vi-sauvegardee-par-l-apmfs-dcc-3-rails-mb272sac-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

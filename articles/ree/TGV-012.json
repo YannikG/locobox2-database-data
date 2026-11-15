@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-012",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-012",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": "LA POSTE",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : TGV PSE « LA POSTE » Suspension pneumatique SNCF Ep. IV-V (1984-1994) - ANALOGIQUE / DCC SOUND - TGV012",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/4057--ho-tgv-pse-la-poste-suspension-pneumatique-sncf-ep-iv-v-1984-1994-analogique-dcc-sound-tgv012.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2266-large_default/-ho-tgv-pse-la-poste-suspension-pneumatique-sncf-ep-iv-v-1984-1994-analogique-dcc-sound-tgv012.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-060",
+  "manufacturer": "REE",
+  "articleNumber": "VM-060",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "Billard A80 D1",
+    "number": "608",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HOe/HOm] : Autorail A80 D1 à caisse étroite des CF de Dordogne N°608, 1 phare, bleu/gris Perle, ANALOGIQUE, Ep.III - VM060",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/echelle-hom-hoe/3898--hoe-hom-autorail-a80-d1-a-caisse-etroite-des-cf-de-dordogne-n608-1-phare-bleu-gris-perle-analogique-epiii-vm060-0637902902455.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2127-large_default/-hoe-hom-autorail-a80-d1-a-caisse-etroite-des-cf-de-dordogne-n608-1-phare-bleu-gris-perle-analogique-epiii-vm060.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

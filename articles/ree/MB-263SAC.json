@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-263SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-263SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9300",
+    "number": "BB 9317",
+    "livery": "Mistral",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : BB 9317 VILLENEUVE “Mistral” Verte Origine Ep.III-IV - DCC 3 RAILS - MB263SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/3881--ho-bb-9317-villeneuve-mistral-verte-origine-epiii-iv-dcc-3-rails-mb263sac-0652733591197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2226-large_default/-ho-bb-9317-villeneuve-mistral-verte-origine-epiii-iv-dcc-3-rails-mb263sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

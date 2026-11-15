@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-272",
+  "manufacturer": "REE",
+  "articleNumber": "MB-272",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 25100",
+    "number": "BB 25188",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : BB 25188 CHAMBERY Béton, logo Nouille Ep.V-VI, (Sauvegardée par l'APMFS) - ANALOGIQUE - MB272",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4090--ho-bb-25188-chambery-beton-logo-nouille-epv-vi-sauvegardee-par-l-apmfs-analogique-mb272-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

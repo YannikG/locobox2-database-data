@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-265",
+  "manufacturer": "REE",
+  "articleNumber": "MB-265",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9300",
+    "number": "BB 9332",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 9332 VILLENEUVE Verte Origine Interphonie Ep.IV - ANALOGIQUE - MB265",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/3885--ho-bb-9332-villeneuve-verte-origine-interphonie-epiv-analogique-mb265-0652733591197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2230-large_default/-ho-bb-9332-villeneuve-verte-origine-interphonie-epiv-analogique-mb265.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

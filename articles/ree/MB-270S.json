@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-270S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-270S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25180",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 25180 CHAMBERY Verte Ep.IV - DIGITAL SOUND - MB270S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4085--ho-bb-25180-chambery-verte-epiv-digital-sound-mb270s-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2247-large_default/-ho-bb-25180-chambery-verte-epiv-digital-sound-mb270s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

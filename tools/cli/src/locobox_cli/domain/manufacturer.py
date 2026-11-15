@@ -25,7 +25,7 @@ class Manufacturer(str, Enum):
             Manufacturer.PIKO: "PIKO",
             Manufacturer.ROCO: "Roco",
             Manufacturer.TRIX: "Trix",
-            Manufacturer.REE: "REE Modèles",
+            Manufacturer.REE: "REE",
         }[self]
 
     @property

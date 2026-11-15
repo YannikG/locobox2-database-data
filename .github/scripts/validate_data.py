@@ -22,7 +22,8 @@ ALLOWED_SOURCE_HOSTS_PATH = CONFIG_DIR / "allowed-source-hosts.json"
 
 CONFIG_SKIP_NAMES = {"skills-lock.json", "allowed-source-hosts.json"}
 
-ARTICLE_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+# Manufacturer slug (lowercase) + article number (may be alphanumeric, e.g. REE MB-263S).
+ARTICLE_ID_RE = re.compile(r"^[a-z0-9]+(?:-[A-Za-z0-9]+)+$")
 HOST_RE = re.compile(
     r"^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9-]*[a-z0-9])?)+$"
 )

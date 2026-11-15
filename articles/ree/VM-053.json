@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-053",
+  "manufacturer": "REE",
+  "articleNumber": "VM-053",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "De Dion ND",
+    "number": "201",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "[HOe/HOm] : Autorail DE DION type ND sans aérateurs, CFD Vivarais-Lozère n°201, Analogique - VM053",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/2312--hoe-hom-autorail-de-dion-type-nd-sans-aerateurs-cfd-vivarais-lozere-n201-analogique-vm053-0637902410424.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/386-large_default/-hoe-hom-autorail-de-dion-type-nd-sans-aerateurs-cfd-vivarais-lozere-n201-analogique-vm053.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-271SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-271SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25187",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 25187 CHAMBERY Verte, avec interphonie Ep.IV - DCC 3 RAILS - MB271SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-a-vapeur/4089--ho-bb-25187-chambery-verte-avec-interphonie-epiv-dcc-3-rails-mb271sac-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2250-large_default/-ho-bb-25187-chambery-verte-avec-interphonie-epiv-dcc-3-rails-mb271sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

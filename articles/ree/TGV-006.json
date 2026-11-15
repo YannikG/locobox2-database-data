@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-006",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-006",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 209.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Coffret de remorques TGV PSE rame n°5, 3 éléments (Remorques R2, R5, R6), Ep. IV, DC - TGV006",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1675--ho-coffret-de-remorques-tgv-pse-rame-n5-3-elements-remorques-r2-r5-r6-ep-iv-dc-tgv006.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/409-large_default/-ho-coffret-de-remorques-tgv-pse-rame-n5-3-elements-remorques-r2-r5-r6-ep-iv-dc-tgv006.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

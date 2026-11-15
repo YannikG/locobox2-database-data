@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-269SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-269SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25247",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 25247 MONTROUGE Verte avec enjoliveur Ep.IV - DCC 3 RAILS - MB269SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4083--ho-bb-25247-montrouge-verte-avec-enjoliveur-epiv-dcc-3-rails-mb269sac-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2244-large_default/-ho-bb-25247-montrouge-verte-avec-enjoliveur-epiv-dcc-3-rails-mb269sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

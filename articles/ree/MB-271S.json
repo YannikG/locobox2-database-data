@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-271S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-271S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25187",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 25187 CHAMBERY Verte, avec interphonie Ep.IV - DIGITAL SOUND - MB271S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4088--ho-bb-25187-chambery-verte-avec-interphonie-epiv-digital-sound-mb271s-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2249-large_default/-ho-bb-25187-chambery-verte-avec-interphonie-epiv-digital-sound-mb271s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}
