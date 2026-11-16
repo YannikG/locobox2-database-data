@@ -60,7 +60,10 @@ def normalize_cmd(
 @app.command("diff")
 def diff_cmd(
     manufacturer: str = typer.Option(
-        ..., "--mfr", "-m", help="Manufacturer slug (piko|roco|trix|jouef)"
+        ...,
+        "--mfr",
+        "-m",
+        help="Manufacturer slug (piko|roco|trix|ree|lsmodels|jouef|bemo|acme)",
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Queue .txt"),
     out_missing: Optional[Path] = typer.Option(None, "--out-missing", help="Write missing numbers"),

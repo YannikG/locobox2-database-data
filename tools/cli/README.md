@@ -30,7 +30,7 @@ uv run locobox queue clear --campaign demo --yes
 
 Fetch erst auf **Approved**-Queue.
 
-## Catalog (PIKO / Roco / Trix / Jouef)
+## Catalog (PIKO / Roco / Trix / Jouef / ACME)
 
 ```bash
 uv run locobox catalog pdf-to-text --pdf ../../katalog.pdf -o .tmp/piko_catalog.txt
@@ -40,9 +40,13 @@ uv run locobox catalog extract --source piko -t .tmp/piko_catalog.txt \
 # Jouef (HJ#### / HJ####S aus Katalogtext; Shop-Fetch noch nicht verdrahtet)
 uv run locobox catalog extract --source jouef -t .tmp/jouef_catalog.txt \
   --campaign jouef-demo --locomotives-only
+
+# ACME: year catalog or flyer pdftotext (no webshop; flyers at …/files/AC{nr}.pdf)
+uv run locobox catalog extract --source acme -t .tmp/acme_catalog.txt \
+  --campaign acme-demo --locomotives-only
 ```
 
-## Shop fetch + parse (PIKO / Roco / Trix / REE / LS Models / CloakBrowser)
+## Shop fetch + parse (PIKO / Roco / Trix / REE / LS Models / ACME / CloakBrowser)
 
 ```bash
 # nach queue approve …
@@ -80,9 +84,11 @@ uv run locobox shop parse --source lsmodels --campaign demo \
   --tag lsmodels-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
 
 LS Models: offizieller Shop `lsmodels.eu`. Suche mit kompakter Artikelnummer, PDP-URLs nutzen interne PrestaShop-IDs. Sound-Suffix `S` und Models-World `MW…` werden im Catalog-Extract vorerst übersprungen. UVP fehlt im Shop oft.
+
+ACME: kein Webshop. Catalog/Flyer via `pdftotext`; Produktblatt `https://www.acmetreni.it/files/AC{article}.pdf`. `shop parse` akzeptiert Flyer-`.txt`.
 
 ## Pipeline + YAML-Rules
 
@@ -135,7 +141,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef` / `acme`)
 - `interfaces/cli/` — Typer
 
 ## Tests

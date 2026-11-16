@@ -97,3 +97,11 @@ def test_parse_lsmodels_pdp_with_uvp_from_queue() -> None:
         uvp_amount=189.0,
     )
     assert art["uvp"] == {"amount": 189.0, "currency": "EUR"}
+
+
+def test_canon_reference_strips_dc_ac_sound() -> None:
+    from locobox_cli.adapters.sources.lsmodels.parse_pdp import _canon_reference
+
+    assert _canon_reference("13001 DC") == "13001"
+    assert _canon_reference("13001 AC S") == "13001"
+    assert _canon_reference("16 075") == "16075"

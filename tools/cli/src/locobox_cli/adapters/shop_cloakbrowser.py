@@ -45,7 +45,7 @@ def _dismiss_cookies(page) -> None:
 
 def _html_has_article_sku(html: str, article: str) -> bool:
     """True when PDP HTML marks ``article`` as the product SKU (not a substring hit)."""
-    art = article.strip()
+    art = article.strip().replace(" ", "")
     if not art:
         return False
     markers = (
@@ -65,7 +65,21 @@ def _html_has_article_sku(html: str, article: str) -> bool:
         f'data-ordernumber="M{art}"',
         f'data-ordernumber="L{art}"',
     )
-    return any(m in html for m in markers)
+    if any(m in html for m in markers):
+        return True
+    # LS Models PrestaShop: reference is often "13001 DC" / "13001 AC".
+    for suffix in (" DC", " AC", " DC S", " AC S"):
+        for pat in (
+            f'reference&quot;:&quot;{art}{suffix}&quot;',
+            f'"reference":"{art}{suffix}"',
+            f"Artikel-Nr.: {art}{suffix}",
+            f"Reference: {art}{suffix}",
+            f'itemprop="sku">{art}{suffix}<',
+            f'itemprop="sku" >{art}{suffix}<',
+        ):
+            if pat in html:
+                return True
+    return False
 
 
 def _is_piko_artikel_url(url: str) -> bool:
@@ -108,6 +122,11 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
                 return None
             if _html_has_article_sku(html, article):
                 return url
+        return None
+    if site.slug == "acme":
+        # Flyer PDF URL is the product sheet; no HTML PDP to discover.
+        if site.is_pdp_url(url, article):
+            return url
         return None
     if "maerklinshop" in (page.url or "").lower() or site.slug in {
         "maerklin",
@@ -166,7 +185,10 @@ def _is_maerklin_shop(site: ShopSite) -> bool:
 
 
 def _find_lsmodels_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
-    """Match product miniature by Artikel-Nr.; PDP path has internal PrestaShop id only."""
+    """Match product miniature by Artikel-Nr.; PDP path has internal PrestaShop id only.
+
+    Prefer exact ``{art} DC`` (then bare ``{art}``) over AC/Sound variants.
+    """
     art = article.strip().replace(" ", "")
     try:
         href = page.evaluate(
@@ -174,26 +196,37 @@ def _find_lsmodels_pdp_href(page, site: ShopSite, article: str) -> Optional[str]
               const boxes = [...document.querySelectorAll(
                 'article.js-product-miniature, article.ajax_block_product, .js-product-miniature'
               )];
-              const wanted = [
-                'Artikel-Nr.: ' + art,
-                'Artikel-Nr. ' + art,
-                'Reference: ' + art,
-              ];
-              for (const box of boxes) {
+              const norm = (s) => (s || '').replace(/\\s+/g, ' ').trim();
+              const skuOf = (box) => {
                 const ref = box.querySelector('.pro_list_reference, [itemprop="sku"]');
-                const refText = ((ref && ref.innerText) || '').replace(/\\s+/g, ' ').trim();
-                // Exact SKU only (skip Sound "16075 S").
-                if (!wanted.includes(refText)) {
-                  const blob = ((box.innerText || '') + ' ' + refText).replace(/\\s+/g, ' ');
-                  const hit = wanted.some((w) => blob.includes(w))
-                    && !blob.includes(art + ' S')
-                    && !blob.includes(art + 'S');
-                  if (!hit) continue;
-                }
+                let t = norm((ref && ref.innerText) || '');
+                t = t.replace(/^Artikel-Nr\\.:\\s*/i, '')
+                     .replace(/^Artikel-Nr\\.\\s*/i, '')
+                     .replace(/^Reference:\\s*/i, '')
+                     .replace(/^Référence:\\s*/i, '');
+                return t;
+              };
+              // Prefer DC analogue/digital base over AC and Sound.
+              const rank = (sku) => {
+                if (sku === art + ' DC') return 0;
+                if (sku === art) return 1;
+                if (sku === art + ' AC') return 2;
+                if (sku === art + ' DC S') return 3;
+                if (sku === art + ' AC S') return 4;
+                return 99;
+              };
+              let best = null;
+              let bestRank = 98;
+              for (const box of boxes) {
+                const sku = skuOf(box);
+                const r = rank(sku);
+                if (r >= bestRank) continue;
                 const a = box.querySelector('a[href*=".html"]');
-                if (a && a.href) return a.href;
+                if (!a || !a.href) continue;
+                best = a.href;
+                bestRank = r;
               }
-              return null;
+              return best;
             }""",
             art,
         )

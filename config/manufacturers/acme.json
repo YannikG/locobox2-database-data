@@ -1,6 +1,8 @@
 {
   "schemaVersion": "1.0.0",
-  "name": "Acme",
+  "name": "ACME",
   "slug": "acme",
-  "description": "Herstellerprofil für ACME Modelleisenbahnartikel."
+  "description": "ACME (Associazione Costruzione Modelli Esatti) ist ein italienischer Hersteller für H0-Modelleisenbahnartikel. Produkte werden über Katalog- und Flyer-PDFs auf acmetreni.it kommuniziert; es gibt keinen eigenen Webshop.",
+  "website": "https://www.acmetreni.it",
+  "country": "IT"
 }

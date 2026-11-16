@@ -81,7 +81,7 @@ uv run locobox shop fetch --source SOURCE \
   --delay-min 2.5 --delay-max 6.0
 ```
 
-`SOURCE`: `piko` | `roco` | `trix` | `ree` | `lsmodels` (Shop). `jouef` für `catalog extract`; Shop-Fetch/Parse für Jouef noch Stub.
+`SOURCE`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` (Shop/Flyer). `jouef` für `catalog extract`; Shop-Fetch/Parse für Jouef noch Stub.
 
 - concurrency 1, `--skip-existing` default
 - HTML-Cache landet unter `.tmp/import/CAMPAIGN/html/` (nicht committen)
@@ -165,7 +165,7 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 2. **Eine Pipeline nach Raw** — Fixes primär `rules/**/*.yaml`, dann `articles set-field`/`patch`.
 3. **Agent entscheidet Tool-Reihenfolge**, erfindet aber keine parallele MCP-/Utils-Pipeline.
 4. **Schweizer Text:** Umlaute, kein ß (Pipeline macht swiss-ss).
-5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix|ree|lsmodels` (Jouef: Catalog zuerst).
+5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix|ree|lsmodels|acme` (ACME: Flyer-URL / pdftotext; Jouef: Catalog zuerst, Shop-Stub).
 6. **Auto-Tag:** User nach Tag fragen; vorher `tags ensure`; Existing nicht überschreiben (skip oder `--append-tag-if-exists` / `articles append-tag`).
 7. **`.tmp/` only for scrapes** — PDFs, Katalogtext, Live-HTML, Logs, Queues nur unter `.tmp/` (gitignored). Keine vollen Shop-PDPs in `tests/fixtures/` oder sonst commitbaren Pfaden.
 8. **Nach Parse immer `lok-numbering-article-review`** — Skill lesen und starten (Pass 1 mindestens). Import ohne diesen Schritt ist nicht fertig; Handoff erst danach bzw. mit klarem Review-Status.

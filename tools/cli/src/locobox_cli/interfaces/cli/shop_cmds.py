@@ -11,6 +11,7 @@ from locobox_cli.adapters.article_fs import FilesystemArticleRepository
 from locobox_cli.adapters.paths import find_repo_root
 from locobox_cli.adapters.rules_yaml import load_rules_tree
 from locobox_cli.adapters.shop_cloakbrowser import CloakShopFetcher
+from locobox_cli.adapters.sources.acme.parse_pdp import parse_acme_pdp
 from locobox_cli.adapters.sources.jouef.parse_pdp import parse_jouef_pdp
 from locobox_cli.adapters.sources.jouef.shop_site import JouefShopNotImplementedError
 from locobox_cli.adapters.sources.piko.parse_pdp import parse_piko_pdp
@@ -38,7 +39,7 @@ def _html_dir(root: Path, campaign: Optional[str], source: str) -> Path:
 @app.command("fetch")
 def fetch_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | jouef"
+        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | jouef | acme"
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
@@ -103,7 +104,7 @@ def fetch_cmd(
 @app.command("parse")
 def parse_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | jouef"
+        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | jouef | acme"
     ),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
@@ -140,15 +141,29 @@ def parse_cmd(
             raise typer.Exit(code=1) from exc
 
     files: list[tuple[str, Path]] = []
+
+    def _article_from_stem(stem: str) -> str:
+        s = stem.strip()
+        if mfr == Manufacturer.ACME and s.upper().startswith("AC") and s[2:].isdigit():
+            return s[2:]
+        return s
+
     if html_file:
-        num = article or html_file.stem
+        num = article or _article_from_stem(html_file.stem)
         files.append((num, html_file))
     else:
         d = html_dir or _html_dir(root, campaign, mfr.slug)
         for path in sorted(d.glob("*.html")):
-            files.append((path.stem, path))
+            files.append((_article_from_stem(path.stem), path))
+        # ACME: flyer pdftotext dumps (no HTML PDP).
+        if mfr == Manufacturer.ACME:
+            for path in sorted(d.glob("*.txt")):
+                files.append((_article_from_stem(path.stem), path))
     if not files:
-        raise typer.BadParameter("no HTML files found")
+        raise typer.BadParameter(
+            "no HTML files found"
+            + (" (ACME also accepts *.txt flyer text)" if mfr == Manufacturer.ACME else "")
+        )
 
     uvp_by_article: dict[str, float] = {}
     if campaign:
@@ -249,6 +264,14 @@ def parse_cmd(
             elif mfr == Manufacturer.JOUEF:
                 raw = parse_jouef_pdp(
                     html, canonical_url=canon, article=num, campaign_tag=import_tag
+                )
+            elif mfr == Manufacturer.ACME:
+                raw = parse_acme_pdp(
+                    html,
+                    canonical_url=canon,
+                    article=num,
+                    campaign_tag=import_tag,
+                    uvp_amount=uvp_by_article.get(num),
                 )
             else:
                 raise NotImplementedError(f"PDP parse for {mfr.slug!r} is not implemented yet")
