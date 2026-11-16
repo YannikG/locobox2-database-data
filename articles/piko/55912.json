@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-55912",
+  "manufacturer": "PIKO",
+  "articleNumber": "55912",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.141",
+    "number": "1023",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Nach der D.145 erscheint mit der einige Jahre älteren D.141 ein weiteres Modell einer italienischen Rangierlok als Neukonstruktion.Das gefällige Vorbild, kombiniert mit der für PIKO typischen akribischen Modellumsetzung, lassen ein gleichermassen begeisterndes wie betriebstaugliches Modell erwarten. Schon jetzt ist klar: Das Modell wird durch absolut präzise Gravuren, feinste angesetzte Details und eine perfekte Umsetzung der Vorbildfarbgestaltung einen Blickfang auf jeder Modellbahnanlage darstellen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-d.141.1023-fs-iv,-inkl.-piko-sound-decoder-und-digital-kupplung-32945.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32945/thumbs/35817_421885.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

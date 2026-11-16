@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57142",
+  "manufacturer": "PIKO",
+  "articleNumber": "57142",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 139.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Start-Set Güterzug Roncalli R/C",
+    "number": null,
+    "livery": "Roncalli",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "Entwickelt in exklusiver Kooperation mit dem Circus Theater Roncalli!\n\nR/C Start-Set mit Bettungsgleis Güterzug \"Roncalli\"\n\nGrundfläche: ca. 110 x 88 cm\n\nMin. Aufbaufläche: 120 x 98 cm\n\nbestehend aus:\n\n12 x 55412 Bogen R2 422 mm\n\n1 x 55401 Gerade G231 mm\n\n1 x 55406 Gerade G231 mm für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Netzteil (Adapter 11,2 W)\n\n1 x Fernbedienung",
+  "categories": [],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-gueterzug-roncalli-r-c-30601.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30601/thumbs/55226_430838.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:34Z"
+}

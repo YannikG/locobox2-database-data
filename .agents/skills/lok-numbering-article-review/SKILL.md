@@ -177,13 +177,14 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 
 ### Phase 2: Datei für Datei
 
-- **Genau eine JSON-Datei** pro Agent-Turn bearbeiten (Rückfrage-Runde).
+- **Genau eine JSON-Datei** pro Agent-Turn bearbeiten (Rückfrage-Runde), **ausser** der User verlangt ausdrücklich Selbstentscheidung («selber nachdenken», «klare Fälle selbst», «Skill anpassen»). Dann darf der Agent **eindeutige** Allowlist-/Wiki-Fälle (z. B. Privatbahn-Anker → Operator + `country`, leere `categories` → `wagen` bei Mess-/Personenwagen-Sets) **batchweise** schreiben und nur **echte** Zweifelsfälle einzeln fragen.
 - Nur die **Unklarheiten und Findings** dieser Datei aus Pass 1 vorlegen (mit IDs `F1`, `F2`, …).
 - **Eine** klare Frage: was soll mit welchem Punkt passieren (z. B. Split A wählen, Text später anpassen, ignorieren)?
 - User-Antworten in dieser Phase:
   - **`skip`:** keine weiteren Entscheidungen zu **dieser** Datei in Phase 2; sofort **nächste** Datei mit offenen Punkten wählen. Offene Punkte dieser Datei in die **Schlussliste** als „skipped (User)“ übernehmen.
   - **`ignore`:** der User bezieht sich auf ein genanntes **Finding** (`ignore F2`) oder auf **alle** offenen Punkte dieser Datei (`ignore all`). Diese Punkte gelten für **diesen Review-Durchlauf** als **ignoriert** (nicht nacharbeiten, nicht nochmals fragen in Phase 2). In der **Schlussliste** als „ignored (this pass)“ führen.
-  - Konkrete Anweisung (z. B. „Split A“, „country AT setzen“): Agent notiert als **entschieden** in der laufenden Findings-Liste. **Schreiben** in die JSON nur, wenn der User danach explizit editieren lässt oder Auto-Fix/Änderungslauf dafür schon beauftragt ist.
+  - Konkrete Anweisung (z. B. „Split A“, „country AT setzen“): Agent notiert als **entschieden** in der laufenden Findings-Liste. **Schreiben** in die JSON nur, wenn der User danach explizit editieren lässt, Auto-Fix/Änderungslauf dafür schon beauftragt ist, **oder** Selbstentscheidung wie oben gilt und die Regel dokumentiert ist.
+- Neue wiederkehrende Anker: Wiki/Skript erweitern, dann patchen (nicht nur einmalig hartcodieren).
 - Nach jeder User-Antwort: entweder nächstes Finding derselben Datei fragen oder nächste Datei, bis keine Datei mehr mit **nicht** `skip`/`ignore` behandelten offenen Punkten übrig ist (oder User Session beendet).
 
 ### Datei in der Antwort (Pflicht, Phase 2)

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52411",
+  "manufacturer": "PIKO",
+  "articleNumber": "52411",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 309.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Formvariante der BR 216 in beigeblauer Lackierung der Ep. IV",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-216-db-iv-wechselstromversion,-inkl.-piko-sound-decoder-32805.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32805/thumbs/36075_458119.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

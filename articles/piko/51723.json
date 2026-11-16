@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51723",
+  "manufacturer": "PIKO",
+  "articleNumber": "51723",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 334.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 755",
+    "number": "025",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V"
+  },
+  "description": "Neuheit 2022: Das PIKO Modell zeichnet sich durch den gelungen Formenbau ohne störende Formtrennkanten und die stimmige Umsetzung aller relevanten Details ihres Vorbildes aus. Die Beleuchtung erfolgt mittels LEDs. Die Führerstandbeleuchtungen und die fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter sind mit PluX22 Decoder digital schaltbar. Das mit einem Zinkdruckgussrahmen versehene Modell verfügt über einen fünfpoligen Motor mit präzise ausgewuchteten Schwungmassen für hervorragende Fahreigenschaften und zwei Haftreifen für hohe Zugkräfte, die auf den innenliegenden Achsen beider Drehgestelle diagonal angeordnet sind. Die Soundversion der Elektrolok verfügt ab Werk über einen mfx®-fähigen SoundDecoder. Ansteckbare Bremsschlauchattrappen liegen dem Modell bei.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-755-025-db-ag-v-wechselstromversion,-inkl.-piko-sound-decoder-35315.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35315/thumbs/41446_434267.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

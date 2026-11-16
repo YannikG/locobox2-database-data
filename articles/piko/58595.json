@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58595",
+  "manufacturer": "PIKO",
+  "articleNumber": "58595",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 412",
+    "number": null,
+    "livery": "ICE 4",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "2er Set Ergänzungswagen zum PIKO ICE 4 der DB AG Ep. VI. Die Deutsche Bahn AG beauftragte 2011 Siemens Mobility mit dem Bau von bis zu 300 neuen Hochgeschwindigkeitszügen für den Einsatz in Deutschland, Österreich und der Schweiz. Die neuen Triebzüge der BR 412/812, die gemeinsam von Siemens und Bombardier entwickelt werden, werden über mehrere Wagen, sogenannte Powercars, angetrieben. Die Zugkonfiguration sieht hierbei verschiedene modular aufgebaute Einheiten von fünfteiligen bis zu 14teiligen Zügen vor. Durch dieses Konzept kann der Zug problemlos an die individuellen Vorgaben der Verkehrsunternehmen bei der gewünschten Beschleunigung, Geschwindigkeit und Zahl der Sitzplätze angepasst werden. Die DB hat bisher als Basiskonfiguration85 zwölf- und 45 siebenteilige Triebzüge bestellt, die aus antriebslosen End- bzw. Steuerwagen, angetriebenen Sitzwagen und Bordbistro sowie nichtangetriebenen Sitz-, Speise- und Servicewagen bestehen.Der siebenteilige Triebzug besitzt drei angetriebenen Wagen und bietet 456 Sitzplätze auf einer Länge von 200 Metern. Ein zwölfteiliger Triebzug verfügt über sechs angetriebene Wagen und 830 Sitzplätze auf einer Länge von 346 Metern. Die Höchstgeschwindigkeit beträgt mit 250 km/h. Die äussere Form wurde an die bestehende ICE-Flotte angelehnt und weiterentwickelt. Seit Dezember 2017 werden die ersten Züge im Regelbetrieb auf den Linien Hamburg–Würzburg, Stuttgart–München und Hamburg–Berlin–München eingesetzt.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/2er-set-ergaenzungswagen-br-412-ice-4-db-ag-vi-wechselstromversion-30114.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30114/thumbs/30435_431320.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

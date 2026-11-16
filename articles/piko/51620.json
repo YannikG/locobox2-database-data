@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51620",
+  "manufacturer": "PIKO",
+  "articleNumber": "51620",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1044",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2020 / 2021: Mit der neukonstruierten PIKO 1044/1144 wird es erstmals auch authentische Modelle der hohen Ordnungsnummern dieser Baureihe in 1:87 geben. Das charaktervolle Lokgesicht des einstigen ÖBB-Paradepferds wurde in der Modellumsetzung hervorragend getroffen, ebenso die markante Seitenpartie der Fahrzeuge, die mit den ausgeprägten Sicken und den typischen „Bullaugen“ durchaus Herausforderungen an den Formenbau stellte. Der dabei entstandene Eindruck idealer optischer Wirkung setzt sich in den Drehgestellen der Lokomotive fort. Nicht zuletzt weiss die neue 1044 technisch zu überzeugen: Ein fünfpoliger PIKO Motor, auf dessen Welle zwei fein gewuchtete Schwungmassen sitzen, sorgt für gleichmässigen Vortrieb. Modellbahner, die den Digitalbetrieb bevorzugen, profitieren von der modernen PluX22-Schnittstelle – sie erlaubt den Einbau eines Digitaldecoders mit wenigen Handgriffen. Der heute obligatorische Lichtwechsel wurde in zeitgemässer LED-Technik realisiert. Nicht selbstverständlich ist hingegen die beim PIKO Modell ebenfalls vorhandene und im Digitalbetrieb schaltbare Beleuchtung von Führerstand und Führerpult.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1044-oebb-iv-30452.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30452/thumbs/34081_410562.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52428",
+  "manufacturer": "PIKO",
+  "articleNumber": "52428",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "BR T 435",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Druckvariante der BR 107 als BR T 435 der CSD in Ep. IV in blauer Lackierung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-t-435-csd-iv,-inkl.-piko-sound-decoder-32865.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32865/thumbs/36090_446189.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

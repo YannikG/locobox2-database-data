@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59435",
+  "manufacturer": "PIKO",
+  "articleNumber": "59435",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "ACTS",
+    "type": "6004",
+    "number": null,
+    "livery": "ACTS",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Ehemalige V 60 der Deutschen Reichsbahn im Einsatz des privaten niederländischen EVUs ACTS in attraktiver blauer Lackierung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-6004-acts-vi-30163.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_30163/thumbs/30791_433983.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

@@ -82,6 +82,80 @@ class TestPikoShopType(unittest.TestCase):
         }
         self.assertEqual(m.propose_fix(art), ("piko_v200", "V 200", "1001", "Messe Leipzig", None))
 
+    def test_fs_d141_split(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "D.141 1019", "number": None, "country": "IT", "operator": "FS"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_fs_d_num", "D.141", "1019", None, None))
+
+    def test_vectron_e191_evm(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "Vectron E.191 EVM Rail", "number": None, "livery": None, "operator": "Privatbahn"},
+            "description": "BR E.191 der EVM Rail",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_vectron_e", "E.191", None, "EVM Rail", None))
+
+    def test_en57_operator_era(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "EN 57 PKP IV", "number": None, "era": "IV", "operator": "PKP"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        fix = m.propose_fix(art)
+        self.assertIsNotNone(fix)
+        self.assertEqual(fix[1], "EN 57")
+
+    def test_livery_klimaschuetzer(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {
+                "type": "BR 412",
+                "number": None,
+                "livery": "ICE 4 DB AG VI, 4tlg., Klimaschützer",
+            },
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_livery", "BR 412", None, "Klimaschützer", None))
+
+    def test_livery_set_junk_clear(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "BR 130", "number": None, "livery": "CSD + 3 Güterwagen"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_livery", "BR 130", None, "", None))
+
+    def test_start_set_taurus(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {"type": "Start-Set mit Bettung Taurus", "number": None, "operator": "ÖBB"},
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_start_taurus", "1216", None, None, None))
+
+    def test_rbe_npz_set(self) -> None:
+        art = {
+            "manufacturer": "PIKO",
+            "model": {
+                "type": "2er Set Rbe 4/4 NPZ SBB IV Triebwagen + Steuerwagen",
+                "number": None,
+                "era": "IV",
+                "livery": None,
+            },
+            "description": "",
+            "source": {"url": "https://www.piko-shop.de/"},
+        }
+        self.assertEqual(m.propose_fix(art), ("piko_rbe_npz", "Rbe 4/4", None, "NPZ", None))
+
 
 if __name__ == "__main__":
     unittest.main()

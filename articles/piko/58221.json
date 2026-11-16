@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58221",
+  "manufacturer": "PIKO",
+  "articleNumber": "58221",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 256.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "3er Set Y-Wagen D 300 DR IV Set 2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Die neuen PIKO Modelle der Y-Wagen zeichnen sich durch eine exakt massstäbliche Umsetzung der Vorbildfahrzeuge aus. Die scharfen und sehr plastisch wirkenden Gravuren im Bereich der Türen, aber natürlich auch an den fein durchbrochenen Drehgestellen, erzeugen einen hervorragenden Gesamteindruck. Dies gilt in gleichem Masse für den Wagenboden und die hier vorhandenen Aggregate. Die präzise geführteKurzkupplungskinematik sorgt im Zusammenspiel mit der optionalen PIKO Kurzkupplung für einen vorbildgerecht geschlossenen Zugverband. Eine zusätzliche Aufwertung erfahren die Wagen durch die einfach zu montierende Innenbeleuchtung – mit ihr werden die Wagen beim nächtlichen Anlageneinsatz zu einem absoluten Blickfang!\n\n3er Set bestehend aus Y-Wagen 2x 2. Klasse Wagen Bme '69,1x Schlafwagen WLAB70 D 300 DR Ep. IV",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/3er-set-y-wagen-d-300-dr-iv-set-2-33000.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_33000/thumbs/35958_437271.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

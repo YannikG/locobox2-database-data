@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51411",
+  "manufacturer": "PIKO",
+  "articleNumber": "51411",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E",
+    "number": "32",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III"
+  },
+  "description": "Neuheit 2021: Nach den Baureihen E 52 und E 91 bringt PIKO nun mit der E 32 einen weiteren wichtigen Vertreter der Altbau-Elloks. Der Stangenantrieb mit seinen Speichenrädern, in kurzer Bauform, lässt die Verwandtschaft der Altbau-Elloks zu den Dampfloks durchscheinen, mit 1’C1‘ Achsanordnung, wie beim Original. Nun hat PIKO dieses Stück Eisenbahngeschichte in Miniatur umgesetzt. Das Modell entspricht dem Betriebszustand der Epoche III.Besonderheiten sind die fein zu erkennenden Detaillierungen, wie die Nietung am Dach, angesetzte Teile, wie Sandkästen, Glocke, Bremsschläuche und Handstangen. Zeitgenössische Lampen, sowie die filigranen Scherenstromabnehmer vom Typ SBS 10 runden das Modell optisch ab.Technisch weiss das Modell mit einem serienmässig eingebauten Lichtwechsel in LED-Technik mit roter Schlussbeleuchtung zu begeistern.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-e-32-db-iii-wechselstromversion-33018.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_33018/thumbs/34932_431375.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

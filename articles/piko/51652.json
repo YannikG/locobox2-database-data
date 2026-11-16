@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51652",
+  "manufacturer": "PIKO",
+  "articleNumber": "51652",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 150",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Das Modell der Baureihe 150 folgt mit seiner Konstruktion der bewährten PIKO Antriebsausführung. Der solide fünfpolige schräg genutete PIKO Motor sorgt mit zwei präzise ausgewuchteten Schwungmassen für ausgezeichnete Laufeigenschaften. Die Zugkraft der über vier Achsen angetriebenen Lok wird über zwei Haftreifen verstärkt, die in diagonaler Anordnung auf den innen laufenden Achsen beider Drehgestelle sitzen. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Die Führerstandsbeleuchtung und das Schlusslicht können digital geschaltet werden. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound eingebaut.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-150-db-iv,-inkl.-piko-sound-decoder-30195.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30195/thumbs/32487_437357.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

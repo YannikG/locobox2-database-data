@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58248",
+  "manufacturer": "PIKO",
+  "articleNumber": "58248",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 233.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "3er Set Personenwagen IC 602 \"Gorch Fock\"",
+    "number": null,
+    "livery": "Gorch Fock",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Neuheit 2022: Attraktives Dreierset bestehend aus drei IC Wagen im Design Gorch Fock der DB AG aus Epoche V.",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/3er-set-personenwagen-ic-602-gorch-fock-db-ag-v-35275.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_35275/thumbs/37175_415122.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

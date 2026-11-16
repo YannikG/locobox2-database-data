@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52425",
+  "manufacturer": "PIKO",
+  "articleNumber": "52425",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR V 75",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III"
+  },
+  "description": "Neuheit 2021: Druckvariante der Baureihe 107 als V 75 Ep. III",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-v-75-dr-iii,-inkl.-piko-sound-decoder-32862.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32862/thumbs/35861_446186.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

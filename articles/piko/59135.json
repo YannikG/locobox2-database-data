@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59135",
+  "manufacturer": "PIKO",
+  "articleNumber": "59135",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 370.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "QBuzz",
+    "type": "GTW 2/8",
+    "number": null,
+    "livery": "R-Net QBuzz",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Zur Nachrüstung von Innenbeleuchtung wird der Beleuchtungssatz #56143 + 2x #56139 benötigt.",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrotriebwagen-gtw-2-8-stadler-r-net-qbuzz-32822.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32822/thumbs/37665_406547.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57826",
+  "manufacturer": "PIKO",
+  "articleNumber": "57826",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 144.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 1116",
+    "number": null,
+    "livery": "SPARDA-BANK",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2022: Druckvariante der Elektrolok Taurus als Rh 1116 der ÖBB mit Dekor der SPARDA-BANK in Epoche VI. Das AC-Modell für den Mittelleiterbetrieb besitzt ab Werk einen mfx®-fähigen Digitaldecoder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-taurus-rh-1116-sparda-bank-oebb-vi-wechselstromversion-34973.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_34973/thumbs/38708_443706.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

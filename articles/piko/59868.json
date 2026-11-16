@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59868",
+  "manufacturer": "PIKO",
+  "articleNumber": "59868",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 169.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PCC Intermodal",
+    "type": "BR 186",
+    "number": null,
+    "livery": "PCC Intermodal",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Ausführung mit 4 Panthographen in der Epoche VI",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-br-186-pcc-intermodal-vi-32490.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32490/thumbs/35640_433836.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

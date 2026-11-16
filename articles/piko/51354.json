@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51354",
+  "manufacturer": "PIKO",
+  "articleNumber": "51354",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 181.2",
+    "number": null,
+    "livery": "Lorraine",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Das PIKO Modell der 181.2 \"Lorraine\" mit Sound zeigt alle relevanten Details seines Vorbildes auf und überzeugt durch feinste Lackierung und Bedruckung, erhabenen Namensschilder auf den Seiten, extra angesetzte Frontgriffe und Türgriffstangen, scharf gravierte Drehgestellblenden, feine Isolatoren und Stromabnehmer mit unterschiedlichen Schleifstücken. Die Beleuchtung erfolgt mittels LEDs. Die serienmässig eingebaute Führerstands- und Maschinenraumbeleuchtungen sind wie die fahrtrichtungsabhängig funktionierenden Schlusslichter digital schaltbar. Ein starker fünfpoliger Motor mit zwei präzise ausgewuchteten Schwungmassen, der alle vier Achsen antreibt, sorgt für hervorragende Fahreigenschaften. Das schwere PIKO Modell verfügt über zwei Haftreifen und einen schweren Zinkdruckgussrahmen für grosse Zugkräfte. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound und mfx-Funktionalität eingebaut. Optional ansteckbare Bremsschlauchattrappen liegen dem Modell bei.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-181.2-db-iv-lorraine-wechselstromversion,-inkl.-piko-sound-decoder-32591.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32591/thumbs/34407_449830.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

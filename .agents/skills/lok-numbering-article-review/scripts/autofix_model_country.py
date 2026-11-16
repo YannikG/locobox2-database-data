@@ -288,7 +288,25 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
         ("privatbahn_ch_sersa", "CH", lambda: "sersa" in c),
         ("privatbahn_nl_vsm", "NL", lambda: " vsm" in c or "rh 500 vsm" in c),
         ("privatbahn_sk_stk", "SK", lambda: re.search(r"181\s+stk", c) is not None),
-        ("privatbahn_de_medway", "DE", lambda: "medway" in c),
+        # Medway: italienische FS-Varianten (E.494 / «italienische Medway») → IT, nicht DE
+        (
+            "privatbahn_it_medway",
+            "IT",
+            lambda: "medway" in c
+            and (
+                "italienisch" in c
+                or "e.494" in c
+                or "br e.494" in c
+                or re.search(r"\bbr 186\b", c) is not None
+            ),
+        ),
+        ("privatbahn_cz_ep_cargo", "CZ", lambda: "ep cargo" in c),
+        ("privatbahn_dk_green_cargo", "DK", lambda: "green cargo" in c and (" dk" in c or "dänisch" in c or "danisch" in c or "br 5400" in c)),
+        ("privatbahn_it_inrail", "IT", lambda: "inrail" in c),
+        ("privatbahn_it_evm", "IT", lambda: "evm rail" in c or "evm-rail" in c),
+        ("privatbahn_pl_pcc", "PL", lambda: "pcc intermodal" in c),
+        ("privatbahn_de_nordwestbahn", "DE", lambda: "nordwestbahn" in c),
+        ("privatbahn_de_trilex", "DE", lambda: "trilex" in c),
         ("privatbahn_de_captrain", "DE", lambda: "captrain" in c),
         ("privatbahn_de_northrail", "DE", lambda: "northrail" in c),
         ("privatbahn_de_meg", "DE", lambda: " meg" in c or "meg vi" in c),
@@ -314,6 +332,9 @@ def _privatbahn_infer_country(article: Article) -> Optional[tuple[str, str]]:
         ("privatbahn_us_whitcomb", "US", lambda: "whitcomb" in c),
         ("privatbahn_de_slrs", "DE", lambda: "slrs" in c),
         ("privatbahn_hu_gysev", "HU", lambda: "gysev" in c),
+        ("privatbahn_nl_acts", "NL", lambda: re.search(r"\bacts\b", c) is not None),
+        ("privatbahn_nl_qbuzz", "NL", lambda: "qbuzz" in c or "r-net" in c),
+        ("privatbahn_pl_eu43", "PL", lambda: "eu43" in c),
         ("privatbahn_nl_arriva", "NL", lambda: "arriva" in c),
         ("privatbahn_pl_ctl232", "PL", lambda: re.search(r"\b232\b", c) and re.search(r"\bctl\b", c)),
         ("privatbahn_de_evb", "DE", lambda: re.search(r"\bevb\b", c)),

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-97937",
+  "manufacturer": "PIKO",
+  "articleNumber": "97937",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 178.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "SM42",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Das Güterwagen-Set enthält eine Diesellok SM 42 PKP Cargo sowie 2 offene Güterwagen sowie ein Oval mit PIKO A-Gleis mit Bettung\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\nPIKO A-Gleis mit Bettung\n\nbestehend aus:\n\n1x Diesellok SM 42 und 2 offene Güterwagen\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-gueterzug-diesellok-sm-42-mit-2-offenen-gueterwagen-pkp-cargo-iv-33046.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_33046/thumbs/55075_427201.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

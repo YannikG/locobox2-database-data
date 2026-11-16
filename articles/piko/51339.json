@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51339",
+  "manufacturer": "PIKO",
+  "articleNumber": "51339",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "FIS",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Neuheit 2022: Druckvariante der Elektrolok BR 120 der DB AG in der Epoche VI mit Zugzielanzeiger. Das Modell verfügt in der Soundvariante ab Werk bereits über einen mfx®-fähigen PluX22-SoundDecoder. Es handelt sich um die Nachbildung der Umbauvariante 120.2. Das markanteste Merkmal ist die beleuchtete Zugzielanzeige. Diese wurde beim Vorbild ab 2007 bei 8 Maschinen für den Einsatz am Hanse-Express und Rein-Sieg-Express eingebaut.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-120-fis-db-ag-vi-wechselstromversion,-inkl.-piko-sound-decoder-35283.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35283/thumbs/37845_434119.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

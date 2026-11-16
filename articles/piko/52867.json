@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52867",
+  "manufacturer": "PIKO",
+  "articleNumber": "52867",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "SU46",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V"
+  },
+  "description": "Neuheit 2021: Das PIKO Modell der SU46 zeichnet sich durch den gelungenen Formenbau und die stimmige Umsetzung aller relevanten Details der Vorbildmaschine aus. Die PIKO SU46 besitzt eine feinste Lackierung und Bedruckung, passende Lampen, digital schaltbare Führerstands- und Maschinenraumbeleuchtungen und fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter mittels LEDs. Die detailliert dargestellte Maschinenraumeinrichtung wurde für einen realistischeren Effekt als Highlight mit freiem Durchblick gestaltet. Durch den schweren Zinkdruckgussrahmen, zwei Haftreifen und den fünfpoligen Motor mit zwei Schwungmassen werden hervorragende Fahreigenschaften und hohe Zugkräfte erreicht. Die unkomplizierte Nachrüstung mit Sound und grösstmöglichem Lautsprecher ist auf der aufgeräumten Platine mit PluX22-Schnittstelle vorbereitet. Ansteckbare Bremsschlauchattrappen liegen dem Modell der SU46 bei.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-su46-pkp-v-32688.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_32688/thumbs/34055_443770.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

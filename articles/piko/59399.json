@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59399",
+  "manufacturer": "PIKO",
+  "articleNumber": "59399",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 349.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "EVM Rail",
+    "type": "E.191",
+    "number": null,
+    "livery": "EVM Rail",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Neuheit 2022: Mit der BR E.191 der EVM Rail liefert PIKO ein hochpräzise gefertigtes Modell, das auf der Basis eines soliden Zinkdruckgussrahmens und der Ausstattung mit bewährten PIKO Standards über zahlreiche Extras verfügt. Der erprobte PIKO Motor sorgt mit zwei grossen Schwungmassen für ausgezeichnete Laufeigenschaften. Die Zugkraft der über alle vier Achsen angetriebenen Lok wird über zwei Haftreifen verstärkt, die auf den innen laufenden Achsen beider Drehgestelle in diagonaler Anordnung zueinander sitzen. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Zum äusserlich eleganten Erscheinungsbild dieses Modells gehören eine stimmig nachgebildete technische „Dachlandschaft“ und sorgfältig detaillierte Drehgestelle mit vorbildgerechten Radscheibenprofilen. Das Modell verfügt in der Soundversion bereits werkseitig über einen mfx®-fähigen Plux22-SoundDecoder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrolok-vectron-e.191-evm-rail-vi-wechselstromversion,-inkl.-piko-sound-decoder-35380.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35380/thumbs/38125_458402.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

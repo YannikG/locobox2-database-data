@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57561",
+  "manufacturer": "PIKO",
+  "articleNumber": "57561",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 179.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "BR 413",
+    "number": null,
+    "livery": "/ BR 55 (G7.1)",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III"
+  },
+  "description": "Zubehör für echten Spielbetrieb:\n\n#56160 Dampfgenerator 10-16 V AC/DC Analogbetrieb\n\n#56161 Dampfgenerator 16-22 V AC/DC Digitalbetrieb\n\n#56162 Dampfdestillat 50 ml + Einfüllgerät\n\n#56610 Soundmodul + Lautsprecher Druckvariante der ČSD-Dampflok 413 ehemals preussische G 7 in Ausführung der Epoche III.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/schlepptenderlok-br-413-br-55-g7.1-csd-iii-30024.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30024/thumbs/29790_457900.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52795",
+  "manufacturer": "PIKO",
+  "articleNumber": "52795",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "SNCB",
+    "type": "Rh 49",
+    "number": null,
+    "livery": "SNCB",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2022: Formvariante der Rh 554 als Serie 49 der SNCB in Epoche IV. Die PIKO Modelle der Autorail Brossel hinterlassen einen äussert sympathischen Eindruck. Die kurzen Wägelchen auf vier Achsen mit ebenso kurzen Drehgestellen sind ein Blickfang auf der Modellbahn. Dabei sind gerade die sich erheblich unterscheidenden Reihen 553 und 554 eine Fleissaufgabe für die PIKO Konstrukteure gewesen – so unterschiedlich sind die Fahrzeuge im Detail. Es hat sich gelohnt: Das Modell kann in allen Belangen überzeugen. Die äusserst fein gravierten Formen verleihen Wagenkasten, Wagenboden und Drehgestellen eine hervorragende optische Anmutung, die aufwendig angesetzten Details im Dachbereich wirken wie das berühmte Tüpfelchen auf dem i. Angetrieben wird das Modell von einem zuverlässigen PIKO Motor, der so dimensioniert ist, dass ein freier Blick durch die vielen Fenster des Modells besteht. Zwei Achsen des Modells sind angetrieben, die Stromabnahme erfolgt über alle vier Achsen. Die Soundvariante verfügt ab Werk bereits über einen mfx®-fähigen PluX22-SoundDecoder.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesel-schienenbus-rh-49-sncb-iv-wechselstromversion,-inkl.-piko-sound-decoder-35525.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35525/thumbs/40669_436606.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59969",
+  "manufacturer": "PIKO",
+  "articleNumber": "59969",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 169.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "Przewozy Regionalne",
+    "type": "EU43",
+    "number": null,
+    "livery": "PR",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Wie alle Traxx-Modelle von PIKO zeigt die EU43 der Przewozy Regionalne scharfe Gravuren, jedes Detail der Drehgestellblenden mit den Achslagern und Federelementen. Das Gehäuse mit den Klappen, Lüftergittern, Handstangen, sowie das Dach mit den Leitungen und Stromabnehmern, wurden nach Vorbildunterlagen modelliert und aufwendig graviert. Bedruckung und Lackierung entsprechen dem jeweiligen Vorbild. Der Antrieb erfolgt über einen starken Motor, Kardanwellen, Getriebe auf alle vier Radsätze. Der Lichtwechsel weiss/rot erfolgt mit der Fahrtrichtung.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-eu43-pr-vi-30162.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30162/thumbs/32605_447010.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

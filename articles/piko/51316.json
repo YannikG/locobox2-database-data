@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51316",
+  "manufacturer": "PIKO",
+  "articleNumber": "51316",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 151",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Mit der Nachbildung der schweren Güterzuglokomotive der Baureihe 151 offeriert PIKO eine typische Lokomotive der Deutschen Bundesbahn in der Epoche IV. Das Modell verfügt über eine exakte Ausführung der Lampen, Fenster, Puffer, Gehäuseform, Maschinenraumdurchblick, Dachausrüstung usw. und überzeugt darüber hinaus durch die feinste Lackierung und Bedruckung, die äusserst filigranen Stromabnehmer, digital schaltbare Führerstands- und Maschinenraumbeleuchtung sowie mit der Fahrtrichtung wechselnde LED-Schlusslichter. Der starke fünfpolige PIKO Motor mit seinen grossen, präzise dimensionierten Schwungmassen verleiht dem Modell hervorragende Fahreigenschaften. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound und mfx-Funktionalität eingebaut. Bremsschläuche zum Nachrüsten liegen bei.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-151-db-iv-inkl.-piko-sound-decoder-30034.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30034/thumbs/32382_451666.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

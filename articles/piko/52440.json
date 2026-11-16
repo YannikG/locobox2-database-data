@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52440",
+  "manufacturer": "PIKO",
+  "articleNumber": "52440",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 285.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.141",
+    "number": "1019",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Nach der D.145 erscheint mit der einige Jahre älteren D.141 ein weiteres Modell einer italienischen Rangierlok als Neukonstruktion. Das gefällige Vorbild, kombiniert mit der für PIKO typischen akribischen Modellumsetzung, lassen ein gleichermassen begeisterndes wie betriebstaugliches Modell erwarten. Schon jetzt ist klar: Das Modell wird durch absolut präzise Gravuren, feinste angesetzte Details und eine perfekte Umsetzung der Vorbildfarbgestaltung einen Blickfang auf jeder Modellbahnanlage darstellen. Der Lichtwechsel in den Farben Rot und Weiss sowie die durch Nachrüstung eines Digitaldecoders schaltbaren Lichtfunktionen – selbstverständlich in modernster LED-Technik – sorgen für zusätzlichen Spass im Betrieb. Zur benutzerfreundlichen Digitalisierung ist in der Lok eine PluX22-Schnittstelle nach NEM 658 vorhanden. Zurüstteile zur vorbildgerechten Ausgestaltung der Pufferbohle liegen dem Modell bei.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-d.141-1019-fs-iv-30456.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_30456/thumbs/33108_431379.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

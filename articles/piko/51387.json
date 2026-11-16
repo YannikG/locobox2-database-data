@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51387",
+  "manufacturer": "PIKO",
+  "articleNumber": "51387",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 275.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "ZSSK",
+    "type": "BR 240",
+    "number": null,
+    "livery": "ZSSK",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Druckvariante der S 499 als BR 240 der ZSSK.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-240-zssk-vi-32815.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32815/thumbs/35813_445749.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

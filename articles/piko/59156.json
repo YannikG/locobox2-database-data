@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59156",
+  "manufacturer": "PIKO",
+  "articleNumber": "59156",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 169.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "Green Cargo",
+    "type": "BR 5400",
+    "number": null,
+    "livery": "Green Cargo DK",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Druckvariante der BR 185.2 als dänische BR 5400 der Green Cargo in der Epoche VI",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-br-5400-green-cargo-dk-vi-32852.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32852/thumbs/36133_425082.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

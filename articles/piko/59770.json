@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59770",
+  "manufacturer": "PIKO",
+  "articleNumber": "59770",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 169.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "Medway",
+    "type": "BR 186",
+    "number": null,
+    "livery": "Medway",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Druckvariante der Baureihe 186 als italienische Medway, Ausführung mit 4 Pantographen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/elektrolok-br-186-medway-vi-32936.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32936/thumbs/36649_449193.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

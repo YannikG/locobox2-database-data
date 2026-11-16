@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51357",
+  "manufacturer": "PIKO",
+  "articleNumber": "51357",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 181.2",
+    "number": null,
+    "livery": "Mosel",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2022: Variante der BR 181.2 der DB mit Bedruckung Mosel der Epoche IV. Das PIKO Modell der wichtigen Mehrsystem-Lokbaureihe 181.2 zeigt alle relevanten Details seines Vorbildes auf und überzeugt durch feinste Lackierung und Bedruckung, erhabene Namensschilder auf den Seiten, extra angesetzte Frontgriffe und Türgriffstangen, scharf gravierte Drehgestellblenden, feine Isolatoren und Stromabnehmer mit unterschiedlichen Schleifstücken. Die Beleuchtung erfolgt mittels LEDs. Die serienmässig eingebaute Führerstands- und Maschinenraumbeleuchtungen sind hierbei wie die fahrtrichtungsabhängig funktionierenden Schlusslichter mit PluX22 Decoder digital schaltbar. Ein starker fünfpoliger Motor mit Schwungmassen, der alle vier Achsen antreibt, sorgt für hervorragende Fahreigenschaften. Das schwere PIKO Modell verfügt über zwei Haftreifen und einen schweren Zinkdruckgussrahmen für grosse Zugkräfte. Die PIKO 181.2 ist für eine unkomplizierte Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Das AC-Modell ist bereits ab Werk mit einem passenden mfx®-geeigneten PluX22 Decoder ausgerüstet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-181.2-mosel-db-iv-wechselstromversion,-inkl.-piko-sound-decoder-32758.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32758/thumbs/40052_426158.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

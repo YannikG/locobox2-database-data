@@ -84,6 +84,27 @@ class TestProposeCountry(unittest.TestCase):
         art = {"model": {"country": None, "operator": "SP (Southern Pacific)"}}
         self.assertEqual(c.propose_country(art), ("operator_map:SP (Southern Pacific)", "US"))
 
+
+    def test_privatbahn_medway_it(self) -> None:
+        art = {
+            "model": {"country": None, "operator": "Privatbahn", "type": "BR E.494", "livery": None},
+            "description": "Druckvariante der BR 187 als BR E.494 von Medway, italienische Ausführung",
+        }
+        self.assertEqual(c.propose_country(art), ("privatbahn_it_medway", "IT"))
+
+    def test_privatbahn_ep_cargo_cz(self) -> None:
+        art = {
+            "model": {"country": None, "operator": "Privatbahn", "type": "BR 187", "livery": "EP Cargo"},
+            "description": "EP Cargo Epoche VI",
+        }
+        self.assertEqual(c.propose_country(art), ("privatbahn_cz_ep_cargo", "CZ"))
+
+    def test_privatbahn_green_cargo_dk(self) -> None:
+        art = {
+            "model": {"country": None, "operator": "Privatbahn", "type": "BR 5400", "livery": "Green Cargo DK"},
+            "description": "dänische BR 5400 der Green Cargo",
+        }
+        self.assertEqual(c.propose_country(art), ("privatbahn_dk_green_cargo", "DK"))
     def test_privatbahn_captrain_de(self) -> None:
         art = {
             "model": {"country": None, "operator": "Privatbahn", "type": "E-Lok BR 152 Captrain VI"},

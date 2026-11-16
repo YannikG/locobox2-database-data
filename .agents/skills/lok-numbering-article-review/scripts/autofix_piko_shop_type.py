@@ -93,38 +93,84 @@ def _livery_ok(current: Any) -> bool:
     return current is None or (isinstance(current, str) and not current.strip())
 
 
-def _propose_livery_cleanup(liv: str) -> Optional[str]:
-    """Import-Artefakte: Epoche/Stromsystem/Setlänge aus ``livery`` entfernen."""
-    s = liv.strip()
+def _sanitize_livery_candidate(raw: str) -> Optional[str]:
+    """Bereinigt Shop-Livery-Kandidaten; ``\"\"`` = löschen, ``None`` = nicht anfassen."""
+    s = raw.strip(" ,")
     if not s or len(s) > 80:
         return None
-    tail = re.match(r"^([A-Za-z][A-Za-z0-9-]+)\s+(?:DB|VI)\b", s, re.I)
-    if tail and not re.search(r"cargo|express", s, re.I):
-        name = tail.group(1).strip()
-        return name if name and len(name) <= 48 else None
-    if not re.search(r"\d-tlg|wechselstrom|db ag\s+vi|national express", s, re.I):
-        return None
-    q = re.match(r'^["\u201e\u201c]([^"\u201d\u201c]+)["\u201d\u201c]', s)
+    if re.search(r"(?i)klimaschützer", s):
+        return "Klimaschützer"
+    q = re.search(r'["\u201e\u201c]([^"\u201d\u201c]+)["\u201d\u201c]', s)
     if q:
         name = q.group(1).strip()
         return name if name and len(name) <= 48 else None
+    m = re.match(
+        rf"^(?:BBÖ|BBO|ÖBB|OBB)\s+{_ROMAN}\s+(.+?)(?:,\s*\d-?tlg\.?)?$",
+        s,
+        re.I,
+    )
+    if m:
+        name = m.group(1).strip(" ,")
+        return name if name and len(name) <= 48 else None
+    m = re.match(r"^(DB Cargo)\s+mit\s+\d", s, re.I)
+    if m:
+        return m.group(1)
+    # Set-/Wagenreste als Livery ungültig → löschen
+    if re.match(r"^[+]", s) or re.match(r"(?i)^mit\s+\d", s):
+        return ""
+    if re.search(r"(?i)\+\s*\d+\s+\S*wagen", s) or re.search(
+        r"(?i)\bmit\s+\d+\s+\S*wagen", s
+    ):
+        prefix = re.split(r"(?i)\s+(?:\+|mit)\s+\d+", s, maxsplit=1)[0].strip()
+        if prefix and prefix.lower() not in ("db", "dr", "pkp", "csd", "sbb", "obb", "öbb", "fs", "ns"):
+            return prefix if len(prefix) <= 48 else ""
+        return ""
+    # «Nordwestbahn VI, 3-tlg» / «Name VI»
+    m = re.match(
+        rf"^([A-Za-z][A-Za-z0-9-]*(?:\s+[A-Za-z][A-Za-z0-9-]*)?)\s+{_ROMAN}\b",
+        s,
+        re.I,
+    )
+    if m and not re.search(r"(?i)cargo|express|ice\b", s):
+        name = m.group(1).strip()
+        return name if name and len(name) <= 48 else None
+    if not re.search(r"(?i)\d-tlg|wechselstrom|db ag\s+vi|national express", s):
+        return None
+    # «ICE 4 DB AG VI, …»
+    m = re.match(r"^(ICE\s+\d+)\b", s, re.I)
+    if m:
+        return m.group(1)
     m = re.match(r"^([A-Za-z][A-Za-z0-9]*(?:\s+[A-Za-z][A-Za-z0-9]*)?)", s)
     if not m:
         return None
     name = m.group(1).strip()
-    if re.search(r"\d-tlg|db ag", s, re.I):
+    if re.search(r"(?i)\d-tlg|db ag", s):
         name = re.split(r"\s+(?:DB|DR|PKP|AG|VI)\b", name, maxsplit=1, flags=re.I)[0].strip()
-    if name.lower() in ("db", "pkp", "obb", "sbb", "dr", "fs"):
+    if name.lower() in ("db", "pkp", "obb", "sbb", "dr", "fs", "ice"):
         return None
     if name.lower().startswith("cd "):
         return name if len(name) <= 48 else None
     return name if len(name) <= 48 else None
 
 
+def _propose_livery_cleanup(liv: str) -> Optional[str]:
+    """Import-Artefakte: Epoche/Stromsystem/Setlänge aus ``livery`` entfernen."""
+    cleaned = _sanitize_livery_candidate(liv)
+    if cleaned is None:
+        return None
+    if cleaned == "":
+        return ""
+    if cleaned == liv.strip():
+        return None
+    return cleaned
+
+
 def _pick_livery(article: Article, candidate: Optional[str]) -> Optional[str]:
     if not candidate or not _livery_ok((article.get("model") or {}).get("livery")):
         return None
-    c = candidate.strip(" ,")
+    c = _sanitize_livery_candidate(candidate)
+    if c is None:
+        c = candidate.strip(" ,")
     if not c or _ROMAN_RE.fullmatch(c):
         return None
     if len(c) > 48:
@@ -153,6 +199,48 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
 
     if re.fullmatch(r"EN 57 PKP SKM", clean, re.I):
         return ("piko_en57", "EN 57", None, _pick_livery(article, "SKM"), "PKP SKM")
+    if re.fullmatch(rf"EN\s*57(?:\s+PKP)?(?:\s+{_ROMAN})?", clean, re.I):
+        return ("piko_en57_plain", "EN 57", None, None, None)
+
+    m = re.fullmatch(r"ET\s*21(?:\s+PKPC?)?", clean, re.I)
+    if m:
+        return ("piko_et21", "ET 21", None, None, None)
+
+    m = re.fullmatch(r"Serie\s+(\d+)\s+SNCB", clean, re.I)
+    if m:
+        return ("piko_serie_sncb", f"Serie {m.group(1)}", None, None, None)
+
+    m = re.fullmatch(r"EU43(?:\s+PR)?", clean, re.I)
+    if m:
+        return ("piko_eu43", "EU43", None, None, None)
+
+    m = re.fullmatch(r"TGK2-?M?\s+[\"\u201e\u201c]([^\"\u201d\u201c]+)[\"\u201d\u201c](?:\s+SZD)?", clean, re.I)
+    if m:
+        return ("piko_tgk2", "TGK2", None, _pick_livery(article, m.group(1)), None)
+
+    m = re.fullmatch(r"D\.(\d{3})\.(\d{3,4})", clean, re.I)
+    if m:
+        return ("piko_fs_d_dot", f"D.{m.group(1)}", m.group(2), None, None)
+
+    m = re.fullmatch(r"(D\.\d{3})\s+(\d{3,4})", clean, re.I)
+    if m:
+        return ("piko_fs_d_num", m.group(1), m.group(2), None, None)
+
+    m = re.fullmatch(r"Vectron\s+(EB\s+\d{4})", clean, re.I)
+    if m:
+        return ("piko_vectron_eb", m.group(1), None, None, None)
+
+    m = re.fullmatch(r"Vectron\s+(E\.\d{3})\s+(.+)", clean, re.I)
+    if m:
+        return ("piko_vectron_e", m.group(1), None, _pick_livery(article, m.group(2).strip()), None)
+
+    m = re.fullmatch(r"(\d{4})\s+(ACTS)", clean, re.I)
+    if m:
+        return ("piko_acts", m.group(1), None, _pick_livery(article, m.group(2)), None)
+
+    m = re.fullmatch(r"Tkt1-(\d+)", clean, re.I)
+    if m:
+        return ("piko_tkt1", "Tkt1", m.group(1), None, None)
 
     m = re.fullmatch(r'"Desiro"\s+(.+)', clean, re.I)
     if m:
@@ -242,6 +330,27 @@ def _propose_refined_split(clean: str, article: Article) -> Optional[Fix]:
             None,
         )
 
+    m = re.match(
+        rf"^\d+er Set\s+(Rbe\s+4/4)\s+(NPZ)(?:\s+SBB)?(?:\s+{_ROMAN})?.*$",
+        clean,
+        re.I,
+    )
+    if m:
+        return ("piko_rbe_npz", m.group(1), None, _pick_livery(article, m.group(2)), None)
+
+    # Start-Set: bekannte Lokbezeichnung aus dem Rest ziehen
+    if re.match(r"(?i)^Start-Set\b", clean):
+        for series, rule in (
+            (r"\bTaurus\b", ("piko_start_taurus", "1216")),
+            (r"\bSM\s*42\b", ("piko_start_sm42", "SM42")),
+            (r"\bM62\b", ("piko_start_m62", "M62")),
+            (r"\bG7\b", ("piko_start_g7", "G7")),
+            (r"\bHerkules\b", ("piko_start_herkules", "Herkules")),
+            (r"\bRail\s*Jet\b", ("piko_start_railjet", "Railjet")),
+        ):
+            if re.search(series, clean, re.I):
+                return (rule[0], rule[1], None, None, None)
+
     return None
 
 
@@ -253,7 +362,15 @@ def propose_fix(article: Article) -> Optional[Fix]:
     if not isinstance(raw, str) or not raw.strip():
         return None
     n = model.get("number")
-    if n is not None and isinstance(n, str) and n.strip():
+    number_set = n is not None and isinstance(n, str) and bool(n.strip())
+
+    # Auch bei gesetzter Nummer: nur Livery-Bereinigung prüfen
+    if number_set:
+        cur_liv = model.get("livery")
+        if isinstance(cur_liv, str) and cur_liv.strip():
+            new_liv = _propose_livery_cleanup(cur_liv)
+            if new_liv is not None and new_liv != cur_liv.strip():
+                return ("piko_livery", model.get("type"), None, new_liv, None)
         return None
 
     clean = _clean_type(raw, article)
@@ -364,7 +481,7 @@ def propose_fix(article: Article) -> Optional[Fix]:
 
     if isinstance(cur_liv, str) and cur_liv.strip():
         new_liv = _propose_livery_cleanup(cur_liv)
-        if new_liv and new_liv != cur_liv.strip():
+        if new_liv is not None and new_liv != cur_liv.strip():
             return ("piko_livery", model.get("type"), None, new_liv, None)
 
     return None
@@ -403,7 +520,9 @@ def main(argv: list[str]) -> int:
         old_t, old_n, old_liv = model.get("type"), model.get("number"), model.get("livery")
         old_op = model.get("operator")
         if rule == "piko_livery":
-            if old_liv == new_liv:
+            old_norm = "" if old_liv is None else str(old_liv).strip()
+            new_norm = "" if new_liv is None else str(new_liv).strip()
+            if old_norm == new_norm:
                 continue
         elif (
             old_t == new_t
@@ -413,14 +532,21 @@ def main(argv: list[str]) -> int:
         ):
             continue
         nn = "null" if new_n is None else repr(new_n)
-        liv = "" if new_liv is None else f" livery={new_liv!r}"
+        if new_liv is None:
+            liv = ""
+        elif new_liv == "":
+            liv = " livery=null"
+        else:
+            liv = f" livery={new_liv!r}"
         op = "" if new_op is None else f" operator={new_op!r}"
         print(f"{path}\t{rule}\t{old_t!r}/{old_n!r} -> {new_t!r}/{nn}{liv}{op}")
         if not dry:
             if rule != "piko_livery":
                 model["type"] = new_t
                 model["number"] = new_n if new_n else None
-            if new_liv and (rule == "piko_livery" or _livery_ok(old_liv)):
+            if rule == "piko_livery":
+                model["livery"] = new_liv if new_liv else None
+            elif new_liv and _livery_ok(old_liv):
                 model["livery"] = new_liv
             if new_op:
                 model["operator"] = new_op

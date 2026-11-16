@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52436",
+  "manufacturer": "PIKO",
+  "articleNumber": "52436",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 325.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "BR T 435",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2022: Variante der BR 107 in der Ausführung BR T 435 der ČSD der Epoche IV. Die Lok aus der Expert-Reihe repräsentiert auch technisch den aktuellsten Stand und besitzt in der Soundvariante einen mfx®-fähigen PluX22-SoundDecoder.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-t-435-csd-iv-wechselstromversion,-inkl.-piko-sound-decoder-35435.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35435/thumbs/40770_453131.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51602",
+  "manufacturer": "PIKO",
+  "articleNumber": "51602",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "ET 21",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V"
+  },
+  "description": "Neuheit 2020 / 2021: Ein zeitgemässes Modell der PKP ET 21 wird sicher vielen Freunden der Eisenbahn in unserem Nachbarland das Herz aufgehen lassen, zählt die Güterzuglok doch zu den Meilensteinen des Traktionswandels in Polen. Diesen historischen Wert würdigt PIKO bei der Modellumsetzung in der Baugrösse H0. Entstanden ist ein Modell das den Charakter des Vorbilds ausgezeichnet einfängt. Typische Attribute der PIKO Expert Modelle sind auch an der ET 21 zu finden: Fein gravierte und äusserst plastische wirkende Lüftergitter, präzise durchbrochene Drehgestellblenden und eine äusserst filigrane Dachausrüstung. Ergänzt werden diese Eigenschaften durch eine absolut vorbildgerechte Lackierung und eine in gleichermassen exakte Bedruckung. Als Antrieb dient dem Modell ein fünfpoliger PIKO Motor mit zwei Schwungmassen. Fast schon obligatorisch ist die selbstverständlich in LED-Technik ausgeführte und mit der Fahrtrichtung wechselnde Beleuchtung in den Farben Rot und Weiss. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound eingebaut.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-et-21-pkp-v,-inkl.-piko-sound-decoder-30449.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30449/thumbs/33154_407214.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

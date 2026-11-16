@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51391",
+  "manufacturer": "PIKO",
+  "articleNumber": "51391",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CSD",
+    "type": "BR S 499.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2022: Die Anmut der formschönen Maschinen vom Typ Škoda 47E „Laminátka“ wurde hervorragend in den Massstab 1:87 übertragen und ein absolut stimmiges Gesamtbild geschaffen. Die vielen attraktiven Details, wie etwa die Oberlichter im Maschinenraum, wurden elegant umgesetzt und die stark gliedernde Linienführung des Lokkastens durch scharfe Gravuren visualisiert. Präzise nachgebildet wurden technische Elemente, wie der Drehgestelle, welche die gelungene Formgebung des Modells komplettieren. Die farbenfrohe Livree des Vorbilds, samt dynamisch wirkender Zierelemente, steht der Lok auch in 1:87 dank aufwendiger Lackierung und Bedruckung ausgezeichnet. Angetrieben wird die Lok durch einen fünfpoligen Motor, dessen gleichmässiger Lauf durch zwei Schwungmassen perfektioniert wird. Eine mit der Fahrtrichtung wechselnde Beleuchtung in Rot und Weiss ist selbstverständlich vorhanden und in zeitgemässer LED-Technik ausgeführt. Die Elektrolok verfügt als Soundmodell werkseitig bereits über einen mfx®-fähigen PluX22-SoundDecoder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-s-499.1-csd-iv-wechselstromversion,-inkl.-piko-sound-decoder-35289.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35289/thumbs/40733_433526.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

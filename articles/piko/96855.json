@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-96855",
+  "manufacturer": "PIKO",
+  "articleNumber": "96855",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 636.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Rbe 4/4",
+    "number": null,
+    "livery": "NPZ",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV"
+  },
+  "description": "Neuheit 2021: Die PIKO Modelle der RBe 4/4-Familie und die Steuerwagen aus der EW II-Serie weisen alle relevanten Details ihrer jeweiligenVorbilder auf und geben die auffällige Kopfform überzeugend wieder. Die Triebwagen verfügen über eine eingebaute Innen- undFührerstandsbeleuchtung und sind exakt im Massstab 1:87 umgesetzt. Weiterhin zeichnen sich die Fahrzeuge durch feinsteLackierung und Bedruckung, filigrane Stromabnehmer und eine präzise Dachlandschaft, angesetzte Griffstangen und Rückspiegel,schlierenfreie Fenster, scharf gravierte Drehgestelle und eine detaillierte Inneneinrichtung aus. Die Fahrzeuge besitzen einen Motor mit zwei Schwungmassen, eine PluX22-Schnittstelle und sind für Sound sowie den Einbau eines PIKO Sound-Decoders mit grösstmöglichem Lautsprecher vorbereitet. Die Innenbeleuchtung ist auch beim Steuerwagen serienmässig ab Werk vorhanden. Der ab Werk eingebaute PIKO SmartDecoder 4.1 der neuesten Generation beherrscht die Datenformate DCC mit RailComPlus®, Motorola® und Selectrix®. Der verbaute Lautsprecher ist genau auf den Loktyp abgestimmt. Viele loktypische Geräusche wie Motorengeräusch,Signalhörner, Bremsenquietschen und weitere schaltbare Funktionen sind einzeln abrufbar. Mit einstellbarem individuellemMapping für bis zu 44 Funktionen. Das Schlusslicht ist separat schaltbar. Sound ist auch im Analogbetrieb möglich – nur Motorengeräusch. Der Steuerwagen ist ab Werk in den digitalen Sets mit einem Funktionsdecoder ausgerüstet. Bremsschläuche zum optionalen Aufrüsten für den Vitrineneinsatz liegen bei.",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/2er-set-rbe-4-4-npz-sbb-iv-triebwagen-steuerwagen,-inkl.-piko-sound-decoder-32939.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32939/thumbs/35644_440979.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

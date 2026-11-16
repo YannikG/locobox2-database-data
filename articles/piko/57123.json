@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57123",
+  "manufacturer": "PIKO",
+  "articleNumber": "57123",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 184.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "G7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "III"
+  },
+  "description": "In der Epoche III dominierte die Dampftraktion. So führt in diesem Start-Set eine Lok der Baureihe 55 einen Güterzug mit fünf Wagen an, darunter einer der einst so typischen Güterzug-Gepäckwagen.\n\nStart-Set Güterzug Dampflok G7 mit 5 Güterwagen mit Bettungsgleis\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\nPIKO A-Gleis mit Bettung\n\nbestehend aus:\n\n1x Dampflok G7 mit 5 Güterwagen\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)\n\nersetzt das Start-Set 57120",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-gueterzug-dampflok-g7-mit-5-gueterwagen-29755.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_29755/thumbs/55068_410656.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

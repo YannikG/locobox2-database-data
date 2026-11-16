@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52923",
+  "manufacturer": "PIKO",
+  "articleNumber": "52923",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 428.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Trilex",
+    "type": "Desiro",
+    "number": null,
+    "livery": "Trilex",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI"
+  },
+  "description": "Neuheit 2022: Dieseltriebwagen Desiro im Design Trilex der Epoche VI. Das Modell des Triebwagens ist in der Soundausführung ab Werk einen passenden mfx®-fähigen SoundDecoder ausgestattet.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-desiro-trilex-vi-wechselstromversion,-inkl.-piko-sound-decoder,-35241.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35241/thumbs/41805_444204.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

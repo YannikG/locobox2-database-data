@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50656",
+  "manufacturer": "PIKO",
+  "articleNumber": "50656",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 509.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 693",
+    "number": "324",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III"
+  },
+  "description": "Neuheit 2022: Bei dem Modell wurden konstruktiv die landestypischen Details und Änderungen gegenüber Artikel #50650 berücksichtigt! Hierzu zählen unter anderem die dreidomige Ausführung, das geänderte Führerhausdach sowie die landestypische Kohlekastengestaltung. Die Soundvariante der Rh 693 der ÖBB besitzt ab Werk einen PSD SoundDecoder und ist darüber hinaus bereits mit einem Rauchsatz ausgestattet. Als weiteres Highlight verfügt die Lok der ÖBB über PIKO TrainSound® onboard.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-693-324-oebb-iii-wechselstromversion,-inkl.-piko-sound-decoder-und-dampfgenerator-35586.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35586/thumbs/40349_421926.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

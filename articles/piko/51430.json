@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51430",
+  "manufacturer": "PIKO",
+  "articleNumber": "51430",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 255.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "BR V 43",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Mit Szili – so der Spitzname der Silizium-Gleichrichterlok V 43 – erscheint bei PIKO eine weitere Ikone unter den Elektrolokomotiven Osteuropas. Dabei wartet die V 43 mit allen Eigenschaften aktueller PIKO Expert Modelle auf: Gleichermassen filigran und hochdetailliert zeigt sich die Dachpartie der Maschine. Die äusserst plastisch wirkenden Gravuren verleihen dem Lokkasten im Zusammenspiel mit den freistehenden Ansetzteilen höchste Vorbildtreue. Abgerundet wird der Gesamteindruck durch die hervorragende Umsetzung der markanten Drehgestelle. Im Innern besitzt die Lok robuste Antriebstechnik gepaart mit modernster Elektronik. Zahlreiche Beleuchtungsfunktionen erzeugen beim Anlageneinsatz einen spielerischen Mehrwert. Die analoge Ausführung lässt sich dank der PluX22-Digitalschnittstelle im Handumdrehen umrüsten. Die Varianten mit digitalem Sound geben die typischen Geräusche der Vorbildmaschinen vortrefflich wieder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-v-43-mav-vi-33031.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_33031/thumbs/39903_433070.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

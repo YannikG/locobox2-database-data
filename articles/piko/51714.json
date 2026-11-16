@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51714",
+  "manufacturer": "PIKO",
+  "articleNumber": "51714",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 340.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 143",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI"
+  },
+  "description": "Neuheit 2021: Zur Familie der Baureihe 143 gehörende Elektrolokomotive in der Ep. VI der DB AG.\n\nKonstruktionsprinzipien: Der fünfpolige PIKO Motor, der alle vier Achsen antreibt, sorgt mit seinen zwei grossen, präzise dimensionierten Schwungmassen und der Stromabnahme über acht Räder für ausgezeichnete Laufeigenschaften. Um eine hohe Zugkraft zu gewährleisten, verfügt das kompakte Modell neben erheblichem Eigengewicht über zwei Haftreifen, die auf den innen laufenden Achsen beider Drehgestelle in diagonaler Anordnung zueinander sitzen. Das Modell weist alle PIKO Standards auf, darunter eine PluX22-Schnittstelle, den Lichtwechsel weiss/ rot - je nach Fahrtrichtung, eine Kurzkupplungskinematik und ist bereits mit Sound und einem grossen Lautsprecher ausgerüstet. Das Modell kann problemlos Radien ab 358 mm befahren.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-143-db-ag-vi-wechselstromversion,-inkl.-piko-sound-decoder-32679.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32679/thumbs/35193_436826.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}
