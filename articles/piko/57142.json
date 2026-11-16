@@ -16,8 +16,10 @@
     "livery": "Roncalli",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "decoderInterface": "Unbekannt",
-    "era": "Unbekannt"
+    "decoderInterface": "nicht vorhanden",
+    "era": "Unbekannt",
+    "luepMm": 473,
+    "minRadiusMm": 358
   },
   "description": "Entwickelt in exklusiver Kooperation mit dem Circus Theater Roncalli!\n\nR/C Start-Set mit Bettungsgleis Güterzug \"Roncalli\"\n\nGrundfläche: ca. 110 x 88 cm\n\nMin. Aufbaufläche: 120 x 98 cm\n\nbestehend aus:\n\n12 x 55412 Bogen R2 422 mm\n\n1 x 55401 Gerade G231 mm\n\n1 x 55406 Gerade G231 mm für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Netzteil (Adapter 11,2 W)\n\n1 x Fernbedienung",
   "categories": [],

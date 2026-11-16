@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 193,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der BR 111 in orange-kieselgrauer Lackierung",
   "categories": [

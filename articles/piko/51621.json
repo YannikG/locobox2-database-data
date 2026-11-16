@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Digital",
+    "electricSystem": "AC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 185,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2020 / 2021: Mit der neukonstruierten PIKO 1044/1144 wird es erstmals auch authentische Modelle der hohen Ordnungsnummern dieser Baureihe in 1:87 geben. Das charaktervolle Lokgesicht des einstigen ÖBB-Paradepferds wurde in der Modellumsetzung hervorragend getroffen, ebenso die markante Seitenpartie der Fahrzeuge, die mit den ausgeprägten Sicken und den typischen „Bullaugen“ durchaus Herausforderungen an den Formenbau stellte. Der dabei entstandene Eindruck idealer optischer Wirkung setzt sich in den Drehgestellen der Lokomotive fort. Nicht zuletzt weiss die neue 1044 technisch zu überzeugen: Ein fünfpoliger PIKO Motor, auf dessen Welle zwei fein gewuchtete Schwungmassen sitzen, sorgt für gleichmässigen Vortrieb. Die Mittelleiter-Ausführung des Modells ist werksseitig mit mfx‑fähigem Digitaldecoder ausgestattet. Der heute obligatorische Lichtwechsel wurde in zeitgemässer LED-Technik realisiert. Nicht selbstverständlich ist hingegen die beim PIKO Modell ebenfalls vorhandene und im Digitalbetrieb schaltbare Beleuchtung von Führerstand und Führerpult.",
   "categories": [
@@ -32,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30453/thumbs/34082_436963.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:47Z"
+  "updatedAt": "2026-11-16T10:41:24Z"
 }

@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 224,
+    "minRadiusMm": 358
   },
   "description": "Das Modell der Baureihe 150 folgt mit seiner Konstruktion der bewährten PIKO Antriebsausführung. Der solide fünfpolige schräg genutete PIKO Motor sorgt mit zwei präzise ausgewuchteten Schwungmassen für ausgezeichnete Laufeigenschaften. Die Zugkraft der über vier Achsen angetriebenen Lok wird über zwei Haftreifen verstärkt, die in diagonaler Anordnung auf den innen laufenden Achsen beider Drehgestelle sitzen. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Die Führerstandsbeleuchtung und das Schlusslicht können digital geschaltet werden.",
   "categories": [

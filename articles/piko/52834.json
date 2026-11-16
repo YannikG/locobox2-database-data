@@ -13,11 +13,13 @@
     "operator": "DB",
     "type": "BR 360",
     "number": null,
-    "livery": null,
+    "livery": "blaubeige",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 120,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Formvariante der BR 360 in blaubeiger Lackierung zugehörig zur Deutschen Bahn AG in der Epoche V",
   "categories": [

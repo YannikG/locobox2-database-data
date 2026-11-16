@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 206,
+    "minRadiusMm": 358
   },
   "description": "Das PIKO Modell der 181 zeigt in der Verkehrsroten Ausführung der Epoche VI alle relevanten Details seines Vorbildes auf und überzeugt durch feinste Lackierung und Bedruckung, extra angesetzte Frontgriffe und Türgriffstangen, scharf gravierte Drehgestellblenden, feine Isolatoren und Stromabnehmer mit unterschiedlichen Schleifstücken. Die Beleuchtung erfolgt mittels LEDs. Die serienmässig eingebaute Führerstands- und Maschinenraumbeleuchtungen sind wie die fahrtrichtungsabhängig funktionierenden Schlusslichter digital schaltbar. Ein starker fünfpoliger Motor mit zwei präzise ausgewuchteten Schwungmassen, der alle vier Achsen antreibt, sorgt für hervorragende Fahreigenschaften. Das schwere PIKO Modell verfügt über zwei Haftreifen und einen schweren Zinkdruckgussrahmen für grosse Zugkräfte. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound und mfx-Funktionalität eingebaut. Optional ansteckbare Bremsschlauchattrappen liegen dem Modell bei.",
   "categories": [

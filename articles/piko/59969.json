@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Wie alle Traxx-Modelle von PIKO zeigt die EU43 der Przewozy Regionalne scharfe Gravuren, jedes Detail der Drehgestellblenden mit den Achslagern und Federelementen. Das Gehäuse mit den Klappen, Lüftergittern, Handstangen, sowie das Dach mit den Leitungen und Stromabnehmern, wurden nach Vorbildunterlagen modelliert und aufwendig graviert. Bedruckung und Lackierung entsprechen dem jeweiligen Vorbild. Der Antrieb erfolgt über einen starken Motor, Kardanwellen, Getriebe auf alle vier Radsätze. Der Lichtwechsel weiss/rot erfolgt mit der Fahrtrichtung.",
   "categories": [

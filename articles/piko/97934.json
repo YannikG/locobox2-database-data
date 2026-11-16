@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Unbekannt",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 780,
+    "minRadiusMm": 358
   },
   "description": "Das Set mit zwei Doppelstockwagen und der Diesellok SM42 Stonka der PKP bildet einen typischen Personenzug auf einer nicht elektrifizierten Regionalstrecke in Polen nach.\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\n1 x Diesellok SM42 PKP\n\n2 x Doppelstockwagen PKP\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)",
   "categories": [

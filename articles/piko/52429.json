@@ -9,15 +9,17 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "CZ",
-    "operator": "CSD",
+    "country": "CS",
+    "operator": "ČSD",
     "type": "BR T 435",
     "number": null,
-    "livery": null,
+    "livery": "blau",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 144,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der BR 107 als BR T 435 der CSD in Ep. IV in blauer Lackierung.",
   "categories": [
@@ -32,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32866/thumbs/36091_431592.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:47Z"
+  "updatedAt": "2026-11-16T10:41:24Z"
 }

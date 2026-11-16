@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "V"
+    "era": "V",
+    "luepMm": 711,
+    "minRadiusMm": 358
   },
   "description": "Start-Set bestehend aus einer E-Lok der Taurus-Familie mit drei Güterwagen, davon einer beladen mit einem Sattelzug.\n\nStart-Set Taurus ÖBB mit Güterwagen mit Bettungsgleis\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\nPIKO A-Gleis mit Bettung\n\nbestehend aus:\n\n1x E-Lok Taurus ÖBB mit Güterwagen\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)\n\nersetzt das Start-Set 57170",
   "categories": [

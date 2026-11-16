@@ -9,15 +9,17 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "CZ",
-    "operator": "CSD",
+    "country": "CS",
+    "operator": "ČSD",
     "type": "BR S499.1",
     "number": null,
-    "livery": null,
+    "livery": "Laminátka",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 189,
+    "minRadiusMm": 358
   },
   "description": "Erstmalig erscheinen die formschönen Maschinen vom Typ Škoda 47E „Laminátka“ als einsatzfähiges Grossserienmodell in der Baugrösse H0. Die Anmut der Maschine wurde hervorragend in den Massstab 1:87 übertragen und ein absolut stimmiges Gesamtbild geschaffen. Die vielen attraktiven Details, wie etwa die Oberlichter im Maschinenraum, wurden elegant umgesetzt und die stark gliedernde Linienführung des Lokkastens durch scharfe Gravuren visualisiert. Präzise nachgebildet wurden technische Elemente, wie der Drehgestelle, sie komplettieren die gelungene Formgebung des Modells. Die farbenfrohe Livree des Vorbilds, samt dynamisch wirkender Zierelemente, steht der Lok auch in 1:87 dank aufwendiger Lackierung und Bedruckung ausgezeichnet. Angetrieben wird die Lok durch einen fünfpoligen Motor, dessen gleichmässiger Lauf durch zwei Schwungmassen perfektioniert wird. Eine mit der Fahrtrichtung wechselnde Beleuchtung in Rot und Weiss ist selbstverständlich vorhanden und in zeitgemässer LED-Technik ausgeführt. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound und mfx-Funktionalität eingebaut.",
   "categories": [
@@ -32,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30442/thumbs/32443_455592.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:47Z"
+  "updatedAt": "2026-11-16T10:41:24Z"
 }

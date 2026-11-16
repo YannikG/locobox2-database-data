@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 161,
+    "minRadiusMm": 358
   },
   "description": "Die dieselelektrischen, vierachsigen Drehgestellloks der Reihe 2200 der Niederländischen Staatsbahn NS prägten in ihren Beschaffungsjahren von 1955 bis 1958 die Zeit des Traktionswandels von Dampf- auf Diesellokomotiven. Zusammen mit der Reihe 2400 wurden 280 Exemplare in Dienst gestellt. Mit ihren einseitigen Endführerständen und den langen Vorbauten verkörperten die Maschinen eine amerikanische Bauform. Die NS-Maschinen wurden jedoch ausschliesslich von westeuropäischen Firmen gefertigt. Die 100 km/h schnellen Loks liessen sich nicht nur im Güterzug- und Rangierdienst einsetzen, sondern wurden auch gern vor Reisezügen verwendet. Vor schweren Erzzügen wurden von den 900 PS starken Maschinen teilweise bis zu vier Lokomotiven in Mehrfachtraktion verwendet.",
   "categories": [

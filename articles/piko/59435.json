@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 125,
+    "minRadiusMm": 358
   },
   "description": "Ehemalige V 60 der Deutschen Reichsbahn im Einsatz des privaten niederländischen EVUs ACTS in attraktiver blauer Lackierung.",
   "categories": [

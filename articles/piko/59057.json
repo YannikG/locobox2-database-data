@@ -15,9 +15,11 @@
     "number": null,
     "livery": "Green Cargo DK",
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der BR 185.2 als dänische BR 5400 der Green Cargo in der Epoche VI",
   "categories": [

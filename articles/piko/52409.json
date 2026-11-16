@@ -13,11 +13,13 @@
     "operator": "DB",
     "type": "BR 216",
     "number": null,
-    "livery": null,
+    "livery": "beigeblau",
     "scale": "H0",
     "electricSystem": "AC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 184,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Formvariante der BR 216 in beigeblauer Lackierung der Ep. IV",
   "categories": [

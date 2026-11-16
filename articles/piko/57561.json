@@ -9,15 +9,17 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "CZ",
-    "operator": "CSD",
+    "country": "CS",
+    "operator": "ČSD",
     "type": "BR 413",
     "number": null,
     "livery": "/ BR 55 (G7.1)",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "III"
+    "era": "III",
+    "luepMm": 193,
+    "minRadiusMm": 358
   },
   "description": "Zubehör für echten Spielbetrieb:\n\n#56160 Dampfgenerator 10-16 V AC/DC Analogbetrieb\n\n#56161 Dampfgenerator 16-22 V AC/DC Digitalbetrieb\n\n#56162 Dampfdestillat 50 ml + Einfüllgerät\n\n#56610 Soundmodul + Lautsprecher Druckvariante der ČSD-Dampflok 413 ehemals preussische G 7 in Ausführung der Epoche III.",
   "categories": [
@@ -32,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30024/thumbs/29790_457900.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:47Z"
+  "updatedAt": "2026-11-16T10:41:24Z"
 }

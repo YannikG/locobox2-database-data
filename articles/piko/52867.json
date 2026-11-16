@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 218,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Das PIKO Modell der SU46 zeichnet sich durch den gelungenen Formenbau und die stimmige Umsetzung aller relevanten Details der Vorbildmaschine aus. Die PIKO SU46 besitzt eine feinste Lackierung und Bedruckung, passende Lampen, digital schaltbare Führerstands- und Maschinenraumbeleuchtungen und fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter mittels LEDs. Die detailliert dargestellte Maschinenraumeinrichtung wurde für einen realistischeren Effekt als Highlight mit freiem Durchblick gestaltet. Durch den schweren Zinkdruckgussrahmen, zwei Haftreifen und den fünfpoligen Motor mit zwei Schwungmassen werden hervorragende Fahreigenschaften und hohe Zugkräfte erreicht. Die unkomplizierte Nachrüstung mit Sound und grösstmöglichem Lautsprecher ist auf der aufgeräumten Platine mit PluX22-Schnittstelle vorbereitet. Ansteckbare Bremsschlauchattrappen liegen dem Modell der SU46 bei.",
   "categories": [

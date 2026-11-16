@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 159,
+    "minRadiusMm": 422
   },
   "description": "Neuheit 2022: Bei dem Modell wurden konstruktiv die landestypischen Details und Änderungen gegenüber Artikel #50650 berücksichtigt! Hierzu zählen unter anderem die landestypischen Leuchten, die Gestaltung der Rauchkammertür sowie die vorbildgerechte Position des Lichtmaschinengenerators. Die Soundvariante der Tkt1-63 der PKP besitzt ab Werk einen PSD SoundDecoder und ist darüber hinaus bereits mit einem Rauchsatz ausgestattet. Als weiteres Highlight verfügt die Tkt1-63 über PIKO TrainSound® onboard.",
   "categories": [

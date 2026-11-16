@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 453,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Zur Nachrüstung von Innenbeleuchtung wird der Beleuchtungssatz #56143 + 2x #56139 benötigt.",
   "categories": [

@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 218,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Über Geschmack lässt sich trefflich streiten, es gibt jedoch Dinge, deren Eleganz über jeden Zweifel erhaben ist. Von der unbestrittenen Eleganz des Vorbilds dürfen auch die neuen PIKO Modelle der NoHAB profitieren. Um diesen Gesamteindruck zu erreichen wurde grosser Wert auf Details gelegt. Die seitlichen Lüftungsgitter werden als stark gliedernde Elemente des Lokkastens mit feinen Ätzteilen ausgeführt und sind ein absoluter Blickfang. Aber auch die markanten stirnseitigen Scheiben sowie die seitlichen „Bullaugen“ tragen durch den perfekt bündigen Sitz zum hervorragenden Bild bei. Vollendet wird der Eindruck durch die präzise und hochdetaillierte Gestaltung der Drehgestelle. Als Antrieb dient ein kräftiger und laufruhiger Motor mit zwei Schwungmassen. Verschiedene Beleuchtungsfunktionen und der kernige Klang der Soundversionen sorgen für abwechslungsreichen Betrieb auf der Anlage. Das Modell der Serie 52 der SNCB verfügt in der Soundversion bereits ab Werk über einen mfx®-fähigen PluX22-SoundDecoder.",
   "categories": [
@@ -32,5 +34,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35511/thumbs/42782_445299.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:47Z"
+  "updatedAt": "2026-11-16T10:41:24Z"
 }

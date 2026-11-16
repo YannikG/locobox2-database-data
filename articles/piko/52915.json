@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 239,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Druckvariante der BR 132 als Rh 648 von Gysev. Das PIKO Modell überzeugt durch den gelungen Formenbau und die originalgetreue Umsetzung aller relevanten Details der jeweiligen Vorbildmaschine. Die Diesellok zeichnet sich u.a. durch feinste Lackierung und Bedruckung, freistehende Griffstangen, einen Zinkdruckgussrahmen und einen kräftigen fünfpoligen Motor aus, der in Kombination mit zwei ausgewuchteten Schwungmassen ausgeglichene Laufeigenschaften garantiert. Die Beleuchtung erfolgt mittels LEDs. Die Führerstandsbeleuchtung und das Schlusslicht lassen sich mit einem PluX22-Decoder digital schalten. Das Modell verfügt über zwei Haftreifen, die in diagonaler Anordnung auf den inneren Achsen der beiden Drehgestelle sitzen. Die Stromabnahme erfolgt über sämtliche Räder. Das Modell ist in der Soundversion werkseitig mit einem mfx®-fähigen PluX22-SoundDecoder ausgestattet.",
   "categories": [

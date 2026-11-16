@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "II"
+    "era": "II",
+    "luepMm": 170,
+    "minRadiusMm": 422
   },
   "description": "Neuheit 2022 Das Modell der BR 78 der DRG aus Epoche II überzeugt durch ihren grossen Detailreichtum. Nahezu alle Leitungen wurden freistehend ausgeführt und die einzelnen Elemente, wie Führerhaus, Wasserkästen und Rauchkammer, zieren feinste Nachbildungen der Nietköpfe. Die Soundvariante verfügt ab Werk über einen PSD XP S SoundDecoder der neuesten Generation sowie einen integrierten Rauchsatz. Mit dieser Lokomotive hat PIKO die BR 78 in ihrem ursprünglichen Aussehen als Modell umgesetzt, so wie die Lok 1923 in Kassel aus dem Werk kam. Auffallend ist der kleine Kohlenkasten ohne Aufsatzbretter, die fehlenden Abweiser an der Führerhausrückwand, die Rauchkammertür mit grossem Verschlussrad und die zwei grossen Lampen auf der Pufferbohle. Auch die Beschriftung entspricht vorbildgetreu dem Betriebszustand bei Auslieferung.",
   "categories": [

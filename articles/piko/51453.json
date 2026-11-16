@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 747,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021/2022: Mit dem EN57 kommt PIKO einem weiteren Wunsch der polnischen Modellbahnfreunde nach. Die markanten Merkmale des Originals wurden exakt nachgebildet. Hierzu zählen die Dachausrüstung, filigrane Stromabnehmer, die realistisch wiedergegebenen Lampen, sowie die nachgebildete Inneneinrichtung. Lackierung und Bedruckung sind der Epoche entsprechend nachempfunden. Die Kurzkupplungen erlauben auch im Modell eine Fahrt in Doppeltraktion, die Bildung ganzer Zuggarnituren ist vorbildgerecht möglich. Ein starker Motor mit Schwungmasse verleiht dem Modell hervorragende Fahreigenschaften. Für den Mittelleiterbetrieb ist ein Decoder ab Werk eingebaut.",
   "categories": [

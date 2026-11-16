@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 479,
+    "minRadiusMm": 358
   },
   "description": "Dieseltriebwagen Desiro der Dänischen Staatsbahnen als Baureihe MQ.",
   "categories": [

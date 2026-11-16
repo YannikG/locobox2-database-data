@@ -15,9 +15,10 @@
     "number": null,
     "livery": "WFL",
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "minRadiusMm": 358
   },
   "description": "Exklusives Zugset: Güterzug \"Holz aus Südthüringen\", Diesellok BR 232 WFL mit drei Stammholztransportwagen Roos-t642, Ep. VI\n\nAls 1974 die ersten Diesellokomotiven BR 132 (später BR 232) für den universellen Einsatz im Personen- und Güterverkehr in Betrieb genommen wurden, setzte die Deutsche Reichsbahn eine Nutzungsdauer von 20 Jahren an – und aktuell, beinahe 50 Jahre später, sind noch immer einige Exemplare der BR 232 im Einsatz. Heute sind die Lokomotiven dieser Baureihe überwiegend im Güterzugdienst anzutreffen. Ein Beispiel hierfür ist die 232 333-5 der Wedler Franz Logistik GmbH & Co. KG. Das mittelständische, private Eisenbahnverkehrsunternehmen ist unter anderem in den Bereichen Güterverkehr und Bahnbaulogistik tätig. Eine der Einsatzregionen der 232 333-5 ist Sonneberg, wo die Lokomotive von Zeit zu Zeit beim Transport von Holzstämmen beobachtet werden kann. Diese Szene wurde mit dem PIKO TOFT-Set 2022 originalgetreu für die Modelleisenbahnwelt umgesetzt. Gönnen Sie sich das besondere Erinnerungsstück!",
   "categories": [

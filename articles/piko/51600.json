@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 193,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2020 / 2021: Ein zeitgemässes Modell der PKP ET 21 wird sicher vielen Freunden der Eisenbahn in unserem Nachbarland das Herz aufgehen lassen, zählt die Güterzuglok doch zu den Meilensteinen des Traktionswandels in Polen. Diesen historischen Wert würdigt PIKO bei der Modellumsetzung in der Baugrösse H0. Entstanden ist ein Modell das den Charakter des Vorbilds ausgezeichnet einfängt. Typische Attribute der PIKO Expert Modelle sind auch an der ET 21 zu finden: Fein gravierte und äusserst plastische wirkende Lüftergitter, präzise durchbrochene Drehgestellblenden und eine äusserst filigrane Dachausrüstung. Ergänzt werden diese Eigenschaften durch eine absolut vorbildgerechte Lackierung und eine in gleichermassen exakte Bedruckung. Als Antrieb dient dem Modell ein fünfpoliger PIKO Motor mit zwei Schwungmassen. Die Nachrüstung eines Digitaldecoders oder eines Fahrzeugsounds lässt sich dank PluX22-Schnittstelle und passendem Einbauraum ganz einfach bewerkstelligen. Fast schon obligatorisch ist die selbstverständlich in LED-Technik ausgeführte und mit der Fahrtrichtung wechselnde Beleuchtung in den Farben Rot und Weiss.",
   "categories": [

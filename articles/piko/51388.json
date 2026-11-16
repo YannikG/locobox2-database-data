@@ -15,9 +15,11 @@
     "number": null,
     "livery": "ZSSK",
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der S 499 als BR 240 der ZSSK.",
   "categories": [

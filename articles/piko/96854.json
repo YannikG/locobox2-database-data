@@ -15,9 +15,11 @@
     "number": null,
     "livery": "NPZ",
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 544,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Die PIKO Modelle der RBe 4/4-Familie und die Steuerwagen aus der EW II-Serie weisen alle relevanten Details ihrer jeweiligenVorbilder auf und geben die auffällige Kopfform überzeugend wieder. Die Triebwagen verfügen über eine eingebaute Innen- und Führerstandsbeleuchtung und sind exakt im Massstab 1:87 umgesetzt. Weiterhin zeichnen sich die Fahrzeuge durch feinste Lackierung und Bedruckung, filigrane Stromabnehmer und eine präzise Dachlandschaft, angesetzte Griffstangen und Rückspiegel,schlierenfreie Fenster, scharf gravierte Drehgestelle und eine detaillierte Inneneinrichtung aus. Die Fahrzeuge besitzen einen Motor mit zwei Schwungmassen, eine PluX22-Schnittstelle und sind für Sound sowie den Einbau eines PIKO Sound-Decoders mit grösstmöglichem Lautsprecher vorbereitet. Die Innenbeleuchtung ist auch beim Steuerwagen serienmässig ab Werk vorhanden. Bremsschläuche zum optionalen Aufrüsten für den Vitrineneinsatz liegen bei.",
   "categories": [

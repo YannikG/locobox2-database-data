@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 219,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Nun ist auch dieser Tausendsassa der DB AG als PIKO Expert Modell vertreten. Die moderne Bauform der Lokomotive ist exakt nachempfunden worden. Die Einholm-Stromabnehmer sind äusserst filigran nachgebildet worden. Scharf gravierte Drehgestelle runden den optischen Auftritt ab. Zur Komplementierung liegen zurüstbare Bremsschläuche bei. Für freie Fahrt sorgt ein kraftvoller, 5-poliger Motor. Mit zwei Schwungmassen ausgestattet, fällt die PIKO BR 101 mit extremer Laufruhe auf. Traktion beim Fortkommen verschaffen zwei diagonal angebrachte Haftreifen. Technisches Highlight sind die verbauten Führerstands- und Führerpultbeleuchtungen. Der Lichtwechsel erfolgt fahrtrichtungsabhängig in rot/weiss, natürlich ausgeführt in modernster LED-Technik. Im Digitalbetrieb sind diese Funktionen separat schaltbar. Die Soundversion wird werkseitig mit einem PSD S SoundDecoder ausgeliefert. Als weiteres Highlight verfügt die BR 101 über PIKO TrainSound® onboard. Das Modell gibt die ersten Betriebsjahre nach Auslieferung im Jahr 1997 wieder. Es zeichnet sich durch die geänderte Dachlüfteranordnung und die grösseren Frontlampen aus.",
   "categories": [

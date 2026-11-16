@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Die Baureihe 187, als erste Vertreterin aus der nunmehr dritten Traxx- Reihe von Bombardier, verkörpert eine hochmoderne elektrische Drehgestell-Lokomotive für Systeme mit 15 kV und 16,7 Hz sowie 25 kV 50 Hz Wechselstrom. Die Lokomotive wurde unter Nutzung konstruktiver Erfahrungen mit der US-amerikanischen Hybridlokomotive ALP-45DP entwickelt. Das private EVU EP Cargo setzt die BR 187 im Güterverkehr ein.",
   "categories": [

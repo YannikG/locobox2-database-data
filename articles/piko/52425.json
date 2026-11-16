@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 144,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der Baureihe 107 als V 75 Ep. III",
   "categories": [

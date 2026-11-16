@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Druckvariante der BR 187 als BR 388 der ČD Cargo in der Epoche VI. Die Elektrolok verfügt in der Soundausführung ab Werk über einen mfx®-fähigen SoundDecoder.",
   "categories": [

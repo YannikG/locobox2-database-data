@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 633,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Druckvariante der BR 440 im Design der Nordwestbahn in der Epoche VI. Das Soundmodell verfügt ab Werk über einen mfx®-fähigen SoundDecoder.",
   "categories": [

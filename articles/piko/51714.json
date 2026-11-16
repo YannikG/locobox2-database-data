@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 191,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Zur Familie der Baureihe 143 gehörende Elektrolokomotive in der Ep. VI der DB AG.\n\nKonstruktionsprinzipien: Der fünfpolige PIKO Motor, der alle vier Achsen antreibt, sorgt mit seinen zwei grossen, präzise dimensionierten Schwungmassen und der Stromabnahme über acht Räder für ausgezeichnete Laufeigenschaften. Um eine hohe Zugkraft zu gewährleisten, verfügt das kompakte Modell neben erheblichem Eigengewicht über zwei Haftreifen, die auf den innen laufenden Achsen beider Drehgestelle in diagonaler Anordnung zueinander sitzen. Das Modell weist alle PIKO Standards auf, darunter eine PluX22-Schnittstelle, den Lichtwechsel weiss/ rot - je nach Fahrtrichtung, eine Kurzkupplungskinematik und ist bereits mit Sound und einem grossen Lautsprecher ausgerüstet. Das Modell kann problemlos Radien ab 358 mm befahren.",
   "categories": [

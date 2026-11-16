@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 218,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021:Mit dem H0-Modell der E-Lok Vectron der InRail erfüllt PIKO die Wünsche von PIKO Fans, die sich sowohl als Anlagenbetreiber wie auch als Sammler für Modelle nach Vorbildern modernster Bahntechnik entschieden haben. Mit dem Vectron liefert PIKO ein hochpräzise gefertigtes Modell, das auf der Basis eines soliden Zinkdruckgussrahmens und der Ausstattung mit bewährten PIKO Standards über zahlreiche Extras verfügt. Der erprobte PIKO Motor sorgt mit zwei grossen Schwungmassen für ausgezeichnete Laufeigenschaften. Die Zugkraft der über alle vier Achsen angetriebenen Lok wird über zwei Haftreifen verstärkt, die auf den innen laufenden Achsen beider Drehgestelle in diagonaler Anordnung zueinander sitzen. Die Beleuchtung der Stirn- bzw. Schlusslampen erfolgt über LEDs, deren Rot bzw. Weiss mit der Fahrtrichtung wechselt. Zum äusserlich eleganten Erscheinungsbild dieses Modells gehören eine exakt nachgebildete technische „Dachlandschaft“ und sorgfältig detaillierte Drehgestelle mit vorbildgerechten Radscheibenprofilen.",
   "categories": [

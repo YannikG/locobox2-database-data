@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Unbekannt",
-    "era": "V"
+    "era": "V",
+    "luepMm": 909,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Attraktives Dreierset bestehend aus drei IC Wagen im Design Gorch Fock der DB AG aus Epoche V.",
   "categories": [

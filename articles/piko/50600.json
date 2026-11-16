@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 170,
+    "minRadiusMm": 422
   },
   "description": "Endlich kommt eine zeitgemässe Ablösung der sehr beliebten und früher weitverbreiteten BR 78 in Form einer Neukonstruktion aus dem Hause PIKO – und mit ihr die erste Dampflok in der Produktlinie Expert. Das Modell hängt den etablierten Standard des Expert-Sortiments noch etwas höher. Nahezu alle Leitungen wurden freistehend ausgeführt, Führerhaus, Wasserkästen und Rauchkammer zieren feinste Nachbildungen der Nietköpfe. Radsatzsterne und Steuerung konnten durch die verwendeten Materialien höchst filigran ausgeführt werden. Für ausgezeichnete Fahreigenschaften sorgt der fünfpolige PIKO Motor mit Schwungmasse. Zusatzgewichte im Kessel und zwei Haftreifen sorgen für eine hohe Zugkraft. Dank der modernen PluX22-Schnittstelle ist die Nachrüstung eines Decoders kinderleicht. Ebenfalls mit minimalem Aufwand können nachträglich ein Lautsprecher und ein Rauchsatz eingebaut werden. Für authentische Betriebsstimmung sorgt die fahrtrichtungsabhängige Beleuchtung in LED-Ausführung.",
   "categories": [

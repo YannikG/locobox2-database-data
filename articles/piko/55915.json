@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 124,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Mit den Lokomotiven der PIKO Expert Plus Linie kann der Betrieb auf der Modelleisenbahnanlage noch vorbildgetreuer durchgeführt werden. Durch die Entwicklung der neuen PIKO Digitalkupplung sind ab sofort Rangierfahrten mit ferngesteuertem, störungsfreiem An- und Abkuppeln von Wagen mit der von PIKO gewohnt hohen Betriebssicherheit bei ausgesuchten Lokomotiven möglich. Hierbei werden die Vorzüge der beliebten, detailverliebten PIKO Expert Lokomotiven mit den innovativen technischen Features neuester Entwicklungen kombiniert. Die Triebfahrzeuge der Expert Plus Linie überzeugen mit realistischem, kraftvollem 12bit Sound mit 8 Kanälen und 128 Mbit Speichertiefe bei 2,5 Watt Ausgangsleistung, einer feinen Motorregelung und vielfältigen Lichtausgängen, die zusammen mit dem Pufferspeicher sowie der innovativen Digital-Kupplung eine neue Generation an PIKO Lokomotiven ermöglichen. AC Ausführung mit mfx-fähigem Decoder!",
   "categories": [

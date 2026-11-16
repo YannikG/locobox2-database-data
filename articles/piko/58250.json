@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "Unbekannt",
-    "era": "V"
+    "era": "V",
+    "luepMm": 303,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Attraktives Dreierset bestehend aus einem 2. Klasse und einem 1./2. Klasse Silberling sowie einem passenden Nahverkehrssteuerwagen.",
   "categories": [

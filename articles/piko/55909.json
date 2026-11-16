@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "V"
+    "era": "V",
+    "luepMm": 175,
+    "minRadiusMm": 358
   },
   "description": "Durch das besondere Erscheinungsbild, das grosse Einsatzgebiet und die hervorragenden Fahreigenschaften gemischt mit Detailverliebtheit und Betriebstauglichkeit wird die italienische D.145 Sammler aussergewöhnlicher europäischer Loks und Anlagenbetreiber gleichermassen begeistern. Das Modell von PIKO überzeugt durch feinste Lackierung und Bedruckung, die exakte Gehäuseform, angesetzten Griffstangen und scharf gravierte Drehgestellblenden. Der Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das Modell besitzt ab Werk eine umfangreiche Digitalausstattung mit authentischem Fahrzeugsound und einer digital steuerbaren Kupplung.",
   "categories": [

@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 144,
+    "minRadiusMm": 358
   },
   "description": "Mit der Neukonstruktion der V 75 erfüllt sich der Wunsch vieler Modellbahner nach einem zeitgemässen Modell der Rangierlokomotive. Aus dem markanten Vorbild ist bei PIKO ein exzellentes Modell geworden, das optisch und technisch überzeugt. Die hervorragend widergegebene Gesamterscheinung wird durch die präzisen und sehr plastisch wirkenden Gravuren am Vorbau der Lokomotive unterstrichen. Hervorragend lackiert und bedruckt schmeichelt PIKOs V 75 auch dem kritischen Modellbahner-Auge. Die Lok aus der Expert-Reihe repräsentiert auch technisch den aktuellsten Stand. Selbstverständlich besitzt das Fahrzeug eine mit der Fahrtrichtung wechselnde LED-Beleuchtung in den Farben Rot und Weiss. Als Antrieb dient ein fünfpoliger Motor, dessen gleichmässiger Lauf durch zwei gewuchtete Schwungmassen zusätzlich verfeinert wird. Das Modell besitzt zudem ab Werk eine umfangreiche Digitalausstattung mit authentischem Fahrzeugsound und einer digital steuerbaren Kupplung.",
   "categories": [

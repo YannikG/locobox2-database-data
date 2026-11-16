@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Digital",
+    "electricSystem": "AC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 162,
+    "minRadiusMm": 358
   },
   "description": "Das PIKO Expert Modell der Reihe 1100 der Niederländischen Staatsbahnen NS überzeugt einem gelungenen Formenbau mit stimmigen Dachrundungen und vielen angesetzten Teilen, wie feine Isolatoren und Stromabnehmer, freistehende Griffstangen und Treppen. Das Modell besitzt die passenden Lampenformen, scharf gravierte Drehgestellblenden mit realistischen Federpaketnachbildungen und originalgetreue Nachbildungen der Pufferbohlen. Die Beleuchtung erfolgt mittels LEDs. Die Führerstand- und Maschinenraumbeleuchtungen sowie die fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter sind mit einem PluX22-Decoder digital schaltbar. Der schwere Rahmen aus Zinkdruckguss und der Motor mit zwei grossen, präzise ausgewuchteten Schwungmassen sorgen für ausgezeichnete Fahreigenschaften und hohe Zugkräfte. Ab Werk ist ein PIKO SmartDecoder 4.1 mit mfx-Fähigkeit eingebaut, die Lok ist zudem für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet.",
   "categories": [

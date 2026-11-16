@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Ausführung mit 4 Panthographen in der Epoche VI",
   "categories": [

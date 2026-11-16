@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "AC-Analog",
+    "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 176,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Rh 1041 der ÖBB in Ep. IV Ausführung",
   "categories": [

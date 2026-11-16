@@ -15,9 +15,11 @@
     "number": null,
     "livery": "Medway",
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Druckvariante der Baureihe 186 als italienische Medway, Ausführung mit 4 Pantographen.",
   "categories": [

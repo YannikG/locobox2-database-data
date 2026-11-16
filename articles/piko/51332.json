@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 221,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Das PIKO Modell der attraktiven Elektrolokomotive der BR 120 Vorserie mit Sound überzeugt durch feinste Lackierung und Bedruckung, angesetzten Griffstangen, scharf gravierte Drehgestellblenden und filigranen Metall-Pantographen. Der LED-Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind mit einem PluX22 Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das schwere Modell mit zwei Haftreifen für hohe Zugkräften besitzt eine Digitalschnittstelle PluX22 nach NEM 658 und ist für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Bremsschläuche zum Nachrüsten liegen bei.",
   "categories": [

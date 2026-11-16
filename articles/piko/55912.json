@@ -15,9 +15,11 @@
     "number": "1023",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 152,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Nach der D.145 erscheint mit der einige Jahre älteren D.141 ein weiteres Modell einer italienischen Rangierlok als Neukonstruktion.Das gefällige Vorbild, kombiniert mit der für PIKO typischen akribischen Modellumsetzung, lassen ein gleichermassen begeisterndes wie betriebstaugliches Modell erwarten. Schon jetzt ist klar: Das Modell wird durch absolut präzise Gravuren, feinste angesetzte Details und eine perfekte Umsetzung der Vorbildfarbgestaltung einen Blickfang auf jeder Modellbahnanlage darstellen.",
   "categories": [

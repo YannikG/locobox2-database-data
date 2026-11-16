@@ -13,11 +13,13 @@
     "operator": "DB",
     "type": "BR 101",
     "number": null,
-    "livery": null,
+    "livery": "DB-Keks",
     "scale": "H0",
-    "electricSystem": "AC-Digital",
+    "electricSystem": "AC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 219,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Nun ist auch dieser Tausendsassa der DB AG als PIKO Expert Modell vertreten. Die moderne Bauform der Lokomotive ist exakt nachempfunden worden. Vorbildgerecht ist die Lok in verkehrsrot lackiert, inklusive „DB-Keks“. Die Einholm-Stromabnehmer sind äusserst filigran nachgebildet worden. Scharf gravierte Drehgestelle runden den optischen Auftritt ab. Zur Komplementierung liegen zurüstbare Bremsschläuche und Sonnenblenden bei. Für freie Fahrt sorgt ein kraftvoller, 5-poliger Motor. Mit zwei Schwungmassen ausgestattet, fällt die PIKO BR 101 mit extremer Laufruhe auf. Traktion beim Fortkommen verschaffen zwei diagonal angebrachte Haftreifen. Technisches Highlight sind die verbauten Führerstands- und Führerpultbeleuchtungen. Der Lichtwechsel erfolgt fahrtrichtungsabhängig in rot/weiss, natürlich ausgeführt in modernster LED-Technik. Im Digitalbetrieb sind diese Funktionen separat schaltbar. Gesteuert wird dies über einen PluX 22 Decoder. Mittels Steckschnittstelle ist die einfache Digitalisierung bereits vorbereitet. Die Mittelleiterversion wird werksseitig mit einem mfx-fähigen Decoder ausgeliefert.",
   "categories": [

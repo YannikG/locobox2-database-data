@@ -15,9 +15,11 @@
     "number": null,
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Analog",
+    "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 192,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2021: Formvariante der BR 191 als E 91 in Ep. III",
   "categories": [

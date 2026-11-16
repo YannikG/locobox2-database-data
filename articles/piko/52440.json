@@ -15,9 +15,11 @@
     "number": "1019",
     "livery": null,
     "scale": "H0",
-    "electricSystem": "DC-Digital",
+    "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "IV"
+    "era": "IV",
+    "luepMm": 152,
+    "minRadiusMm": 358
   },
   "description": "Nach der D.145 erscheint mit der einige Jahre älteren D.141 ein weiteres Modell einer italienischen Rangierlok als Neukonstruktion. Das gefällige Vorbild, kombiniert mit der für PIKO typischen akribischen Modellumsetzung, lassen ein gleichermassen begeisterndes wie betriebstaugliches Modell erwarten. Schon jetzt ist klar: Das Modell wird durch absolut präzise Gravuren, feinste angesetzte Details und eine perfekte Umsetzung der Vorbildfarbgestaltung einen Blickfang auf jeder Modellbahnanlage darstellen. Der Lichtwechsel in den Farben Rot und Weiss sowie die durch Nachrüstung eines Digitaldecoders schaltbaren Lichtfunktionen – selbstverständlich in modernster LED-Technik – sorgen für zusätzlichen Spass im Betrieb. Zur benutzerfreundlichen Digitalisierung ist in der Lok eine PluX22-Schnittstelle nach NEM 658 vorhanden. Zurüstteile zur vorbildgerechten Ausgestaltung der Pufferbohle liegen dem Modell bei.",
   "categories": [

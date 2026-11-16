@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "III"
+    "era": "III",
+    "luepMm": 502,
+    "minRadiusMm": 415
   },
   "description": "Der beliebte Dieseltriebwagen Blauer Blitz der ÖBB in Epoche III Ausführung mit erhabenen Logos der ÖBB. Ab Werk ausgerüstet mit einem Digitaldecoder und passendem Fahrzeugsound.",
   "categories": [

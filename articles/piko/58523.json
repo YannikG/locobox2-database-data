@@ -15,9 +15,11 @@
     "number": null,
     "livery": "mintgrün",
     "scale": "H0",
-    "electricSystem": "AC-Digital",
+    "electricSystem": "AC-Analog",
     "decoderInterface": "Unbekannt",
-    "era": "V"
+    "era": "V",
+    "luepMm": 303,
+    "minRadiusMm": 358
   },
   "description": "Mit dem neukonstruierten Steuerwagen mit Wittenberger Kopf entspricht PIKO einen langgehegten Wunsch viele Modellbahnfreunde!Der Steuerwagen auf Basis eines n-Wagens erscheint in gewohnt detaillierter und filigraner Ausführung des Expert Sortiments und besitzt eine massstäbliche Länge, die passende Inneneinrichtung, scharf gravierte Drehgestelle und extra angesetzte Griffstangen. Der Steuerwagen stellt die perfekte Ergänzung zu den PIKO n-Wagen dar, kann aber auch vorbildgerecht mit Doppelstockwagen kombiniert werden! Der Steuerwagen ist für eine unproblematische Nachrüstung einer Innenbeleuchtung vorgesehen und verfügt über einen fahrtrichtungsabhängigen Lichtwechsel weiss/rot, eine beleuchtete Zugzielanzeige, Führerpultbeleuchtung sowie einen werkseitig eingebauten Funktionsdecoder.",
   "categories": [

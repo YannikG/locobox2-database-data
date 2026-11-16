@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """
-Backfill PIKO article fields from embedded ``description`` text (Shop-Attributblock).
+Backfill PIKO article fields from embedded ``description`` text and optional Shop-HTML-Cache.
 
 Fills when leer bzw. Shop-Platzhalter, konservativ:
 
-- ``model.era`` aus ``Epoche:``
+- ``model.era`` aus ``Epoche:`` / Fliesstext ``Ep. IV``
 - ``model.operator`` aus ``Bahnverwaltung:`` (nicht «Privatbahn» überschreiben, wenn Modell schon EVU)
 - ``model.country`` aus Operator-Map (Parser-Logik)
 - ``model.number`` aus erster Titelzeile (UIC / Betriebsnummer)
 - ``model.livery`` aus erster Titelzeile (Sonderlack, nicht Staatsbahn allein)
-- ``model.electricSystem`` aus ``Stromsystem:`` + Sound-Hinweis (Parser-Logik)
+- ``model.electricSystem`` aus ``Stromsystem:`` + Sound-Hinweis
+- ``model.luepMm`` / ``model.minRadiusMm`` aus HTML-Attributen oder Description
+- ``model.decoderInterface`` aus ``Digitale Schnittstelle`` / NEM+PluX im Text
+
+HTML-Cache (optional): ``.tmp/import/**/html/{articleNumber}.html`` neben dem Repo-Root.
 
 Usage::
 
@@ -21,6 +25,7 @@ Usage::
 from __future__ import annotations
 
 import argparse
+import html as htmlmod
 import json
 import re
 import sys
@@ -88,8 +93,8 @@ def _operator_to_country(operator: str, era: Any) -> Optional[str]:
         "SNCF": "FR",
         "FS": "IT",
         "PKP": "PL",
-        "ČSD": "CZ",
-        "CSD": "CZ",
+        "ČSD": "CS",
+        "CSD": "CS",
         "ČD": "CZ",
         "CD": "CZ",
         "DSB": "DK",
@@ -112,11 +117,18 @@ def _canonical_electric_system_from_description(description: str) -> Optional[st
     if not m:
         return None
     raw = m.group(1).lower()
-    digital = bool(re.search(r"Sound ja/nein:\s*ja", d, re.I)) or "decoder" in d.lower()
+    # Nur werkseitiger Sound/Decoder → Digital; «nachrüstbar» allein reicht nicht
+    digital = bool(
+        re.search(r"Sound ja/nein:\s*ja", d, re.I)
+        or re.search(r"Sound-Decoder werkseitig|werkseitig(?: bereits)? über einen .{0,40}Decoder|Soundmodell werkseitig", d, re.I)
+        or re.search(r"Verbauter Decoder:", d, re.I)
+    )
     if "wechsel" in raw:
         return "AC-Digital" if digital else "AC-Analog"
     if "gleich" in raw:
-        return "DC-Digital" if digital or "digital" in raw else "DC-Analog"
+        if "digital" in raw and "analog" not in raw:
+            return "DC-Digital"
+        return "DC-Digital" if digital else "DC-Analog"
     return None
 
 
@@ -141,6 +153,117 @@ def _parse_description_attrs(description: str) -> dict[str, str]:
         if key and val:
             out[key] = val
     return out
+
+
+def _find_html_cache(article_number: str, repo_root: Path) -> Optional[Path]:
+    html_dirs = sorted((repo_root / ".tmp" / "import").glob("*/html"))
+    for d in html_dirs:
+        p = d / f"{article_number}.html"
+        if p.is_file():
+            return p
+    return None
+
+
+def _parse_html_attrs(html: str) -> dict[str, str]:
+    """Extract PIKO shop attribute table keys from a cached PDP."""
+    out: dict[str, str] = {}
+    text = re.sub(r"<script[\s\S]*?</script>", " ", html, flags=re.I)
+    text = re.sub(r"<style[\s\S]*?</style>", " ", text, flags=re.I)
+    for m in re.finditer(
+        r">([^<>]{2,60}?):\s*</(?:t[dh]|div|span|dt)>\s*<(?:t[dh]|div|span|dd)[^>]*>\s*([^<]+)",
+        text,
+        re.I,
+    ):
+        key = htmlmod.unescape(m.group(1)).strip()
+        val = htmlmod.unescape(m.group(2)).strip()
+        if key and val and len(key) < 60:
+            out[key] = val
+    plain = htmlmod.unescape(re.sub(r"<[^>]+>", "\n", text))
+    for key in ("Epoche", "Bahnverwaltung", "Stromsystem", "Sound ja/nein"):
+        m = re.search(rf"(?m)^{re.escape(key)}:\s*(.+)$", plain)
+        if m and key not in out:
+            out[key] = m.group(1).strip()
+    m = re.search(r"Mindestradius\s*\[mm\]:\s*(\d+)", plain, re.I)
+    if m:
+        out["Mindestradius [mm]"] = m.group(1)
+    # LüP sits as Maßbezeichnung + Maß [mm]
+    if "Maß [mm]" in out and "Maßbezeichnung" in out and "lüp" in out["Maßbezeichnung"].lower():
+        out["LüP"] = out["Maß [mm]"]
+    m = re.search(r"Digitale Schnittstelle:\s*([^\n]+)", plain, re.I)
+    if m:
+        out["Digitale Schnittstelle"] = m.group(1).strip()
+    return out
+
+
+def _merge_attrs(desc_attrs: dict[str, str], html_attrs: dict[str, str]) -> dict[str, str]:
+    merged = dict(html_attrs)
+    merged.update({k: v for k, v in desc_attrs.items() if v})
+    return merged
+
+
+def _era_from_prose(description: str) -> Optional[str]:
+    m = re.search(r"\bEp(?:oche|\.)\s*(I{1,3}|IV|V|VI|III-IV|II-III|IV-V|V-VI)\b", description or "", re.I)
+    if not m:
+        return None
+    return m.group(1).upper().replace("III-IV", "III-IV")
+
+
+def _decoder_from_text(blob: str) -> Optional[str]:
+    b = blob or ""
+    if re.search(r"NEM\s*658\s*PluX22|PluX22[^\n]{0,40}NEM\s*658|Schnittstelle nach NEM 658", b, re.I):
+        return "NEM 658 PluX22"
+    if re.search(r"\b20[- ]?polig", b, re.I):
+        return "20polig"
+    if re.search(r"NEM\s*658", b, re.I):
+        return "NEM 658 PluX22"
+    if re.search(r"PluX22", b, re.I):
+        return "NEM 658 PluX22"
+    m = re.search(r"Digitale Schnittstelle:\s*([^\n]+)", b, re.I)
+    if m:
+        return m.group(1).strip()
+    return None
+
+
+def _livery_from_prose(description: str) -> Optional[str]:
+    """Only high-confidence prose patterns (no marketing sentences)."""
+    d = description or ""
+    m = re.search(r"[„«\"]([^„\"»”]{2,40})[“\"»”]", d)
+    if m:
+        s = m.group(1).strip()
+        low = s.lower()
+        if low in {"roncalli", "gorch fock", "laminátka", "laminatka", "bigrigio", "klimaschützer", "klimaschuetzer"}:
+            if "lamin" in low:
+                return "Laminátka"
+            if "klima" in low:
+                return "Klimaschützer"
+            return s
+        if re.search(r"\b(neuheit|set mit|ausführung|ep\.|bullauge)\b", low):
+            return None
+        if any(ch.isalpha() for ch in s) and " " not in s and len(s) <= 24:
+            return s
+    m = re.search(
+        r"\bin\s+(beigeblau(?:er|en)?|gelb-grau(?:er|en)?|blaubeige(?:r|n)?|blau(?:er|en)?)\s+Lackierung\b",
+        d,
+        re.I,
+    )
+    if m:
+        raw = m.group(1).lower()
+        for stem in ("beigeblau", "gelb-grau", "blaubeige", "blau"):
+            if raw.startswith(stem):
+                return stem
+    m = re.search(r"\bŠkoda\s+47E\s+[„\"]Laminátka[“\"]", d, re.I)
+    if m:
+        return "Laminátka"
+    return None
+
+
+def _first_line_is_marketing(first: str) -> bool:
+    f = (first or "").strip()
+    return bool(re.match(r"^Neuheit\b", f, re.I)) or len(f) > 120
+
+
+def _missing_str(val: Any) -> bool:
+    return val is None or (isinstance(val, str) and not val.strip()) or val == "Unbekannt"
 
 
 def _first_title_line(description: str) -> str:
@@ -266,26 +389,23 @@ def _country_missing(model: dict[str, Any]) -> bool:
     return c is None or (isinstance(c, str) and not c.strip())
 
 
-def _apply_backfill(article: dict[str, Any]) -> list[str]:
+def _apply_backfill(article: dict[str, Any], *, html_attrs: Optional[dict[str, str]] = None) -> list[str]:
     changes: list[str] = []
     desc = article.get("description") or ""
-    if not desc.strip():
-        return changes
     model = article.get("model")
     if not isinstance(model, dict):
         return changes
+    if not desc.strip() and not html_attrs:
+        return changes
 
-    attrs = _parse_description_attrs(desc)
+    attrs = _merge_attrs(_parse_description_attrs(desc), html_attrs or {})
     first = _first_title_line(desc)
+    blob = desc + "\n" + "\n".join(f"{k}: {v}" for k, v in attrs.items())
 
-    era_raw = attrs.get("Epoche", "").strip()
-    if era_raw and (
-        model.get("era") is None
-        or (isinstance(model.get("era"), str) and not str(model.get("era")).strip())
-    ):
-        if model.get("era") != era_raw:
-            changes.append(f"era: {model.get('era')!r} -> {era_raw!r}")
-            model["era"] = era_raw
+    era_raw = attrs.get("Epoche", "").strip() or (_era_from_prose(desc) or "")
+    if era_raw and _missing_str(model.get("era")):
+        changes.append(f"era: {model.get('era')!r} -> {era_raw!r}")
+        model["era"] = era_raw
 
     desc_op_raw = attrs.get("Bahnverwaltung", "").strip()
     desc_op = _normalize_piko_operator(desc_op_raw) if desc_op_raw else ""
@@ -308,9 +428,7 @@ def _apply_backfill(article: dict[str, Any]) -> list[str]:
             changes.append(f"country: {model.get('country')!r} -> {mapped!r}")
             model["country"] = mapped
 
-    if model.get("number") is None or (
-        isinstance(model.get("number"), str) and not str(model.get("number")).strip()
-    ):
+    if _missing_str(model.get("number")):
         prop_n = _propose_number(first, str(model.get("type") or ""))
         if prop_n:
             changes.append(f"number: {model.get('number')!r} -> {prop_n!r}")
@@ -318,25 +436,60 @@ def _apply_backfill(article: dict[str, Any]) -> list[str]:
     else:
         prop_n = str(model.get("number") or "").strip() or None
 
-    if model.get("livery") is None or (
-        isinstance(model.get("livery"), str) and not str(model.get("livery")).strip()
-    ):
-        prop_l = _propose_livery(
-            first,
-            str(model.get("type") or ""),
-            model.get("operator") if isinstance(model.get("operator"), str) else None,
-            prop_n if prop_n else _propose_number(first, str(model.get("type") or "")),
-        )
-        if prop_l:
+    if _missing_str(model.get("livery")):
+        prop_l = None
+        if first and not _first_line_is_marketing(first):
+            prop_l = _propose_livery(
+                first,
+                str(model.get("type") or ""),
+                model.get("operator") if isinstance(model.get("operator"), str) else None,
+                prop_n if prop_n else _propose_number(first, str(model.get("type") or "")),
+            )
+        if not prop_l:
+            prop_l = _livery_from_prose(desc)
+        if prop_l and not re.search(
+            r"\b(neuheit|güterwagen|bettung|attraktiv|dachlandschaft|bullaugen?|ausführung|set mit|"
+            r"staatsbahn|baureihe|als baureihe)\b",
+            prop_l,
+            re.I,
+        ):
             changes.append(f"livery: {model.get('livery')!r} -> {prop_l!r}")
             model["livery"] = prop_l
 
-    es = _canonical_electric_system_from_description(desc)
+    # electricSystem: prefer structured Stromsystem from attrs/description
+    es = None
+    if attrs.get("Stromsystem") or "Stromsystem:" in desc:
+        synth = desc
+        if attrs.get("Stromsystem") and "Stromsystem:" not in synth:
+            synth = f"{synth}\nStromsystem: {attrs['Stromsystem']}"
+        if attrs.get("Sound ja/nein") and "Sound ja/nein:" not in synth:
+            synth = f"{synth}\nSound ja/nein: {attrs['Sound ja/nein']}"
+        es = _canonical_electric_system_from_description(synth)
     if es and model.get("electricSystem") != es:
-        # nur wenn Beschreibung eindeutig (Stromsystem-Zeile)
-        if "Stromsystem:" in desc:
-            changes.append(f"electricSystem: {model.get('electricSystem')!r} -> {es!r}")
-            model["electricSystem"] = es
+        changes.append(f"electricSystem: {model.get('electricSystem')!r} -> {es!r}")
+        model["electricSystem"] = es
+
+    # decoderInterface
+    if _missing_str(model.get("decoderInterface")):
+        di = attrs.get("Digitale Schnittstelle", "").strip() or (_decoder_from_text(blob) or "")
+        if di:
+            changes.append(f"decoderInterface: {model.get('decoderInterface')!r} -> {di!r}")
+            model["decoderInterface"] = di
+
+    # luepMm / minRadiusMm
+    if model.get("luepMm") is None:
+        raw = attrs.get("LüP") or attrs.get("Maß [mm]")
+        if raw and re.fullmatch(r"\d+", str(raw).strip()):
+            val = int(str(raw).strip())
+            # Skip absurd set lengths unless already triebzug-sized intentional; still allow >1000 for ICE
+            changes.append(f"luepMm: {model.get('luepMm')!r} -> {val!r}")
+            model["luepMm"] = val
+    if model.get("minRadiusMm") is None:
+        raw = attrs.get("Mindestradius [mm]") or attrs.get("Mindestradius")
+        if raw and re.fullmatch(r"\d+", str(raw).strip()):
+            val = int(str(raw).strip())
+            changes.append(f"minRadiusMm: {model.get('minRadiusMm')!r} -> {val!r}")
+            model["minRadiusMm"] = val
 
     return changes
 
@@ -345,9 +498,23 @@ def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("paths", nargs="*", type=Path, default=[Path("articles/piko")])
     ap.add_argument("--apply", action="store_true")
-    ap.add_argument("--tag", metavar="SLUG", default=None, help="Nur Artikel mit diesem Tag.")
+    ap.add_argument(
+        "--tag",
+        metavar="SLUG",
+        action="append",
+        default=None,
+        help="Nur Artikel mit diesem Tag (mehrfach möglich).",
+    )
+    ap.add_argument(
+        "--repo-root",
+        type=Path,
+        default=None,
+        help="Repo-Root für .tmp/import/*/html Cache (Default: CWD).",
+    )
     args = ap.parse_args(argv)
+    repo_root = (args.repo_root or Path.cwd()).expanduser().resolve()
     files = _walk([p.expanduser().resolve() for p in args.paths])
+    tag_set = set(args.tag) if args.tag else None
     updated = 0
     for path in files:
         try:
@@ -355,11 +522,19 @@ def main(argv: list[str]) -> int:
         except (OSError, json.JSONDecodeError) as e:
             print(f"error: {path}: {e}", file=sys.stderr)
             return 1
-        if args.tag:
-            tags = data.get("tags") or []
-            if args.tag not in tags:
+        if tag_set:
+            tags = set(data.get("tags") or [])
+            if not tags.intersection(tag_set):
                 continue
-        changes = _apply_backfill(data)
+        art_no = str(data.get("articleNumber") or path.stem)
+        html_path = _find_html_cache(art_no, repo_root)
+        html_attrs: dict[str, str] = {}
+        if html_path is not None:
+            try:
+                html_attrs = _parse_html_attrs(html_path.read_text(encoding="utf-8", errors="replace"))
+            except OSError as e:
+                print(f"warn: {html_path}: {e}", file=sys.stderr)
+        changes = _apply_backfill(data, html_attrs=html_attrs)
         if not changes:
             continue
         print(f"{path}")
@@ -370,7 +545,7 @@ def main(argv: list[str]) -> int:
             updated += 1
     if args.apply:
         print(f"\nUpdated {updated} file(s).", file=sys.stderr)
-    elif any(True for _ in files):
+    else:
         print("\nDry-run: re-run with --apply to write.", file=sys.stderr)
     return 0
 

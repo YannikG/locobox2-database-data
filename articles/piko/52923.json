@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "decoderInterface": "NEM 652",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 479,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Dieseltriebwagen Desiro im Design Trilex der Epoche VI. Das Modell des Triebwagens ist in der Soundausführung ab Werk einen passenden mfx®-fähigen SoundDecoder ausgestattet.",
   "categories": [

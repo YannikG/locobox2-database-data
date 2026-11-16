@@ -17,7 +17,9 @@
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 658 PluX22",
-    "era": "VI"
+    "era": "VI",
+    "luepMm": 731,
+    "minRadiusMm": 358
   },
   "description": "Neuheit 2022: Das Güterzug Start-Set der SŽD enthält eine Diesellok M62 in attraktiver Lackierung und drei Güterwagen mit typisch russischer Bedruckung. Das Set wird inklusive PIKO A-Gleis mit Bettung geliefert.\n\nStart-Set M62 mit 3 Güterwagen mit Bettungsgleis\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\n1x Diesellok mit 3 Güterwagen\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)",
   "categories": [
