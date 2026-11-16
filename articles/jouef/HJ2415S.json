@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2415S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2415S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "140 C",
+    "number": "133",
+    "livery": "grün/schwarz rote Streifen",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2415"
+  },
+  "description": "SNCF, Dampflokomotive 140 C 133, mit Tender 18 B 12 (Region Ost), Farbgebung grün/schwarz mit roten Streifen, Epoche III (Werkseitig mit Sound).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}

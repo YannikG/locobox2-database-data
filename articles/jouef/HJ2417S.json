@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2417S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2417S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "040 D",
+    "number": "65",
+    "livery": "Depot Calais",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2417"
+  },
+  "description": "SNCF, Schlepptenderdampflokomotive 2-040 D 65, Depot Calais, Epoche III (Werkseitig mit Sound).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}

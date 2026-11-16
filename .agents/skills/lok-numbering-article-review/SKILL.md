@@ -216,6 +216,7 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 | DDR: DR-Baureihen (1945–1993) | [internal/wiki-dr-ddr-baureihen-liste.md](internal/wiki-dr-ddr-baureihen-liste.md) |
 | SNCF Überblick (Frankreich) | [internal/wiki-sncf-loks-liste.md](internal/wiki-sncf-loks-liste.md) |
 | SNCF `type` / `number` (BB/CC Serie vs. Laufnummer) | [reference-sncf-type-number.md](reference-sncf-type-number.md) |
+| Jouef Katalog (HJ#### / S, Mehrspalten-PDF) | [internal/wiki-jouef-catalog-parsing.md](internal/wiki-jouef-catalog-parsing.md) |
 | Italien Überblick | [internal/wiki-italien-loks-liste.md](internal/wiki-italien-loks-liste.md) |
 | Niederlande Überblick | [internal/wiki-niederlande-loks-liste.md](internal/wiki-niederlande-loks-liste.md) |
 | Ungarn | [internal/wiki-ungarn-loks-liste.md](internal/wiki-ungarn-loks-liste.md) |

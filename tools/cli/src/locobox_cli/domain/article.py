@@ -5,6 +5,8 @@ from dataclasses import dataclass
 
 # Classic PIKO / Roco / Trix numeric SKUs.
 _NUMERIC_RE = re.compile(r"^\d{4,8}$")
+# Jouef Hornby-Jouef: HJ2461 / HJ2461S (no hyphen in canonical form).
+_JOUEF_RE = re.compile(r"^HJ\d{4}S?$", re.I)
 # REE-style: MB-263S, TGV-004SAC, JM-001 (canonical after normalize).
 _CANON_ALPHANUM_RE = re.compile(r"^[A-Z]{1,6}-\d{1,6}[A-Z]{0,6}$")
 # Accept shop/catalog variants: "MB 176S", "MB263S", "TGV-004 S", "mb-263sac".
@@ -16,8 +18,11 @@ QUEUE_ARTICLE_AT_START = re.compile(
     r"^(?P<article>"
     r"\d{4,8}"
     r"|"
+    r"HJ\d{4}S?"
+    r"|"
     r"[A-Za-z]{1,6}(?:[-\s]*\d{1,6})(?:[-\s]*[A-Za-z]+)?"
-    r")"
+    r")",
+    re.I,
 )
 
 
@@ -32,12 +37,20 @@ def _normalize_alphanum(raw: str) -> str:
 
 @dataclass(frozen=True, slots=True)
 class ArticleNumber:
-    """Canonical shop/catalog article number (numeric or REE-style alphanumeric)."""
+    """Canonical shop/catalog article number.
+
+    Numeric (PIKO/Roco/Trix), Jouef ``HJ####`` / ``HJ####S``, or REE-style
+    alphanumeric (``MB-263S``).
+    """
 
     value: str
 
     def __post_init__(self) -> None:
         if _NUMERIC_RE.fullmatch(self.value):
+            return
+        if _JOUEF_RE.fullmatch(self.value):
+            if self.value != self.value.upper():
+                raise ValueError(f"Jouef article number must be uppercase: {self.value!r}")
             return
         if _CANON_ALPHANUM_RE.fullmatch(self.value):
             return
@@ -48,6 +61,12 @@ class ArticleNumber:
         s = raw.strip()
         if not s or s.startswith("#"):
             raise ValueError(f"not an article number: {raw!r}")
+        if s.upper().startswith("HJ"):
+            if not _JOUEF_RE.fullmatch(s):
+                raise ValueError(
+                    f"Jouef article number must be HJ#### or HJ####S: {raw!r}"
+                )
+            return cls(s.upper())
         if s.isdigit():
             if not _NUMERIC_RE.fullmatch(s):
                 raise ValueError(f"invalid article number: {raw!r}")

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2429S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2429S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP II",
+    "number": "X 2719",
+    "livery": "grün/beige",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2429"
+  },
+  "description": "SNCF, Autorail RGP II X 2719 mit Remorque XRAB 7708, Rauchdeflektoren, Farbgebung grün/beige, neues Logo, Epoche IV (Werkseitig mit Sound).",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}

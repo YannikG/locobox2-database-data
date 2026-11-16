@@ -20,7 +20,8 @@
     },
     "id": {
       "type": "string",
-      "pattern": "^[a-z0-9]+(?:-[A-Za-z0-9]+)+$"
+      "pattern": "^[a-z0-9]+(?:-[A-Za-z0-9]+)+$",
+      "description": "manufacturer-slug + articleNumber (e.g. REE MB-263S, Jouef HJ2461 / HJ2461S)."
     },
     "manufacturer": {
       "type": "string",

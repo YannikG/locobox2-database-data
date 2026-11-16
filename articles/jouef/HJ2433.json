@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2433",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2433",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "141 R",
+    "number": "1244",
+    "livery": "grün/schwarz weisse Räder",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "V",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2433"
+  },
+  "description": "SNCF, Dampflokomotive 141 R 1244, Tender fuel grosse Kapazität, Farbgebung grün/schwarz mit weissen Rädern, Epoche V",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}

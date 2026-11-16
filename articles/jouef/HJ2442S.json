@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2442S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2442S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 66400",
+    "number": null,
+    "livery": "grün FRET",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2442"
+  },
+  "description": "SNCF, Diesellokomotive BB 66400, grüne Farbgebung „FRET“, Epoche VI (Werkseitig mit Sound).",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}
