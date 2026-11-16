@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "RGP 1",
-    "number": "X 2776",
-    "livery": null,
+    "number": "X-2776",
+    "livery": "Rouge TEE",
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III-IV"
   },
   "description": "[HO] : Rame RGP 1 – X 2776, L'ARBALETE, Rouge TEE, Ep.III-IV - DCC SOUND - MB275S",
   "categories": [

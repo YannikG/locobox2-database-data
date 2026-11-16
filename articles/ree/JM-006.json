@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-006",
+  "manufacturer": "REE",
+  "articleNumber": "JM-006",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7103",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] Locomotive électrique CC 7103 Avignon, DC - JM006",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/389--ho-locomotive-electrique-cc-7103-avignon-dc-jm006-0652733630407.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2363-large_default/-ho-locomotive-electrique-cc-7103-avignon-dc-jm006.jpg"
+  },
+  "updatedAt": "2026-11-16T09:44:18Z"
+}

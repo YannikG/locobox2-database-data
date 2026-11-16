@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "TGV PSE",
     "number": null,
-    "livery": null,
+    "livery": "atlantique",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"

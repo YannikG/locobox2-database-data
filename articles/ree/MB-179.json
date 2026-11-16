@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-179",
+  "manufacturer": "REE",
+  "articleNumber": "MB-179",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9269",
+    "livery": "béton",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 9269, livrée béton, dépôt de Dijon-Perrigny, Ep. V, SNCF, Analogique - MB179",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/906--ho-locomotive-electrique-bb-9269-livree-beton-depot-de-dijon-perrigny-ep-v-sncf-analogique-mb179-0637902585429.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1729-large_default/-ho-locomotive-electrique-bb-9269-livree-beton-depot-de-dijon-perrigny-ep-v-sncf-analogique-mb179.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

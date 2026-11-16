@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-215",
+  "manufacturer": "REE",
+  "articleNumber": "MB-215",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 90.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2733",
+    "livery": "Bleue et",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Rame RGP 1 modernisée - X 2733, Bleue et blanche, sigle Casquette, LYON-VAISE, SNCF Ep. IV-V - ANALOGIQUE - MB215",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3980--ho-rame-rgp-1-modernisee-x-2733-bleue-et-blanche-sigle-casquette-lyon-vaise-sncf-ep-iv-v-analogique-mb215-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2215-large_default/-ho-rame-rgp-1-modernisee-x-2733-bleue-et-blanche-sigle-casquette-lyon-vaise-sncf-ep-iv-v-analogique-mb215.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:26Z"
+}

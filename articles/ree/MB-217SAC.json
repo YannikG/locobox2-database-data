@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-217SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-217SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 120.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2731",
+    "livery": "Jaune et blanche",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Rame RGP 1 modernisée - X 2731, Jaune et blanche, sigle Nouille, METZ, SNCF Ep. IV-V - 3 RAILS - MB217SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3988--ho-rame-rgp-1-modernisee-x-2731-jaune-et-blanche-sigle-nouille-metz-sncf-ep-iv-v-3-rails-mb217sac-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2223-large_default/-ho-rame-rgp-1-modernisee-x-2731-jaune-et-blanche-sigle-nouille-metz-sncf-ep-iv-v-3-rails-mb217sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:28Z"
+}

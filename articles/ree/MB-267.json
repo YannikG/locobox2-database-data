@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 9300",
-    "number": "BB 9307",
-    "livery": null,
+    "number": "9307",
+    "livery": "Beton Beffara",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V"

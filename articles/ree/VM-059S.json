@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "CF Vendée",
     "type": "Billard A80 D1",
     "number": "704",
-    "livery": null,
+    "livery": "bleu/gris Perle",
     "scale": "H0m",
     "electricSystem": "DC-Digital",
     "era": "III"

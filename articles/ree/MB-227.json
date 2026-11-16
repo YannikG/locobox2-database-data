@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-227",
+  "manufacturer": "REE",
+  "articleNumber": "MB-227",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 250.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2902",
+    "livery": "Jupé",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Autorail X2902 Jupé, 1ère classe Origine, NANCY, SNCF, Ep. III, Analogique - MB227",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1009--ho-autorail-x2902-jupe-1ere-classe-origine-nancy-sncf-ep-iii-analogique-mb227-0652733653796.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1385-large_default/-ho-autorail-x2902-jupe-1ere-classe-origine-nancy-sncf-ep-iii-analogique-mb227.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:59Z"
+}

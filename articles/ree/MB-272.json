@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "BB 25100",
-    "number": "BB 25188",
-    "livery": null,
+    "number": "25188",
+    "livery": "Béton",
     "scale": "H0",
-    "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
   },
   "description": "[HO] : BB 25188 CHAMBERY Béton, logo Nouille Ep.V-VI, (Sauvegardée par l'APMFS) - ANALOGIQUE - MB272",
   "categories": [

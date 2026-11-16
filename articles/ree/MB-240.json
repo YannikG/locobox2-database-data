@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-240",
+  "manufacturer": "REE",
+  "articleNumber": "MB-240",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67424",
+    "livery": "Isabelle",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67424 Livrée \"Isabelle\", Logo Casquette, BORDEAUX Ep. VI, Analogique - REE MB240",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1030--ho-locomotive-diesel-bb-67424-livree-isabelle-logo-casquette-bordeaux-ep-vi-analogique-ree-mb240-0652733254252.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:48:38Z"
+}

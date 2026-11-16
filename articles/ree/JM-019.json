@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-019",
+  "manufacturer": "REE",
+  "articleNumber": "JM-019",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 63000",
+    "number": "63933",
+    "livery": "vert 301",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel BB 63933, Nantes, livrée vert 301, Ep. IV, SNCF, Analogique - JM019",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/428--ho-locomotive-diesel-bb-63933-nantes-livree-vert-301-ep-iv-sncf-analogique-jm019-0637902395837.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/802-large_default/-ho-locomotive-diesel-bb-63933-nantes-livree-vert-301-ep-iv-sncf-analogique-jm019.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

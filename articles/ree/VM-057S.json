@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0m",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Saône & Loire n°402, DCC Sound - VM057S",
   "categories": [
@@ -24,12 +24,13 @@
     "dieseltriebwagen"
   ],
   "tags": [
-    "ree-neuheiten-2026"
+    "ree-neuheiten-2026",
+    "ree-neuheiten-2024"
   ],
   "source": {
     "url": "https://www.ree-store.com/autorails/2321--hoe-hom-autorail-de-dion-type-nd-cfd-saone-loire-n402-dcc-sound-vm057s-0637902915158.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/404-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-saone-loire-n402-dcc-sound-vm057s.jpg"
   },
-  "updatedAt": "2026-11-15T22:35:45Z"
+  "updatedAt": "2026-11-16T09:44:25Z"
 }

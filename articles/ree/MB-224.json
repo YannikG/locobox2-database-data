@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-224",
+  "manufacturer": "REE",
+  "articleNumber": "MB-224",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Y 2200",
+    "number": "2249",
+    "livery": "vert 301",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] Locotracteur Y-2249 vert 301, Ep. IV, DC - MB224",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1003--ho-locotracteur-y-2249-vert-301-ep-iv-dc-mb224-0652733945693.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:27:25Z"
+}

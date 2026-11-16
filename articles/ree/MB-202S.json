@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-202S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-202S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9216",
+    "livery": "d'origine verte jupée",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique BB 9216, Livrée d'origine verte jupée, AVIGNON, Ep. IV, DCC Sound - MB202S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/973--ho-locomotive-electrique-bb-9216-livree-d-origine-verte-jupee-avignon-ep-iv-dcc-sound-mb202s-0652733317414.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:19:58Z"
+}

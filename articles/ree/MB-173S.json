@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-173S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-173S",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 474.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2703",
+    "livery": "vert",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Autorail RGP 2 X-2703 vert, dépôt de Marseille, Ep. III, DCC Sound - MB173S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/889--ho-autorail-rgp-2-x-2703-vert-depot-de-marseille-ep-iii-dcc-sound-mb173s-0652733534507.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1808-large_default/-ho-autorail-rgp-2-x-2703-vert-depot-de-marseille-ep-iii-dcc-sound-mb173s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:57Z"
+}

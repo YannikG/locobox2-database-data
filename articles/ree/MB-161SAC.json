@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-161SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-161SAC",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2828",
+    "livery": "Origine rouge et crème",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] Autorail X-2828 Origine rouge et crème, ACS - MB161SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/accueil/854--ho-autorail-x-2828-origine-rouge-et-creme-acs-mb161sac-0652733847263.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1772-large_default/-ho-autorail-x-2828-origine-rouge-et-creme-acs-mb161sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:44:25Z"
+}

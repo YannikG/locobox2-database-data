@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-229S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-229S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2913",
+    "livery": "Jupé",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail X2913 Jupé, 1ère classe Origine, LYON-VAISE, SNCF, Ep. IV, DCC Sound - MB229S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1016--ho-autorail-x2913-jupe-1ere-classe-origine-lyon-vaise-sncf-ep-iv-dcc-sound-mb229s-0652733278135.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1395-large_default/-ho-autorail-x2913-jupe-1ere-classe-origine-lyon-vaise-sncf-ep-iv-dcc-sound-mb229s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:59Z"
+}

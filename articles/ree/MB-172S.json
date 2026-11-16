@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-172S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-172S",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 474.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2705",
+    "livery": "vert",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] Autorail RGP 2 X-2705 vert, Ep. III, DCCS - MB172S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/886--ho-autorail-rgp-2-x-2705-vert-ep-iii-dccs-mb172s-0652733168382.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:19:57Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-021",
+  "manufacturer": "REE",
+  "articleNumber": "JM-021",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 64000",
+    "number": "64079",
+    "livery": "Arzens",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive diesel BB 64079, livrée Arzens, Ep. V, SNCF, Analogique - JM021",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/434--ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-analogique-jm021-0637902536643.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/815-large_default/-ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-analogique-jm021.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

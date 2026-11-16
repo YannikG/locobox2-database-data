@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-212",
+  "manufacturer": "REE",
+  "articleNumber": "MB-212",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 68.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 K",
+    "number": "1-54",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231K 54 STRASBOURG - Ep.III - ANALOGIQUE - MB212",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/4040--ho-machine-1-231k-54-strasbourg-epiii-analogique-mb212.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2309-large_default/-ho-machine-1-231k-54-strasbourg-epiii-analogique-mb212.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:29Z"
+}

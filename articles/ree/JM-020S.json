@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-020S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-020S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 63000",
+    "number": "63692",
+    "livery": "vert 301",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel BB 63692, Villeneuve, livrée vert 301, Ep. IV, SNCF, DCC Sound - JM020S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/432--ho-locomotive-diesel-bb-63692-villeneuve-livree-vert-301-ep-iv-sncf-dcc-sound-jm020s-0637902414217.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/811-large_default/-ho-locomotive-diesel-bb-63692-villeneuve-livree-vert-301-ep-iv-sncf-dcc-sound-jm020s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

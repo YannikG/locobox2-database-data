@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "REE Neuheiten 2012",
+  "slug": "ree-neuheiten-2012",
+  "description": "REE Modèles H0 Neuheiten / Serienkataloge 2012 (Motorfahrzeuge).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "ree",
+  "year": 2012,
+  "order": 1,
+  "source": "https://www.ree-modeles.com/"
+}

@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 25200",
-    "number": "BB 25254",
-    "livery": null,
+    "number": "25254",
+    "livery": "EN VOYAGE",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"

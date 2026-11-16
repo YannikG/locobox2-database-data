@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-194SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-194SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7149",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique CC 7149, AVIGNON, Ep. IV, AC Sound 3 rails - MB194SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/950--ho-locomotive-electrique-cc-7149-avignon-ep-iv-ac-sound-3-rails-mb194sac-0652733251657.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/667-large_default/-ho-locomotive-electrique-cc-7149-avignon-ep-iv-ac-sound-3-rails-mb194sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:35Z"
+}

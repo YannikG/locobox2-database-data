@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-024S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-024S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "852",
+    "number": "852",
+    "livery": "rouge CFL",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel 852 livrée rouge CFL, Ep. IV, CFL, DCC Sound – JM024S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/444--ho-locomotive-diesel-852-livree-rouge-cfl-ep-iv-cfl-dcc-sound-jm024s-0637902017685.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/835-large_default/-ho-locomotive-diesel-852-livree-rouge-cfl-ep-iv-cfl-dcc-sound-jm024s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

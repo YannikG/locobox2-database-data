@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-091S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-091S",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "Industriel",
+    "type": "Moyse 32 TDE",
+    "number": null,
+    "livery": "vert 301",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locotracteur MOYSE Indutriel vert 301, DCCS - MB091S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/680--ho-locotracteur-moyse-indutriel-vert-301-dccs-mb091s.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1757-large_default/-ho-locotracteur-moyse-indutriel-vert-301-dccs-mb091s.jpg"
+  },
+  "updatedAt": "2026-11-16T09:44:18Z"
+}

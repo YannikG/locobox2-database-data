@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-259SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-259SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 484.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2728",
+    "livery": "Vert",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2728, Vert, NOISY, Ep. III-IV, AC Sound 3 rails - MB259SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1089--ho-autorail-rgp-1-x-2728-vert-noisy-ep-iii-iv-ac-sound-3-rails-mb259sac-0652733178732.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/439-large_default/-ho-autorail-rgp-1-x-2728-vert-noisy-ep-iii-iv-ac-sound-3-rails-mb259sac.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:03Z"
+}

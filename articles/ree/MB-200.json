@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-200",
+  "manufacturer": "REE",
+  "articleNumber": "MB-200",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 16000",
+    "number": "16027",
+    "livery": "Multiservice",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 16027 Multiservice, Ep. V, Analogique - MB200",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/966--ho-locomotive-electrique-bb-16027-multiservice-ep-v-analogique-mb200-0652733171801.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:19:55Z"
+}

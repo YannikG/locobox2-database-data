@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-218S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-218S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "PLM",
+    "type": "231 G",
+    "number": "270",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 231 G 270 PLM - Ep.III - DCC SOUND - MB218S",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/4047--ho-machine-231-g-270-plm-epiii-dcc-sound-mb218s.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2316-large_default/-ho-machine-231-g-270-plm-epiii-dcc-sound-mb218s.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:28Z"
+}

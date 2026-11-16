@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-182S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-182S",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 K",
+    "number": "1-22",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231K 22, CALAIS - Ep.III - DCC SOUND - MB182S",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/3972--ho-machine-1-231k-22-calais-epiii-dcc-sound-mb182s.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2297-large_default/-ho-machine-1-231k-22-calais-epiii-dcc-sound-mb182s.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:29Z"
+}

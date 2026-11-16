@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 25100",
-    "number": "BB 25187",
-    "livery": null,
+    "number": "25187",
+    "livery": "Verte",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"

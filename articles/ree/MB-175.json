@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-175",
+  "manufacturer": "REE",
+  "articleNumber": "MB-175",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 359.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2706",
+    "livery": "Orange",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Autorail RGP 2 X-2706 Moderne Orange-Béton, Ep. IV-V, Analogique - MB175",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/894--ho-autorail-rgp-2-x-2706-moderne-orange-beton-ep-iv-v-analogique-mb175-0652733819864.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1825-large_default/-ho-autorail-rgp-2-x-2706-moderne-orange-beton-ep-iv-v-analogique-mb175.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:57Z"
+}

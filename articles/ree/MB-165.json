@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-165",
+  "manufacturer": "REE",
+  "articleNumber": "MB-165",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 16000",
+    "number": "16001",
+    "livery": "vert d'origine",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive électrique BB 16001, livrée vert d'origine, dépôt de Strasbourg, Ep. III, Analogique - MB165",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/864--ho-locomotive-electrique-bb-16001-livree-vert-d-origine-depot-de-strasbourg-ep-iii-analogique-mb165.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:19:53Z"
+}

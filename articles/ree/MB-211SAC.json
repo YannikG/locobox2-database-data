@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-211SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-211SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 97.49,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 G",
+    "number": "1-226",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231G 226 BELFORT - Ep.III - DCC 3 RAILS - MB211SAC",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/4039--ho-machine-1-231g-226-belfort-epiii-dcc-3-rails-mb211sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2308-large_default/-ho-machine-1-231g-226-belfort-epiii-dcc-3-rails-mb211sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:27Z"
+}

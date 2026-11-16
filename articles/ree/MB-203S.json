@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-203S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-203S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9218",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique BB 9218 sans feux rouges, BORDEAUX, Ep. IV, DCC Sound - MB203S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/976--ho-locomotive-electrique-bb-9218-sans-feux-rouges-bordeaux-ep-iv-dcc-sound-mb203s-0652733244628.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/904-large_default/-ho-locomotive-electrique-bb-9218-sans-feux-rouges-bordeaux-ep-iv-dcc-sound-mb203s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:58Z"
+}

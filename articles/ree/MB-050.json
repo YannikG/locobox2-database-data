@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-050",
+  "manufacturer": "REE",
+  "articleNumber": "MB-050",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "Industriel",
+    "type": "Moyse 32 TDE",
+    "number": null,
+    "livery": "vert 306",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] Locotracteur Moyse 32 TDE vert 306, Ep. III, DC - MB050",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2020",
+    "ree-neuheiten-2023",
+    "ree-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/570--ho-locotracteur-moyse-32-tde-vert-306-ep-iii-dc-mb050-0652733534576.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1748-large_default/-ho-locotracteur-moyse-32-tde-vert-306-ep-iii-dc-mb050.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:02Z"
+}

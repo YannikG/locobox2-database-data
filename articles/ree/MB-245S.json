@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-245S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-245S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67012",
+    "livery": "bleue",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel BB 67012 Livrée bleue, plaques de Nevers, Ep. IV, DCC Sound - MB245S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1046--ho-locomotive-diesel-bb-67012-livree-bleue-plaques-de-nevers-ep-iv-dcc-sound-mb245s-0637902978146.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/764-large_default/-ho-locomotive-diesel-bb-67012-livree-bleue-plaques-de-nevers-ep-iv-dcc-sound-mb245s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:05Z"
+}

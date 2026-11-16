@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-178",
+  "manufacturer": "REE",
+  "articleNumber": "MB-178",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9206",
+    "livery": "béton",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locomotive électrique BB 9206, livrée béton, dépôt de Bordeaux, Ep. IV-V, SNCF, Analogique - MB178",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/903--ho-locomotive-electrique-bb-9206-livree-beton-depot-de-bordeaux-ep-iv-v-sncf-analogique-mb178-0637902127957.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1678-large_default/-ho-locomotive-electrique-bb-9206-livree-beton-depot-de-bordeaux-ep-iv-v-sncf-analogique-mb178.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-195SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-195SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7106",
+    "livery": "GRG",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locomotive électrique CC 71O6, AVIGNON, GRG, Ep. IV-V, AC Sound 3 rails - MB195SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/953--ho-locomotive-electrique-cc-71o6-avignon-grg-ep-iv-v-ac-sound-3-rails-mb195sac-0652733591647.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/675-large_default/-ho-locomotive-electrique-cc-71o6-avignon-grg-ep-iv-v-ac-sound-3-rails-mb195sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:35Z"
+}

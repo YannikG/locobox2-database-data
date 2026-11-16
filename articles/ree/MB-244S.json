@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-244S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-244S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67049",
+    "livery": "bleue",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive diesel BB 67049 Livrée bleue, dépôt de Caen, Ep. III, DCC Sound - MB244S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1043--ho-locomotive-diesel-bb-67049-livree-bleue-depot-de-caen-ep-iii-dcc-sound-mb244s-0637902691472.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1615-large_default/-ho-locomotive-diesel-bb-67049-livree-bleue-depot-de-caen-ep-iii-dcc-sound-mb244s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:05Z"
+}

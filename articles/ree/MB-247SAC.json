@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-247SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-247SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 369.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67379",
+    "livery": "Multiservice",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67379 Livrée Multiservice, dépôt de Chambéry, Ep. VI, AC Sound 3 rails – MB247SAC",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1053--ho-locomotive-diesel-bb-67379-livree-multiservice-depot-de-chambery-ep-vi-ac-sound-3-rails-mb247sac-0637902130551.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1638-large_default/-ho-locomotive-diesel-bb-67379-livree-multiservice-depot-de-chambery-ep-vi-ac-sound-3-rails-mb247sac.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:06Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-254",
+  "manufacturer": "REE",
+  "articleNumber": "MB-254",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "25203",
+    "livery": "béton",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 25203 Livrée béton, VÉNISSIEUX logo nouilles Ep. V, Analogique - MB254",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1072--ho-locomotive-electrique-bb-25203-livree-beton-venissieux-logo-nouilles-ep-v-analogique-mb254-0652733636812.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/518-large_default/-ho-locomotive-electrique-bb-25203-livree-beton-venissieux-logo-nouilles-ep-v-analogique-mb254.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-197S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-197S",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9288",
+    "livery": "Arzens",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] Locomotive électrique BB 9288 \"Arzens\", DCCS - MB197S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/958--ho-locomotive-electrique-bb-9288-arzens-dccs-mb197s-0652733009012.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T09:44:25Z"
+}

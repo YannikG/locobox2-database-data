@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-201S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-201S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 16000",
+    "number": "16029",
+    "livery": "En Voyage",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 16029 En Voyage, Ep. V, DCC Sound - MB201S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/970--ho-locomotive-electrique-bb-16029-en-voyage-ep-v-dcc-sound-mb201s-0652733476784.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:19:55Z"
+}

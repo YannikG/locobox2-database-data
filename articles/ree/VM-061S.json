@@ -10,10 +10,10 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "Billard A80 D1",
     "number": "251",
-    "livery": null,
+    "livery": "rouge/crème",
     "scale": "H0m",
     "electricSystem": "DC-Digital",
     "era": "III"

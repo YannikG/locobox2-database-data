@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-261S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-261S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 474.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2726",
+    "livery": "Orange Alu",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2726, Orange Alu, Metz, Ep. IV, DCC Sound - MB261S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1094--ho-autorail-rgp-1-x-2726-orange-alu-metz-ep-iv-dcc-sound-mb261s-0652733383174.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/488-large_default/-ho-autorail-rgp-1-x-2726-orange-alu-metz-ep-iv-dcc-sound-mb261s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:03Z"
+}
