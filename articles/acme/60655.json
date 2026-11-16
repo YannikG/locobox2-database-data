@@ -16,7 +16,7 @@
     "livery": "Zürichsee",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "era": "Unbekannt"
+    "era": "V-VI"
   },
   "description": "Lokomotive Re 450 060 für den Vorortverkehr der Stadt Zürich mit roter Lackierung und „Zürichsee“-Dekoration auf der linken Seite.",
   "categories": [
@@ -30,5 +30,5 @@
     "url": "https://www.acmetreni.it/files/AC60655.pdf",
     "notes": "Daten aus ACME-Flyer-PDF (pdftotext), automatisch geparsed."
   },
-  "updatedAt": "2026-11-16T07:18:36Z"
+  "updatedAt": "2026-11-16T08:06:36Z"
 }
