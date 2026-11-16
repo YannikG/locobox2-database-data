@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-174",
+  "manufacturer": "REE",
+  "articleNumber": "MB-174",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 359.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Autorail RGP 2 X-2702 Moderne Orange-Alu",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail RGP 2 X-2702 Moderne Orange-Alu, Ep. IV-V, Analogique - MB174",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/891--ho-autorail-rgp-2-x-2702-moderne-orange-alu-ep-iv-v-analogique-mb174-0652733810830.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1814-large_default/-ho-autorail-rgp-2-x-2702-moderne-orange-alu-ep-iv-v-analogique-mb174.jpg"
+  },
+  "updatedAt": "2026-11-16T08:06:31Z"
+}

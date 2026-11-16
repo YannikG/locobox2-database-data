@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-198S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-198S",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9201",
+    "number": "BB 9201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 9201 FRET, Ep. V, DCC Sound - MB198S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/961--ho-locomotive-electrique-bb-9201-fret-ep-v-dcc-sound-mb198s-0652733957696.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/781-large_default/-ho-locomotive-electrique-bb-9201-fret-ep-v-dcc-sound-mb198s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:06:31Z"
+}

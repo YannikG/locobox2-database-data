@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-013",
+  "manufacturer": "REE",
+  "articleNumber": "JM-013",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "Locomotive Diesel 040 DE 9, Livrée d'origine",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive Diesel 040 DE 9, Livrée d'origine, Ep. IV, Analogique - JM013",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/410--ho-locomotive-diesel-040-de-9-livree-d-origine-ep-iv-analogique-jm013-0652733832382.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:06:31Z"
+}

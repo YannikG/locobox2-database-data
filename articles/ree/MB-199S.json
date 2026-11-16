@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-199S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-199S",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 9282",
+    "number": "BB 9282",
+    "livery": "En Voyage",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive électrique BB 9282 \"En Voyage\", Ep. V, DCC Sound - MB199S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/964--ho-locomotive-electrique-bb-9282-en-voyage-ep-v-dcc-sound-mb199s-0652733024084.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T08:06:31Z"
+}

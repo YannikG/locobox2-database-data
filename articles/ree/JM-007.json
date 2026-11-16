@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-007",
+  "manufacturer": "REE",
+  "articleNumber": "JM-007",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 219.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Locomotive Diesel 040 DE 532 Origine",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive Diesel 040 DE 532 Origine, Ep. III, Analogique - JM007",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/392--ho-locomotive-diesel-040-de-532-origine-ep-iii-analogique-jm007-0652733427809.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/585-large_default/-ho-locomotive-diesel-040-de-532-origine-ep-iii-analogique-jm007.jpg"
+  },
+  "updatedAt": "2026-11-16T08:06:31Z"
+}
