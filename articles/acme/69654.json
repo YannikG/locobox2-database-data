@@ -11,16 +11,17 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "SBB Re 456 551-1",
-    "number": null,
-    "livery": null,
+    "type": "Re 456",
+    "number": "551-1",
+    "livery": "Sihltalbahn",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "Unbekannt"
   },
   "description": "Lokomotive Re 456 551-1 in roter „Sihltalbahn“-Lackierung für den Vorortverkehr der Stadt Zürich.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "acme-neuheiten-2026"
@@ -29,5 +30,5 @@
     "url": "https://www.acmetreni.it/files/AC69654.pdf",
     "notes": "Daten aus ACME-Flyer-PDF (pdftotext), automatisch geparsed."
   },
-  "updatedAt": "2026-11-15T22:19:04Z"
+  "updatedAt": "2026-11-16T07:18:36Z"
 }

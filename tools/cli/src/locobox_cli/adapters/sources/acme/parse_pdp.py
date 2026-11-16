@@ -49,6 +49,34 @@ def _guess_operator_country(text: str) -> tuple[str, str]:
     return "Unbekannt", "IT"
 
 
+def _split_sbb_re_title(raw: str) -> tuple[str, Optional[str], Optional[str]]:
+    """
+    ``SBB Re 450 060`` / ``Re 456 551-1`` → type, number, optional quoted livery.
+    Operator stays out of ``model.type`` (set separately as SBB when present).
+    """
+    s = _norm(raw.strip())
+    s = re.sub(r"^SBB\s+", "", s, flags=re.I)
+    m = re.fullmatch(
+        r"(Re\s+\d{3})\s+(\d{3}(?:-\d)?)\b(?:\s+[„\"«]([^„\"«»]+)[“\"»])?",
+        s,
+        re.I,
+    )
+    if m:
+        series = "Re " + m.group(1).split()[-1]
+        return series, m.group(2), (m.group(3).strip() if m.group(3) else None)
+    return s[:120], None, None
+
+
+def _livery_from_text(text: str) -> Optional[str]:
+    m = re.search(r"[„\"«]([^„\"«»]{2,40})[“\"»]", text)
+    if not m:
+        return None
+    name = _norm(m.group(1).strip())
+    if re.search(r"lackierung|livrea|livery", name, re.I):
+        return None
+    return name
+
+
 def _model_type(lines: list[str], article: str) -> str:
     for line in lines[:12]:
         s = line.strip()
@@ -110,7 +138,16 @@ def _german_description(lines: list[str]) -> str:
         s = line.strip()
         if len(s) < 40:
             continue
-        if re.search(r"\b(Lokomotive|Lackierung|für den|Einsatz)\b", s, re.I):
+        if re.search(
+            r"\b(Lokomotive|Lackierung|für den|Einsatz|Originalbeschriftung)\b",
+            s,
+            re.I,
+        ):
+            return _norm(s)
+    # DE flyer lines sometimes start with the series, not «Lokomotive».
+    for line in lines:
+        s = line.strip()
+        if re.match(r"^Re\s+\d{3}\b.+\bLokomotive\b", s, re.I) and len(s) > 40:
             return _norm(s)
     return ""
 
@@ -176,7 +213,9 @@ def parse_acme_flyer(
         desc = _norm(_model_type(lines, art))
 
     operator, country = _guess_operator_country(joined)
-    model_type = _model_type(lines, art)
+    raw_type = _model_type(lines, art)
+    model_type, model_number, title_livery = _split_sbb_re_title(raw_type)
+    livery = title_livery or _livery_from_text(joined)
     amount = float(uvp_amount) if uvp_amount is not None else _uvp_for_article(joined, art)
 
     tags: list[str] = []
@@ -187,6 +226,10 @@ def parse_acme_flyer(
         m = re.search(r"(?<!\d)(20[0-9]{2})(?!\d)", campaign_tag)
         if m:
             release = m.group(1)
+
+    cats = ["lokomotive"]
+    if re.search(r"\b(Re|E\.?\d|TRAXX|Elektrolok)\b", raw_type + " " + desc, re.I):
+        cats.append("elektrolokomotive")
 
     return {
         "schemaVersion": "1.0.0",
@@ -199,14 +242,14 @@ def parse_acme_flyer(
             "country": country,
             "operator": operator,
             "type": model_type,
-            "number": None,
-            "livery": None,
+            "number": model_number,
+            "livery": livery,
             "scale": "H0",
             "electricSystem": _electric_system(art, joined),
             "era": "Unbekannt",
         },
         "description": desc,
-        "categories": ["lokomotive"],
+        "categories": cats,
         "tags": tags,
         "source": {
             "url": canonical_url,

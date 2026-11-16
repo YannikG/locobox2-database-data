@@ -15,7 +15,7 @@ def test_parse_acme_flyer_dc_and_sound() -> None:
         text,
         canonical_url="https://www.acmetreni.it/files/AC60655.pdf",
         article="60655",
-        campaign_tag="acme-herbstneuheiten-2026",
+        campaign_tag="acme-neuheiten-2026",
     )
     assert dc["id"] == "acme-60655"
     assert dc["manufacturer"] == "ACME"
@@ -24,9 +24,13 @@ def test_parse_acme_flyer_dc_and_sound() -> None:
     assert dc["model"]["scale"] == "H0"
     assert dc["model"]["operator"] == "SBB"
     assert dc["model"]["country"] == "CH"
+    assert dc["model"]["type"] == "Re 450"
+    assert dc["model"]["number"] == "060"
+    assert dc["model"]["livery"] == "Zürichsee"
     assert dc["model"]["electricSystem"] == "DC-Analog"
+    assert "elektrolokomotive" in dc["categories"]
     assert "Zürich" in dc["description"] or "Zuerich" in dc["description"]
-    assert dc["tags"] == ["acme-herbstneuheiten-2026"]
+    assert dc["tags"] == ["acme-neuheiten-2026"]
     assert dc["releaseDate"] == "2026"
     assert dc["source"]["url"].endswith("AC60655.pdf")
 
@@ -34,10 +38,12 @@ def test_parse_acme_flyer_dc_and_sound() -> None:
         text,
         canonical_url="https://www.acmetreni.it/files/AC60655.pdf",
         article="69655",
-        campaign_tag="acme-herbstneuheiten-2026",
+        campaign_tag="acme-neuheiten-2026",
         uvp_amount=212.0,
     )
     assert sound["articleNumber"] == "69655"
+    assert sound["model"]["type"] == "Re 450"
+    assert sound["model"]["number"] == "060"
     assert sound["model"]["electricSystem"] == "DC-Digital"
     assert sound["uvp"]["amount"] == 212.0
 
