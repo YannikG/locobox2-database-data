@@ -13,7 +13,7 @@
     "livery": "Multiservice",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "decoderInterface": "Unbekannt",
+    "decoderInterface": "NEM 660 (21MTC)",
     "era": "VI",
     "luepMm": null,
     "minRadiusMm": null,
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:09:35Z"
+  "updatedAt": "2026-11-16T09:20:17Z"
 }

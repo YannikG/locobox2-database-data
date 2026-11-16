@@ -49,7 +49,7 @@ Zusätzlich im Jouef-Katalog:
 
 ## Decoder / Strom
 
-Katalog nennt oft NEM 660 (21MTC). Wenn nicht sicher gesetzt: `decoderInterface` darf `Unbekannt` bleiben (Finding optional). `electricSystem` nur Analog vs. Sound-`S`, nicht Vorbild-kV.
+Aktuelle H0-Triebfahrzeuge: `decoderInterface` = **`NEM 660 (21MTC)`** (Kataloglegende «Mit Digitalschnittstelle nach NEM 660 (21-pin MTC)»). Nicht `Unbekannt` lassen, wenn der Katalog die 21MTC-Legende für die Serie führt. `electricSystem` nur Analog vs. Sound-`S`, nicht Vorbild-kV.
 
 ## Provenienz
 

@@ -188,7 +188,8 @@ def build_jouef_article(
             "livery": livery,
             "scale": "H0",
             "electricSystem": electric,
-            "decoderInterface": "Unbekannt",
+            # Hornby/Jouef H0 motorized line: Digitalschnittstelle NEM 660 (21-pin MTC).
+            "decoderInterface": "NEM 660 (21MTC)",
             "era": era,
             "luepMm": None,
             "minRadiusMm": None,
