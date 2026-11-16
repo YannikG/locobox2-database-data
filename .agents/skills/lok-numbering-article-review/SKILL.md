@@ -192,6 +192,18 @@ Gegen [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsi
 - **`Rh`** nur bei NL/NS; ÖBB/SBB `Reihe`/`Re` nicht als Rh lassen
 - Autofix zuerst: `autofix_trix_shop_import.py` (Scope `articles/maerklin` oder `articles/trix`)
 
+#### Pass 1: BEMO (Tag `bemo-*` / Hersteller BEMO)
+
+Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) und [internal/wiki-rhb-mgb-schmalspur-naming.md](internal/wiki-rhb-mgb-schmalspur-naming.md) prüfen:
+
+- **Shop-Fluff** in `model.type` (`Universallok`, `Dampflok-Fertigmodell`, `Diesellok`, …)?
+- **RhB Ge 4/4 II:** Nummer in **611–633**, Taufname/Werbe in `livery`?
+- **Bernina Ge 4/4 181/182:** ohne römische Generation?
+- **MGB HGe 4/4 II:** Kategorie `zahnradlokomotive`?
+- **StLB VL … / ZB D …:** Klassenname ganz in `type`, `number` null?
+- **`source.url`:** `/produkt/…`, keine `?s=`-Suche?
+- Wagen: `electricSystem` `Unbekannt`, Gattung in `type`
+
 **Bewusst nicht** Loknummer-Skill: `releaseDate`, Kampagnen-Tags, Katalog-vs.-Shop-Vollständigkeit.
 
 ### Phase 2: Datei für Datei
@@ -224,12 +236,14 @@ Gegen [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsi
 | Modell-`electricSystem` (DC/AC am Modell) | [internal/field-parsing-model.md](internal/field-parsing-model.md) («Modell-Stromsystem») |
 | PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
 | Märklin / Trix Produktdatenbank | [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md) |
+| BEMO Shop / Katalog-Artefakte | [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) |
 | Shop-Import-Workflow (PDF → Queue → Fetch → Pipeline) | Skill [locobox-import](../locobox-import/SKILL.md), CLI [`tools/cli`](../../../tools/cli/README.md) |
 | Privatbahn → Land (Livery-Anker) | [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |
 | EVN / 12 Stellen | [internal/wiki-eindeutige-fahrzeugnummer.md](internal/wiki-eindeutige-fahrzeugnummer.md) |
 | UIC-Wagennummer, Luhn | [internal/wiki-uic-wagennummer.md](internal/wiki-uic-wagennummer.md) |
 | CH Bauartbezeichnungen | [internal/wiki-schweizer-bauartbezeichnungen.md](internal/wiki-schweizer-bauartbezeichnungen.md) |
+| RhB / MGB / Schmalspur-Naming (Ge/HGe, Wagen, StLB/ZB, DR 99) | [internal/wiki-rhb-mgb-schmalspur-naming.md](internal/wiki-rhb-mgb-schmalspur-naming.md) |
 | ÖBB Überblick | [internal/wiki-oebb-loks-liste.md](internal/wiki-oebb-loks-liste.md) |
 | DB Baureihen | [internal/wiki-db-baureihen-liste.md](internal/wiki-db-baureihen-liste.md) |
 | DR 1920–1945 (Reichsbahn) | [internal/wiki-dr-reichsbahn-1920-1945-baureihen-liste.md](internal/wiki-dr-reichsbahn-1920-1945-baureihen-liste.md) |
