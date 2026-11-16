@@ -17,6 +17,7 @@ from locobox_cli.adapters.sources.roco.parse_pdp import parse_roco_pdp
 from locobox_cli.adapters.sources.ree.parse_pdp import parse_ree_pdp
 from locobox_cli.adapters.sources.trix.parse_pdp import parse_trix_pdp
 from locobox_cli.adapters.sources.lsmodels.parse_pdp import parse_lsmodels_pdp
+from locobox_cli.adapters.sources.bemo.parse_pdp import parse_bemo_pdp
 from locobox_cli.adapters.sources.shop_site import shop_site_for
 from locobox_cli.application.articles.validate import ValidateArticle
 from locobox_cli.application.pipeline.run import RunArticlePipeline
@@ -37,7 +38,7 @@ def _html_dir(root: Path, campaign: Optional[str], source: str) -> Path:
 @app.command("fetch")
 def fetch_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme"
+        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme | bemo"
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
@@ -95,7 +96,7 @@ def fetch_cmd(
 @app.command("parse")
 def parse_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme"
+        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme | bemo"
     ),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
@@ -254,6 +255,14 @@ def parse_cmd(
                 )
             elif mfr == Manufacturer.ACME:
                 raw = parse_acme_pdp(
+                    html,
+                    canonical_url=canon,
+                    article=num,
+                    campaign_tag=import_tag,
+                    uvp_amount=uvp_by_article.get(num),
+                )
+            elif mfr == Manufacturer.BEMO:
+                raw = parse_bemo_pdp(
                     html,
                     canonical_url=canon,
                     article=num,

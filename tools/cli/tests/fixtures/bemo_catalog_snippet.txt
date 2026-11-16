@@ -1,0 +1,20 @@
+BEMO Neuheiten — synthetischer Auszug (pdftotext -layout)
+
+Elektrolokomotive Ge 4/4 III RhB
+1258 168   Analog
+1358 168   Digital Sound
+
+Dampflok HG 3/4 FO Zahnradlok
+1010 201
+
+Diesellok Rangierlok Gm 4/4 MGB
+1255 100
+
+Metal Collection Triebwagen Be 4/4 MOB
+2281 115
+
+Güterwagen Fb RhB
+2250 100
+
+Personenwagen B RhB
+3245 101
