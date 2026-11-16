@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-001",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-001",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Coffret TGV PSE 5 éléments (Motrices + Remorques R1, R8, R4 Bar), Ep. IV, Analogique - TGV001",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1662--ho-coffret-tgv-pse-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-analogique-tgv001-0637902984093.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/928-large_default/-ho-coffret-tgv-pse-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-analogique-tgv001.jpg"
+  },
+  "updatedAt": "2026-11-16T07:28:59Z"
+}

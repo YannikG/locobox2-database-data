@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-085S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-085S",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 9263",
+    "number": "BB 9263",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive électrique BB 9263 Béton sigle Nouille, Ep. IV-V, DCC Sound - MB085S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/665--ho-locomotive-electrique-bb-9263-beton-sigle-nouille-ep-iv-v-dcc-sound-mb085s.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1756-large_default/-ho-locomotive-electrique-bb-9263-beton-sigle-nouille-ep-iv-v-dcc-sound-mb085s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:45:35Z"
+}
