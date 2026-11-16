@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "Billard A80 D1",
     "number": "248",
-    "livery": null,
+    "livery": "rouge/crème",
     "scale": "H0m",
     "electricSystem": "DC-Analog",
     "era": "III"

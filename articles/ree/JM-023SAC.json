@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 64000",
     "number": "64044",
-    "livery": null,
+    "livery": "En Voyage",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "VI"

@@ -13,7 +13,7 @@
     "operator": "Industriel",
     "type": "Moyse 32 TDE",
     "number": null,
-    "livery": null,
+    "livery": "vert 301",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV-V"

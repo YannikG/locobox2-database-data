@@ -82,6 +82,56 @@ class ProposeTests(unittest.TestCase):
         self.assertEqual(fields.get("model.number"), "2-8")
         self.assertIn("dampflokomotive", fields.get("categories") or [])
 
+    def test_livery_from_livree(self) -> None:
+        art = {
+            "manufacturer": "REE",
+            "model": {"type": "BB 67000", "number": "67012", "livery": None},
+            "description": "[HO] : Locomotive diesel BB 67012 Livrée bleue, Nevers, Ep. IV, Analogique - MB245",
+            "categories": ["lokomotive", "diesellokomotive"],
+        }
+        fields = {f: v for _r, f, v in m.propose(art)}
+        self.assertEqual(fields.get("model.livery"), "bleue")
+
+    def test_livery_from_quoted(self) -> None:
+        art = {
+            "manufacturer": "REE",
+            "model": {"type": "BB 9200", "number": "9288", "livery": None},
+            "description": '[HO] Locomotive électrique BB 9288 "Arzens", DCCS - MB197S',
+            "categories": ["lokomotive", "elektrolokomotive"],
+        }
+        fields = {f: v for _r, f, v in m.propose(art)}
+        self.assertEqual(fields.get("model.livery"), "Arzens")
+
+    def test_livery_vert_301(self) -> None:
+        art = {
+            "manufacturer": "REE",
+            "model": {"type": "Moyse 32 TDE", "number": None, "livery": None},
+            "description": "[HO] : Locotracteur MOYSE Indutriel vert 301, DCCS - MB091S",
+            "categories": ["lokomotive", "diesellokomotive"],
+        }
+        fields = {f: v for _r, f, v in m.propose(art)}
+        self.assertEqual(fields.get("model.livery"), "vert 301")
+
+    def test_livery_rouge_creme(self) -> None:
+        art = {
+            "manufacturer": "REE",
+            "model": {"type": "Billard A80 D1", "number": "248", "livery": None},
+            "description": "[HOe/HOm] : Autorail A80 D1, 1 phare, rouge/crème, DCC SOUND, Ep.III - VM062S",
+            "categories": ["triebwagen", "dieseltriebwagen"],
+        }
+        fields = {f: v for _r, f, v in m.propose(art)}
+        self.assertEqual(fields.get("model.livery"), "rouge/crème")
+
+    def test_livery_leaves_existing(self) -> None:
+        art = {
+            "manufacturer": "REE",
+            "model": {"type": "BB 9200", "number": "9288", "livery": "Arzens"},
+            "description": '[HO] Locomotive électrique BB 9288 "Arzens", DCCS',
+            "categories": ["lokomotive"],
+        }
+        fields = {f: v for _r, f, v in m.propose(art)}
+        self.assertNotIn("model.livery", fields)
+
 
 if __name__ == "__main__":
     unittest.main()

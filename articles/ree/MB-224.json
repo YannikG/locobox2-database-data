@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "Y 2200",
     "number": "2249",
-    "livery": null,
+    "livery": "vert 301",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"

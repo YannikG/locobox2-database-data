@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "RGP 2",
     "number": "X-2705",
-    "livery": null,
+    "livery": "vert",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"

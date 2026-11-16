@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "RGP 1",
     "number": "X-2732",
-    "livery": null,
+    "livery": "Orange Béton",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"

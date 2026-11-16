@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "X 2800",
     "number": "X-2898",
-    "livery": null,
+    "livery": "Jupé",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"

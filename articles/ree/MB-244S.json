@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "BB 67000",
     "number": "67049",
-    "livery": null,
+    "livery": "bleue",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "III"

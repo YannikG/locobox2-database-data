@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 64000",
     "number": "64021",
-    "livery": null,
+    "livery": "FRET",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"

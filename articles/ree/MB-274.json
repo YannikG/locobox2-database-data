@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "RGP 1",
     "number": "X-2729",
-    "livery": null,
+    "livery": "Rouge TEE",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III-IV"

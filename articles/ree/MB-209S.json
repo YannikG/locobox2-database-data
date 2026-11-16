@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "231 G",
     "number": "4-222",
-    "livery": null,
+    "livery": "Verte",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "III"

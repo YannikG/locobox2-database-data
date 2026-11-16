@@ -11,6 +11,8 @@ Autofix REE Modèles Shop-Importreste (Allowlist, konservativ).
 - Lange Shop-Titel (``[HO]``, Epoche, Analog/DCC) → Kurztyp wenn eindeutig
   (Moyse, 040 DE, CFL 852, RGP).
 - ``operator`` / ``era`` aus Beschreibung wenn noch ``Unbekannt``.
+- ``model.livery`` aus Beschreibung wenn noch leer (Anführungszeichen,
+  ``livrée …``, Farb-/Schema-Kurzphrasen wie ``vert 301``, ``Rouge TEE``).
 - HOm-Personenwagen fälschlich als Triebwagen → Finding-safe Kategorie ``wagen``.
 
 Usage::
@@ -49,6 +51,47 @@ _MOYSE = re.compile(
 )
 _040_DE = re.compile(r"\b040\s*DE\s*(\d{1,4})\b", re.I)
 _CFL_852 = re.compile(r"\b(?:Locomotive\s+diesel\s+)?852\b.*\bCFL\b", re.I)
+
+_LIVERY_QUOTED = re.compile(r"[“\"«]([^”\"»]{2,40})[”\"»]")
+_LIVERY_LIVREE = re.compile(
+    r"\b[Ll]ivr[ée]e\s+(.+?)(?="
+    r"\s*,|"  # Depot / Logos / Ep. folgen meist nach Komma
+    r"\s+Ep\.|"
+    r"\s*[-–—]\s*(?:ANALOG|DCC|DIGITAL|AC\s+SOUND)|"
+    r"$)",
+    re.I,
+)
+_LIVERY_PHRASE = re.compile(
+    r"\b("
+    # längere Farb-/Schema-Phrasen zuerst
+    r"Origine rouge et cr[eè]me|"
+    r"rouge\s*/\s*cr[eè]me|rouge et cr[eè]me|"
+    r"bleu\s*/\s*gris\s+Perle|"
+    r"Jaune et blanche|"
+    r"Orange(?:\s*[-–]?\s*Alu|\s+B[ée]ton)|"
+    r"Verte(?:\s+Origine(?:\s+Interphonie)?)?(?:\s+avec\s+enjoliveur)?|"
+    r"Bleue(?:\s+[A-Za-zÀ-ÿ]+)?|"
+    r"Rouge(?:\s+(?:TEE|SNCF|Capitole))|"
+    r"modernis[ée]+\s+Rouge|"
+    r"Couleur d['’]origine|"
+    r"vert\s*30[16]|"
+    r"GRG|RG(?:\s+Marquages\s+jaunes)?|"
+    r"[Jj]up[ée]e?(?:\s*,\s*1[èe]re(?:/2nde)?\s+classes?(?:\s+Origine)?)?|"
+    r"Industr?iel\s+vert\s*30[16]|Indutriel\s+vert\s*30[16]|"
+    r"B[ée]ton(?:\s+Beffara)?|"
+    r"Vert(?=\s*,)|"
+    # nacktes Rouge/Vert nur wenn kein /-Farbpaar folgt
+    r"Rouge(?!\s*/)|"
+    r"vert(?!\s*/)"
+    r")\b",
+    re.I,
+)
+_LIVERY_NAMED = re.compile(
+    r"\b(FRET|Multiservice(?:s)?|Corail|Arzens|Capitole|Isabelle|"
+    r"En Voyage|LA POSTE|RECORD DU MONDE|Cage à Poule|Transports Réunis|"
+    r"Mistral|atlantique)\b",
+    re.I,
+)
 
 
 def _walk(paths: list[Path]) -> list[Path]:
@@ -269,12 +312,83 @@ def propose_short_titles(model: dict[str, Any], desc: str) -> Optional[tuple[str
     return None
 
 
+def _livery_empty(liv: Any) -> bool:
+    return liv in (None, "", "Unbekannt", "unbekannt", "null")
+
+
+def _clean_livery(raw: str) -> Optional[str]:
+    s = _norm_spaces(raw).strip(" ,;-–—")
+    s = re.sub(
+        r"\s*(?:,|\s)\s*(?:Ep\.|Analog|DCC|ACS?|Sound|3 rails|SNCF)\b.*$",
+        "",
+        s,
+        flags=re.I,
+    )
+    s = _norm_spaces(s).strip(" ,;-–—")
+    if not s or len(s) > 40:
+        return None
+    if re.fullmatch(r"\d+", s):
+        return None
+    # Shop-Tippfehler / Industriel-Prefix → kanonisch wie bestehende «vert 306»
+    m_ind = re.match(r"(?i)^Industr?iel\s+(vert\s*30[16])$", s) or re.match(
+        r"(?i)^Indutriel\s+(vert\s*30[16])$", s
+    )
+    if m_ind:
+        return _norm_spaces(m_ind.group(1))
+    if re.fullmatch(r"(?i)d['’]origine", s):
+        return "Origine"
+    if re.fullmatch(r"(?i)atlantique(?:\s+SNCF)?", s):
+        return "atlantique"
+    # Jupé-Titel: nur Lackwort behalten
+    m_jupe = re.match(r"(?i)^(Jup[ée]e?)(?:\s*,.*)?$", s)
+    if m_jupe:
+        return "Jupé"
+    return s
+
+
+def propose_livery_from_description(model: dict[str, Any], desc: str) -> Optional[str]:
+    """Short livery from shop title/description when ``model.livery`` is empty."""
+    if not _livery_empty(model.get("livery")):
+        return None
+    blob = desc or ""
+    if not blob.strip():
+        return None
+
+    m = _LIVERY_QUOTED.search(blob)
+    if m:
+        v = _clean_livery(m.group(1))
+        if v:
+            return v
+
+    m = _LIVERY_LIVREE.search(blob)
+    if m:
+        v = _clean_livery(m.group(1))
+        if v:
+            return v
+
+    m = _LIVERY_PHRASE.search(blob)
+    if m:
+        v = _clean_livery(m.group(1))
+        if v:
+            return v
+
+    m = _LIVERY_NAMED.search(blob)
+    if m:
+        return m.group(1)
+
+    return None
+
+
 def propose_meta(article: Article) -> list[tuple[str, str, Any]]:
     """List of (rule, field_path, new_value)."""
     out: list[tuple[str, str, Any]] = []
     model = article.get("model") or {}
     desc = article.get("description") or ""
     blob = f"{desc} {model.get('type') or ''}"
+
+    liv = propose_livery_from_description(model, desc)
+    if liv:
+        out.append(("ree_livery_from_desc", "model.livery", liv))
 
     op = model.get("operator")
     if op in (None, "", "Unbekannt", "unbekannt"):
@@ -415,7 +529,15 @@ def propose(article: Article) -> list[tuple[str, str, Any]]:
                     changes.append((rule + ":livery", "model.livery", liv))
 
     changes.extend(propose_meta(article))
-    return changes
+    # One write per field (first wins: type/number rules before meta livery)
+    seen: set[str] = set()
+    deduped: list[tuple[str, str, Any]] = []
+    for rule, field, val in changes:
+        if field in seen:
+            continue
+        seen.add(field)
+        deduped.append((rule, field, val))
+    return deduped
 
 
 def _set_path(article: Article, path: str, value: Any) -> None:

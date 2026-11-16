@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 25100",
     "number": "25179",
-    "livery": null,
+    "livery": "FRET",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"

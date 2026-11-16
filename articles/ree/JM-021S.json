@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 64000",
     "number": "64079",
-    "livery": null,
+    "livery": "Arzens",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "V"

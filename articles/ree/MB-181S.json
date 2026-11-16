@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "BB 16000",
     "number": "16007",
-    "livery": null,
+    "livery": "béton",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "V"

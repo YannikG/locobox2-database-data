@@ -130,6 +130,7 @@ Nur **offensichtliche Import-Artefakte** bereinigen:
 - Platzhalter wie **«Info: ~»**, **«a a»**, Fragmente wie **«= Li: Oo»** → auf **`null`** setzen (oder ein Wort aus der ersten sauberen Kurzzeile der `description`, wenn dort **ein** eindeutiger Lack-/Zustandsname steht und nichts anderes passt).
 - `livery` beginnt mit **Ziffer oder «4»** plus abgeschnittener deutscher Marketingphrase («4Ausführung …», «4Variante …») → **`null`** oder **eine** kurze, aus dem vollen Satz eindeutig ableitbare Bezeichnung (max. ein kurzer Begriff); wenn nicht eindeutig → **kein** Schreiben, Finding in Pass 1.
 - Lange **OCR-/Fliesssätze** in `livery` (mehr als ca. 40 Zeichen oder Satzzeichen wie «—» mitten im «Lack») → auf **`null`** kürzen, **nicht** durch erfundenen Marketingtext ersetzen.
+- **REE Modèles** (`autofix_ree_shop_import.py`): wenn `livery` leer, kurze Lackbezeichnung aus `description` (Anführungszeichen, `livrée …`, Farb-/Schema-Phrase wie `vert 301` / `Rouge TEE`); Depot-/Ep-/Stromsystem-Reste abschneiden, nicht raten.
 
 ### Allowlist: `model.era`
 

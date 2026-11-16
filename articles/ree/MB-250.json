@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 67000",
     "number": "67590",
-    "livery": null,
+    "livery": "Origine",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"

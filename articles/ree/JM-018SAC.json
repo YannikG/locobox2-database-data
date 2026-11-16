@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "040 DE 624",
     "number": "624",
-    "livery": null,
+    "livery": "Origine",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "III"

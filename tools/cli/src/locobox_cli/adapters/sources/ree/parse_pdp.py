@@ -176,6 +176,34 @@ def _type_and_number_from_title(title: str, article: str) -> tuple[str, Optional
     m_liv = re.search(r"[“\"«]([^”\"»]+)[”\"»]", t)
     if m_liv:
         livery = swiss_ss(m_liv.group(1).strip())
+    if not livery:
+        m_livree = re.search(
+            r"\b[Ll]ivr[ée]e\s+(.+?)(?="
+            r"\s*,|"
+            r"\s+Ep\.|"
+            r"\s*[-–—]\s*(?:ANALOG|DCC|DIGITAL|AC\s+SOUND)|"
+            r"$)",
+            t,
+            re.I,
+        )
+        if m_livree:
+            cand = re.sub(r"\s+", " ", m_livree.group(1)).strip(" ,;-–—")
+            if cand and len(cand) <= 40 and not re.fullmatch(r"\d+", cand):
+                if re.fullmatch(r"(?i)d['’]origine", cand):
+                    livery = "Origine"
+                elif re.fullmatch(r"(?i)atlantique(?:\s+SNCF)?", cand):
+                    livery = "atlantique"
+                else:
+                    livery = swiss_ss(cand)
+    if not livery:
+        m_col = re.search(
+            r"\b(vert\s*30[16]|Rouge TEE|rouge et cr[eè]me|rouge/cr[eè]me|"
+            r"bleu/gris Perle|Jaune et blanche|Couleur d['’]origine)\b",
+            t,
+            re.I,
+        )
+        if m_col:
+            livery = swiss_ss(re.sub(r"\s+", " ", m_col.group(1)).strip())
 
     def _sncf_series(prefix: str, digits: str) -> tuple[str, Optional[str]]:
         """Serie in type, Laufziffern in number (reference-sncf-type-number.md)."""

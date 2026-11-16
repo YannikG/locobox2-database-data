@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 25200",
     "number": "25243",
-    "livery": null,
+    "livery": "verte",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV"

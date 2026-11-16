@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "RGP 2",
     "number": "X-2702",
-    "livery": null,
+    "livery": "Orange-Alu",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "IV"

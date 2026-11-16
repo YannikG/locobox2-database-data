@@ -13,7 +13,7 @@
     "operator": "CFC",
     "type": "BB 400",
     "number": "405",
-    "livery": null,
+    "livery": "Couleur d’origine",
     "scale": "H0m",
     "electricSystem": "DC-Digital",
     "era": "III"

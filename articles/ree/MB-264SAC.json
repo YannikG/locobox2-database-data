@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 9300",
     "number": "9310",
-    "livery": null,
+    "livery": "Verte Origine",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "III-IV"

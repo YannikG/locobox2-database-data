@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "CC 7100",
     "number": "7106",
-    "livery": null,
+    "livery": "GRG",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV-V"

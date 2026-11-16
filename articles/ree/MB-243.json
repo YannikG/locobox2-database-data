@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "BB 67000",
     "number": "67613",
-    "livery": null,
+    "livery": "Rouge Capitole",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"

@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "040 DE 4",
     "number": "4",
-    "livery": null,
+    "livery": "Origine",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"

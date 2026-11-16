@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 20000",
     "number": "20005",
-    "livery": null,
+    "livery": "verte",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "III-IV"

@@ -13,7 +13,7 @@
     "operator": "SNCF",
     "type": "BB 9200",
     "number": "9269",
-    "livery": null,
+    "livery": "béton",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V"
