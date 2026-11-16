@@ -32,19 +32,42 @@ _SECTION_OTHER = re.compile(
     re.I,
 )
 _TITLE_LOCO = re.compile(
-    r"^\s*.{0,40}\b(?:Dampf|Diesel|Elektro)?lokomotive\b"
-    r"|^.{0,60}\b(?:Vectron|Traxx|Taurus|Re\s*\d|BR\s*\d)\b",
+    r"(?:"
+    r"\b(?:Dampf|Diesel|Elektro)?lokomotive\b|"
+    r"\b(?:Vectron|Traxx|Taurus)\b|"
+    r"\b(?:HLE|BB|CC)\s*\d|"
+    r"\b(?:RAe|RABe)\b|"
+    r"\bRe\s*\d|"
+    r"\bBR\s*\d|"
+    r"\bX\s*\d{3,}\b|"
+    r"\b(?:Autorail|Triebwagen|Triebzug|Picasso)\b"
+    r")",
     re.I,
 )
 _TITLE_NON_LOCO = re.compile(
-    r"^\s*(?:(?:\d+-tlg\.\s+)?(?:Set|Wagenset|Zugset)\b|"
-    r"(?:Personenwagen|Güterwagen|Reisezugwagen|Voiture|Wagon)\b)",
+    r"(?:"
+    r"^\s*(?:(?:\d+-tlg\.\s+)?(?:Set|Wagenset|Zugset)\b)|"
+    r"^\s*(?:Personenwagen|Güterwagen|Reisezugwagen|Voiture|Wagon)\b|"
+    r"\b(?:Apm|Bpm|Bcmz|WLABmz|OCEM|Tagnpps|Airport\s+EXPRESS|"
+    r"Nightjet|M6|I2)\b"
+    r")",
     re.I,
 )
 
 
 def _norm(s: str) -> str:
     return swiss_ss(unicodedata.normalize("NFC", s))
+
+
+def _is_uic_fragment(line: str, start: int, end: int) -> bool:
+    """Reject tokens that are slices of UIC wagon numbers (…59-91 217-4)."""
+    before = line[:start].rstrip()
+    after = line[end:]
+    if before.endswith("-") or before.endswith("–"):
+        return True
+    if re.match(r"\s*-\d", after):
+        return True
+    return False
 
 
 @dataclass(frozen=True, slots=True)
@@ -71,7 +94,6 @@ def extract_lsmodels_catalog_rows(
     raw = [_norm(line) for line in text.splitlines()]
     section = "none"
     product = "unknown"  # loco | nonloco | unknown
-    kind = "Lokomotive"
     title = ""
     rows: list[CatalogRow] = []
     seen: set[str] = set()
@@ -92,48 +114,48 @@ def extract_lsmodels_catalog_rows(
             product = "unknown"
             continue
 
-        if _TITLE_NON_LOCO.match(stripped) and len(stripped) < 100:
-            product = "nonloco"
-            kind = "Rollendes Material"
-            title = stripped[:240]
-            continue
-        if _TITLE_LOCO.match(stripped) and len(stripped) < 120:
+        has_sku = bool(_SKU_TOKEN.search(stripped))
+
+        if not has_sku and _TITLE_LOCO.search(stripped) and len(stripped) < 120:
             product = "loco"
-            kind = "Lokomotive"
             title = stripped[:240]
             continue
+        if not has_sku and _TITLE_NON_LOCO.search(stripped) and len(stripped) < 120:
+            product = "nonloco"
+            title = stripped[:240]
+            continue
+
+        # Set lines with SKUs inherit prior loco title (e.g. RAe / HLE).
+        if has_sku and re.match(r"^\s*Set\b", stripped, re.I) and product != "loco":
+            if section != "locomotive" and not _TITLE_LOCO.search(title):
+                product = "nonloco"
 
         for m in _SKU_TOKEN.finditer(line):
             if m.group("sound"):
                 continue
+            if _is_uic_fragment(line, m.start(), m.end()):
+                continue
             art = f"{m.group('a')}{m.group('b')}"
-            if art in seen:
-                continue
-            if not re.fullmatch(r"\d{4,8}", art):
+            if art in seen or not re.fullmatch(r"\d{4,8}", art):
                 continue
 
-            accept = False
-            if product == "loco" or section == "locomotive":
-                accept = True
-            elif product == "nonloco" or section == "other":
-                accept = False
-            elif not locomotives_only:
-                accept = True
-
-            if locomotives_only and not accept:
-                continue
-            if not locomotives_only and product == "nonloco":
+            # Explicit product wins over a sticky section header (e.g. M6 after HLE).
+            is_loco = product == "loco" or (
+                section == "locomotive" and product != "nonloco"
+            )
+            if locomotives_only and not is_loco:
                 continue
 
+            out_section = section if section != "none" else ("locomotive" if is_loco else "other")
+            out_kind = "Lokomotive" if is_loco else "Rollendes Material"
             seen.add(art)
-            ctx = (title or stripped)[:240]
             rows.append(
                 CatalogRow(
                     article=art,
                     price_eur=None,
-                    section=section if section != "none" else "locomotive",
-                    kind=kind,
-                    line_context=ctx,
+                    section=out_section,
+                    kind=out_kind,
+                    line_context=(title or stripped)[:240],
                 )
             )
 

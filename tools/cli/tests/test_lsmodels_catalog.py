@@ -17,12 +17,20 @@ def test_extract_locomotives_skips_sound_mw_and_wagons() -> None:
     assert "16575" in arts
     assert "16100" in arts
     assert "16600" in arts
+    assert "17022" in arts
+    assert "17522" in arts
+    assert "12000" in arts
+    assert "12500" in arts
+    assert "13001" in arts
     # Sound suffix S skipped (ArticleNumber digits only)
     assert "16075S" not in arts
     assert "16575S" not in arts
-    # Personenwagen / MW skipped with locomotives_only
+    # Personenwagen / M6 sets / UIC fragments / MW skipped with locomotives_only
     assert "17201" not in arts
     assert "17202" not in arts
+    assert "43104" not in arts
+    assert "43604" not in arts
+    assert "90014" not in arts
     assert all(r.price_eur is None for r in rows)
 
 
