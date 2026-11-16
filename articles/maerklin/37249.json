@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "AT",
+    "operator": "ÖBB",
     "type": "Reihe 1020",
     "number": "1020.28",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/01/72/0172387b47804f9c5479a1c93a0e46f51572591604.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

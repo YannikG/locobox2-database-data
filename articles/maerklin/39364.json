@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CH",
+    "operator": "SBB",
     "type": "Ae 6/6",
     "number": "11407",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/08/56/08568e4758dd669b239ca076c4506cef1512123023.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 189",
     "number": "012-8",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/82/ed/82edb5bb061de20e0bb7894c9bc4623b1601186418.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

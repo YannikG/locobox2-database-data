@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "FR",
+    "operator": "Colas Rail",
     "type": "BR 212",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c6/29/c6298c8bb9533b71129cca51c102db671555135210.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

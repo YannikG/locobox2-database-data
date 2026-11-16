@@ -9,11 +9,11 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "US-Güterzug-Dampflokomotive mit Öl-Schlepptender",
+    "country": "US",
+    "operator": "UP",
+    "type": "Class 3900",
     "number": "3706",
-    "livery": null,
+    "livery": "Challenger",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "III",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c2/35/c235331a401368fe0ed14be3de71d65e1474890261.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

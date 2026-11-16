@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "FR",
+    "operator": "EST",
     "type": "Schnellzug-Dampflokomotive Serie 13 EST",
     "number": null,
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/43/c8/43c82749076c4bcf63a42cca706b4dda1679317211.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

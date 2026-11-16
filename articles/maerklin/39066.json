@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "LU",
+    "operator": "CFL",
     "type": "Class 66",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/a1/b1/a1b1db616cc981272fc535624b2c76241639724458.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

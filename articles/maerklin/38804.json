@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "ECR",
     "type": "BR 186",
     "number": "310-9",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c4/6b/c46b5f98ddca0a31b1545b5611db901f1734246006.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

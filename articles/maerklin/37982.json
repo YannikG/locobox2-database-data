@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "K.Bay.Sts.B.",
     "type": "mit Schlepptender",
     "number": "494",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/a6/db/a6dbc8518666828cbb07d50e0782095e1434538952.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

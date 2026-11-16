@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "K.Bay.Sts.B.",
     "type": "EG 2x2/2",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/4a/19/4a19c0abec81d1ce87ce3b0aa71f00da1484056902.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:15:12Z"
 }

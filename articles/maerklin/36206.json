@@ -9,18 +9,19 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Suchen",
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 380",
     "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "Unbekannt"
+    "era": "VI"
   },
-  "description": "Suchen",
+  "description": "Vorbild: Elektrolokomotive BR 380 (Škoda Typ 109 E) der Tschechischen Staatsbahn (ČD). Mit Werbeaufschrift Designed by INTUO. Katalog Neuheiten 2019; Produktdatenbank-HTML war Suchseite statt PDP.",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "elektrolokomotive"
   ],
   "tags": [
     "maerklin-neuheiten-2019"
@@ -29,5 +30,5 @@
     "url": "https://www.maerklin.de/de/produkte/details/article/36206",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated."
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

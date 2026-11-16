@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Railpool",
     "type": "BR 193",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/db/d8/dbd88630ce49417b900a1b912793ccf31484053600.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

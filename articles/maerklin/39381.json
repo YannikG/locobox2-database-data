@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "KPEV",
     "type": "Gattung P8",
     "number": "2424",
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fa/d6/fad65ce507304e1ecc924f7c6423b3e11738666809.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

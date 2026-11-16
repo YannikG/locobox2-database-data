@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "US",
+    "operator": "UP",
     "type": "Reihe 4000",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/69/a5/69a54cffcc1f839a2a5c7b29a39310b81765890026.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

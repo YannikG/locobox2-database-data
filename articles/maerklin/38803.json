@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Railpool",
     "type": "BR 186",
     "number": "181-4",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/3b/e6/3be6e8d50f0ceba0487315f798a82d8e1734249608.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "US",
+    "operator": "UP",
     "type": "GE ES44AC",
     "number": "7495",
     "livery": null,
@@ -31,5 +31,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/83/ef/83ef95c977e03378b3aaad020608f3fe1669964407.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

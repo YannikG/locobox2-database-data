@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CH",
+    "operator": "SBB",
     "type": "Serie Ce 6/8 II",
     "number": "14253",
     "livery": "Krokodil",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fc/19/fc1994973f1049207db43eeaa21e9f421637845221.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

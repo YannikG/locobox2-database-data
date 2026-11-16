@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "HGK",
     "type": "Class 66",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/1f/84/1f84ac3ccbe92f36f71ce163e80150211634277640.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

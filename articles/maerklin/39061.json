@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "NL",
+    "operator": "RRF",
     "type": "Class 66",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fd/71/fd717ffe6a53d175d17ae2ebe812f4a41576134015.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

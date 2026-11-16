@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "IT",
+    "operator": "Railion",
     "type": "G 2000 BB",
     "number": null,
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ed/2d/ed2d1e8ff8be7f64cda5e1e06bb6ca541467117014.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:15:12Z"
 }

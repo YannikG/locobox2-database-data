@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "BE",
+    "operator": "LINEAS",
     "type": "Class 66",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f4/6f/f46f104547186db0cd1f1f85c1e09b7e1576047617.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

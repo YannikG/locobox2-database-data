@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CH",
+    "operator": "Crossrail",
     "type": "Class 77",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/51/85/51858d25cfa513ffd2fb898c0f20d8b91626847252.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

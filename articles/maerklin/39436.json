@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
-    "type": "S 3/6, die",
+    "operator": "K.Bay.Sts.B.",
+    "type": "S 3/6",
     "number": "3624",
     "livery": "Hochhaxige",
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/24/df/24dff41459bb0c20cea849afe940c7131567503592.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:15:12Z"
 }

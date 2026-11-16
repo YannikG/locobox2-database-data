@@ -10,7 +10,7 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 151",
     "number": "035-3",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ef/19/ef1944a102b033ea39aca55dd374b2151734098409.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

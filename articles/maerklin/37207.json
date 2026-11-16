@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "NL",
+    "operator": "RRF",
     "type": "G 2000 BB",
     "number": "1101",
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/e2/32/e2325708bdc2b50301919d28c8cb48f01467117253.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

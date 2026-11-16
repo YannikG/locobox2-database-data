@@ -38,6 +38,19 @@ _OPERATOR_COUNTRY = {
     "GYSEV": "HU",
     "MRCE": "DE",
     "ERS": "NL",
+    "UP": "US",
+    "PRR": "US",
+    "ATSF": "US",
+    "NSB": "NO",
+    "SOB": "CH",
+    "ZSSK": "SK",
+    "KPEV": "DE",
+    "Hector Rail": "SE",
+    "Railpool": "DE",
+    "ELL": "AT",
+    "DB Cargo": "DE",
+    "DB Schenker": "DE",
+    "SBB Cargo": "CH",
 }
 
 _OPERATOR_ALIASES = {
@@ -172,29 +185,75 @@ def _operator_country(op: str) -> tuple[str, str]:
 
 
 def _operator_from_vorbild(description: str) -> tuple[str, str]:
+    """Map Vorbild prose / parenthetical codes to operator + ISO country."""
+    # Named US roads before bare «NS» (Norfolk Southern vs. Nederlandse Spoorwegen).
     if re.search(r"Norfolk\s+Southern", description, re.I):
         return "NS", "US"
+    if re.search(r"Union\s+Pacific|\bU\.?P\.?\b", description, re.I):
+        return "UP", "US"
+    if re.search(r"Pennsylvania\s+Railroad|\bPRR\b", description, re.I):
+        return "PRR", "US"
+    if re.search(r"Atchison|Santa\s+Fe|\bA\.?\s*T\.?\s*&?\s*S\.?\s*F\.?\b", description, re.I):
+        return "ATSF", "US"
     if re.search(r"Rail Cargo Group|\bRCG\b", description, re.I):
         return "RCG", "AT"
     m = _PAREN_OP.search(description)
     if m:
         return _operator_country(m.group("op"))
-    if re.search(r"Deutschen?\s+Bahn\s+Gleisbau|\bDBG\b", description, re.I):
-        return "DBG", "DE"
-    if re.search(r"DB\s+Bahnbau", description, re.I):
-        return "DB", "DE"
-    if re.search(r"Schlünss|Schluenss|\bSEL\b", description, re.I):
-        return "SEL", "DE"
-    if re.search(r"European Loc Pool|\bELP\b", description, re.I):
-        return "ELP", "CH"
-    if re.search(r"Belgischen?\s+Staatsbahn|SNCB|NMBS", description, re.I):
-        return "SNCB", "BE"
-    if re.search(r"Deutschen?\s+Bundesbahn", description, re.I):
-        return "DB", "DE"
-    if re.search(r"Deutschen?\s+Reichsbahn", description, re.I):
-        return "DR", "DE"
-    if re.search(r"Schweizerischen?\s+Bundesbahnen", description, re.I):
-        return "SBB", "CH"
+    # Free-text EVU / Bahnverwaltung (ordered: specific before generic DB/SBB).
+    text_ops: list[tuple[str, str, str]] = [
+        (r"Hector\s*Rail", "Hector Rail", "SE"),
+        (r"Mitsui\s+Rail\s+Capital|\bMRCE\b", "MRCE", "DE"),
+        (r"\bRailpool\b", "Railpool", "DE"),
+        (r"\bELL\b", "ELL", "AT"),
+        (r"DB\s+Schenker", "DB Schenker", "DE"),
+        (r"DB\s+Cargo", "DB Cargo", "DE"),
+        (r"SBB\s+Cargo", "SBB Cargo", "CH"),
+        (r"BLS\s+Cargo|\bBLS\b", "BLS", "CH"),
+        (r"Südostbahn|\bSOB\b", "SOB", "CH"),
+        (r"Schweizer\s+Südostbahn", "SOB", "CH"),
+        (r"Železni[cč]n[aá]\s+spolo[cč]nos[tť]|\bZSSK\b|ŽSSK", "ZSSK", "SK"),
+        (r"Tschechischen?\s+Staatsbahn|\bČD\b|\bCD\b(?!\s*Cargo)", "CD", "CZ"),
+        (r"Norwegischen?\s+Staatsbahn|\bNSB\b", "NSB", "NO"),
+        (r"K\.?\s*P\.?\s*E\.?\s*V\.?|Königlich\s+Preussischen?\s+Eisenbahn", "KPEV", "DE"),
+        (r"K\.?\s*Bay\.?\s*Sts\.?\s*B\.?|Königlich\s+Bayerischen?\s+Staats", "K.Bay.Sts.B.", "DE"),
+        (r"K\.?\s*W\.?\s*St\.?\s*E\.?|Württembergischen?\s+Staatseisenbahn", "K.W.St.E.", "DE"),
+        (r"W\.?\s*St\.?\s*E\.?", "W.St.E.", "DE"),
+        (r"Französischen?\s+Ostbahn|\bEST\b", "EST", "FR"),
+        (r"Euro\s+Cargo\s+Rail|\bECR\b", "ECR", "DE"),
+        (r"CTL\s+Logistics", "CTL Logistics", "PL"),
+        (r"Mercitalia", "Mercitalia", "IT"),
+        (r"CFL\s+Cargo|\bCFL\b", "CFL", "LU"),
+        (r"LINEAS", "LINEAS", "BE"),
+        (r"Crossrail", "Crossrail", "CH"),
+        (r"Strukton", "Strukton", "NL"),
+        (r"CargoNet", "CargoNet", "NO"),
+        (r"RushRail", "RushRail", "SE"),
+        (r"Rotterdam\s+Rail\s+Feeding|\bRRF\b", "RRF", "NL"),
+        (r"Häfen\s+und\s+Güterverkehr\s+Köln|\bHGK\b", "HGK", "DE"),
+        (r"Lokomotion", "Lokomotion", "DE"),
+        (r"Swiss\s+Rail\s+Traffic", "Swiss Rail Traffic", "CH"),
+        (r"Colas\s+Rail", "Colas Rail", "FR"),
+        (r"Bergslagernas|\bBJ\b", "BJ", "SE"),
+        (r"Amtrak", "Amtrak", "US"),
+        (r"Deutschen?\s+Bahn\s+Gleisbau|\bDBG\b", "DBG", "DE"),
+        (r"DB\s+Bahnbau", "DB", "DE"),
+        (r"Schlünss|Schluenss|\bSEL\b", "SEL", "DE"),
+        (r"European\s+Loc\s+Pool|\bELP\b", "ELP", "CH"),
+        (r"Belgischen?\s+Staatsbahn|SNCB|NMBS", "SNCB", "BE"),
+        (r"Österreichischen?\s+Bundesbahn|\bÖBB\b|\bOBB\b", "ÖBB", "AT"),
+        (r"Deutschen?\s+Bahn\s+AG|\bDB\s+AG\b", "DB AG", "DE"),
+        (r"Deutschen?\s+Bundesbahn", "DB", "DE"),
+        (r"Deutschen?\s+Reichsbahn", "DR", "DE"),
+        (r"Schweizerischen?\s+Bundesbahn|\bSBB\b", "SBB", "CH"),
+        (r"Niederländischen?\s+Eisenbahn|\bNS\b(?!\s+Southern)", "NS", "NL"),
+        (r"Polnischen?\s+Staatsbahn|\bPKP\b", "PKP", "PL"),
+        (r"Italienischen?\s+Staatsbahn|\bFS\b", "FS", "IT"),
+        (r"Französischen?\s+Staatsbahn|\bSNCF\b", "SNCF", "FR"),
+    ]
+    for pat, op, cc in text_ops:
+        if re.search(pat, description, re.I):
+            return op, cc
     return "Unbekannt", "DE"
 
 

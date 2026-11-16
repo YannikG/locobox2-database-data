@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "PL",
+    "operator": "CTL Logistics",
     "type": "BR 189",
     "number": null,
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d7/46/d7464a53ec5d73c6d6b72ebb475668631467641278.jpg"
   },
-  "updatedAt": "2026-11-16T09:09:39Z"
+  "updatedAt": "2026-11-16T09:14:53Z"
 }

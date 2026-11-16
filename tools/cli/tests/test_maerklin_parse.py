@@ -67,3 +67,11 @@ def test_parse_generic_h1_uses_vorbild_and_spaced_operator() -> None:
     assert art["model"]["operator"] == "NS"
     assert art["model"]["country"] == "NL"
     ValidateArticle.from_contracts(REPO).assert_valid(art)
+
+
+def test_operator_from_vorbild_named_roads() -> None:
+    from locobox_cli.adapters.sources.maerklin.parse_pdp import _operator_from_vorbild
+
+    assert _operator_from_vorbild("Union Pacific Railroad (U.P.).") == ("UP", "US")
+    assert _operator_from_vorbild("Hector Rail Vectron BR 193") == ("Hector Rail", "SE")
+    assert _operator_from_vorbild("Königlich Preussischen Eisenbahn-Verwaltung (KPEV)")[0] == "KPEV"
