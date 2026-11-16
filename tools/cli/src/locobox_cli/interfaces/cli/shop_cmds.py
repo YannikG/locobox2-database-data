@@ -12,6 +12,8 @@ from locobox_cli.adapters.paths import find_repo_root
 from locobox_cli.adapters.rules_yaml import load_rules_tree
 from locobox_cli.adapters.shop_cloakbrowser import CloakShopFetcher
 from locobox_cli.adapters.sources.acme.parse_pdp import parse_acme_pdp
+from locobox_cli.adapters.sources.jouef.parse_pdp import parse_jouef_pdp
+from locobox_cli.adapters.sources.jouef.shop_site import JouefShopNotImplementedError
 from locobox_cli.adapters.sources.piko.parse_pdp import parse_piko_pdp
 from locobox_cli.adapters.sources.roco.parse_pdp import parse_roco_pdp
 from locobox_cli.adapters.sources.ree.parse_pdp import parse_ree_pdp
@@ -38,7 +40,10 @@ def _html_dir(root: Path, campaign: Optional[str], source: str) -> Path:
 @app.command("fetch")
 def fetch_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme | bemo"
+        ...,
+        "--source",
+        "-s",
+        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo",
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
@@ -52,6 +57,13 @@ def fetch_cmd(
     """Fetch PDP HTML for approved article numbers (CloakBrowser)."""
     mfr = Manufacturer.parse(source)
     site = shop_site_for(mfr.slug)
+    if mfr == Manufacturer.JOUEF:
+        # Fail fast before CloakBrowser; JouefShopSite.search_url is a stub.
+        try:
+            site.search_url("HJ0000")
+        except JouefShopNotImplementedError as exc:
+            typer.echo(json.dumps({"ok": False, "error": str(exc)}, ensure_ascii=False))
+            raise typer.Exit(code=1) from exc
     root = repo_root or find_repo_root()
     queue = parse_queue_text(articles.read_text(encoding="utf-8"))
     nums = [e.article.value for e in queue.entries]
@@ -96,7 +108,10 @@ def fetch_cmd(
 @app.command("parse")
 def parse_cmd(
     source: str = typer.Option(
-        ..., "--source", "-s", help="piko | roco | trix | ree | lsmodels | acme | bemo"
+        ...,
+        "--source",
+        "-s",
+        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo",
     ),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
@@ -252,6 +267,10 @@ def parse_cmd(
                     article=num,
                     campaign_tag=import_tag,
                     uvp_amount=uvp_by_article.get(num),
+                )
+            elif mfr == Manufacturer.JOUEF:
+                raw = parse_jouef_pdp(
+                    html, canonical_url=canon, article=num, campaign_tag=import_tag
                 )
             elif mfr == Manufacturer.ACME:
                 raw = parse_acme_pdp(

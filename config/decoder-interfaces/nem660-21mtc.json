@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "NEM 660 (21MTC)",
+  "slug": "nem660-21mtc",
+  "description": "Elektrische Schnittstelle nach NEM 660 (21-pin MTC), u. a. Hornby/Jouef H0.",
+  "aliases": [
+    "21MTC",
+    "NEM 660",
+    "Mit Digitalschnittstelle nach NEM 660 (21-pin MTC)"
+  ]
+}

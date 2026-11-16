@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2477S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2477S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "241 P",
+    "number": "16",
+    "livery": "Cité du Train",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2477"
+  },
+  "description": "SNCF, Dampflokomotive 241 P 16 mit Tender 34 P 308 „Cité du Train” (Werkseitig mit Sound).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:20:17Z"
+}

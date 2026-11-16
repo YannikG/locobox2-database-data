@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2462",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2462",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP I",
+    "number": null,
+    "livery": "grün/beige",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2462"
+  },
+  "description": "SNCF, Dieseltriebwagen RGP I mit Beiwagen, grün-beige Farbgebung",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025",
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:16Z"
+}

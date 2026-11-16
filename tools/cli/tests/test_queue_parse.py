@@ -32,3 +32,8 @@ def test_render_roundtrip_numbers() -> None:
         "10001",
         "10002",
     }
+
+
+def test_parse_jouef_hj_skus() -> None:
+    doc = parse_queue_text("HJ2461\tDiesellok\tlocomotive\nhj2461s\n")
+    assert [e.article.value for e in doc.entries] == ["HJ2461", "HJ2461S"]

@@ -38,3 +38,20 @@ def test_constructor_rejects_non_canonical_alphanum() -> None:
     with pytest.raises(ValueError):
         ArticleNumber("MB 176S")
     assert ArticleNumber("MB-176S").value == "MB-176S"
+
+
+@pytest.mark.parametrize(
+    ("raw", "canonical"),
+    [
+        ("HJ2461", "HJ2461"),
+        ("hj2461s", "HJ2461S"),
+        ("HJ2461S", "HJ2461S"),
+    ],
+)
+def test_jouef_hj_skus(raw: str, canonical: str) -> None:
+    assert ArticleNumber.parse(raw).value == canonical
+
+
+def test_jouef_rejects_hm_suffix() -> None:
+    with pytest.raises(ValueError):
+        ArticleNumber.parse("HJ4206HM")

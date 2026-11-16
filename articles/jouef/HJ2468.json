@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2468",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2468",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 26000",
+    "number": "26019",
+    "livery": "Trains Spéciaux",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2468"
+  },
+  "description": "elektrische Zweisystemlokomotive BB 26019, dunkelblaue Farbgebung „Trains Spéciaux“",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025",
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:20:17Z"
+}

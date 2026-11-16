@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2443",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2443",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 26000",
+    "number": "26212",
+    "livery": "Casquette",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 660 (21MTC)",
+    "era": "V",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2443"
+  },
+  "description": "SNCF, Elektrolokomotive BB 26212 mit 3 Frontlampen, Farbgebung grau/orange mit Logo „Casquette“, Epoche V",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:29:33Z"
+}

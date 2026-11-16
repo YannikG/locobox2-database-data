@@ -5,7 +5,7 @@
 | Feld | Erwartung |
 |------|-----------|
 | `country` | **FR**, ausser grenzüberschreitendem Vorbild oder Import (dann Text/Operator) |
-| `operator` | **SNCF**, **SNCF Réseau**, **Fret SNCF**, **Captrain** (früher), **Thello** (eingestellt), Regionalmarken; **Keolis** / **Transilien**-Umfeld nur wenn Text passt |
+| `operator` | **SNCF**, **SNCF Infra**, **SNCF Réseau**, **Fret SNCF**, **Akiem**, **Captrain** (früher), **Thello** (eingestellt), Privatbahn-Dieselloks (**COLAS RAIL**, **Europoorte**, **Millet Rail**) wenn Katalog/Shop so kennzeichnen; Regionalmarken; **Keolis** / **Transilien**-Umfeld nur wenn Text passt |
 | `categories` | Lok: `lokomotive` + `elektrolokomotive` / `diesellokomotive` / `dampflokomotive`. **Elektrotriebwagen:** `triebwagen` + `elektrotriebwagen` (**ohne** `lokomotive`). Triebzüge: `triebzug`. |
 | `electricSystem` | Häufig **1,5 kV DC** (Altnetz), **25 kV 50 Hz AC** (LGV und modernes Netz), **Mehrsystem** bei Grenz- und Güterloks (z. B. «Sybic»-Familie). **Achtung:** Locobox-`electricSystem` = Modellstrom (DC/AC-Analog/Digital), nicht Vorbild-kV. |
 
@@ -32,6 +32,8 @@
 ## Review-Hinweis
 
 - Widerspruch **Kategorie** vs. Fliesstext-Antrieb, oder BR vs. Epoche (z. B. TGV-Baustelle vs. Dampf) → **Finding**.
+- **Jouef-Katalog:** Mehrspalten-Index vertauscht leicht Typ und Lack; bei HJ-Artikeln [wiki-jouef-catalog-parsing.md](wiki-jouef-catalog-parsing.md) mitlesen.
+- Serie **BB 67400** (Laufnummern bis **67632**): `type` = `BB 67400`, nicht `BB 67600`.
 
 ## Provenienz
 

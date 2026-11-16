@@ -30,12 +30,16 @@ uv run locobox queue clear --campaign demo --yes
 
 Fetch erst auf **Approved**-Queue.
 
-## Catalog (PIKO / Roco / Trix / ACME)
+## Catalog (PIKO / Roco / Trix / Jouef / ACME)
 
 ```bash
 uv run locobox catalog pdf-to-text --pdf ../../katalog.pdf -o .tmp/piko_catalog.txt
 uv run locobox catalog extract --source piko -t .tmp/piko_catalog.txt \
   --campaign demo --min-price-eur 120
+
+# Jouef (HJ#### / HJ####S aus Katalogtext; Shop-Fetch noch nicht verdrahtet)
+uv run locobox catalog extract --source jouef -t .tmp/jouef_catalog.txt \
+  --campaign jouef-demo --locomotives-only
 
 # ACME: year catalog or flyer pdftotext (no webshop; flyers at …/files/AC{nr}.pdf)
 uv run locobox catalog extract --source acme -t .tmp/acme_catalog.txt \
@@ -88,7 +92,7 @@ uv run locobox shop parse --source bemo --campaign demo \
   --tag bemo-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` | `bemo`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` | `bemo` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
 
 LS Models: offizieller Shop `lsmodels.eu`. Suche mit kompakter Artikelnummer, PDP-URLs nutzen interne PrestaShop-IDs. Sound-Suffix `S` und Models-World `MW…` werden im Catalog-Extract vorerst übersprungen. UVP fehlt im Shop oft.
 
@@ -147,7 +151,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `acme` / `bemo`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef` / `acme` / `bemo`)
 - `interfaces/cli/` — Typer
 
 ## Tests

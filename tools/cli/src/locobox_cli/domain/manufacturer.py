@@ -10,6 +10,7 @@ class Manufacturer(str, Enum):
     TRIX = "trix"
     REE = "ree"
     LSMODELS = "lsmodels"
+    JOUEF = "jouef"
     BEMO = "bemo"
     ACME = "acme"
 
@@ -33,6 +34,7 @@ class Manufacturer(str, Enum):
             Manufacturer.TRIX: "Trix",
             Manufacturer.REE: "REE",
             Manufacturer.LSMODELS: "LS Models",
+            Manufacturer.JOUEF: "Jouef",
             Manufacturer.BEMO: "BEMO",
             Manufacturer.ACME: "ACME",
         }[self]

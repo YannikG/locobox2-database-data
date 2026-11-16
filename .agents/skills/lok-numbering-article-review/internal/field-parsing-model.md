@@ -41,6 +41,13 @@ Ohne Auto-Fix-Scope-Erweiterung: in **Pass 1** Stromsystem und Typ **gegen nahe 
 
 Referenz Shop-Titel: [wiki-piko-shop-parsing.md](wiki-piko-shop-parsing.md). Privatbahn-Lack: [wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md).
 
+## Jouef Variantengruppen (Schwester-Review)
+
+| Gruppe | Erkennung | Review |
+|--------|-----------|--------|
+| Analog vs. Sound | `HJ####` und `HJ####S`, gleiches `variantGroup` | Gleiche `type`/`number`/`livery`/`era`/`operator`/`categories`; Sound → **DC-Digital** + `features: ["sound"]`, ohne `S` → **DC-Analog** ohne Sound-Feature |
+| Katalog-Mehrspalte | Index mit drei SKUs nebeneinander | Bei Stub-Beschreibung oder Typ≠Antrieb Kategorie gegen Katalogspalte/Shop prüfen; siehe [wiki-jouef-catalog-parsing.md](wiki-jouef-catalog-parsing.md) |
+
 ## Ziele beim Review
 
 1. **Parsen:** Welche Baureihe / Gattung / Reihe und welche **laufende Nummer** stecken im String?
