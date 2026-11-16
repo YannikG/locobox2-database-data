@@ -82,13 +82,23 @@ uv run locobox shop fetch --source lsmodels \
   --campaign demo --delay-min 2.5 --delay-max 6.0
 uv run locobox shop parse --source lsmodels --campaign demo \
   --tag lsmodels-neuheiten-2026
+
+# BEMO (WordPress Suche mit 4+3 Leerzeichen-SKU → /produkt/… PDP)
+uv run locobox catalog extract --source bemo -t .tmp/bemo_catalog.txt --campaign demo
+uv run locobox shop fetch --source bemo \
+  -a .tmp/import/demo/approved.txt \
+  --campaign demo --delay-min 2.5 --delay-max 6.0
+uv run locobox shop parse --source bemo --campaign demo \
+  --tag bemo-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` | `bemo` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
 
 LS Models: offizieller Shop `lsmodels.eu`. Suche mit kompakter Artikelnummer, PDP-URLs nutzen interne PrestaShop-IDs. Sound-Suffix `S` und Models-World `MW…` werden im Catalog-Extract vorerst übersprungen. UVP fehlt im Shop oft.
 
 ACME: kein Webshop. Catalog/Flyer via `pdftotext`; Produktblatt `https://www.acmetreni.it/files/AC{article}.pdf`. `shop parse` akzeptiert Flyer-`.txt`.
+
+BEMO: Shop `bemo-modellbahn.de`. Suche mit Leerzeichen-SKU (`1258168` → `1258 168`), PDP unter `/produkt/{slug}/`. Katalog-SKUs aus Neuheiten-PDFs (`pdftotext -layout`) normalisieren Leerzeichen weg. UVP in Flyern oft fehlend.
 
 ## Pipeline + YAML-Rules
 
@@ -141,7 +151,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef` / `acme`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef` / `acme` / `bemo`)
 - `interfaces/cli/` — Typer
 
 ## Tests
