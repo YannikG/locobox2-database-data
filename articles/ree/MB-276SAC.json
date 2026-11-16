@@ -12,8 +12,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "RGP 1",
-    "number": "X 2778",
-    "livery": null,
+    "number": "X-2778",
+    "livery": "Rouge",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "III-IV"

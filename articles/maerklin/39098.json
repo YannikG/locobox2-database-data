@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39098",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39098",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 450.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 95.0",
+    "number": "004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 174.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 95.0 (ex preussische T 20) der Deutschen Reichsbahn ( DRB ). Ausführung mit 3 Aufbauten, von innen genieteten Wasservorrats-Behältern ohne sichtbare Nieten und mit Einpolterungen, Reichsbahn-Laternen. Betriebsnummer 95 004. Betriebszustand um 1939.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Vorbereitet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). An beiden Lok-Enden kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 17,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39098",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/a6/a7a6682b6f93a84530073781d3d529a81572591611.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

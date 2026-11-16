@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-045",
+  "manufacturer": "REE",
+  "articleNumber": "VM-045",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "Cage à Poule",
+    "number": "ABCFY 1752",
+    "livery": "Cage à Poule",
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HOe/HOm] : Voiture « Cage à Poule », CFD N°ABCFY 1752, Ep. IIIb – VM045",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/voitures-voyageurs/2304--hoe-hom-voiture-cage-a-poule-cfd-nabcfy-1752-ep-iiib-vm045-0637902560440.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/375-large_default/-hoe-hom-voiture-cage-a-poule-cfd-nabcfy-1752-ep-iiib-vm045.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:42Z"
+}

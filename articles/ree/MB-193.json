@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-193",
+  "manufacturer": "REE",
+  "articleNumber": "MB-193",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7107",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Locomotive électrique CC 7107, PARIS-SO, Ep. III-IV, Analogique - MB193",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/945--ho-locomotive-electrique-cc-7107-paris-so-ep-iii-iv-analogique-mb193-0652733092717.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/656-large_default/-ho-locomotive-electrique-cc-7107-paris-so-ep-iii-iv-analogique-mb193.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:34Z"
+}

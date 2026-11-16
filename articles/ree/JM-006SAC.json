@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-006SAC",
+  "manufacturer": "REE",
+  "articleNumber": "JM-006SAC",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7103",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] Locomotive électrique CC 7103 Avignon, ACS - JM006SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/391--ho-locomotive-electrique-cc-7103-avignon-acs-jm006sac-0652733166159.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2367-large_default/-ho-locomotive-electrique-cc-7103-avignon-acs-jm006sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:44:18Z"
+}

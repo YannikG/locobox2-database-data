@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-008",
+  "manufacturer": "REE",
+  "articleNumber": "JM-008",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 219.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 63000",
+    "number": "63792",
+    "livery": "vert 301",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Locomotive Diesel BB 63792 vert 301 châssis noir, Ep. III-IV, Analogique - JM008",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/395--ho-locomotive-diesel-bb-63792-vert-301-chassis-noir-ep-iii-iv-analogique-jm008-0652733513083.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/587-large_default/-ho-locomotive-diesel-bb-63792-vert-301-chassis-noir-ep-iii-iv-analogique-jm008.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:55Z"
+}

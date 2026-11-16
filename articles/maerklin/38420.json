@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38420",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38420",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 II, 1. Bauserie",
+    "number": "11141",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 178.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 4/4 II, 1. Bauserie der Schweizerischen Bundesbahnen ( SBB ). Kieselgrau/Blutorange Grundfarbgebung als Zuglokomotive des Swiss Express. Betriebsnummer 11141. Betriebszustand ab 1975.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf ein rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Rangier-, Warn- und Falschfahrsignale sind digital schaltbar. Führerstands- und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit neu konstruiertem Scherenstromabnehmer . Viele separat angesetzte Details wie Griffstangen und die Nachbildung der automatischen Kupplung inkl. quer angebrachtem Gestänge . Pufferhöhe nach NEM . Bremsleitungen, Steckdosen, Füllstücke für den Schienenräumer und die vollständige automatische Kupplung liegen als separat ansteckbare Teile bei. Länge über Puffer 17,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38420",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6f/93/6f934f5aac7dd54fea0b3ae3fa39bc0d1734249614.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

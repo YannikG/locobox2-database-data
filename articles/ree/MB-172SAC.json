@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-172SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-172SAC",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 484.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2705",
+    "livery": "vert",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Autorail RGP 2 X-2705 vert, Lyon-Vaise, Ep. III, AC Sound 3 rails - MB172SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/887--ho-autorail-rgp-2-x-2705-vert-lyon-vaise-ep-iii-ac-sound-3-rails-mb172sac-0652733985989.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1801-large_default/-ho-autorail-rgp-2-x-2705-vert-lyon-vaise-ep-iii-ac-sound-3-rails-mb172sac.jpg"
+  },
+  "updatedAt": "2026-11-16T08:19:57Z"
+}

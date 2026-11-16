@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30111",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30111",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR E 44",
+    "number": "024",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 44 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Blaugraue Grundfarbgebung. Mit Scheren-Stromabnehmern. Lok-Betriebsnummer E 44 024. Betriebszustand um 1934.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Das Zugbegegnungslicht unter dem Dach ist lediglich angedeutet. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Kupplungshaken . Verpackung mit colorierter Darstellung der Lok, in Anlehnung an die historische Verpackung der damaligen Zeit. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30111",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/f7/0ff76ea447c9af77fb0098a4d5c5ac1e1702569605.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

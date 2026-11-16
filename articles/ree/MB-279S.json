@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 25100",
-    "number": "BB 25179",
-    "livery": null,
+    "number": "25179",
+    "livery": "FRET",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "V-VI"

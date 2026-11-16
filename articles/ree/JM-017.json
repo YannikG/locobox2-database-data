@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-017",
+  "manufacturer": "REE",
+  "articleNumber": "JM-017",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "040 DE 528",
+    "number": "528",
+    "livery": "Origine",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive diesel 040 DE 528, livrée d'origine, Ep. III, SNCF, Analogique - JM017",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/422--ho-locomotive-diesel-040-de-528-livree-d-origine-ep-iii-sncf-analogique-jm017-0637902610060.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

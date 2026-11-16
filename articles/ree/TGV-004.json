@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-004",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-004",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": "RECORD DU MONDE",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : TGV PSE Rame 16 \"RECORD DU MONDE\", 7 éléments, ANALOGIQUE - TGV004",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1669--ho-tgv-pse-rame-16-record-du-monde-7-elements-analogique-tgv004-0637902541197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T09:44:25Z"
+}

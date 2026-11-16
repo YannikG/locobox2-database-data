@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37327",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37327",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 370.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 620",
+    "number": "011-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Elektrolokomotive Re 6/6 als Re 620 der Schweizerischen Bundesbahnen ( SBB ), eingesetzt für den Güterverkehrsbereich SBB Cargo. Ausführung in feuerrot/ultramarinblauer Grundfarbgebung. Eckige Stirnlampen, UIC -Steckdosen, stirnseitig schräge Griffstangen, an einer Lokseite mit Wartungsklappe für Klimaanlage. Lok-Betriebsnummer 620 011-7, mit Lok-Wappen \"Rüti ZH\". Aktueller Betriebszustand um 2019.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen (jeweils beide Achsen in den beiden äusseren Drehgestellen) über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung umschaltbar auf 2 rote Schlusslichter. Fernscheinwerfer, Führerstandsbeleuchtung und Maschinenraumbeleuchtung zusätzlich jeweils digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Aufstiegsgriffstangen aus Metall. Kupplungen gegen detaillierte Frontschürzen austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37327",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/0a/fa0a75393c10b8c3bda5252e2cde40ea1575010817.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

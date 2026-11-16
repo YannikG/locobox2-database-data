@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-005",
+  "manufacturer": "REE",
+  "articleNumber": "JM-005",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7146",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] Locomotive électrique CC 7136 Lyon Mouche, DC - JM005",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/386--ho-locomotive-electrique-cc-7136-lyon-mouche-dc-jm005-0652733127891.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2357-large_default/-ho-locomotive-electrique-cc-7136-lyon-mouche-dc-jm005.jpg"
+  },
+  "updatedAt": "2026-11-16T09:44:18Z"
+}

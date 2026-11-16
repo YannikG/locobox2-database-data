@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39295",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39295",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 248",
+    "number": "024-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Zweikraftlokomotive BR 248 (Vectron Dual Mode) der BUG Verkehrsbau SE, Berlin. Aus der Vectron-Produktfamilie von Siemens. Betriebsnummer 248 024-2. Betriebszustand ab 2023.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd digital schaltbar. Fernscheinwerfer separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Pufferhöhe nach NEM . Bremsschläuche liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 23 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39295",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/21/0e21f50a846bf6b82bfab3092d9743af1702731623.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

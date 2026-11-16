@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-231",
+  "manufacturer": "REE",
+  "articleNumber": "MB-231",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 250.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2900",
+    "livery": "Jupé",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail X2900 Jupé, 1ère classe, TOULOUSE, SNCF, Ep. IV, Analogique - MB231",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1021--ho-autorail-x2900-jupe-1ere-classe-toulouse-sncf-ep-iv-analogique-mb231-0652733388469.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1397-large_default/-ho-autorail-x2900-jupe-1ere-classe-toulouse-sncf-ep-iv-analogique-mb231.jpg"
+  },
+  "updatedAt": "2026-11-16T08:20:00Z"
+}

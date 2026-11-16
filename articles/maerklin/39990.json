@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39990",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39990",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 459.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 194",
+    "number": "050-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 214.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Baureihe 194 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Lok-Betriebsnummer 194 050-1. Betriebszustand um 1982.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Antrieb auf jeweils zwei Achsen je Treibgestell . Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung jeweils separat digital schaltbar. Zusätzlich kann eine Anfahrlampe fahrtrichtungsabhängig digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 21,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39990",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/be/dcbe4947c8f35c799193a140f032bc861655272834.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

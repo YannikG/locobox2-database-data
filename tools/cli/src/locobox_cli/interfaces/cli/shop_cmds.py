@@ -20,6 +20,7 @@ from locobox_cli.adapters.sources.ree.parse_pdp import parse_ree_pdp
 from locobox_cli.adapters.sources.trix.parse_pdp import parse_trix_pdp
 from locobox_cli.adapters.sources.lsmodels.parse_pdp import parse_lsmodels_pdp
 from locobox_cli.adapters.sources.bemo.parse_pdp import parse_bemo_pdp
+from locobox_cli.adapters.sources.maerklin.parse_pdp import parse_maerklin_pdp
 from locobox_cli.adapters.sources.shop_site import shop_site_for
 from locobox_cli.application.articles.validate import ValidateArticle
 from locobox_cli.application.pipeline.run import RunArticlePipeline
@@ -43,7 +44,7 @@ def fetch_cmd(
         ...,
         "--source",
         "-s",
-        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo",
+        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo | maerklin",
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Approved queue .txt"),
     campaign: Optional[str] = typer.Option(None, "--campaign"),
@@ -111,7 +112,7 @@ def parse_cmd(
         ...,
         "--source",
         "-s",
-        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo",
+        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo | maerklin",
     ),
     html_dir: Optional[Path] = typer.Option(None, "--html-dir"),
     html_file: Optional[Path] = typer.Option(None, "--html-file"),
@@ -282,6 +283,14 @@ def parse_cmd(
                 )
             elif mfr == Manufacturer.BEMO:
                 raw = parse_bemo_pdp(
+                    html,
+                    canonical_url=canon,
+                    article=num,
+                    campaign_tag=import_tag,
+                    uvp_amount=uvp_by_article.get(num),
+                )
+            elif mfr == Manufacturer.MAERKLIN:
+                raw = parse_maerklin_pdp(
                     html,
                     canonical_url=canon,
                     article=num,

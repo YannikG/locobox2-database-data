@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39760",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39760",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 599.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01.10",
+    "number": null,
+    "livery": "Altbau",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 277.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.10 mit Altbau-Kessel und Kohlen- Schlepptender 2´3 T38 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Ausführung ohne Stromlinienverkleidung. Mit markantem quer liegendem Oberflächenvorwärmer an der Rauchkammer. Zweilicht-Spitzensignal . Witte-Windleitbleche und einseitige Indusi . Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator , mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Feuerbüchsenflackern und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39760",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/e7/fae7864a31504b1ee7431a223479ffcf1668236418.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

@@ -47,9 +47,34 @@ BB 26000 («Sybic»): Betriebsnummern typisch **26001–26234**. Steht im Shop n
 - Klassische BB/CC-**Lok** → `lokomotive` + `elektrolokomotive` bzw. `diesellokomotive`
 - **Elektrotriebwagen** (auch wenn Shop-Pfad unter `elektrolokomotiven/` liegt) → `triebwagen` + `elektrotriebwagen` (**ohne** `lokomotive`)
 
+## REE Modèles Shop (häufige Reste)
+
+REE-Parser legen oft **dieselbe** Anschrift in `type` **und** `number` (`BB 9282` / `BB 9282`) oder lassen lange Shop-Titel stehen.
+
+| Shop / Roh | `type` | `number` |
+|------------|--------|----------|
+| BB 9282 / BB 9263 (Serie BB 9200) | `BB 9200` | `9282` / `9263` |
+| BB 16001 (Serie BB 16000) | `BB 16000` | `16001` |
+| BB 25188 (Serie BB 25100) | `BB 25100` | `25188` |
+| BB 25200 nur Serie | `BB 25200` | `null` |
+| BB 9300 / BB 9317 | `BB 9300` | `null` / `9317` |
+| CC 7136 (Access / CC 7100) | `CC 7100` | `7136` |
+| BB 63792 / BB 63010 (BB 63000/63500) | `BB 63000` | `63792` / `63010` |
+| RGP 1 + X-2730 | `RGP 1` | `X-2730` |
+
+**Dampf (Pacific / Mikado, REE «MACHINE …»):**
+
+| Shop | `type` | `number` |
+|------|--------|----------|
+| `MACHINE 2-231K 8 NORD` | `231 K` | `2-8` |
+| `4-231 G 222 Tours` | `231 G` | `4-222` |
+| `141 D 318` | `141 D` | `318` |
+
+Regionpräfix (`1-`…`5-`) gehört zur laufenden Nummer (`{region}-{engine}`), nicht in `type`.
+
 ## Auto-Fix
 
-Skript `autofix_model_type_number_split.py`:
+Skript `autofix_model_type_number_split.py` (nur wenn `number` noch **null**):
 
 - Regel **`sncf_bb_cc_5`**: Fünferblock **nicht** auf `000` → `type` = `{BB|CC} {Serie000}`, `number` = voller Block (z. B. `CC 72052` → `CC 72000` / `72052`).
 - Regel **`sncf_bb_cc_4`**: Viererblock **nicht** auf `00` → `type` = `{BB|CC} {Serie00}`, `number` = voller Block (z. B. `CC 6514` → `CC 6500` / `6514`).
@@ -57,11 +82,19 @@ Skript `autofix_model_type_number_split.py`:
 
 Nach altem Fehl-Split (`type` BB, `number` 26000): zurück zu `type` `BB 26000`, `number` null.
 
+Skript **`autofix_ree_shop_import.py`** (REE-Shop, auch wenn `number` schon gesetzt):
+
+- **`ree_sncf_bbcc_*`**: Präfix aus `number` entfernen, Serie in `type` (inkl. BB 9200 / 16000 / 25100 / 63000 / CC 7100).
+- **`ree_steam_*`**: MACHINE / «Locomotive à vapeur» → `231 K|G` / `141 D` + Nummer; Kategorie `dampflokomotive`.
+- Kurztypen Moyse / 040 DE / CFL 852 / RGP / X 2800 / Y 2200; Operator/Epoche aus Text wenn noch `Unbekannt`.
+- **`ree_es_from_sku`**: nur bei `electricSystem` Unbekannt — Artikelnummer `…SAC` → `AC-Digital`, `…S` → `DC-Digital`, Basis → `DC-Analog` (REE-Variantenkodierung; nicht von Schwesterdateien kopieren).
+
 ## Verweise
 
 - Überblick FR: [internal/wiki-sncf-loks-liste.md](internal/wiki-sncf-loks-liste.md)
 - Allgemeine Split-Tabelle: [internal/field-parsing-model.md](internal/field-parsing-model.md)
+- REE-Autofix: [scripts/autofix_ree_shop_import.py](scripts/autofix_ree_shop_import.py)
 
 ## Provenienz
 
-Locobox-Konvention aus Import Roco Neuheiten 2019 (BB 26000 / CC 72000 / CC 6514) und SNCF-Serienpraxis (BB 26000 = Sybic, Nummernkreis 26001–26234).
+Locobox-Konvention aus Import Roco Neuheiten 2019 (BB 26000 / CC 72000 / CC 6514), SNCF-Serienpraxis (BB 26000 = Sybic, Nummernkreis 26001–26234) und REE Modèles Shop-Importe (BB 9200 / 16000 / 25100, CC 7100 Access, Pacific 231 K/G).

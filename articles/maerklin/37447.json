@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37447",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37447",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 309.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 146.5",
+    "number": "575-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 146.5 der Deutschen Bahn AG ( DB AG ) für den Fernverkehr. Zweisystemlokomotive aus dem TRAXX-Typenprogramm (P 160 AC2). Lichtgraue Fernverkehrs-Farbgebung mit verkehrsrotem Zierstreifen, im aktuellen IC-Design. Lokomotive für den Zuglauf: IC 2035 von Norddeich nach Leipzig Hbf. Lok-Betriebsnummer 146 575-6. Betriebszustand ab 2015.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Verschiedene Bahnhofsdurchsagen wechseln mit der Fahrtrichtung der Lokomotive. Begrüssung zugestiegener Fahrgäste und Zugdurchsagen für den nächsten Halt ebenfalls abhängig von der Fahrtrichtung der Lokomotive. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Stirnseitig über den Führerständen beleuchtete Zugziel-Anzeige \"IC 2035 Leipzig Hbf\". Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37447",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/c3/00c3b1244cc52a8f0030186bbc6862731524895223.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

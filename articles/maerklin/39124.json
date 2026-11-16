@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39124",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39124",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 110.3",
+    "number": "365-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 110.3 der Deutschen Bundesbahn (DB). Mit \"Bügelfalten\"-Front, durchgehenden Lüfterbändern, umlaufender Regenrinne, ohne frontseitige Pufferverkleidung und ohne Schürze. Achsfolge Bo´Bo´. Farbgebung in Kobaltblau mit stirnseitig v-förmigem Warnanstrich. Betriebsnummer 110 365-4. Betriebszustand um 1979.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39124",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8d/52/8d5233e83db8ebeeb8bbe6e2aa40a07e1484059404.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

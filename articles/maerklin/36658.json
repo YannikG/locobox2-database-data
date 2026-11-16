@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36658",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36658",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 239.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "Mercitalia",
+    "type": "Reihe 494",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 494 der Mercitalia Rail. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX DC3-Typenprogramm. Betriebszustand 2018.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Zwei mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36658",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/33/67/3367357db29e7bab7696e40173b02b761567576817.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

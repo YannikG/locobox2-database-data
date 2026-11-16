@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38590",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38590",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 789.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 8/14 11852",
+    "number": "11852",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 391.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Doppel-Elektrolokomotive Ae 8/14 \"Landilok\" der Schweizerischen Bundesbahnen ( SBB ). Dunkelgrüne Grundfarbgebung. Ausführung mit 2 Pantographen. Hülsenpuffer mit eckigen Puffertellern. Lok-Betriebsnummer 11852. Betriebszustand Anfang der 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. In jeder Lokhälfte ein geregelter Hochleistungsantrieb mit Schwungmasse . Jeweils 4 Achsen in jeder Lokhälfte angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Umschaltbar auf 1 rotes Schlusslicht bei Solofahrt. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Falschfahrtsignal, Führerstandbeleuchtung und Maschinenraumbeleuchtung digital schaltbar. Kulissengeführte Kurzkupplungen an den Enden der Lok, trennbare Kurzkupplung zwischen den Lokhälften. Detaillierte Dachausrüstung mit Dachleitungen, Isolatoren und Dachlaufbrettern sowie Scherenstromabnehmern. Beide Stromabnehmer digital heb- und senkbar. Befahrbarer Mindestradius 360 mm. Die Aussparungen in den Frontschürzen neben dem Normschacht können mit den beiliegenden Füllstücken verschlossen werden. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 39,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38590",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/e4/6ce47cd44e80d134953800152c6e18701738166408.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

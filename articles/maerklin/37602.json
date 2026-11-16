@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37602",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37602",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 529.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 55",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 450.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 55 in Doppeltraktion der Belgischen Staatsbahnen (SNCB/NMBS). TVM-Schlepplok für TGV , Thalys etc.\n\nModell: Zwei Lokomotiven in Doppeltraktion. Eine Lokomotive mit Digital- Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Die zweite Lok mit wechselndem Spitzenlicht auf einer Seite. Länge über Puffer ca. 45 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37602",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3a/6e/3a6e3a24320b19b708916b6b34c690341571896805.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

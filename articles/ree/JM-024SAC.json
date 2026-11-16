@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-024SAC",
+  "manufacturer": "REE",
+  "articleNumber": "JM-024SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "852",
+    "number": "852",
+    "livery": "rouge CFL",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel 852 livrée rouge CFL, Ep. IV, CFL, AC Sound 3 rails – JM024SAC",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/445--ho-locomotive-diesel-852-livree-rouge-cfl-ep-iv-cfl-ac-sound-3-rails-jm024sac-0637902887424.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/837-large_default/-ho-locomotive-diesel-852-livree-rouge-cfl-ep-iv-cfl-ac-sound-3-rails-jm024sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 9300",
-    "number": "BB 9332",
-    "livery": null,
+    "number": "9332",
+    "livery": "Verte Origine Interphonie",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"

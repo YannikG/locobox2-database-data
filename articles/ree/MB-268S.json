@@ -9,8 +9,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 25100",
-    "number": "BB 25171",
-    "livery": null,
+    "number": "25171",
+    "livery": "Verte avec enjoliveur",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "III-IV"

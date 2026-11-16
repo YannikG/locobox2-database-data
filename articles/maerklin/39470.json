@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39470",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39470",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 310.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 141",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 141 der Deutschen Bundesbahn (DB). Mit 5 Lampen, ohne umlaufender Regenrinne und mit abgerundeten Lüftergittern. Chromoxidgrüne Grundfarbgebung. Betriebszustand Mitte/Ende der 1980er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39470",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5b/7f/5b7fa0aefe4b72968dca85c551ac0e4e1572069610.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

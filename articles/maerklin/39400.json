@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39400",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39400",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 1890.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 4000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Baureihe 4000 \"Big Boy\" der Union Pacific Railroad (U.P.).\n\nModell: Rauchkammertür, Kesseloberteil, Tenderkasten, Treibradsätze, Laufradsätze, Gestängeteile sowie diverse Ansetzteile aus Metall und mit 24 Karat Feingold beschichtet. Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben, 6 Achsen über Kuppelstange angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Boxpok -Räder. Mittlere Kuppelachsen gefedert. Stirnlampe, Tender und Nummerntafeln mit wartungsfreien warmweissen Leuchtdioden ( LED ) beleuchtet. 2 Rauchsätze (7226) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal - und Nummerntafelbeleuchtung konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Kurzkupplung zwischen Lok und Tender. Dampfleitungen schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Lokführerfigur und Heizerfigur für den Führerstand liegen bei. Der \"Big Boy\" wird in einer exklusiven Verpackung mit Echtheitszertifikat ausgeliefert. Lokomotive und Echtheitszertifikat sind durchnummeriert. Präsentationsvitrine inklusive. Dem Modell liegt ein Kunstdruck bei. Ein Paar weisse Baumwoll-Handschuhe sowie ein Booklet über die Entstehung des Modells liegen bei. Zusätzlich liegt ein mit 24 Karat Feingold beschichteter Schleifer bei, zum Austausch gegen den serienmässig montierten Fahrschleifer. Länge über Kupplungen ca. 46,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39400",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/69/a5/69a54cffcc1f839a2a5c7b29a39310b81765890026.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39539",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39539",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 81",
+    "number": "81.340",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Dampflokomotive der Serie 81 (ehem. preussische G 8.1) mit Kohlen- Schlepptender der Belgischen Staatsbahnen (NMBS/SNCB). Moosgrün/schwarze Grundfarbgebung. Lok-Betriebsnummer 81.340. Betriebszustand Anfang/Mitte der 1950er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden ( LED ). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Bremsleitungen und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39539",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/35/19/3519ee985f2fed233445f610e1a32ed21633068027.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37480",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37480",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 70.2",
+    "number": "24",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 70.2 der Deutschen Bundesbahn (DB). Fiktive schwarze Grundfarbgebung. Lok-Betriebsnummer E 70 24. Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen und Blindwelle in einem Treibgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Doppel-A-Licht-Funktion. Lichtwechsel umschaltbar auf Zweilicht-Spitzensignal und zwei rote Schlusslichter. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurvengängiges Gelenkfahrwerk, beweglich unter den festen Vorbauten gelagert. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37480",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/b8/45b8fb2916def8a146f43af36e4cb7441702537207.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

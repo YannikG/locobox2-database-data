@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39658",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39658",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 339.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 64",
+    "number": "026",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Personenzug-Tenderlok Baureihe 64 der Deutschen Bundesbahn (DB). Ausführung mit genieteten Wasserkästen. Lok-Betriebsnummer 64 026. Diese Lok wurde 1927 von Henschel gebaut. Sie war von Mai 1936 bis Juli 1963 durchgehend beim Bw Gemünden beheimatet, wo sie auch am 10.03.1965 ausgemustert wurde. Betriebszustand um 1960.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen, DCC -fähig. Geregelter Hochleistungsantrieb und 3 angetriebene Achsen. Haftreifen . Vorbereitet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39658",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/14/ee/14eebaabaeacc12f39b04c3a94e62b7a1539064810.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

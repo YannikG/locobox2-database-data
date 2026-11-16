@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39360",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39360",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 459.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6 I",
+    "number": "10703",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 169.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 3/6 I der Schweizerischen Bundesbahnen ( SBB ). Lokomotive aus dem achten Baulos. Tannengrüne Grundfarbgebung mit grauem Fahrwerk. Mit Stangenpuffer , stirnseitigen Übergangsblechen und 4 seitlichen Führerstandstüren. Falschfahrsignal über der jeweils oberen Lampe. Lokomotive für den Einsatz vor Leichtschnellzügen im Flachland auf der Strecke Genf-Bern-Zürich. Lok-Betriebsnummer 10703. Betriebszustand Anfang der 1950er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Treibräder angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Fahrberechtigungssignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandsbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten, wie Kühlröhren für das Transformatorenöl. Führerstand - und Maschinenraum-Nachbildung. Detaillierte Dachausrüstung mit Dachleitungen, Isolatoren und Dachlaufbrettern sowie Scherenstromabnehmer . Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39360",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5c/83/5c83b2743a18661b745b62393453ca1b1727272814.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

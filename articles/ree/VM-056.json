@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0m",
     "electricSystem": "DC-Analog",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Charentes & Deux-Sèvres n°305, Analogique - VM056",
   "categories": [
@@ -24,12 +24,13 @@
     "dieseltriebwagen"
   ],
   "tags": [
-    "ree-neuheiten-2026"
+    "ree-neuheiten-2026",
+    "ree-neuheiten-2024"
   ],
   "source": {
     "url": "https://www.ree-store.com/autorails/2318--hoe-hom-autorail-de-dion-type-nd-cfd-charentes-deux-sevres-n305-analogique-vm056-0637902047668.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/398-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-charentes-deux-sevres-n305-analogique-vm056.jpg"
   },
-  "updatedAt": "2026-11-15T22:35:45Z"
+  "updatedAt": "2026-11-16T09:44:25Z"
 }

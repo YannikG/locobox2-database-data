@@ -12,8 +12,8 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "RGP 1",
-    "number": "X 2722",
-    "livery": null,
+    "number": "X-2722",
+    "livery": "Verte",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III-IV"

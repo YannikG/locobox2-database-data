@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-194S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-194S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7149",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique CC 7149, AVIGNON, Ep. IV, DCC Sound - MB194S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/949--ho-locomotive-electrique-cc-7149-avignon-ep-iv-dcc-sound-mb194s-0652733910127.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/665-large_default/-ho-locomotive-electrique-cc-7149-avignon-ep-iv-dcc-sound-mb194s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:35Z"
+}

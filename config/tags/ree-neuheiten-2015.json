@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "REE Neuheiten 2015",
+  "slug": "ree-neuheiten-2015",
+  "description": "REE Modèles H0 Neuheiten / Serienkataloge 2015 (Motorfahrzeuge).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "ree",
+  "year": 2015,
+  "order": 1,
+  "source": "https://www.ree-modeles.com/"
+}

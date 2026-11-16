@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-255S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-255S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "25212",
+    "livery": "Multiservices",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 25212 Livrée Multiservices, RENNES logo casquette Ep. V, DCC Sound - MB255S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1076--ho-locomotive-electrique-bb-25212-livree-multiservices-rennes-logo-casquette-ep-v-dcc-sound-mb255s-0652733999344.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/525-large_default/-ho-locomotive-electrique-bb-25212-livree-multiservices-rennes-logo-casquette-ep-v-dcc-sound-mb255s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

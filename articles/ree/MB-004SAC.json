@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-004SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-004SAC",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 97.49,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 K",
+    "number": "2-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : MACHINE 2-231K 8 NORD, CALAIS - Machine préservée Ep.V - 3 Rails - MB004SAC",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2012",
+    "ree-neuheiten-2015",
+    "ree-neuheiten-2017",
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/460--ho-machine-2-231k-8-nord-calais-machine-preservee-epv-3-rails-mb004sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2295-large_default/-ho-machine-2-231k-8-nord-calais-machine-preservee-epv-3-rails-mb004sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:26Z"
+}

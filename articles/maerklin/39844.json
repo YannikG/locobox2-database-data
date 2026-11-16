@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39844",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39844",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 349.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "GYSEV",
+    "type": "BR 470",
+    "number": "505-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive 91 43 0470 505-8 der Raaberbahn AG (GYSEV), Baujahr ab 2000.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39844",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/b8/57b8ea9f94fa552a9bf48273efabffbd1474545771.jpg"
+  },
+  "updatedAt": "2026-11-16T09:10:25Z"
+}

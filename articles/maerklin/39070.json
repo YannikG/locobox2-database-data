@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39070",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39070",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 489.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "Class 77",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 247.0
+  },
+  "description": "Vorbild: Dieselelektrische Güterzuglokomotive JT42CWRM, besser bekannt als Class 77. Diesellokomotive der DB Cargo AG. Betriebszustand 2021.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Serienmässig eingebauter Rauchgenerator . Viele separat angesetzte Details. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer ca. 24,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39070",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/65/89/658940be14f10108bc15bedbb408106b1670050820.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

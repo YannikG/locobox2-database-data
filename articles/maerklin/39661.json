@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39661",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39661",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 06",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 310.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 06 002 der Deutschen Bundesbahn (DB). In originalgetreuer Umsetzung ohne Stromlinienverkleidung, mit Kohlen- Schlepptender 2´3 T38, Zweilicht-Spitzensignal , Witte-Windleitbleche und einseitiger Indusi . Heimatbetriebswerk Hamm. Betriebszustand 1952.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achsen angetrieben, drei Achsen über Kuppelstange angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Feuerbüchsenflackern und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 437,5 mm. Mit leichten Einschränkungen in Radius 1 fahrfähig. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 31 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39661",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/1f/8f1fa0e16376242189bb1399b328522b1761663605.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

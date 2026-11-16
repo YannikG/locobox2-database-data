@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "REE Neuheiten 2021",
+  "slug": "ree-neuheiten-2021",
+  "description": "REE Modèles H0 Neuheiten aus dem Katalog 2021 (Motorfahrzeuge).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "ree",
+  "year": 2021,
+  "order": 1,
+  "source": "https://www.ree-modeles.com/"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-209SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-209SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 97.49,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "231 G",
+    "number": "4-222",
+    "livery": "Verte",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive à vapeur 4-231 G 222, Tours, Verte - Ep.III - DCC 3 rails - MB209SAC",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/3976--ho-locomotive-a-vapeur-4-231-g-222-tours-verte-epiii-dcc-3-rails-mb209sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2301-large_default/-ho-locomotive-a-vapeur-4-231-g-222-tours-verte-epiii-dcc-3-rails-mb209sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:29Z"
+}

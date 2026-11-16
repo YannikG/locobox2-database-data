@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-214",
+  "manufacturer": "REE",
+  "articleNumber": "MB-214",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 90.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2728",
+    "livery": "Rouge",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Rame RGP 1 modernisée - X2728, Rouge et blanche, sigle Nouille et Beffara, LYON-VAISE, SNCF Ep.IV-V - ANALOGIQUE - MB214",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3977--ho-rame-rgp-1-modernisee-x2728-rouge-et-blanche-sigle-nouille-et-beffara-lyon-vaise-sncf-epiv-v-analogique-mb214-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2212-large_default/-ho-rame-rgp-1-modernisee-x2728-rouge-et-blanche-sigle-nouille-et-beffara-lyon-vaise-sncf-epiv-v-analogique-mb214.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:27Z"
+}

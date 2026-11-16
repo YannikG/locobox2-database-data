@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-018S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-018S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "040 DE 624",
+    "number": "624",
+    "livery": "Origine",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive diesel 040 DE 624, livrée d'origine, Ep. III, SNCF, DCC Sound - JM018S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/426--ho-locomotive-diesel-040-de-624-livree-d-origine-ep-iii-sncf-dcc-sound-jm018s-0637902980958.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

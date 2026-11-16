@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-208",
+  "manufacturer": "REE",
+  "articleNumber": "MB-208",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7125",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive électrique CC 7125, LYON-MOUCHE, Ep. III, Analogique - MB208",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/990--ho-locomotive-electrique-cc-7125-lyon-mouche-ep-iii-analogique-mb208-0652733056382.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/677-large_default/-ho-locomotive-electrique-cc-7125-lyon-mouche-ep-iii-analogique-mb208.jpg"
+  },
+  "updatedAt": "2026-11-16T07:48:37Z"
+}

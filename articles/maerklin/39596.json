@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39596",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39596",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Be 6/8 II",
+    "number": "13254",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Be 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen ( SBB ). Bauart aus der ersten Bauserie. Tannengrüne Grundfarbgebung. Mit 2 Führerstandstüren, breiten Rangierertreppen an den Vorbauten und bügelförmigen Haltegriffstangen, Hülsenpuffer , ohne Übergangsbleche, mit Falschfahrsignal und Signum-Integra-Magneten. Lok-Betriebsnummer 13254. Betriebszustand zwischen 1960 und 1965.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse , jeweils 1 Motor in jedem Treibgestell . Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39596",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/87/e887dd4f48f09b2d57e9d41bea561cad1702731618.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

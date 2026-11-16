@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-252S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-252S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "25236",
+    "livery": "verte",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locomotive électrique BB 25236 Livrée verte, VÉNISSIEUX avec jupes, Ep. IV-V, DCC Sound - MB252S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1067--ho-locomotive-electrique-bb-25236-livree-verte-venissieux-avec-jupes-ep-iv-v-dcc-sound-mb252s-0652733610584.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/505-large_default/-ho-locomotive-electrique-bb-25236-livree-verte-venissieux-avec-jupes-ep-iv-v-dcc-sound-mb252s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

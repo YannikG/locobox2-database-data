@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-250S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-250S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67590",
+    "livery": "Origine",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V-VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67590 Livrée d'origine, Logos Casquette/Carmillon, Ep. V-VI, DCC Sound - MB250S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1061--ho-locomotive-diesel-bb-67590-livree-d-origine-logos-casquette-carmillon-ep-v-vi-dcc-sound-mb250s-0652733160041.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:48:39Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-260",
+  "manufacturer": "REE",
+  "articleNumber": "MB-260",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 359.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X-2737",
+    "livery": "Vert",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2737, Vert, BATIGNOLLES, sans cuisine, Ep. III-IV, Analogique - MB260",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025",
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1090--ho-autorail-rgp-1-x-2737-vert-batignolles-sans-cuisine-ep-iii-iv-analogique-mb260-0652733316073.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/462-large_default/-ho-autorail-rgp-1-x-2737-vert-batignolles-sans-cuisine-ep-iii-iv-analogique-mb260.jpg"
+  },
+  "updatedAt": "2026-11-16T08:52:03Z"
+}

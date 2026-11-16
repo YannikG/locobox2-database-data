@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36197",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36197",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 229.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Schenker",
+    "type": "BR 170",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 170 der DB Schenker Rail. Gebaut von Siemens als Serienlokomotive aus dem Vectron-Typenprogramm.\n\nModell: Elektrolokomotive in Metallausführung, mit Digital- Decoder DCC / mfx und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36197",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7c/a1/7ca13d23f66fadd1baac16e31ea46d401533880824.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}
