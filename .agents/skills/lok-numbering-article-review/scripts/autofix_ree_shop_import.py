@@ -137,6 +137,13 @@ def propose_sncf_type_number(model: dict[str, Any]) -> Optional[tuple[str, str, 
     parsed_t = _parse_bbcc_token(t0)
     if parsed_t:
         pref, dig = parsed_t
+        # HOm BB 400 with concrete unit number (402, 040-003) — do not collapse to «400»
+        if pref == "BB" and dig == "400" and isinstance(n, str):
+            n0 = _norm_spaces(n)
+            if n0 not in ("400", "BB400", "BB 400") and re.fullmatch(
+                r"\d{2,3}(?:-\d{3})?", n0
+            ):
+                return None
         series, running = sncf_series_and_running(pref, dig)
         if isinstance(n, str) and n.strip():
             n0 = _norm_spaces(n)
@@ -146,7 +153,7 @@ def propose_sncf_type_number(model: dict[str, Any]) -> Optional[tuple[str, str, 
                 series2, running2 = sncf_series_and_running(_np, nd)
                 # Prefer number token as running source when both present
                 series, running = series2, running2
-            elif n0.isdigit():
+            elif n0.isdigit() and len(n0) >= 4:
                 series, running = sncf_series_and_running(pref, n0)
             # else keep series from type, strip bad number below
         if series != t0 or (running or None) != (n if n not in ("", None) else None):
@@ -208,21 +215,30 @@ def propose_short_titles(model: dict[str, Any], desc: str) -> Optional[tuple[str
         if t.strip() != "RGP 2" or (mx and n != num) or len(t) > 20:
             return ("ree_rgp2", "RGP 2", num, None)
 
-    # X 2800 series (jupé / origine)
-    if re.search(r"\bAutorail\s+X\s*-?\s*2[89]\d{2}\b|\bX\s*-?\s*2[89]\d{2}\s+Jup", blob, re.I):
-        mx = re.search(r"\bX\s*-?\s*(2[89]\d{2})\b", blob, re.I)
-        if mx:
+    # X 2800 series (jupé / origine): running X-28xx/29xx, never the class «2800» alone
+    if re.search(r"\bAutorail\s+X|\bX\s*-?\s*2[89]\d{2}\b", blob, re.I) and re.search(
+        r"\bX\s*-?\s*2[89]\d{2}\b", desc, re.I
+    ):
+        mx = re.search(r"\bX\s*-?\s*(2[89]\d{2})\b", desc, re.I)
+        if mx and mx.group(1) != "2800":
             num = f"X-{mx.group(1)}"
             if t.strip() != "X 2800" or n != num or len(t) > 20:
                 return ("ree_x2800", "X 2800", num, None)
 
-    # Y 2100 / Y 2200 locotracteurs
-    my = re.search(r"\bY[-\s]?(\d{4})\b", blob, re.I)
-    if my and re.search(r"Locotracteur|Y-\d{4}", blob, re.I):
-        dig = my.group(1)
-        series = "Y 2100" if dig.startswith("21") else ("Y 2200" if dig.startswith("22") else "Y")
-        if len(t) > 15 or t.startswith("[HO]") or n != dig:
-            return ("ree_y_tracteur", series, dig, None)
+    # Y 2100 / Y 2200 locotracteurs: prefer unit Y-2249 over series Y 2200 in type
+    if re.search(r"Locotracteur|Y-\d{4}", blob, re.I):
+        units = re.findall(r"\bY[-\s]?(\d{4})\b", desc, flags=re.I)
+        dig = None
+        for cand in units:
+            if cand not in ("2100", "2200"):
+                dig = cand
+                break
+        if dig is None and units:
+            dig = units[0]
+        if dig:
+            series = "Y 2100" if dig.startswith("21") else ("Y 2200" if dig.startswith("22") else "Y")
+            if len(t) > 15 or t.startswith("[HO]") or n != dig:
+                return ("ree_y_tracteur", series, dig, None)
 
     # OCR letter O in CC 71O6
     if re.search(r"\bCC\s*71O\d\b", blob, re.I):
@@ -298,6 +314,41 @@ def propose_meta(article: Article) -> list[tuple[str, str, Any]]:
             val = f"{a}-{b.upper()}" if b else a
             # normalize IIII etc already via regex
             out.append(("ree_era_from_text", "model.era", val))
+
+    # electricSystem: REE SKU suffix is authoritative (Analog / S / SAC)
+    es = model.get("electricSystem")
+    if es in (None, "", "Unbekannt", "unbekannt"):
+        art = str(article.get("articleNumber") or "").strip()
+        if not art:
+            # id ree-MB-050 → MB-050
+            aid = str(article.get("id") or "")
+            if aid.startswith("ree-"):
+                art = aid[4:]
+        sug = None
+        if art.endswith("SAC"):
+            sug = "AC-Digital"
+        elif art.endswith("S"):
+            sug = "DC-Digital"
+        elif art:
+            # base SKU: Analog/DC in text, or no digital markers
+            if re.search(r"\bACS?\b|AC Sound|3 rails|DCCS?\b|DCC Sound|\bdigital\b", blob, re.I):
+                if re.search(r"\bACS?\b|AC Sound|3 rails", blob, re.I):
+                    sug = "AC-Digital"
+                elif re.search(r"\bDCCS?\b|DCC Sound|\bdigital\b", blob, re.I):
+                    sug = "DC-Digital"
+            if sug is None and re.search(r"\banalog(?:ique)?\b|\bDC\b", blob, re.I):
+                sug = "DC-Analog"
+            if sug is None:
+                # REE catalogue base references are 2-rail analog
+                sug = "DC-Analog"
+        if sug:
+            out.append(("ree_es_from_sku", "model.electricSystem", sug))
+
+    # HOm BB400 with N°405 / N°040-003 in description
+    if str(model.get("type") or "") == "BB 400":
+        mn = re.search(r"\bN[°ºo]\s*(\d{2,3}(?:-\d{3})?)\b", desc, re.I)
+        if mn and model.get("number") != mn.group(1):
+            out.append(("ree_bb400_unit", "model.number", mn.group(1)))
 
     cats = article.get("categories")
     if isinstance(cats, list):

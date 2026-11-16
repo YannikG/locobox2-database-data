@@ -86,7 +86,8 @@ Skript **`autofix_ree_shop_import.py`** (REE-Shop, auch wenn `number` schon gese
 
 - **`ree_sncf_bbcc_*`**: Präfix aus `number` entfernen, Serie in `type` (inkl. BB 9200 / 16000 / 25100 / 63000 / CC 7100).
 - **`ree_steam_*`**: MACHINE / «Locomotive à vapeur» → `231 K|G` / `141 D` + Nummer; Kategorie `dampflokomotive`.
-- Kurztypen Moyse / 040 DE / CFL 852 / RGP 1; Operator/Epoche aus Text wenn noch `Unbekannt`.
+- Kurztypen Moyse / 040 DE / CFL 852 / RGP / X 2800 / Y 2200; Operator/Epoche aus Text wenn noch `Unbekannt`.
+- **`ree_es_from_sku`**: nur bei `electricSystem` Unbekannt — Artikelnummer `…SAC` → `AC-Digital`, `…S` → `DC-Digital`, Basis → `DC-Analog` (REE-Variantenkodierung; nicht von Schwesterdateien kopieren).
 
 ## Verweise
 

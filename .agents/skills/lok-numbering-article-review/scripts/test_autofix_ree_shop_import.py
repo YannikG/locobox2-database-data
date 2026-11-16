@@ -52,6 +52,18 @@ class ProposeTests(unittest.TestCase):
         self.assertNotIn("model.type", fields)  # type already canonical
         self.assertEqual(fields.get("model.number"), "400")
 
+    def test_es_from_sku_suffix(self) -> None:
+        base = {
+            "manufacturer": "REE",
+            "description": "x",
+            "categories": ["lokomotive"],
+            "model": {"type": "CC 7100", "number": "7136", "electricSystem": "Unbekannt"},
+        }
+        for art, want in (("JM-005", "DC-Analog"), ("JM-005S", "DC-Digital"), ("JM-005SAC", "AC-Digital")):
+            a = {**base, "articleNumber": art, "model": dict(base["model"])}
+            fields = {f: v for _r, f, v in m.propose(a)}
+            self.assertEqual(fields.get("model.electricSystem"), want, art)
+
     def test_steam_machine(self) -> None:
         art = {
             "manufacturer": "REE",
