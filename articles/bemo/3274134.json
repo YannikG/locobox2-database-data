@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bemo-3274134",
+  "manufacturer": "BEMO",
+  "articleNumber": "3274134",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 99.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "RhB",
+    "type": "WR-S",
+    "number": "3814",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "RhB WR-S 3814 Saalwagen",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "bemo-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.bemo-modellbahn.de/produkt/rhb-wr-s-3814-saalwagen/",
+    "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+    "imageUrl": "https://www.bemo-modellbahn.de/wp-content/uploads/2022/08/logo_bemo.jpg"
+  },
+  "updatedAt": "2026-11-16T11:15:08Z"
+}

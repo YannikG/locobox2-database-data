@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bemo-9358176",
+  "manufacturer": "BEMO",
+  "articleNumber": "9358176",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 1739.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "RhB",
+    "type": "Ge 4/4 II Universallok",
+    "number": "626",
+    "livery": "Alpine Classic Pullman Express",
+    "scale": "0m",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "RhB Ge 4/4 II 626 Universallok \"Alpine Classic Pullman Express\"",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "bemo-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.bemo-modellbahn.de/produkt/rhb-ge-4-4-ii-626-werbelok-alpine-classic-pullman-express-4/",
+    "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+    "imageUrl": "https://www.bemo-modellbahn.de/wp-content/uploads/2022/08/logo_bemo.jpg"
+  },
+  "updatedAt": "2026-11-16T11:15:08Z"
+}

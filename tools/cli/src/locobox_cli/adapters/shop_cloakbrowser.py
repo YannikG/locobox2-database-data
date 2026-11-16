@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -67,6 +68,15 @@ def _html_has_article_sku(html: str, article: str) -> bool:
     )
     if any(m in html for m in markers):
         return True
+    # BEMO WordPress: primary SKU in ``.single_artnr`` as ``2295 561``.
+    for m in re.finditer(
+        r'class=["\']single_artnr["\'][^>]*>\s*([^<]+?)\s*<',
+        html,
+        re.I,
+    ):
+        found = re.sub(r"\s+", "", m.group(1))
+        if found == art:
+            return True
     # LS Models PrestaShop: reference is often "13001 DC" / "13001 AC".
     for suffix in (" DC", " AC", " DC S", " AC S"):
         for pat in (
@@ -127,6 +137,15 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
         # Flyer PDF URL is the product sheet; no HTML PDP to discover.
         if site.is_pdp_url(url, article):
             return url
+        return None
+    if site.slug == "bemo" or "bemo-modellbahn.de" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            try:
+                html = page.content()
+            except Exception:
+                return None
+            if _html_has_article_sku(html, article):
+                return url
         return None
     if "maerklinshop" in (page.url or "").lower() or site.slug in {
         "maerklin",
@@ -237,6 +256,70 @@ def _find_lsmodels_pdp_href(page, site: ShopSite, article: str) -> Optional[str]
     return None
 
 
+def _find_bemo_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
+    """Match search hits by compact SKU in image URL; skip Zubehör-PDPs."""
+    art = article.strip().replace(" ", "")
+    try:
+        href = page.evaluate(
+            """(art) => {
+              const bad = /(kupplung|radsatz|wagenadapter|ersatzteil|zuruest|adapter)/i;
+              const cards = [...document.querySelectorAll('article, .post, .elementor-post, .type-product')];
+              const sibling = (() => {
+                if (art.length !== 7) return null;
+                const pref = art.slice(0, 2);
+                const rest = art.slice(2);
+                const map = { '13': '12', '11': '10', '93': '92', '99': '92' };
+                if (!map[pref]) return null;
+                return map[pref] + rest;
+              })();
+              const score = (el) => {
+                const html = el.innerHTML || '';
+                const text = el.innerText || '';
+                let s = 0;
+                if (html.includes('/' + art + '-') || html.includes('/' + art + '.') || html.includes(art + '-')) s += 5;
+                if (html.includes(art)) s += 2;
+                if (sibling && (html.includes('/' + sibling + '-') || html.includes(sibling + '-'))) s += 4;
+                const spaced = art.length === 7 ? (art.slice(0,4) + ' ' + art.slice(4)) : art;
+                if (text.includes(spaced)) s += 3;
+                // Prefer …-2/ digital twin slug when querying a 13/11/93/99 SKU.
+                if (sibling && /-2\\/?$/.test((el.querySelector && (el.querySelector('a[href*="/produkt/"]') || {}).href) || (el.href || ''))) s += 2;
+                return s;
+              };
+              let best = null;
+              let bestScore = 0;
+              const consider = (a, el) => {
+                if (!a || !a.href || !a.href.includes('/produkt/')) return;
+                if (bad.test(a.href)) return;
+                const sc = score(el || a);
+                if (sc > bestScore) { best = a.href; bestScore = sc; }
+              };
+              for (const card of cards) {
+                const a = card.querySelector('a[href*="/produkt/"]');
+                consider(a, card);
+              }
+              if (best && bestScore >= 1) return best;
+              // Fallback: first product image whose src embeds the compact SKU.
+              for (const img of document.querySelectorAll('img[src*="' + art + '"]')) {
+                const a = img.closest('a[href*="/produkt/"]') || (img.parentElement && img.parentElement.querySelector('a[href*="/produkt/"]'));
+                consider(a || (img.closest('a')), img.closest('article, .post, .elementor-post') || img);
+              }
+              
+              if (best) return best;
+              const only = [...document.querySelectorAll('a[href*="/produkt/"]')]
+                .map(a => a.href)
+                .filter((h,i,arr) => arr.indexOf(h)===i && !bad.test(h));
+              return only.length === 1 ? only[0] : null;
+
+            }""",
+            art,
+        )
+    except Exception:
+        return None
+    if href and site.is_pdp_url(href, art):
+        return href
+    return None
+
+
 def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
     if _is_maerklin_shop(site):
         found = _find_maerklin_pdp_href(page, site, article)
@@ -246,6 +329,12 @@ def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
         found = _find_lsmodels_pdp_href(page, site, article)
         if found:
             return found
+    if site.slug == "bemo":
+        found = _find_bemo_pdp_href(page, site, article)
+        if found:
+            return found
+        # Do not grab the first /produkt/ link; Bemo search is noisy.
+        return _redirect_pdp_url(page, site, article)
     links = page.eval_on_selector_all(
         "a[href]",
         """els => els.map(a => a.href).filter(Boolean)""",
@@ -348,6 +437,26 @@ class CloakShopFetcher:
                         )
                         break
                     href = _find_pdp_href(page, self.site, art)
+                    if not href and self.site.slug == "bemo" and hasattr(
+                        self.site, "spaced_search_url"
+                    ):
+                        page.goto(
+                            self.site.spaced_search_url(art),
+                            wait_until="domcontentloaded",
+                            timeout=60000,
+                        )
+                        self._wait()
+                        href = _find_pdp_href(page, self.site, art)
+                    if not href and self.site.slug == "bemo" and hasattr(
+                        self.site, "spaced_search_url"
+                    ):
+                        page.goto(
+                            self.site.spaced_search_url(art),
+                            wait_until="domcontentloaded",
+                            timeout=60000,
+                        )
+                        self._wait()
+                        href = _find_pdp_href(page, self.site, art)
                     if not href and self.site.slug == "roco":
                         page.goto("https://www.roco.cc/rde/", wait_until="domcontentloaded", timeout=60000)
                         self._wait()
@@ -379,6 +488,25 @@ class CloakShopFetcher:
                             FetchItemResult(article=art, ok=False, error="html_too_short", url=href)
                         )
                         continue
+                    if self.site.slug == "bemo" and not _html_has_article_sku(html, art):
+                        summary.fail += 1
+                        summary.results.append(
+                            FetchItemResult(
+                                article=art, ok=False, error="wrong_sku", url=href
+                            )
+                        )
+                        continue
+                    if self.site.slug == "bemo":
+                        marker = f"<!-- locobox-pdp-url: {href} -->\n"
+                        if "locobox-pdp-url" in html:
+                            html = re.sub(
+                                r"<!--\s*locobox-pdp-url:\s*\S+\s*-->\n?",
+                                marker,
+                                html,
+                                count=1,
+                            )
+                        else:
+                            html = marker + html
                     out.write_text(html, encoding="utf-8")
                     summary.ok += 1
                     summary.results.append(

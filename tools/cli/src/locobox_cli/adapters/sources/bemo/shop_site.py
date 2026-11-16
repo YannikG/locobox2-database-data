@@ -33,6 +33,12 @@ class BemoShopSite:
     slug: str = "bemo"
 
     def search_url(self, article: str) -> str:
+        # Compact SKU search is quieter than spaced (fewer Zubehör-Hits).
+        # Digital variants often live on ``…-2/`` PDPs found via compact query.
+        q = compact_sku(article)
+        return f"https://www.bemo-modellbahn.de/?s={quote_plus(q)}"
+
+    def spaced_search_url(self, article: str) -> str:
         q = spaced_sku(article)
         return f"https://www.bemo-modellbahn.de/?s={quote_plus(q)}"
 

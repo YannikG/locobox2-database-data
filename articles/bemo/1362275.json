@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bemo-1362275",
+  "manufacturer": "BEMO",
+  "articleNumber": "1362275",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 489.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "MGB",
+    "type": "HGe 4/4 II Zahnradlok",
+    "number": "105",
+    "livery": "Glacier Express",
+    "scale": "H0m",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "MGB HGe 4/4 II 105 Zahnradlok \"Glacier Express\"",
+  "categories": [
+    "lokomotive",
+    "zahnradlokomotive"
+  ],
+  "tags": [
+    "bemo-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.bemo-modellbahn.de/produkt/mgb-hge-4-4-ii-105-zahnradlok-glacier-express-2/",
+    "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+    "imageUrl": "https://www.bemo-modellbahn.de/wp-content/uploads/2022/08/logo_bemo.jpg"
+  },
+  "updatedAt": "2026-11-16T11:15:08Z"
+}

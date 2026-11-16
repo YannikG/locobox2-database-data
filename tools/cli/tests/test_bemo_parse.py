@@ -22,7 +22,10 @@ def test_bemo_shop_site_search_and_pdp() -> None:
     site = BemoShopSite()
     url = site.search_url("1258168")
     assert "bemo-modellbahn.de/?s=" in url
-    assert "1258+168" in url
+    assert "1258168" in url
+    assert "1258+168" not in url
+    spaced = site.spaced_search_url("1258168")
+    assert "1258+168" in spaced
     pdp = "https://www.bemo-modellbahn.de/produkt/elektrolok-ge-4-4-iii-rhb-2295-561/"
     assert site.is_pdp_url(pdp, "2295561")
     assert site.is_pdp_url(pdp, "9999999")

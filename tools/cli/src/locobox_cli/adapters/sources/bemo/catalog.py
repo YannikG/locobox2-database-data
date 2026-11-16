@@ -10,7 +10,8 @@ from locobox_cli.domain.queue import QueueDocument, QueueEntry
 from locobox_cli.domain.text import swiss_ss
 
 # Neuheiten layout: ``1258 168`` / twin ``1358 168`` (4+3 digits).
-_SKU_TOKEN = re.compile(r"(?<![\d])(?P<a>\d{4})\s+(?P<b>\d{3})(?![\d])")
+# Skip slash twins like ``1258/1358 178`` (replacement references).
+_SKU_TOKEN = re.compile(r"(?<![/\d])(?P<a>\d{4})\s+(?P<b>\d{3})(?![\d])")
 
 _PRICE = re.compile(
     r"(?P<price>(?:\d{1,3}(?:\.\d{3})*|\d+),\d{2})\s*(?:€|EUR|Euro)?",
@@ -21,13 +22,16 @@ _TITLE_LOCO = re.compile(
     r"(?:"
     r"\bElektrolok(?:omotive)?\b|"
     r"\bDiesellok(?:omotive)?\b|"
-    r"\bDampflok(?:omotive)?\b|"
+    r"\bDampflok(?:omotive)?(?:fertigmodell)?\b|"
     r"\bZahnradlok(?:omotive)?\b|"
-    r"\bRangier(?:lok|lokomotive)\b|"
+    r"\bRangier(?:lok|lokomotive|traktor)\b|"
+    r"\bUniversallok(?:omotive)?\b|"
+    r"\bDrehgestelle?llok\b|"
     r"\bTriebwagen\b|"
     r"\bTriebzug\b|"
     r"\bLokomotive\b|"
-    r"\bMetal\s+Collection\b"
+    r"\b(?:H?Ge|Gmf|Gem|Te|Tm)\s*\d|"
+    r"\b(?:VL|D)\s*\d{1,3}\b"
     r")",
     re.I,
 )
@@ -36,11 +40,24 @@ _TITLE_WAGON = re.compile(
     r"\bGüterwagen\b|"
     r"\bPersonenwagen\b|"
     r"\bReisezugwagen\b|"
+    r"\bPanoramawagen\b|"
+    r"\bSpeisewagen\b|"
+    r"\bSaalwagen\b|"
+    r"\bSchiebewandwagen\b|"
+    r"\bKnickkesselwagen\b|"
+    r"\bKesselwagen\b|"
+    r"\bContainerwagen\b|"
     r"\bBeiwagen\b|"
-    r"\bWagenset\b"
+    r"\bWagenset\b|"
+    r"\bEW\s*[IVX]+\b|"
+    r"\b(?:Api|Ap|Bp|WRp|WR-?S|WR|Za|Uah|Lb-v|Sb-v|Hai)\b"
     r")",
     re.I,
 )
+
+# BEMO family prefixes: motorized vs wagons (7-digit canonical).
+_LOCO_PREFIX = re.compile(r"^(?:10|11|12|13|92|93|99)")
+_WAGON_PREFIX = re.compile(r"^(?:22|32|95)")
 
 
 def _norm(s: str) -> str:
@@ -54,25 +71,46 @@ def _parse_price(raw: str) -> float:
 
 def _kind_from_title(title: str) -> str:
     ctx = title.lower()
+    if _TITLE_WAGON.search(title) and not _TITLE_LOCO.search(title):
+        if re.search(r"personen|panorama|speise|saal|ew\s", ctx):
+            return "Personenwagen"
+        return "Güterwagen"
     if re.search(r"triebwagen|triebzug", ctx):
         return "Triebwagen"
-    if re.search(r"zahnrad", ctx):
+    if re.search(r"zahnrad|hge\s*\d", ctx):
         return "Zahnradlok"
     if re.search(r"rangier", ctx):
         return "Rangierlok"
     if re.search(r"dampf", ctx):
         return "Dampflok"
-    if re.search(r"diesel", ctx):
+    if re.search(r"diesel|\bvl\s*\d|\bzillertal|\bstlb\b", ctx):
         return "Diesellok"
-    if re.search(r"elektro", ctx):
+    if re.search(r"elektro|\bge\s*\d|\buniversallok", ctx):
         return "Elektrolok"
-    if re.search(r"güterwagen|güter", ctx):
-        return "Güterwagen"
-    if re.search(r"personenwagen|reisezugwagen", ctx):
-        return "Personenwagen"
     if _TITLE_LOCO.search(title):
         return "Lokomotive"
     return "Rollendes Material"
+
+
+def _line_is_wagon(line: str, article: str) -> bool:
+    if _TITLE_LOCO.search(line):
+        return False
+    if _WAGON_PREFIX.match(article):
+        return True
+    if _TITLE_WAGON.search(line):
+        return True
+    return False
+
+
+def _line_is_loco(line: str, article: str, *, product: str) -> bool:
+    if _line_is_wagon(line, article):
+        return False
+    if _TITLE_LOCO.search(line):
+        return True
+    # Known motorized article families when line is not clearly a wagon.
+    if _LOCO_PREFIX.match(article):
+        return True
+    return product == "loco"
 
 
 @dataclass(frozen=True, slots=True)
@@ -131,10 +169,6 @@ def extract_bemo_catalog_rows(
             except ValueError:
                 price = None
 
-        is_loco = product == "loco"
-        if locomotives_only and not is_loco:
-            continue
-
         for m in _SKU_TOKEN.finditer(stripped):
             art = f"{m.group('a')}{m.group('b')}"
             if art in seen:
@@ -143,8 +177,14 @@ def extract_bemo_catalog_rows(
                 ArticleNumber.parse(art)
             except ValueError:
                 continue
+
+            ctx = f"{title} {stripped}".strip()
+            is_loco = _line_is_loco(ctx, art, product=product)
+            if locomotives_only and not is_loco:
+                continue
+
             seen.add(art)
-            kind = _kind_from_title(title) if title else _kind_from_title(stripped)
+            kind = _kind_from_title(ctx)
             section = "locomotive" if is_loco else "rolling"
             rows.append(
                 CatalogRow(
@@ -152,7 +192,7 @@ def extract_bemo_catalog_rows(
                     price_eur=price,
                     section=section,
                     kind=kind,
-                    line_context=(title or stripped)[:240],
+                    line_context=ctx[:240],
                 )
             )
 
