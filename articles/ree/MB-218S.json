@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "PLM",
-    "type": "MACHINE 231 G 270 PLM",
-    "number": null,
+    "type": "231 G",
+    "number": "270",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 231 G 270 PLM - Ep.III - DCC SOUND - MB218S",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

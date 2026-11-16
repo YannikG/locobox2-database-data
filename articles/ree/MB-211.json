@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 1-231G 226 BELFORT",
-    "number": null,
+    "type": "231 G",
+    "number": "1-226",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 1-231G 226 BELFORT - Ep.III - ANALOGIQUE - MB211",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

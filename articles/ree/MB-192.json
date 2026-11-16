@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "RGP 1",
-    "number": null,
+    "number": "X-2746",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "IV-V"
   },
   "description": "[HO] : Autorail RGP 1 X-2746 Modernisée Jaune, Ep. IV-V, ANALOGIQUE - MB192",
   "categories": [

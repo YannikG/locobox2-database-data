@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 4-231G 246 TOURS",
-    "number": null,
+    "type": "231 G",
+    "number": "4-246",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 4-231G 246 TOURS - Ep.III - DCC SOUND - MB210S",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

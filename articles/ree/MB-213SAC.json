@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 5-231 G 206 VENISSIEUX - Ep.III - DCC 3 RAILS",
-    "number": null,
+    "type": "231 G",
+    "number": "5-206",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 5-231 G 206 VENISSIEUX - Ep.III - DCC 3 RAILS - MB213SAC",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

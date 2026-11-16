@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Locomotive à vapeur 141 D 318 + Tender 25 A 285 Verte & Noire, dépôt de Badan",
-    "number": null,
+    "type": "141 D",
+    "number": "318",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

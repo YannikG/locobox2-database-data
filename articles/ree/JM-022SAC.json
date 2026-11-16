@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 64021",
-    "number": "BB 64021",
+    "type": "BB 64000",
+    "number": "64021",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

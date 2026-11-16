@@ -8,8 +8,8 @@
   "model": {
     "country": "LU",
     "operator": "CFL",
-    "type": "[HO] Locomotive diesel 852 des CFL, Ep. IV, DC",
-    "number": null,
+    "type": "852",
+    "number": "852",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

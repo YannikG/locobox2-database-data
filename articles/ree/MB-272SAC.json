@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "BB 25100",
-    "number": "BB 25188",
+    "number": "25188",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "Unbekannt"
+    "era": "V-VI"
   },
   "description": "[HO] : BB 25188 CHAMBERY Béton, logo Nouille Ep.V-VI, (Sauvegardée par l'APMFS) - DCC 3 RAILS - MB272SAC",
   "categories": [

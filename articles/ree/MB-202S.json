@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 9216",
-    "number": "BB 9216",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9216",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] : Locomotive électrique BB 9216, Livrée d'origine verte jupée, AVIGNON, Ep. IV, DCC Sound - MB202S",
   "categories": [

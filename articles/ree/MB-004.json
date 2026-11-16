@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 2-231K 8 NORD, CALAIS - Machine préservée",
-    "number": null,
+    "type": "231 K",
+    "number": "2-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 2-231K 8 NORD, CALAIS - Machine préservée Ep.V - ANALOGIQUE - MB004",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2012",

@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail X2913 Jupé, 1ère classe Origine, LYON-VAISE, SNCF",
-    "number": "X2913",
+    "type": "X 2800",
+    "number": "X-2913",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

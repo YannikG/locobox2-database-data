@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail X2902 Jupé, 1ère classe Origine, NANCY, SNCF",
-    "number": "X2902",
+    "type": "X 2800",
+    "number": "X-2902",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

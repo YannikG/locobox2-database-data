@@ -7,9 +7,9 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "CC 7103",
-    "number": "CC 7103",
+    "operator": "SNCF",
+    "type": "CC 7100",
+    "number": "7103",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",

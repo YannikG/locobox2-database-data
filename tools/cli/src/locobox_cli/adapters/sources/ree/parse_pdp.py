@@ -136,13 +136,13 @@ def _categories_from_url(url: str, title: str, article: str) -> list[str]:
         return ["lokomotive", "diesellokomotive"]
     if "locomotives-electriques" in u or "/electrique" in u:
         return ["lokomotive", "elektrolokomotive"]
-    if "locomotive-vapeur" in u or "/vapeur" in u:
+    if "locomotive-vapeur" in u or "/vapeur" in u or "locomotives-a-vapeur" in u:
         return ["lokomotive", "dampflokomotive"]
     if re.search(r"\bdiesel\b", blob):
         return ["lokomotive", "diesellokomotive"]
     if re.search(r"électrique|electrique", blob):
         return ["lokomotive", "elektrolokomotive"]
-    if re.search(r"vapeur|dampf", blob):
+    if re.search(r"vapeur|dampf|MACHINE\s+\d|231\s*[KG]|141\s*[A-Z]", blob):
         return ["lokomotive", "dampflokomotive"]
     if article.upper().startswith("TGV") or re.search(r"\btgv\b", blob):
         return ["triebzug", "elektrotriebwagen"]
@@ -172,33 +172,63 @@ def _type_and_number_from_title(title: str, article: str) -> tuple[str, Optional
 
     number: Optional[str] = None
     livery: Optional[str] = None
-    # BB 9317 … or X 2771
-    m_num = re.search(r"\b((?:BB|CC|X)\s*\d{3,5}[A-Z]?)\b", t, re.I)
-    if m_num:
-        number = re.sub(r"\s+", " ", m_num.group(1).upper().replace("  ", " "))
-        number = number.replace("BB ", "BB ").replace("CC ", "CC ")
     # Quoted marketing / train name
     m_liv = re.search(r"[“\"«]([^”\"»]+)[”\"»]", t)
     if m_liv:
         livery = swiss_ss(m_liv.group(1).strip())
+
+    def _sncf_series(prefix: str, digits: str) -> tuple[str, Optional[str]]:
+        """Serie in type, Laufziffern in number (reference-sncf-type-number.md)."""
+        pref = prefix.upper()
+        d = digits.strip()
+        if pref == "BB":
+            if len(d) == 5 and d.startswith("251"):
+                return "BB 25100", None if d == "25100" else d
+            if len(d) == 5 and d.startswith("252"):
+                return "BB 25200", None if d == "25200" else d
+            if len(d) == 4 and d.startswith("93"):
+                return "BB 9300", None if d == "9300" else d
+        if len(d) == 5:
+            if d.endswith("000"):
+                return f"{pref} {d}", None
+            series = str((int(d) // 1000) * 1000)
+            return f"{pref} {series}", None if d == series else d
+        if len(d) == 4:
+            if d.endswith("00"):
+                return f"{pref} {d}", None
+            series = str((int(d) // 100) * 100)
+            return f"{pref} {series}", None if d == series else d
+        return f"{pref} {d}", d
+
     # Prefer short class token for type when BB/CC present
     m_type = re.search(r"\b(BB|CC)\s*(\d{2,5})\b", t, re.I)
     if m_type:
-        prefix = m_type.group(1).upper()
-        series = m_type.group(2)
-        if prefix == "BB" and series.startswith("93") and len(series) == 4:
-            typ = "BB 9300"
-        elif prefix == "BB" and series.startswith("251"):
-            typ = "BB 25100"
-        elif prefix == "BB" and series.startswith("252"):
-            typ = "BB 25200"
-        else:
-            typ = f"{prefix} {series}"
+        typ, number = _sncf_series(m_type.group(1), m_type.group(2))
         return typ, number, livery
+    # Autorail X-nnnn as running number with RGP / generic type below
+    m_x = re.search(r"\bX[-\s]?(\d{3,4})\b", t, re.I)
+    if m_x:
+        number = f"X-{m_x.group(1)}"
     if re.search(r"\brgp\s*1\b", t, re.I):
         return "RGP 1", number, livery
+    if re.search(r"\brgp\s*2\b", t, re.I):
+        return "RGP 2", number, livery
     if re.search(r"\btgv\b", t, re.I):
         return "TGV PSE", number, livery
+    # SNCF steam Pacific / Mikado in REE titles
+    m_st = re.search(
+        r"(?:MACHINE|Locomotive\s+à\s+vapeur)\s+(?:(\d)\s*[-–—]\s*)?(\d{3})\s*([A-Z])\s*(\d{1,4})\b",
+        t,
+        re.I,
+    )
+    if m_st:
+        region, wheel, letter, eng = m_st.group(1), m_st.group(2), m_st.group(3).upper(), m_st.group(4)
+        typ = f"{wheel} {letter}"
+        number = f"{region}-{eng}" if region else eng
+        return typ, number, livery
+    m_141 = re.search(r"\b(141)\s*([A-Z])\s*(\d{2,4})\b", t, re.I)
+    if m_141 and re.search(r"vapeur|MACHINE", t, re.I):
+        return f"{m_141.group(1)} {m_141.group(2).upper()}", m_141.group(3), livery
     # HOm/HOe autorails (Billard / De Dion)
     t2 = re.sub(r"^\[[^\]]+\]\s*:\s*", "", t)
     t2 = re.sub(

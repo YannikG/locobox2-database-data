@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "Autorail RGP 2 X-2706 Moderne Orange-Béton",
-    "number": null,
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2706",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV-V"
   },
   "description": "[HO] : Autorail RGP 2 X-2706 Moderne Orange-Béton, Ep. IV-V, DCC Sound - MB175S",
   "categories": [

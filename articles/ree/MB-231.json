@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail X2900 Jupé, 1ère classe, TOULOUSE, SNCF",
-    "number": "X2900",
+    "type": "X 2800",
+    "number": "X-2900",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

@@ -10,9 +10,9 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "[HO] Autorail X-2828 Origine rouge et crème, ACS",
-    "number": null,
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2828",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",

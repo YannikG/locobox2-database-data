@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "[HO] Autorail RGP 2 X-2705 vert, Ep. III, DCCS",
-    "number": null,
+    "operator": "SNCF",
+    "type": "RGP 2",
+    "number": "X-2705",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HO] Autorail RGP 2 X-2705 vert, Ep. III, DCCS - MB172S",
   "categories": [

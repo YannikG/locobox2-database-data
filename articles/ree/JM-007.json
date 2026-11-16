@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Locomotive Diesel 040 DE 532 Origine",
-    "number": null,
+    "type": "040 DE 532",
+    "number": "532",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

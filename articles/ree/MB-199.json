@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 9282",
-    "number": "BB 9282",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9282",
     "livery": "En Voyage",
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "V"
   },
   "description": "[HO] : Locomotive électrique BB 9282 \"En Voyage\", Ep. V, Analogique - MB199",
   "categories": [

@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC 7107",
-    "number": "CC 7107",
+    "type": "CC 7100",
+    "number": "7107",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

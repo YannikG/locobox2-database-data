@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 16027",
-    "number": "BB 16027",
+    "operator": "SNCF",
+    "type": "BB 16000",
+    "number": "16027",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "V"
   },
   "description": "[HO] : Locomotive électrique BB 16027 Multiservice, Ep. V, Analogique - MB200",
   "categories": [

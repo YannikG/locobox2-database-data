@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 16029",
-    "number": "BB 16029",
+    "operator": "SNCF",
+    "type": "BB 16000",
+    "number": "16029",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "V"
   },
   "description": "[HO] : Locomotive électrique BB 16029 En Voyage, Ep. V, Analogique - MB201",
   "categories": [

@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 16020",
-    "number": "BB 16020",
+    "type": "BB 16000",
+    "number": "16020",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

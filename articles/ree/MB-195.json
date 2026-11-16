@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Locomotive électrique CC 71O6, AVIGNON, GRG",
-    "number": null,
+    "type": "CC 7100",
+    "number": "7106",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

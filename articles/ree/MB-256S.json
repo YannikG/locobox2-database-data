@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 20005",
-    "number": "BB 20005",
+    "operator": "SNCF",
+    "type": "BB 20000",
+    "number": "20005",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III-IV"
   },
   "description": "[HO] : Locomotive électrique BB 20005 Prototype, Livrée verte, DOLE, Ep. III-IV, DCC Sound - MB256S",
   "categories": [

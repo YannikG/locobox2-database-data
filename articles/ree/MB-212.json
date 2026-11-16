@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 1-231K 54 STRASBOURG",
-    "number": null,
+    "type": "231 K",
+    "number": "1-54",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 1-231K 54 STRASBOURG - Ep.III - ANALOGIQUE - MB212",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

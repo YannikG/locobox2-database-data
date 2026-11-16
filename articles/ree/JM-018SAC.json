@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "Locomotive diesel 040 DE 624, livrée d'origine, Ep. III, SNCF, AC Sound 3 rails",
-    "number": null,
+    "operator": "SNCF",
+    "type": "040 DE 624",
+    "number": "624",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HO] : Locomotive diesel 040 DE 624, livrée d'origine, Ep. III, SNCF, AC Sound 3 rails - JM018SAC",
   "categories": [

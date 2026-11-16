@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "[HO] Locotracteur Y-2249 vert 301, Ep. IV, DC",
-    "number": null,
+    "operator": "SNCF",
+    "type": "Y 2200",
+    "number": "2249",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] Locotracteur Y-2249 vert 301, Ep. IV, DC - MB224",
   "categories": [

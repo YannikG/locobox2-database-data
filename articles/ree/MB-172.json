@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail RGP 2 X-2705 vert, Lyon-Vaise",
-    "number": null,
+    "type": "RGP 2",
+    "number": "X-2705",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

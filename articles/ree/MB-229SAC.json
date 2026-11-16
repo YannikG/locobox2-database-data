@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "Autorail X2913 Jupé, 1ère classe Origine, LYON-VAISE, SNCF",
-    "number": "X2913",
+    "operator": "SNCF",
+    "type": "X 2800",
+    "number": "X-2913",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] : Autorail X2913 Jupé, 1ère classe Origine, LYON-VAISE, SNCF, Ep. IV, AC Sound - MB229SAC",
   "categories": [

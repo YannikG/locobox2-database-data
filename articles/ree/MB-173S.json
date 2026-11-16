@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail RGP 2 X-2703 vert, dépôt de Marseille",
-    "number": null,
+    "type": "RGP 2",
+    "number": "X-2703",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

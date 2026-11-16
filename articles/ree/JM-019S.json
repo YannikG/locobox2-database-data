@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 63933",
-    "number": "BB 63933",
+    "operator": "SNCF",
+    "type": "BB 63000",
+    "number": "63933",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] : Locomotive diesel BB 63933, Nantes, livrée vert 301, Ep. IV, SNCF, DCC Sound - JM019S",
   "categories": [

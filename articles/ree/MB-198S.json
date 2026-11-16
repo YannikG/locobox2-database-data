@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 9201",
-    "number": "BB 9201",
+    "type": "BB 9200",
+    "number": "9201",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

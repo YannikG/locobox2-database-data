@@ -70,9 +70,11 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 - **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (gleiche Parent-Regel Triebwagen vs. Lok; **kein** Ersatz für Typ-/Nummer-Review).
 - **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
 - **`autofix_trix_shop_import.py`** — Trix-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`.
+- **`autofix_ree_shop_import.py`** — REE Modèles Shop: SNCF ``BB``/``CC`` Serie vs. Laufnummer (auch wenn ``number`` noch Präfix trägt), Pacific ``231 K/G`` / ``141 D``, Moyse/040 DE/RGP-Kurztypen, Operator/Epoche/`dampflokomotive` aus Text; Referenz [reference-sncf-type-number.md](reference-sncf-type-number.md).
 - **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
 - **`test_autofix_model_country.py`** — Unit-Tests zum Country-Skript.
+- **`test_autofix_ree_shop_import.py`** — Unit-Tests zum REE-Shop-Skript.
 
 Die folgenden Abschnitte nennen konkrete Kommandozeilen; Pfade sind immer relativ zum Repo-Root, ausser beim `cd` für `unittest`.
 

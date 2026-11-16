@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "Locomotive Diesel 040 DE 9, Livrée d'origine",
-    "number": null,
+    "operator": "SNCF",
+    "type": "040 DE 9",
+    "number": "9",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] : Locomotive Diesel 040 DE 9, Livrée d'origine, Ep. IV, Analogique - JM013",
   "categories": [

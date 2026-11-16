@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 67590",
-    "number": "BB 67590",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67590",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "V-VI"
   },
   "description": "[HO] : Locomotive diesel BB 67590 Livrée d'origine, Logos Casquette/Carmillon, Ep. V-VI, Analogique - MB250",
   "categories": [

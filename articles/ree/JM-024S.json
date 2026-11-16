@@ -8,8 +8,8 @@
   "model": {
     "country": "LU",
     "operator": "CFL",
-    "type": "Locomotive diesel 852 livrée rouge CFL, Ep. IV, CFL",
-    "number": null,
+    "type": "852",
+    "number": "852",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 1-231K 22, CALAIS - Ep.III - DCC 3 rails",
-    "number": null,
+    "type": "231 K",
+    "number": "1-22",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 1-231K 22, CALAIS - Ep.III - DCC 3 rails- MB182SAC",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2021"

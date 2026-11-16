@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 63692",
-    "number": "BB 63692",
+    "type": "BB 63000",
+    "number": "63692",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

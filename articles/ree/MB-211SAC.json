@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "MACHINE 1-231G 226 BELFORT - Ep.III - DCC 3 RAILS",
-    "number": null,
+    "type": "231 G",
+    "number": "1-226",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -20,7 +20,8 @@
   },
   "description": "[HO] : MACHINE 1-231G 226 BELFORT - Ep.III - DCC 3 RAILS - MB211SAC",
   "categories": [
-    "lokomotive"
+    "lokomotive",
+    "dampflokomotive"
   ],
   "tags": [
     "ree-neuheiten-2025"

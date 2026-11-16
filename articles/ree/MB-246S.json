@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 67321",
-    "number": "BB 67321",
+    "operator": "SNCF",
+    "type": "BB 67000",
+    "number": "67321",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "V"
   },
   "description": "[HO] : Locomotive diesel BB 67321 Livrée bleue, dépôt de Chambéry, Ep. V, DCC Sound - MB246S",
   "categories": [

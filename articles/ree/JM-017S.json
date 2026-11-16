@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "Locomotive diesel 040 DE 528, livrée d'origine, Ep. III, SNCF",
-    "number": null,
+    "operator": "SNCF",
+    "type": "040 DE 528",
+    "number": "528",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HO] : Locomotive diesel 040 DE 528, livrée d'origine, Ep. III, SNCF, DCC Sound - JM017S",
   "categories": [

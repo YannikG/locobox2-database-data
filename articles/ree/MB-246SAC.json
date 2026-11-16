@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "BB 67321",
-    "number": "BB 67321",
+    "type": "BB 67000",
+    "number": "67321",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

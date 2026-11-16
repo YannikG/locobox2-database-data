@@ -7,9 +7,9 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 9288",
-    "number": "BB 9288",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9288",
     "livery": "Arzens",
     "scale": "H0",
     "electricSystem": "DC-Digital",

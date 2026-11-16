@@ -7,13 +7,13 @@
   "uvp": null,
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "BB 25200",
-    "number": "BB 25243",
+    "number": "25243",
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] : Locomotive électrique BB 25243 Livrée verte, MARSEILLE avec jupes et vitres d'angles, Ep. IV, Analogique - MB253",
   "categories": [

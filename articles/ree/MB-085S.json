@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
-    "type": "BB 9263",
-    "number": "BB 9263",
+    "operator": "SNCF",
+    "type": "BB 9200",
+    "number": "9263",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV-V"
   },
   "description": "[HO] : Locomotive électrique BB 9263 Béton sigle Nouille, Ep. IV-V, DCC Sound - MB085S",
   "categories": [

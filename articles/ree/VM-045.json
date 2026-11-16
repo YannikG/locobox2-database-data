@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "CFD",
-    "type": "Voiture « Cage à Poule », CFD N°ABCFY 1752, Ep. IIIb",
-    "number": null,
+    "type": "Cage à Poule",
+    "number": "ABCFY 1752",
     "livery": "Cage à Poule",
     "scale": "H0m",
     "electricSystem": "DC-Analog",
@@ -17,8 +17,7 @@
   },
   "description": "[HOe/HOm] : Voiture « Cage à Poule », CFD N°ABCFY 1752, Ep. IIIb – VM045",
   "categories": [
-    "triebwagen",
-    "dieseltriebwagen"
+    "wagen"
   ],
   "tags": [
     "ree-neuheiten-2025",

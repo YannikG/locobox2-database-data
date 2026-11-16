@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Locomotive à vapeur 4-231 G 222, Tours, Verte",
-    "number": null,
+    "type": "231 G",
+    "number": "4-222",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",

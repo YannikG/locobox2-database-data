@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "FR",
-    "operator": "SNCF",
-    "type": "Locotracteur Diesel MOYSE 32 TDE, INDUSTRIEL Bleu-Blanc « Transports Réunis »",
+    "operator": "Transports Réunis",
+    "type": "Moyse 32 TDE",
     "number": null,
     "livery": "Transports Réunis",
     "scale": "H0",

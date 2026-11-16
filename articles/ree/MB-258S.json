@@ -10,13 +10,13 @@
   },
   "model": {
     "country": "FR",
-    "operator": "Unbekannt",
+    "operator": "SNCF",
     "type": "RGP 1",
-    "number": null,
+    "number": "X-2779",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III-IV"
   },
   "description": "[HO] : Autorail RGP 1 X-2779, Rouge TEE, LYON-VAISE, Ep. III-IV, DCC Sound – MB258S",
   "categories": [

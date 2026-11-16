@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail X2898 Jupé, 1ère/2nde classes, VAISE, SNCF, Ep. IV, AC Sound 3 rails",
-    "number": "X2898",
+    "type": "X 2800",
+    "number": "X-2898",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

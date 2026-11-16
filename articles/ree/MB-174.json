@@ -11,8 +11,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Autorail RGP 2 X-2702 Moderne Orange-Alu",
-    "number": null,
+    "type": "RGP 2",
+    "number": "X-2702",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",

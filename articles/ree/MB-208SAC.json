@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "CC 7125",
-    "number": "CC 7125",
+    "type": "CC 7100",
+    "number": "7125",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
