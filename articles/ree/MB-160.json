@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-160",
+  "manufacturer": "REE",
+  "articleNumber": "MB-160",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Locomotive à vapeur 141 D 318 + Tender 25 A 285 Verte & Noire, dépôt de Badan",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive à vapeur 141 D 318 + Tender 25 A 285 Verte & Noire, dépôt de Badan, Ep. III, Analogique - MB160",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-a-vapeur/849--ho-locomotive-a-vapeur-141-d-318-tender-25-a-285-verte-noire-depot-de-badan-ep-iii-analogique-mb160-0652733523587.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/892-large_default/-ho-locomotive-a-vapeur-141-d-318-tender-25-a-285-verte-noire-depot-de-badan-ep-iii-analogique-mb160.jpg"
+  },
+  "updatedAt": "2026-11-16T08:36:39Z"
+}

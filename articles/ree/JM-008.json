@@ -24,12 +24,14 @@
     "diesellokomotive"
   ],
   "tags": [
-    "ree-neuheiten-2024"
+    "ree-neuheiten-2024",
+    "ree-neuheiten-2022",
+    "ree-neuheiten-2023"
   ],
   "source": {
     "url": "https://www.ree-store.com/locomotives-diesel/395--ho-locomotive-diesel-bb-63792-vert-301-chassis-noir-ep-iii-iv-analogique-jm008-0652733513083.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/587-large_default/-ho-locomotive-diesel-bb-63792-vert-301-chassis-noir-ep-iii-iv-analogique-jm008.jpg"
   },
-  "updatedAt": "2026-11-16T08:06:31Z"
+  "updatedAt": "2026-11-16T08:19:55Z"
 }

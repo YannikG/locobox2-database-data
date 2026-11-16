@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-005S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-005S",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "CC 7136",
+    "number": "CC 7136",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] Locomotive électrique CC 7136 Lyon M., DCCS - JM005S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/387--ho-locomotive-electrique-cc-7136-lyon-m-dccs-jm005s-0652733870100.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2359-large_default/-ho-locomotive-electrique-cc-7136-lyon-m-dccs-jm005s.jpg"
+  },
+  "updatedAt": "2026-11-16T08:27:25Z"
+}

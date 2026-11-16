@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-220",
+  "manufacturer": "REE",
+  "articleNumber": "MB-220",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 189.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Locotracteur Diesel MOYSE 32 TDE, INDUSTRIEL Bleu-Blanc « Transports Réunis »",
+    "number": null,
+    "livery": "Transports Réunis",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locotracteur Diesel MOYSE 32 TDE, INDUSTRIEL Bleu-Blanc « Transports Réunis », Ep. IV-V, Analogique - MB220",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/995--ho-locotracteur-diesel-moyse-32-tde-industriel-bleu-blanc-transports-reunis-ep-iv-v-analogique-mb220-0652733479983.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/917-large_default/-ho-locotracteur-diesel-moyse-32-tde-industriel-bleu-blanc-transports-reunis-ep-iv-v-analogique-mb220.jpg"
+  },
+  "updatedAt": "2026-11-16T08:36:39Z"
+}
