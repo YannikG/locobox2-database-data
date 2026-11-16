@@ -38,7 +38,9 @@ BB 26000 («Sybic»): Betriebsnummern typisch **26001–26234**. Steht im Shop n
 |--------|---------|
 | `Serie 232 TC` (Dampf) | Alles sinnvoll in `type`, `number` null, sofern keine Einzelnummer |
 | `Y` + Ziffern (Rangier) | Wie Serie/Laufnummer; bei Unklarheit Finding |
-| TGV / Régiolis / Coradia | **Triebzug**, nicht BB/CC-Split; Kategorien `triebzug` / ggf. `triebwagen` |
+| TGV / Régiolis / Coradia | **Triebzug**, nicht BB/CC-Split; Kategorien `triebzug` / ggf. `triebwagen`; Ramennummer (z. B. TGV n°17) darf in `number` |
+| UIC-Sechser (`467471`, `567556`, `167424`) auf BB/CC | `type` = Serie (`BB 67400`, …), `number` = **volle** Anschriftziffern |
+| BB 67400 inkl. 676xx | Serie heisst **BB 67400** (nicht `BB 67600`) |
 
 ## Kategorien
 

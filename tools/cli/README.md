@@ -30,12 +30,16 @@ uv run locobox queue clear --campaign demo --yes
 
 Fetch erst auf **Approved**-Queue.
 
-## Catalog (PIKO)
+## Catalog (PIKO / Roco / Trix / Jouef)
 
 ```bash
 uv run locobox catalog pdf-to-text --pdf ../../katalog.pdf -o .tmp/piko_catalog.txt
 uv run locobox catalog extract --source piko -t .tmp/piko_catalog.txt \
   --campaign demo --min-price-eur 120
+
+# Jouef (HJ#### / HJ####S aus Katalogtext; Shop-Fetch noch nicht verdrahtet)
+uv run locobox catalog extract --source jouef -t .tmp/jouef_catalog.txt \
+  --campaign jouef-demo --locomotives-only
 ```
 
 ## Shop fetch + parse (PIKO / Roco / Trix / REE / LS Models / CloakBrowser)
@@ -76,7 +80,7 @@ uv run locobox shop parse --source lsmodels --campaign demo \
   --tag lsmodels-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels` (Shop). `jouef` ist für Catalog-Extract verdrahtet; `shop fetch/parse --source jouef` schlägt bewusst mit klarem Fehler fehl, bis PDPs stabil sind. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
 
 LS Models: offizieller Shop `lsmodels.eu`. Suche mit kompakter Artikelnummer, PDP-URLs nutzen interne PrestaShop-IDs. Sound-Suffix `S` und Models-World `MW…` werden im Catalog-Extract vorerst übersprungen. UVP fehlt im Shop oft.
 
@@ -131,7 +135,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco` / `trix` / `ree` / `lsmodels`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop/Catalog sources (`piko` / `roco` / `trix` / `ree` / `lsmodels` / `jouef`)
 - `interfaces/cli/` — Typer
 
 ## Tests

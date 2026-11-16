@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2425S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2425S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV Sud-Est",
+    "number": "17",
+    "livery": "inaugurale 1981 orange",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2425"
+  },
+  "description": "SNCF, Coffret 4 Einheiten TGV Sud-Est n°17, inaugurale Version 1981, ép. IV (Werkseitig mit Sound).",
+  "categories": [
+    "triebzug"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:09:35Z"
+}

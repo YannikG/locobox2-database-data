@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2480",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2480",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 36000",
+    "number": "436300",
+    "livery": "FRET grün/grau",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2480"
+  },
+  "description": "SNCF, Mehrsystemelektrolokomotive 436300 FRET, grün-graue Farbgebung, mit SCMT für Italien, ép. VI",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:09:35Z"
+}

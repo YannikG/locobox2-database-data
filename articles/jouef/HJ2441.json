@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2441",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2441",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF Infra",
+    "type": "BB 66000",
+    "number": "666442",
+    "livery": "bleue",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2441"
+  },
+  "description": "SNCF Infra, Diesellokomotive BB 666442, livrée bleue, ép. VI",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:09:35Z"
+}

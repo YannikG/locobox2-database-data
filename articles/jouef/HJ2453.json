@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2453",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2453",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 6500",
+    "number": "406504",
+    "livery": "Vitry-sur-Seine",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "V",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2453"
+  },
+  "description": "Elektrolokomotive CC 406504 „Vitry-sur-Seine“ in grüner „FRET“-Farbgebung",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:01:45Z"
+}

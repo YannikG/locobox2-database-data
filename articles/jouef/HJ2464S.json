@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2464S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2464S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67400",
+    "number": "67613",
+    "livery": "Capitole",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2464"
+  },
+  "description": "SNCF, Diesellokomotive BB 67613, livrée rouge „Capitole“, ép. VI (Werkseitig mit Sound).",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:09:35Z"
+}

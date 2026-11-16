@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2419",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2419",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP II",
+    "number": "X 2716",
+    "livery": "vert/beige",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2419"
+  },
+  "description": "SNCF, autorail à 2 voitures RGP II X 2716 avec remorque XR 7719, avec déflecteurs de fumée, livrée vert/beige, ép. III",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:02:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Jouef Neuheiten 2026",
+  "slug": "jouef-neuheiten-2026",
+  "description": "Artikel aus dem Jouef-Katalog 2026.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "jouef",
+  "year": 2026,
+  "order": 1,
+  "source": "https://fr.jouef.com/catalogue"
+}

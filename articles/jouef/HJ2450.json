@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2450",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2450",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 13000",
+    "number": "13052",
+    "livery": "bleue Cité du Train",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2450"
+  },
+  "description": "SNCF, locomotive électrique BB 13052 avec 4 lampes inférieures, livrée bleue, « Cité du Train», ép. IV",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:09:35Z"
+}

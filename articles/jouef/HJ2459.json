@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2459",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2459",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 36000",
+    "number": "36008",
+    "livery": "multiservice",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2459"
+  },
+  "description": "SNCF, locomotive électrique tritension « Astride » BB 36008 blasons « Blainville/Damelevières », livrée multiservice, ép. VI",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:02:33Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2472",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2472",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Millet Rail",
+    "type": "Vossloh DE 18",
+    "number": null,
+    "livery": "orange/grise",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2472"
+  },
+  "description": "Millet Rail, Vossloh DE 18, livrée orange/grise",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025",
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:01:45Z"
+}

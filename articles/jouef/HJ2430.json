@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2430",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2430",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "141 R",
+    "number": "44",
+    "livery": "verte/noire",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "III",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "variantGroup": "HJ2430"
+  },
+  "description": "SNCF, locomotive à vapeur 141 R 44, avec 3 feux avant et tender à charbon, livrée verte/noire, dépôt Sarreguemines, ép. III",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "jouef-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:02:33Z"
+}

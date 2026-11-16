@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "jouef-HJ2382S",
+  "manufacturer": "Jouef",
+  "articleNumber": "HJ2382S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV Réseau",
+    "number": null,
+    "livery": "InOui Milan–Turin–Lyon–Paris",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": null,
+    "minRadiusMm": null,
+    "features": [
+      "sound"
+    ],
+    "variantGroup": "HJ2382"
+  },
+  "description": "SNCF, 4-tlg. Grundset des Hochgeschwindigkeitszug TGV Réseau (Dreisystemvariante) InOui „Mailand–Turin–Lyon–Paris” (Werkseitig mit Sound).",
+  "categories": [
+    "triebzug"
+  ],
+  "tags": [
+    "jouef-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://fr.jouef.com/catalogue",
+    "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
+  },
+  "updatedAt": "2026-11-16T09:02:33Z"
+}
