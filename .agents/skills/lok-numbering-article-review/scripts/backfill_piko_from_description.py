@@ -472,6 +472,8 @@ def _apply_backfill(article: dict[str, Any], *, html_attrs: Optional[dict[str, s
     # decoderInterface
     if _missing_str(model.get("decoderInterface")):
         di = attrs.get("Digitale Schnittstelle", "").strip() or (_decoder_from_text(blob) or "")
+        if di.lower() in {"nicht vorhanden", "ohne", "kein", "-"}:
+            di = "Unbekannt"
         if di:
             changes.append(f"decoderInterface: {model.get('decoderInterface')!r} -> {di!r}")
             model["decoderInterface"] = di

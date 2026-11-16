@@ -16,7 +16,7 @@
     "livery": "Roncalli",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "decoderInterface": "nicht vorhanden",
+    "decoderInterface": "Unbekannt",
     "era": "Unbekannt",
     "luepMm": 473,
     "minRadiusMm": 358
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30601/thumbs/55226_430838.jpg"
   },
-  "updatedAt": "2026-11-16T09:37:34Z"
+  "updatedAt": "2026-11-16T10:44:11Z"
 }
