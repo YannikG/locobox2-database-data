@@ -23,6 +23,7 @@ _OPERATOR_COUNTRY = {
     "SNCF": "FR",
     "SNCB": "BE",
     "NMBS": "BE",
+    "LINEAS": "BE",
     "FS": "IT",
     "PKP": "PL",
     "ČSD": "CZ",
@@ -241,9 +242,9 @@ def _image(html: str, base: str) -> Optional[str]:
 
 
 def _canon_reference(raw: str) -> str:
-    """Strip spaces; drop trailing Sound ``S`` for comparison only."""
+    """Strip spaces / DC|AC / Sound ``S`` so ``13001 DC`` matches queue ``13001``."""
     s = re.sub(r"\s+", "", raw.strip())
-    s = re.sub(r"S$", "", s, flags=re.I)
+    s = re.sub(r"(?:DC|AC)?S?$", "", s, flags=re.I)
     return s
 
 
