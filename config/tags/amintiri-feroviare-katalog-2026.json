@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Amintiri Feroviare Katalog 2026",
+  "slug": "amintiri-feroviare-katalog-2026",
+  "description": "Artikel aus dem Amintiri Feroviare / AF Models Katalog und Webshop 2026.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "amintiri-feroviare",
+  "year": 2026,
+  "order": 1,
+  "source": "https://www.amintiriferoviare.com/catalog-categorie/locomotive-electrice"
+}
