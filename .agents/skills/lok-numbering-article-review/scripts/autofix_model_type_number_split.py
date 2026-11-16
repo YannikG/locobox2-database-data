@@ -276,6 +276,16 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
     if m:
         return ("re_3_dash", m.group(1), m.group(2))
 
+    # ACME / SBB flyer titles often keep the operator in type: «SBB Re 450 060».
+    m = re.fullmatch(r"SBB (Re \d{3}) (\d{3}(?:-\d)?)", t)
+    if m:
+        return ("sbb_re_3", m.group(1), m.group(2))
+
+    # Re 450 000 / Re 450 060 (running number without check digit).
+    m = re.fullmatch(r"(Re \d{3}) (\d{3})", t)
+    if m:
+        return ("re_3_3", m.group(1), m.group(2))
+
     # SNCF: «BB 26022» → type BB 26000 + number 26022; pure series «BB 26000» → no split.
     # See reference-sncf-type-number.md (never park the series in number alone).
     m = re.fullmatch(r"(BB|CC) (\d{5})", t)

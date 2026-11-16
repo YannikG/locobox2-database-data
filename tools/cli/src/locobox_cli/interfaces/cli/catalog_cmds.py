@@ -9,6 +9,10 @@ import typer
 from locobox_cli.adapters.pdftotext import run_pdftotext_layout
 from locobox_cli.adapters.paths import find_repo_root
 from locobox_cli.adapters.queue_fs import FilesystemQueueStore
+from locobox_cli.adapters.sources.acme.catalog import (
+    extract_acme_catalog_rows,
+    rows_to_queue as acme_rows_to_queue,
+)
 from locobox_cli.adapters.sources.piko.catalog import (
     extract_piko_catalog_rows,
     rows_to_queue as piko_rows_to_queue,
@@ -56,11 +60,11 @@ def extract_cmd(
     locomotives_only: bool = typer.Option(
         True,
         "--locomotives-only/--all-rolling-stock",
-        help="Roco/Trix/REE/LS Models: keep only locomotives/motorized (default). Ignored for PIKO.",
+        help="Roco/Trix/REE/LS Models/ACME: keep only locomotives/motorized (default). Ignored for PIKO.",
     ),
     repo_root: Optional[Path] = typer.Option(None, "--repo-root"),
 ) -> None:
-    """Extract article candidates from catalog text (PIKO, Roco, Trix, REE or LS Models)."""
+    """Extract article candidates from catalog text (PIKO, Roco, Trix, REE, LS Models or ACME)."""
     mfr = Manufacturer.parse(source)
     text = text_file.read_text(encoding="utf-8", errors="replace")
     if mfr == Manufacturer.PIKO:
@@ -78,6 +82,9 @@ def extract_cmd(
     elif mfr == Manufacturer.LSMODELS:
         rows = extract_lsmodels_catalog_rows(text, locomotives_only=locomotives_only)
         queue = lsmodels_rows_to_queue(rows, min_price_eur=min_price_eur)
+    elif mfr == Manufacturer.ACME:
+        rows = extract_acme_catalog_rows(text, locomotives_only=locomotives_only)
+        queue = acme_rows_to_queue(rows, min_price_eur=min_price_eur)
     else:
         raise typer.BadParameter(f"unsupported --source {source!r}")
     rendered = render_queue_text(queue, numbers_only=False)

@@ -63,7 +63,7 @@ def diff_cmd(
         ...,
         "--mfr",
         "-m",
-        help="Manufacturer slug (piko|roco|trix|ree|lsmodels|bemo)",
+        help="Manufacturer slug (piko|roco|trix|ree|lsmodels|bemo|acme)",
     ),
     articles: Path = typer.Option(..., "--articles", "-a", help="Queue .txt"),
     out_missing: Optional[Path] = typer.Option(None, "--out-missing", help="Write missing numbers"),

@@ -123,6 +123,11 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
             if _html_has_article_sku(html, article):
                 return url
         return None
+    if site.slug == "acme":
+        # Flyer PDF URL is the product sheet; no HTML PDP to discover.
+        if site.is_pdp_url(url, article):
+            return url
+        return None
     if "maerklinshop" in (page.url or "").lower() or site.slug in {
         "maerklin",
         "lgb",

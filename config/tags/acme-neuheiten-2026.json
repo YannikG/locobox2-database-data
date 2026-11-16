@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "ACME Neuheiten 2026",
+  "slug": "acme-neuheiten-2026",
+  "description": "Artikel aus ACME-Neuheiten und Flyer-PDFs 2026.",
+  "kind": "neuheiten",
+  "manufacturerSlug": "acme",
+  "year": 2026,
+  "order": 1,
+  "source": "https://www.acmetreni.it/de/kataloge.html"
+}

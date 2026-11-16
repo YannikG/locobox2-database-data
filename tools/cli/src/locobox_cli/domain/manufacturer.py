@@ -11,6 +11,7 @@ class Manufacturer(str, Enum):
     REE = "ree"
     LSMODELS = "lsmodels"
     BEMO = "bemo"
+    ACME = "acme"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
@@ -33,6 +34,7 @@ class Manufacturer(str, Enum):
             Manufacturer.REE: "REE",
             Manufacturer.LSMODELS: "LS Models",
             Manufacturer.BEMO: "BEMO",
+            Manufacturer.ACME: "ACME",
         }[self]
 
     @property
