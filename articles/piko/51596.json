@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51596",
+  "manufacturer": "PIKO",
+  "articleNumber": "51596",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 315.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "Medway",
+    "type": "BR E.494",
+    "number": null,
+    "livery": "Medway",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2022: Druckvariante der BR 187 als BR E.494 von Medway in der Epoche VI. Die Elektrolok verfügt in der Soundausführung ab Werk über einen mfx®-fähigen SoundDecoder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-e.494-medway-vi-wechselstromversion,-inkl.-piko-sound-decoder-35330.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35330/thumbs/39073_431902.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

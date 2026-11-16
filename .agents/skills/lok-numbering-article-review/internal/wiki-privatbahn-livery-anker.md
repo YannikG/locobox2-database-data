@@ -32,18 +32,33 @@ PIKO (und teils andere Shops) setzen **`model.operator`: «Privatbahn»**, obwoh
 | DB Italia / 191 Italia | **IT** | Operator oft **DB Italia**; fehlender Operator → Finding |
 | EN 57 + **PR** / **KM** im Typ | **PL** | PKP-Kontext |
 | ET 21 + **CTL** | **PL** | |
-| EU07 + **PR** | **PL** | |
+| EU07 + **PR** / **EU43** | **PL** | PKP-/PL-Kontext |
+| **ACTS** (Livery/Typ) | **NL** | Operator oft **ACTS** statt «Privatbahn» |
+| **R-Net** / **QBuzz** | **NL** | GTW-Kontext; Operator **QBuzz** |
+| **GySEV** / **Gysev** | **HU** | Operator **GySEV** |
+| **EP Cargo** | **CZ** | tschechisches EVU; nicht DE |
+| **Green Cargo DK** / dänische BR 5400 Green Cargo | **DK** | Operator **Green Cargo**; «DK» im Livery ist Landesmarker |
+| **InRail** | **IT** | Vectron/BR 191 |
+| **EVM Rail** | **IT** | Vectron E.191 |
+| **PCC Intermodal** | **PL** | BR 186 / Traxx |
+| **Nordwestbahn** | **DE** | BR 440 |
+| **Trilex** | **DE** | Desiro |
+| **WFL** | **DE** | oft im Fliesstext/Set-Titel |
+| **NIS** / **D-NIS** / LOK 1 (G6) | **DE** | oft nur auf Druck, Shop-Text «Privatbahn»; Expert Plus Digitalkupplung |
+| **Przewozy Regionalne** / **PR** + EU43 | **PL** | Operator **PR** oder **Przewozy Regionalne** |
+| **Medway** (italienisch / E.494 / BR 186 Medway) | **IT** | FS-Klasse E.494; **nicht** pauschal DE |
 | E483 PMT | **IT** | |
 | Strukton | **NL** | |
-| Medway, Captrain, Northrail, Beacon, Black Dragons, WFL, Press, HSL, National Express, … | **DE** | nur bei klarem Namen im Blob |
+| Captrain, Northrail, Beacon, Black Dragons, Press, HSL, National Express, … | **DE** | nur bei klarem Namen im Blob |
 | **USA**, **Norte**, D&RGW, Southern Pacific | **US** | |
 
-## Operator fehlt zusätzlich
+## Operator fehlt oder «Privatbahn»
 
-Wenn **`operator`** `null` ist, aber der Anker eindeutig ist (z. B. **DB Italia** in Livery, **DB/DR** bei Personenzug-Set im Fliesstext):
+Wenn **`operator`** `null` oder **«Privatbahn»** ist, aber der Anker eindeutig ist (z. B. **Medway**, **EP Cargo**, **ACTS**, **DB Italia**):
 
-- **Finding** mit Vorschlag Operator + Land
-- Auto-Fix nur gemäss `SKILL.md` und Skript-Allowlist
+- Operator auf den **konkreten EVU-/Lacknamen** setzen
+- `country` nach Anker-Tabelle; widersprüchliches Shop-`DE` korrigieren
+- Auto-Fix nur gemäss `SKILL.md` und Skript-Allowlist; neue Anker zuerst hier dokumentieren
 
 ## Grenzen
 

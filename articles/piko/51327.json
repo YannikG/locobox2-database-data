@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51327",
+  "manufacturer": "PIKO",
+  "articleNumber": "51327",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 345.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Das PIKO Modell der attraktiven Baureihe 120 überzeugt durch feinste Lackierung und Bedruckung, die exakte Umsetzung der markanten Gehäuseform, angesetzten Griffstangen, scharf gravierte Drehgestellblenden und filigranen Metall-Pantographen. Der LED-Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind mit einem PluX22-Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das schwere Modell mit zwei Haftreifen für hohe Zugkräfte besitzt eine Digitalschnittstelle PluX22 nach NEM 658. Ab Werk ist ein PIKO SmartDecoder 4.1 mit passendem Fahrzeugsound und mfx-Funktionalität eingebaut. Bremsschläuche zum Nachrüsten liegen bei.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-120-db-ag-v-wechselstromversion,-inkl.-piko-sound-decoder-29928.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_29928/thumbs/32431_443930.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

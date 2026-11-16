@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58225",
+  "manufacturer": "PIKO",
+  "articleNumber": "58225",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 246.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "3er Set Schnellzugwagen Eurofima 1x 1. Klasse + 2x 2. Klasse",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 909,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Das attraktive, der ÖBB zugehörige Eurofima Wagenset besticht mit einem Wagen 1. Kl. und zweien der 2. Kl.",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/3er-set-schnellzugwagen-eurofima-1x-1.-klasse-2x-2.-klasse-oebb-iv-32514.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32514/thumbs/36405_435995.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

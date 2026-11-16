@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51352",
+  "manufacturer": "PIKO",
+  "articleNumber": "51352",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 181.2",
+    "number": null,
+    "livery": "Lorraine",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 206,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Das PIKO Modell der 181.2 \"Lorraine\" zeigt alle relevanten Details seines Vorbildes auf und überzeugt durch feinste Lackierung und Bedruckung, erhabenen Namensschilder auf den Seiten, extra angesetzte Frontgriffe und Türgriffstangen, scharf gravierte Drehgestellblenden, feine Isolatoren und Stromabnehmer mit unterschiedlichen Schleifstücken. Die Beleuchtung erfolgt mittels LEDs. Die serienmässig eingebaute Führerstands- und Maschinenraumbeleuchtungen sind wie die fahrtrichtungsabhängig funktionierenden Schlusslichter digital schaltbar. Ein starker fünfpoliger Motor mit zwei präzise ausgewuchteten Schwungmassen, der alle vier Achsen antreibt, sorgt für hervorragende Fahreigenschaften. Das schwere PIKO Modell verfügt über zwei Haftreifen und einen schweren Zinkdruckgussrahmen für grosse Zugkräfte.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-181.2-db-iv-lorraine-32589.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32589/thumbs/34405_426147.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

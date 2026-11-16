@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50612",
+  "manufacturer": "PIKO",
+  "articleNumber": "50612",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 512.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "Oko1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 170,
+    "minRadiusMm": 422
+  },
+  "description": "Neuheit 2021: Formvariante der BR 78 in polnischer Ausführung",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-oko1-pkp-iii,-inkl.-piko-sound-decoder-und-dampfgenerator-32779.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32779/thumbs/35955_444976.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

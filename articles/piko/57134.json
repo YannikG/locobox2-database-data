@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-57134",
+  "manufacturer": "PIKO",
+  "articleNumber": "57134",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 189.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 146",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "VI",
+    "luepMm": 753,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2022: Das Set enthält eine E-Lok der BR 146 und 2 Doppelstockwagen sowie ein Oval mit PIKO A-Gleis mit Bettung\n\nGrundfläche: ca. 158 x 88 cm\n\nMin. Aufbaufläche: 168 x 98 cm\n\nPIKO A-Gleis mit Bettung\n\nbestehend aus:\n\n1x E-Lok NS und 2 Doppelstockwagen\n\n12 x 55412 Bogen mit Bettung R2 422 mm\n\n5 x 55401 Gerade Gleise mit Bettung 231 mm\n\n1 x 55406 Gerades Gleis für Anschluss-Clip\n\n1 x 55447 Sockel für Anschluss-Clip\n\n1 x 55270 Anschluss-Clip\n\n1 x Fahrregler\n\n1 x Netzteil (Adapter 11,2 W)",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-personenzug-br-146-mit-2-ic-doppelstockwagen-35656.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35656/thumbs/46067_418726.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51599",
+  "manufacturer": "PIKO",
+  "articleNumber": "51599",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 315.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 388",
+    "number": null,
+    "livery": "CD Cargo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 217,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2022: Druckvariante der BR 187 als BR 388 der ČD Cargo in der Epoche VI. Die Elektrolok verfügt in der Soundausführung ab Werk über einen mfx®-fähigen SoundDecoder.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-388-cd-cargo-vi-wechselstromversion,-inkl.-piko-sound-decoder-35331.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35331/thumbs/43713_456293.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

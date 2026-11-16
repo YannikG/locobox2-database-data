@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-55911",
+  "manufacturer": "PIKO",
+  "articleNumber": "55911",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 107",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 144,
+    "minRadiusMm": 358
+  },
+  "description": "Mit der Neukonstruktion der V 75 erfüllt sich der Wunsch vieler Modellbahner nach einem zeitgemässen Modell der Rangierlokomotive. Aus dem markanten Vorbild ist bei PIKO ein exzellentes Modell geworden, das optisch und technisch überzeugt. Die hervorragend widergegebene Gesamterscheinung wird durch die präzisen und sehr plastisch wirkenden Gravuren am Vorbau der Lokomotive unterstrichen. Hervorragend lackiert und bedruckt schmeichelt PIKOs V 75 auch dem kritischen Modellbahner-Auge. Die Lok aus der Expert-Reihe repräsentiert auch technisch den aktuellsten Stand. Selbstverständlich besitzt das Fahrzeug eine mit der Fahrtrichtung wechselnde LED-Beleuchtung in den Farben Rot und Weiss. Als Antrieb dient ein fünfpoliger Motor, dessen gleichmässiger Lauf durch zwei gewuchtete Schwungmassen zusätzlich verfeinert wird. Das Modell besitzt zudem ab Werk eine umfangreiche Digitalausstattung mit authentischem Fahrzeugsound und einer digital steuerbaren Kupplung.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-107-dr-iv-wechselstromversion,-inkl.-piko-sound-decoder-und-digital-kupplung-30513.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30513/thumbs/32564_411553.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

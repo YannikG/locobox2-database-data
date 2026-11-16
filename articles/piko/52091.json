@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52091",
+  "manufacturer": "PIKO",
+  "articleNumber": "52091",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Desiro",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 479,
+    "minRadiusMm": 358
+  },
+  "description": "Dieseltriebwagen Desiro der Dänischen Staatsbahnen als Baureihe MQ.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/dieseltriebwagen-desiro-dsb-vi-30065.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_30065/thumbs/32028_449394.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51384",
+  "manufacturer": "PIKO",
+  "articleNumber": "51384",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 275.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 240",
+    "number": null,
+    "livery": "CD Cargo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 189,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Formvariante der tschechischen S499 in Ep. VI als Baureihe 240 der CD",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-240-cd-cargo-vi-32812.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32812/thumbs/34963_445727.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51855",
+  "manufacturer": "PIKO",
+  "articleNumber": "51855",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 315.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 111",
+    "number": null,
+    "livery": "S-Bahn",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 193,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Druckvariante der BR 111 in orange-kieselgrauer Lackierung",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-br-111-s-bahn-db-ag-v,-inkl.-piko-sound-decoder-32871.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32871/thumbs/35946_443124.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

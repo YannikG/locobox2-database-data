@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52834",
+  "manufacturer": "PIKO",
+  "articleNumber": "52834",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 335.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 360",
+    "number": null,
+    "livery": "blaubeige",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "V",
+    "luepMm": 120,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Formvariante der BR 360 in blaubeiger Lackierung zugehörig zur Deutschen Bahn AG in der Epoche V",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-br-360-db-ag-v-wechselstromversion,-inkl.-piko-sound-decoder-32819.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_32819/thumbs/37646_452134.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

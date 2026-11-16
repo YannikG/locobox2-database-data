@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51540",
+  "manufacturer": "PIKO",
+  "articleNumber": "51540",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 191",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 192,
+    "minRadiusMm": 358
+  },
+  "description": "Elektroloks mit Stangenantriebe zählen zu den Glanzlichtern auf der Modellbahnanlage. Das oft archaische Äussere und die sichtbare Kraftübertragung strahlen die Faszination vergangener Eisenbahnepochen aus. Diese hat PIKO perfekt eingefangen und in den Massstab 1:87 transferiert. Die konstruktive Symbiose aus hervorragender Modellumsetzung und ausgezeichneten Fahreigenschaften zeichnen den Charakter der neuentwickelten PIKO E 91. Die scharfen Gravuren des Gehäuses, gepaart mit einer hochfeinen Bedruckung und garniert mit äusserst filigranen Stromabnehmern machen die Lok zu einem Schmuckstück. Kraft schöpft sie aus einem starken PIKO Motor, zwei fein gewuchtete Schwungmassen sorgen auch bei schwieriger Gleislage für kontinuierliche Fahrt. Selbstverständlich verfügt das Modell über einen Lichtwechsel in LED-Technik mit roter Schlussbeleuchtung. Zusätzliche Beleuchtungsfunktionen können durch Nachrüstung eines Digitaldecoders geschaltet werden, für den einfachen Einbau steht eine PluX22-Schnittstelle nach NEM 658 zur Verfügung.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-191-db-iv-30443.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30443/thumbs/32587_442552.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

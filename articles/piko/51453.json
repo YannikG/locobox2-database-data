@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51453",
+  "manufacturer": "PIKO",
+  "articleNumber": "51453",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "EN 57",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 747,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021/2022: Mit dem EN57 kommt PIKO einem weiteren Wunsch der polnischen Modellbahnfreunde nach. Die markanten Merkmale des Originals wurden exakt nachgebildet. Hierzu zählen die Dachausrüstung, filigrane Stromabnehmer, die realistisch wiedergegebenen Lampen, sowie die nachgebildete Inneneinrichtung. Lackierung und Bedruckung sind der Epoche entsprechend nachempfunden. Die Kurzkupplungen erlauben auch im Modell eine Fahrt in Doppeltraktion, die Bildung ganzer Zuggarnituren ist vorbildgerecht möglich. Ein starker Motor mit Schwungmasse verleiht dem Modell hervorragende Fahreigenschaften. Für den Mittelleiterbetrieb ist ein Decoder ab Werk eingebaut.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-e-triebzug-en-57-pkp-iv,-wechselstromversion,-inkl.-piko-sound-decoder-33037.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_33037/thumbs/41584_407277.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50616",
+  "manufacturer": "PIKO",
+  "articleNumber": "50616",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 78",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "II",
+    "luepMm": 170,
+    "minRadiusMm": 422
+  },
+  "description": "Neuheit 2022 Das Modell der BR 78 der DRG aus Epoche II überzeugt durch ihren grossen Detailreichtum. Nahezu alle Leitungen wurden freistehend ausgeführt und die einzelnen Elemente, wie Führerhaus, Wasserkästen und Rauchkammer, zieren feinste Nachbildungen der Nietköpfe. Die Soundvariante verfügt ab Werk über einen PSD XP S SoundDecoder der neuesten Generation sowie einen integrierten Rauchsatz. Mit dieser Lokomotive hat PIKO die BR 78 in ihrem ursprünglichen Aussehen als Modell umgesetzt, so wie die Lok 1923 in Kassel aus dem Werk kam. Auffallend ist der kleine Kohlenkasten ohne Aufsatzbretter, die fehlenden Abweiser an der Führerhausrückwand, die Rauchkammertür mit grossem Verschlussrad und die zwei grossen Lampen auf der Pufferbohle. Auch die Beschriftung entspricht vorbildgetreu dem Betriebszustand bei Auslieferung.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-br-78-drg-ii-wechselstromversion,-inkl.-piko-sound-decoder-und-dampfgenerator-35280.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35280/thumbs/40073_452527.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

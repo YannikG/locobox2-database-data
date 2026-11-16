@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51365",
+  "manufacturer": "PIKO",
+  "articleNumber": "51365",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 295.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 1100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "Das PIKO Expert Modell der Reihe 1100 der Niederländischen Staatsbahnen NS überzeugt einem gelungenen Formenbau mit stimmigen Dachrundungen und vielen angesetzten Teilen, wie feine Isolatoren und Stromabnehmer, freistehende Griffstangen und Treppen. Das Modell besitzt die passenden Lampenformen, scharf gravierte Drehgestellblenden mit realistischen Federpaketnachbildungen und originalgetreue Nachbildungen der Pufferbohlen. Die Beleuchtung erfolgt mittels LEDs. Die Führerstand- und Maschinenraumbeleuchtungen sowie die fahrtrichtungsabhängig funktionierenden Front- und Schlusslichter sind mit einem PluX22-Decoder digital schaltbar. Der schwere Rahmen aus Zinkdruckguss und der Motor mit zwei grossen, präzise ausgewuchteten Schwungmassen sorgen für ausgezeichnete Fahreigenschaften und hohe Zugkräfte. Ab Werk ist ein PIKO SmartDecoder 4.1 mit mfx-Fähigkeit eingebaut, die Lok ist zudem für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1100-ns-iii-wechselstromversion-30428.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_30428/thumbs/31084_454070.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

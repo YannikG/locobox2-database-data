@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52846",
+  "manufacturer": "PIKO",
+  "articleNumber": "52846",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 265.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "D.145",
+    "number": "2004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 175,
+    "minRadiusMm": 358
+  },
+  "description": "Durch das besondere Erscheinungsbild, das grosse Einsatzgebiet und die hervorragenden Fahreigenschaften gemischt mit Detailverliebtheit und Betriebstauglichkeit wird die italienische D.145 Sammler aussergewöhnlicher europäischer Loks und Anlagenbetreiber gleichermassen begeistern. Das Modell von PIKO überzeugt durch feinste Lackierung und Bedruckung, die exakte Gehäuseform, angesetzten Griffstangen und scharf gravierte Drehgestellblenden. Der Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind mit einem PluX22-Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das Modell besitzt eine Digitalschnittstelle PluX22 nach NEM 658 und ist für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Bremsschläuche zum Nachrüsten liegen bei.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-d.145-2004-fs-iv-30255.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_30255/thumbs/32337_438373.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

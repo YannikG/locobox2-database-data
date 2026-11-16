@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51331",
+  "manufacturer": "PIKO",
+  "articleNumber": "51331",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 235.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "Vorserie",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 221,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Das PIKO Modell der attraktiven Elektrolokomotive der BR 120 Vorserie überzeugt durch feinste Lackierung und Bedruckung, angesetzte Griffstangen, scharf gravierte Drehgestellblenden und filigranen Metall-Pantographen. Der LED-Lichtwechsel erfolgt fahrtrichtungsabhängig weiss/rot mittels LEDs. Die serienmässig eingebaute Führerstandsbeleuchtung und die fahrtrichtungsabhängig funktionierenden Schlusslichter sind mit einem PluX22 Decoder digital schaltbar. Der fünfpolige Motor sorgt mit zwei Schwungmassen für ausgezeichnete Fahreigenschaften. Das schwere Modell mit zwei Haftreifen für hohe Zugkräften besitzt eine Digitalschnittstelle PluX22 nach NEM 658 und ist für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet. Das AC-Modell ist bereits ab Werk mit einem passenden mfx-geeigneten PluX22 Decoder ausgerüstet. Bremsschläuche zum Nachrüsten liegen bei.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-120-vorserie-db-iv-32586.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32586/thumbs/34042_447894.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-50663",
+  "manufacturer": "PIKO",
+  "articleNumber": "50663",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 509.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "Tkt1",
+    "number": "63",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 159,
+    "minRadiusMm": 422
+  },
+  "description": "Neuheit 2022: Bei dem Modell wurden konstruktiv die landestypischen Details und Änderungen gegenüber Artikel #50650 berücksichtigt! Hierzu zählen unter anderem die landestypischen Leuchten, die Gestaltung der Rauchkammertür sowie die vorbildgerechte Position des Lichtmaschinengenerators. Die Soundvariante der Tkt1-63 der PKP besitzt ab Werk einen PSD SoundDecoder und ist darüber hinaus bereits mit einem Rauchsatz ausgestattet. Als weiteres Highlight verfügt die Tkt1-63 über PIKO TrainSound® onboard.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dampflok-tkt1-63-pkp-iii-wechselstromversion,-inkl.-piko-sound-decoder-35589.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35589/thumbs/40399_451730.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

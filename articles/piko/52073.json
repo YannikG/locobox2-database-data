@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52073",
+  "manufacturer": "PIKO",
+  "articleNumber": "52073",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 460.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 5045",
+    "number": null,
+    "livery": "Blauer Blitz",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 502,
+    "minRadiusMm": 415
+  },
+  "description": "Der beliebte Dieseltriebwagen Blauer Blitz der ÖBB in Epoche III Ausführung mit erhabenen Logos der ÖBB. Ab Werk ausgerüstet mit einem Digitaldecoder und passendem Fahrzeugsound.",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-dieseltriebwagen-rh-5045-bboe-iii-blauer-blitz,-2tlg.,-inkl.-piko-sound-decoder-30335.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30335/thumbs/29690_441789.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

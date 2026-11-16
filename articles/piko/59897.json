@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-59897",
+  "manufacturer": "PIKO",
+  "articleNumber": "59897",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Nordwestbahn",
+    "type": "BR 440",
+    "number": null,
+    "livery": "Nordwestbahn",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 652",
+    "era": "VI",
+    "luepMm": 633,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2022: Druckvariante der BR 440 im Design der Nordwestbahn in der Epoche VI. Das Soundmodell verfügt ab Werk über einen mfx®-fähigen SoundDecoder.",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-elektrotriebwagen-br-440-nordwestbahn-vi,-3-tlg-wechselstromversion,-inkl.-piko-sound-decoder-35395.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_35395/thumbs/37251_455285.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

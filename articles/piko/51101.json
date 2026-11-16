@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51101",
+  "manufacturer": "PIKO",
+  "articleNumber": "51101",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 279.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 101",
+    "number": null,
+    "livery": "DB-Keks",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 219,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Nun ist auch dieser Tausendsassa der DB AG als PIKO Expert Modell vertreten. Die moderne Bauform der Lokomotive ist exakt nachempfunden worden. Vorbildgerecht ist die Lok in verkehrsrot lackiert, inklusive „DB-Keks“. Die Einholm-Stromabnehmer sind äusserst filigran nachgebildet worden. Scharf gravierte Drehgestelle runden den optischen Auftritt ab. Zur Komplementierung liegen zurüstbare Bremsschläuche und Sonnenblenden bei. Für freie Fahrt sorgt ein kraftvoller, 5-poliger Motor. Mit zwei Schwungmassen ausgestattet, fällt die PIKO BR 101 mit extremer Laufruhe auf. Traktion beim Fortkommen verschaffen zwei diagonal angebrachte Haftreifen. Technisches Highlight sind die verbauten Führerstands- und Führerpultbeleuchtungen. Der Lichtwechsel erfolgt fahrtrichtungsabhängig in rot/weiss, natürlich ausgeführt in modernster LED-Technik. Im Digitalbetrieb sind diese Funktionen separat schaltbar. Gesteuert wird dies über einen PluX 22 Decoder. Mittels Steckschnittstelle ist die einfache Digitalisierung bereits vorbereitet. Die Mittelleiterversion wird werksseitig mit einem mfx-fähigen Decoder ausgeliefert.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-br-101-db-ag-vi-wechselstromversion-33239.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_33239/thumbs/36433_428945.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

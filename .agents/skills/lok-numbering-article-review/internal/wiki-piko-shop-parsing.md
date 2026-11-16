@@ -19,7 +19,13 @@ PIKO-Shop-Titel und die in `description` eingebetteten Attributzeilen sind **Mar
 | Anführungszeichen um **`"Stadler"`** bei GTW 2/6 | **Fahrzeughersteller / Typenname**, nicht Lackierung | Livery aus Rest des Titels (THURBO, HLB, StB, …), nicht «Stadler» |
 | **`bwegt`** bei THURBO-Titeln | Shop-Tippfehler für **«bewegt»** (Werbefolierung) | ignorieren; Livery **THURBO**, nicht «bwegt» |
 | **`operator`: «Privatbahn»** | Shop-Platzhalter statt EVU | Land/EVU aus Livery und Fliesstext ([wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md)); Tippfehler **«Privatbahhn»** wie Privatbahn behandeln |
+| **`operator`: «Privatbahn»** + klarer EVU-Anker | Shop-Platzhalter | Operator auf EVU setzen; `country` nach [wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md) (z. B. Medway/E.494→**IT**, EP Cargo→**CZ**, Green Cargo DK→**DK**) |
 | **`187 002 TX Logistik Railpool`** (UIC ohne **`BR`**) | Shop-Titel ohne Baureihenpräfix | Split: `type` **`BR 187`**, `number` **`002`**, `livery` **`TX Logistik Railpool`**; Regel **`piko_uic_br`** in `autofix_piko_shop_type.py` |
+| **`D.141 1019`** / **`D.145 2004`** / **`D.141.1023`** | FS-Baureihe + Betriebsnummer | Split: `type` `D.141` / `D.145`, `number` Ziffernblock; Regeln **`piko_fs_d_num`** / **`piko_fs_d_dot`** |
+| **`Vectron E.191 EVM Rail`** / **`Vectron EB 3200`** | Marketing «Vectron» + Klasse | `type` **`E.191`** + Livery **`EVM Rail`**, bzw. `type` **`EB 3200`** |
+| **`EN 57 PKP IV`**, **`ET 21 PKPC`**, **`EU43 PR`**, **`Serie 52 SNCB`** | Operator/Epoche noch im Typ | auf Baureihe kürzen (`EN 57`, `ET 21`, `EU43`, `Serie 52`) |
+| **`Start-Set mit Bettung … Taurus/SM42/G7/…`** | Startset-Marketingtitel | `type` auf bekannte Lokbezeichnung (z. B. **`1216`**, **`SM42`**); Set-Inhalt nicht als Livery |
+| Livery **`… + 3 Güterwagen`**, **`mit 2 …wagen`**, **`VI, 3-tlg`**, **`ICE 4 … Klimaschützer`** | Setlänge/Epoche/Sondername vermischt | Livery bereinigen oder löschen; Sonderlack **`Klimaschützer`** beibehalten |
 
 ## Niederlande: `Rh` + Ziffernblock
 

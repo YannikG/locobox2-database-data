@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52747",
+  "manufacturer": "PIKO",
+  "articleNumber": "52747",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 185.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "SZD",
+    "type": "TGK2",
+    "number": null,
+    "livery": "Kaluga",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 96,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Druckvariante der legendären \"Kaluga\" in Bedruckung der SZD in der Ep. IV",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-tgk2-m-kaluga-szd-iv-32680.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_32680/thumbs/34664_443052.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

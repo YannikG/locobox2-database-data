@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58244",
+  "manufacturer": "PIKO",
+  "articleNumber": "58244",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 158.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "2er Set Personenwagen D 244 Brest Köln",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "IV",
+    "luepMm": 282,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2022: Attraktives Zweierset mit Druckvarianten von zwei Personenwagen DR und DB in der Epoche IV.",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/2er-set-personenwagen-d-244-brest-koeln-dr-iv-35271.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_35271/thumbs/37568_454994.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

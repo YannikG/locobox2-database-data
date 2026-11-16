@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58523",
+  "manufacturer": "PIKO",
+  "articleNumber": "58523",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 156.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Nahverkehrssteuerwagen Wittenberger Kopf",
+    "number": null,
+    "livery": "mintgrün",
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "Unbekannt",
+    "era": "V",
+    "luepMm": 303,
+    "minRadiusMm": 358
+  },
+  "description": "Mit dem neukonstruierten Steuerwagen mit Wittenberger Kopf entspricht PIKO einen langgehegten Wunsch viele Modellbahnfreunde!Der Steuerwagen auf Basis eines n-Wagens erscheint in gewohnt detaillierter und filigraner Ausführung des Expert Sortiments und besitzt eine massstäbliche Länge, die passende Inneneinrichtung, scharf gravierte Drehgestelle und extra angesetzte Griffstangen. Der Steuerwagen stellt die perfekte Ergänzung zu den PIKO n-Wagen dar, kann aber auch vorbildgerecht mit Doppelstockwagen kombiniert werden! Der Steuerwagen ist für eine unproblematische Nachrüstung einer Innenbeleuchtung vorgesehen und verfügt über einen fahrtrichtungsabhängigen Lichtwechsel weiss/rot, eine beleuchtete Zugzielanzeige, Führerpultbeleuchtung sowie einen werkseitig eingebauten Funktionsdecoder.",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/nahverkehrssteuerwagen-wittenberger-kopf-2.-klasse-db-ag-v-mintgruen-wechselstromversion-30138.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_30138/thumbs/33018_417724.jpg"
+  },
+  "updatedAt": "2026-11-16T09:37:01Z"
+}

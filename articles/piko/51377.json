@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-51377",
+  "manufacturer": "PIKO",
+  "articleNumber": "51377",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 245.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 1100",
+    "number": null,
+    "livery": "gelb-grau",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 162,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Druckvariante der niederländischen Rh 1100 in gelb-grauer Lackierung.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/e-lok-rh-1100-ns-iv-32809.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32809/thumbs/36429_437009.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

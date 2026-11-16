@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52819",
+  "manufacturer": "PIKO",
+  "articleNumber": "52819",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 200.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "ČSD",
+    "type": "T679",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "luepMm": 202,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: tschechische T679 der Ep. IV ohne Schalldämpfer",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-t679-csd-iv-32689.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_32689/thumbs/35056_443514.jpg"
+  },
+  "updatedAt": "2026-11-16T10:41:24Z"
+}

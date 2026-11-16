@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-55915",
+  "manufacturer": "PIKO",
+  "articleNumber": "55915",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "NIS",
+    "type": "G6 (CUMMINS)",
+    "number": null,
+    "livery": "NIS",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "VI",
+    "luepMm": 124,
+    "minRadiusMm": 358
+  },
+  "description": "Neuheit 2021: Mit den Lokomotiven der PIKO Expert Plus Linie kann der Betrieb auf der Modelleisenbahnanlage noch vorbildgetreuer durchgeführt werden. Durch die Entwicklung der neuen PIKO Digitalkupplung sind ab sofort Rangierfahrten mit ferngesteuertem, störungsfreiem An- und Abkuppeln von Wagen mit der von PIKO gewohnt hohen Betriebssicherheit bei ausgesuchten Lokomotiven möglich. Hierbei werden die Vorzüge der beliebten, detailverliebten PIKO Expert Lokomotiven mit den innovativen technischen Features neuester Entwicklungen kombiniert. Die Triebfahrzeuge der Expert Plus Linie überzeugen mit realistischem, kraftvollem 12bit Sound mit 8 Kanälen und 128 Mbit Speichertiefe bei 2,5 Watt Ausgangsleistung, einer feinen Motorregelung und vielfältigen Lichtausgängen, die zusammen mit dem Pufferspeicher sowie der innovativen Digital-Kupplung eine neue Generation an PIKO Lokomotiven ermöglichen. AC Ausführung mit mfx-fähigem Decoder!",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/sound-diesellok-g6-cummins-vi-wechselstromversion,-inkl.-piko-sound-decoder-und-digital-kupplung-32948.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.; Expert Plus mit Digitalkupplung.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_32948/thumbs/39125_448836.jpg"
+  },
+  "updatedAt": "2026-11-16T09:50:14Z"
+}

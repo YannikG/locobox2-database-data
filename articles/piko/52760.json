@@ -11,7 +11,7 @@
   "model": {
     "country": "DD",
     "operator": "DR",
-    "type": "132",
+    "type": "BR 132",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -27,12 +27,13 @@
     "diesellokomotive"
   ],
   "tags": [
-    "piko-neuheiten-2018"
+    "piko-neuheiten-2018",
+    "piko-neuheiten-2017"
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/diesellok-132-dr-iv-23726.html",
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_23726/thumbs/22685_422485.jpg"
   },
-  "updatedAt": "2026-10-10T19:52:11Z"
+  "updatedAt": "2026-11-16T09:19:11Z"
 }

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-58113",
+  "manufacturer": "PIKO",
+  "articleNumber": "58113",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 405.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 141",
+    "number": null,
+    "livery": "S-Bahn Zug",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "IV",
+    "minRadiusMm": 358
+  },
+  "description": "Exklusives, limitiertes Sonderset zum \"Tag der offenen Tür\" 2017 in edler Verpackung. Die BR 141 und die Wagen sind in dieser Beschriftung nicht einzeln erhältlich.\n\nTOFT Set eines typischen S-Bahn-Zuges der DB in derEpoche IV mit BR 141 mit aufgesetztem neukonstruiertemS-Bahn-Schild, und Silberlingen. Der Steuerwagen besitzt vorbildgerecht ein aufgedrucktes S-Bahn-Schild.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/exklusiv-set-2017-zum-tag-der-offenen-tuer-br-141-db-iv-s-bahn-zug-23283.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_23283/thumbs/52484_420414.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}

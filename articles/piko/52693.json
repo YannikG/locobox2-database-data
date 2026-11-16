@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "piko-52693",
+  "manufacturer": "PIKO",
+  "articleNumber": "52693",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 259.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 2200",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Analog",
+    "decoderInterface": "NEM 658 PluX22",
+    "era": "III",
+    "luepMm": 161,
+    "minRadiusMm": 358
+  },
+  "description": "Die dieselelektrischen, vierachsigen Drehgestellloks der Reihe 2200 der Niederländischen Staatsbahn NS prägten in ihren Beschaffungsjahren von 1955 bis 1958 die Zeit des Traktionswandels von Dampf- auf Diesellokomotiven. Zusammen mit der Reihe 2400 wurden 280 Exemplare in Dienst gestellt. Mit ihren einseitigen Endführerständen und den langen Vorbauten verkörperten die Maschinen eine amerikanische Bauform. Die NS-Maschinen wurden jedoch ausschliesslich von westeuropäischen Firmen gefertigt. Die 100 km/h schnellen Loks liessen sich nicht nur im Güterzug- und Rangierdienst einsetzen, sondern wurden auch gern vor Reisezügen verwendet. Vor schweren Erzzügen wurden von den 900 PS starken Maschinen teilweise bis zu vier Lokomotiven in Mehrfachtraktion verwendet. Ab Werk ist ein PIKO SmartDecoder 4.1 mit mfx-Fähigkeit eingebaut, die Lok ist zudem für eine einfache Nachrüstung mit Sound und grösstmöglichem Lautsprecher vorbereitet.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "piko-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.piko-shop.de/de/artikel/diesellok-rh-2200-ns-iii-wechselstromversion-30252.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_d/oart_30252/thumbs/32307_438788.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:47Z"
+}
