@@ -63,8 +63,13 @@ def default_tag_name(slug: str) -> str:
     for p in parts:
         if p.isdigit() or re.fullmatch(r"20\d{2}", p):
             out.append(p)
-        elif p in {"piko", "roco", "db", "sbb", "oebb"}:
-            out.append(p.upper() if p != "oebb" else "ÖBB")
+        elif p in {"piko", "roco", "trix", "ree", "db", "sbb", "oebb"}:
+            if p == "oebb":
+                out.append("ÖBB")
+            elif p == "ree":
+                out.append("REE")
+            else:
+                out.append(p.upper())
         else:
             out.append(p[:1].upper() + p[1:])
     return " ".join(out)

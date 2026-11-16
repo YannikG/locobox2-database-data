@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-269S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-269S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25247",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 25247 MONTROUGE Verte avec enjoliveur Ep.IV - DIGITAL SOUND - MB269S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4082--ho-bb-25247-montrouge-verte-avec-enjoliveur-epiv-digital-sound-mb269s-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2243-large_default/-ho-bb-25247-montrouge-verte-avec-enjoliveur-epiv-digital-sound-mb269s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

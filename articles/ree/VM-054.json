@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-054",
+  "manufacturer": "REE",
+  "articleNumber": "VM-054",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "De Dion ND",
+    "number": "202",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Vivarais-Lozère n°202, Analogique - VM054",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/2314--hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-lozere-n202-analogique-vm054-0637902462430.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/390-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-lozere-n202-analogique-vm054.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

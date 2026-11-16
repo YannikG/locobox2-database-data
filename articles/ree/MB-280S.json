@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-280S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-280S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25254",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "[HO] : BB 25254 VENISSIEUX Livrée EN VOYAGE, logo Casquette, Ep.VI - DIGITAL SOUND - MB280S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4100--ho-bb-25254-venissieux-livree-en-voyage-logo-casquette-epvi-digital-sound-mb280s-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2261-large_default/-ho-bb-25254-venissieux-livree-en-voyage-logo-casquette-epvi-digital-sound-mb280s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

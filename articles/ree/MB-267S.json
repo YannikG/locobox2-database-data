@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-267S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-267S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9300",
+    "number": "BB 9307",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : BB 9307 TOULOUSE Beton Beffara Ep.V - DIGITAL SOUND - MB267S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/3892--ho-bb-9307-toulouse-beton-beffara-epv-digital-sound-mb267s-0652733591197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2237-large_default/-ho-bb-9307-toulouse-beton-beffara-epv-digital-sound-mb267s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-008",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-008",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 739.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Coffret TGV PSE n°110 CFF, 5 éléments (Motrices + Remorques R1, R8, R4 Bar), Ep. IV, Analogique - TGV008",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1679--ho-coffret-tgv-pse-n110-cff-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-analogique-tgv008.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2292-large_default/-ho-coffret-tgv-pse-n110-cff-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-analogique-tgv008.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

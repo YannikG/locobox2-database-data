@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-277S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-277S",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 90.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X 2722",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Rame RGP 1 – X 2722, METZ, Verte, avec cuisine, Ep.III-IV - DCC SOUND - MB277S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/4002--ho-rame-rgp-1-x-2722-metz-verte-avec-cuisine-epiii-iv-dcc-sound-mb277s-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2108-large_default/-ho-rame-rgp-1-x-2722-metz-verte-avec-cuisine-epiii-iv-dcc-sound-mb277s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

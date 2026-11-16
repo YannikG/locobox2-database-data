@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-053S",
+  "manufacturer": "REE",
+  "articleNumber": "VM-053S",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "De Dion ND",
+    "number": "201",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HOe/HOm] : Autorail DE DION type ND sans aérateurs, CFD Vivarais-Lozère n°201, DCC Sound - VM053S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/2313--hoe-hom-autorail-de-dion-type-nd-sans-aerateurs-cfd-vivarais-lozere-n201-dcc-sound-vm053s-0637902566053.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/388-large_default/-hoe-hom-autorail-de-dion-type-nd-sans-aerateurs-cfd-vivarais-lozere-n201-dcc-sound-vm053s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

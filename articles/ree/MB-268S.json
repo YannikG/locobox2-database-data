@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-268S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-268S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25171",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : BB 25171 CHAMBERY Verte avec enjoliveur Ep.III-IV - DIGITAL SOUND - MB268S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4050--ho-bb-25171-chambery-verte-avec-enjoliveur-epiii-iv-digital-sound-mb268s-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2240-large_default/-ho-bb-25171-chambery-verte-avec-enjoliveur-epiii-iv-digital-sound-mb268s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

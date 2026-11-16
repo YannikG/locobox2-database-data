@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-265SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-265SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9300",
+    "number": "BB 9332",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : BB 9332 VILLENEUVE Verte Origine Interphonie Ep.IV - DCC 3 RAILS - MB265SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/3887--ho-bb-9332-villeneuve-verte-origine-interphonie-epiv-dcc-3-rails-mb265sac-0652733591197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2232-large_default/-ho-bb-9332-villeneuve-verte-origine-interphonie-epiv-dcc-3-rails-mb265sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

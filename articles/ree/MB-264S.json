@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-264S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-264S",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9300",
+    "number": "BB 9310",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : BB 9310 VILLENEUVE Verte Origine Ep.III-IV - DIGITAL SOUND - MB264S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/3883--ho-bb-9310-villeneuve-verte-origine-epiii-iv-digital-sound-mb264s-0652733591197.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2228-large_default/-ho-bb-9310-villeneuve-verte-origine-epiii-iv-digital-sound-mb264s.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

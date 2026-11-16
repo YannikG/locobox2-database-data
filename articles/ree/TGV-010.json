@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-010",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-010",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 139.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Coffret de remorques TGV PSE rame n°110, 2 éléments (Remorques R3, R7), Ep. IV, DC - TGV010",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1684--ho-coffret-de-remorques-tgv-pse-rame-n110-2-elements-remorques-r3-r7-ep-iv-dc-tgv010.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/598-large_default/-ho-coffret-de-remorques-tgv-pse-rame-n110-2-elements-remorques-r3-r7-ep-iv-dc-tgv010.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

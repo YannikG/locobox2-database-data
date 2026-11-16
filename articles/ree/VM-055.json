@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-055",
+  "manufacturer": "REE",
+  "articleNumber": "VM-055",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "De Dion ND",
+    "number": "207",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Vivarais n°207, Analogique - VM055",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/2316--hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-n207-analogique-vm055-0637902233740.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/394-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-vivarais-n207-analogique-vm055.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

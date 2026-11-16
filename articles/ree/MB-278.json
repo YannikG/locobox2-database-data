@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-278",
+  "manufacturer": "REE",
+  "articleNumber": "MB-278",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25100",
+    "number": "BB 25182",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "[HO] : BB 25182 THIONVILLE Livrée FRET, logo Casquette Ep.V-VI - ANALOGIQUE - MB278",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4093--ho-bb-25182-thionville-livree-fret-logo-casquette-epv-vi-analogique-mb278-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2254-large_default/-ho-bb-25182-thionville-livree-fret-logo-casquette-epv-vi-analogique-mb278.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

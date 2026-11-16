@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-005SAC",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-005SAC",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 1059.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Coffret TGV PSE n°5, 5 éléments (Motrices + Remorques R1, R8, R4 Bar), Ep. IV, AC Sound 3 rails - TGV005SAC",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/1674--ho-coffret-tgv-pse-n5-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-ac-sound-3-rails-tgv005sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/406-large_default/-ho-coffret-tgv-pse-n5-5-elements-motrices-remorques-r1-r8-r4-bar-ep-iv-ac-sound-3-rails-tgv005sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

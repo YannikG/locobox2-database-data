@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-015SAC",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-015SAC",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V-VI"
+  },
+  "description": "[HO] : TGV RENOV 1 Rame n°91 Suspensions pneumatiques SR10 livrée atlantique SNCF Ep. V-V - DCC SOUND 3 RAILS - TGV015SAC",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/4065--ho-tgv-renov-1-rame-n91-suspensions-pneumatiques-sr10-livree-atlantique-sncf-ep-v-v-dcc-sound-3-rails-tgv015sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2274-large_default/-ho-tgv-renov-1-rame-n91-suspensions-pneumatiques-sr10-livree-atlantique-sncf-ep-v-v-dcc-sound-3-rails-tgv015sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-011",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-011",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 139.8,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": "LA POSTE",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "[HO] : TGV PSE « LA POSTE » Suspension pneumatique SNCF Ep. IV-V (1984-1994) - ANALOGIQUE - TGV011",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/4054--ho-tgv-pse-la-poste-suspension-pneumatique-sncf-ep-iv-v-1984-1994-analogique-tgv011.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2263-large_default/-ho-tgv-pse-la-poste-suspension-pneumatique-sncf-ep-iv-v-1984-1994-analogique-tgv011.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

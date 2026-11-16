@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-280",
+  "manufacturer": "REE",
+  "articleNumber": "MB-280",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25254",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "[HO] : BB 25254 VENISSIEUX Livrée EN VOYAGE, logo Casquette, Ep.VI - ANALOGIQUE - MB280",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/4099--ho-bb-25254-venissieux-livree-en-voyage-logo-casquette-epvi-analogique-mb280-0652733804501.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2260-large_default/-ho-bb-25254-venissieux-livree-en-voyage-logo-casquette-epvi-analogique-mb280.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

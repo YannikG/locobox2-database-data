@@ -3,13 +3,14 @@ from __future__ import annotations
 import re
 from typing import Optional
 
-from locobox_cli.domain.article import ArticleNumber
+from locobox_cli.domain.article import QUEUE_ARTICLE_AT_START, ArticleNumber
 from locobox_cli.domain.queue import QueueDocument, QueueEntry
 
 # Formats:
 #   21002
 #   21002\tElektrolok\tlocomotive\t129,99 EUR\t…
 #   21002  # comment
+#   MB-263S / MB 176S  (REE alphanumeric, spaces normalized)
 _META_PRICE = re.compile(
     r"(?P<price>\d+(?:[.,]\d+)?)\s*(?:EUR|€)?",
     re.I,
@@ -49,22 +50,30 @@ def parse_queue_line(line: str) -> tuple[Optional[QueueEntry], Optional[str]]:
 
     if "\t" in stripped:
         parts = [p.strip() for p in stripped.split("\t")]
+        if not parts or not parts[0]:
+            return None, None
+        article = ArticleNumber.parse(parts[0])
+        kind = parts[1] if len(parts) > 1 else None
+        section = parts[2] if len(parts) > 2 else None
+        price_raw = parts[3] if len(parts) > 3 else None
     else:
-        parts = stripped.split()
+        m = QUEUE_ARTICLE_AT_START.match(stripped)
+        if not m:
+            raise ValueError(f"not an article number: {stripped!r}")
+        article = ArticleNumber.parse(m.group("article"))
+        rest = stripped[m.end() :].strip()
+        parts = rest.split() if rest else []
+        kind = parts[0] if parts else None
+        section = parts[1] if len(parts) > 1 else None
+        price_raw = parts[2] if len(parts) > 2 else None
 
-    if not parts:
-        return None, None
-
-    article = ArticleNumber.parse(parts[0])
-    kind = parts[1] if len(parts) > 1 else None
-    section = parts[2] if len(parts) > 2 else None
     price_eur: Optional[float] = None
-    if len(parts) > 3:
-        price_eur = _parse_price(parts[3])
+    if price_raw is not None:
+        price_eur = _parse_price(price_raw)
         if price_eur is None:
-            m = _META_PRICE.search(parts[3])
-            if m:
-                price_eur = _parse_price(m.group("price"))
+            pm = _META_PRICE.search(price_raw)
+            if pm:
+                price_eur = _parse_price(pm.group("price"))
 
     return (
         QueueEntry(

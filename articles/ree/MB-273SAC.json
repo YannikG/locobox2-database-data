@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-273SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-273SAC",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 120.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X2771",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Rame RGP 1 à 3 éléments - X2771 - X2780, Le PARSIFAL, Rouge TEE, 3 feux, Ep.III-IV - AC SOUND - MB273SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3991--ho-rame-rgp-1-a-3-elements-x2771-x2780-le-parsifal-rouge-tee-3-feux-epiii-iv-ac-sound-mb273sac-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2087-large_default/-ho-rame-rgp-1-a-3-elements-x2771-x2780-le-parsifal-rouge-tee-3-feux-epiii-iv-ac-sound-mb273sac.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-TGV-014",
+  "manufacturer": "REE",
+  "articleNumber": "TGV-014",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 149.98,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV PSE",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "[HO] : TGV RENOV 1 Rame n°91 Suspensions pneumatiques SR10 livrée atlantique SNCF Ep. V-VI - ANALOGIQUE - TGV014",
+  "categories": [
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/machines/4061--ho-tgv-renov-1-rame-n91-suspensions-pneumatiques-sr10-livree-atlantique-sncf-ep-v-vi-analogique-tgv014.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2270-large_default/-ho-tgv-renov-1-rame-n91-suspensions-pneumatiques-sr10-livree-atlantique-sncf-ep-v-vi-analogique-tgv014.jpg"
+  },
+  "updatedAt": "2026-11-15T22:35:45Z"
+}
