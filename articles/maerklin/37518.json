@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37518",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37518",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 56",
+    "number": "814",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 211.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive der Baureihe 56.2-8 der Deutschen Bundesbahn (DB). Umgebaute preussische G 8.1 mit Vorlaufachse. Mit DRB -Lampen an Lok und Tender, ohne Läutewerk. Kohlen- Schlepptender der Bauart 3T 16,5. Betriebsnummer 56 814. Betriebszustand ab 1950 beim Bw Nördlingen.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz 72270 kann nachgerüstet werden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden ( LED ). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok Kurzkupplung mit NEM -Schacht. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Beiliegend Kolbenstangenschutzrohre, Bremsleitungen sowie Schraubenkupplungsimitation. Länge über Puffer 21,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37518",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/6f/e16f77a497a9071ee58389d1fcc5ec6d1611227446.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

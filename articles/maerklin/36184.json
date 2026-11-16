@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36184",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36184",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 239.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ELL",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe 193 Vectron der ELL vermietet an das schwedische Verkehrsunternehmen Snälltåget. Gebaut von Siemens als Serienlokomotive aus dem Vectron-Typenprogramm. Betriebszustand 2018.\n\nModell: Elektrolokomotive in Metallausführung, mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36184",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bc/b9/bcb96a85c822dc2ac2e5a279304b47d31543302016.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

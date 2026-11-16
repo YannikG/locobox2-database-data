@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39754",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39754",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 75.4",
+    "number": "407",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 146.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Tenderdampflokomotive BR 75.4 (ehemalige badische VI c) der Deutschen Bundesbahn (DB). Ausführung mit Zweilicht-Spitzensignal , Rauchkammertür mit Zentralverschluss und genieteten Wasserkästen. Betriebsnummer 75 407. Betriebszustand um 1953.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39754",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4b/d2/4bd25e6cdf5c7891118c61a62ca3ed8b1639724464.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

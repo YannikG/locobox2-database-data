@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37278",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37278",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Rh 1200",
+    "number": "1210",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1200 der Niederländischen Eisenbahnen ( NS ). Grau/Gelbe Grundfarbgebung. Betriebsnummer 1210. Betriebszustand ab 1972.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Rangierlicht schaltbar. Beleuchtung mit wartungsfreien warmweissen, gelben und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Separat angesetzte Griffstangen aus Metall. Bremsleitungen liegen als separat ansteckbare Teile bei. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37278",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c7/05/c705ead8cd4e2c8dfe1ca8190bea76211765832410.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

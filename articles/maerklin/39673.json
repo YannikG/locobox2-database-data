@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39673",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39673",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 299.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 1600",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 1600 der Luxemburgischen Staatsbahnen ( CFL ). NOHAB-Mehrzweckmaschine in weinroter Farbgebung der Epoche III.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Führerstandsbeleuchtung an Lokseite 1 und 2 jeweils digital separat schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39673",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/2f/902fe2424feb2f2043c24057649b647a1434539290.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

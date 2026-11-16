@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37148",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37148",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 295.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung T 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive der preussischen Gattung T 3 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV), spätere Baureihe 89.70-75. Loknummer 6135 HALLE. Diese Lok wurde 1898 von Henschel in Kassel unter der Fabriknummer 4938 gebaut.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37148",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/b3/03b365cbdac2ee7cdb8da3c451e10c101571292013.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

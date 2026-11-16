@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37015",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37015",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 499.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Schnellzug-Dampflokomotive mit Schlepptender.",
+    "number": "3201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 251.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der bayerischen Gattung S 2/6 in dunkelgrün/schwarzer Grundfarbgebung der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Mit goldenen Kesselringen. Raddurchmesser im Original: 2,20m. Lok-Betriebsnummer 3201. Betriebszustand um 1906/07.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Eingerichtet für Raucheinsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht und Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Detailliertes Fahrwerk mit durchbrochenem Barrenrahmen. Windschnittige Verkleidung von Rauchkammer, Kamin, Dom und Zylindergruppe sowie windschnittig gestaltetes Führerhaus. Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen separat bei. Länge über Puffer 25,1 cm. Lokomotive ist in einer dekorativen Holzkassette verpackt. Booklet über die Geschichte der S 2/6 liegt bei.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37015",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/f9/0cf9dce3871bed117613af6b1ddb4d9a1434538720.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39382",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39382",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 489.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 038",
+    "number": "382-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 213.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Schlepptender Baureihe 038 der Deutschen Bundesbahn (DB). Ehemalige preussische P8. Ausführung mit Dreilicht-Spitzensignal , zwei Kesselaufbauten, Läutewerk, normalem preussischen Führerhaus, Witte-Windleitblechen, Kohlekastenaufsatz und Indusi . Betriebsnummer 038 382-8. Betriebszustand um 1970/71.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Eingerichtet für Rauchsatz 72270. Feuerflackern digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen sind beigelegt. Länge über Puffer ca. 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39382",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/95/b7/95b75178b847e10de1c1c0894f0d3b6c1637845246.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

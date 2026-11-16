@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30380",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30380",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 240.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Bauart BB 9200",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Elektrolokomotive Bauart BB 9200 der Französischen Staatsbahnen ( SNCF ). Grüne Grundfarbgebung. Mit Scheren-Stromabnehmern. Lok-Betriebsnummer BB 9278. Betriebszustand Mitte der 1970er-Jahre.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Kupplungshaken mit Vorentkupplung. Verpackung mit colorierter Darstellung der Lok, in Anlehnung an die historische Verpackung der damaligen Zeit. Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30380",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/32/91/32910375358776bc9c8abb2ae6d2830d1575442808.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

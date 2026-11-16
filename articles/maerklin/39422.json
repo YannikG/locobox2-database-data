@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39422",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39422",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 340.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4",
+    "number": "409",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 4/4 (spätere Re 4/4 I) der Schweizerischen Bundesbahnen ( SBB ) aus der ersten Bauserie. Saphirblaue Grundfarbgebung. Ursprungsausführung mit stirnseitigen Übergangstüren und Übergangsblechen. Lok-Betriebsnummer 409. Betriebszustand um 1957-59.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Separat angesetzte Dachlauftritte. Eingesetzte Griffstangen aus Metall. Darstellung der stirnseitigen Übergangsbleche und Handgriffe. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39422",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/b3/17b3378064421867af99442ba9266a041577170829.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

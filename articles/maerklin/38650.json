@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38650",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38650",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 469.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie CC 65000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 228.0
+  },
+  "description": "Vorbild: Dieselelektrische Lokomotive Serie CC 65000 der Französischen Staatsbahnen ( SNCF ). Mehrzweckmaschine für den Schnellzug- und Güterverkehr. Betriebszustand der Epoche III.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils 2 Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Rangier-Beleuchtung. Führerstandbeleuchtung und Fahrpultbeleuchtung separat digital schaltbar. Maschinenraum-Beleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. 2 Stück serienmässig eingebaute Rauchgeneratoren mit dynamischem Rauchausstoss. Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer ca. 22,8 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38650",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/8f/038f294784121fb60eee0ee6a5b298901794411905.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37301",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37301",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 289.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SOB",
+    "type": "Serie Re 4/4 IV",
+    "number": "017-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie Re 4/4 IV als Reihe 446 der Schweizer Südostbahn (SOB). Beide Längsseiten mit unterschiedlichen ganzflächigen Motiven gestaltet. Lok-Seite 1 \"Ein Hauch Sehnsucht...\", Lok-Seite 2 \"Ein Hauch Fernweh...\". Lok-Betriebsnummer 446 017-6. Aktueller Betriebszustand 2018.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37301",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3f/24/3f24ef790db72be85428b9450a4726ba1541778193.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30302",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30302",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 290.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "BJ",
+    "type": "Reihe Da",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 147.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe Da. Museumslokomotive der Bergslagernas Järnvägssällskap (BJ), Göteborg. Lok-Betriebsnummer Da 896. Betriebszustand in aktueller Museumsausführung.\n\nModell: Replika-Modell auf Basis des Märklin-Klassikers Artikel 3030. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. Erhabener \"Märklin\"-Schriftzug und erhabene Artikelnummer am Lokgehäuse. An beiden Lokseiten Relex - Kupplung . Länge über Puffer 14,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30302",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5d/33/5d33315e335e64c9e757bb6515b820701567576815.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37026",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37026",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 399.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Litra T 297",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Personenzuglokomotive Litra T 297 der Dänischen Staatsbahnen (DSB). Ehemalige deutsche P 8. Kessel mit 3 Domen ohne Windleitbleche. Vierachsiger Kastentender .\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel eingebaut. 3 Achsen angetrieben. Haftreifen . Rauchsatz 72270 nachrüstbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Fahrtrichtungsabhängig wechselndes Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand . Bremsschläuche, Vorbildkupplungen und Kolbenstangenschutzrohre ansteckbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37026",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0b/ed/0bed11a9a0baec73bfbc18e2221833291524895237.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

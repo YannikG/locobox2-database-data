@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39861",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39861",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 299.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "PL",
+    "operator": "CTL Logistics",
+    "type": "BR 189",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 189 des Privatunternehmens CTL Logistics. Mehrsystemlokomotive mit 4 Dachstromabnehmern. Betriebszustand in Epoche VI.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015",
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39861",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d7/46/d7464a53ec5d73c6d6b72ebb475668631467641278.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

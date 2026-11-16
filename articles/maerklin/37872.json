@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37872",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37872",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 379.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 193",
+    "number": "012-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Baureihe 193 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Lok-Betriebsnummer 193 012-2. Betriebszustand um 1977.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils 2 Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung fahrtrichtungsabhängig digital schaltbar. Zusätzlich kann eine Anfahrlampe fahrtrichtungsabhängig digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Serienmässig mit Lokführer-Figur im Führerstand 1. Angesetzte Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Kupplungshaken liegen separat bei. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37872",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cb/8f/cb8fa0092a4edee547910f95de09d0ef1512123226.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

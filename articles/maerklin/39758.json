@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39758",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39758",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 380.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 75.4",
+    "number": "1116",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 146.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Mehrzweck-Tenderdampflokomotive BR 75.4 (ehemalige badische VI c) der Deutschen Reichsbahn (DR) der DDR. Ausführung mit Zweilicht-Spitzensignal mit elektrischen Lampen Bauart DRB und genieteten Wasserkästen. Betriebsnummer 75 1116. Betriebszustand um 1964.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Serienmässig eingebauter Rauchsatz. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39758",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/92/d3/92d35fd962f290253d22c7b158ecfb3f1577170809.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39030",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39030",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 449.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schnellzug-Dampflokomotive mit Schlepptender",
+    "number": "537",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 265.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 18.5 der Deutschen Bundesbahn (DB), mit Schlepptender 2´2´T31,7. Mit kurzen Wagner-Windleitblechen, geradem Führerhaus, Reichsbahn-Lampen unten, DB-Reflexglaslampen oben und Puffertellerwarnanstrich. Betriebsnummer 18 537. Betriebszustand um 1958/59.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung und das Feuerbüchsenflackern digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche sowie Lokführer-Figur und Heizer-Figur liegen bei. Länge über Puffer 26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39030",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/0e/e80e5cb84ad52bd2a829e7e8e77f43211434539442.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

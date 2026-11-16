@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39478",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39478",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": "131-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Farbgebung in Verkehrsrot, als Zuglokomotive für die ICE-Schnellzugwagen der ehemaligen Metropolitan-Reisezugwagen (MET). Lok-Betriebsnummer 101 131-1. Betriebszustand um 2015.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer und Führerstandbeleuchtung separat digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). An Lokseite 2 ist eine 2-polige Kupplung im Normschacht eingesteckt, als elektrische Verbindung zum Schnellzugwagen 1 aus ICE-Schnellzugwagen-Set 42930. An Lokseite 1 ist ein normaler Kurzkupplungskopf im Normschacht eingesteckt. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39478",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/5b/d15bd6420744636810d1e04c18d5b2561765839614.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

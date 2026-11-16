@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36844",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36844",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 199.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2016",
+    "number": "021-5",
+    "livery": "Hercules",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Dieselelektrische Mehrzwecklokomotive Reihe 2016 (\"Hercules\") der Österreichischen Bundesbahnen ( ÖBB ). Betriebsnummer 2016 021-5.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36844",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/72/4272c55e12a7faba9fb348881e1b4daf1466696301.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

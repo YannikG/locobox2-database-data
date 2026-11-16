@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38190",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38190",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 679.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 19.0",
+    "number": "016",
+    "livery": "Sachsenstolz",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 260.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 19.0 \"Sachsenstolz\" (Sächsische Gattung XX HV), mit sächsischem Kohlen- Schlepptender 2´2 T31. Deutsche Reichsbahn der DDR (DR/DDR). Mit grossen Windleitblechen. Lok-Betriebsnummer 19 016. Betriebszustand Epoche IIIa, Anfang der 1950er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung und Feuerbüchsenflackern jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Schwenkbare Führerstandtüren und Imitation der Vorhänge zwischen Führerstand und Tender. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius R2 437,5 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,0 cm. Hinweis: Ab Werk für Mindestradius R 2 (437,5 mm) spezifiziert; bei vorsichtiger/ reduzierter Fahrweise ist der Betrieb auf R 1 (ca. 360 mm) möglich.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38190",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/b3/f9b3c249fb0057d5394f6b1ed78ac2611758783620.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

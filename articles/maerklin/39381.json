@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39381",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39381",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung P8",
+    "number": "2424",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 213.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Gattung P8 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Ausführung mit Zweilicht-Spitzensignal , Gaslaternen, zwei Kesselaufbauten ( Dampfdom – Sandkasten ), Stangenpuffern, normalem preussischem Führerhaus, ohne Windleitbleche und mit Kastentender ohne Aufsatz. Betriebsnummer 2424. Betriebszustand um 1915.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben, zwei Achsen über Kuppelstangen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Eingerichtet für Rauchsatz 72270. Feuerbüchsenflackern digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Stromführende Kupplung am Tender digital schaltbar. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen sind beigelegt. Länge über Puffer ca. 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39381",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/d6/fad65ce507304e1ecc924f7c6423b3e11738666809.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

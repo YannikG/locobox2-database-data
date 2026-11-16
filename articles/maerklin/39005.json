@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39005",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39005",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 499.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 01 202",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01 202 mit Kohlen- Schlepptender 2´2´T34. Ausführung als Museumslokomotive des Schweizer Vereins Pacific 01 202. Mit Altbaukessel, silbernen Kesselringen, gekürztem Umlauf, Witte-Windleitblechen und Indusi . Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Feuerbüchsenflackern zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Im Tender ist eine Mechanik zum Absenken der Kohlenbeladung eingebaut, um damit im Spielewelt -Modus auch optisch den Kohlenverbrauch im Tender darzustellen. Für nicht mfx+ fähige Digital-Zentralen kann das Senken und Heben der Kohlenbeladung über Sonderfunktion F8 ausgelöst werden. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche, Lokführer-Figur und Heizer-Figur liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39005",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bf/54/bf54bb4263eb9fb0e54cb466d928a0651513580437.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

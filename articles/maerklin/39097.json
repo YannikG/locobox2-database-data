@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39097",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39097",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 449.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 95.0 mit Ölfeuerung",
+    "number": "0041-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 175.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 95.0 (ehemalige preussische T 20) der Deutschen Reichsbahn (DR/DDR). Ausführung mit Ölfeuerung. Mit 3-Licht- Spitzensignal , Turbodynamo, DRB -Laternen, 3 Aufbauten, geschweissten Wasservorrats-Behältern. Betriebsnummer 95 0041-4. Betriebszustand um 1978.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Vorbereitet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). An beiden Lok-Enden kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39097",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/61/6c61077e1878493cf5eef87b7d9deaaf1585292419.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

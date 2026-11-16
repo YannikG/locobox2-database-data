@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36509",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36509",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 84.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Henschel EA 500",
+    "number": null,
+    "livery": "Henschel 290",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 105.0
+  },
+  "description": "Vorbild: Elektrolokomotive der Bauart Henschel EA 500.\n\nModell: Lokomotive mit mfx Digital- Decoder und Spezialmotor. 1 Achse angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Stromabnehmer zum manuellen Heben und Senken. Kupplungshaken . Länge über Puffer 10,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36509",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/c8/17c8e109e935ca7c3d01efeb65f07ce81601013626.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

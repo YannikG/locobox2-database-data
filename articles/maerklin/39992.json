@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39992",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39992",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 479.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1020",
+    "number": "1020.27",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 214.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Reihe 1020 (ex BR E 94) der Österreichischen Bundesbahnen ( ÖBB ). Tannengrüne Grundfarbgebung. Lok-Betriebsnummer 1020.27. Betriebszustand um 1955.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Antrieb auf jeweils zwei Achsen je Treibgestell . Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung jeweils separat digital schaltbar. Zusätzlich kann eine Anfahrlampe fahrtrichtungsabhängig digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 21,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39992",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/87/7a876283678fb38beb533f0c101324c71631167226.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

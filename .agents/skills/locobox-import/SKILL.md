@@ -81,14 +81,16 @@ uv run locobox shop fetch --source SOURCE \
   --delay-min 2.5 --delay-max 6.0
 ```
 
-`SOURCE`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `acme` (Shop/Flyer). `jouef` für `catalog extract`; Shop-Fetch/Parse für Jouef noch Stub.
+`SOURCE`: `piko` | `roco` | `trix` | `ree` | `lsmodels` | `maerklin` | `acme` | `bemo` (Shop/Flyer). `jouef` für `catalog extract`; Shop-Fetch/Parse für Jouef noch Stub.
 
 - concurrency 1, `--skip-existing` default
 - HTML-Cache landet unter `.tmp/import/CAMPAIGN/html/` (nicht committen)
 - bei Block: stoppen, `.tmp/import/CAMPAIGN/blocked.txt` prüfen, ggf. Delay erhöhen / später Pro-Cloak
 - **kein** Glass/`cursor-ide-browser` für Batches, **kein** Chrome-MCP-Import
 - Trix: Produktdatenbank `trix.de/de/produkte/details/article/{nr}` (maerklinshop-Suche oft unbrauchbar für Neuheiten)
+- Märklin: Produktdatenbank `maerklin.de/de/produkte/details/article/{nr}` (gleiche Vorbild/Modell-HTML-Form wie Trix). **Allowlist:** Host `www.maerklin.de` nur in einem **allowlist-only**-PR. UVP aus Katalog-Preisindex in die Queue schreiben, sonst `uvp.amount` 0. Nach Parse: HTML mit H1/`description` «Suchen» = kaputter Fetch → verwerfen und nachziehen. Details: [wiki-maerklin-shop-parsing.md](../lok-numbering-article-review/internal/wiki-maerklin-shop-parsing.md).
 - LS Models: PrestaShop `lsmodels.eu/de/suche?…&s={nr}` → PDP (interne Shop-ID in der URL). Katalog-SKUs `16 075` → `16075`; Sound-`S` und Models-World `MW…` vorerst übersprungen. Shop oft ohne UVP.
+- ACME: Flyer-URL / pdftotext, kein HTML-Shop.
 
 ### 4. Parse + shared Pipeline
 
@@ -145,13 +147,13 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 
 | Feld | Wert |
 |------|------|
-| **Hersteller** | PIKO \| Roco \| Trix \| REE \| LS Models \| Jouef |
+| **Hersteller** | PIKO \| Roco \| Trix \| REE \| LS Models \| Jouef \| Märklin \| ACME \| BEMO |
 | **Import-Tag** | `{IMPORT_TAG}` \| ohne Tag |
 | **Kampagne (Working-Dir)** | `{CAMPAIGN}` unter `.tmp/import/` |
 | **Branch** | `{branch}` |
 | **Kandidaten / Approved** | `{N}` / `{M}` |
 | **Fetch** | ok={OK} fail={FAIL} skipped={S} blocked={yes/no} \| Jouef: catalog-only |
-| **JSON** | `{COUNT}` unter `articles/{piko\|roco\|trix\|ree\|lsmodels\|jouef}/` |
+| **JSON** | `{COUNT}` unter `articles/{piko\|roco\|trix\|ree\|lsmodels\|jouef\|maerklin\|acme\|bemo}/` |
 | **Pipeline/Rules** | {kurz} |
 | **Loknummer-Review** | Pass 1 / Phase 2 Status (Skill `lok-numbering-article-review`) |
 | **Logikchecks / patch** | {kurz} |
@@ -165,10 +167,11 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 2. **Eine Pipeline nach Raw** — Fixes primär `rules/**/*.yaml`, dann `articles set-field`/`patch`.
 3. **Agent entscheidet Tool-Reihenfolge**, erfindet aber keine parallele MCP-/Utils-Pipeline.
 4. **Schweizer Text:** Umlaute, kein ß (Pipeline macht swiss-ss).
-5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix|ree|lsmodels|acme` (ACME: Flyer-URL / pdftotext; Jouef: Catalog zuerst, Shop-Stub).
+5. Keine parallele MCP-/Utils-Pipeline. Shop läuft nur über `shop fetch/parse --source piko|roco|trix|ree|lsmodels|maerklin|acme|bemo` (ACME: Flyer-URL / pdftotext; Jouef: Catalog zuerst, Shop-Stub).
 6. **Auto-Tag:** User nach Tag fragen; vorher `tags ensure`; Existing nicht überschreiben (skip oder `--append-tag-if-exists` / `articles append-tag`).
 7. **`.tmp/` only for scrapes** — PDFs, Katalogtext, Live-HTML, Logs, Queues nur unter `.tmp/` (gitignored). Keine vollen Shop-PDPs in `tests/fixtures/` oder sonst commitbaren Pfaden.
 8. **Nach Parse immer `lok-numbering-article-review`** — Skill lesen und starten (Pass 1 mindestens). Import ohne diesen Schritt ist nicht fertig; Handoff erst danach bzw. mit klarem Review-Status.
+9. **Allowlist-Stack:** Neuer Source-Host nur in einem PR, der **ausschliesslich** `config/allowed-source-hosts.json` ändert. Import-/CLI-Änderungen in einen **zweiten** PR auf den Allowlist-Branch (oder nach Merge auf `master`) legen. Nie Allowlist und Artikel/Tools im selben Diff.
 
 ## Verweise
 

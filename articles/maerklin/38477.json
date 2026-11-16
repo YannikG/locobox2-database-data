@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38477",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38477",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 599.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CZ",
+    "operator": "CD",
+    "type": "BR 477.0",
+    "number": null,
+    "livery": "Papagei",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 199.0
+  },
+  "description": "Vorbild: Schwere Tender-Dampflokomotive Baureihe 477.0 mit dem Spitznamen Papagei. Ausführung als Museumslokomotive 477.043 der Tschechischen Staatsbahn ( ČD ), wie sie bis 2021 betriebsfähig im Einsatz war.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben. Drei weitere Achsen werden über Kuppelstangen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Front und Zweilicht-Spitzensignal am Lokende konventionell in Betrieb, digital schaltbar. Oberes Spitzenlicht separat schaltbar. Beleuchtetes Loknummernschild am oberen Spitzenlicht integriert und funktionsfähig. Führerstands- und Fahrwerkbeleuchtung sowie Feuerbüchsenflackern digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Pufferhöhe nach NEM . Bremsschläuche, Heizschläuche, Schraubenkupplungsimitationen und geschlossene Schienenräumer liegen als separat ansteckbare Teile bei. Befahrbarer Mindestradius R1 = 360 mm. Länge über Puffer ca. 19,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38477",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/d6/fad6e4d3389e71d765fb8b71d7cf30dc1765839604.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

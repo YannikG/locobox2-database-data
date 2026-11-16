@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36344",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36344",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 279.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 333",
+    "number": "009-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 90.0
+  },
+  "description": "Vorbild: Dieselrangierlokomotive Baureihe 333 (Köf III) der Deutschen Bundesbahn (DB) in Epoche IV. Farbgebung in ozeanblau/elfenbein. Ausführung mit Rangierfunkantenne. Betriebsnummer 333 009-9. Betriebszustand um 1980.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an beiden Seiten abschaltbar. Neue Telex - Kupplung vorne und hinten getrennt digital schaltbar. Griffstangen angesetzt. Bremsleitungen liegen bei. Länge über Puffer ca. 9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36344",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/8f/d98fcc7d641c4a6b512a304ed22abf281543302017.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

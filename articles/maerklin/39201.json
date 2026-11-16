@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39201",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39201",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 220",
+    "number": "274",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 202.0
+  },
+  "description": "Vorbild: Diesellokomotive BR 220 der Deutschen Bahn AG ( DB AG ), auch bekannt unter dem Spitznamen „Taigatrommel“. Mit Schalldämpfer sowjetischer Bauart, Ansauggitter mit senkrechten Lamellen und Kühlerlüfter mit Flatterlamellen. Betriebszustand 1994. Betriebsnummer 220 274.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Seitlich angesetzte Griffstangen aus Metall. Frontschürzen gegen geschlossene Frontschürzen austauschbar. Das DB AG Logo liegt als Schiebebild bei. Länge über Puffer ca. 20,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39201",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/cd/facddbb8e4a5969d0c58d974650fd2511705572006.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

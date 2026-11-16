@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39321",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39321",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 469.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "320 001-1",
+    "number": "001-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 264.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive der Baureihe 320, mit Windabweiser an den Führerstandsfenstern und Zugbahnfunk-Antenne. Gelbe Grundfarbgebung. Privatbahn-Lokomotive der Firma Wiebe Holding GmbH & Co. KG. Lok-Betriebsnummer 320 001-1. Betriebszustand um 2015.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. 2 Lautsprecher für eine optimale Loksound-Wiedergabe. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandbeleuchtung und Maschinenraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). 4 bewegliche Lüfterräder mit je einem Motor angetrieben und paarweise separat digital schaltbar. Unterschiedliche Geschwindigkeiten der Lüfterräder möglich. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39321",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ea/be/eabe4c800b1f4d850c22166a066faab81635249629.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

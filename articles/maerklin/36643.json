@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36643",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36643",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 289.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "BR 187",
+    "number": "108-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 187 ohne Flex-Panel der MRCE. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX 3-Typenprogramm. Tiefschwarze Grundfarbgebung. Betriebsnummer 187 108-6. Betriebszustand ab 2022.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). 2 mechanisch funktionsfähige Dachstromabnehmer . Vorbildgerechte Nachbildung der Seitenflächen ohne Flex-Panel. Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36643",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/4b/e24b23e0782a801c03eb69d4fd9974931702735214.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}

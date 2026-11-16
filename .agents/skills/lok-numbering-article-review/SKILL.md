@@ -69,7 +69,7 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 - **`autofill_categories_from_roco_url.py`** — wenn **`categories`** leer sind und **`source.url`** eindeutig Roco ist (`…/dampf-|diesel-|elektrolokomotiven/…`, `…/triebzuge/…`, oder `…/home-neuheiten/…` mit passendem Slug): setzt **`lokomotive`** plus passende Lok-Kategorie, bzw. **`triebwagen`** + `elektrotriebwagen` / `dieseltriebwagen` / `akkutriebwagen` (**ohne** `lokomotive`) bei Triebwagen-Slug (sonst kein Schreiben).
 - **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (gleiche Parent-Regel Triebwagen vs. Lok; **kein** Ersatz für Typ-/Nummer-Review).
 - **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
-- **`autofix_trix_shop_import.py`** — Trix-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`.
+- **`autofix_trix_shop_import.py`** — Trix- **und Märklin**-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`; generische H1 → Typ aus Vorbild), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`. Details: [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md).
 - **`autofix_ree_shop_import.py`** — REE Modèles Shop: SNCF ``BB``/``CC`` Serie vs. Laufnummer (auch wenn ``number`` noch Präfix trägt), Pacific ``231 K/G`` / ``141 D``, Moyse/040 DE/RGP-Kurztypen, Operator/Epoche/`dampflokomotive` aus Text; Referenz [reference-sncf-type-number.md](reference-sncf-type-number.md).
 - **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
@@ -181,6 +181,17 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 - **`operator` «Privatbahn»** ohne `country` → Livery-Anker-Tabelle?
 - **Parser-Artefakte** in Nebenfeldern (z. B. unrealistisches `minRadiusMm`) → Finding, kein Nummern-Split
 
+#### Pass 1: Märklin / Trix Produktdatenbank (Tag `maerklin-*` / `trix-*`)
+
+Gegen [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md) prüfen:
+
+- **`model.type`** nur Klassenwort (`Elektrolokomotive`, …) → Typ aus Vorbild fehlt?
+- **`type`/`description` = `Suchen`** → kaputter Fetch (Suchseite), Katalog-Nachzug nötig?
+- **`uvp.amount` 0** → Katalog-Preisindex nachziehen (Formate je Jahr unterschiedlich)?
+- **Operator `Unbekannt`**, obwohl Vorbild `( NS )` / EVU-Name trägt?
+- **`Rh`** nur bei NL/NS; ÖBB/SBB `Reihe`/`Re` nicht als Rh lassen
+- Autofix zuerst: `autofix_trix_shop_import.py` (Scope `articles/maerklin` oder `articles/trix`)
+
 **Bewusst nicht** Loknummer-Skill: `releaseDate`, Kampagnen-Tags, Katalog-vs.-Shop-Vollständigkeit.
 
 ### Phase 2: Datei für Datei
@@ -212,6 +223,7 @@ Zusätzlich zu den allgemeinen Feldern pro Datei gegen [internal/wiki-piko-shop-
 | Splitting `model.type` / `model.number` | [internal/field-parsing-model.md](internal/field-parsing-model.md) |
 | Modell-`electricSystem` (DC/AC am Modell) | [internal/field-parsing-model.md](internal/field-parsing-model.md) («Modell-Stromsystem») |
 | PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
+| Märklin / Trix Produktdatenbank | [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md) |
 | Shop-Import-Workflow (PDF → Queue → Fetch → Pipeline) | Skill [locobox-import](../locobox-import/SKILL.md), CLI [`tools/cli`](../../../tools/cli/README.md) |
 | Privatbahn → Land (Livery-Anker) | [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |

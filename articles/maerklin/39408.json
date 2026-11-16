@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39408",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39408",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 329.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 18",
+    "number": "1804",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 253.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie 18 der Belgischen Staatsbahnen (SNCB/NMBS). Viersystem-Lokomotive für ganz Frankreich, Benelux und Deutschland. Betriebszustand um 1980. Betriebsnummer 1804.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Eingesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer . Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Länge über Puffer 25,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39408",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/51/2d/512dfa8cbe1452051bf9679fd16a73381467641226.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36217",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36217",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 182.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 216 der Deutschen Bahn AG ( DB AG ). Ausführung in purpurroter Farbgebung. Betriebszustand um 1995.\n\nModell: Technikvariante. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Länge über Puffer 18,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36217",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/05/340593f358d4ddfcfd5ce4df611bcbea1789722004.jpg"
+  },
+  "updatedAt": "2026-11-16T09:09:39Z"
+}

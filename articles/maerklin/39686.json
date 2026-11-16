@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39686",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39686",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Di3",
+    "number": "3.613",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Typ Di3 der Norwegischen Staatsbahnen (NSB). NOHAB-Mehrzwecklokomotive in olivgrüner Farbgebung der Epoche III. Betriebsnummer 3.613.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Führerstandbeleuchtung separat digital schaltbar, mit der Fahrtrichtung wechselnd. Rangiergang mit Rangierlicht schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Angesetzte Nachbildung des Gitters an den Frontscheiben aus Kunststoff. Führerstände mit Relief-Inneneinrichtung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39686",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/36/66/3666f701a156c709cbb12974c89831c01671865219.jpg"
+  },
+  "updatedAt": "2026-11-16T09:14:53Z"
+}
