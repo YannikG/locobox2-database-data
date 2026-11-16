@@ -50,9 +50,14 @@ def _html_has_article_sku(html: str, article: str) -> bool:
         return False
     markers = (
         f'"sku":"{art}"',
+        f'"reference":"{art}"',
         f"Artikelnummer: <span>{art}</span>",
         f'Artikelnummer:</td><td class="attribute-value">{art}</td>',
         f"Art.Nr. {art}",
+        f"Artikel-Nr.: {art}",
+        f"Artikel-Nr. {art}",
+        f'itemprop="sku" >{art}<',
+        f'itemprop="sku">{art}<',
         f'data-main-ordernumber="T{art}"',
         f'data-main-ordernumber="M{art}"',
         f'data-main-ordernumber="L{art}"',
@@ -94,6 +99,15 @@ def _redirect_pdp_url(page, site: ShopSite, article: str) -> Optional[str]:
     if site.slug == "ree" or "ree-store.com" in (page.url or "").lower():
         if site.is_pdp_url(url, article):
             return url
+        return None
+    if site.slug == "lsmodels" or "lsmodels.eu" in (page.url or "").lower():
+        if site.is_pdp_url(url, article):
+            try:
+                html = page.content()
+            except Exception:
+                return None
+            if _html_has_article_sku(html, article):
+                return url
         return None
     if "maerklinshop" in (page.url or "").lower() or site.slug in {
         "maerklin",
@@ -151,9 +165,52 @@ def _is_maerklin_shop(site: ShopSite) -> bool:
     return "maerklinshop.de" in site.search_url("0")
 
 
+def _find_lsmodels_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
+    """Match product miniature by Artikel-Nr.; PDP path has internal PrestaShop id only."""
+    art = article.strip().replace(" ", "")
+    try:
+        href = page.evaluate(
+            """(art) => {
+              const boxes = [...document.querySelectorAll(
+                'article.js-product-miniature, article.ajax_block_product, .js-product-miniature'
+              )];
+              const wanted = [
+                'Artikel-Nr.: ' + art,
+                'Artikel-Nr. ' + art,
+                'Reference: ' + art,
+              ];
+              for (const box of boxes) {
+                const ref = box.querySelector('.pro_list_reference, [itemprop="sku"]');
+                const refText = ((ref && ref.innerText) || '').replace(/\\s+/g, ' ').trim();
+                // Exact SKU only (skip Sound "16075 S").
+                if (!wanted.includes(refText)) {
+                  const blob = ((box.innerText || '') + ' ' + refText).replace(/\\s+/g, ' ');
+                  const hit = wanted.some((w) => blob.includes(w))
+                    && !blob.includes(art + ' S')
+                    && !blob.includes(art + 'S');
+                  if (!hit) continue;
+                }
+                const a = box.querySelector('a[href*=".html"]');
+                if (a && a.href) return a.href;
+              }
+              return null;
+            }""",
+            art,
+        )
+    except Exception:
+        return None
+    if href and site.is_pdp_url(href, art):
+        return href
+    return None
+
+
 def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
     if _is_maerklin_shop(site):
         found = _find_maerklin_pdp_href(page, site, article)
+        if found:
+            return found
+    if site.slug == "lsmodels":
+        found = _find_lsmodels_pdp_href(page, site, article)
         if found:
             return found
     links = page.eval_on_selector_all(
@@ -162,6 +219,9 @@ def _find_pdp_href(page, site: ShopSite, article: str) -> Optional[str]:
     )
     for href in links:
         if site.is_pdp_url(href, article):
+            # LS Models / Märklin-style: URL has no SKU; require miniature match above.
+            if site.slug == "lsmodels":
+                continue
             return href
     return _redirect_pdp_url(page, site, article)
 

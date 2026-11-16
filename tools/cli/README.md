@@ -38,7 +38,7 @@ uv run locobox catalog extract --source piko -t .tmp/piko_catalog.txt \
   --campaign demo --min-price-eur 120
 ```
 
-## Shop fetch + parse (PIKO / Roco / CloakBrowser)
+## Shop fetch + parse (PIKO / Roco / Trix / REE / LS Models / CloakBrowser)
 
 ```bash
 # nach queue approve …
@@ -66,9 +66,19 @@ uv run locobox shop fetch --source roco \
   --campaign demo --delay-min 2.5 --delay-max 6.0
 uv run locobox shop parse --source roco --campaign demo \
   --tag roco-neuheiten-2024
+
+# LS Models (PrestaShop Suche → PDP; SKUs ohne Leerzeichen, z. B. 16075)
+uv run locobox catalog extract --source lsmodels -t .tmp/lsmodels_catalog.txt --campaign demo
+uv run locobox shop fetch --source lsmodels \
+  -a .tmp/import/demo/approved.txt \
+  --campaign demo --delay-min 2.5 --delay-max 6.0
+uv run locobox shop parse --source lsmodels --campaign demo \
+  --tag lsmodels-neuheiten-2026
 ```
 
-`--source`: `piko` | `roco` | `trix` | `ree`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+`--source`: `piko` | `roco` | `trix` | `ree` | `lsmodels`. `--tag` optional (Alias `--campaign-tag`). Unbekannter Tag → Exit ≠ 0. Existing ohne `--append-tag-if-exists` → skip. Bei Block: Exit ≠ 0 und `.tmp/import/{campaign}/blocked.txt`.
+
+LS Models: offizieller Shop `lsmodels.eu`. Suche mit kompakter Artikelnummer, PDP-URLs nutzen interne PrestaShop-IDs. Sound-Suffix `S` und Models-World `MW…` werden im Catalog-Extract vorerst übersprungen. UVP fehlt im Shop oft.
 
 ## Pipeline + YAML-Rules
 
@@ -121,7 +131,7 @@ Onion × Feature-Slices unter `src/locobox_cli/`:
 
 - `domain/` — Value Objects
 - `application/` — Use Cases + Ports (eine Pipeline nach Raw)
-- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco`)
+- `adapters/` — FS, YAML-Rules, CloakBrowser, Shop sources (`piko` / `roco` / `trix` / `ree` / `lsmodels`)
 - `interfaces/cli/` — Typer
 
 ## Tests
