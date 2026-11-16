@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-211S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-211S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "MACHINE 1-231G 226 BELFORT",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231G 226 BELFORT - Ep.III - DCC SOUND - MB211S",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/4038--ho-machine-1-231g-226-belfort-epiii-dcc-sound-mb211s.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2307-large_default/-ho-machine-1-231g-226-belfort-epiii-dcc-sound-mb211s.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:28Z"
+}

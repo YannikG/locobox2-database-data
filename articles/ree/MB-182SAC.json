@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-182SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-182SAC",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 97.49,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "MACHINE 1-231K 22, CALAIS - Ep.III - DCC 3 rails",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231K 22, CALAIS - Ep.III - DCC 3 rails- MB182SAC",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/3973--ho-machine-1-231k-22-calais-epiii-dcc-3-rails-mb182sac.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2298-large_default/-ho-machine-1-231k-22-calais-epiii-dcc-3-rails-mb182sac.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:29Z"
+}

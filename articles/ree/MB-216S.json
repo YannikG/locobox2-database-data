@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-216S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-216S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 120.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": "X 2729",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Rame RGP 1 modernisée - X 2729, Rouge et blanche, sigle Beffara, LYON-VAISE, SNCF Ep. IV - DIGITAL SOUND - MB216S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/3984--ho-rame-rgp-1-modernisee-x-2729-rouge-et-blanche-sigle-beffara-lyon-vaise-sncf-ep-iv-digital-sound-mb216s-0652733100870.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2219-large_default/-ho-rame-rgp-1-modernisee-x-2729-rouge-et-blanche-sigle-beffara-lyon-vaise-sncf-ep-iv-digital-sound-mb216s.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:29Z"
+}

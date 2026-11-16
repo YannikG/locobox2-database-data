@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-211",
+  "manufacturer": "REE",
+  "articleNumber": "MB-211",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 68.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "MACHINE 1-231G 226 BELFORT",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 1-231G 226 BELFORT - Ep.III - ANALOGIQUE - MB211",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/h0/4037--ho-machine-1-231g-226-belfort-epiii-analogique-mb211.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2306-large_default/-ho-machine-1-231g-226-belfort-epiii-analogique-mb211.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:30Z"
+}

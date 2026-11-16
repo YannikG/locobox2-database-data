@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-210",
+  "manufacturer": "REE",
+  "articleNumber": "MB-210",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 68.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "MACHINE 4-231G 246 TOURS",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HO] : MACHINE 4-231G 246 TOURS - Ep.III - ANALOGIQUE - MB210",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-a-vapeur/4034--ho-machine-4-231g-246-tours-epiii-analogique-mb210.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2302-large_default/-ho-machine-4-231g-246-tours-epiii-analogique-mb210.jpg"
+  },
+  "updatedAt": "2026-11-16T09:01:28Z"
+}
