@@ -297,6 +297,18 @@ def _electric_from_article(article: str, fallback: str) -> str:
     return fallback
 
 
+_SHOP_FLUFF = re.compile(
+    r"\s+(?:Universallok|Zahnradlok|Diesellok|Dampflok(?:-Fertigmodell)?|"
+    r"Werbelok|Nostalgielok|Rangierlok|Exclusivmodell(?:\s+20\d{2})?)\b.*$",
+    re.I,
+)
+
+
+def _strip_shop_fluff(typ: str) -> str:
+    """Drop Bemo shop packaging words; keep only Bauart/Baureihe."""
+    return _SHOP_FLUFF.sub("", typ).strip() or typ
+
+
 def _split_title(title: str) -> tuple[str, Optional[str], Optional[str]]:
     """Split RhB Ge 4/4 II 614 Universallok \"Schiers\" into type/number/livery."""
     t = swiss_ss(title or "").strip()
@@ -321,17 +333,8 @@ def _split_title(title: str) -> tuple[str, Optional[str], Optional[str]]:
         re.I,
     )
     if m:
-        typ = re.sub(r"\s+", " ", m.group("typ")).strip()
-        num = m.group("num").strip()
-        rest = m.group("rest").strip(" -–,")
-        role = re.match(
-            r"^(Universallok|Zahnradlok|Diesellok|Dampflok(?:-Fertigmodell)?|Werbelok|Nostalgielok|Rangierlok)\b",
-            rest,
-            re.I,
-        )
-        if role:
-            typ = f"{typ} {role.group(1)}".strip()
-        return typ, num, livery
+        typ = _strip_shop_fluff(re.sub(r"\s+", " ", m.group("typ")).strip())
+        return typ, m.group("num").strip(), livery
     m = re.search(
         r"^(?P<typ>(?:Uah|Za|Sb-v|Lb-v|Hai(?:qq)?(?:-tuyz)?|Api|Ap|Bp|WRp|WR-?S|WR|A|AB|B|D)\b[^\d]{0,24}?)\s*"
         r"(?P<num>\d{3,5})\b",
@@ -339,23 +342,19 @@ def _split_title(title: str) -> tuple[str, Optional[str], Optional[str]]:
         re.I,
     )
     if m:
-        typ = re.sub(r"\s+", " ", m.group("typ")).strip(" -–")
+        typ = _strip_shop_fluff(re.sub(r"\s+", " ", m.group("typ")).strip(" -–"))
         return typ, m.group("num"), livery
     m = re.search(r"^(?:DR\s*)?99\s+(\d{3,4}(?:-\d)?)\b", t2, re.I)
     if m:
-        rest = t2[m.end() :].strip(" -–,")
-        typ = "DR 99"
-        role = re.match(r"^(Dampflok(?:-Fertigmodell)?)\b", rest, re.I)
-        if role:
-            typ = f"{typ} {role.group(1)}".strip()
-        return typ, m.group(1), livery
+        return "DR 99", m.group(1), livery
     m = re.search(r"^(?:No\.?\s*)(\d{1,3})\b", t2, re.I)
     if m:
         return "No.", m.group(1), livery
     # Class designations without separate running number (VL 23, D 10, …)
-    if re.match(r"^(?:VL|D|Te|Tm)\s*\d+\b", t2, re.I):
-        return re.sub(r"\s+", " ", t2).strip(), None, livery
-    return t2 or t, None, livery
+    m = re.match(r"^((?:VL|D|Te|Tm)\s*\d+)\b", t2, re.I)
+    if m:
+        return re.sub(r"\s+", " ", m.group(1)).strip(), None, livery
+    return _strip_shop_fluff(t2 or t), None, livery
 
 
 def parse_bemo_pdp(
