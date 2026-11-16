@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0m",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HOe/HOm] : Autorail DE DION type ND, CFD Charentes & Deux-Sèvres n°305, DCC Sound - VM056S",
   "categories": [
@@ -32,5 +32,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/400-large_default/-hoe-hom-autorail-de-dion-type-nd-cfd-charentes-deux-sevres-n305-dcc-sound-vm056s.jpg"
   },
-  "updatedAt": "2026-11-16T07:48:43Z"
+  "updatedAt": "2026-11-16T09:44:25Z"
 }

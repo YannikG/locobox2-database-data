@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV"
   },
   "description": "[HO] Autorail RGP 1 X-2730 modernisé Rouge, DCCS - MB191S",
   "categories": [
@@ -33,5 +33,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/1842-large_default/-ho-autorail-rgp-1-x-2730-modernise-rouge-dccs-mb191s.jpg"
   },
-  "updatedAt": "2026-11-16T08:19:58Z"
+  "updatedAt": "2026-11-16T09:44:25Z"
 }

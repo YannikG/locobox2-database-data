@@ -13,7 +13,7 @@
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV-V"
   },
   "description": "[HO] Locomotive électrique CC 7103 Avignon, DCCS - JM006S",
   "categories": [
@@ -28,5 +28,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/2365-large_default/-ho-locomotive-electrique-cc-7103-avignon-dccs-jm006s.jpg"
   },
-  "updatedAt": "2026-11-16T08:27:25Z"
+  "updatedAt": "2026-11-16T09:44:18Z"
 }

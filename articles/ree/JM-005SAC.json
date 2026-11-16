@@ -9,11 +9,11 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "CC 7100",
-    "number": "7136",
+    "number": "7146",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HO] Locomotive électrique CC 7136 Lyon M., ACS - JM005SAC",
   "categories": [
@@ -28,5 +28,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/2361-large_default/-ho-locomotive-electrique-cc-7136-lyon-m-acs-jm005sac.jpg"
   },
-  "updatedAt": "2026-11-16T08:27:25Z"
+  "updatedAt": "2026-11-16T09:44:18Z"
 }

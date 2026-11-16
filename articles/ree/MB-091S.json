@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
-    "era": "Unbekannt"
+    "era": "IV-V"
   },
   "description": "[HO] : Locotracteur MOYSE Indutriel vert 301, DCCS - MB091S",
   "categories": [
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/1757-large_default/-ho-locotracteur-moyse-indutriel-vert-301-dccs-mb091s.jpg"
   },
-  "updatedAt": "2026-11-16T09:01:26Z"
+  "updatedAt": "2026-11-16T09:44:18Z"
 }

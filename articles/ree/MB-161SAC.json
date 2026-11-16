@@ -16,7 +16,7 @@
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "Unbekannt"
+    "era": "III"
   },
   "description": "[HO] Autorail X-2828 Origine rouge et crème, ACS - MB161SAC",
   "categories": [
@@ -31,5 +31,5 @@
     "notes": "Daten von der Webseite, automatisch geupdated.",
     "imageUrl": "https://www.ree-store.com/1772-large_default/-ho-autorail-x-2828-origine-rouge-et-creme-acs-mb161sac.jpg"
   },
-  "updatedAt": "2026-11-16T07:28:59Z"
+  "updatedAt": "2026-11-16T09:44:25Z"
 }
