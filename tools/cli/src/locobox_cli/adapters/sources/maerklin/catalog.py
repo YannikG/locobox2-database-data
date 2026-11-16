@@ -26,11 +26,25 @@ _TITLE_NON_LOCO = re.compile(
     r")\b",
     re.I,
 )
-# Price index: «39661  18  699,–» (SKU, page, UVP)
+# Price index rows vary by year:
+# «39661  18  699,–» / «36623  41  € 199,95*» / «37008  10  289,99»
 _INDEX_ROW = re.compile(
-    r"(?<!\d)(?P<sku>3\d{4})\s+(?P<page>\d{1,3})\s+(?P<price>\d{1,3}(?:\.\d{3})*),[–-]"
+    r"(?<!\d)(?P<sku>3\d{4})\s+(?P<page>U?\d{1,3}(?:,\d{3})?)\s+"
+    r"(?:"
+    r"€\s*(?P<p_euro>\d{1,3}(?:\.\d{3})*(?:[.,]\d{2})?)\s*\*?"
+    r"|"
+    r"(?P<p_dash>\d{1,3}(?:\.\d{3})*),\s*[–-]"
+    r"|"
+    r"(?P<p_cent>\d{1,3}(?:\.\d{3})*[.,]\d{2})\b"
+    r")"
 )
-_INLINE_PRICE = re.compile(r"€\s*(?P<price>\d{1,3}(?:\.\d{3})*),\s*[–\-]\s*\*?")
+_INLINE_PRICE = re.compile(
+    r"(?:"
+    r"€\s*(?P<p_euro>\d{1,3}(?:\.\d{3})*(?:[.,]\d{2})?)\s*\*?"
+    r"|"
+    r"(?P<p_dash>\d{1,3}(?:\.\d{3})*),\s*[–-]\s*\*?"
+    r")"
+)
 
 
 def _norm(s: str) -> str:
@@ -38,7 +52,18 @@ def _norm(s: str) -> str:
 
 
 def _parse_price(raw: str) -> float:
-    return float(raw.replace(".", "").replace(",", "."))
+    t = raw.strip().rstrip("–-*")
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+,\d{2}", t):
+        # 2.399,99
+        return float(t.replace(".", "").replace(",", "."))
+    if re.fullmatch(r"\d+,\d{2}", t):
+        return float(t.replace(",", "."))
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", t):
+        # 2.399 (thousands, no cents)
+        return float(t.replace(".", ""))
+    if "," in t and "." not in t:
+        return float(t.replace(",", "."))
+    return float(t.replace(",", ""))
 
 
 def _kind_from_title(title: str) -> str:
@@ -63,10 +88,22 @@ class CatalogRow:
     line_context: str
 
 
+def _price_from_match(m: re.Match[str]) -> Optional[float]:
+    raw = m.groupdict().get("p_euro") or m.groupdict().get("p_dash") or m.groupdict().get("p_cent")
+    if not raw:
+        return None
+    try:
+        return _parse_price(raw)
+    except ValueError:
+        return None
+
+
 def _extract_index_prices(text: str) -> dict[str, float]:
     prices: dict[str, float] = {}
     for m in _INDEX_ROW.finditer(text):
-        prices[m.group("sku")] = _parse_price(m.group("price"))
+        price = _price_from_match(m)
+        if price is not None and price > 0:
+            prices[m.group("sku")] = price
     return prices
 
 
@@ -115,8 +152,9 @@ def extract_maerklin_catalog_rows(
                     continue
                 pm = _INLINE_PRICE.search(raw[j])
                 if pm:
-                    price = _parse_price(pm.group("price"))
-                    break
+                    price = _price_from_match(pm)
+                    if price is not None:
+                        break
         seen.add(sku)
         rows.append(
             CatalogRow(

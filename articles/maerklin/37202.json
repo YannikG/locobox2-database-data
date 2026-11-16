@@ -5,13 +5,13 @@
   "articleNumber": "37202",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.95,
     "currency": "EUR"
   },
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Diesellokomotive",
+    "type": "Serie Am 840",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/dd/7b/dd7b9067392a6e2a23b1734505135f151556344804.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

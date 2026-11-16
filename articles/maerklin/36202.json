@@ -5,12 +5,12 @@
   "articleNumber": "36202",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 279.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 102",
     "number": "003-1",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/6a/8a/6a8a1ed434657d2fb309fa297f75f5131513234855.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

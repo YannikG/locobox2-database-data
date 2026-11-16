@@ -5,7 +5,7 @@
   "articleNumber": "39251",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 499.99,
     "currency": "EUR"
   },
   "model": {
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/a4/dd/a4ddf2b3af152f82b353314ee6414c1c1542351606.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,7 +5,7 @@
   "articleNumber": "39880",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 469.99,
     "currency": "EUR"
   },
   "model": {
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f2/4a/f24a60a34548317d64b80db746536e6d1542351607.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,12 +5,12 @@
   "articleNumber": "36638",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 239.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 147.5",
     "number": "557-3",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/97/62/97620cbdc08214e3813ef2988a0d99fa1544684416.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

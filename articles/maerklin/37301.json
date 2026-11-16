@@ -5,7 +5,7 @@
   "articleNumber": "37301",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 289.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/3f/24/3f24ef790db72be85428b9450a4726ba1541778193.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

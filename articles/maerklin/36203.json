@@ -5,12 +5,12 @@
   "articleNumber": "36203",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 279.99,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CZ",
+    "operator": "CD",
     "type": "BR 380",
     "number": "006-7",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/bd/9f/bd9feb018610d5c619c027bd154973481513321254.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

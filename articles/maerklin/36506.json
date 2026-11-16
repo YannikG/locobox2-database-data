@@ -5,12 +5,12 @@
   "articleNumber": "36506",
   "releaseDate": "2026",
   "uvp": {
-    "amount": 0.0,
+    "amount": 129.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB Cargo",
     "type": "DHG 500",
     "number": null,
     "livery": "DB Cargo",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/25/21/2521dde89ac14e8be61d624a261856ba1765825209.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:10:43Z"
 }

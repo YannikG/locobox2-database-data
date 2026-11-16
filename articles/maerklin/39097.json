@@ -5,7 +5,7 @@
   "articleNumber": "39097",
   "releaseDate": "2020",
   "uvp": {
-    "amount": 0.0,
+    "amount": 449.99,
     "currency": "EUR"
   },
   "model": {
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/6c/61/6c61077e1878493cf5eef87b7d9deaaf1585292419.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,12 +5,12 @@
   "articleNumber": "37313",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 339.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 111",
     "number": "162-4",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c5/c5/c5c5c4f6817a57d936219f2052b0d6631543497397.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

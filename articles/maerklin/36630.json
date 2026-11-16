@@ -5,12 +5,12 @@
   "articleNumber": "36630",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 219.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 187.1",
     "number": null,
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/de/74/de74f6c7585511d5615174fb8fed111f1533967211.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

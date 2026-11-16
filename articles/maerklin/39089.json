@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Rh 1189",
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1189",
     "number": "1189.04",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/10/24/10248601f6da1a1ffc15f4f0ada9ee751634277643.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

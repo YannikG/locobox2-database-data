@@ -5,13 +5,13 @@
   "articleNumber": "39468",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 339.99,
     "currency": "EUR"
   },
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Rh 460",
+    "type": "Reihe 460",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/7b/15/7b150cf4d7dbf8930ba08254170589871544684421.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Rh 1020",
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1020",
     "number": "1020.27",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/7a/87/7a876283678fb38beb533f0c101324c71631167226.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:53Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

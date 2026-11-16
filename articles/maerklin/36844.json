@@ -5,15 +5,15 @@
   "articleNumber": "36844",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 199.95,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Diesellokomotive",
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2016",
     "number": "021-5",
-    "livery": null,
+    "livery": "Hercules",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "VI",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/42/72/4272c55e12a7faba9fb348881e1b4daf1466696301.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

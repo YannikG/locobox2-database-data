@@ -5,12 +5,12 @@
   "articleNumber": "37339",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "FR",
+    "operator": "SNCF",
     "type": "BB 12000",
     "number": null,
     "livery": "Bügeleisen",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fa/67/fa670af4b4824901d1fdc13f8ef15eb51512122994.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

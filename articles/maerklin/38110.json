@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "NL",
+    "operator": "NS",
     "type": "Serie 1100",
     "number": "1108",
     "livery": null,
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c0/c6/c0c63f566a21cf966dd900b8a02a7f521761832807.jpg"
   },
-  "updatedAt": "2026-11-16T07:15:09Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

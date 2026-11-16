@@ -5,14 +5,14 @@
   "articleNumber": "39845",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 349.95,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
-    "number": null,
+    "operator": "MRCE",
+    "type": "BR 182",
+    "number": "509-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/56/e8/56e8060fbff9285e38fcb47c270bef8e1462362773.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:10:25Z"
 }

@@ -5,12 +5,12 @@
   "articleNumber": "37130",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "NL",
+    "operator": "NS",
     "type": "Serie 1200",
     "number": "1217",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/58/42/58422a4047121e5c6df8df80008f09ed1545399430.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

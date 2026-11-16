@@ -5,13 +5,13 @@
   "articleNumber": "36622",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 199.95,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
+    "country": "NL",
+    "operator": "NS",
+    "type": "BR E 186",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d1/d6/d1d62719b39663f9d032466704fd4a171434538702.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

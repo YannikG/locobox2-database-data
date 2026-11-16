@@ -35,6 +35,9 @@ _OPERATOR_COUNTRY = {
     "BLS": "CH",
     "CFL": "LU",
     "ELP": "CH",
+    "GYSEV": "HU",
+    "MRCE": "DE",
+    "ERS": "NL",
 }
 
 _OPERATOR_ALIASES = {
@@ -48,7 +51,7 @@ _OPERATOR_ALIASES = {
 }
 
 _PAREN_OP = re.compile(
-    r"\((?P<op>"
+    r"\(\s*(?P<op>"
     + "|".join(
         sorted(
             (re.escape(k) for k in list(_OPERATOR_COUNTRY) + list(_OPERATOR_ALIASES)),
@@ -56,7 +59,7 @@ _PAREN_OP = re.compile(
             reverse=True,
         )
     )
-    + r")\)"
+    + r")\s*\)"
 )
 
 _SCALE_MAP = {
@@ -216,6 +219,50 @@ def _min_radius_mm(html: str, description: str) -> Optional[float]:
     return float(m.group(1).replace(",", "."))
 
 
+_GENERIC_PRODUCT_TYPE = re.compile(
+    r"^(?:Märklin\s+Start\s+up\s*-\s*)?(?:Schlepptender-)?"
+    r"(?:Dampf|Diesel|Elektro|Zweikraft)lokomotive$",
+    re.I,
+)
+
+
+def _type_from_title_or_vorbild(title: str, description: str) -> str:
+    t = swiss_ss((title or "").strip())
+    if t and not _GENERIC_PRODUCT_TYPE.fullmatch(t):
+        return t
+    vor = ""
+    if description:
+        vor = description.split("Modell:", 1)[0]
+        vor = re.sub(r"^Vorbild:\s*", "", vor, flags=re.I).strip()
+    if not vor:
+        return t or "Unbekannt"
+    first = re.split(r"(?<=\.)\s+", vor, maxsplit=1)[0].strip()
+    # Prefer «Baureihe …» / «Serie …» / «Reihe …» fragment when present.
+    m = re.search(
+        r"((?:Baureihe|Serie|Reihe|Typ|Class|Rh|BR)\s+.+?)"
+        r"(?=\s+(?:der|des|von|mit|in|als|aus|und)\b|[.,;]|$)",
+        first,
+        re.I,
+    )
+    if m:
+        return swiss_ss(m.group(1).strip())
+    # Else strip leading product-word fluff: «Elektrolokomotive Baureihe …»
+    stripped = re.sub(
+        r"^(?:Schlepptender-)?(?:Dampf|Diesel|Elektro|Zweikraft|Dieselelektrische|"
+        r"Schwere(?:\s+Mehrzweck)?|Mehrzweck)(?:e)?(?:lokomotive|Lokomotive)?\s+",
+        "",
+        first,
+        flags=re.I,
+    ).strip()
+    stripped = re.split(
+        r"\s+(?:der|des|von|mit|in|als|aus|und)\b",
+        stripped,
+        maxsplit=1,
+        flags=re.I,
+    )[0].strip(" ,;-")
+    return swiss_ss(stripped or first or t or "Unbekannt")
+
+
 def parse_maerklin_pdp(
     html: str,
     *,
@@ -238,11 +285,12 @@ def parse_maerklin_pdp(
     img = _main_image(html)
     luep = _luep_mm(html, desc)
     min_r = _min_radius_mm(html, desc)
+    model_type = _type_from_title_or_vorbild(title, desc)
 
     model: dict[str, Any] = {
         "country": country,
         "operator": operator,
-        "type": title or "Unbekannt",
+        "type": model_type,
         "number": None,
         "livery": None,
         "scale": scale,

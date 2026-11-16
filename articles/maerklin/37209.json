@@ -5,12 +5,12 @@
   "articleNumber": "37209",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "FR",
+    "operator": "SNCF",
     "type": "Vossloh G 2000 BB",
     "number": "1616",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/3c/bb/3cbbf13c3e84b50d3d32cd6a4ae7c55e1514012428.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

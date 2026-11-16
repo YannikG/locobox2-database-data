@@ -5,13 +5,13 @@
   "articleNumber": "39674",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.95,
     "currency": "EUR"
   },
   "model": {
     "country": "DK",
     "operator": "DSB",
-    "type": "Diesellokomotive",
+    "type": "Reihe MY 1100",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/37/81/3781164bc99182a3102a3d9b57fd8d8f1434539282.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

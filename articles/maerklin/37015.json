@@ -5,7 +5,7 @@
   "articleNumber": "37015",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 499.95,
     "currency": "EUR"
   },
   "model": {
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/0c/f9/0cf9dce3871bed117613af6b1ddb4d9a1434538720.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

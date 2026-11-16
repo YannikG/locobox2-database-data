@@ -5,12 +5,12 @@
   "articleNumber": "39218",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 218",
     "number": "416-6",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/cd/31/cd319c513e7632f7584b9513bc4d53961571292028.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

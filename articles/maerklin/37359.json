@@ -5,13 +5,13 @@
   "articleNumber": "37359",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.95,
     "currency": "EUR"
   },
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Elektrolokomotive",
+    "type": "Serie Re 4/4 II",
     "number": "11310",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/42/7b/427b42f39b55b02cebf7d3888012ece01467119539.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

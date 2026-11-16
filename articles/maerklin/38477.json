@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CZ",
+    "operator": "CD",
     "type": "BR 477.0",
     "number": null,
     "livery": "Papagei",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fa/d6/fad6e4d3389e71d765fb8b71d7cf30dc1765839604.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:54Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,7 +5,7 @@
   "articleNumber": "39124",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/8d/52/8d5233e83db8ebeeb8bbe6e2aa40a07e1484059404.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,12 +5,12 @@
   "articleNumber": "37529",
   "releaseDate": "2016",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 120.1",
     "number": "140-9",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/6b/97/6b9753a106b1af08b11010be8f0ca6cf1451855402.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

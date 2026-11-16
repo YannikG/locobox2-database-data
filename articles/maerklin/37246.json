@@ -5,13 +5,13 @@
   "articleNumber": "37246",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.95,
     "currency": "EUR"
   },
   "model": {
     "country": "BE",
     "operator": "SNCB",
-    "type": "Elektrolokomotive",
+    "type": "Serie 25",
     "number": "2510",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f9/11/f911975ef7ecdc4ca642127b5453eb8e1467117371.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

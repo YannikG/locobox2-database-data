@@ -5,13 +5,13 @@
   "articleNumber": "39861",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
+    "type": "BR 189",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d7/46/d7464a53ec5d73c6d6b72ebb475668631467641278.jpg"
   },
-  "updatedAt": "2026-11-16T07:15:07Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

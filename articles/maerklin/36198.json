@@ -5,13 +5,13 @@
   "articleNumber": "36198",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 239.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Rh 475",
+    "type": "Reihe 475",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/8e/95/8e95d194dfbb5bfc41a39fe9bb3021931512122964.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

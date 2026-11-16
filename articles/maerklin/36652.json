@@ -5,13 +5,13 @@
   "articleNumber": "36652",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 129.95,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Diesellokomotive",
+    "type": "BR 285",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/1f/de/1fdecf5bc9969d2dff21d9e4c3abe79e1466696117.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,7 +5,7 @@
   "articleNumber": "37836",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 449.99,
     "currency": "EUR"
   },
   "model": {
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/37/51/37511321aa002d9f2922a3baccbd3eba1484058874.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

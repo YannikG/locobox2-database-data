@@ -43,3 +43,27 @@ def test_parse_maerklin_pdp_sample() -> None:
     assert art["source"]["imageUrl"].startswith("https://static.maerklin.de/")
     assert "maerklin-neuheiten-2026" in art["tags"]
     ValidateArticle.from_contracts(REPO).assert_valid(art)
+
+
+def test_parse_generic_h1_uses_vorbild_and_spaced_operator() -> None:
+    html = """
+    <h1>Elektrolokomotive</h1>
+    <p><b>Vorbild:</b> Elektrolokomotive Baureihe E 186 der Niederländischen Eisenbahnen ( NS ).</p>
+    <p><b>Modell:</b> Mit Digital-Decoder mfx.</p>
+    <table>
+      <tr><th>Art.Nr.</th><td>36622</td></tr>
+      <tr><th>Spur / Bauart</th><td>H0</td></tr>
+      <tr><th>Epoche</th><td>VI</td></tr>
+    </table>
+    """
+    art = parse_maerklin_pdp(
+        html,
+        canonical_url="https://www.maerklin.de/de/produkte/details/article/36622",
+        article="36622",
+        campaign_tag="maerklin-neuheiten-2015",
+        uvp_amount=199.95,
+    )
+    assert art["model"]["type"] == "Baureihe E 186"
+    assert art["model"]["operator"] == "NS"
+    assert art["model"]["country"] == "NL"
+    ValidateArticle.from_contracts(REPO).assert_valid(art)

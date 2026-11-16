@@ -5,13 +5,13 @@
   "articleNumber": "37007",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 279.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Diesellokomotive",
+    "operator": "DB AG",
+    "type": "BR 212",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -33,5 +33,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ab/b4/abb46d6f6818f899380a0d91e57b24a21467640989.jpg"
   },
-  "updatedAt": "2026-11-16T07:15:07Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

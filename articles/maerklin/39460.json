@@ -5,13 +5,13 @@
   "articleNumber": "39460",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Rh 460",
+    "type": "Reihe 460",
     "number": "084-7",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ad/29/ad29aa5be8f5e7c5eb22354028c7d5b61484060496.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,13 +5,13 @@
   "articleNumber": "37219",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Rh 1600",
+    "type": "Reihe 1600",
     "number": "1619",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d8/5e/d85e0a6404ad55dff494e8351ff284f11533967218.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

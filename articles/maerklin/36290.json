@@ -5,7 +5,7 @@
   "articleNumber": "36290",
   "releaseDate": "2017",
   "uvp": {
-    "amount": 0.0,
+    "amount": 209.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/67/0f/670ff5a18d79089cfc25f61eac695f981484053872.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:51Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

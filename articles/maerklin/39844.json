@@ -5,14 +5,14 @@
   "articleNumber": "39844",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 349.95,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
-    "number": null,
+    "country": "HU",
+    "operator": "GYSEV",
+    "type": "BR 470",
+    "number": "505-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/57/b8/57b8ea9f94fa552a9bf48273efabffbd1474545771.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:10:25Z"
 }

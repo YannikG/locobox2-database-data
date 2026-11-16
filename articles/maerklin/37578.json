@@ -5,13 +5,13 @@
   "articleNumber": "37578",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.95,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
+    "type": "BR E03",
     "number": "001",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/cd/f2/cdf2faf0983f8d9e7fa3a33df73db0321434539134.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

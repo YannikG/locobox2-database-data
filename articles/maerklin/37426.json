@@ -5,12 +5,12 @@
   "articleNumber": "37426",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 309.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 114",
     "number": "037-5",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/5b/4c/5b4cf3a15fe5298077d8d579cdbbcaa11556344807.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

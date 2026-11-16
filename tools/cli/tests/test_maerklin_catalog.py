@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from locobox_cli.adapters.sources.maerklin.catalog import (
+    _extract_index_prices,
     extract_maerklin_catalog_rows,
     rows_to_queue,
 )
@@ -30,3 +31,18 @@ def test_rows_to_queue_min_price_filter() -> None:
     q = rows_to_queue(rows, min_price_eur=120)
     assert all(e.price_eur is None or e.price_eur > 120 for e in q.entries)
     assert {e.article.value for e in q.entries} >= {"39661", "38477", "30391"}
+
+
+def test_extract_index_prices_year_formats() -> None:
+    blob = """
+   36623        41   € 199,95*      39862        172   € 349,95*
+   36429    36,185   € 229,95*      37985         U4   € 449,95*
+  37008       10    289,99    39676     112     329,99
+  39716       76   750,–
+"""
+    prices = _extract_index_prices(blob)
+    assert prices["36623"] == 199.95
+    assert prices["36429"] == 229.95
+    assert prices["37985"] == 449.95
+    assert prices["37008"] == 289.99
+    assert prices["39716"] == 750.0

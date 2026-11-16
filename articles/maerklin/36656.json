@@ -5,7 +5,7 @@
   "articleNumber": "36656",
   "releaseDate": "2021",
   "uvp": {
-    "amount": 0.0,
+    "amount": 199.99,
     "currency": "EUR"
   },
   "model": {
@@ -31,5 +31,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/e4/d9/e4d92fe66b2f45fbc92ce6daa05eca901677675612.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

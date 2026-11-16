@@ -5,13 +5,13 @@
   "articleNumber": "37439",
   "releaseDate": "2015",
   "uvp": {
-    "amount": 0.0,
+    "amount": 299.95,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Elektrolokomotive",
+    "operator": "DB AG",
+    "type": "BR 143",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/e7/c5/e7c5aa1989c6ca5d1d78153b93c7bf5f1466757134.jpg"
   },
-  "updatedAt": "2026-11-16T06:52:41Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

@@ -5,7 +5,7 @@
   "articleNumber": "36182",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 239.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/90/7c/907cb104ec317b37a5c1a6f7f57dba6d1576652412.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

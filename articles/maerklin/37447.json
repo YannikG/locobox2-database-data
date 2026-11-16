@@ -5,12 +5,12 @@
   "articleNumber": "37447",
   "releaseDate": "2018",
   "uvp": {
-    "amount": 0.0,
+    "amount": 309.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "DB AG",
     "type": "BR 146.5",
     "number": "575-6",
     "livery": null,
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/00/c3/00c3b1244cc52a8f0030186bbc6862731524895223.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

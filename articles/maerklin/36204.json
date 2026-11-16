@@ -5,7 +5,7 @@
   "articleNumber": "36204",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 279.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/62/6d/626d3292f69097bf6fab334cdab989b71533880825.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

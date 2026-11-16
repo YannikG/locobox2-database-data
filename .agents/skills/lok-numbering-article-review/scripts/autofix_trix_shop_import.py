@@ -33,7 +33,7 @@ _PRODUCT_PREFIX = re.compile(
 _BAUREIHE = re.compile(r"^Baureihe\s+(.+)$", re.I)
 _REIHE = re.compile(r"^Reihe\s+(.+)$", re.I)
 _TYP = re.compile(r"^Typ\s+(.+)$", re.I)
-_QUOTE = re.compile(r'[„"\']([^"\']+)[„"\']')
+_QUOTE = re.compile(r'[„“”"\']([^„“”"\']+)[„“”"\']')
 _BETRIEBSNR = re.compile(
     r"(?:Lok-)?Betriebsnummer\s*[:=]?\s*"
     r"(?P<num>"
@@ -80,6 +80,7 @@ def _normalize_type(raw: str) -> tuple[str, Optional[str]]:
     if qm:
         quoted = qm.group(1).strip()
         t = (_QUOTE.sub("", t)).strip()
+        t = re.sub(r"\(\s*\)", "", t)
         t = re.sub(r"\s+", " ", t).strip(" ,;-")
 
     t = _PRODUCT_PREFIX.sub("", t).strip()
@@ -91,12 +92,20 @@ def _normalize_type(raw: str) -> tuple[str, Optional[str]]:
     # «… mit Kabinentender Baureihe 051» after product-prefix strip
     t = re.sub(r"^mit\s+Kabinentender\s+", "", t, flags=re.I).strip()
 
-    m = _BAUREIHE.match(t)
-    if m:
-        rest = m.group(1).strip()
-        # drop trailing variant words that are not the class id
+    def _class_rest(rest: str) -> str:
+        rest = re.split(
+            r"\s+(?:der|des|von|mit|in|als|aus|und)\b",
+            rest,
+            maxsplit=1,
+            flags=re.I,
+        )[0].strip()
         rest = re.sub(r"\s+Neubau$", "", rest, flags=re.I).strip()
         rest = re.sub(r"^mit\s+Kabinentender\s+", "", rest, flags=re.I).strip()
+        return rest.strip(" ,;-")
+
+    m = _BAUREIHE.match(t)
+    if m:
+        rest = _class_rest(m.group(1).strip())
         # Spitzname ohne Anführungszeichen am Ende (z. B. «477.0 Papagei»)
         nick = re.match(r"^(\d+(?:\.\d+)?)\s+([A-Za-zÄÖÜäöü][\w\-]*)$", rest)
         if nick and not quoted:
@@ -106,15 +115,21 @@ def _normalize_type(raw: str) -> tuple[str, Optional[str]]:
 
     m = _REIHE.match(t)
     if m:
-        rest = m.group(1).strip()
-        # NL-Konvention im Repo oft Rh
-        if re.fullmatch(r"\d+", rest):
+        rest = _class_rest(m.group(1).strip())
+        # NL-Konvention: kurze Ziffernreihen als Rh (1, 11, 240), nicht ÖBB 2016.
+        if re.fullmatch(r"\d{1,3}", rest):
             return f"Rh {rest}", quoted
         return f"Reihe {rest}", quoted
 
     m = _TYP.match(t)
     if m:
-        return m.group(1).strip(), quoted
+        return _class_rest(m.group(1).strip()), quoted
+
+    # «Serie Re 6/6 …» / «Serie 1200 …»
+    m = re.match(r"^Serie\s+(.+)$", t, flags=re.I)
+    if m:
+        rest = _class_rest(m.group(1).strip())
+        return f"Serie {rest}", quoted
 
     return t, quoted
 
@@ -157,6 +172,33 @@ def _categories_for(raw_type: str, cats: list[str]) -> list[str]:
     return out
 
 
+_GENERIC_TYPE = re.compile(
+    r"^(?:Märklin\s+Start\s+up\s*-\s*)?(?:Schlepptender-)?"
+    r"(?:Dampf|Diesel|Elektro|Zweikraft)lokomotive$",
+    re.I,
+)
+
+
+def _type_seed(article: Article, raw_type: str) -> str:
+    """When shop H1 is only a product class word, seed from Vorbild."""
+    if not _GENERIC_TYPE.fullmatch(raw_type.strip()):
+        return raw_type
+    vor = _vorbild(article.get("description") or "")
+    vor = re.sub(r"^Vorbild:\s*", "", vor, flags=re.I).strip()
+    if not vor:
+        return raw_type
+    first = re.split(r"(?<=\.)\s+", vor, maxsplit=1)[0].strip()
+    m = re.search(
+        r"((?:Baureihe|Serie|Reihe|Typ|Class|Rh|BR)\s+.+?)"
+        r"(?=\s+(?:der|des|von|mit|in|als|aus|und)\b|[.,;]|$)",
+        first,
+        re.I,
+    )
+    if m:
+        return m.group(1).strip()
+    return first or raw_type
+
+
 def propose(article: Article) -> Optional[dict[str, Any]]:
     if not _is_trix(article):
         return None
@@ -166,9 +208,19 @@ def propose(article: Article) -> Optional[dict[str, Any]]:
         return None
 
     changes: dict[str, Any] = {}
-    new_type, quoted = _normalize_type(raw_type)
+    seed = _type_seed(article, raw_type)
+    new_type, quoted = _normalize_type(seed)
     if new_type != raw_type.strip():
-        changes["type"] = new_type
+        # Reject leftover prose / EVN sentences; keep as Pass-1 finding instead.
+        if (
+            len(new_type) <= 40
+            and not re.search(
+                r"\b(?:der|des|von|Baujahr|Mehrsystem|Railways|Capital)\b",
+                new_type,
+                re.I,
+            )
+        ):
+            changes["type"] = new_type
 
     num = model.get("number")
     if num is None or (isinstance(num, str) and not num.strip()):

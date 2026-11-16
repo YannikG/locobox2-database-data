@@ -5,13 +5,13 @@
   "articleNumber": "39849",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 329.99,
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Rh 1116",
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1116",
     "number": "276-5",
     "livery": null,
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/91/00/91007ae99571c28d117de40eb75f48c61551337210.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }

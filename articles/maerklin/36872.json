@@ -5,13 +5,13 @@
   "articleNumber": "36872",
   "releaseDate": "2020",
   "uvp": {
-    "amount": 0.0,
+    "amount": 89.99,
     "currency": "EUR"
   },
   "model": {
     "country": "DE",
     "operator": "Unbekannt",
-    "type": "Dampflokomotive",
+    "type": "Halloween",
     "number": null,
     "livery": "Halloween Glow in the Dark",
     "scale": "H0",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/38/d5/38d5a544a382e79402a4b4e2cc8913ab1600149602.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:10:43Z"
 }

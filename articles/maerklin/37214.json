@@ -5,7 +5,7 @@
   "articleNumber": "37214",
   "releaseDate": "2019",
   "uvp": {
-    "amount": 0.0,
+    "amount": 349.99,
     "currency": "EUR"
   },
   "model": {
@@ -32,5 +32,5 @@
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ad/52/ad52d8b72be7fd439effdfed34595b911543302023.jpg"
   },
-  "updatedAt": "2026-11-16T07:14:52Z"
+  "updatedAt": "2026-11-16T09:09:39Z"
 }
