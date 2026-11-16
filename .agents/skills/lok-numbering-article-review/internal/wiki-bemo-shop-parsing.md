@@ -30,6 +30,10 @@ Schwester: gleiche letzten 5 Ziffern, Präfix 12↔13, 10↔11, 92↔93/99. Stro
 
 Wagen: `electricSystem` **`Unbekannt`** (kein Triebfahrzeug).
 
+## Epoche
+
+Shop-Meta-Zeile (H0m VI, 0m IV-V, H0e V-VI) oder Fliesstext (Ep. III, Epoche-IV-Ausführung, Metal Collection II) → model.era. Bereiche mit Bindestrich kanonisch (IV-V). Nicht raten, wenn weder Meta noch Text eine Epoche nennt.
+
 ## Search / PDP
 
 - Kompakte Suche `?s=1258164` ist leiser als spaced; PDP-URL muss `/produkt/…` sein.

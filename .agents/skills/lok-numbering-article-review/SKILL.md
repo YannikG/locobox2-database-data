@@ -203,6 +203,7 @@ Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) u
 - **StLB VL … / ZB D …:** Klassenname ganz in `type`, `number` null?
 - **`source.url`:** `/produkt/…`, keine `?s=`-Suche?
 - Wagen: `electricSystem` `Unbekannt`, Gattung in `type`
+- **`model.era`:** aus Shop-Meta (`H0m VI`, `0m IV-V`) oder Text (`Ep. III`, `Metal Collection II`), nicht `Unbekannt` wenn Meta klar ist
 
 **Bewusst nicht** Loknummer-Skill: `releaseDate`, Kampagnen-Tags, Katalog-vs.-Shop-Vollständigkeit.
 

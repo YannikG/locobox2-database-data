@@ -41,14 +41,13 @@ _UVP = re.compile(
     r"UVP\s*:\s*(?P<price>(?:\d{1,3}(?:\.\d{3})*|\d+),\d{2})\s*(?:€|EUR|Euro)?",
     re.I,
 )
-# Meta line examples: ``H0m VI 166 R>330``, ``H0e V``, ``0m IV``
+# Meta line examples: ``H0m VI 166 R>330``, ``H0e V-VI``, ``0m IV-V``
+_ROMAN_ERA = r"(?:VI|IV|V|III|II|I)"
 _META_LINE = re.compile(
-    r"\b(?P<scale>H0m|H0e|H0|0m|0e|N|TT)\b"
-    r"(?:\s+(?P<era>I{1,3}|IV|VI{0,3}|V))?\b",
+    rf"\b(?P<scale>H0m|H0e|H0|0m|0e|N|TT)\b"
+    rf"(?:\s+(?P<era>{_ROMAN_ERA}(?:\s*[-–/]\s*{_ROMAN_ERA})?))?\b",
     re.I,
 )
-
-
 def _meta(html: str, prop: str) -> Optional[str]:
     m = re.search(
         rf'<meta\s+(?:property|name)=["\']{re.escape(prop)}["\']\s+content=["\']([^"\']+)["\']',
@@ -129,6 +128,26 @@ def _uvp_from_html(html: str) -> Optional[float]:
         return None
 
 
+def _canon_era(raw: str) -> str:
+    t = re.sub(r"\s+", "", (raw or "").upper().replace("–", "-").replace("/", "-"))
+    return t or "Unbekannt"
+
+
+def _era_from_phrases(blob: str) -> Optional[str]:
+    # ``Epoche-IV-Ausführung``
+    m = re.search(rf"Epoche-({_ROMAN_ERA})-Ausführung", blob, re.I)
+    if m:
+        return _canon_era(m.group(1))
+    m = re.search(
+        rf"(?:Epoche[- ]?|Ep\.\s*|Metal Collection\s+)({_ROMAN_ERA}(?:\s*[-–/]\s*{_ROMAN_ERA})?)",
+        blob,
+        re.I,
+    )
+    if m:
+        return _canon_era(m.group(1))
+    return None
+
+
 def _scale_era_from_text(blob: str) -> tuple[str, str]:
     scale_map = {
         "H0M": "H0m",
@@ -148,9 +167,12 @@ def _scale_era_from_text(blob: str) -> tuple[str, str]:
         if chosen is None:
             chosen = m
     if not chosen:
-        return "H0m", "Unbekannt"
+        era = _era_from_phrases(blob) or "Unbekannt"
+        return "H0m", era
     scale_out = scale_map.get(chosen.group("scale").upper(), chosen.group("scale"))
-    era = (chosen.group("era") or "").upper() or "Unbekannt"
+    era = _canon_era(chosen.group("era") or "") if chosen.group("era") else "Unbekannt"
+    if era == "Unbekannt":
+        era = _era_from_phrases(blob) or "Unbekannt"
     return scale_out, era
 
 
@@ -377,11 +399,15 @@ def parse_bemo_pdp(
 
     title = _product_title(html, wanted)
     desc = _description(html, title)
-    blob = f"{title}\n{desc}\n{_plain(html[:8000])}"
+    # Meta line (``H0m VI``, ``0m IV-V``) sits far down the Elementor PDP; scan full body.
+    body = re.sub(r"<script[^>]*>.*?</script>", " ", html, flags=re.I | re.S)
+    body = re.sub(r"<style[^>]*>.*?</style>", " ", body, flags=re.I | re.S)
+    body_plain = _plain(body)
+    blob = f"{title}\n{desc}\n{body_plain}"
     scale, era = _scale_era_from_text(blob)
     scale = _scale_from_article(wanted, scale)
     operator, country = _operator_country(f"{title}\n{desc}")
-    electric = _electric_from_article(wanted, _electric_from_text(blob))
+    electric = _electric_from_article(wanted, _electric_from_text(f"{title}\n{desc}"))
     model_type, model_number, livery = _split_title(title)
     cats = _categories(title, desc)
     if re.search(r"\b(Uah|Za|Sb-v|Lb-v|Hai)\b", title, re.I):
