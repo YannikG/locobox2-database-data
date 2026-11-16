@@ -6,10 +6,23 @@ DB Cargo Vectron MS, white, "I am Einziganders"
 SBB Re 460
 16 100 / 16 600
 
+SBB RAe TEE Gottardo
+Set 17 022 / 17 522 / 17 022 S / 17 522 S
+
+HLE 13 SNCB/NMBS
+12 000 / 12 500 / 12 000 S / 12 500 S
+13 001 DC / 13 001 AC / 13 001 DC S / 13 001 AC S
+
+M6 SNCB/NMBS
+Set 43 104 DC / 43 604 AC
+
 Personenwagen
 
 CIWL Schlafwagen
 17 201 / 17 202
+
+Nightjet DANI-DESIGN
+403. WLABmz 61 80 72-90 014-4
 
 Models World Zubehör
 MW 1201
