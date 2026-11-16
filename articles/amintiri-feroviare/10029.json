@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10029",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10029",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-EA",
+    "number": "41-0189-1",
+    "livery": "Puma",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolokomotive 060-EA der CFR mit Betriebsnummer 41-0189-1, bekannt als «Puma». Epoche VI. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": ["lokomotive", "elektrolokomotive"],
+  "tags": ["amintiri-feroviare-katalog-2026"],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10029-locomotiva-electrica-060-ea-puma-101",
+    "notes": "Daten von der Hersteller-Webseite, manuell erfasst.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_101_4395AF10029b.jpg"
+  },
+  "updatedAt": "2026-11-16T15:32:39Z"
+}

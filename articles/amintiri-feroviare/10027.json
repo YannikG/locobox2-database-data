@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10027",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10027",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-EA",
+    "number": null,
+    "livery": "Hora, rote Kabinen",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolokomotive CFR 060-EA, Klasse 40, Achsfolge Co-Co. Version mit roten Kabinen und asymmetrischen Pantographen, auch «Hora» genannt. Epoche VI. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": ["lokomotive", "elektrolokomotive"],
+  "tags": ["amintiri-feroviare-katalog-2026"],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10027-locomotiva-electrica-cfr-060-ea-95",
+    "notes": "Daten von der Hersteller-Webseite, manuell erfasst.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_95_9156AM11027.jpg"
+  },
+  "updatedAt": "2026-11-16T15:32:39Z"
+}
