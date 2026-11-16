@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-32560",
+  "manufacturer": "Maerklin",
+  "articleNumber": "32560",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Ce 6/8 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzug-Elektrolokomotive Serie Ce 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen ( SBB ). Bauart aus der ersten Bauserie. Mit Stangenpuffer , stirnseitigen Übergangsblechen, kleinen Rangierertreppen und Handstangen, mit Besandungsanlage, ohne Falschfahrsignal und ohne Integra-Signum Magnet. Betriebszustand der 1920er-Jahre.\n\nModell: Lok-Vorbauten, Lok-Mittelteil, Räder, Gestängeteile sowie diverse Ansetzteile aus Metall mit 24 Karat Feingold beschichtet. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse , jeweils 1 Motor in jedem Treibgestell . Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Mit Besandungsanlage zwischen den Treibradgruppen. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Das \" Krokodil \" wird in einer exklusiven Verpackung mit Echtheitszertifikat ausgeliefert. Lokomotive und Echtheitszertifikat sind durchnummeriert. Ein Paar weisse Baumwoll-Handschuhe sowie ein Booklet über die Geschichte des \"Krokodils\" liegen bei. Zusätzlich liegt ein mit 24 Karat Feingold beschichteter Schleifer bei, zum Austausch gegen den serienmässig montierten Fahrschleifer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/32560",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bd/1e/bd1ef3dbcda30fb88166974380c906c41541778206.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37130",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37130",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Serie 1200",
+    "number": "1217",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie 1200 der Niederländischen Eisenbahnen ( NS ). Betriebsnummer 1217.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Separat angesetzte Griffstangen aus Metall. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer ca. 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37130",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/42/58422a4047121e5c6df8df80008f09ed1545399430.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

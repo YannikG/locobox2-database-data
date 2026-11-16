@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30131",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30131",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Serie 1100",
+    "number": "1117",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie 1100 der Niederländischen Eisenbahnen ( NS ). Türkisgrüne Grundfarbgebung. Mit Scheren-Stromabnehmern. Lok-Betriebsnummer 1117. Betriebszustand zwischen 1950 und 1954.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Relex - Kupplung . Verpackung mit colorierter Darstellung der Lok, in Anlehnung an die historische Verpackung der damaligen Zeit. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30131",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/eb/67/eb6721ab64bc2f0e13f70e17bd44a50f1702735203.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

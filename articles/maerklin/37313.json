@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37313",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37313",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 111",
+    "number": "162-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 111 der Deutschen Bahn AG ( DB AG ) in S-Bahn Ausführung. Ausführung mit Einholmstromabnehmern und eckigen Puffern. Betriebsnummer 111 162-4. Betriebszustand 1995.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Zusätzlich kann die Führerstandsbeleuchtung digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Heb- und senkbare Dachstromabnehmer jeweils digital schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37313",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c5/c5/c5c5c4f6817a57d936219f2052b0d6631543497397.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

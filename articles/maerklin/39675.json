@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39675",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39675",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "MY 1100",
+    "number": "1132",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Reihe MY 1100 der Dänischen Staatsbahnen (DSB). NOHAB-Mehrzweckmaschine in weinroter Farbgebung der Epoche IV. Betriebsnummer 1132. Betriebszustand 1983.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital schaltbar. Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39675",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/41/1d413873747b0ed29f143f830f93ee741534053608.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

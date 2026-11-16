@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Maerklin",
+  "slug": "maerklin",
+  "description": "Märklin ist der deutsche Hersteller für Wechselstrom-Modelleisenbahnen in H0, Spur 1 und Spur Z.",
+  "website": "https://www.maerklin.de",
+  "wikipedia": "https://de.wikipedia.org/wiki/M%C3%A4rklin",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Maerklin_Logo.svg/320px-Maerklin_Logo.svg.png",
+  "country": "DE"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37119",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37119",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 18.1",
+    "number": "102",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 18.1 der Deutschen Bundesbahn (DB). Frühere Württemberger Reihe C. Betriebsnummer 18 102. Betriebszustand um 1953.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Vorbereitet für Rauchsatz 72270. Lokomotive weitgehend aus Metall wie beispielsweise Kessel, Kamin, Dom, Führerhaus, Umlauf und Tender. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37119",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6d/3b/6d3be61360c9d20d25e3da56dba9abb61569304811.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

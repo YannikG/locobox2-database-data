@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36872",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36872",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Dampflokomotive",
+    "number": null,
+    "livery": "Halloween Glow in the Dark",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt",
+    "luepMm": 108.0
+  },
+  "description": "Modell: Dampflokomotive in einer gruseligen Halloween-Gestaltung. Einzelne Bedruckungselemente und das Dreilicht-Spitzensignal leuchten im Dunkeln – Glow in the Dark. Mit mfx Digital- Decoder . 1 Achse angetrieben. Haftreifen . Kupplungshaken . Länge über Puffer 10,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36872",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/38/d5/38d5a544a382e79402a4b4e2cc8913ab1600149602.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

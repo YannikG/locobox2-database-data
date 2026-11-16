@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37985",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37985",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Personenzug-Dampflokomotive mit Wannentender",
+    "number": "313-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive mit Wannentender Baureihe 038 (38.10-40) der Deutschen Bundesbahn (DB). Ehemalige preussische P 8. Kessel mit 2 Aufbauten und Witte-Windleitblechen. Betriebsnummer 038 313-3. Authentische Gebrauchsspuren.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand . Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre liegen bei. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37985",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bb/0b/bb0b62e0aed8ade9f4a91a7a3357bbb91434539032.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

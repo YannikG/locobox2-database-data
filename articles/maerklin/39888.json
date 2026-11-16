@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39888",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39888",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 539.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 44",
+    "number": "542",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 260.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 44, mit Einheits-Kohlentender 2´2´T34 der Bundesbahnen Österreich (BBÖ). Schwarze Grundfarbgebung. Mit Wagner-Windleitblechen der Regelausführung, Reichsbahn-Lampen, Vorlauf - Radsatz mit Speichenräder, mit Rauchkammer- Zentralverschluss und ohne Indusi -Magnet. Lok-Betriebsnummer 44 542. Betriebszustand um 1949.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Kohlen-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Feuerbüchsenflackern und Flackern am Aschekasten zusätzlich jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39888",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/5d/395d743a4eb9c9dcc4712297bbd80dba1671606013.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

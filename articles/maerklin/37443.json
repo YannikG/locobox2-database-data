@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37443",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37443",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 144",
+    "number": "021-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 144 der Deutschen Bundesbahn (DB). Farbgebung in Ozeanblau/elfenbein. Betriebsnummer 144 021-3. Betriebszustand um 1975.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Rangiergang an, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hub- und Senkantrieb für beide Dachstromabnehmer jeweils digital schaltbar. Einheits-Reflexglaslampen Bauart DB. Länge über Puffer ca. 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37443",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/89/3489c3349141b21b7138d076e2d11f001455096062.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

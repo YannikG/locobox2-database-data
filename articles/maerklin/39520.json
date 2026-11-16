@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39520",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39520",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Fc 2x3/4",
+    "number": "12201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 221.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Elektrolokomotive Serie Fc 2x3/4 \"Köfferli\" (spätere Serie Ce 6/8 I) der Schweizerischen Bundesbahnen ( SBB ). Ausführung im frühen Auslieferungszustand. Dunkelbraune Grundfarbgebung mit schwarzem Fahrwerk. Mit Stangenpuffer , stirnseitigen Führerstandstüren ohne Fenster und mit Übergangsblechen, mit Besandungsanlage, ohne Falschfahrsignal und ohne Integra-Signum Magnet. Lok-Betriebsnummer 12201. Betriebszustand Mitte/Ende 1919.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils 3 Treibräder und Blindwelle in den beiden Treibgestellen über Kardan angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten, wie Kühlröhren für das Transformatorenöl. Führerstand - und Maschinenraum-Nachbildung. Mit Besandungsanlage an den Treibradgruppen. Detaillierte Dachausrüstung mit Heizwiderständen, Dachleitungen, Isolatoren, Blitzschutzspulen und Dachlaufbretter sowie Scherenstromabnehmer mit einfacher Wippe. Befahrbarer Mindestradius 360 mm. Bremsschläuche, Schraubenkupplungsimitationen sowie Aufstiegsleitern liegen bei. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39520",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4d/4e/4d4e179006fbd33dd00f2eba126146891601186418.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

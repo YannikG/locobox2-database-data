@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39720",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39720",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Rh 1700",
+    "number": "1707",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1700 der Nederlandse Spoorwegen ( NS ). Lok-Betriebsnummer 1707. Signalgelbe Grundfarbgebung. Betriebszustand ab 1992.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Weitere Lichtfunktionen wie verschiedene Rangierlichter und Gefahrsignale separat schaltbar. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien gelben und roten Leuchtdioden ( LED ). Stromabnehmer digital heb- und senkbar. Separat angesetzte Scheibenwischer, Lüftergitter, Griffstangen und Dachleitungen. Pufferhöhe nach NEM . Bremsleitungen und die Imitationen einer automatischen Kupplung liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39720",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ea/63/ea63f285f85dbd4b0a50247bc21423cb1695038404.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

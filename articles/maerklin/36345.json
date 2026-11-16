@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36345",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36345",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 300.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR Köf III",
+    "number": "142",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 90.0
+  },
+  "description": "Vorbild: Dieselhydraulische Rangierlokomotive Baureihe Köf III der Deutschen Bundesbahn (DB) mit der Bezeichnung Köf 11. Farbgebung in purpurrot. Betriebsnummer 11 142. Betriebszustand um 1966.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Spitzensignal an beiden Seiten abschaltbar. Neue Telex - Kupplung vorne und hinten getrennt digital schaltbar. Griffstangen angesetzt. Bremsleitungen liegen bei. Länge über Puffer ca. 9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36345",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/64/d5/64d5dca55055f787451c382904b4e43b1577170807.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

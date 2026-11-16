@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37085",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37085",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schnellzug-Dampflokomotive BR 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 305.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 10 der Deutschen Bundesbahn (DB). Mit Öltender und Öl-Hauptfeuerung.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich Fahrwerksbeleuchtung separat digital schaltbar. Eingerichtet für Rauchsatz 72270. Lokomotive und Tender weitgehend aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Befahrbarer Mindestradius 360 mm. Bremsschläuche liegen separat bei. Länge über Puffer 30,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37085",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fb/b6/fbb61ae4f6e990f8241986b2311790d91507650566.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

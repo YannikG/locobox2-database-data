@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37526",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37526",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": "15301",
+    "livery": "Seetal-Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 162.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie De 6/6 \"Seetal- Krokodil \", ehemals Fahrzeug der Schweizerischen Bundesbahnen ( SBB ), später der Oensingen-Balsthal-Bahn (OeBB). Braunrote Grundfarbgebung. Aktueller Betriebszustand als Museumslokomotive mit der Betriebsnummer 15301.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 6 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht, konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Bremsschläuche liegen separat bei. Länge über Puffer 16,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37526",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/03/2d03c8d94007b6a24cb6adec06f072c01434539354.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

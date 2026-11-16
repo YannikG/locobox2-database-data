@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39250",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39250",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "mit Schlepptender Serie C 5/6",
+    "number": "2965",
+    "livery": "Elefant",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 223.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Gotthard-Dampflokomotive Serie C 5/6 \"Elefant\" der Schweizerischen Bundesbahnen ( SBB ), mit 3-achsigem Schlepptender , für den Einsatz im Güter- und Schnellzugverkehr auf der Gotthard-Strecke. Betriebsnummer 2965, heute noch im Verkehrshaus in Luzern ausgestellt.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok und 2 Lichter am Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. An der Vorderseite der Lok und am Tender Kurzkupplung mit NEM -Schacht, am Tender kinematikgeführt. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39250",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6f/06/6f069d68370a2eda466ded27a26f0ffd1460736307.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

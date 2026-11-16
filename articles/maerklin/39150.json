@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39150",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39150",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103.1",
+    "number": "167-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Ausführung mit „kurzem“ Führerstand , Scherenstromabnehmern, Frontschürze und Pufferverkleidung. Farbgebung in purpurrot/beige. Betriebsnummer 103 167-3. Beheimatet im Bahnbetriebswerk München Hbf. Betriebszustand ab Ende August 1971 bis Mai 1974.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 5-poliger Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Scherenstromabnehmer digital schaltbar. Angesetzte Scheibenwischer. Angesetzte Griffstangen und Dachleitungen aus Metall. Geschlossene Schürze, Bremsleitungen, Steckdosen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39150",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/28/17/2817cca735f55d20c0cfc5acccdff5141543302009.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

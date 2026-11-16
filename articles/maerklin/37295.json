@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37295",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37295",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Vossloh G 2000 BB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 200.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Vossloh G 2000 BB mit symmetrischem Führerhaus, als Am 840 der Schweizerischen Bundesbahnen ( SBB ), eingesetzt für den Güterbereich SBB Cargo. Feuerrot/ultramarinblaue Grundfarbgebung mit basaltgrauem Rahmen. Lok-Betriebsnummer Am 840 002-0. Betriebszustand der Epoche VI.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung pro Führerstand jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Viele separat angesetzte Details. Längsseitige Geländer am Rahmen aus Metall. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Beiliegende Frontabdeckungen können zusätzlich an der Pufferbohle montiert werden. Länge über Puffer 20 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37295",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/43/14/4314e999f214023bb7ceeca0ffcdfd841674543606.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38059",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38059",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 579.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 59",
+    "number": "032",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 235.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 59 (ehemalige Württ. K) mit Kohlen- Schlepptender 2 2 T20. Deutsche Bundesbahn (DB). Schwarze Grundfarbgebung mit rotem Fahrwerk. Betriebsnummer 59 032. Beheimatung BD Stuttgart, Bw Plochingen. Betriebszustand um 1949.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Mit Pufferspeicher. Verstellbare Kurzkupplung zwischen Lok und Tender. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38059",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/04/99/04999d70d6feaa65f7bf406a9af768aa1734424354.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

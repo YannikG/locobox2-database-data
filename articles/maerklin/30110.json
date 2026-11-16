@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30110",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30110",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 44",
+    "number": "025",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 44 der Deutschen Bundesbahn (DB). Flaschengrüne Grundfarbgebung. Mit Scheren-Stromabnehmern. Lok-Betriebsnummer E 44 025. Betriebszustand um 1960.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Das 3. Spitzenlicht unter dem Dach ist lediglich angedeutet. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Kupplungshaken . Verpackung in Anlehnung an die Primex-Verpackung Anfang der 1970er-Jahre. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30110",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/06/58/065878dbed0f6890a49902d8dc1427f01544511606.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

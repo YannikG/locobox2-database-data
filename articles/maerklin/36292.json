@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36292",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36292",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 230.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 247",
+    "number": "030-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 229.0
+  },
+  "description": "Vorbild: Dieselelektrische Lokomotive Baureihe 247 (Vectron DE). Deutschen Bahn AG ( DB AG ). Lok-Betriebsnummer 247 030-0. Aktueller Betriebszustand.\n\nModell: Diesellokomotive in Metallausführung. Fiktive Gestaltung im klassischen V200-Design in purpurroter Grundfarbgebung, mit v-förmigem stirnseitigem Latz und längsseitigem Schriftzug \"Deutsche Bundesbahn\". Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 22,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36292",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/7c/9a7ce82cc844409d3665fbe7dbab479b1577170806.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

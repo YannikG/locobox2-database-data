@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37468",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37468",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Elektrolokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.6 der Firma Lokomotion Gesellschaft für Schienentraktion mbH, München. Zweisystemlokomotive aus dem TRAXX-Typenprogramm (F 140 AC 2). Loknummer 185.661. Lokname \"Paul\". Aktueller Betriebszustand.\n\nModell: Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Geräusch Puffer an Puffer (Betriebsgeräusch 1) und Geräusch ankuppeln und abkuppeln (Betriebsgeräusch 2). Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37468",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/8f/488f032a3a30a43e467d28cc961950661466757279.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

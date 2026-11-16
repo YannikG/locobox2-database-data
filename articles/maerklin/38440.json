@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38440",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38440",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 489.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "GE ES44AC",
+    "number": "7495",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schwere dieselelektrische Güterzuglokomotive Typ General Electric ES44AC der Union Pacific Railroad (UP). Gelbe Grundfarbgebung. Betriebsnummer 7495. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Je zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsunabhängig schaltbare Spitzenbeleuchtung bestehend aus vier Lampen an der Front und zwei nebeneinander positionierten Lampen am Heck der Lokomotive. Spitzensignal konventionell in Betrieb und jeweils paarweise separat digital abschaltbar. Führerstandsbeleuchtung, Betriebsnummerntafeln, Fernlicht und Blinkfunktion der Spitzenlichter digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Serienmässig eingebauter Rauchgenerator mit dynamischem Rauchausstoss, digital schaltbar. Viele separat angesetzte Details. Für den Betrieb mit Klauenkupplungen kann der NEM -Schacht mittels beiliegenden Klemmstücken fixiert werden. Ein Schienenräumer mit geringerer Aussparung für die Front, Bremsschläuche und zwei Klemmstücke für den NEM -Schacht liegen bei. Länge über Kupplung ca. 27 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38440",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/83/ef/83ef95c977e03378b3aaad020608f3fe1669964407.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

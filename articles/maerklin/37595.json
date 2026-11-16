@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37595",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37595",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Doppel-Elektrolokomotive Serie Ae 8/14",
+    "number": "11801",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 391.0
+  },
+  "description": "Vorbild: Schwere Doppel-Elektrolokomotive Serie Ae 8/14 der Schweizerischen Bundesbahnen ( SBB ). Tannengrüne Grundfarbgebung. Ausführung mit 2 Pantographen. Hülsenpuffer mit eckigen Puffertellern. Lok-Betriebsnummer 11801. Betriebszustand nach 1964.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. In jeder Lokhälfte ein geregelter Hochleistungsantrieb mit Schwungmasse . Jeweils 2 Achsen in jeder Lokhälfte angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Umschaltbar auf 1 rotes Schlusslicht bei Solofahrt. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Lichtfunktion. Je Lokhälfte Führerstandbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Heb- und Senkantrieb für beide Pantographen, jeweils separat digital schaltbar. An beiden Stirnseiten vorbildgerecht aufgedrucktes Kreidefeld auf dem Rahmenstirnblech der Pufferbohle. Ein Booklet über die Geschichte der Lokomotive liegt bei. Länge über Puffer 39,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37595",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8a/74/8a74131c0e97753f87e76477a0c4d68d1484058328.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

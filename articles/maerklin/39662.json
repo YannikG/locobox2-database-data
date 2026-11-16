@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39662",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39662",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 629.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "06 001",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 307.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 06 001 der Deutschen Reichsbahn (DR). Seinerzeit das leistungsfähigste, grösste und schwerste Fahrzeug der Reichsbahn. Mit vollständiger Stromlinienverkleidung, Indusi -Magnet auf der rechten Lokseite am hinteren Drehgestell und mit Abdeckung des Kohlenkastens. Tiefschwarze Grundfarbgebung mit Zierstreifen. Betriebszustand Ende der 1930er-Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung und Feuerbüchsenflackern separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Abdeckung des Kohlenkastens kann geöffnet werden. Mit Echtkohlebeladung. Befahrbarer Mindestradius 437,5 mm. Gleisradius bezogene Aussparungen in der Seitenverkleidung können mit beiliegenden Füllstücken geschlossen werden. Lokführerfigur, zwei Heizerfiguren, Bremsschläuche und Schraubenkupplungsimitation liegen ebenfalls bei. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39662",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/09/9e/099e06b64711225ccdd2696194ec18421636117223.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

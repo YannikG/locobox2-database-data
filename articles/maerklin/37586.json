@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37586",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37586",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 470.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Güterzug-Dampflokomotive Gattung G 12",
+    "number": "1901",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 212.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Gattung G 12 der Württembergischen Staatseisenbahnen (W.St.E.). Olivgrüne Länderbahn-Farbgebung. Lok-Betriebsnummer 1901, gebaut 1919 unter der Fabriknummer 3865 von der Maschinenfabrik Esslingen. Auslieferungszustand um 1919.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Raucheinsatz liegt bei. Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Vorne an der Lok kulissengeführte Kurzkupplung mit NEM -Schacht. Hinten am Tender NEM -Kupplungsaufnahme mit Kinematik und Kurzkupplung . Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37586",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8a/b9/8ab94d34c9463a142f2297ead48cbfae1596088850.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

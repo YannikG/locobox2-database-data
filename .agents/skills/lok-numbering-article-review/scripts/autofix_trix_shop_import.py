@@ -58,10 +58,12 @@ def _walk(paths: list[Path]) -> list[Path]:
 
 
 def _is_trix(article: Article) -> bool:
-    if (article.get("manufacturer") or "").strip().lower() == "trix":
+    """True for Trix or Märklin Produktdatenbank imports (same title/Vorbild shape)."""
+    mfr = (article.get("manufacturer") or "").strip().lower()
+    if mfr in {"trix", "maerklin", "märklin"}:
         return True
     url = ((article.get("source") or {}).get("url") or "").lower()
-    return "trix.de" in url
+    return "trix.de" in url or "maerklin.de" in url
 
 
 def _vorbild(desc: str) -> str:

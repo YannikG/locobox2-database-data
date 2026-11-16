@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37982",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37982",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "mit Schlepptender",
+    "number": "494",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Dampflokomotive B VI der Königlich Bayerischen Staatseisenbahnen (K.Bay.Sts.B.). Ausführung mit trichterförmigem Kamin, Torffeuerung und geschlossenem Tender. Vorbild fuhr mit einer Laterne am Tender. Namensschild \"Lessing\". Betriebsnummer 494.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Aussenrahmen und Stephenson- Steuerung . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED . Die obere Laterne vorne und beide Laternen am Tender können entfernt werden. Tender mit erhöhtem Aufbau und beweglichen Klappen. Lok überwiegend aus Metall wie beispielsweise Kessel, Schornstein, Führerhaus und Zylinder. Kurzkupplung zwischen Lok und Tender. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37982",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/db/a6dbc8518666828cbb07d50e0782095e1434538952.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

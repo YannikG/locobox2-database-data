@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39436",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39436",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "S 3/6, die",
+    "number": "3624",
+    "livery": "Hochhaxige",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflok der bayerischen Gattung S 3/6 als Lok der K. Bay. Staatseisenbahnen, Unterbaureihe d, die \"Hochhaxige\" mit 2.000 mm Treibraddurchmesser. Betriebsnummer 3624. Spätere 18 441. Betriebszustand um 1912.\n\nModell: Komplette Neukonstruktion. Lokomotive weitgehend aus Metall. Filigranes Fahrwerk aus Metalldruckguss mit durchbrochenem Barrenrahmen. Freier Fahrwerksdurchblick. Detaillierte Darstellung des Führerstandes. Lampen weiss ausgelegt. 5-poliger Hochleistungsantrieb mit Schwungmasse . Serienmässiger Rauchsatz, beleuchteter Führerstand , Zugbegegnungslicht digital schaltbar, mfx+ Decoder und vielfältige Soundfunktionen. Kurzkupplungskinematik zwischen Lok und Tender mit \"Vitrinenstellung\". Filigrane Rauchkammertür-Tritte, Hakenkupplung und Luftschlauch für Tender hinten sowie Kolbenstangenschutzrohre beiliegend. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39436",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/df/24dff41459bb0c20cea849afe940c7131567503592.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

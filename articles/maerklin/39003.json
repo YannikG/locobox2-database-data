@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39003",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39003",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 01",
+    "number": "184",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01 der Deutschen Reichsbahn-Gesellschaft ( DRG ), mit Kohlen- Schlepptender 2´2´T34. Wagner-Windleitbleche und Rauchkammer mit Zentralverschluss . Lok-Betriebsnummer 01 184. Betriebszustand um 1936.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Feuerbüchsenflackern digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Befahrbarer Mindestradius 360 mm. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39003",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/c1/78c102f0f1fd9bf63dbc8793f4f70b481734105603.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

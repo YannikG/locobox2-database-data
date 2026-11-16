@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37118",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37118",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Reihe C",
+    "number": "2028",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Reihe C der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ). Betriebsnummer 2028, Betriebszustand um 1915.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Vorbereitet für Rauchsatz 72270. Lokomotive weitgehend aus Metall wie beispielsweise Kessel, Kamin, Dom, Führerhaus, Umlauf und Tender. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37118",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/65/01/6501d22da8b2436a66068561d3de05c71533880820.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

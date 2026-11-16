@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39567",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39567",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Ce 6/8 II",
+    "number": "14282",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Ce 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen ( SBB ). Bauart aus der ersten Bauserie in der Ausführung als Rangier- Krokodil mit 1 Stromabnehmer, Rangiererbühne, Rangierertreppen, Hülsenpuffer , Ölkühlerkasten. Tannengrüne Grundfarbgebung. Lok-Betriebsnummer 14282. Betriebszustand Ende der 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse , jeweils 1 Motor in jedem Treibgestell . Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. 3 Stirnlampen jeweils in der Rangiererbühne mit geschlossenem Schutzblech integriert. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Stromabnehmer als Digital-Funktion separat heb- und senkbar. Telex - Kupplung auf beiden Lokseiten jeweils separat digital schaltbar. Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Mit Ölkühlerkasten zwischen den Treibradgruppen. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb des Stromabnehmers. Rangierer-Figur für die Rangiererbühne liegt bei. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39567",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/be/7abeb89e29724df7f9a343af4bb23a681510677141.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

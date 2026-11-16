@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39202",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39202",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "T 679.1266",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 202.0
+  },
+  "description": "Vorbild: Diesellokomotive T 679.1266 der Tschechoslowakischen Staatsbahnen CSD, auch bekannt unter dem Spitznamen „Taigatrommel“. Mit Schalldämpfer sowjetischer Bauart, Ansauggitter mit waagerechten Lamellen und Kühlerlüfter mit Gitter. Betriebszustand um 1980.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Seitlich angesetzte Griffstangen aus Metall. Frontschürzen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer ca. 20,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39202",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/42/d64200d74d2e04e3ab4876b559267d1b1702735218.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

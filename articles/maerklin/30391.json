@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30391",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30391",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E10.12",
+    "number": "1309",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E10.12 \"Bügelfalte\" der Deutschen Bundesbahn (DB). Kobaltblau/beige Grundfarbgebung, als Rheingold-Lokomotive. Ausführung mit 5 Stirnlampen, durchgehendem Lüfterband mit abgerundeten Enden, umlaufender Regenrinne sowie Pufferverkleidung und Schürze. Lok-Betriebsnummer E10 1309. Betriebszustand um 1963.\n\nModell: Erstmalige Auflage mit Metall-Gehäuse in Retro-Ausführung. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Relex - Kupplung . Verpackung mit colorierter Darstellung der Lok in Anlehnung an die historische Verpackung der 1960er Jahre. Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30391",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/7e/fd7e18ed15981d1c57230bafcb5b59bb1767970811.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

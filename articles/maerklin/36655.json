@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36655",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36655",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Diesellokomotive",
+    "number": null,
+    "livery": "Bundesliga",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive der Baureihe 285 aus dem TRAXX-Typenprogramm.\n\nModell: Diesellokomotive \"Bundesliga\". Diesellokomotive der Baureihe 285 in fiktiver Gestaltung mit Abbildung aller Club-Logos der Saison 2017/2018. Metallausführung mit vielen integrierten Einzelheiten. Lokomotive mit Spezialmotor, Digital- Decoder mfx und zwei geschwindigkeitsunabhängige Soundfunktionen. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36655",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ad/52/ad524cbe330d7e1f33eee510ec4fc4eb1500635389.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36506",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36506",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "DHG 500",
+    "number": null,
+    "livery": "DB Cargo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive der Bauart Henschel DHG 500 in einer fiktiven, verkehrsroten Ausführung der DB Cargo.\n\nModell: Lokomotive mit Digital- Decoder und Spezialmotor, sowie eingebauter Geräuschelektronik. 1 Achse angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36506",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/21/2521dde89ac14e8be61d624a261856ba1765825209.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

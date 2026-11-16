@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36371",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36371",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 220.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Serie 130 TB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Serie 130 TB der Société nationale des chemins de fer français ( SNCF ), ex Baureihe 74. Epoche III.\n\nModell: Mit mfx -Digital- Decoder und Spezialmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36371",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/d5/c9d59556eb9c7c4be6bc6993cfa452e21574406012.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39364",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39364",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Ae 6/6",
+    "number": "11407",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 6/6 „Kantonslok“ der SBB CFF FFS als Museumslok (Verein Mikado 1244, CH-Brugg). Kantonswappen Aargau, Farbgebung Tannengrün Glanzlack. Betriebsnummer 11407. Betriebszustand 2017.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Haftreifen . 3 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Weitere separat schaltbare Lichtfunktionen: Umschalten auf ein rotes Schlusslicht, umschalten auf zwei rote Schlusslichter, umschalten auf Warnsignal, Fahrberechtigungssignal und Rangierlicht. Angesetzte Griffstangen aus Metall. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39364",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/08/56/08568e4758dd669b239ca076c4506cef1512123023.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

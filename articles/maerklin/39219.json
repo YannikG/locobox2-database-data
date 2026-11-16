@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39219",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39219",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 218",
+    "number": "418-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 218 der Deutschen Bahn AG ( DB AG ). Touristikzug Lackierung. Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Betriebsnummer 218 418-2. Betriebszustand um 1995.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und stirnseitig aus Metall. Detaillierte Pufferbohle. Lokführerfigur im Führerstand 1. Bremsleitungen liegen als separat ansteckbare Teile bei. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39219",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/0c/1a0cf88e0d4e8d66a0b98890c6e09d4f1545375619.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

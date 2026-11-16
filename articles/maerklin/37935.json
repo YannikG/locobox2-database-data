@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37935",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37935",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "mit Schlepptender Mikado",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Bauart 2-8-2 Light Mikado der Atchison, Topeka & Santa Fe Railway (A.T. & S.F.).\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsmotor. 4 Achsen angetrieben. Haftreifen . Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Geschwindigkeitsabhängiges, synchronisiertes Dampflokgeräusch, Pfeifsignal sowie Läutewerk oder Anfahr- und Bremsverzögerung digital schaltbar. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Authentische Gebrauchsspuren. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 29 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37935",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/6d/8c6d46cb26d8fe57d6ffba8580d79c091451855402.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

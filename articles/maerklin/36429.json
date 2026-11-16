@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36429",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36429",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "Diesellokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 132 \"Ludmilla\" der Deutschen Reichsbahn (DR). Betriebszustand um 1982.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36429",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/13/6b/136bba30347862ab931aa856990cc4a01434539179.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

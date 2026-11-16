@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37578",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37578",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Elektrolokomotive",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E03 als Vorserien-Lokomotive. Fiktive Gestaltung in der kobaltblauen Farbgebung des Märklin Magazins. Mit einer seitlichen Lüfterreihe, Pufferverkleidung, Schienenräumer und Scherenstromabnehmer . Betriebsnummer E03 001. Betriebszustand 1965.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Maschinenraumbeleuchtung separat digital schaltbar. Beleuchtungen mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Detaillierte Dachausrüstung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37578",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cd/f2/cdf2faf0983f8d9e7fa3a33df73db0321434539134.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

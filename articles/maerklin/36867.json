@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36867",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36867",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Gattung PtL 2/2",
+    "number": "4514",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Dampflokomotive PtL 2/2 (\"Glaskasten\") der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung mit Blindwelle. Betriebsnummer 4514. Betriebszustand um 1910.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Innenkessel aus Metall. Gehäuse aus metallgefülltem Kunststoff für verbessertes Zugkraftverhalten. Zahlreiche angesetzte Handläufe und Griffstangen. Länge über Puffer ca. 8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36867",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/eb/58eb9d7646f2690e87412193aea00e661545202818.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

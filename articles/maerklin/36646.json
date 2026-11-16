@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36646",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36646",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "BR 17",
+    "number": "1703",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 17 der SNCB/NMBS. Lichtgraue Grundfarbgebung. Betriebsnummer 1703. Betriebszustand ab 2026.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Vier mechanisch funktionsfähige Dachstromabnehmer mit unterschiedlichen Schleifstücken. Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36646",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/98/3d/983d38cc31b22e11f44dad6e6b9d5a0a1765839610.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

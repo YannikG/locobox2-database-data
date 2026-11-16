@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39089",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39089",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Rh 1189",
+    "number": "1189.04",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1189 \"Österreichisches Krokodil \" ( ÖBB ). Ausführung in tannengrüner Grundfarbgebung. Betriebsnummer 1189.04. Betriebszustand Anfang/Mitte der 1970er-Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils 2 Treibräder in den beiden Treibgestellen über Kardan angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar auf ein weisses Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Rangierlichtes (je 1x weiss auf jeder Lokseite). Führerstands- und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten, wie Kühlröhren für das Transformatorenöl. Führerstands- und Maschinenraum-Nachbildung. Detaillierte Dachausrüstung. Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer ca 23,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39089",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/10/24/10248601f6da1a1ffc15f4f0ada9ee751634277643.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

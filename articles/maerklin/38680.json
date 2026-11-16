@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38680",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38680",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 569.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Ae 6/8",
+    "number": "207",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 233.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 6/8 der Bern-Lötschberg-Simplon Bahn (BLS). Lokomotive aus der 2. Bauserie. Dunkelbraune Grundfarbgebung mit schwarzem Fahrwerk. Ausführung im ursprünglichen Zustand mit 2 Pantographen und Bremswiderständen im Maschinenraum. Mit stirnseitigen Übergangsblechen und Falschfahrsignal. Signum-Integra Magnet am Lokende II. Längsseitig jeweils mit 4 Maschinenraum-Fenstern und Lamellen-Lüftergittern. Lok-Betriebsnummer 207. Betriebszustand Ende 1940er-/Anfang 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils beide äusseren Treibradsätze in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Falschfahrsignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandbeleuchtung, Führerpultbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Befahrbarer Mindestradius 360 mm. Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38680",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/99/4b/994bc40021b582a4066b90036dd51df51744646412.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

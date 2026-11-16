@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36656",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36656",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 285",
+    "number": null,
+    "livery": "Superhelden",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Diesellokomotive der Baureihe 285 aus dem TRAXX-Typenprogramm.\n\nModell: Diesellokomotive der Baureihe 285 in einer tollen Gestaltung mit verschiedenen Superhelden. Metallausführung mit vielen integrierten Einzelheiten. Digital steuerbare Lokomotive mit Licht- und Soundfunktionen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal . Beleuchtung mit warmweissen Leuchtdioden. Zwei geschwindigkeitsunabhängige Soundfunktionen passend zu den Superhelden Charakteren. Lokomotive mit Digital- Decoder . Angetriebene Achse mit Haftreifen für optimale Zugkraft. Lokomotivlänge 22 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36656",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/d9/e4d92fe66b2f45fbc92ce6daa05eca901677675612.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

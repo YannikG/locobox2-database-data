@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37509",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37509",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 56",
+    "number": "765",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 211.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive der Baureihe 56.2-8 der Deutschen Reichsbahn (DR) der DDR. Umgebaute preussische G 8.1 mit Vorlaufachse. Mit Reichsbahn-Lampen und Läutewerk. Kohlen- Schlepptender der Bauart 3T 16,5. Betriebsnummer 56 765. Betriebszustand um 1966.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Vorbereitet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden ( LED ). Angesetzte Windleitbleche. Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok Kurzkupplung mit NEM -Schacht. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Kolbenstangenschutzrohre, Bremsleitungen, Schraubenkupplungsimitation sowie ein Schiebebildsatz zur vorbildgerechten Beschriftung der Windleitbleche liegen bei. Länge über Puffer 21,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37509",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/99/06/9906e067dcd8845053f76db566b829ba1639400421.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

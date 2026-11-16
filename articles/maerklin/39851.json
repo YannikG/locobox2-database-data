@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39851",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39851",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 152",
+    "number": "127-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 152 der Railion Deutschland AG (DB Logistics). Betriebsnummer 152 127-7. Betriebszustand um 2008.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlicht und zwei weitere Lichtfunktionen jeweils digital schaltbar. Somit können folgende Lichtfunktionen geschaltet werden: Spitzensignal abgeblendet, Spitzensignal , Scheinwerfer (Fernlicht) abgeblendet und Fernlicht. Mit der Funktion Rangiergang schaltet sich automatisch das Doppel-A-Licht ein. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39851",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6b/7b/6b7bb5b4824c8bac5f07d7692f4334be1484061166.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39498",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39498",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 679.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 498.1",
+    "number": null,
+    "livery": "Albatros",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 293.0
+  },
+  "description": "Vorbild: Schwere Schnellzug-Dampflokomotive mit Schlepptender der Baureihe 498.1. Ausführung als Museumslokomotive 498.104 der Železnice Slovenskej Republiky (ŽSR). Aktueller Betriebszustand, so wie die Lokomotive derzeit betriebsfähig in Bratislava beheimatet ist.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an Lok und Zweilicht-Spitzensignal am Tender konventionell in Betrieb, digital schaltbar. Oberes Spitzenlicht separat schaltbar. Beleuchtetes Loknummernschild am oberen Spitzenlicht integriert und funktionsfähig. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Bremsschläuche, Schraubenkupplungsimitation und ein Luftbehälter zum Ansetzen an den Tender liegen bei. Befahrbarer Mindestradius R2=437,5 mm. Länge über Puffer ca. 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39498",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/60/56/60569c49b449ab0319bc6ea237b498751663740014.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}

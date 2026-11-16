@@ -41,6 +41,10 @@ from locobox_cli.adapters.sources.bemo.catalog import (
     extract_bemo_catalog_rows,
     rows_to_queue as bemo_rows_to_queue,
 )
+from locobox_cli.adapters.sources.maerklin.catalog import (
+    extract_maerklin_catalog_rows,
+    rows_to_queue as maerklin_rows_to_queue,
+)
 from locobox_cli.application.ports.queue_store import QueueKind
 from locobox_cli.application.queue.parse import render_queue_text
 from locobox_cli.domain.manufacturer import Manufacturer
@@ -64,7 +68,7 @@ def extract_cmd(
         "piko",
         "--source",
         "-s",
-        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo",
+        help="piko | roco | trix | ree | lsmodels | jouef | acme | bemo | maerklin",
     ),
     text_file: Path = typer.Option(..., "--text-file", "-t"),
     out: Optional[Path] = typer.Option(None, "--out", "-o", help="Candidate queue path"),
@@ -74,7 +78,7 @@ def extract_cmd(
         True,
         "--locomotives-only/--all-rolling-stock",
         help=(
-            "Roco/Trix/REE/LS Models/Jouef/ACME/BEMO: keep only locomotives/motorized "
+            "Roco/Trix/REE/LS Models/Jouef/ACME/BEMO/Märklin: keep only locomotives/motorized "
             "(default). Ignored for PIKO."
         ),
     ),
@@ -107,6 +111,9 @@ def extract_cmd(
     elif mfr == Manufacturer.BEMO:
         rows = extract_bemo_catalog_rows(text, locomotives_only=locomotives_only)
         queue = bemo_rows_to_queue(rows, min_price_eur=min_price_eur)
+    elif mfr == Manufacturer.MAERKLIN:
+        rows = extract_maerklin_catalog_rows(text, locomotives_only=locomotives_only)
+        queue = maerklin_rows_to_queue(rows, min_price_eur=min_price_eur)
     else:
         raise typer.BadParameter(f"unsupported --source {source!r}")
     rendered = render_queue_text(queue, numbers_only=False)

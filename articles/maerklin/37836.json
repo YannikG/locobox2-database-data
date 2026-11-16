@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37836",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37836",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 050",
+    "number": "045-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 265.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 050 mit Kabinentender der Deutschen Bundesbahn (DB). Witte-Windleitbleche, 4 Kesselaufbauten, gekürzter Umlauf, DB-Reflexglaslampen und Indusi . Lok-Betriebsnummer 050 045-4. Betriebszustand um 1970.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung und Kabinen-Beleuchtung im Kabinentender jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Im Kabinentender ist die Figur eines Zugbegleiters bereits serienmässig eingesetzt. Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Lokführer und Heizer-Figur sowie Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37836",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/51/37511321aa002d9f2922a3baccbd3eba1484058874.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:51Z"
+}

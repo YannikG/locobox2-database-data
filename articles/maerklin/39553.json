@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39553",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39553",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Güterzug-Dampflokomotive mit Schlepptender",
+    "number": "584",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 235.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive der Baureihe 57.5 (ehem. bayerische Gattung G 5/5), mit Schlepptender 2´2 T21,8. Bauart-Ausführung aus der vierten Lieferserie. Schwarz/rote Grundfarbgebung der Deutschen Bundesbahn (DB). Betriebsnummer 57 584. Betriebszustand um 1949.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kulissengeführte Kurzkupplung mit Kinematik zwischen Lok und Tender. Vorne an der Lok und hinten am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39553",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/55/e25566827cb4e65a326759a0026f4d5b1467124516.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

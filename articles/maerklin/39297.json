@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39297",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39297",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 249",
+    "number": "006",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 236.0
+  },
+  "description": "Vorbild: Zweikraftlokomotive BR 249 (Vectron Dual Mode light) der DB Cargo AG. Aus der Vectron-Produktfamilie von Siemens. Betriebsnummer 249 006. Betriebszustand 2024.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Fernscheinwerfer separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Stromabnehmer digital heb- und senkbar. Telex - Kupplung auf beiden Lokseiten jeweils separat digital schaltbar. Kupplungswalzer . Ansteckbare Bremsschläuche und Rangierkupplung liegen separat bei. Länge über Puffer ca. 23,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39297",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/89/5289b39048fae7c582ef1fc4d8965a291743591604.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37996",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37996",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "mit Schlepptender",
+    "number": "4020",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Reihe 4000 \"Big Boy\" der Union Pacific Railroad (UP). Ausführung der Lokomotive mit der Betriebsnummer 4020. Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 8 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Boxpok -Räder. Mittlere Kuppelachsen gefedert. Stirnlampe, Tender und Nummerntafeln mit wartungsfreien warmweissen Leuchtdioden ( LED ) beleuchtet. 2 Rauchsätze (7226) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal - und Nummerntafelnbeleuchtung konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung digital schaltbar. Leistungsfähiger Lautsprecher im Tender, Lautstärke einstellbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Kurzkupplung zwischen Lok und Tender. Dampfleitungen schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Länge über Kupplungen 46,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37996",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/3f/2b3f113470fef7c697cf1969a97c25851434539260.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

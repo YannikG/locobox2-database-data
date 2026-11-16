@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39415",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39415",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Elektrolokomotive",
+    "number": "012",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Einheits-Elektrolokomotive Baureihe E41 der Deutschen Bundesbahn (DB). Stahlblaue Grundfarbgebung. Ausführung mit 3 Einfachlampen, Schweiger-Lüftergitter mit waagerechten Lamellen und umlaufender Regenrinne. Betriebsnummer E41 012. Betriebszustand um 1958.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Mit Lokführer-Figur im Führerstand 1. Angesetzte Dachlaufstege. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39415",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/36/49/3649f03c7b5ed1e62ff0e8339f0227991467124051.jpg"
+  },
+  "updatedAt": "2026-11-16T06:52:41Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37515",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37515",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6 II",
+    "number": "10435",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 3/6 II der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Dunkelbraune Farbgebung. Betriebsnummer 10435. Betriebszustand um 1927.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und 2 Blindwellen angetrieben. Haftreifen . Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) mit der Fahrtrichtung wechselnd konventionell in Betrieb, digital schaltbar. Umschaltung auf ein rotes Schlusslicht möglich. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Eingesetzte Griffstangen. Ein Booklet informiert über die Geschichte der Lokomotive. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37515",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/8e/938ec16689e542af6d422c14504a4c981607238022.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:52Z"
+}

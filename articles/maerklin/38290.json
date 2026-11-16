@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38290",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38290",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 469.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe MZ",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 241.0
+  },
+  "description": "Vorbild: Dieselelektrische Lokomotive Reihe MZ der Dänischen Staatsbahnen (DSB). Mehrzweckmaschine in rot/schwarzer Farbgebung. 3. Bauserie, gebaut von der Nydqvist och Holm AB (NOHAB) im schwedischen Trollhättan. Betriebszustand der Epoche IV, 1970er/1980er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils 2 Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Doppel-A-Licht Funktion. Führerstandbeleuchtung und Fahrpultbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Serienmässig eingebauter Rauchgenerator . Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer ca. 24,1 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38290",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/a5/7aa520394d8ba40b02d499eb61c6c30b1766138116.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:54Z"
+}

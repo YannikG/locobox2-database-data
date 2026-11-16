@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30350",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30350",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 279.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR E 424",
+    "number": "E 424.109",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 424 der Italienischen Staatsbahnen ( FS ). Farbgebung Castano/Isabella. Mit Scheren-Stromabnehmern. Lok-Betriebsnummer E 424.109. Betriebszustand der Epoche III.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Kupplungshaken mit Vorentkupplung. Verpackung mit colorierter Darstellung der Lok, in Anlehnung an die historische Verpackung der damaligen Zeit. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30350",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6f/a6/6fa65dbc0e5087c9b29fcb94d170967c1639724449.jpg"
+  },
+  "updatedAt": "2026-11-16T07:14:53Z"
+}
