@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-245",
+  "manufacturer": "REE",
+  "articleNumber": "MB-245",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 239.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67012",
+    "number": "BB 67012",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel BB 67012 Livrée bleue, Nevers, Ep. IV, Analogique - MB245",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1045--ho-locomotive-diesel-bb-67012-livree-bleue-nevers-ep-iv-analogique-mb245-0637902478295.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/762-large_default/-ho-locomotive-diesel-bb-67012-livree-bleue-nevers-ep-iv-analogique-mb245.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

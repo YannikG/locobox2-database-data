@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-024",
+  "manufacturer": "REE",
+  "articleNumber": "JM-024",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "[HO] Locomotive diesel 852 des CFL, Ep. IV, DC",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] Locomotive diesel 852 des CFL, Ep. IV, DC - JM024",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/443--ho-locomotive-diesel-852-des-cfl-ep-iv-dc-jm024-0637902938522.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/833-large_default/-ho-locomotive-diesel-852-des-cfl-ep-iv-dc-jm024.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

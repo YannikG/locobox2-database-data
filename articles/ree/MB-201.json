@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-201",
+  "manufacturer": "REE",
+  "articleNumber": "MB-201",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 16029",
+    "number": "BB 16029",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive électrique BB 16029 En Voyage, Ep. V, Analogique - MB201",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/969--ho-locomotive-electrique-bb-16029-en-voyage-ep-v-analogique-mb201-0652733179814.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

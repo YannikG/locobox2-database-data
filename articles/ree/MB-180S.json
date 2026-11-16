@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-180S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-180S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 16053",
+    "number": "BB 16053",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique BB 16053, livrée Corail, dépôt de Paris La Chapelle, Ep. IV, SNCF, DCC Sound – MB180S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/910--ho-locomotive-electrique-bb-16053-livree-corail-depot-de-paris-la-chapelle-ep-iv-sncf-dcc-sound-mb180s-0637902065587.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1643-large_default/-ho-locomotive-electrique-bb-16053-livree-corail-depot-de-paris-la-chapelle-ep-iv-sncf-dcc-sound-mb180s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

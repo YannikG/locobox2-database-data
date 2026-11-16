@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-253S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-253S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 25200",
+    "number": "BB 25243",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive électrique BB 25243 Livrée verte, MARSEILLE avec jupes et vitres d'angles, Ep. IV, DCC Sound - MB253S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1070--ho-locomotive-electrique-bb-25243-livree-verte-marseille-avec-jupes-et-vitres-d-angles-ep-iv-dcc-sound-mb253s-0652733305466.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

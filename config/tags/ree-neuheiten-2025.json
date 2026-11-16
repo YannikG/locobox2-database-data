@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "REE Neuheiten 2025",
+  "slug": "ree-neuheiten-2025",
+  "description": "REE Modèles H0 Neuheiten aus dem Katalog 2025 (Motorfahrzeuge).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "ree",
+  "year": 2025,
+  "order": 1,
+  "source": "https://catalogues.ree-modeles.com/2025-ree-ho/2025-Catalogue-REE.pdf"
+}

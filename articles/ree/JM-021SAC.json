@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-021SAC",
+  "manufacturer": "REE",
+  "articleNumber": "JM-021SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 64079",
+    "number": "BB 64079",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive diesel BB 64079, livrée Arzens, Ep. V, SNCF, AC Sound 3 rails - JM021SAC",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/436--ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-ac-sound-3-rails-jm021sac-0637902919392.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/819-large_default/-ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-ac-sound-3-rails-jm021sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

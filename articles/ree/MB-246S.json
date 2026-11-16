@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-246S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-246S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 67321",
+    "number": "BB 67321",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive diesel BB 67321 Livrée bleue, dépôt de Chambéry, Ep. V, DCC Sound - MB246S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1049--ho-locomotive-diesel-bb-67321-livree-bleue-depot-de-chambery-ep-v-dcc-sound-mb246s-0637902910573.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

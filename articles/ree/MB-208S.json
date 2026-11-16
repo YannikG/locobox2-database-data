@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-208S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-208S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 7125",
+    "number": "CC 7125",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "[HO] : Locomotive électrique CC 7125, LYON-MOUCHE, Ep. III, DCC Sound - MB208S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/991--ho-locomotive-electrique-cc-7125-lyon-mouche-ep-iii-dcc-sound-mb208s-0652733232007.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/679-large_default/-ho-locomotive-electrique-cc-7125-lyon-mouche-ep-iii-dcc-sound-mb208s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

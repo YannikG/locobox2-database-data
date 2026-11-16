@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-250",
+  "manufacturer": "REE",
+  "articleNumber": "MB-250",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 67590",
+    "number": "BB 67590",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive diesel BB 67590 Livrée d'origine, Logos Casquette/Carmillon, Ep. V-VI, Analogique - MB250",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1060--ho-locomotive-diesel-bb-67590-livree-d-origine-logos-casquette-carmillon-ep-v-vi-analogique-mb250-0652733565679.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-257SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-257SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 484.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2774, Rouge TEE, NOISY, Ep. III-IV, AC Sound 3 rails – REE MB257SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1083--ho-autorail-rgp-1-x-2774-rouge-tee-noisy-ep-iii-iv-ac-sound-3-rails-ree-mb257sac-0652733116192.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/2002-large_default/-ho-autorail-rgp-1-x-2774-rouge-tee-noisy-ep-iii-iv-ac-sound-3-rails-ree-mb257sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

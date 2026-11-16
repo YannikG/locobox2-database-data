@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-023S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-023S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 64044",
+    "number": "BB 64044",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 64044, livrée En Voyage, Ep. VI, SNCF, DCC Sound - JM023S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/441--ho-locomotive-diesel-bb-64044-livree-en-voyage-ep-vi-sncf-dcc-sound-jm023s-0637902381656.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/829-large_default/-ho-locomotive-diesel-bb-64044-livree-en-voyage-ep-vi-sncf-dcc-sound-jm023s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

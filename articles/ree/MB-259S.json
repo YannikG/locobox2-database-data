@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-259S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-259S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 474.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2728, Vert, NOISY, Ep. III-IV, avec cuisine, DCC Sound - MB259S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1088--ho-autorail-rgp-1-x-2728-vert-noisy-ep-iii-iv-avec-cuisine-dcc-sound-mb259s-0652733559524.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/438-large_default/-ho-autorail-rgp-1-x-2728-vert-noisy-ep-iii-iv-avec-cuisine-dcc-sound-mb259s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

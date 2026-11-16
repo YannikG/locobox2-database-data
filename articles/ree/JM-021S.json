@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-021S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-021S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 64079",
+    "number": "BB 64079",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive diesel BB 64079, livrée Arzens, Ep. V, SNCF, DCC Sound - JM021S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/435--ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-dcc-sound-jm021s-0637902173176.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/817-large_default/-ho-locomotive-diesel-bb-64079-livree-arzens-ep-v-sncf-dcc-sound-jm021s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

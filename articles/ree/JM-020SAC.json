@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-020SAC",
+  "manufacturer": "REE",
+  "articleNumber": "JM-020SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 63692",
+    "number": "BB 63692",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive diesel BB 63692, Villeneuve, livrée vert 301, Ep. IV, SNCF, AC Sound 3 rails - JM020SAC",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/433--ho-locomotive-diesel-bb-63692-villeneuve-livree-vert-301-ep-iv-sncf-ac-sound-3-rails-jm020sac-0637902314531.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/813-large_default/-ho-locomotive-diesel-bb-63692-villeneuve-livree-vert-301-ep-iv-sncf-ac-sound-3-rails-jm020sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

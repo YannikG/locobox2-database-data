@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-203",
+  "manufacturer": "REE",
+  "articleNumber": "MB-203",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 299.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 9218",
+    "number": "BB 9218",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Locomotive électrique BB 9218 sans feux rouges, BORDEAUX, Ep. IV, Analogique - MB203",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/975--ho-locomotive-electrique-bb-9218-sans-feux-rouges-bordeaux-ep-iv-analogique-mb203-0652733501264.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/903-large_default/-ho-locomotive-electrique-bb-9218-sans-feux-rouges-bordeaux-ep-iv-analogique-mb203.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

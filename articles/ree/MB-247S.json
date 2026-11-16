@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-247S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-247S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 349.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67379",
+    "number": "BB 67379",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67379 Livrée Multiservice, dépôt de Chambéry, Ep. VI, DCC Sound – MB247S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1052--ho-locomotive-diesel-bb-67379-livree-multiservice-depot-de-chambery-ep-vi-dcc-sound-mb247s-0637902592113.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1635-large_default/-ho-locomotive-diesel-bb-67379-livree-multiservice-depot-de-chambery-ep-vi-dcc-sound-mb247s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

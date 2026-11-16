@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-252SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-252SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25236",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locomotive électrique BB 25236 Livrée verte, VÉNISSIEUX avec jupes, Ep. IV-V, AC Sound 3 rails - MB252SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1068--ho-locomotive-electrique-bb-25236-livree-verte-venissieux-avec-jupes-ep-iv-v-ac-sound-3-rails-mb252sac-0652733800428.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/509-large_default/-ho-locomotive-electrique-bb-25236-livree-verte-venissieux-avec-jupes-ep-iv-v-ac-sound-3-rails-mb252sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

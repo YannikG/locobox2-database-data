@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-246",
+  "manufacturer": "REE",
+  "articleNumber": "MB-246",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 239.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67321",
+    "number": "BB 67321",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive diesel BB 67321 Livrée bleue, dépôt de Chambéry, Ep. V, Analogique - MB246",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1048--ho-locomotive-diesel-bb-67321-livree-bleue-depot-de-chambery-ep-v-analogique-mb246-0637902659557.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/768-large_default/-ho-locomotive-diesel-bb-67321-livree-bleue-depot-de-chambery-ep-v-analogique-mb246.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

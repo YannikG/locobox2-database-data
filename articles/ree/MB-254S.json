@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-254S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-254S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 25200",
+    "number": "BB 25203",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 25203 Livrée béton, VÉNISSIEUX logo nouilles Ep. V, DCC Sound - MB254S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1073--ho-locomotive-electrique-bb-25203-livree-beton-venissieux-logo-nouilles-ep-v-dcc-sound-mb254s-0652733405579.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/519-large_default/-ho-locomotive-electrique-bb-25203-livree-beton-venissieux-logo-nouilles-ep-v-dcc-sound-mb254s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

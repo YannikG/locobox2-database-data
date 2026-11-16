@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-025",
+  "manufacturer": "REE",
+  "articleNumber": "VM-025",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 400",
+    "number": "BB400",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HOm] : Locotracteur diesel BB400 N°405 CFC Chemin de Fer de Corse, Couleur d'origine, ANALOGIQUE - VM025",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/2282--hom-locotracteur-diesel-bb400-n405-cfc-chemin-de-fer-de-corse-couleur-d-origine-analogique-vm025-0637902403921.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

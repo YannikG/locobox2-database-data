@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-043",
+  "manufacturer": "REE",
+  "articleNumber": "VM-043",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CFD",
+    "type": "Voiture « Cage à Poule », CFD, Ep. IIIb",
+    "number": null,
+    "livery": "Cage à Poule",
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HOe/HOm] : Voiture « Cage à Poule », CFD, Ep. IIIb – VM043",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/voitures-voyageurs/2302--hoe-hom-voiture-cage-a-poule-cfd-ep-iiib-vm043-0637902290064.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/377-large_default/-hoe-hom-voiture-cage-a-poule-cfd-ep-iiib-vm043.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

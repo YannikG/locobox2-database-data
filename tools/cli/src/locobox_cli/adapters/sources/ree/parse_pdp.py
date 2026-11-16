@@ -131,16 +131,26 @@ def _categories_from_url(url: str, title: str, article: str) -> list[str]:
         return ["triebwagen", "dieseltriebwagen"]
     if "/machines/" in u and re.search(r"\btgv\b", blob):
         return ["triebzug", "elektrotriebwagen"]
-    if "locomotives-electriques" in u or re.search(r"\bbb\s*\d|électrique|electrique", blob):
-        return ["lokomotive", "elektrolokomotive"]
-    if "locomotives-diesel" in u or re.search(r"diesel", blob):
+    # URL path first (shop taxonomy is reliable); do not infer electric from "BB".
+    if "locomotives-diesel" in u or "/diesel" in u:
         return ["lokomotive", "diesellokomotive"]
-    if "locomotive-vapeur" in u or "vapeur" in u or re.search(r"vapeur|dampf", blob):
+    if "locomotives-electriques" in u or "/electrique" in u:
+        return ["lokomotive", "elektrolokomotive"]
+    if "locomotive-vapeur" in u or "/vapeur" in u:
+        return ["lokomotive", "dampflokomotive"]
+    if re.search(r"\bdiesel\b", blob):
+        return ["lokomotive", "diesellokomotive"]
+    if re.search(r"électrique|electrique", blob):
+        return ["lokomotive", "elektrolokomotive"]
+    if re.search(r"vapeur|dampf", blob):
         return ["lokomotive", "dampflokomotive"]
     if article.upper().startswith("TGV") or re.search(r"\btgv\b", blob):
         return ["triebzug", "elektrotriebwagen"]
     if article.upper().startswith("VM"):
         return ["triebwagen", "dieseltriebwagen"]
+    if article.upper().startswith("JM"):
+        # Access electrics (CC 7100 etc.)
+        return ["lokomotive", "elektrolokomotive"]
     return ["lokomotive"]
 
 

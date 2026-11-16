@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-229",
+  "manufacturer": "REE",
+  "articleNumber": "MB-229",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 250.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Autorail X2913 Jupé, 1ère classe Origine, VAISE, SNCF",
+    "number": "X2913",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail X2913 Jupé, 1ère classe Origine, VAISE, SNCF, Ep. IV, Analogique - MB229",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1015--ho-autorail-x2913-jupe-1ere-classe-origine-vaise-sncf-ep-iv-analogique-mb229-0652733288165.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1393-large_default/-ho-autorail-x2913-jupe-1ere-classe-origine-vaise-sncf-ep-iv-analogique-mb229.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

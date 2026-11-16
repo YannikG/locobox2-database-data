@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-202",
+  "manufacturer": "REE",
+  "articleNumber": "MB-202",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 9216",
+    "number": "BB 9216",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive électrique BB 9216, Livrée d'origine verte jupée, AVIGNON, Ep. IV, Analogique - MB202",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/972--ho-locomotive-electrique-bb-9216-livree-d-origine-verte-jupee-avignon-ep-iv-analogique-mb202-0652733777492.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

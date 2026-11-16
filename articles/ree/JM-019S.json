@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-019S",
+  "manufacturer": "REE",
+  "articleNumber": "JM-019S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "BB 63933",
+    "number": "BB 63933",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive diesel BB 63933, Nantes, livrée vert 301, Ep. IV, SNCF, DCC Sound - JM019S",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/429--ho-locomotive-diesel-bb-63933-nantes-livree-vert-301-ep-iv-sncf-dcc-sound-jm019s-0637902424179.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/804-large_default/-ho-locomotive-diesel-bb-63933-nantes-livree-vert-301-ep-iv-sncf-dcc-sound-jm019s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

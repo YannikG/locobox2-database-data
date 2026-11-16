@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-VM-024",
+  "manufacturer": "REE",
+  "articleNumber": "VM-024",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 199.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "Chemin de fer de Provence",
+    "type": "BB 400",
+    "number": "BB400",
+    "livery": null,
+    "scale": "H0m",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "[HOm] : Locotracteur diesel BB400 N°402 Chemin de Fer de Provence, ANALOGIQUE - VM024",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/2280--hom-locotracteur-diesel-bb400-n402-chemin-de-fer-de-provence-analogique-vm024-0637902462409.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/362-large_default/-hom-locotracteur-diesel-bb400-n402-chemin-de-fer-de-provence-analogique-vm024.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

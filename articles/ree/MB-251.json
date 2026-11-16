@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-251",
+  "manufacturer": "REE",
+  "articleNumber": "MB-251",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 284.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67547",
+    "number": "BB 67547",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67547 Livrée Multiservice, Logos Casquette, NEVERS, Ep. V-VI, Analogique - MB251",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1063--ho-locomotive-diesel-bb-67547-livree-multiservice-logos-casquette-nevers-ep-v-vi-analogique-mb251-0652733090195.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1576-large_default/-ho-locomotive-diesel-bb-67547-livree-multiservice-logos-casquette-nevers-ep-v-vi-analogique-mb251.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

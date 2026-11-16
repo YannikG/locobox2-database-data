@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-207S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-207S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 16028",
+    "number": "BB 16028",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "[HO] : Locomotive électrique BB 16028, Achères, Ep. V, DCC Sound - REE MB207S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/988--ho-locomotive-electrique-bb-16028-acheres-ep-v-dcc-sound-ree-mb207s-0652733527301.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/912-large_default/-ho-locomotive-electrique-bb-16028-acheres-ep-v-dcc-sound-ree-mb207s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

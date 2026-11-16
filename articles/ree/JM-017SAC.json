@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-JM-017SAC",
+  "manufacturer": "REE",
+  "articleNumber": "JM-017SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "Unbekannt",
+    "type": "Locomotive diesel 040 DE 528, livrée d'origine, Ep. III, SNCF, AC Sound 3 rails",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "[HO] : Locomotive diesel 040 DE 528, livrée d'origine, Ep. III, SNCF, AC Sound 3 rails - JM017SAC",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/424--ho-locomotive-diesel-040-de-528-livree-d-origine-ep-iii-sncf-ac-sound-3-rails-jm017sac-0637902165676.html",
+    "notes": "Daten von der Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

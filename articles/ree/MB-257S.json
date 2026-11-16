@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-257S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-257S",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 474.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "RGP 1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Autorail RGP 1 X-2774, Rouge TEE, NOISY, Ep. III-IV, DCC Sound – MB257S",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1082--ho-autorail-rgp-1-x-2774-rouge-tee-noisy-ep-iii-iv-dcc-sound-mb257s-0652733336989.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1999-large_default/-ho-autorail-rgp-1-x-2774-rouge-tee-noisy-ep-iii-iv-dcc-sound-mb257s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

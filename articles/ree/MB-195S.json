@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-195S",
+  "manufacturer": "REE",
+  "articleNumber": "MB-195S",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Locomotive électrique CC 71O6, AVIGNON, GRG",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "[HO] : Locomotive électrique CC 71O6, AVIGNON, GRG, Ep. IV-V, DCC Sound - MB195S",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/952--ho-locomotive-electrique-cc-71o6-avignon-grg-ep-iv-v-dcc-sound-mb195s-0652733162403.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/673-large_default/-ho-locomotive-electrique-cc-71o6-avignon-grg-ep-iv-v-dcc-sound-mb195s.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:27Z"
+}

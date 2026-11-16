@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-242",
+  "manufacturer": "REE",
+  "articleNumber": "MB-242",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 284.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 67608",
+    "number": "BB 67608",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "[HO] : Locomotive diesel BB 67608, Livrée INFRA, NEVERS, Ep. VI, Analogique - MB242",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-diesel/1036--ho-locomotive-diesel-bb-67608-livree-infra-nevers-ep-vi-analogique-mb242-0652733443953.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1530-large_default/-ho-locomotive-diesel-bb-67608-livree-infra-nevers-ep-vi-analogique-mb242.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-256SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-256SAC",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 20005",
+    "number": "BB 20005",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-IV"
+  },
+  "description": "[HO] : Locomotive électrique BB 20005 Prototype, Livrée verte, DOLE, Ep. III-IV, AC Sound 3 rails - MB256SAC",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/locomotives-electriques/1080--ho-locomotive-electrique-bb-20005-prototype-livree-verte-dole-ep-iii-iv-ac-sound-3-rails-mb256sac-0652733716309.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/533-large_default/-ho-locomotive-electrique-bb-20005-prototype-livree-verte-dole-ep-iii-iv-ac-sound-3-rails-mb256sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}

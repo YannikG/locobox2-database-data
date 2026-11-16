@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "ree-MB-230SAC",
+  "manufacturer": "REE",
+  "articleNumber": "MB-230SAC",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Autorail X2898 Jupé, 1ère/2nde classes, VAISE, SNCF, Ep. IV, AC Sound 3 rails",
+    "number": "X2898",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "[HO] : Autorail X2898 Jupé, 1ère/2nde classes, VAISE, SNCF, Ep. IV, AC Sound 3 rails - MB230SAC",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "ree-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.ree-store.com/autorails/1020--ho-autorail-x2898-jupe-1ere-2nde-classes-vaise-sncf-ep-iv-ac-sound-3-rails-mb230sac-0652733144249.html",
+    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.ree-store.com/1383-large_default/-ho-autorail-x2898-jupe-1ere-2nde-classes-vaise-sncf-ep-iv-ac-sound-3-rails-mb230sac.jpg"
+  },
+  "updatedAt": "2026-11-16T07:24:28Z"
+}
