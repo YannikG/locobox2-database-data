@@ -29,6 +29,10 @@ Separate Tabellen für geplante Reihen (z. B. Coradia Stream, KISS-Varianten, Mi
 - Shop-Titel «1116 195-9» ohne Rh → trotzdem `type` **`Rh 1116`**, `number` **`195-9`**, wenn Operator ÖBB/AT klar ist.
 - Keine Baureihe erzwingen: wenn Nummer unbekannt, **unklar**.
 
+### Schmalspur (nicht ÖBB-Rh)
+
+**StLB** (`VL 22` / `VL 23`) und **ZB** (`D 10`): Hausbezeichnungen, `number` oft `null`, Spur **760 mm** → Modell `H0e`. Details: [wiki-rhb-mgb-schmalspur-naming.md](wiki-rhb-mgb-schmalspur-naming.md).
+
 ## Locobox-Validierung (Kurz)
 
 | Feld | Erwartung |

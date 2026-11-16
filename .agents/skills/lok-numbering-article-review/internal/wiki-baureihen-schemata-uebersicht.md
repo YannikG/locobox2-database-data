@@ -54,13 +54,17 @@ Skill-Detail: [wiki-polen-pkp-loks-liste.md](wiki-polen-pkp-loks-liste.md).
 |--------|-----------|
 | British Rail (Tops, Marken, Epochenübergänge) | [Bezeichnungsschemata von British Rail](https://de.wikipedia.org/wiki/Bezeichnungsschemata_von_British_Rail) |
 
-## Schmalspur Graubünden (RhB)
+## Schmalspur Graubünden / Wallis (RhB, MGB)
 
 | Thema | Wikipedia |
 |--------|-----------|
 | Rhätische Bahn, Rollmaterial (Abschnitt) | [Rhätische Bahn § Rollmaterial der RhB](https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn#Rollmaterial_der_RhB) |
+| Bauart Ge 4/4 (Generationen, Bernina 181/182) | [Ge 4/4](https://de.wikipedia.org/wiki/Ge_4/4) |
+| RhB Ge 4/4 II (Nummern 611–633, Taufnamen) | [RhB Ge 4/4 II](https://de.wikipedia.org/wiki/RhB_Ge_4/4_II) |
+| HGe 4/4 II (FO/BVZ/MGB, zb) | [HGe 4/4 II](https://en.wikipedia.org/wiki/HGe_4/4_II) |
+| Matterhorn-Gotthard-Bahn | [Matterhorn-Gotthard-Bahn](https://de.wikipedia.org/wiki/Matterhorn-Gotthard-Bahn) |
 
-Skill-Detail: [wiki-schweizer-bauartbezeichnungen.md](wiki-schweizer-bauartbezeichnungen.md) (allgemein CH); RhB oft eigene Typbezeichnungen im Modelltext.
+Skill-Detail: [wiki-schweizer-bauartbezeichnungen.md](wiki-schweizer-bauartbezeichnungen.md) (allgemein CH); **Naming/Split:** [wiki-rhb-mgb-schmalspur-naming.md](wiki-rhb-mgb-schmalspur-naming.md); BEMO-Shop: [wiki-bemo-shop-parsing.md](wiki-bemo-shop-parsing.md).
 
 ## Provenienz
 
@@ -77,3 +81,7 @@ Sammlung der oben eingetragenen Permalinks (Stand Skill-Pflege). Vollständige U
 - https://de.wikipedia.org/wiki/Baureihenschema_der_PKP  
 - https://de.wikipedia.org/wiki/Bezeichnungsschemata_von_British_Rail  
 - https://de.wikipedia.org/wiki/Rh%C3%A4tische_Bahn#Rollmaterial_der_RhB  
+- https://de.wikipedia.org/wiki/Ge_4/4  
+- https://de.wikipedia.org/wiki/RhB_Ge_4/4_II  
+- https://en.wikipedia.org/wiki/HGe_4/4_II  
+- https://de.wikipedia.org/wiki/Matterhorn-Gotthard-Bahn  

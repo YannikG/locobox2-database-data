@@ -40,6 +40,8 @@ Beispiel: **Re 4/4 II** = R + e + 4 Triebachsen + 4 Achsen, zweite Serie.
 
 CH-Modell: oft **Kurzname + 6 Ziffern + Prüfziffer**. 12-stellige volle Nummer nur grob prüfen; Sonder- und Historikfälle ohne weitere Quelle als **unklar** markieren.
 
+**Schmalspur RhB / MGB (Ge, HGe, Wagen):** konkrete Nummernkreise, Taufnamen und Locobox-Split in [wiki-rhb-mgb-schmalspur-naming.md](wiki-rhb-mgb-schmalspur-naming.md). Shop-Verpackungswörter nicht in `type`: [wiki-bemo-shop-parsing.md](wiki-bemo-shop-parsing.md).
+
 ### Re 420 / Re 421 (SBB / SBB Cargo)
 
 Nach dem System ab 1989 heisst die frühere **Re 4/4 II** in der Kurzform **`Re 420`** (Personen-/Cargo-Stamm) bzw. **`Re 421`** (Umbauten mit DB-Zulassung, SBB Cargo, Nummernkreis typisch **421 371–397**).

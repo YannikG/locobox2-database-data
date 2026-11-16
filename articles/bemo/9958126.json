@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bemo-9958126",
+  "manufacturer": "BEMO",
+  "articleNumber": "9958126",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 1679.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "RhB",
+    "type": "Ge 4/4 II",
+    "number": "616",
+    "livery": "Filisur",
+    "scale": "0m",
+    "electricSystem": "DC-Digital",
+    "era": "IV-V"
+  },
+  "description": "RhB Ge 4/4 II 616 Universallok \"Filisur\" Fama/UTZ",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "bemo-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.bemo-modellbahn.de/produkt/rhb-ge-4-4-ii-616-universallok-filisur-fama-utz/",
+    "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+    "imageUrl": "https://www.bemo-modellbahn.de/wp-content/uploads/2022/08/logo_bemo.jpg"
+  },
+  "updatedAt": "2026-11-16T11:15:08Z"
+}

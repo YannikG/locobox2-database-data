@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "BEMO Neuheiten 2026",
+  "slug": "bemo-neuheiten-2026",
+  "description": "Artikel aus dem BEMO Neuheitenprospekt 2026 (H0m/H0e/0m).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "bemo",
+  "year": 2026,
+  "order": 1,
+  "source": "https://www.bemo-modellbahn.de/wp-content/uploads/2026/01/Neuheiten_2026_web.pdf"
+}

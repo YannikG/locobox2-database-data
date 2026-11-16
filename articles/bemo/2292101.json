@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "bemo-2292101",
+  "manufacturer": "BEMO",
+  "articleNumber": "2292101",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 94.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "RhB",
+    "type": "Sb-v",
+    "number": "65691",
+    "livery": "Traveco",
+    "scale": "H0m",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "RhB Sb-v 65691 Tragwagen mit Klimacontainer \"Traveco\"",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "bemo-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.bemo-modellbahn.de/produkt/rhb-sb-v-65691-tragwagen-mit-klimacontainer-traveco/",
+    "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+    "imageUrl": "https://www.bemo-modellbahn.de/wp-content/uploads/2022/08/logo_bemo.jpg"
+  },
+  "updatedAt": "2026-11-16T11:15:08Z"
+}

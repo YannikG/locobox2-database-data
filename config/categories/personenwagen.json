@@ -1,0 +1,6 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Personenwagen",
+  "slug": "personenwagen",
+  "description": "Personenwagen und Reisezugwagen ohne eigenen Antrieb."
+}
