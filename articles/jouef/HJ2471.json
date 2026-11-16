@@ -10,7 +10,7 @@
     "operator": "Europoorte",
     "type": "Vossloh DE 18",
     "number": null,
-    "livery": "argent/bleue",
+    "livery": "silber/blau",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2471"
   },
-  "description": "Europoorte, Vossloh DE 18, livrée argent/bleue",
+  "description": "Europoorte, Vossloh DE 18, Farbgebung silber/blau",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -32,5 +32,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

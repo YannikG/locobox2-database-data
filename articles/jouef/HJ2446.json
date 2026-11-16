@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 67400",
     "number": "567556",
-    "livery": "bleue Casquette",
+    "livery": "blau Casquette",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2446"
   },
-  "description": "SNCF, Diesellokomotive BB 567556, livrée bleue mit Logo „Casquette“, ép. V",
+  "description": "SNCF, Diesellokomotive BB 567556, blaue Farbgebung mit Logo „Casquette“, Epoche V",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

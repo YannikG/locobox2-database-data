@@ -22,7 +22,7 @@
     ],
     "variantGroup": "HJ2443"
   },
-  "description": "SNCF, locomotive électrique BB 26212 avec 3 feux avant, livrée grise/orange avec logo « Casquette », ép. V (Werkseitig mit Sound).",
+  "description": "SNCF, Elektrolokomotive BB 26212 mit 3 Frontlampen, Farbgebung grau/orange mit Logo „Casquette“, Epoche V (Werkseitig mit Sound).",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -34,5 +34,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:33Z"
 }

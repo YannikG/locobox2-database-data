@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "TGV Sud-Est",
     "number": "17",
-    "livery": "inaugurale 1981 orange",
+    "livery": "orange Inaugural 1981",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2425"
   },
-  "description": "SNCF, Coffret 4 Einheiten TGV Sud-Est n°17, inaugurale Version 1981, ép. IV",
+  "description": "SNCF, Set 4 Einheiten TGV Sud-Est Nr. 17, Inaugural-Version 1981, Epoche IV",
   "categories": [
     "triebzug"
   ],
@@ -30,5 +30,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:33Z"
 }

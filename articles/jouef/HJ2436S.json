@@ -22,7 +22,7 @@
     ],
     "variantGroup": "HJ2436"
   },
-  "description": "SNCF, Dieseltriebwagen X 73551 in Farbgebung „Imaginalsace“, ép. VI (Werkseitig mit Sound).",
+  "description": "SNCF, Dieseltriebwagen X 73551 in Farbgebung „Imaginalsace“, Epoche VI (Werkseitig mit Sound).",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"
@@ -34,5 +34,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

@@ -10,7 +10,7 @@
     "operator": "COLAS RAIL",
     "type": "Vossloh DE 18",
     "number": null,
-    "livery": "orange/jaune",
+    "livery": "orange/gelb",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2440"
   },
-  "description": "COLAS RAIL, locomotive diesel Vossloh DE 18, livrée orange/jaune, ép. VI",
+  "description": "COLAS RAIL, Diesellokomotive Vossloh DE 18, Farbgebung orange/gelb, Epoche VI",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

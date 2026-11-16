@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "141 R",
     "number": "420",
-    "livery": "noire",
+    "livery": "schwarz",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2432"
   },
-  "description": "SNCF, Dampflokomotive 141 R 420 mit Kohletender, ép. V",
+  "description": "SNCF, Dampflokomotive 141 R 420 mit Kohletender, Epoche V",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

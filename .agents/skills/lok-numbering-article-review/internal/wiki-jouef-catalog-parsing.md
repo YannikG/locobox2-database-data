@@ -47,6 +47,10 @@ Zusätzlich im Jouef-Katalog:
 - RGP I/II: `type` `RGP I` / `RGP II`, `number` z. B. `X 2719`, Kategorien `triebwagen` + `dieseltriebwagen`.
 - Privat-/Tochter-Operatoren aus Katalogzeile: **COLAS RAIL**, **Europoorte**, **Millet Rail**, **Akiem**, **SNCF Infra** (nicht alles auf `SNCF` glätten).
 
+## Sprache (Locobox DE)
+
+Datenbankfelder auf Deutsch. **Farben** in `model.livery` und `description` übersetzen (`vert`→grün, `bleue`→blau, `noire`→schwarz, `jaune`→gelb, `grise`→grau, `rouge`→rot, `argent`→silber, `blanche`→weiss). **Eigennamen** und Markenlacke unverändert lassen (FRET, Casquette, Imaginalsace, Capitole, La Région, TER Grand Est, …).
+
 ## Decoder / Strom
 
 Aktuelle H0-Triebfahrzeuge: `decoderInterface` = **`NEM 660 (21MTC)`** (Kataloglegende «Mit Digitalschnittstelle nach NEM 660 (21-pin MTC)»). Nicht `Unbekannt` lassen, wenn der Katalog die 21MTC-Legende für die Serie führt. `electricSystem` nur Analog vs. Sound-`S`, nicht Vorbild-kV.

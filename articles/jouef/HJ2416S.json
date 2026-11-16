@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "140 C",
     "number": "158",
-    "livery": "verte/noire",
+    "livery": "grün/schwarz",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -22,7 +22,7 @@
     ],
     "variantGroup": "HJ2416"
   },
-  "description": "SNCF, Schlepptenderdampflokomotive 140 C 158 mit Tender 18 B, livrée verte/noire, ép. III (Werkseitig mit Sound).",
+  "description": "SNCF, Schlepptenderdampflokomotive 140 C 158 mit Tender 18 B, Farbgebung grün/schwarz, Epoche III (Werkseitig mit Sound).",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

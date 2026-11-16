@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "RGP II",
     "number": "X 2716",
-    "livery": "vert/beige",
+    "livery": "grün/beige",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2419"
   },
-  "description": "SNCF, autorail à 2 voitures RGP II X 2716 avec remorque XR 7719, avec déflecteurs de fumée, livrée vert/beige, ép. III",
+  "description": "SNCF, zweiteiliger Autorail RGP II X 2716 mit Remorque XR 7719, mit Rauchdeflektoren, Farbgebung grün/beige, Epoche III",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

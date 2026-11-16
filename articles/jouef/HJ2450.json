@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 13000",
     "number": "13052",
-    "livery": "bleue Cité du Train",
+    "livery": "blau Cité du Train",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2450"
   },
-  "description": "SNCF, locomotive électrique BB 13052 avec 4 lampes inférieures, livrée bleue, « Cité du Train», ép. IV",
+  "description": "SNCF, Elektrolokomotive BB 13052 mit 4 unteren Lampen, blaue Farbgebung, „Cité du Train“, Epoche IV",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:33Z"
 }

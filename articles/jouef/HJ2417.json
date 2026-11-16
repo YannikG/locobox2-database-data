@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2417"
   },
-  "description": "SNCF, Schlepptenderdampflokomotive 2-040 D 65, Depot Calais, ép. III",
+  "description": "SNCF, Schlepptenderdampflokomotive 2-040 D 65, Depot Calais, Epoche III",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2447"
   },
-  "description": "SNCF, Diesellokomotive BB 167424 mit flachen Seitenwänden, livrée „Multiservice“, ép. VI",
+  "description": "SNCF, Diesellokomotive BB 167424 mit flachen Seitenwänden, Farbgebung „Multiservice“, Epoche VI",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

@@ -10,7 +10,7 @@
     "operator": "Millet Rail",
     "type": "Vossloh DE 18",
     "number": null,
-    "livery": "orange/grise",
+    "livery": "orange/grau",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2472"
   },
-  "description": "Millet Rail, Vossloh DE 18, livrée orange/grise",
+  "description": "Millet Rail, Vossloh DE 18, Farbgebung orange/grau",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -32,5 +32,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

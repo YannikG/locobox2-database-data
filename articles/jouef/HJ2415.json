@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "140 C",
     "number": "133",
-    "livery": "verte/noire bandes rouges",
+    "livery": "grün/schwarz rote Streifen",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2415"
   },
-  "description": "SNCF, locomotive à vapeur 140 C 133, avec tender 18 B 12 (région Est), livrée verte/noire avec bandes rouges, ép. III",
+  "description": "SNCF, Dampflokomotive 140 C 133, mit Tender 18 B 12 (Region Ost), Farbgebung grün/schwarz mit roten Streifen, Epoche III",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

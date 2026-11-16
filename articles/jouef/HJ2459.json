@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2459"
   },
-  "description": "SNCF, locomotive électrique tritension « Astride » BB 36008 blasons « Blainville/Damelevières », livrée multiservice, ép. VI",
+  "description": "SNCF, Dreisystem-Elektrolokomotive „Astride“ BB 36008 Wappen „Blainville/Damelevières“, Farbgebung Multiservice, Epoche VI",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:33Z"
 }

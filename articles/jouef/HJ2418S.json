@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "RGP II",
     "number": "X 2717",
-    "livery": "vert/beige logo d’origine",
+    "livery": "grün/beige Original-Logo",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -22,7 +22,7 @@
     ],
     "variantGroup": "HJ2418"
   },
-  "description": "SNCF, autorail à 2 voitures RGP II X 2717 avec remorque XR 7710, livrée vert/beige avec logo d’origine, ép. III (Werkseitig mit Sound).",
+  "description": "SNCF, zweiteiliger Autorail RGP II X 2717 mit Remorque XR 7710, Farbgebung grün/beige mit Original-Logo, Epoche III (Werkseitig mit Sound).",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"
@@ -34,5 +34,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

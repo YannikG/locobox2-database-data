@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "RGP I",
     "number": null,
-    "livery": "vert/beige",
+    "livery": "grün/beige",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -35,5 +35,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

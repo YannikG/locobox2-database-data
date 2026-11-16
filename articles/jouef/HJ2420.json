@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "RGP II",
     "number": "X 2712",
-    "livery": "vert/beige",
+    "livery": "grün/beige",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2420"
   },
-  "description": "SNCF, Autorail RGP II X 2712 mit Remorque XR 7714, Rauchdeflektoren, livrée vert/beige, ép. III",
+  "description": "SNCF, Autorail RGP II X 2712 mit Remorque XR 7714, Rauchdeflektoren, Farbgebung grün/beige, Epoche III",
   "categories": [
     "triebwagen",
     "dieseltriebwagen"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }

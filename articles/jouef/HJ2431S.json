@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "141 R",
     "number": "484",
-    "livery": "noire",
+    "livery": "schwarz",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -22,7 +22,7 @@
     ],
     "variantGroup": "HJ2431"
   },
-  "description": "SNCF, locomotive à vapeur 141 R 484, avec 3 feux avant et tender à charbon, livrée noire, dépôt Hausbergen, ép. III (Werkseitig mit Sound).",
+  "description": "SNCF, Dampflokomotive 141 R 484, mit 3 Frontlampen und Kohletender, schwarze Farbgebung, Depot Hausbergen, Epoche III (Werkseitig mit Sound).",
   "categories": [
     "lokomotive",
     "dampflokomotive"
@@ -34,5 +34,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:33Z"
 }

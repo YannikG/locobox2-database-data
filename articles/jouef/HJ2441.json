@@ -10,7 +10,7 @@
     "operator": "SNCF Infra",
     "type": "BB 66000",
     "number": "666442",
-    "livery": "bleue",
+    "livery": "blau",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "decoderInterface": "NEM 660 (21MTC)",
@@ -19,7 +19,7 @@
     "minRadiusMm": null,
     "variantGroup": "HJ2441"
   },
-  "description": "SNCF Infra, Diesellokomotive BB 666442, livrée bleue, ép. VI",
+  "description": "SNCF Infra, Diesellokomotive BB 666442, blaue Farbgebung, Epoche VI",
   "categories": [
     "lokomotive",
     "diesellokomotive"
@@ -31,5 +31,5 @@
     "url": "https://fr.jouef.com/catalogue",
     "notes": "Catalog-only Import (offizieller Shop ohne stabile PDP); Daten aus Jouef/Hornby-Katalogtext."
   },
-  "updatedAt": "2026-11-16T09:20:17Z"
+  "updatedAt": "2026-11-16T09:29:16Z"
 }
