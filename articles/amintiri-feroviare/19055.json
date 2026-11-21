@@ -9,7 +9,7 @@
     "country": "BG",
     "operator": "DB Cargo Bulgaria",
     "type": "EA-3000",
-    "number": null,
+    "number": "86 018",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/a9/25/c5/1779956792/318-AF19055.jpg?ts=1779956792"
   },
-  "updatedAt": "2026-11-21T19:36:04Z"
+  "updatedAt": "2026-11-21T20:19:28Z"
 }

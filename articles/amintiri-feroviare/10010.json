@@ -9,7 +9,7 @@
     "country": "RO",
     "operator": "CFR",
     "type": "060-EA",
-    "number": null,
+    "number": "40-0520-3",
     "livery": "rote Kabinen",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_25_2467amtr-10010-c.jpg"
   },
-  "updatedAt": "2026-11-21T19:41:22Z"
+  "updatedAt": "2026-11-21T20:19:26Z"
 }

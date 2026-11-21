@@ -9,7 +9,7 @@
     "country": "RO",
     "operator": "CFR",
     "type": "060-EA",
-    "number": null,
+    "number": "45-0318-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_86_110610022web.jpg"
   },
-  "updatedAt": "2026-11-21T19:34:35Z"
+  "updatedAt": "2026-11-21T20:19:28Z"
 }

@@ -9,7 +9,7 @@
     "country": "RO",
     "operator": "CFR",
     "type": "060-EA",
-    "number": null,
+    "number": "41-0807-2",
     "livery": "rote Kabinen",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -27,5 +27,5 @@
     "url": "https://www.amintiriferoviare.com/produs/10021-locomotiva-electrica-060-ea-63",
     "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
   },
-  "updatedAt": "2026-11-21T19:41:22Z"
+  "updatedAt": "2026-11-21T20:19:28Z"
 }

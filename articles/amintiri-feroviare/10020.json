@@ -9,7 +9,7 @@
     "country": "RO",
     "operator": "CFR Marfa",
     "type": "060-EA",
-    "number": null,
+    "number": "40-0832-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_37_4593AF10020c.jpg"
   },
-  "updatedAt": "2026-11-21T19:36:26Z"
+  "updatedAt": "2026-11-21T20:19:27Z"
 }
