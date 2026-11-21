@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22053",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22053",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Klagenfurt",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "III"
+  },
+  "description": "2-achsiger offener Güterwagen Klagenfurt der CFR Romania, für die Epoche 3. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22053-cfr-offener-gueterwagen-klagenfurt-ep-3",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/2c/7b/85/1779959264/318-AF22053.jpg?ts=1779959264"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

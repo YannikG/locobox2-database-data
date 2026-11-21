@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10201",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10201",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 199.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "VTR",
+    "type": "TransMontana",
+    "number": "91 53 0 480054-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, Vest Trans Rail, für die Epoche 6, Betriebsnummer 91 53 0 480054-2. Formneuheit H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10201-vtr-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/0b/63/64/1779941491/318-AF10201.jpg?ts=1779941491"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25006",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25006",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "blau/grau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Set of two 2nd class coaches, Type AVA 200, for internal and international service of the CFR, one with disable compartment. Blue and gray livery. Epoche VI H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25006-set-de-doua-vagoane-ava200-80",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_80_3877AF25006.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

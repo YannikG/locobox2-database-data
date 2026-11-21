@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-35002",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "35002",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Petrom",
+    "type": "Zagkks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Set with three tank wagon type Zagkks of the privat company PETROM. Epoch V. Repoduction in scale1:87 Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/35002-vagon-cisterna-zagkks-41",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_40_5182AF35002_-_Copia.jpg"
+  },
+  "updatedAt": "2026-11-21T19:36:40Z"
+}

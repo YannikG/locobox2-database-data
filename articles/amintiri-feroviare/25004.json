@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25004",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25004",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "ICE Mihai Eminescu",
+    "number": null,
+    "livery": "Mihai Eminescu",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "ICE Mihai Eminescu set with twoo second class wagon type AVA200. Epoch V. Reproduction scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25004-ice-mihai-eminescu-39",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_38_6546AF25002.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

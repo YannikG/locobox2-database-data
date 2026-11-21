@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502138",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502138",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Rsfwc",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "III"
+  },
+  "description": "Set of two CFR + MAV refrigerated wagons. Epoch III. 1:87 scale reproduction H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/502138-vagon-refrigerent-rsfwc-96",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_96_8753502138a.jpg"
+  },
+  "updatedAt": "2026-11-21T19:34:36Z"
+}

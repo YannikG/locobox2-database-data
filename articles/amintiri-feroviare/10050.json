@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10050",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10050",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "BG",
+    "operator": "Bulmarket",
+    "type": "EA-3000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Electrical locomotive EA-3000 of the private company Bulmarket. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10050-locomotiva-electrica-ea-3000-45",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T19:34:35Z"
+}

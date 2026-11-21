@@ -91,6 +91,7 @@ uv run locobox shop fetch --source SOURCE \
 - Märklin: Produktdatenbank `maerklin.de/de/produkte/details/article/{nr}` (gleiche Vorbild/Modell-HTML-Form wie Trix). **Allowlist:** Host `www.maerklin.de` nur in einem **allowlist-only**-PR. UVP aus Katalog-Preisindex in die Queue schreiben, sonst `uvp.amount` 0. Nach Parse: HTML mit H1/`description` «Suchen» = kaputter Fetch → verwerfen und nachziehen. Details: [wiki-maerklin-shop-parsing.md](../lok-numbering-article-review/internal/wiki-maerklin-shop-parsing.md).
 - LS Models: PrestaShop `lsmodels.eu/de/suche?…&s={nr}` → PDP (interne Shop-ID in der URL). Katalog-SKUs `16 075` → `16075`; Sound-`S` und Models-World `MW…` vorerst übersprungen. Shop oft ohne UVP.
 - ACME: Flyer-URL / pdftotext, kein HTML-Shop.
+- Amintiri Feroviare (AF): Source `amintiri-feroviare` / Alias `af`; offizieller Shop + Menzels-Fallback. Shop-Artefakte und Balkan-`country`/`operator`: [wiki-amintiri-feroviare-shop-parsing.md](../lok-numbering-article-review/internal/wiki-amintiri-feroviare-shop-parsing.md), Länder [wiki-rumaenien-loks-liste.md](../lok-numbering-article-review/internal/wiki-rumaenien-loks-liste.md) / [wiki-bulgarien-loks-liste.md](../lok-numbering-article-review/internal/wiki-bulgarien-loks-liste.md) / [wiki-bosnien-herzegowina-loks-liste.md](../lok-numbering-article-review/internal/wiki-bosnien-herzegowina-loks-liste.md).
 
 ### 4. Parse + shared Pipeline
 
@@ -147,7 +148,7 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 
 | Feld | Wert |
 |------|------|
-| **Hersteller** | PIKO \| Roco \| Trix \| REE \| LS Models \| Jouef \| Märklin \| ACME \| BEMO |
+| **Hersteller** | PIKO \| Roco \| Trix \| REE \| LS Models \| Jouef \| Märklin \| ACME \| BEMO \| Amintiri Feroviare (AF) |
 | **Import-Tag** | `{IMPORT_TAG}` \| ohne Tag |
 | **Kampagne (Working-Dir)** | `{CAMPAIGN}` unter `.tmp/import/` |
 | **Branch** | `{branch}` |

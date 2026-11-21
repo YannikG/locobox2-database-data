@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-31002",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "31002",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "GFR",
+    "type": "Zagkks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Tank wagon type Zagkks of the private compay GFR. Epoch V. Reproduction in scale 1:87. Model with weathering. Exclusiv for www.hgd.ro H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/hgd31002-vagon-cisterna-gfr-67",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_67_7644HGD31002.JPG"
+  },
+  "updatedAt": "2026-11-21T19:41:10Z"
+}

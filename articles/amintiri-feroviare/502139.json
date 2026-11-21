@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502139",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502139",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Icehqs",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "IV"
+  },
+  "description": "Set of three CFR refrigerated wagons of the Icehqs type. Epoca IV. 1:87 scale reproduction H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/502139-vagon-refrigerent-icehws-97",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_97_3063502139b.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

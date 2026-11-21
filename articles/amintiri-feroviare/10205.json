@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10205",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10205",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 256.5,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "Green Cargo",
+    "type": "TransMontana",
+    "number": "480 046",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, Green Cargo, für die Epoche 6, Betriebsnummer 91 53 0 480 046-8 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10205-green-cargo-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/13/c0/95/1779941591/318-AF10205.jpg?ts=1779941591"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

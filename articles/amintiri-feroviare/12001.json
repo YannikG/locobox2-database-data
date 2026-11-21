@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-12001",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "12001",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "150",
+    "number": "0054",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "Steam locomotive tye 150.0054 with petrol tank, with typical CFR lights, after 1950. Epoch IIIb. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/12001-locomotiva-cu-aburi-1500054-91",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

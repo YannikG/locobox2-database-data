@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22006",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22006",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 161.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Personenwagen-Set",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Zweiteiliges Set, ein Wagen des Typs YA/B CFR, Baureihe 20?50, 2. Klasse, und ein Wagen des Typs Halberstadt, BDZ, Baureihe 31?43, gemischte Klasse 1/2. Ideal für den internationalen Zug Bukarest?Dimitrovgrad. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22006-cfr-bdz-personenwagen-set-2-tlg-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/c5/25/09/1779959263/318-AF22006.jpg?ts=1779959263"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

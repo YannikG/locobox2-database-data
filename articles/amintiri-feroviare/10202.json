@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10202",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10202",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 256.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "TransMontana",
+    "number": "481 001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, CFR, für die Epoche 6, Betriebsnummer 91 53 0 481 001-2 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10202-cfr-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/47/c5/1e/1779954095/318-AF10202.jpg?ts=1779954095"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

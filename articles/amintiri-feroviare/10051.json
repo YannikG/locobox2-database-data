@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10051",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10051",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Logistic Service Danubius",
+    "type": "EA-3000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Electrical locomotive EA-3000 of the private company Logistic Service Danubius. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10051-locomotiva-electrica-ea-3000-65",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T19:36:26Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25010",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25010",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "Reisezugwagen-Set",
+    "number": null,
+    "livery": "rot/grau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Set mit zwei Wagen des Typs AVA200, Baureihe 21-91 Bmpz in der rot/grauen Lackierung des staatlichen Betreibers CFR Calatori, für die Epoche 6. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af25010-cfr-calatori-reisezugwg-set-2-tlg-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/b5/1e/8d/1779959265/318-AF25010.jpg?ts=1779959265"
+  },
+  "updatedAt": "2026-11-21T19:41:47Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22052",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22052",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 53.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Villach",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "III"
+  },
+  "description": "2-achsiger offener Güterwagen Villach der CFR Romania, für die Epoche 3. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22052-cfr-offener-gueterwagen-villach-ep-3",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/7f/09/59/1779959264/318-AF22052.jpg?ts=1779959264"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

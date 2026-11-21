@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502233",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502233",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Kesselwagen",
+    "number": null,
+    "livery": "Concordia",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "III"
+  },
+  "description": "2-achsiger Kesselwagen \"Concordia\" der CFR, für die Epoche III (Hersteller Tillig) H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af502233-cfr-concordia-kesselwagen-2-achs-ep-3",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/b4/a2/7e/1775590582/318-AF502233.jpg?ts=1775590582"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20041",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20041",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Schlafwagen",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Schlafwagen Typ MU der CFR in roter Farbgebung, für die Epoche 5. Modelldetails authentisches Modell mit umfangreichen Details innen, wie aussen umfangreiche Bedruckung innen und aussen kleinster befahrbarer Radius: 358 mm Kupplungsaufnahmen nach NEM 362 mit Kurzkupplungskinematik, Standardbügelkupplungen beiliegend Massstäbliches Modell, Länge über Puffer 303,4 mm H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af20041-cfr-schlafwagen-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/ce/20/bb/1779892641/318-AF20041.jpg?ts=1779892641"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}
