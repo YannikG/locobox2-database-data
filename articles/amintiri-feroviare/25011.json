@@ -8,14 +8,14 @@
   "model": {
     "country": "RO",
     "operator": "CFR Calatori",
-    "type": "Reisezugwagen-Set",
+    "type": "AVA200",
     "number": null,
     "livery": "PNRR",
     "scale": "H0",
     "electricSystem": "Unbekannt",
     "era": "VI"
   },
-  "description": "Set mit zwei Wagen des Typs AVA200, Baureihe 21-91 Bmpz in der PNRR Lackierung des staatlichen Betreibers CFR Calatori. Dreissig Jahre nach der Fertigung des ersten Wagens geht die Reise der AVA200-Reisezugwagen weiter. Im Rahmen eines umfangreichen, von der PNRR finanzierten Modernisierungsprojekts werden 27 Wagen der Baureihe 21-90 B11 mit einem Salon-Interieur und vielen weiteren modernen Ausstattungsmerkmalen versehen. Sie werden als Baureihe 21-91 Bmpz neu klassifiziert und erhalten zudem eine neue, einzigartige Lackierung. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "AVA200 Baureihe 21-91 Bmpz, Teil des Sets Art. 25011 (zwei Wagen, PNRR-Lack), CFR Calatori, Epoche VI.",
   "categories": [
     "personenwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af25011-cfr-calatori-reisezugwg-set-2-tlg-ep-6",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 25011; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/88/29/8c/1779959265/318-AF25011.jpg?ts=1779959265"
   },
-  "updatedAt": "2026-11-21T19:41:47Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25011"
 }

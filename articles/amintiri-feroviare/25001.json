@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "V"
   },
-  "description": "Set with two second class passenger coach type AVA200, red livery with new CFR logo. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "AVA200 2. Klasse, Teil des Sets Art. 25001 (zwei Wagen, rot, neues CFR-Logo), Epoche V.",
   "categories": [
     "personenwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/25001-vagon-ava200-47",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 25001; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_47_6769AMTR-25001-set-LR.jpg"
   },
-  "updatedAt": "2026-11-21T19:40:59Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25001"
 }

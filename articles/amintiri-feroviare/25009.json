@@ -8,14 +8,14 @@
   "model": {
     "country": "BG",
     "operator": "BDZ",
-    "type": "Personenwagen-Set",
+    "type": "Bpmz",
     "number": null,
-    "livery": null,
+    "livery": "blau",
     "scale": "H0",
     "electricSystem": "Unbekannt",
     "era": "VI"
   },
-  "description": "Personenwagen-Set bestehend aus zwei Wagen des Typs Bpmz und Bpmbz in blauer Lackierung des staatlichen Betreibers BDZ, für die Epoche 6. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Personenwagen Bpmz, Teil des Sets Art. 25009 (Bpmz + Bpmbz), BDZ, Epoche VI.",
   "categories": [
     "personenwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af25009-bdz-personenwagen-set-2-tlg-ep-6",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 25009; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/92/38/e0/1779959265/318-AF25009.jpg?ts=1779959265"
   },
-  "updatedAt": "2026-11-21T19:36:04Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25009"
 }

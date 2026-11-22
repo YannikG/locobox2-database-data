@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "V"
   },
-  "description": "Three passenger car of the CFR type AVA200, livery blue with white stripe. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "AVA200, Teil des Sets Art. 25003 (drei Wagen, blau mit weissem Streifen), Epoche V.",
   "categories": [
     "personenwagen"
   ],
@@ -24,7 +24,8 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/25003-vagoane-ava200-salon-49",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
+    "notes": "Set Art. 25003; dieser Eintrag ist Wagen 1 des Sets."
   },
-  "updatedAt": "2026-11-21T19:40:48Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25003"
 }

@@ -11,14 +11,14 @@
   "model": {
     "country": "RO",
     "operator": "CFR Calatori",
-    "type": "Liegewagen-Set",
+    "type": "AcBcmee",
     "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
     "era": "VI"
   },
-  "description": "Satz mit zwei Liegewagen, ehemals Bcm der DB, Baureihe AcBcmee 40- 31, überholt von Grivita des staatlichen Betreibers CFR Calatori, für die Epoche 6. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Liegewagen AcBcmee 40-31 (ex DB Bcm), Teil des Sets Art. 25008, CFR Calatori, Epoche VI.",
   "categories": [
     "personenwagen"
   ],
@@ -27,8 +27,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af25008-cfr-calaroti-liegewagen-set-2-tlg-ep-6",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 25008; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/df/cb/90/1779967346/318-AF25008_5%20%28Bild%205%29.jpg?ts=1779967346"
   },
-  "updatedAt": "2026-11-21T19:41:47Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25008"
 }

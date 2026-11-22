@@ -15,7 +15,7 @@
     "electricSystem": "DC-Analog",
     "era": "V"
   },
-  "description": "ICE Mihai Eminescu, set with one electrical locomotive and twoo second class wagon type AVA200. Epoch V. Reproduction scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Elektrolok des ICE Mihai Eminescu (Set Art. 25002 mit zwei AVA200), Epoche V. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
   "categories": [
     "lokomotive",
     "elektrolokomotive"
@@ -25,8 +25,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/25002-ice-mihai-eminescu-38",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 25002; dieser Eintrag ist die Lok des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_38_6546AF25002.jpg"
   },
-  "updatedAt": "2026-11-21T19:40:48Z"
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25002"
 }

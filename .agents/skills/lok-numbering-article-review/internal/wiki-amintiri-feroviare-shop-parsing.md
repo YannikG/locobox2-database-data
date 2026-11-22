@@ -46,8 +46,9 @@ Wagen: `electricSystem` **`Unbekannt`**.
 
 ## Sets
 
-- ICE Mihai Eminescu **mit Lok** → `lokomotive` + Antriebskategorie.
-- Nachzügler **nur Wagen** → `personenwagen`, nicht Elektro-Lok.
+- ICE Mihai Eminescu **mit Lok** → Lok-Datei behält Set-SKU; Kategorien `lokomotive` + Antrieb.
+- **Reisezugwagen-Sets** (z. B. `25001`, `25008`–`25011`): **nicht** `Reisezugwagen-Set` / `Liegewagen-Set` als `type`. Pro Wagen eine JSON-Datei mit konkreter Gattung (`AVA200`, `AcBcmee`, `Bpmz`/`Bpmbz`, …), `setNumber` = Shop-SKU, Zusatzwagen als `{sku}-2` / `{sku}-bpmbz` (wie Roco `{sku}-blm`).
+- Nachzügler **nur Wagen** → alle Teile `personenwagen`, nicht Elektro-Lok.
 
 ## Provenienz
 
