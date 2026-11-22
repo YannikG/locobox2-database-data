@@ -135,6 +135,24 @@ class TestProposeCountry(unittest.TestCase):
         art2 = {"model": {"country": "DE", "operator": "DB AG"}}
         self.assertIsNone(c._propose_operator_alias(art2))
 
+    def test_cfr_ro(self) -> None:
+        art = {"model": {"country": None, "operator": "CFR"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:CFR", "RO"))
+
+    def test_bdz_bg(self) -> None:
+        art = {"model": {"country": None, "operator": "BDZ"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:BDZ", "BG"))
+
+    def test_db_cargo_bulgaria_bg(self) -> None:
+        art = {"model": {"country": None, "operator": "DB Cargo Bulgaria"}}
+        self.assertEqual(
+            c.propose_country(art), ("operator_map:DB Cargo Bulgaria", "BG")
+        )
+
+    def test_zfbh_ba(self) -> None:
+        art = {"model": {"country": None, "operator": "ŽFBH"}}
+        self.assertEqual(c.propose_country(art), ("operator_map:ŽFBH", "BA"))
+
 
 if __name__ == "__main__":
     unittest.main()

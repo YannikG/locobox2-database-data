@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25008",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25008",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 164.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "AcBcmee",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Liegewagen AcBcmee 40-31 (ex DB Bcm), Teil des Sets Art. 25008, CFR Calatori, Epoche VI.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af25008-cfr-calaroti-liegewagen-set-2-tlg-ep-6",
+    "notes": "Set Art. 25008; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/df/cb/90/1779967346/318-AF25008_5%20%28Bild%205%29.jpg?ts=1779967346"
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25008"
+}

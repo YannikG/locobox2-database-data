@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-35003-3",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "35003-3",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "BG",
+    "operator": "Bulmarket",
+    "type": "Eaos",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Offener Güterwagen Eaos, Teil des Sets Art. 35003 (drei Wagen), Bulmarket, Epoche V.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/35003-vagoane-eaos-69",
+    "notes": "Wagen aus dem Set Art. 35003; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_69_9833AF35003.jpg"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35003"
+}

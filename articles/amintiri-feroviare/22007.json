@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22007",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22007",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 79.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Y/B-70AB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Personenwagen 1./2. Klasse Typ Y/B-70 AB Serie 3-50, für die Epoche 5 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22007-cfr-personenwagen-1-2-kl-y-b-70ab-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/35/a3/e4/1779959263/318-AF22007.jpg?ts=1779959263"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

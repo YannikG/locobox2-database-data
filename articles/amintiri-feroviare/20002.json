@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20002",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20002",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Messwagen",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "IV"
+  },
+  "description": "Dynamometric coach of the CFR, built from an italian type 32000 coach. Green livery, epoch IV. LIMITED EDITION Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20002-vagon-dinamometric-cfr-31",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_31_8868AMTR20002.JPG"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

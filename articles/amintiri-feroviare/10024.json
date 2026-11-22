@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10024",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10024",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Astra Trans Carpatic",
+    "type": "060-EA",
+    "number": "40-0316-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Electric locomotive CFR 060-EA, class 40, axle formula, Co-Co, belonging to the private operator Astra Trans Carpathian .. Era VI. 1:87 scale reproduction. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10024-locomotiva-electrica-atc-060-ea-93",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_93_6106AF10024.jpg"
+  },
+  "updatedAt": "2026-11-21T20:19:28Z"
+}

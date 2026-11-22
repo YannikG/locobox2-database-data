@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10022",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10022",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-EA",
+    "number": "45-0318-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Electrical locomotive 060-EA, calss 45 of the CFR. White cabins livery, asymetrical pantographs. Epoch V. Reproduction in scale 1:87 . H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10022-locomotiva-electrica-060-ea-86",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_86_110610022web.jpg"
+  },
+  "updatedAt": "2026-11-21T20:19:28Z"
+}

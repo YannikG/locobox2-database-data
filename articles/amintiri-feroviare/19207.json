@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-19207",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "19207",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 358.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "Constantin Group",
+    "type": "TransMontana",
+    "number": "480 074",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "DCC Sound Elektrolok Typ TransMontana, Constantin Group, für die Epoche 6, Betriebsnummer 91 53 0 480 074-4 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af19207-constantingroup-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/49/55/d2/1779959261/318-AF19207.jpg?ts=1779959261"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

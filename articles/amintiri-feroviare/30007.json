@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-30007",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "30007",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Zagkks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "Tank wagon of the private company C.F.R. boghie type H, thermic isolation. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/30007-vagon-cisterna-de-tipul-zagkks-72",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_72_3478AF30007a.jpg"
+  },
+  "updatedAt": "2026-11-21T19:36:26Z"
+}

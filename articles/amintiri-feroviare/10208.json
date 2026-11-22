@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10208",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10208",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "TransMontana",
+    "number": "91 53 0 481 005-3",
+    "livery": "King Carol I",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, CFR Calatori, für die Epoche 6, Betriebsnummer 91 53 0 481 005-3 \"King Carol I\" H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10208-cfr-calatori-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/b6/c9/3b/1779959224/318-AF10208.jpg?ts=1779959224"
+  },
+  "updatedAt": "2026-11-21T19:36:26Z"
+}

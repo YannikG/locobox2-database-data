@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-35002-3",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "35002-3",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Petrom",
+    "type": "Zagkks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Kesselwagen Zagkks, Teil des Sets Art. 35002 (drei Wagen), Petrom, Epoche V.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/35002-vagon-cisterna-zagkks-41",
+    "notes": "Wagen aus dem Set Art. 35002; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_40_5182AF35002_-_Copia.jpg"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35002"
+}

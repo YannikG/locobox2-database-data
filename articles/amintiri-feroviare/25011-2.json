@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25011-2",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25011-2",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "AVA200",
+    "number": null,
+    "livery": "PNRR",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "AVA200 Baureihe 21-91 Bmpz, Teil des Sets Art. 25011 (zwei Wagen, PNRR-Lack), CFR Calatori, Epoche VI.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af25011-cfr-calatori-reisezugwg-set-2-tlg-ep-6",
+    "notes": "Wagen aus dem Set Art. 25011; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/88/29/8c/1779959265/318-AF25011.jpg?ts=1779959265"
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25011"
+}

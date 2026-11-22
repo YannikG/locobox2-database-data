@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20018",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20018",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "AVA200",
+    "number": null,
+    "livery": "EXPRESS",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Generalüberholter Reisezugwagen des Typs AVA200, Baureihe 21-90, in der Lackierung EXPRESS des staatlichen Verkehrsunternehmens CFR Calatori, für die Epoche 6. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af20018-cfr-personenwagen-ava200-2-kl-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/87/5e/80/1779959262/318-AF20018.jpg?ts=1779959262"
+  },
+  "updatedAt": "2026-11-21T19:41:54Z"
+}

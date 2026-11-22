@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-19300",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "19300",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "ARF",
+    "type": "TRAXX3",
+    "number": "91 53 0 188-8",
+    "livery": "Testlackierung",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "DCC Sound E-Lok TRAXX3 der ARF, blaueTestlackierung in Rumänien und Deutschland, für die Epoche 6. Betriebsnummer: 91 53 0 188-8 RO-ARF H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af19300-arf-e-lok-traxx3-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/40/f7/97/1779959261/318-AF19300.jpg?ts=1779959261"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

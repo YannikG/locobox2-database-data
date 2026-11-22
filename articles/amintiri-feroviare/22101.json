@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22101",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22101",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Marfa",
+    "type": "Salmmp",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Flachwagen Typ Salmmp beladen mit Stahllaminat, der CFR Marfa, für die Epoche 5. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22101-cfr-marfa-flachwagen-salmmp-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/ce/61/a5/1779959264/318-AF22101.jpg?ts=1779959264"
+  },
+  "updatedAt": "2026-11-21T19:34:36Z"
+}

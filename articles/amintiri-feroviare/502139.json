@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502139",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502139",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Icehqs",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "IV"
+  },
+  "description": "Kühlwagen Icehqs, Teil des Sets Art. 502139 (drei Wagen), CFR, Epoche IV.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/502139-vagon-refrigerent-icehws-97",
+    "notes": "Set Art. 502139; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_97_3063502139b.jpg"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "502139"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-19203",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "19203",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 358.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "DB Cargo Rumänia",
+    "type": "TransMontana",
+    "number": "91 53 0 480082-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, DB-Cargo Rumänia, für die Epoche 6, Betriebsnummer 91 53 0 480082-3. DCC Sound Ausführung H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af19203-db-cargo-rumaenia-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/12/33/0a/1779939121/318-AF19203_6%20%28Bild%206%29.jpg?ts=1779939121"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

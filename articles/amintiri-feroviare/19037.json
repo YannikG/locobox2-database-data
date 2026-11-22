@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-19037",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "19037",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "BG",
+    "operator": "BDZ Cargo",
+    "type": "Reihe 46",
+    "number": "91 52 0046 036-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "DCC Sound E-Lok Reihe 46 der BDZ Cargo, für die Epoche 6. Betriebsnummer: 91 52 0046 036-7 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af19037-bdz-cargo-e-lok-reihe-46-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/cd/83/68/1779959261/318-AF19037.jpg?ts=1779959261"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

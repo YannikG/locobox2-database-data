@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10055",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10055",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 109.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BG",
+    "operator": "DB Cargo Bulgaria",
+    "type": "EA-3000",
+    "number": "86 018",
+    "livery": "Dummy",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Dummy Version (ohne Antrieb) E-Lok Serie EA 3000 Betriebsnummer 86 018 der DB Cargo Bulgaria, für die Epoche 6. Modelldetails Digitalschnittstelle 21-polig MTC NEM 660 Lichtwechsel weiss/rot LüP: 221 mm H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10055-db-cargo-bulgaria-e-lok-ea-3000-ep-6-dmy",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/95/d2/9d/1779966206/318-AF10055_4%20%28Bild%204%29.jpg?ts=1779966206"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10203",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10203",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 256.5,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "DB Cargo",
+    "type": "TransMontana",
+    "number": "480 082",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Elektrolok Typ TransMontana, DB Cargo Romania, für die Epoche 6, Betriebsnummer 91 53 0 480 082-3 H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10203-db-cargo-e-lok-transmontana-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/7e/7f/ec/1779938944/318-AF10203.jpg?ts=1779938944"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}
