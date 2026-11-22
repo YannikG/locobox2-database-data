@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-35001-2",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "35001-2",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Rompetrol",
+    "type": "Zagkks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Kesselwagen Zagkks, Teil des Sets Art. 35001 (drei Wagen), Rompetrol, Epoche V.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/35001-vagon-cisterna-zagkks-40",
+    "notes": "Wagen aus dem Set Art. 35001; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_41_4075AF35001.jpg"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35001"
+}

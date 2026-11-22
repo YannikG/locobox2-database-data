@@ -11,14 +11,14 @@
   "model": {
     "country": "RO",
     "operator": "CFR",
-    "type": "Schlafwagen-Set Typ Y",
+    "type": "WLA",
     "number": null,
-    "livery": null,
+    "livery": "ROMVARED",
     "scale": "H0",
     "electricSystem": "Unbekannt",
     "era": "IV"
   },
-  "description": "Schlafwagen-Set 2-tlg. Typ Y WLA 60-41 series, ROMVARED logo, H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Schlafwagen Typ Y / WLA 60-41 (ROMVARED), Teil des Sets Art. 22001 (2-tlg.), CFR, Epoche IV.",
   "categories": [
     "personenwagen"
   ],
@@ -27,8 +27,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af22001-cfr-schlafwagen-set-typ-y-2-tlg-ep-4",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 22001; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/4f/e3/0f/1779940513/318-AF22001.jpg?ts=1779940513"
   },
-  "updatedAt": "2026-11-21T19:36:04Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "22001"
 }

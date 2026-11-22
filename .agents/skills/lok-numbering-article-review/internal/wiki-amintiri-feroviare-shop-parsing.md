@@ -47,7 +47,8 @@ Wagen: `electricSystem` **`Unbekannt`**.
 ## Sets
 
 - ICE Mihai Eminescu **mit Lok** → Lok-Datei behält Set-SKU; Kategorien `lokomotive` + Antrieb.
-- **Reisezugwagen-Sets** (z. B. `25001`, `25008`–`25011`): **nicht** `Reisezugwagen-Set` / `Liegewagen-Set` als `type`. Pro Wagen eine JSON-Datei mit konkreter Gattung (`AVA200`, `AcBcmee`, `Bpmz`/`Bpmbz`, …), `setNumber` = Shop-SKU, Zusatzwagen als `{sku}-2` / `{sku}-bpmbz` (wie Roco `{sku}-blm`).
+- **Reisezugwagen-Sets** (z. B. `25001`, `25008`–`25011`, `22001`, `22006`): **nicht** `Reisezugwagen-Set` / `Liegewagen-Set` / `Schlafwagen-Set …` als `type`. Pro Wagen eine JSON-Datei mit konkreter Gattung (`AVA200`, `AcBcmee`, `Bpmz`/`Bpmbz`, `WLA`, `YA/B`, `Halberstadt`, …), `setNumber` = Shop-SKU, Zusatzwagen als `{sku}-2` / `{sku}-bpmbz` / `{sku}-halberstadt` (wie Roco `{sku}-blm`).
+- **Güterwagen-Sets** (z. B. `22002`, `35001`–`35005`, `502137`–`502139`): analog, Typ = Wagenbauart (`Zas`, `Zagkks`, `Eaos`, `Rsfwc`, `Icehqs`); gemischte Betreiber (CFR+MÁV) → getrennte Dateien mit jeweiligem `operator`/`country`.
 - Nachzügler **nur Wagen** → alle Teile `personenwagen`, nicht Elektro-Lok.
 
 ## Provenienz

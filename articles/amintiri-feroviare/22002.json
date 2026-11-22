@@ -18,7 +18,7 @@
     "electricSystem": "Unbekannt",
     "era": "VI"
   },
-  "description": "AF Models AF22002 Petraom Kesselwagen-Set Zas 3-tlg. Ep.6",
+  "description": "Kesselwagen Zas, Teil des Sets Art. 22002 (3-tlg.), Petraom, Epoche VI.",
   "categories": [
     "gueterwagen"
   ],
@@ -27,8 +27,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af22002-petraom-kesselwagen-set-zas-3-tlg-ep-6",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 22002; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/ed/89/ef/1779941064/318-AF22002.jpg?ts=1779941064"
   },
-  "updatedAt": "2026-11-21T19:36:04Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "22002"
 }

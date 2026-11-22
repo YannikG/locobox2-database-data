@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "III"
   },
-  "description": "Set of two CFR + MAV refrigerated wagons. Epoch III. 1:87 scale reproduction H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Kühlwagen Rsfwc, Teil des Sets Art. 502138 (CFR + MÁV), CFR, Epoche III.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/502138-vagon-refrigerent-rsfwc-96",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 502138; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_96_8753502138a.jpg"
   },
-  "updatedAt": "2026-11-21T19:34:36Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "502138"
 }

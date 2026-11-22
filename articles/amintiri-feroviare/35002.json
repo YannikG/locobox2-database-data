@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "V"
   },
-  "description": "Set with three tank wagon type Zagkks of the privat company PETROM. Epoch V. Repoduction in scale1:87 Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Kesselwagen Zagkks, Teil des Sets Art. 35002 (drei Wagen), Petrom, Epoche V.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/35002-vagon-cisterna-zagkks-41",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 35002; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_40_5182AF35002_-_Copia.jpg"
   },
-  "updatedAt": "2026-11-21T19:36:40Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35002"
 }

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-35005-3",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "35005-3",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "BG",
+    "operator": "BDZ Cargo",
+    "type": "Eaos",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "Unbekannt"
+  },
+  "description": "Offener Güterwagen Eaos, Teil des Sets Art. 35005 (drei Wagen), BDZ Cargo.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af35005-bdz-cargo-offene-gueterwg-set-3-tlg",
+    "notes": "Wagen aus dem Set Art. 35005; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/ec/03/ea/1779959265/318-AF35005.jpg?ts=1779959265"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35005"
+}

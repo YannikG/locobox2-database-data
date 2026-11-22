@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "V"
   },
-  "description": "Set of three wagon type Eaos of the BDZ. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Offener Güterwagen Eaos, Teil des Sets Art. 35004 (drei Wagen), BDZ, Epoche V.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/35004-vagoane-eaos-70",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 35004; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_70_9564AF35004.jpg"
   },
-  "updatedAt": "2026-11-21T19:40:48Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35004"
 }

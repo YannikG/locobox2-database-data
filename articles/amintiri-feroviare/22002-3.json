@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22002-3",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22002-3",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Petraom",
+    "type": "Zas",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Kesselwagen Zas, Teil des Sets Art. 22002 (3-tlg.), Petraom, Epoche VI.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22002-petraom-kesselwagen-set-zas-3-tlg-ep-6",
+    "notes": "Wagen aus dem Set Art. 22002; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/ed/89/ef/1779941064/318-AF22002.jpg?ts=1779941064"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "22002"
+}

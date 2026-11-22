@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "IV"
   },
-  "description": "Set of three CFR refrigerated wagons of the Icehqs type. Epoca IV. 1:87 scale reproduction H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Kühlwagen Icehqs, Teil des Sets Art. 502139 (drei Wagen), CFR, Epoche IV.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/502139-vagon-refrigerent-icehws-97",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 502139; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_97_3063502139b.jpg"
   },
-  "updatedAt": "2026-11-21T19:40:59Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "502139"
 }

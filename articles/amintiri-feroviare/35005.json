@@ -8,14 +8,14 @@
   "model": {
     "country": "BG",
     "operator": "BDZ Cargo",
-    "type": "offene Güterwagen-Set",
+    "type": "Eaos",
     "number": null,
     "livery": null,
     "scale": "H0",
     "electricSystem": "Unbekannt",
     "era": "Unbekannt"
   },
-  "description": "3-teiliges Set offene Güterwagen Typ Eaos, der BDZ Cargo. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Offener Güterwagen Eaos, Teil des Sets Art. 35005 (drei Wagen), BDZ Cargo.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.menzels-lokschuppen.de/af-models-af35005-bdz-cargo-offene-gueterwg-set-3-tlg",
-    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "notes": "Set Art. 35005; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.menzels-lokschuppen.de/media/ec/03/ea/1779959265/318-AF35005.jpg?ts=1779959265"
   },
-  "updatedAt": "2026-11-21T19:36:04Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35005"
 }

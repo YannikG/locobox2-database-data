@@ -15,7 +15,7 @@
     "electricSystem": "Unbekannt",
     "era": "V"
   },
-  "description": "Set with three tank wagon type Zagkks of the private compay ROMPETROL. Epoch V. Reproduction in scale 1:87. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "description": "Kesselwagen Zagkks, Teil des Sets Art. 35001 (drei Wagen), Rompetrol, Epoche V.",
   "categories": [
     "gueterwagen"
   ],
@@ -24,8 +24,9 @@
   ],
   "source": {
     "url": "https://www.amintiriferoviare.com/produs/35001-vagon-cisterna-zagkks-40",
-    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "notes": "Set Art. 35001; dieser Eintrag ist Wagen 1 des Sets.",
     "imageUrl": "https://www.amintiriferoviare.com/media/images/1_41_4075AF35001.jpg"
   },
-  "updatedAt": "2026-11-21T19:36:38Z"
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "35001"
 }
