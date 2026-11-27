@@ -82,6 +82,12 @@ for (const a of arts) {
     t = `Rh ${oebbPrefixed[1]}`;
   }
 
+  // CH: SBB-Konvention "Re NNN" (Skill: ÖBB/SBB Reihe/Re nicht als Rh). Nur wenn "Re NNN" im Repo existiert.
+  const chNum = t.match(/^(?:BR\s+|Reihe\s+|Rh\s+|Re\s+)?(\d{3})$/);
+  if (country === "CH" && chNum && !/^0/.test(chNum[1]) && hasExact.has(`Re ${chNum[1]}`)) {
+    t = `Re ${chNum[1]}`;
+  }
+
   if (t !== before) changes.push({ file: path.relative(ROOT, a.f), before, after: t, country, a });
 }
 
