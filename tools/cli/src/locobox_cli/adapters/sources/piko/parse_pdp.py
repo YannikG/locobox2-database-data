@@ -228,7 +228,7 @@ def parse_piko_pdp(
 
     source: dict[str, Any] = {
         "url": canonical_url,
-        "notes": "Daten von der Webseite, automatisch geupdated.",
+        "notes": "Daten von der Webseite, automatisch aktualisiert.",
     }
     if img and str(img).startswith("https://"):
         source["imageUrl"] = img

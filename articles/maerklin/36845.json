@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 2016",
+    "type": "Rh 2016",
     "number": "082-6",
     "livery": null,
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36845",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/4c/74/4c743925042f0df6e1b523bd3a017bf81434539098.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"

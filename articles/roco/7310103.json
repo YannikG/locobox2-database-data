@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "EBS",
-    "type": "232",
+    "type": "BR 232",
     "number": "592-6",
     "livery": "Erfurter Bahnservice",
     "scale": "H0",
@@ -30,7 +30,7 @@
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/diesellokomotiven/7310103-diesellokomotive-232-592-6-ebs.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/266499.jpg"
   },
   "updatedAt": "2026-05-05T21:39:16Z"

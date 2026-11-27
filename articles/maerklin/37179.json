@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "BR 694",
+    "type": "Rh 694",
     "number": "692",
     "livery": null,
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37179",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/c1/22/c122d99ff4e181d0e2d66e260cc097b51503409693.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"

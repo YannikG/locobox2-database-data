@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 2016",
+    "type": "Rh 2016",
     "number": "021-5",
     "livery": "Hercules",
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36844",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/73/a8/73a80b70e5cabbf54c92d41cf437f1c51466696314.jpg"
   },
   "updatedAt": "2026-11-16T09:09:39Z"

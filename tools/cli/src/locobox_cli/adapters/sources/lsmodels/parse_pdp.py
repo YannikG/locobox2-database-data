@@ -658,7 +658,7 @@ def parse_lsmodels_pdp(
 
     source: dict[str, Any] = {
         "url": canon or f"https://lsmodels.eu/de/suche?controller=search&s={art}",
-        "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+        "notes": "Daten von lsmodels.eu, automatisch aktualisiert.",
     }
     if img and img.startswith("https://"):
         source["imageUrl"] = img

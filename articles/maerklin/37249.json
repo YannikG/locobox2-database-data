@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 1020",
+    "type": "Rh 1020",
     "number": "1020.28",
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37249",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/39/ef/39ef21e9e798b5b1be6bf2ca99778c9e1572591606.jpg"
   },
   "updatedAt": "2026-11-16T09:14:53Z"

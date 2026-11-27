@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "BR 694",
+    "type": "Rh 694",
     "number": "561",
     "livery": null,
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/22161",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/de/43/de430ceaa0909904d9b588f35d2f01b51434534671.jpg"
   },
   "updatedAt": "2026-11-27T13:25:17Z"

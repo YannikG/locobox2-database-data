@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 1012",
+    "type": "Rh 1012",
     "number": "1012.002",
     "livery": null,
     "scale": "H0",
@@ -25,7 +25,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/22600",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/e3/09/e309ec97382beba2bcb2b69fbc5aa7db1434534522.jpg"
   },
   "updatedAt": "2026-11-27T13:37:53Z"

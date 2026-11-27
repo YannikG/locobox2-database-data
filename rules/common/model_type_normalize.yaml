@@ -1,0 +1,17 @@
+# Herstellerübergreifende model.type-Normalisierung (locobox pipeline apply).
+# Länder- oder Baureihen-abhängige Präfixe (BR / Rh / Re) bleiben bei tools/normalize-model-type.mjs
+# bzw. im Loknummer-Review, weil die richtige Schreibweise vom Land abhängt.
+rules:
+  - id: model-type-strip-whole-quotes
+    when:
+      field: model.type
+      match: "^[„\"«]\\s*(.+?)\\s*[“\"»]$"
+    then:
+      replace: "\\1"
+
+  - id: model-type-eu-space
+    when:
+      field: model.type
+      match: "^EU(\\d)"
+    then:
+      replace: "EU \\1"

@@ -11,7 +11,7 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Rbe 4/4",
+    "type": "RBe 4/4",
     "number": null,
     "livery": "2er Set + Bt Steuerwagen",
     "scale": "N",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/n-2er-set-e-triebwagen-rbe-4-4-sbb-iv-bt-steuerwagen-38256.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_n/oart_38256/thumbs/45959_439260.jpg"
   },
   "updatedAt": "2026-10-10T19:52:11Z"

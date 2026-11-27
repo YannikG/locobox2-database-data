@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖGEG",
-    "type": ".",
+    "type": "Be 6/8 II",
     "number": "13257",
     "livery": "Krokodil",
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37566",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/37/16/3716f10e58775423c70847a2c94d20511434538617.jpg"
   },
   "updatedAt": "2026-11-27T10:04:41Z"

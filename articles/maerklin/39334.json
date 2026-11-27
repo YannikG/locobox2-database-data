@@ -8,7 +8,7 @@
   "model": {
     "country": "CH",
     "operator": "BLS",
-    "type": "Rh 475",
+    "type": "Re 475",
     "number": "417",
     "livery": null,
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/39334",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/c0/76/c076e543edaf7b1809b9b28a7687804a1681365611.jpg"
   },
   "updatedAt": "2026-11-27T10:16:25Z"

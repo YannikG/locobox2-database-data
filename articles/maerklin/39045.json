@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "BR 42",
+    "type": "Rh 42",
     "number": "2513",
     "livery": null,
     "scale": "H0",
@@ -27,7 +27,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/39045",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/3e/a5/3ea5897009f23958ef1b7aa9a1a956081572591609.jpg"
   },
   "updatedAt": "2026-11-27T09:55:07Z"

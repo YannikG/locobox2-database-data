@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 1189",
+    "type": "Rh 1189",
     "number": "1189.02",
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/25090",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/f3/8b/f38b6457bc3dc2a0169fa07a7f4be5471702904422.jpg"
   },
   "updatedAt": "2026-11-27T14:04:22Z"

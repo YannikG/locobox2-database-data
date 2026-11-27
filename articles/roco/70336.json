@@ -11,7 +11,7 @@
   "model": {
     "country": "CH",
     "operator": "BLS Cargo",
-    "type": "485",
+    "type": "Re 485",
     "number": "012-9",
     "livery": null,
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/70336-elektrolokomotive-485-012-9-bls-cargo.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/5/253315.jpg"
   },
   "updatedAt": "2026-05-07T20:46:45Z"

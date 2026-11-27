@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1216",
+    "type": "Rh 1216",
     "number": "234",
     "livery": null,
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/elektrolok-1216-234-oebb-vi-11673.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_11673/thumbs/40003_447018.jpg"
   },
   "updatedAt": "2026-10-10T19:52:11Z"

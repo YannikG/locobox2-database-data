@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 1189",
+    "type": "Rh 1189",
     "number": "1189.02",
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/39090",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/f8/ad/f8add561e27c54427aad579724b2188b1702731603.jpg"
   },
   "updatedAt": "2026-11-16T09:09:39Z"

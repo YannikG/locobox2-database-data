@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 2016",
+    "type": "Rh 2016",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -25,7 +25,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/22074",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/ec/28/ec28693bd8e824afeadbd76de6e4368b1434534456.jpg"
   },
   "updatedAt": "2026-11-27T13:10:45Z"

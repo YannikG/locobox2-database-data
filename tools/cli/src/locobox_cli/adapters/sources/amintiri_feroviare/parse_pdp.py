@@ -382,9 +382,9 @@ def parse_amintiri_feroviare_pdp(
 
     # Menzels-only URLs are fine on articles; tag allowlist is separate.
     notes = (
-        "Daten von menzels-lokschuppen.de, automatisch geupdated."
+        "Daten von menzels-lokschuppen.de, automatisch aktualisiert."
         if "menzels-lokschuppen.de" in canon
-        else "Daten von der Hersteller-Webseite, automatisch geupdated."
+        else "Daten von der Hersteller-Webseite, automatisch aktualisiert."
     )
     source: dict[str, Any] = {"url": canon, "notes": notes}
     if img and img.startswith("https://"):

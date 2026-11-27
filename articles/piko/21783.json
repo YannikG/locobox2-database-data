@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "DR",
-    "type": "E 17",
+    "type": "BR E 17",
     "number": "123",
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/21783.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_51275/thumbs/63864_569356.jpg"
   },
   "updatedAt": "2026-10-10T17:21:11Z"

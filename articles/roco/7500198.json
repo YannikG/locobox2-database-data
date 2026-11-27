@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "DRG",
-    "type": "E 44",
+    "type": "BR E 44",
     "number": "015",
     "livery": "DRG",
     "scale": "H0",
@@ -30,7 +30,7 @@
   ],
   "source": {
     "url": "https://www.roco.cc/rde/produkte/lokomotiven/elektrolokomotiven/7500198-elektrolokomotive-e-44-015-drb.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.roco.cc/media/catalog/product/cache/7ee44aa0126bc9176198779df8fa359f/2/6/265672.jpg"
   },
   "updatedAt": "2026-05-05T21:54:51Z"

@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1216",
+    "type": "Rh 1216",
     "number": null,
     "livery": "CityJet",
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-taurus-cityjet-oebb-vi-wechselstromversion-49568.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_49568/thumbs/59829_528141.jpg"
   },
   "updatedAt": "2026-10-10T19:52:11Z"

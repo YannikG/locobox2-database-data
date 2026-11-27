@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 5081",
+    "type": "Rh 5081",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -27,7 +27,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/39981",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/52/06/5206aec6e8aaff992203ecf1ead829111434538954.jpg"
   },
   "updatedAt": "2026-11-27T10:30:53Z"

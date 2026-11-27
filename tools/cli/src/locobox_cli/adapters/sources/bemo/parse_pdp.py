@@ -439,7 +439,7 @@ def parse_bemo_pdp(
 
     source: dict[str, Any] = {
         "url": canon,
-        "notes": "Daten von bemo-modellbahn.de, automatisch geupdated.",
+        "notes": "Daten von bemo-modellbahn.de, automatisch aktualisiert.",
     }
     if img and img.startswith("https://"):
         source["imageUrl"] = img

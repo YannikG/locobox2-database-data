@@ -11,7 +11,7 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Rbe 4/4",
+    "type": "RBe 4/4",
     "number": null,
     "livery": "NPZ",
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/2er-set-rbe-4-4-npz-sbb-iv-triebwagen-steuerwagen-32938.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_32938/thumbs/35643_449367.jpg"
   },
   "updatedAt": "2026-11-16T09:09:47Z"

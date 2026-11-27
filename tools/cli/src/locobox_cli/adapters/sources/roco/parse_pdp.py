@@ -341,7 +341,7 @@ def parse_roco_pdp(
 
     source: dict[str, Any] = {
         "url": canon or f"https://www.roco.cc/rde/catalogsearch/result/?q={art}",
-        "notes": "Daten von der Webseite, automatisch geupdated.",
+        "notes": "Daten von der Webseite, automatisch aktualisiert.",
     }
     img = _image(html, canon or "https://www.roco.cc/")
     if img and img.startswith("https://"):

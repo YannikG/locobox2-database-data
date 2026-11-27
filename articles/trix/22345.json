@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "BR 42",
+    "type": "Rh 42",
     "number": "2513",
     "livery": null,
     "scale": "H0",
@@ -27,7 +27,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/22345",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/f3/e8/f3e89d82bf8cd7054fa3d62098eeebc11513839632.jpg"
   },
   "updatedAt": "2026-11-27T14:44:26Z"

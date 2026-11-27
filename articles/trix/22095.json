@@ -11,7 +11,7 @@
   "model": {
     "country": "CH",
     "operator": "BLS Cargo",
-    "type": "Rh 475",
+    "type": "Re 475",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.trix.de/de/produkte/details/article/22095",
-    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/a9/c8/a9c89a7682c0adc76c0891b81696ff761541778309.jpg"
   },
   "updatedAt": "2026-11-27T14:30:29Z"

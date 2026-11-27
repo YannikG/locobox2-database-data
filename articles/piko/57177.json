@@ -11,7 +11,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "1216",
+    "type": "Rh 1216",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/start-set-mit-bettung-taurus-oebb-mit-gueterwagen-30552.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_30552/thumbs/55069_416408.jpg"
   },
   "updatedAt": "2026-11-16T09:09:47Z"

@@ -11,7 +11,7 @@
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Reihe 460",
+    "type": "Re 460",
     "number": "101-9",
     "livery": null,
     "scale": "H0",
@@ -29,7 +29,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37464",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/94/2a/942a4bc42698a0169c57bc07de4dc4f41461324778.jpg"
   },
   "updatedAt": "2026-11-16T09:09:39Z"

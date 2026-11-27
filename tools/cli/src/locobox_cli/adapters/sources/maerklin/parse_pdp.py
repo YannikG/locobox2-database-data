@@ -556,7 +556,7 @@ def parse_maerklin_pdp(
     )
     source: dict[str, Any] = {
         "url": canonical_url,
-        "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+        "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     }
     if img.startswith("https://"):
         source["imageUrl"] = img

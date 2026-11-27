@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "Reihe 2070",
+    "type": "Rh 2070",
     "number": "058-9",
     "livery": "Hector",
     "scale": "H0",
@@ -26,7 +26,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37659",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/67/54/6754461084feb193c4e6b102637d1e941434539304.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"

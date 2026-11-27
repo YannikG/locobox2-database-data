@@ -11,7 +11,7 @@
   "model": {
     "country": "PL",
     "operator": "PKP",
-    "type": "EU07",
+    "type": "EU 07",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/e-lok-eu07-pkp-v-45337.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_e/oart_45337/thumbs/56686_471487.jpg"
   },
   "updatedAt": "2026-10-10T19:52:11Z"

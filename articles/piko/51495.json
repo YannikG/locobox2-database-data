@@ -11,7 +11,7 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "E 17",
+    "type": "BR E 17",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -31,7 +31,7 @@
   ],
   "source": {
     "url": "https://www.piko-shop.de/de/artikel/sound-e-lok-e-17-db-iii,-inkl.-piko-sound-decoder-41174.html",
-    "notes": "Daten von der Webseite, automatisch geupdated.",
+    "notes": "Daten von der Webseite, automatisch aktualisiert.",
     "imageUrl": "https://www.piko-shop.de/media/oart_0/oart_s/oart_41174/thumbs/49158_432805.jpg"
   },
   "updatedAt": "2026-10-10T19:52:11Z"

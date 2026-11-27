@@ -8,7 +8,7 @@
   "model": {
     "country": "AT",
     "operator": "ÖBB",
-    "type": "BR 50",
+    "type": "Rh 50",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -25,7 +25,7 @@
   ],
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37832",
-    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch aktualisiert.",
     "imageUrl": "https://static.maerklin.de/damcontent/54/16/5416c95ddd4a897085eb90463fc983501434539234.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
