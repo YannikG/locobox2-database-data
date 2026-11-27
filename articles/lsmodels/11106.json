@@ -3,7 +3,7 @@
   "id": "lsmodels-11106",
   "manufacturer": "L.S.Models",
   "articleNumber": "11106",
-  "releaseDate": null,
+  "releaseDate": "2023",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2764-superlarge_default/bb-22240-livree-ouigo.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

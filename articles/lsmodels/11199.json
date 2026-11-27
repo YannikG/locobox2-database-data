@@ -3,7 +3,7 @@
   "id": "lsmodels-11199",
   "manufacturer": "L.S.Models",
   "articleNumber": "11199",
-  "releaseDate": null,
+  "releaseDate": "2025",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3387-superlarge_default/bb20011-gris-argent-bleu-ten-chamois-432-plaques-depot-strasbourg.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

@@ -3,7 +3,7 @@
   "id": "lsmodels-13002",
   "manufacturer": "L.S.Models",
   "articleNumber": "13002",
-  "releaseDate": null,
+  "releaseDate": "2025",
   "uvp": null,
   "model": {
     "country": "BE",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2847-superlarge_default/1350-weiss-gelbe-fronten-b-logo.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

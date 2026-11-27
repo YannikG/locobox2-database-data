@@ -3,7 +3,7 @@
   "id": "lsmodels-16091",
   "manufacturer": "L.S.Models",
   "articleNumber": "16091",
-  "releaseDate": null,
+  "releaseDate": "2025",
   "uvp": null,
   "model": {
     "country": "DE",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2870-superlarge_default/120-verkehrsrot-widmer-rail-service.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

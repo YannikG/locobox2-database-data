@@ -3,7 +3,7 @@
   "id": "lsmodels-16075",
   "manufacturer": "L.S.Models",
   "articleNumber": "16075",
-  "releaseDate": null,
+  "releaseDate": "2026",
   "uvp": null,
   "model": {
     "country": "DE",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/550-superlarge_default/db-cargo-vectron-ms-white-i-am-einziganders.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

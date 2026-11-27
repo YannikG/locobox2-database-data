@@ -3,7 +3,7 @@
   "id": "lsmodels-11104",
   "manufacturer": "L.S.Models",
   "articleNumber": "11104",
-  "releaseDate": null,
+  "releaseDate": "2025",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3349-superlarge_default/bb22399-livree-gris-beton-orange-logo-nouille-200-km-h.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

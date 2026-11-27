@@ -54,6 +54,10 @@ Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `H
 
 LS Models nennt Unterstufen (`IVB`, `IIIC`, `VA`, `IVC-VA`). Locobox führt nur ganze Epochen: Buchstaben-Suffix weglassen (`IVB` → `IV`, `IIIB-C` → `III`, `IVC-VA` → `IV-V`, `II-IIIA` → `II-III`). Parser `_normalize_era` macht das, bei Bestand `articles patch`.
 
+## Release-Datum und Jahres-Tag
+
+Shop liefert kein Datum (`available_date` `0000-00-00`). `releaseDate` = Jahr des Neuheiten-Folders (Parser nimmt es aus dem Kampagnen-Tag, deshalb **immer Jahres-Tag** `lsmodels-neuheiten-YYYY` verwenden, kein Sammel-Tag). Jahr = erstes Auftreten der SKU in den Folder-PDFs (Erstellungsdatum des PDFs). Steht im Folder «Lieferung geplant für September 2024», diese Angabe als Freitext übernehmen.
+
 ## AC/DC-Schwestern
 
 LS Models: oft DC `AAxxx` und AC `AA5xx` (+500 auf der Artikelnummer, z. B. `16075` / `16575`). Primär `ALIMENTATION` aus dem PDP. Fehlt `ALIMENTATION` (häufig ausverkaufte Seiten ohne Feature-Block) und die DC-Schwester (`articleNumber − 500`) liegt im Repo mit gleichem `model.type` und nicht-AC-Stromsystem, darf Auto-Fix die +500-Variante auf `AC-Digital` setzen. Nicht aus dem Fliesstext der Schwester raten und nicht kopieren, wenn Typen abweichen. `model.era`: wenn eine Twin-Seite `EPOQUE` hat und die andere `Unbekannt`, bei gleichem `type` die bekannte Epoche übernehmen (gleiche Vorbild-Epoche). Epoche nicht aus Lack oder Marketing erfinden.

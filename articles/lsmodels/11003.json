@@ -3,7 +3,7 @@
   "id": "lsmodels-11003",
   "manufacturer": "L.S.Models",
   "articleNumber": "11003",
-  "releaseDate": null,
+  "releaseDate": "2023",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3321-superlarge_default/set-1-capitole-cc-6500-gc-gc-metallisches-grau-ursprungsversion-sud-ouest-200-km-h.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

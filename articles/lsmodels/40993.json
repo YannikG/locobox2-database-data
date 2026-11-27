@@ -3,7 +3,7 @@
   "id": "lsmodels-40993",
   "manufacturer": "L.S.Models",
   "articleNumber": "40993",
-  "releaseDate": null,
+  "releaseDate": "2023",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3004-superlarge_default/vtu-ouigo-toiture-gris-orage.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

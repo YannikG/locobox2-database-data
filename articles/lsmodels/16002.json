@@ -3,7 +3,7 @@
   "id": "lsmodels-16002",
   "manufacturer": "L.S.Models",
   "articleNumber": "16002",
-  "releaseDate": null,
+  "releaseDate": "2024",
   "uvp": null,
   "model": {
     "country": "DE",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1616-superlarge_default/et-403-grau-rot-schwarz-ic-4-teilig-variante.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }

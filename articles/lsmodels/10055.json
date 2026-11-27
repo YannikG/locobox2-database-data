@@ -3,7 +3,7 @@
   "id": "lsmodels-10055",
   "manufacturer": "L.S.Models",
   "articleNumber": "10055",
-  "releaseDate": null,
+  "releaseDate": "2023",
   "uvp": null,
   "model": {
     "country": "FR",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3081-superlarge_default/bb-22200-grau-violett-en-voyage-carmillon-logo-frontnummer-kleines-fuhrerhaus-wappen-dole.jpg"
   },
-  "updatedAt": "2026-11-27T11:14:22Z"
+  "updatedAt": "2026-11-27T11:15:12Z"
 }
