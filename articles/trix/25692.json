@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "VT 92.5",
-    "number": null,
+    "number": "501",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ac/a2/aca237c1166914c786b78f5724f548061620820847.jpg"
   },
-  "updatedAt": "2026-11-27T14:10:56Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

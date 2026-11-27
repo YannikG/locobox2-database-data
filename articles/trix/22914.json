@@ -9,8 +9,8 @@
     "country": "DE",
     "operator": "KPEV",
     "type": "T 3",
-    "number": null,
-    "livery": null,
+    "number": "6135",
+    "livery": "Halle",
     "scale": "H0",
     "electricSystem": "DC-Digital",
     "era": "I",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/ec/14/ec14f652af039700a3ee816fa8bb65c71577430010.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:18Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

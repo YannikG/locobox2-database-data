@@ -12,7 +12,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 22200",
-    "number": null,
+    "number": "22307",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/00/0b/000bf5361ccfe31713d7fe77ae5633d01756134011.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:22Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

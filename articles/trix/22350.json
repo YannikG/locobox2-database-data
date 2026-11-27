@@ -9,7 +9,7 @@
     "country": "SE",
     "operator": "SJ",
     "type": "Ub",
-    "number": null,
+    "number": "709",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/0c/06/0c06a684f28845e579fbae0dceece15b1512124775.jpg"
   },
-  "updatedAt": "2026-11-27T13:37:53Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

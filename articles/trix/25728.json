@@ -9,7 +9,7 @@
     "country": "HU",
     "operator": "MAV",
     "type": "M28",
-    "number": null,
+    "number": "1001",
     "livery": "Märklin Werkslok Györ",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/9f/da/9fdaa31217ab0e60a64784310fac5a421787745623.jpg"
   },
-  "updatedAt": "2026-11-27T14:11:13Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

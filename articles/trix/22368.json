@@ -12,7 +12,7 @@
     "country": "IT",
     "operator": "SerFer",
     "type": "BR V 142",
-    "number": null,
+    "number": "23",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -32,5 +32,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/2a/26/2a260594bf7b3da1379affd515e862931603519218.jpg"
   },
-  "updatedAt": "2026-11-27T13:38:31Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }

@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "EST",
     "type": "Serie 13 EST",
-    "number": null,
+    "number": "241-004",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/26/5d/265d92c6e3aec6dc7f6bc65a0e8688d31668862813.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:19Z"
+  "updatedAt": "2026-11-27T14:12:03Z"
 }
