@@ -71,6 +71,7 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 - **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
 - **`autofix_trix_shop_import.py`** — Trix- **und Märklin**-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`; generische H1 → Typ aus Vorbild), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`. Details: [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md).
 - **`autofix_ree_shop_import.py`** — REE Modèles Shop: SNCF ``BB``/``CC`` Serie vs. Laufnummer (auch wenn ``number`` noch Präfix trägt), Pacific ``231 K/G`` / ``141 D``, Moyse/040 DE/RGP-Kurztypen, Operator/Epoche/`dampflokomotive` aus Text; Referenz [reference-sncf-type-number.md](reference-sncf-type-number.md).
+- **`autofix_lsmodels_shop_import.py`** — LS Models PrestaShop: langer H1 → `type`/`number`/`livery` (HLE, BB/CC, X####, AGC, Vectron, Apm/Bpm), Operator/Land aus Titel, Kategorien Triebwagen/Wagen; Referenz [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md).
 - **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
 - **`test_autofix_model_country.py`** — Unit-Tests zum Country-Skript.
@@ -192,6 +193,18 @@ Gegen [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsi
 - **`Rh`** nur bei NL/NS; ÖBB/SBB `Reihe`/`Re` nicht als Rh lassen
 - Autofix zuerst: `autofix_trix_shop_import.py` (Scope `articles/maerklin` oder `articles/trix`)
 
+#### Pass 1: LS Models (Tag `lsmodels-*` / Hersteller L.S.Models)
+
+Gegen [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md) prüfen:
+
+- **Langer H1** noch in `model.type` (Komma-Marketingkette)?
+- **HLE:** Nummer-first (`1312, …`) bzw. `1347 blanche … (SNCB)` → `type`/`number` gesplittet?
+- **SNCF BB/CC:** Serie vs. Laufnummer ([reference-sncf-type-number.md](reference-sncf-type-number.md)); `PAYS=SNCF` nicht als `country=DE`+`Unbekannt` stehen lassen
+- **X#### / AGC:** Kategorie Triebwagen (nicht nacktes `lokomotive`)?
+- **Apm/Bpm/I*/M6/OCEM:** `wagen`, nicht Lok?
+- **Vectron/Smartron:** kurzer `type`, Sondername in `livery`?
+- Autofix zuerst: `autofix_lsmodels_shop_import.py` (Scope `articles/lsmodels`)
+
 #### Pass 1: BEMO (Tag `bemo-*` / Hersteller BEMO)
 
 Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) und [internal/wiki-rhb-mgb-schmalspur-naming.md](internal/wiki-rhb-mgb-schmalspur-naming.md) prüfen:
@@ -239,6 +252,7 @@ Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) u
 | PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
 | Märklin / Trix Produktdatenbank | [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md) |
 | BEMO Shop / Katalog-Artefakte | [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) |
+| LS Models Shop (lsmodels.eu) | [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md) |
 | Shop-Import-Workflow (PDF → Queue → Fetch → Pipeline) | Skill [locobox-import](../locobox-import/SKILL.md), CLI [`tools/cli`](../../../tools/cli/README.md) |
 | Privatbahn → Land (Livery-Anker) | [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md) |
 | Baureihen-/UIC-Schemata (Link-Index) | [internal/wiki-baureihen-schemata-uebersicht.md](internal/wiki-baureihen-schemata-uebersicht.md) |
