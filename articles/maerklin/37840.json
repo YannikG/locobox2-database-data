@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37840",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37840",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Baureihe 50 der Deutschen Bundesbahn (DB).\n\nModell: 5 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Verstellbare Kurzkupplung zwischen Lok und Tender. Norm- Kupplungsaufnahmen, am Tender mit Kulissenführung. Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe Nr. 11 (Delta und Digital). Länge über Puffer 26,3 cm. Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Spitzensignal bei Fahrt in Betrieb und digital schaltbar. Rauchsatz 7226 nachrüstbar, bei Fahrt in Betrieb und mit Control-Unit 6021 digital schaltbar.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37840",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/5f/d15fd4fc5ee92ae5ce9cb14d2da005591434538990.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

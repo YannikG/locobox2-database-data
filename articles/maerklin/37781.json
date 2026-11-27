@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37781",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37781",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Hochgeschwindigkeitszug ICE 3.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3. Baureihe 406 der Niederländischen Eisenbahnen ( NS ). 1 Endwagen 406.0. 1 Trafowagen 406.1. 1 Mittelwagen Restaurant 406.3. 1 Trafowagen 406.6. 1 Endwagen 406.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37781",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/66/b766299eaa6416ff69d415364c0a75b21434539147.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

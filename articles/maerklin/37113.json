@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37113",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37113",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Reihe C",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Reihe C der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Hochleistungsmotor mit Glockenanker. Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal digital schaltbar. 3 Achsen über Kuppelstangen angetrieben. 2 Haftreifen . Vorne Dreilicht-Spitzensignal , am Tender Zweilicht-Spitzensignal . Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37113",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/47/89/47895a787741ee724d9b85ae73db8ad11434539049.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

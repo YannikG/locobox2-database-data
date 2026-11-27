@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37440",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37440",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe E44 der Deutschen Bundesbahn (DB). Altbaulokomotive.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. Motor mit Schwungmasse zentral eingebaut. 4 Achsen angetrieben. 2 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorngeräusch sowie Anfahrund Bremsverzögerung mit Control Unit 6021 digital schaltbar. Pufferbohlen vorbildgerecht mit den Drehgestellen schwenkend. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37440",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/14/f9141579295d660587a20be1d66ae6131434539404.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

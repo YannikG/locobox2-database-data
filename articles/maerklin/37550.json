@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37550",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37550",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 55",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 55 der Deutschen Bundesbahn (DB). Frühere preussische G 8.1.\n\nModell: Mit Digital- Decoder und geregeltem Antrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. (cHU3 4 Achsen angetrieben. 2 Haftreifen . Spitzensignal digital schaltbar. Rauchsatz 72270 nachrüstbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37550",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/79/d0/79d0431f7c8f661badbbbbc39efa518f1434539292.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

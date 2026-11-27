@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34475",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34475",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 69",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 85.0
+  },
+  "description": "Vorbild: Baureihe E 69 der Deutschen Bundesbahn (DB).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 1 Haftreifen . Führerstände mit freiem Durchblick. Angesetzte Griffstangen. Länge über Puffer 8,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34475",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/6c/1d6c8bd389d932460c5afcf729a68e361434539245.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

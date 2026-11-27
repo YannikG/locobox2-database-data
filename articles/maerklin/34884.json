@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34884",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34884",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 260.0
+  },
+  "description": "Vorbild: Baureihe 44 der Deutschen Bundesbahn (DB).\n\nModell: Mit DELTA-Elektronik. 5 Achsen angetrieben. 4 Haftreifen . Umlauf mit Frontschräge. Kurvengängiges Gelenkfahrwerk. Kurzkupplung zwischen Lok und Tender. Vorne Norm-Kupplungsaufnahme, am Tender Kurzkupplung mit Kulissenführung. Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe-Rauchsatz Nr. 11 (DELTA-/Digital-Betrieb). Länge über Puffer 26,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34884",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/90/9390c6936c5c8de044aaebeca68e76951434539190.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

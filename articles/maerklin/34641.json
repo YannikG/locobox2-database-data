@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34641",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34641",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Dieselhydraulische Rangierlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Baureihe 365 der Deutschen Bahn AG ( DB AG ) mit Funkfernsteuerung.\n\nModell: Mit Delta-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Telex -Kupplungen zum ferngesteuerten Abkuppeln der Wagen an jeder beliebigen Stelle der Anlage. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34641",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ee/85/ee85924ab6c3fc30ac48cc30799cc9261434539276.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

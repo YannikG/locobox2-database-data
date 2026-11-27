@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37622",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37622",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "ATSF",
+    "type": "Dieselelektrische Lokomotive",
+    "number": "339",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III+IV"
+  },
+  "description": "Vorbild: Typ General Motors EMD F 7 der Atchison, Topeka & Santa Fe Railway (AT & SF). Doppeleinheit aus A-Unit und B-Unit. Betriebsnummer 339.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Achsen angetrieben. 4 Haftreifen . Spitzensignal und beleuchtete Nummerntafeln digital schaltbar. Eingebauter Geräuschgenerator mit Diesellok-Fahrgeräuschen, Signalhorn und dynamischer Bremse mit Control Unit 6021 digital zuschaltbar. Im konventionellen Betrieb ist das Spitzensignal und das Fahrgeräusch funktionsfähig. Anschluss für die Stirnbeleuchtung einer weiteren gekuppelten Lokomotive ohne Antrieb. Feste Deichsel zwischen beiden Lokomotiveinheiten. Kupplungshaken mit Vorentkupplung austauschbar gegen beiliegende Norm-Kupplungsaufnahme. Gesamtlänge 35,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37622",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/0b/f40b60b3b40d7a9e93eedbdb80d67bee1434539332.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

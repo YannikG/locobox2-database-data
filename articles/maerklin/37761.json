@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37761",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37761",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Dieseltriebwagen-Zug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 610 der Deutschen Bahn AG( DB AG ).\n\nModell: Automatische, gleisbogenabhängige Wagenkastenneigung. 2 Achsen angetrieben. 2 Haftreifen . Kurzgekuppelte Spezialverbindung zwischen den Wagen-Einheiten. An den Fahrzeugenden detaillierte Nachbildung der Scharfenberg-Kupplungen. Durch Austausch gegen die beiliegenden Norm-Kupplungsaufnahmen können mehrere Einheiten miteinander gekuppelt werden. Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spitzensignal digital schaltbar. Innenbeleuchtung mit Control Unit 6021 digital schaltbar. Im konventionellen Betrieb ist das Spitzensignal und die Innenbeleuchtung funktionsfähig.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37761",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/a0/0ea0f75615a4740ec3fb360e4f8281051434539235.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

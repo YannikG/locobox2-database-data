@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37431",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37431",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 151",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Baureihe 151 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Rahmen aus Metall. 3 Achsen angetrieben. 4 Haftreifen . Spitzensignal digital zuschaltbar. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37431",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/86/9b/869befa1636215c5ad521b5991a2303e1434538713.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

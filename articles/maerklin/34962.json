@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34962",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34962",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Gt 2 x 4/4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I+II"
+  },
+  "description": "Vorbild: Gt 2 x 4/4 der Deutschen Reichsbahn-Gesellschaft ( DRG ), Gruppenverwaltung Bayern.\n\nModell: Mit DELTA-Elektronik. 4 Achsen über Kuppelstangen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Zahlreiche angesetzte Details.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34962",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/0c/0f0ccd8f06fcc707d27badadc66173c61434538747.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

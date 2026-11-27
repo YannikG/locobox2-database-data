@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37059",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37059",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Serie K",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Serie K der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal digital schaltbar. Hochleistungsmotor mit Glockenanker. 6 Achsen angetrieben. 4 Haftreifen . Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand .Norm-Kupplungsaufnahmen, am Tender mit Kulissenführung. Frei stehende Laternen mit wartungsfreien Leuchtdioden. Einrichtung für Rauchsatz 7226.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37059",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/89/828902308792badd718acc3cdc55daab1434538781.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

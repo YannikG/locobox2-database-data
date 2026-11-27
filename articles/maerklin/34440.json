@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34440",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34440",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Baureihe E 44 der Deutschen Bundesbahn (DB).\n\nModell: Mit Delta-Elektronik. Spezialmotor mit Schwungmasse . 4 Achsen angetrieben. 2 Haftreifen . Pufferbohlen vorbildgerecht mit den Drehgestellen schwenkend. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34440",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/29/2c290bbce76bcd741d847cca19720bf51434539000.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

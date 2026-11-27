@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37090",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37090",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Gütertriebwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: \"CargoSprinter\" Baureihe Sggoorrss 700 der Deutschen Bahn AG, DB Cargo ( DB AG ).\n\nModell: 5-teilige Einheit. Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 1 Endwagen mit Antrieb. 2 Achsen angetrieben. 2 Haftreifen . 3 Zwischenwagen. 1 Endwagen ohne Antrieb. Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Durchgehende elektrische Verbindung des ganzen Triebwagenzuges. Beladen mit Containern und Wechselpritschen in verschiedenen Ausführungen. Wechselpritschen mit umklappbaren Absetzstützen. Spitzensignal am motorisierten Endwagen konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge des Zuges 104,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37090",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/a3/a3a38f41402d5f2b331b3bfd9ef70ac01434539438.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}
