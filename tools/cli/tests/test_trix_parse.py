@@ -41,3 +41,28 @@ def test_parse_trix_pdp_sample() -> None:
     assert art["source"]["imageUrl"].startswith("https://static.maerklin.de/")
     assert "trix-neuheiten-2026" in art["tags"]
     ValidateArticle.from_contracts(REPO).assert_valid(art)
+
+
+def test_trix_generic_h1_decimal_type_dc_and_extra_operator() -> None:
+    html = """
+    <h1>Elektrolokomotive.</h1>
+    <p><b>Vorbild:</b> Baureihe E 10.12 der Siemens Dispolok GmbH.</p>
+    <p><b>Modell:</b> Mit Digital-Decoder.</p>
+    <table>
+      <tr><th>Art.Nr.</th><td>22266</td></tr>
+      <tr><th>Epoche</th><td>III</td></tr>
+    </table>
+    """
+    art = parse_trix_pdp(
+        html,
+        canonical_url="https://www.trix.de/de/produkte/details/article/22266",
+        article="22266",
+        campaign_tag="trix-neuheiten-2008",
+    )
+    assert art["id"] == "trix-22266"
+    assert art["manufacturer"] == "Trix"
+    assert art["model"]["type"] == "Baureihe E 10.12"  # decimal point kept
+    assert art["model"]["electricSystem"].startswith("DC-")
+    assert art["model"]["operator"] == "Siemens Dispolok"
+    assert art["uvp"] is None
+    ValidateArticle.from_contracts(REPO).assert_valid(art)
