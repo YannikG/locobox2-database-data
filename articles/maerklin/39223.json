@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39223",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39223",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 194",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV+V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 194 der Deutschen Bundesbahn (DB). Im früheren Originalzustand erhaltene, betriebsfähige und zugelassene, heutige Lokomotive.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb C-Sinus und Geräuschgenerator. 3 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrgestell. Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Schlusslichter, Signalhorngeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39223",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/d6/2cd6f2a759cfe2971093df0f7f5e11e51434539257.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

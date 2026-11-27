@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37073",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37073",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 78",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Baureihe 78 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ausführung \"Ruhr-Schnellverkehr\".\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. 2 Haftreifen . Zahlreiche angesetzte Details. Angesetzte Tafel an Rauchkammer. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37073",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/aa/45/aa45ac1d6cf1bbb4dd14790c024f30021434539234.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

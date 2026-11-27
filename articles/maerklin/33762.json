@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33762",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33762",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 628",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 628.2 mit Steuerwagen 928.2 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtete Zieltafeln an den Stirnseiten. Kurzgekuppelte Spezialverbindung mit Kulissenführung zwischen Trieb- und Steuerwagen . Nachbildung der Originalkupplungen und Bremsschläuche. Länge des Zuges 52,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33762",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/86/dd867d99f85a0b4d48aa37004c3fb6b31434538981.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

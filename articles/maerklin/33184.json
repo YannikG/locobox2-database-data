@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33184",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33184",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 249.0
+  },
+  "description": "Vorbild: Baureihe 18.4 der Deutschen Reichsbahn-Gesellschaft ( DRG ).\n\nModell: Bemalte Kesselringe. Goldfarbene Schornsteinkrempe. Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Eingerichtet für Rauchsatz 72270 (konventioneller Betrieb) oder Seuthe Nr. 24 (DELTA-/Digital- Betrieb). Länge über Puffer 24,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33184",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3f/4d/3f4d371f59210d785d8562eccada9e171434538655.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

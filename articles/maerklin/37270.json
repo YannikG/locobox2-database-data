@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37270",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37270",
+  "releaseDate": "2004",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 201",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 201 der Belgischen Staatsbahnen (SNCB/NMBS). Ursprungsausführung der späteren Serie 59.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorngeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Vorbildgerecht unterschiedlich lange Überhänge. Eingesetzte Griffstangen und Lüftergitter. Länge über Puffer 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37270",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/18/a1/18a13731f4ff7531db4add02f00455381434538716.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

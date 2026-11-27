@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30747",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30747",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Dieselhydraulische Mehrzwecklokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 182.0
+  },
+  "description": "Vorbild: Baureihe 218 der Deutschen Bundesbahn (DB).\n\nModell: Fahrtrichtungsumschalter. Rahmen aus Metall. 2 Achsen angetrieben. 4 Haftreifen . Angesetzte Auspuffhutzen. Relex -Kupplungen. Länge über Puffer 18,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30747",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/ed/fded9a980d5ee4c00e93e657d4f711e21434539317.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

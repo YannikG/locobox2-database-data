@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34132",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34132",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 92",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Baureihe 92 der Deutschen Reichsbahn-Gesellschaft ( DRG ), frühere preussische T 13.\n\nModell: Mit miniaturisierter Delta-Elektronik. Spezialmotor mit Schwungmasse . 4 Achsen angetrieben. 2 Haftreifen . Rahmen-Fahrwerk mit verschiebbaren Achsen. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34132",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/f2/d9f2a2e09e86dc32284228ae574d84f41434539168.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

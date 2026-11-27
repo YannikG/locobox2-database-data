@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37365",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37365",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Dieselhydraulische Rangierlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 106.0
+  },
+  "description": "Vorbild: Baureihe V 36 der Deutschen Bundesbahn (DB). Ausführung mit Rangierkanzel.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. 2 Haftreifen . Motorhaube mit Betriebsnummerntafel. Zahlreiche angesetzte Rangiergriffe und Haltestangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 10,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37365",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/06/5d/065d95de0bab7c49052b662e3e5620031434538873.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

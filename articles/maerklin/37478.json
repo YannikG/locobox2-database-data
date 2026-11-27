@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37478",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37478",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 69",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 85.0
+  },
+  "description": "Vorbild: Nebenbahn-Lokomotive E 69 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 1 Haftreifen . Spitzensignal konventionell im Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit 6021 oder Systems digital schaltbar. Führerstände mit freiem Durchblick. Angesetzte Griffstangen. Länge über Puffer 8,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37478",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/71/11/7111c4a7b164c2f9036d1b9edfe7f1831434538905.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

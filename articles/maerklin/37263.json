@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37263",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37263",
+  "releaseDate": "2002",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1800",
+    "number": "1855",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 1800 der Niederländischen Eisenbahnen ( NS ). Neue Klassifikation der bisherigen Reihe 1600. Betriebsnummer 1855 mit dem Wappen der Stadt Eindhoven.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorngeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2002"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37263",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/14/0f14a1079f0af3d3aaafadcd78ff34c51434539238.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

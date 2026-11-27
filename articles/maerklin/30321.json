@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30321",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30321",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 81",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Baureihe 81 der Deutschen Bundesbahn (DB).\n\nModell: Fahrtrichtungsumschalter. 4 Achsen angetrieben. 2 Haftreifen . TELEX -Kupplungen zum ferngesteuerten Abkuppeln der Wagen an jeder beliebigen Stelle der Anlage. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30321",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/2e/052e182a7dc9d38d0a07ef5404ec98471434539443.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

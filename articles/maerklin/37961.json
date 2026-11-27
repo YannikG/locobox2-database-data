@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37961",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37961",
+  "releaseDate": "2002",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe Gt 2 x 4/4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Reihe Gt 2 x 4/4 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Bauart Mallet . Ursprungsausführung im Fotografieranstrich.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. 6 Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2002"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37961",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/e8/1ae862ea2d6a9a373e1ea25a07ba2d8d1434538870.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37652",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37652",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 362",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Baureihe 362 der Deutschen Bahn AG ( DB AG ). Rangierlokomotive mit hydraulischem Antrieb. Aktuelle Ausführung der früheren V 60.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Telex -Kupplungen zum ferngesteuerten Entkuppeln. 3 Achsen angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Telex -Kupplungen vorne und hinten unabhängig sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Angesetzte Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37652",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/81/1a811600fa10e2c0297ad7a30b1d328f1434538797.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

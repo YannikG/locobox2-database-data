@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37885",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37885",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 043",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 260.0
+  },
+  "description": "Vorbild: Baureihe 043 der Deutschen Bundesbahn (DB). Frühere Baureihe 44 mit Ölfeuerung und Öltender.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator. Kurvengängiges Gelenkfahrwerk. 5 Achsen angetrieben. 4 Haftreifen . Verstellbare Kurzkupplung zwischen Lok und Tender. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Eingerichtet für nachrüstbaren Rauchsatz 7226. Telex - Kupplung , Lokpfeife sowie Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Länge über Puffer 26,0 cm (26,2 cm).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37885",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/13/e3/13e3113cdcb8013080d0adbe8e2b868a1434538940.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

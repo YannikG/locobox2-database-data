@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37974",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37974",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe B VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung für Torffeuerung. Namensschild \"Klopstock\".\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. Hochleistungsmotor mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. 2 Haftreifen . Detailliertes Fahrwerk mit Aussenrahmen und Stephenson- Steuerung . Spitzensignal konventionell in Betrieb, digital schaltbar. Geschwindigkeitsabhängiges Dampflok-Fahrgeräusch, Pfeifsignal sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Weitere Betriebsgeräusche mit Systems digital schaltbar. Tender mit erhöhtem Aufbau und beweglichen Klappen. Kurzkupplung zwischen Lok und Tender. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,3 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37974",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/31/8231f88f0c8fb30ddd0f5e43dad683d71434539413.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

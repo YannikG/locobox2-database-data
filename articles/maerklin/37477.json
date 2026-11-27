@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37477",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37477",
+  "releaseDate": "2004",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 69",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 85.0
+  },
+  "description": "Vorbild: Nebenbahn-Lokomotive Baureihe E 69 der Deutschen Bundesbahn (DB). Rote Ausführung.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 1 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstände mit freiem Durchblick. Angesetzte Griffstangen. Länge über Puffer 8,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37477",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e6/81/e681d769181cd3f5467c1b196ca59cda1434539318.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

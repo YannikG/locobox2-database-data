@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3099",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3099",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 038",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Baureihe 038 der Deutschen Bundesbahn (DB).\n\nModell: Fahrtrichtungsumschalter. 3 Achsen angetrieben. 2 Haftreifen . Vorne Kupplungshaken , am Tender RELEX - Kupplung . Länge über Puffer 21,8 cm. Figuren von Lokführer und Heizer liegen bei.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3099",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/27/bc/27bcec63fa6bf78de1e93872440040741434539263.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

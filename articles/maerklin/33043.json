@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33043",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33043",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "H0-Museumslokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Baureihe 80 der Deutschen Reichsbahn-Gesellschaft ( DRG ) im Fotografieranstrich.\n\nModell: Aufbau und Fahrgestell aus Metall. Mit Delta-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Langsame Getriebeübersetzung. Dreilicht-Spitzenbeleuchtung mit der Fahrtrichtung wechselnd. Viele angesetzte Details. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33043",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9f/32/9f3261afdda1e12d152d4fa2c795a2501434538891.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

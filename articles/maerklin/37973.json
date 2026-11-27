@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37973",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37973",
+  "releaseDate": "2004",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 2400",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Reihe 2400 der Union Pacific Railroad (UP). Standardbauart 2-8-2 \" Mikado \" der United States Railroad Administration (USRA).\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel. 4 Achsen angetrieben. 2 Haftreifen . Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreier Leuchtdiode ( LED ). Geschwindigkeitsabhängiges, synchronisiertes Dampflokgeräusch, Pfeifsignal sowie Läutewerk oder Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 29,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37973",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/28/86/288617f971f3d8ade319f8e4726e2d9a1434539315.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37659",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37659",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2070",
+    "number": null,
+    "livery": "Hector",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2070 \"Hector\" der Österreichischen Bundesbahnen ( ÖBB ). Dieselhydraulische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), entwickelt aus den Standardlokomotiven der früheren MaK.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse zentral eingebaut. 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Umlaufende Bühnengeländer aus Metall. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37659",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/73/da7316bbfc1a211f9b9dda4c8607e9df1434539304.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30951",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30951",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 74",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 135.0
+  },
+  "description": "Vorbild: Baureihe 74 der Deutschen Bundesbahn (DB). Ehemalige preussische T 12.\n\nModell: Mit Delta-Elektronik. 3 Achsen angetrieben. Mit Haftreifen . Vorn Kupplungshaken mit Vorentkupplung, hinten Relex - Kupplung . Länge über Puffer 13,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30951",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/be/93/be9329f7e931cb832277ffe4a8eb502d1434539261.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

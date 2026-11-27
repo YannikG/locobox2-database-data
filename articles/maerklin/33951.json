@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33951",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33951",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Baureihe 03 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Wagner-Windleitbleche. Genieteter Tender.\n\nModell: Bemalte Kesselringe. Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe Nr. 11 (DELTA-/Digital-Betrieb). Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33951",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/f5/53f587c3dbb76d79db39acb34fdfd55c1434539135.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

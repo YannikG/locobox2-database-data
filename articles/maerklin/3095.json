@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3095",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3095",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 74",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 135.0
+  },
+  "description": "Vorbild: Baureihe 74 der Deutschen Bundesbahn (DB).\n\nModell: Fahrtrichtungsumschalter. 3 Achsen angetrieben. 1 Haftreifen . Vorne Kupplungshaken mit Vorentkupplung, hinten RELEXKupplung. Länge über Puffer 13,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3095",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c8/f6/c8f65329c37d67a6a7c2f892ebb728731434539213.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

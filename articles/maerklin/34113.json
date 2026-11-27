@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34113",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34113",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Reihe C",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Reihe C der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Mit DELTA-Elektronik. Hochleistungsmotor mit Glockenanker. 3 Achsen über Kuppelstangen angetrieben. 2 Haftreifen . Vorne Dreilicht-Spitzensignal , am Tender Zweilicht-Spitzensignal . Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34113",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/06/e5067c450e40455f74eabe60683292e31434539209.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

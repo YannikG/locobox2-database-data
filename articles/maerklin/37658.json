@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37658",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37658",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "MaK 1206",
+    "number": null,
+    "livery": "Carin",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Bauzuglokomotive Typ MaK 1206 \"Carin\" der niederländischen Baufirma Strukton. Einsatz auf den Strecken der Niederländischen Eisenbahnen ( NS ).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Umlaufende Bühnengeländer aus Metall. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37658",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c0/bc/c0bc065f7829fed568599fc591df69e81434539467.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

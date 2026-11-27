@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3087",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3087",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Länderbahn-Bauarten.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 108.0
+  },
+  "description": "Vorbild: Länderbahn-Bauarten.\n\nModell: Fahrtrichtungsumschalter. 1 Achse angetrieben. 1 Haftreifen . Kupplungshaken . Länge über Puffer 10,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3087",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/c1/05c165aeb91c9f924654b84484fe9db61434538685.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39161",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39161",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 42",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 42.90 Franco-Crosti der Deutschen Bundesbahn (DB). Ausführung mit Wagner-Windleitblechen.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb C-Sinus, Führerstands- und Fahrwerksbeleuchtung. 5 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrgestell. Beleuchtungen mit wartungsfreien Leuchtdioden. Spitzensignal und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Fahrwerksbeleuchtung sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39161",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/7c/037c96cae78672f6eb8cc79cb81ebff11434538963.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

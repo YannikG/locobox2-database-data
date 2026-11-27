@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33646",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33646",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "Dieselelektrische Lokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Serie 6400 der Niederländischen Eisenbahn ( NS Cargo) in der Gestaltung des Gemeinschaftsprojekts Railion mit der Deutschen Bahn(DB Cargo).\n\nModell: Mit DELTA-Elektronik. Spezialmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien LED . Seitliche Geländer und Endbühnen aus Metall.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33646",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/18/4818561c63adbfd2ccded4a0033846a41434539460.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

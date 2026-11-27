@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33961",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33961",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 86",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 158.0
+  },
+  "description": "Vorbild: Baureihe 86 der Deutschen Bundesbahn (DB).\n\nModell: Mit Delta-Elektronik. 4 Achsen angetrieben. 2 Haftreifen . Telex -Kupplungen zum ferngesteuerten Abkuppeln der Wagen an jeder beliebigen Stelle der Anlage. Länge über Puffer 15,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33961",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/9e/a69ea01fbaf71e352e80b88865e707271434539284.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

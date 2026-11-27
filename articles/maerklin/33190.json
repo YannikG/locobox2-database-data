@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33190",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33190",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 17",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 240.0
+  },
+  "description": "Vorbild: Baureihe 17.0 der Deutschen Reichsbahn-Gesellschaft ( DRG ), frühere preussische S 10.\n\nModell: Hochleistungsmotor mit Glockenanker. DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Feste Kurzkupplung zwischen Lokomotive und Tender. Länge über Puffer 24,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33190",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/47/d5/47d531940e2c10cb83ed65b6893491ae1434539036.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

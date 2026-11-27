@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37783",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37783",
+  "releaseDate": "2003",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 403",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3 Baureihe 403 der Deutschen Bahn AG ( DB AG ). 1 Endwagen 403.0. 1 Trafowagen 403.1. 1 Speisewagen 403.3. 1 Trafowagen 403.6. 1 Endwagen 403.5.\n\nModell: Fünfteilige Ausführung. Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Fernscheinwerfern. 2 Achsen angetrieben. 4 Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Spitzensignal gemeinsam mit Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängige Fernscheinwerfer sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge des Zuges 142,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37783",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/30/af3043faf4ea7ac9231bcc1aa807a5881434538779.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

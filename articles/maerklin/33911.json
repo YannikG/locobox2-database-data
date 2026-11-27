@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33911",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33911",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 274.0
+  },
+  "description": "Vorbild: Baureihe 03.10 der Deutschen Reichsbahn-Gesellschaft ( DRG ).\n\nModell: Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe-Rauchsatz Nr. 11 (DELTA-/ Digital-Betrieb). Länge über Puffer 27,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33911",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/79/257974e4b1313f98894d3a763ef0629e1434538883.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

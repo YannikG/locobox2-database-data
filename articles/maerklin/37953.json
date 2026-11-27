@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37953",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37953",
+  "releaseDate": "2004",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 03 der Deutschen Bundesbahn (DB). Einheitslokomotive mit geschweisstem Tender und Wagner-Windleitblechen.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator mit vielen Funktionen. 3 Achsen angetrieben. Haftreifen . Rauchsatz 7226 nachrüstbar. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37953",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/ee/a0eeb25b330e6c227ee733d04af888491434539470.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}
