@@ -284,10 +284,41 @@ _GENERIC_PRODUCT_TYPE = re.compile(
     re.I,
 )
 
+_MULTI_UNIT = re.compile(
+    r"Triebzug|Triebwagenzug|Triebwagen-Zug|Hochgeschwindigkeits|Gliedertriebzug|\bICE\b|\bTGV\b",
+    re.I,
+)
+_RAILCAR = re.compile(r"Triebwagen|Schienenbus|Schienenomnibus|Steuerwagen|Regio\s*Shuttle", re.I)
+_GENERIC_RAILCAR_TYPE = re.compile(
+    r"^(?:[\w\-]+[\- ])?(?:Elektro|Diesel|Akku|Nahverkehrs-?|S-Bahn[- ]?)?"
+    r"(?:triebwagen|triebzug|triebwagenzug|schienenbus|schienenomnibus)\.?$",
+    re.I,
+)
+
+
+def _categories(title: str, description: str) -> list[str]:
+    """Parent + sub categories. Lok sub-types (dampf/diesel/elektro) come from autofix."""
+    head = f"{title} {description.split('Modell:', 1)[0]}"
+    if _MULTI_UNIT.search(title) or _MULTI_UNIT.search(head[:200]):
+        base = "triebzug"
+    elif _RAILCAR.search(title):
+        base = "triebwagen"
+    else:
+        return ["lokomotive"]
+    out = [base]
+    low = head.lower()
+    if re.search(r"akku", low):
+        out.append("akkutriebwagen")
+    elif re.search(r"diesel|vt\b|schienenbus|schienenomnibus|lint|regio\s*shuttle", low):
+        out.append("dieseltriebwagen")
+    elif re.search(r"elektr|\bet\b|\bice\b|\btgv\b|desiro|s-bahn", low):
+        out.append("elektrotriebwagen")
+    return out
+
 
 def _type_from_title_or_vorbild(title: str, description: str) -> str:
     t = swiss_ss((title or "").strip())
-    if t and not _GENERIC_PRODUCT_TYPE.fullmatch(t):
+    if t and not (_GENERIC_PRODUCT_TYPE.fullmatch(t) or _GENERIC_RAILCAR_TYPE.fullmatch(t)):
         return t
     vor = ""
     if description:
@@ -387,7 +418,7 @@ def parse_maerklin_pdp(
         "uvp": {"amount": amount, "currency": "EUR"},
         "model": model,
         "description": desc,
-        "categories": ["lokomotive"],
+        "categories": _categories(title, desc),
         "tags": tags,
         "source": source,
         "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
