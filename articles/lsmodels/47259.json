@@ -10,7 +10,7 @@
     "operator": "SBB",
     "type": "EW I",
     "number": null,
-    "livery": "rot, silbernes Dach",
+    "livery": "rot",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"
@@ -26,5 +26,5 @@
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2773-ew-i-rot-silbernes-dach-alte-aufschriften-restaurant-aufschrift-in-erleichterung.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

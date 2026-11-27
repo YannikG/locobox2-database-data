@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "VTU Set",
     "number": null,
-    "livery": "TER Alsace, nouille Logo",
+    "livery": "TER Alsace, Nouille-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V"
@@ -26,5 +26,5 @@
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2707-set-vtu-ter-alsace-nouille-logo.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

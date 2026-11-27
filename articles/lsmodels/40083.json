@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "Grand Confort Set",
     "number": null,
-    "livery": "Metallisches Grau, orange Linie, TEE Band",
+    "livery": "metallic grau, TEE",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3420-superlarge_default/set-2-grand-confort-metallisches-grau-orange-linie-tee-band.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

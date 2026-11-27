@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "HLE 13",
     "number": "1337",
-    "livery": "weiss, gelbe Fronten, B-Logistics, ohne B Logo",
+    "livery": "B-Logistics, ohne B-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2809-superlarge_default/1337-weiss-gelbe-fronten-b-logistics-ohne-b-logo.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

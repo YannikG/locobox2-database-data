@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "Grossraumwagen",
     "number": null,
-    "livery": "gelb/grau, Lufthansa Airport Express, Ergänzungswagen",
+    "livery": "Lufthansa Airport Express",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV-V"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1684-superlarge_default/grossraumwagen-gelb-grau-lufthansa-airport-express-erganzungswagen.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

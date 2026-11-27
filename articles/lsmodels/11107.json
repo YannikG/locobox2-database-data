@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 22200",
     "number": "22339",
-    "livery": "grau/orange, Nudel-Logo, Frontnummer, kleines Führerhaus",
+    "livery": "Béton, Nouille-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV-V"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3363-superlarge_default/bb-22200-grau-orange-nudel-logo-frontnummer-kleines-fuhrerhaus.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

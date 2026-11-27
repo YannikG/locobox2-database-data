@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "Vtu",
     "number": null,
-    "livery": "OUIGO, toiture gris orage",
+    "livery": "OUIGO",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3004-superlarge_default/vtu-ouigo-toiture-gris-orage.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

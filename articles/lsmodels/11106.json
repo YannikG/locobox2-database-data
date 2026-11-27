@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 22200",
     "number": "22240",
-    "livery": "livrée OUIGO",
+    "livery": "OUIGO",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2764-superlarge_default/bb-22240-livree-ouigo.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

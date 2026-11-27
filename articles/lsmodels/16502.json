@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "ET 403",
     "number": null,
-    "livery": "grau/rot/schwarz, IC, 4-teilig, Variante",
+    "livery": "IC",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1658-superlarge_default/et-403-grau-rot-schwarz-ic-4-teilig-variante.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

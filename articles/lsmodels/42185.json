@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "I4 AB",
     "number": null,
-    "livery": "blau/gelb, Benelux, graues Dach.",
+    "livery": "Benelux",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2896-superlarge_default/i4-ab-blau-gelb-benelux-graues-dach.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

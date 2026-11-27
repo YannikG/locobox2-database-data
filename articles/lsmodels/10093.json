@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "AGC",
     "number": "27877",
-    "livery": "blau/metallic grau, Alsace, vierteilig, DB Zulassung",
+    "livery": "blau/metallic grau, Alsace",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3177-superlarge_default/z-27877-blau-metallic-grau-alsace-vierteilig-db-zulassung.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

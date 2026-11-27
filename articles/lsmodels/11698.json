@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 20000",
     "number": "20012",
-    "livery": "gris argent,/bleu TEN/chamois 432, plaques, dépôt Strasbourg",
+    "livery": "gris argent/bleu TEN",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1351-superlarge_default/bb20012-gris-argent-bleu-ten-chamois-432-plaques-depot-strasbourg.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

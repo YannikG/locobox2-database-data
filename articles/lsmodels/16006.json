@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "ET 403",
     "number": null,
-    "livery": "gelb/grau, Lufthansa Airport Express, 4-teilig, Variante",
+    "livery": "Lufthansa Airport Express",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV-V"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1634-superlarge_default/et-403-gelb-grau-lufthansa-airport-express-4-teilig-variante.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

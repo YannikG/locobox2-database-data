@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "Speisewagen",
     "number": null,
-    "livery": "grau/rot/schwarz, IC, Ergänzungswagen",
+    "livery": "IC",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1666-superlarge_default/speisewagen-grau-rot-schwarz-ic-erganzungswagen.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

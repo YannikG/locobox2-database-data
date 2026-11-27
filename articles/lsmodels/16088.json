@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 120",
     "number": "120 120-1",
-    "livery": "verkehrsrot, geänderte Frontausstattung",
+    "livery": "verkehrsrot",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2868-superlarge_default/120-verkehrsrot-geanderte-frontausstattung-altes-db-logo-stromabnehmer-sbs-81-dach-serienversion.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

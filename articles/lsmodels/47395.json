@@ -10,7 +10,7 @@
     "operator": "SBB",
     "type": "Apm",
     "number": null,
-    "livery": "Gotthard Panorama Ursprungsausführung Zebra-Anstrich",
+    "livery": "Gotthard Panorama, Zebra",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3308-superlarge_default/apm-gotthard-panorama-ursprungsausfuhrung-zebra-anstrich-nichtraucher-raucher.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

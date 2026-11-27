@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 22200",
     "number": "22312",
-    "livery": "livrée gris béton/orange, plaques, 200 km/h",
+    "livery": "Béton, Plaques",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"
@@ -26,5 +26,5 @@
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2724-bb22312-livree-gris-beton-orange-plaques-200-km-h.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "CIWL",
     "type": "S2",
     "number": null,
-    "livery": "blau, Farbgebung 1935, CIWL, Chassis kurz, Dach normal, Monogramm",
+    "livery": "blau, 1935",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "II"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/990-superlarge_default/s2-blau-farbgebung-1935-ciwl-chassis-kurz-dach-normal-monogramm.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 120",
     "number": "120 120-1",
-    "livery": "verkehrsrot, kleiner Trapez, altes DB Logo, Dach Serienversion",
+    "livery": "verkehrsrot",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2890-superlarge_default/120-verkehrsrot-kleiner-trapez-altes-db-logo-dach-serienversion.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

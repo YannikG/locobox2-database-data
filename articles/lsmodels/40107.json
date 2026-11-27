@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "Gril express",
     "number": null,
-    "livery": "rot/grau, oranges GE Logo",
+    "livery": "rot/grau, GE-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -26,5 +26,5 @@
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2763-gril-express-rot-grau-oranges-ge-logo.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

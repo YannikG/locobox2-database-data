@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 22200",
     "number": "22399",
-    "livery": "livrée gris béton/orange, logo Nouille, 200 km/h",
+    "livery": "Béton, Nouille-Logo",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "VI"
@@ -26,5 +26,5 @@
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2703-bb22399-livree-gris-beton-orange-logo-nouille-200-km-h.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

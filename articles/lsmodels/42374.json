@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "I10",
     "number": null,
-    "livery": "B, orange, weisse Linie",
+    "livery": "orange, weisse Linie",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3145-superlarge_default/i10-b-orange-weisse-linie.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

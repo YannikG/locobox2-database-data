@@ -10,7 +10,7 @@
     "operator": "CIWL",
     "type": "S2",
     "number": null,
-    "livery": "blau, Farbgebung 1940, CIWL, Rotes-Kreuz Logo, ohne Monogramm",
+    "livery": "blau, 1940, Rotes Kreuz",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/975-superlarge_default/s2-blau-farbgebung-1940-ciwl-rotes-kreuz-logo-ohne-monogramm.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "M6 Set",
     "number": null,
-    "livery": "EUROCITY, Untergestell mit zwei Gittern",
+    "livery": "Eurocity",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2906-superlarge_default/a-b-b-eurocity-untergestell-mit-zwei-gittern.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

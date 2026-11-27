@@ -204,6 +204,7 @@ Gegen [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsi
 - **Apm/Bpm/I*/M6/OCEM:** `wagen`, nicht Lok?
 - **Vectron/Smartron:** kurzer `type`, Sondername in `livery`?
 - Autofix zuerst: `autofix_lsmodels_shop_import.py` (Scope `articles/lsmodels`)
+- **`livery` zu lang** (Depot, km/h, Dach/Chassis, Stromsystem, «4-teilig»)? Kürzen auf Lackname/Farben, Details bleiben in `description` (siehe Wiki «livery kurz halten»).
 - **Betriebsnummer fehlt (`number` null)?** Produktbild `source.imageUrl` anschauen, siehe «Betriebsnummer aus Produktbild lesen» unten.
 
 #### Pass 1: BEMO (Tag `bemo-*` / Hersteller BEMO)

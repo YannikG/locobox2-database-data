@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 120",
     "number": "120 145-8",
-    "livery": "verkehrsrot, WIDMER RAIL SERVICE",
+    "livery": "Widmer Rail Service",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2870-superlarge_default/120-verkehrsrot-widmer-rail-service.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

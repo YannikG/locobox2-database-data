@@ -10,7 +10,7 @@
     "operator": "PKP",
     "type": "Bvcmz",
     "number": null,
-    "livery": "248.5, blau/weiss, ohne Jan Kiepura zu markieren",
+    "livery": "blau/weiss",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3078-superlarge_default/bvcmz-2485-blau-weiss-ohne-jan-kiepura-zu-markieren.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

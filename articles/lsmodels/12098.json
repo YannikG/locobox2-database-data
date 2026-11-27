@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "HLE 11",
     "number": "1183",
-    "livery": "rot/gelb, Schaerbeek",
+    "livery": "rot/gelb",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2823-superlarge_default/1183-rot-gelb-schaerbeek.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

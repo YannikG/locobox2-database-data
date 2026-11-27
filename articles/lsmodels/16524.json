@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 184",
     "number": "184 002-4",
-    "livery": "AEG, blau, 15kV 16 2/3 Hz/25kV 50Hz/1,5 kV/3kV DC, Köln-Deutzerfeld",
+    "livery": "blau",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2882-superlarge_default/184-002-4-aeg-blau-15kv-16-2-3-hz-25kv-50hz-15-kv-3kv-dc-koln-deutzerfeld.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "I5",
     "number": null,
-    "livery": "blau, dunkel rosa Linien",
+    "livery": "blau, rosa Linien",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3073-superlarge_default/i5-blau-dunkel-rosa-linien.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "X 4500",
     "number": "X 4630",
-    "livery": "rouge crème, Longeau",
+    "livery": "rot/creme",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3153-superlarge_default/x4630-rouge-creme-longeau.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

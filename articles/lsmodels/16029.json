@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 181",
     "number": "181 001-9",
-    "livery": "AEG, ozean blau/elfenbein",
+    "livery": "ozeanblau/elfenbein",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2862-superlarge_default/181-001-9-aeg-ozean-blau-elfenbein-15kv-16-2-3-hz-25kv-50-hz-dbag-logo-saarbrucken.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

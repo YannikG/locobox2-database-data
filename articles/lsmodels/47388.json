@@ -10,7 +10,7 @@
     "operator": "SBB",
     "type": "Apm",
     "number": null,
-    "livery": "weiss, schwarzes Fensterband, rote Türen, rote Dach Linie, Fahrad Logo",
+    "livery": "weiss, Fahrrad-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3298-superlarge_default/apm-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

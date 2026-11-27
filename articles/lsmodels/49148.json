@@ -10,7 +10,7 @@
     "operator": "CIWL",
     "type": "S1",
     "number": null,
-    "livery": "blau, Farbgebung 1956, CIWL, Chassis lang, Dach englisch, Monogramm",
+    "livery": "blau, 1956",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2942-superlarge_default/s1-blau-farbgebung-1956-ciwl-chassis-lang-dach-englisch-monogramm.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

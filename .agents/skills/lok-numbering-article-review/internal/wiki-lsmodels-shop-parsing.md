@@ -54,6 +54,10 @@ Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `H
 
 LS Models nennt Unterstufen (`IVB`, `IIIC`, `VA`, `IVC-VA`). Locobox führt nur ganze Epochen: Buchstaben-Suffix weglassen (`IVB` → `IV`, `IIIB-C` → `III`, `IVC-VA` → `IV-V`, `II-IIIA` → `II-III`). Parser `_normalize_era` macht das, bei Bestand `articles patch`.
 
+## `livery` kurz halten
+
+Der Shop-Titel hängt alles hinter die Betriebsnummer (Depot, km/h, Dach/Chassis, Stromsysteme, Front-/Führerhaus-Varianten, «4-teilig», «DB Zulassung»). Das gehört **nicht** in `model.livery`, sondern bleibt in `description`. `livery` = Name der Lackierung (`Arzens`, `Capitole`, `En Voyage, Dole`, `OUIGO`, `Béton, Plaques`) oder, ohne Namen, Farben (`blau/gelb`), plus höchstens ein Logo-/Betreiberzusatz. Faustregel: ≤ 3 Elemente, kein Depot, keine Technik. CIWL: `blau, 1934`. Parser-Rest wird per `articles patch` bereinigt.
+
 ## Release-Datum und Jahres-Tag
 
 Shop liefert kein Datum (`available_date` `0000-00-00`). `releaseDate` = Jahr des Neuheiten-Folders (Parser nimmt es aus dem Kampagnen-Tag, deshalb **immer Jahres-Tag** `lsmodels-neuheiten-YYYY` verwenden, kein Sammel-Tag). Jahr = erstes Auftreten der SKU in den Folder-PDFs (Erstellungsdatum des PDFs). Steht im Folder «Lieferung geplant für September 2024», diese Angabe als Freitext übernehmen.

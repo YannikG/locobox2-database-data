@@ -10,7 +10,7 @@
     "operator": "DB",
     "type": "BR 184",
     "number": "184 103-2",
-    "livery": "AEG, blau, 15 kV 16 2/3 Hz/25 kV 50 Hz, Saarbrücken",
+    "livery": "blau",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "IV"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1644-superlarge_default/184-103-2-aeg-blau-15-kv-16-2-3-hz-25-kv-50-hz-saarbrucken.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

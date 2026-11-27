@@ -10,7 +10,7 @@
     "operator": "SNCB",
     "type": "M6 Set",
     "number": null,
-    "livery": "B + B, weiss, rote Türen, gelbe Front, EUROCITY",
+    "livery": "Eurocity",
     "scale": "H0",
     "electricSystem": "AC-Digital",
     "era": "VI"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2915-superlarge_default/bdx-b-b-weiss-rote-turen-gelbe-front-eurocity.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

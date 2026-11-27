@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 7200",
     "number": "107258",
-    "livery": "livrée Corail+, logo carmillon, dépôt Toulouse",
+    "livery": "Corail+, Carmillon-Logo",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3397-superlarge_default/bb-107258-livree-corail-logo-carmillon-depot-toulouse.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

@@ -10,7 +10,7 @@
     "operator": "LINEAS",
     "type": "HLE 13",
     "number": "1312",
-    "livery": "grau-blau, Linien türkis, LINEAS Version 2020",
+    "livery": "grau/blau, LINEAS",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2843-superlarge_default/1312-grau-blau-linien-turkis-lineas-version-2020.jpg"
   },
-  "updatedAt": "2026-11-27T11:20:48Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }

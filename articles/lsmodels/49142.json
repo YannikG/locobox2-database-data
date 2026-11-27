@@ -10,7 +10,7 @@
     "operator": "CIWL",
     "type": "STU",
     "number": null,
-    "livery": "blau, Farbgebung 1956, CIWL, Chassis kurz, Dach normal, Monogramm",
+    "livery": "blau, 1956",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "III"
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/981-superlarge_default/stu-blau-farbgebung-1956-ciwl-chassis-kurz-dach-normal-monogramm.jpg"
   },
-  "updatedAt": "2026-11-27T11:15:12Z"
+  "updatedAt": "2026-11-27T11:22:07Z"
 }
