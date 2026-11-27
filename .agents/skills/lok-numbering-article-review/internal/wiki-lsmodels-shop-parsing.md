@@ -40,6 +40,16 @@ SNCF BB/CC: Serie vs. Laufnummer wie [reference-sncf-type-number.md](../referenc
 - AGC / `Z #####` → `triebwagen` + `elektrotriebwagen`
 - Apm / Bpm / I2 / I10 / M6 / OCEM / WL → `wagen`
 
+## Betriebsnummer aus dem Produktbild
+
+Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `HLE 27`, `BR 120`, `Vectron`), die Laufnummer steht aber auf dem Bild `source.imageUrl` (`…superlarge_default/…jpg`, 4800×1600). Bild laden und ansehen, Details und Regeln: `SKILL.md` → «Betriebsnummer aus Produktbild lesen».
+
+- SNCF-Flanke `522214` → `BB 22214` (`number` `22214`); `107284` → `BB 7284`; `CC-6513` → `6513`
+- HLE: grosse Nummer an der Flanke (`2756`, `2114`, `1211`), UIC-Zeile ignorieren
+- DB BR 120/Vectron: `120 144-1` bzw. UIC `91 80 6193 366-2 D-DB` → `193 366-2`
+- Typ-Zeile mit `X####` hat die Nummer schon im `type`, nichts zu tun
+- Stadtwappen/Taufnamen (z. B. «Wappen Dole») in `livery`
+
 ## AC/DC-Schwestern
 
 LS Models: oft DC `AAxxx` und AC `AA5xx` (+500 auf der Artikelnummer, z. B. `16075` / `16575`). Primär `ALIMENTATION` aus dem PDP. Fehlt `ALIMENTATION` (häufig ausverkaufte Seiten ohne Feature-Block) und die DC-Schwester (`articleNumber − 500`) liegt im Repo mit gleichem `model.type` und nicht-AC-Stromsystem, darf Auto-Fix die +500-Variante auf `AC-Digital` setzen. Nicht aus dem Fliesstext der Schwester raten und nicht kopieren, wenn Typen abweichen. `model.era`: wenn eine Twin-Seite `EPOQUE` hat und die andere `Unbekannt`, bei gleichem `type` die bekannte Epoche übernehmen (gleiche Vorbild-Epoche). Epoche nicht aus Lack oder Marketing erfinden.

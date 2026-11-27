@@ -204,6 +204,7 @@ Gegen [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsi
 - **Apm/Bpm/I*/M6/OCEM:** `wagen`, nicht Lok?
 - **Vectron/Smartron:** kurzer `type`, Sondername in `livery`?
 - Autofix zuerst: `autofix_lsmodels_shop_import.py` (Scope `articles/lsmodels`)
+- **Betriebsnummer fehlt (`number` null)?** Produktbild `source.imageUrl` anschauen, siehe «Betriebsnummer aus Produktbild lesen» unten.
 
 #### Pass 1: BEMO (Tag `bemo-*` / Hersteller BEMO)
 
@@ -217,6 +218,20 @@ Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) u
 - **`source.url`:** `/produkt/…`, keine `?s=`-Suche?
 - Wagen: `electricSystem` `Unbekannt`, Gattung in `type`
 - **`model.era`:** aus Shop-Meta (`H0m VI`, `0m IV-V`) oder Text (`Ep. III`, `Metal Collection II`), nicht `Unbekannt` wenn Meta klar ist
+
+### Betriebsnummer aus Produktbild lesen (herstellerneutral)
+
+Ist `model.number` `null`, obwohl das Modell eine feste Betriebsnummer trägt (Titel nennt nur die Serie, z. B. `BB 7200`, `HLE 27`, `BR 120`, `Vectron`), steht die Nummer fast immer **auf dem Produktbild** (`source.imageUrl`, oft eine Seitenansicht oder ein Rendering). Das Bild ist eine **zulässige Beleg-Quelle**: ansehen statt raten oder auf null lassen.
+
+1. Bild nach `.tmp/` (oder Scratchpad) laden (`curl -sL -A 'Mozilla/5.0' -o …`), mit dem Read-Tool öffnen. Nie ins Repo legen.
+2. Nur Nummern übernehmen, die **klar lesbar** sind (Lokflanke, Frontnummer, UIC-Zeile). Unleserlich oder mehrdeutig → Finding, nichts schreiben.
+3. Schreibweise an bestehende Artikel derselben Baureihe anpassen: SNCF/SNCB ohne Präfix und Prüfziffer (`522214` / `107284` → `22214` / `7284`), DB mit Prüfziffer (`120 144-1`, `193 366-2`), UIC-Zeile `91 80 6193 366-2 D-DB` → `193 366-2`.
+4. Sondernamen und Wappen auf dem Bild (z. B. «Wappen Dole», Taufname) in `model.livery` ergänzen, sofern dort noch nicht vorhanden.
+5. Schreiben über `articles patch`/`set-field` (nicht von Hand), danach `articles validate` bzw. `npm run check`.
+6. **Schwestern** (gleiche Livery, anderes Stromsystem, z. B. DC `…07` / AC `…707`) übernehmen die Nummer nur, wenn Titel und Lackierung identisch sind. Gleiches Bild bei einem Eintrag «Variante» heisst **nicht** gleiche Nummer: dort leer lassen.
+7. Triebzug/Set: Bild zeigt oft nur **einen** Wagen; Nummer gilt dann nur für diesen Wagen. Im Protokoll vermerken.
+
+Protokoll: pro Artikel `Pfad`, `alt → neu`, Quelle «Bild».
 
 **Bewusst nicht** Loknummer-Skill: `releaseDate`, Kampagnen-Tags, Katalog-vs.-Shop-Vollständigkeit.
 
