@@ -470,6 +470,18 @@ class CloakShopFetcher:
                         if _roco_form_search(page, art):
                             self._wait()
                             href = _find_pdp_href(page, self.site, art)
+                    if (
+                        not href
+                        and self.site.slug == "amintiri-feroviare"
+                        and hasattr(self.site, "menzels_search_url")
+                    ):
+                        page.goto(
+                            self.site.menzels_search_url(art),
+                            wait_until="domcontentloaded",
+                            timeout=60000,
+                        )
+                        self._wait()
+                        href = _find_pdp_href(page, self.site, art)
                     if not href:
                         summary.fail += 1
                         summary.results.append(
@@ -504,7 +516,7 @@ class CloakShopFetcher:
                             )
                         )
                         continue
-                    if self.site.slug == "bemo":
+                    if self.site.slug in {"bemo", "amintiri-feroviare"}:
                         marker = f"<!-- locobox-pdp-url: {href} -->\n"
                         if "locobox-pdp-url" in html:
                             html = re.sub(

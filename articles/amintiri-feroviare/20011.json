@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20011",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20011",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "rot",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Second class passenger car of the CFR, type AVA200, red livery with old CFR logo. Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20011-vagoane-ava200-46",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_46_412320011a.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

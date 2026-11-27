@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25001",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25001",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "rot",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "AVA200 2. Klasse, Teil des Sets Art. 25001 (zwei Wagen, rot, neues CFR-Logo), Epoche V.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25001-vagon-ava200-47",
+    "notes": "Set Art. 25001; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_47_6769AMTR-25001-set-LR.jpg"
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25001"
+}

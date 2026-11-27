@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20100",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20100",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Speisewagen",
+    "number": null,
+    "livery": "grau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Restaurnat car of the CFR type Wrmz 88-96, equiped for 200Km/h, grey livery . Epoch V. Reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20100-vagon-restaurant-71",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_71_9946AF20100.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

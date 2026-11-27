@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10101",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10101",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-DA",
+    "number": "222",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Diesellok 060-DA-222 der CFR, für die Epoche 4. Modelldetails Digitalschnittstelle PluX22 NEM 658 Lichtwechsel weiss/rot LüP: 195 mm H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10101-cfr-diesellok-060-da-222-ep-4",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/f3/72/be/1779941469/318-AF10101.jpg?ts=1779941469"
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

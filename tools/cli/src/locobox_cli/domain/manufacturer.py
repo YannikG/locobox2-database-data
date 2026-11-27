@@ -14,6 +14,7 @@ class Manufacturer(str, Enum):
     BEMO = "bemo"
     ACME = "acme"
     MAERKLIN = "maerklin"
+    AMINTIRI_FEROVIARE = "amintiri-feroviare"
 
     @classmethod
     def parse(cls, raw: str) -> Manufacturer:
@@ -23,6 +24,14 @@ class Manufacturer(str, Enum):
             key = "lsmodels"
         if compact in {"maerklin", "marklin"}:
             key = "maerklin"
+        if compact in {
+            "amintiriferoviare",
+            "amintiri",
+            "af",
+            "afmodels",
+            "afmodel",
+        }:
+            key = "amintiri-feroviare"
         try:
             return cls(key)
         except ValueError as exc:
@@ -41,6 +50,7 @@ class Manufacturer(str, Enum):
             Manufacturer.BEMO: "BEMO",
             Manufacturer.ACME: "ACME",
             Manufacturer.MAERKLIN: "Maerklin",
+            Manufacturer.AMINTIRI_FEROVIARE: "Amintiri Feroviare",
         }[self]
 
     @property

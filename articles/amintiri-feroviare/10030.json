@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10030",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10030",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "HU",
+    "operator": "MÁV",
+    "type": "TRAXX",
+    "number": "480-005",
+    "livery": "Mátyás Hunyadi",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Electric locomotive 480-005 of the Hungarian State Railways (MÁV) in the celebrative “Mátyás Hunyadi” livery. Epoch VI. Perfect reproduction in scale 1:87. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10030-locomotiva-electrica-traxx-480-005-77",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T19:40:48Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10017",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10017",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "Rompetrol Logistic",
+    "type": "060-EA",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Electrical locomotive 060-EA of the private operator ROMPETROL LOGISTIC, asymmetrical pantographs. Epoh V. Perfect reprodction in scale 1:87. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10017-locomotiva-electriva-060-ea-34",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_34_7801AF10017.jpg"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

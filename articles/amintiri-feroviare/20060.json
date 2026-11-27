@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20060",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20060",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "AVA200",
+    "number": null,
+    "livery": "blau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Second class passenger car of the CFR, type AVA200, blue with RO -CFR CALATORIlogo. Epoch V. Reproduction in scale 1:87. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20060-vagon-bar-ava200-78",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_78_3594AF20060.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20012",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20012",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "AVA200",
+    "number": null,
+    "livery": "rot",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Second class coach of the CFR type AVA200, red livery with RO -CFR CALATORI inscriptions. Epoch V. Reproduction in scale 1:87 Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20012-vagon-ava200-50",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_50_2629AF20013.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

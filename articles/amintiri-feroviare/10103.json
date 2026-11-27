@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10103",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10103",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR Infra",
+    "type": "60",
+    "number": "0362-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Diesellok 60-0362-8 der CFR Infrastructura, für die Epoche 5. Modelldetails Digitalschnittstelle PluX22 NEM 658 Lichtwechsel weiss/rot LüP: 195 mm H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af10103-cfr-infrast-diesellok-60-0362-8-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/2c/b7/3f/1779939733/318-AF10103.jpg?ts=1779939733"
+  },
+  "updatedAt": "2026-11-21T19:36:04Z"
+}

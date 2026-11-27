@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20025",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20025",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "grau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Second class coach, Type AVA 200, for international service of the CFR (Rumenian Railways). in the new blue and gray livery. Epoch VI H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/20025-vagon-ava200-de-clasa-a-ii-a-numar-diferit-83",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_83_1697AF20024.jpg"
+  },
+  "updatedAt": "2026-11-21T19:40:59Z"
+}

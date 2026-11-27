@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10031",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10031",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-EA",
+    "number": "40-0794-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "Unbekannt"
+  },
+  "description": "Loomotiva electria CFR 060-EA, clasa 40, formula osiilor, Co-Co, apartinand Cailor Ferate Romane. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/af10031-locomotiva-electrica-060-ea-100",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_100_2226AF10031.jpg"
+  },
+  "updatedAt": "2026-11-21T20:19:28Z"
+}

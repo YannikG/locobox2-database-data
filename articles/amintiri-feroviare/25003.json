@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25003",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25003",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "blau/weiss",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "AVA200, Teil des Sets Art. 25003 (drei Wagen, blau mit weissem Streifen), Epoche V.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25003-vagoane-ava200-salon-49",
+    "notes": "Set Art. 25003; dieser Eintrag ist Wagen 1 des Sets."
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25003"
+}

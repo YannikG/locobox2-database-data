@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10010",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10010",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "060-EA",
+    "number": "40-0520-3",
+    "livery": "rote Kabinen",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Electrical locomotive 060-EA, of the CFR. Red cabins livery, asymetrical pantographs. Epoch V. Perfect reproduction in scale 1:87 . Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10010-locomotiva-electrica-cfr-060-ea-25",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_25_2467amtr-10010-c.jpg"
+  },
+  "updatedAt": "2026-11-21T20:19:26Z"
+}

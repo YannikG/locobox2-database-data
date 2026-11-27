@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502232",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502232",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 66.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "YA/B",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Liegewagen Typ YA/BSerie 59-50 der CFR, für die Epoche 5. (Hersteller Tillig) H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af502232-cfr-liegewagen-typ-ya-b-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/09/71/fe/1779939754/318-AF502232.jpg?ts=1779939754"
+  },
+  "updatedAt": "2026-11-21T19:34:36Z"
+}

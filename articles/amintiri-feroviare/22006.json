@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22006",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22006",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 161.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "YA/B",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Personenwagen YA/B Baureihe 20-50, 2. Klasse, Teil des Sets Art. 22006 (CFR + BDZ), CFR, Epoche VI.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22006-cfr-bdz-personenwagen-set-2-tlg-ep-6",
+    "notes": "Set Art. 22006; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/c5/25/09/1779959263/318-AF22006.jpg?ts=1779959263"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "22006"
+}

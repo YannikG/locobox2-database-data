@@ -10,7 +10,8 @@ Tier **A** — ``SKILL.md`` «Allowlist: model.country»::
 Tier **B** — explizite Operator→ISO-Zuordnung für klar staatliche oder eindeutig nationale Systeme
 (siehe ``_OPERATOR_COUNTRY``): u. a. **DB** / **DB AG** → ``DE``, **CSD** → ``CS`` (wie bestehende ČSD-Artikel),
 **VSM** → ``NL``, **GTS Rail** → ``IT``, **SBW** (Starkenberger Güterlogistik) → ``AT``,
-**D&RGW** / **SP (Southern Pacific)** → ``US`` (Nordamerika). Operator-Alias **DB-AG** / **DBAG** → **DB AG**.
+**D&RGW** / **SP (Southern Pacific)** → ``US`` (Nordamerika), Balkan **CFR**/**BDZ**/**ŽFBH** → ``RO``/``BG``/``BA``.
+Operator-Alias **DB-AG** / **DBAG** → **DB AG**.
 
 Tier **C** — **PIKO-Shop** ``operator`` «Privatbahn»: nur wenn ``model.type`` plus Fliesstext/
 ``categories`` eindeutige Marken- oder Bahngesellschaftsanker enthalten (siehe
@@ -169,6 +170,28 @@ _OPERATOR_COUNTRY: dict[str, str] = {
     "Norte": "US",
     "DB Cargo": "DE",
     "Ecco Rail": "NL",
+    # Balkan / AF-Import (exakter Operator-String)
+    "CFR": "RO",
+    "CFR Calatori": "RO",
+    "CFR Marfa": "RO",
+    "CFR Infra": "RO",
+    "Astra Trans Carpatic": "RO",
+    "VTR": "RO",
+    "Constantin Group": "RO",
+    "GFR": "RO",
+    "Rompetrol": "RO",
+    "Rompetrol Logistic": "RO",
+    "DB Schenker Rail Romania": "RO",
+    "ARF": "RO",
+    "BDZ": "BG",
+    "BDZ Cargo": "BG",
+    "Bulmarket": "BG",
+    "DB Cargo Bulgaria": "BG",
+    "MAV-START": "HU",
+    "ŽFBH": "BA",
+    "ZFBH": "BA",
+    "ŽRS": "BA",
+    "ZRS": "BA",
 }
 
 # Locobox-kanonische Operator-Schreibweisen (Shop-Varianten → Zielstring).

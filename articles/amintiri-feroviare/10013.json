@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-10013",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "10013",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "DB Schenker Rail Romania",
+    "type": "060-EA",
+    "number": "40-1077-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Ectical locomotive 060-EA of the private company DB Schenker Rail Romania. Epoch VI. Perfect reproduction in scale 1:87. Article out of production H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/10013-locomotiva-electrica-060-ea-db-28",
+    "notes": "Daten von der Hersteller-Webseite, automatisch geupdated.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_28_7046amtr10013.jpg"
+  },
+  "updatedAt": "2026-11-21T20:19:26Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-20052",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "20052",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 79.9,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR Calatori",
+    "type": "T2s",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Schlafwagen Typ T2s, Serie WLABmee 71-31 des Staates Betreiber CFR Calatori, für die Epoche 6. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af20052-cfr-calatori-schlafwagen-t2s-ep-6",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/c0/93/fa/1779959262/318-AF20052.jpg?ts=1779959262"
+  },
+  "updatedAt": "2026-11-21T19:41:54Z"
+}

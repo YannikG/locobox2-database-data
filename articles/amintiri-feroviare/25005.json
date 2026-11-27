@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25005",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25005",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "AVA200",
+    "number": null,
+    "livery": "grau",
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "AVA200 2. Klasse, Teil des Sets Art. 25005 (zwei Wagen, grau), Epoche VI.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25005-set-de-doua-vagoane-ava200-interegio-79",
+    "notes": "Set Art. 25005; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_79_6956AF25005.jpg"
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25005"
+}

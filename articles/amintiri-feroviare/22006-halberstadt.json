@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-22006-halberstadt",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "22006-halberstadt",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "BG",
+    "operator": "BDZ",
+    "type": "Halberstadt",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "VI"
+  },
+  "description": "Personenwagen Halberstadt Baureihe 31-43, gemischte Klasse 1/2, Teil des Sets Art. 22006 (CFR + BDZ), BDZ, Epoche VI.",
+  "categories": [
+    "personenwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af22006-cfr-bdz-personenwagen-set-2-tlg-ep-6",
+    "notes": "Wagen aus dem Set Art. 22006; Daten vom Set-Produkt.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/c5/25/09/1779959263/318-AF22006.jpg?ts=1779959263"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "22006"
+}

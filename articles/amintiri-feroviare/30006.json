@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-30006",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "30006",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 57.95,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Zachks",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "V"
+  },
+  "description": "Kesselwagen Typ Zackks der CFR, für die Epoche 5. Modelldetails LüP: 175 mm H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.menzels-lokschuppen.de/af-models-af30006-cfr-amoniac-kesselwagen-zachks-ep-5",
+    "notes": "Daten von menzels-lokschuppen.de, automatisch geupdated.",
+    "imageUrl": "https://www.menzels-lokschuppen.de/media/71/2b/24/1779956792/318-AF30006.jpg?ts=1779956792"
+  },
+  "updatedAt": "2026-11-21T19:34:36Z"
+}

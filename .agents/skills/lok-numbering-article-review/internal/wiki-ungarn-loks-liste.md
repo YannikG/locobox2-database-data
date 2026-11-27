@@ -17,18 +17,20 @@ Vollständige **Baureihen- und Triebfahrzeuglisten** (Dampf, Diesel, Elektro, Tr
 
 ## Baureihen-Stichworte (unvollständig)
 
-- **Elektro:** **V43** (klassisch), **431**, **470** «Kármán»-Umfeld, **480** TRAXX, moderne Mehrsysteme.
+- **Elektro:** **V43** (klassisch), **431**, **470** «Kármán»-Umfeld, **480** TRAXX (auch Feierlacke / Taufnamen wie *Mátyás Hunyadi*), moderne Mehrsysteme.
 - **Diesel:** **M41**, **M62** «Szergej», **M47**; Rangier **M44**, **M32**-Umfeld (grobe Orientierung).
 - **Dampf:** Viele Serien mit **375**, **424**, **01**-ähnlichen historischen Bezügen im ungarischen Netz (nur Plausibilität, nicht für Einzelnummer ohne Text).
 
 ## Split `type` / `number`
 
-- Ungarische EVN-ähnliche Schreibweise oft «**431 001**»; BR in `type`, Rest in `number`, wenn klar getrennt.
+- Ungarische EVN-ähnliche Schreibweise oft «**431 001**» / «**480 005**»; BR in `type`, Rest in `number`, wenn klar getrennt.
+- Taufnamen und Feierlacke → **`livery`**, nicht in `type`.
 
 ## Grenzfälle
 
 - **Schmalspur:** Balatonfüredi, Lillafüred usw. → `scale`, `minRadiusMm`, Text «760 mm» etc.
-- **Grenzverkehr:** mit AT/SK/RO kombinierte Umläufe im Text prüfen.
+- **Grenzverkehr:** mit AT/SK/RO kombinierte Umläufe im Text prüfen; RO-TRAXX mit MÁV-Nummer → `country` **HU**, Operator **MAV** / **MAV-START**.
+- **AF-/Balkan-Shop:** siehe [wiki-amintiri-feroviare-shop-parsing.md](wiki-amintiri-feroviare-shop-parsing.md).
 
 ## Review-Hinweis
 

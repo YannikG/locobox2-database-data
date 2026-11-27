@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-502138",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "502138",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "Rsfwc",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "Unbekannt",
+    "era": "III"
+  },
+  "description": "Kühlwagen Rsfwc, Teil des Sets Art. 502138 (CFR + MÁV), CFR, Epoche III.",
+  "categories": [
+    "gueterwagen"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/502138-vagon-refrigerent-rsfwc-96",
+    "notes": "Set Art. 502138; dieser Eintrag ist Wagen 1 des Sets.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_96_8753502138a.jpg"
+  },
+  "updatedAt": "2026-11-22T10:21:07Z",
+  "setNumber": "502138"
+}

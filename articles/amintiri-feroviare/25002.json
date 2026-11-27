@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "amintiri-feroviare-25002",
+  "manufacturer": "Amintiri Feroviare",
+  "articleNumber": "25002",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "RO",
+    "operator": "CFR",
+    "type": "ICE Mihai Eminescu",
+    "number": null,
+    "livery": "Mihai Eminescu",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Elektrolok des ICE Mihai Eminescu (Set Art. 25002 mit zwei AVA200), Epoche V. H0-Modell (1:87) von Amintiri Feroviare / AF Models.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "amintiri-feroviare-katalog-2026"
+  ],
+  "source": {
+    "url": "https://www.amintiriferoviare.com/produs/25002-ice-mihai-eminescu-38",
+    "notes": "Set Art. 25002; dieser Eintrag ist die Lok des Sets.",
+    "imageUrl": "https://www.amintiriferoviare.com/media/images/1_38_6546AF25002.jpg"
+  },
+  "updatedAt": "2026-11-22T09:57:01Z",
+  "setNumber": "25002"
+}

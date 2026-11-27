@@ -72,6 +72,9 @@ class MaerklinShopSite:
 
 def shop_site_for(source: str) -> ShopSite:
     from locobox_cli.adapters.sources.acme.shop_site import AcmeFlyerSite
+    from locobox_cli.adapters.sources.amintiri_feroviare.shop_site import (
+        AmintiriFeroviareShopSite,
+    )
     from locobox_cli.adapters.sources.bemo.shop_site import BemoShopSite
     from locobox_cli.adapters.sources.jouef.shop_site import JouefShopSite
     from locobox_cli.adapters.sources.lsmodels.shop_site import LsModelsShopSite
@@ -98,6 +101,8 @@ def shop_site_for(source: str) -> ShopSite:
         return BemoShopSite()
     if key in {"maerklin", "marklin"}:
         return MaerklinProductDbSite()
+    if key in {"amintiriferoviare", "amintiri", "af", "afmodels", "afmodel"}:
+        return AmintiriFeroviareShopSite()
     if key == "lgb":
         return MaerklinShopSite(slug="lgb")
     raise ValueError(f"unknown shop source: {source!r}")

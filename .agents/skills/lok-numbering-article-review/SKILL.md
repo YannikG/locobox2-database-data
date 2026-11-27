@@ -72,7 +72,7 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 - **`autofix_trix_shop_import.py`** — Trix- **und Märklin**-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`; generische H1 → Typ aus Vorbild), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`. Details: [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md).
 - **`autofix_ree_shop_import.py`** — REE Modèles Shop: SNCF ``BB``/``CC`` Serie vs. Laufnummer (auch wenn ``number`` noch Präfix trägt), Pacific ``231 K/G`` / ``141 D``, Moyse/040 DE/RGP-Kurztypen, Operator/Epoche/`dampflokomotive` aus Text; Referenz [reference-sncf-type-number.md](reference-sncf-type-number.md).
 - **`autofix_lsmodels_shop_import.py`** — LS Models PrestaShop: langer H1 → `type`/`number`/`livery` (HLE, BB/CC, X####, AGC, Vectron, Apm/Bpm), Operator/Land aus Titel, Kategorien Triebwagen/Wagen; Referenz [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md).
-- **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
+- **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW, Balkan **CFR**→**RO**, **BDZ**→**BG**, **ŽFBH**→**BA**) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
 - **`test_autofix_model_type_number_split.py`** — Unit-Tests zum Split-Skript.
 - **`test_autofix_model_country.py`** — Unit-Tests zum Country-Skript.
 - **`test_autofix_ree_shop_import.py`** — Unit-Tests zum REE-Shop-Skript.
@@ -147,7 +147,7 @@ Kein Auto-Fix, wenn Epoche im Fliesstext widersprüchlich oder nur im Marketingk
 
 - `country` **`null`** und `operator` **«K.P.E.V.»** oder gleichwertig klar **Deutsches Kaiserreich** (historisch) → **`DE`**.
 - `country` **`null`** und `operator` **«Südbahn»** (k. k. Südbahn) mit AT-Kontext in `description`/`categories` → **`AT`**.
-- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** / **DB AG** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
+- Mechanisch zusätzlich (siehe Skript): **Operator→ISO** (z. B. **DB** / **DB AG** → **DE**, **ČSD** als **CS** wie andere ČSD-Artikel, **VSM** → **NL**, **GTS Rail** → **IT**, **SBW** → **AT**, **CFR** → **RO**, **BDZ** → **BG**, **ŽFBH**/**ŽRS** → **BA**) sowie **DR**: **`IV`** in `model.era` → **DD**; reine **I / II / III** (ohne **IV**) → **DE**; **fehlende** Epoche oder andere Schreibweisen → **DD** (Default für Roco-DDR-Fälle).
 - **Operator-Schreibweise:** kanonisch **`DB AG`** (Leerzeichen). Shop-Varianten **`DB-AG`** / **`DBAG`** → per Autofix/Parser auf **`DB AG`** normalisieren (nicht als eigener Operator belassen).
 - **PIKO «Privatbahn»:** Livery- und Textanker → [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md); nur bei eindeutigem Anker.
 
@@ -270,7 +270,10 @@ Gegen [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) u
 | Italien Überblick | [internal/wiki-italien-loks-liste.md](internal/wiki-italien-loks-liste.md) |
 | Niederlande Überblick | [internal/wiki-niederlande-loks-liste.md](internal/wiki-niederlande-loks-liste.md) |
 | Ungarn | [internal/wiki-ungarn-loks-liste.md](internal/wiki-ungarn-loks-liste.md) |
-| Rumänien | [internal/wiki-rumaenien-loks-liste.md](internal/wiki-rumaenien-loks-liste.md) |
+| Rumänien (CFR / Privat) | [internal/wiki-rumaenien-loks-liste.md](internal/wiki-rumaenien-loks-liste.md) |
+| Bulgarien (BDZ / Privat) | [internal/wiki-bulgarien-loks-liste.md](internal/wiki-bulgarien-loks-liste.md) |
+| Bosnien und Herzegowina (ŽFBH / ŽRS) | [internal/wiki-bosnien-herzegowina-loks-liste.md](internal/wiki-bosnien-herzegowina-loks-liste.md) |
+| Amintiri Feroviare / AF Models Shop | [internal/wiki-amintiri-feroviare-shop-parsing.md](internal/wiki-amintiri-feroviare-shop-parsing.md) |
 | Slowenien (nur Dampf) | [internal/wiki-slowenien-dampf-loks-liste.md](internal/wiki-slowenien-dampf-loks-liste.md) |
 | Slowakei (ŽSSK) | [internal/wiki-slowakei-zssk-loks-liste.md](internal/wiki-slowakei-zssk-loks-liste.md) |
 | Tschechien / ČD / ČSD (Lokklassen; ggf. Bezug SI) | [internal/wiki-tschechien-lokklassen-liste.md](internal/wiki-tschechien-lokklassen-liste.md) |
