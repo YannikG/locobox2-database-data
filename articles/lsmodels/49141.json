@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49141",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49141",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "SG",
+    "number": null,
+    "livery": "blau, 1956",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "SG, blau, Farbgebung 1956, CIWL, Chassis lang, Dach normal, Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2290-sg-blau-farbgebung-1956-ciwl-chassis-lang-dach-normal-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/978-superlarge_default/sg-blau-farbgebung-1956-ciwl-chassis-lang-dach-normal-monogramm.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

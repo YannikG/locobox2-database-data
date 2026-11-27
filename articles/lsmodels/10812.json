@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10812",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10812",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 6500",
+    "number": "6507",
+    "livery": "Arzens",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV-V"
+  },
+  "description": "CC 6507 grey/red/orange, livery ARZENS, Nudel-Logo,Vénissieux depot",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2695-cc-6507-grey-red-orange-livery-arzens-nudel-logovenissieux-depot.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

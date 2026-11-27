@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49320",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49320",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "S3 + S3 + S3",
+    "number": null,
+    "livery": "blau, 1970",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "S3 + S3 + S3, blau, Farbgebung 1970, CIWL, Chassis lang/kurz, Dacher englisch/normal, Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2714-s3-s3-s3-blau-farbgebung-1970-ciwl-chassis-lang-kurz-dacher-englisch-normal-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

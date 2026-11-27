@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11104",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11104",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": "22399",
+    "livery": "Béton, Nouille-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "BB22399, livrée gris béton/orange, logo Nouille, 200 km/h",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2699-bb22399-livree-gris-beton-orange-logo-nouille-200-km-h.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3349-superlarge_default/bb22399-livree-gris-beton-orange-logo-nouille-200-km-h.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

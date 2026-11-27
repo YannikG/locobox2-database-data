@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16003",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16003",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Speisewagen",
+    "number": null,
+    "livery": "IC",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Speisewagen, grau/rot/schwarz, IC, Ergänzungswagen",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2532-speisewagen-grau-rot-schwarz-ic-erganzungswagen-5404039900334.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1624-superlarge_default/speisewagen-grau-rot-schwarz-ic-erganzungswagen.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

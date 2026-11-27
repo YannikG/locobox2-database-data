@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11198",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11198",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 20000",
+    "number": "20012",
+    "livery": "gris argent/bleu TEN",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "BB20012, gris argent,/bleu TEN/chamois 432, plaques, dépôt Strasbourg",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2436-bb20012-gris-argent-bleu-ten-chamois-432-plaques-depot-strasbourg.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3375-superlarge_default/bb20012-gris-argent-bleu-ten-chamois-432-plaques-depot-strasbourg.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

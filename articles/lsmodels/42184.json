@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-42184",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "42184",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "I4 A9",
+    "number": null,
+    "livery": "Benelux",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "I4 A9, blau/gelb, Benelux, graues Dach.",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2766-i4-a9-blau-gelb-benelux-graues-dach.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2895-superlarge_default/i4-a9-blau-gelb-benelux-graues-dach.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

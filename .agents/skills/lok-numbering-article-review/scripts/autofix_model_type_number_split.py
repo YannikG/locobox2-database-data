@@ -288,10 +288,14 @@ def _apply_regex_rules(t: str) -> Optional[Proposal]:
 
     # SNCF: «BB 26022» → type BB 26000 + number 26022; pure series «BB 26000» → no split.
     # See reference-sncf-type-number.md (never park the series in number alone).
+    # BB 22200 (Nez cassé) is a real series name ending in 200, not «BB 22000» + 22200.
     m = re.fullmatch(r"(BB|CC) (\d{5})", t)
     if m:
         digits = m.group(2)
         if digits.endswith("000"):
+            return None
+        # BB 22200 / 223xx «Nez cassé»: keep series name, do not map to BB 22000.
+        if m.group(1) == "BB" and digits.startswith(("222", "223")):
             return None
         series = str((int(digits) // 1000) * 1000)
         return ("sncf_bb_cc_5", f"{m.group(1)} {series}", digits)

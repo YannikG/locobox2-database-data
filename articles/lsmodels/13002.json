@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-13002",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "13002",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 13",
+    "number": "1350",
+    "livery": "weiss/gelb, B-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "1350, weiss, gelbe Fronten, B logo",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2809-1350-weiss-gelbe-fronten-b-logo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2847-superlarge_default/1350-weiss-gelbe-fronten-b-logo.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

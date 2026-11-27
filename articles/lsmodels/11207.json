@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11207",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11207",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 7200",
+    "number": "7240",
+    "livery": "Béton, Plaques",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "BB 7200, grau/orange, Platten, 160 Km/h",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2701-bb-7200-grau-orange-platten-160-km-h.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2768-superlarge_default/bb-7200-grau-orange-platten-160-km-h.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

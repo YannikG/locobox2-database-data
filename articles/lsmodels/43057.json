@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-43057",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "43057",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "M6 Set",
+    "number": null,
+    "livery": "OUIGO",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "BDx + B + B, weiss, rote Türen, gelbe Front, OUIGO",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2823-bdx-b-b-weiss-rote-turen-gelbe-front-ouigo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2897-superlarge_default/bdx-b-b-weiss-rote-turen-gelbe-front-ouigo.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

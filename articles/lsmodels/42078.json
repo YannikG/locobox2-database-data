@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-42078",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "42078",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "I5",
+    "number": null,
+    "livery": "blau, rosa Linien",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "I5, blau, dunkel rosa Linien",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2838-i5-blau-dunkel-rosa-linien.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3073-superlarge_default/i5-blau-dunkel-rosa-linien.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

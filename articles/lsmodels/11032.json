@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11032",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11032",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 4500",
+    "number": "X 4638",
+    "livery": "blau, TER SNCF",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "X4638-XR8650,bleu, TER SNCF, Nevers",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2871-x4638-xr8650bleu-ter-sncf-nevers.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3225-superlarge_default/x4638-xr8650bleu-ter-sncf-nevers.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

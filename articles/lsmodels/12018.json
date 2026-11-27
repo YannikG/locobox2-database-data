@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12018",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12018",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 13",
+    "number": "1337",
+    "livery": "B-Logistics, ohne B-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "1337, weiss, gelbe Fronten, B-Logistics, ohne B Logo",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2783-1337-weiss-gelbe-fronten-b-logistics-ohne-b-logo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2809-superlarge_default/1337-weiss-gelbe-fronten-b-logistics-ohne-b-logo.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

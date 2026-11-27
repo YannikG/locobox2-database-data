@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16523",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16523",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 410",
+    "number": "410 011",
+    "livery": "blau",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "E 410 011, BBC, blau, 15kV 16 2/3 Hz/25kV 50Hz/1,5 kV/3kV DC, Köln-Deutzerfeld",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2759-e-410-011-bbc-blau-15kv-16-2-3-hz-25kv-50hz-15-kv-3kv-dc-koln-deutzerfeld.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2880-superlarge_default/e-410-011-bbc-blau-15kv-16-2-3-hz-25kv-50hz-15-kv-3kv-dc-koln-deutzerfeld.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-42373",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "42373",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "I10",
+    "number": null,
+    "livery": "orange, weisse Linie",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "I10 B, orange, weisse Linie",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2853-i10-b-orange-weisse-linie.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3141-superlarge_default/i10-b-orange-weisse-linie.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16004",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16004",
+  "releaseDate": "September 2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Grossraumwagen",
+    "number": null,
+    "livery": "IC",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Grossraumwagen, grau/rot/schwarz, IC, Ergänzungswagen",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2533-grossraumwagen-grau-rot-schwarz-ic-erganzungswagen-5404039900341.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1625-superlarge_default/grossraumwagen-grau-rot-schwarz-ic-erganzungswagen.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

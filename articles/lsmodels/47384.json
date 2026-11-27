@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47384",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47384",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Apm",
+    "number": null,
+    "livery": "Design 2019, weiss",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Apm, Design 2019, weiss, schwarzes Fensterband, rote Türen, rote Dach Linie, Fahrad Logo",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2874-apm-design-2019-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo-5404039900259.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3284-superlarge_default/apm-design-2019-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo.jpg"
+  },
+  "updatedAt": "2026-11-27T11:15:12Z"
+}

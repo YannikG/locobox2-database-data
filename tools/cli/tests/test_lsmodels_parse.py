@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import pytest
+
 from locobox_cli.adapters.sources.lsmodels.parse_pdp import (
     _normalize_electric,
     _normalize_scale,
@@ -105,3 +107,68 @@ def test_canon_reference_strips_dc_ac_sound() -> None:
     assert _canon_reference("13001 DC") == "13001"
     assert _canon_reference("13001 AC S") == "13001"
     assert _canon_reference("16 075") == "16075"
+
+
+def test_split_lsmodels_title_common_patterns() -> None:
+    from locobox_cli.adapters.sources.lsmodels.parse_pdp import (
+        split_lsmodels_title,
+        _operator_from_title,
+    )
+
+    assert split_lsmodels_title(
+        "1312, Grau-blau, Linien türkis, LINEAS, Version 2020",
+        categorie="HLE 13",
+    ) == ("HLE 13", "1312", "Grau-blau, Linien türkis, LINEAS, Version 2020")
+    assert split_lsmodels_title("BB 22200, grau/violett, En Voyage")[0] == "BB 22200"
+    typ, num, liv = split_lsmodels_title("X4630, rouge crème, Longeau")
+    assert (typ, num, liv) == ("X 4500", "X 4630", "rouge crème, Longeau")
+    typ, num, _liv = split_lsmodels_title("X4638-XR8650,bleu, TER SNCF, Nevers")
+    assert (typ, num) == ("X 4500", "X 4638")
+    typ, num, _liv = split_lsmodels_title(
+        "Z 27877, blau/metallic grau, Alsace, vierteilig, DB Zulassung"
+    )
+    assert typ == "AGC" and num == "27877"
+    typ, num, liv = split_lsmodels_title(
+        'DB Cargo Vectron MS, white, "I am Einziganders"'
+    )
+    assert typ == "Vectron MS" and num is None and liv == "I am Einziganders"
+    assert split_lsmodels_title("1347 blanche / wit (SNCB / NMBS)")[:2] == (
+        "HLE 13",
+        "1347",
+    )
+    assert _operator_from_title("BB 22200, x", "SNCF") == ("SNCF", "FR")
+
+
+def test_parse_lsmodels_pdp_sample_splits_vectron_type() -> None:
+    html = FIXTURE.read_text(encoding="utf-8")
+    art = parse_lsmodels_pdp(
+        html,
+        canonical_url=(
+            "https://lsmodels.eu/de/ausverkauft/"
+            "2192-db-cargo-vectron-ms-white-i-am-einziganders.html"
+        ),
+        article="16075",
+    )
+    assert art["model"]["type"] == "Vectron MS"
+    assert art["model"]["livery"] == "I am Einziganders"
+
+
+def test_parse_lsmodels_pdp_rejects_pantograph_accessory() -> None:
+    html = (
+        "<html><head><title>x</title></head><body>"
+        "<h1>Set 4 AM 18 Fahrstromabnehmer, 2x 3000 V DC</h1></body></html>"
+    )
+    with pytest.raises(ValueError, match="Zubehör"):
+        parse_lsmodels_pdp(html, canonical_url="https://lsmodels.eu/x.html", article="89206")
+
+
+def test_normalize_era_strips_subletters() -> None:
+    from locobox_cli.adapters.sources.lsmodels.parse_pdp import _normalize_era
+
+    assert _normalize_era("IVB") == "IV"
+    assert _normalize_era("IVC-VA") == "IV-V"
+    assert _normalize_era("II-IIIA") == "II-III"
+    assert _normalize_era("IIIB-C") == "III"
+    assert _normalize_era("VI") == "VI"
+    assert _normalize_era("III-IV") == "III-IV"
+    assert _normalize_era("---") == "Unbekannt"

@@ -416,14 +416,19 @@ class CloakShopFetcher:
         try:
             page = browser.new_page()
             cookies_done = False
-            for art in articles:
+            for i, art in enumerate(articles, start=1):
                 out = self.html_dir / f"{art}.html"
                 if skip_existing and out.is_file() and out.stat().st_size > 500:
                     summary.skipped += 1
                     summary.results.append(
                         FetchItemResult(article=art, ok=True, path=out, skipped=True)
                     )
+                    print(
+                        f"[fetch {i}/{len(articles)}] {art} skip-existing",
+                        flush=True,
+                    )
                     continue
+                print(f"[fetch {i}/{len(articles)}] {art} …", flush=True)
                 try:
                     page.goto(self.site.search_url(art), wait_until="domcontentloaded", timeout=60000)
                     self._wait()
@@ -482,6 +487,7 @@ class CloakShopFetcher:
                         summary.results.append(
                             FetchItemResult(article=art, ok=False, error="no_pdp_link")
                         )
+                        print(f"[fetch {i}/{len(articles)}] {art} FAIL no_pdp_link", flush=True)
                         continue
                     # Search may already have landed on the PDP (common for Roco).
                     already = (page.url or "").split("#", 1)[0].split("?", 1)[0]
@@ -526,6 +532,7 @@ class CloakShopFetcher:
                     summary.results.append(
                         FetchItemResult(article=art, ok=True, path=out, url=href)
                     )
+                    print(f"[fetch {i}/{len(articles)}] {art} ok", flush=True)
                 except Exception as exc:  # noqa: BLE001
                     summary.fail += 1
                     summary.results.append(

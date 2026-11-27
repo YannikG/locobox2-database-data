@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49144",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49144",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "S2",
+    "number": null,
+    "livery": "blau, 1935",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "II"
+  },
+  "description": "S2, blau, Farbgebung 1935, CIWL, Chassis kurz, Dach normal, Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2293-s2-blau-farbgebung-1935-ciwl-chassis-kurz-dach-normal-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/990-superlarge_default/s2-blau-farbgebung-1935-ciwl-chassis-kurz-dach-normal-monogramm.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}
