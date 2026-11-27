@@ -8,8 +8,8 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "X 4630",
-    "number": null,
+    "type": "X 4500",
+    "number": "X 4630",
     "livery": "rouge crème, TER Rhône-Alpes, Lyon-Vaise",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3163-superlarge_default/x4630-rouge-creme-ter-rhone-alpes-lyon-vaise.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T11:00:45Z"
 }
