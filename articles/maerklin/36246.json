@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36246",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36246",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "019",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive mit Schlepptender Baureihe 24 der Deutschen Bundesbahn (DB). Einheitslokomotive mit Witte-Windleitblechen. Betriebszustand Anfang der 1960er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Kessel aus Metall. Rauchsatz 72270 serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Vorne an der Lok Kurzkupplung im NEM -Schacht. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36246",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/db/0cdb30da5c3891b906a5183f0f9fa1631490717572.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

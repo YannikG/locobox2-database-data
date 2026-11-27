@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37121",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37121",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": "1215",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200 der Niederländischen Eisenbahnen ( NS ). Ausführung im Betriebszustand um 1965.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37121",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/88/2b8824b9f84e2a6256086a7b5f7796871434539393.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34262",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34262",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Xo2 13 (vormals Xod1 13)",
+    "number": "13",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II+III"
+  },
+  "description": "Vorbild: Xo2 13 (vormals Xod1 13) der Schwedischen Staatsbahnen (SJ). Bauart Wismar/EVA.\n\nModell: Mit DELTA-Elektronik. 2 Achsen und Blindwelle angetrieben. 2 Haftreifen . 3. Klasse. Stirnseiten mit asymmetrischem Führerstand und Übergang.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34262",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ad/13/ad1320e7868dd94e386afc99d16eb53b1434539204.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

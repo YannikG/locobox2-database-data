@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37589",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37589",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 58",
+    "number": "1836",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 212.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 58.10-21 (ehemalige preussische G 12) der Deutschen Bundesbahn (DB). Mit Reichsbahn-Laternen und preussischem Tender pr. 3T 20. Betriebsnummer 58 1836. Betriebszustand um 1952.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Raucheinsatz 7226 liegt serienmässig bei. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Vorne an der Lok kulissengeführte Kurzkupplung mit NEM -Schacht. Hinten am Tender NEM -Kupplungsaufnahme mit Kinematik und TELEX - Kupplung . Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37589",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/67/ca/67cabd59b2e24bcce3da3ac5c94007691434538739.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

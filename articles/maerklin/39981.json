@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39981",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39981",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 5081",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 322.0
+  },
+  "description": "Vorbild: Motorwagen Reihe 5081 mit Steuerwagen Reihe 6581 der Österreichischen Bundesbahnen ( ÖBB ). Parallelbauarten zum deutschen Schienenbus VT 98/VS 98. Innenraumaufteilung und Fenster in spezifischer Ausführung.\n\nModell: Triebwagen mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform zentral eingebaut. 2 Achsen angetrieben, Haftreifen . Beleuchtungen mit wartungsfreien LED , Spitzensignal warmweiss. Spitzensignal , Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Führerstände und Fahrgasträume mit Inneneinrichtung. Zwischen den Fahrzeugen Strom führende Kupplung in NEM -Normschacht mit Kulissenführung. Gesamtlänge über Puffer 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39981",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/06/5206aec6e8aaff992203ecf1ead829111434538954.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

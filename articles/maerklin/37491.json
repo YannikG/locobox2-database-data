@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37491",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37491",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "Unbekannt",
+    "type": "GG-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Typ GG-1, Achsfolge 4-6-6-4. Gebaut von General Electric und Westinghouse.\n\nModell: Mit mfx - Decoder und geregeltem, zentral eingebautem Glockenanker-Hochleistungsmotor. 4 Achsen in beiden Treibgestellen angetrieben. 4 Haftreifen . Kurvengängiges Fahrwerk mit 2 Treib- und 2 Laufgestellen. Geräuschgenerator mit vielen Funktionen und leistungsfähigem Lautsprecher. Beleuchtung mit wartungsfreien LED . Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Fernlicht, Führerstandsbeleuchtung, E-Lok-Fahrgeräusch sowie Direktsteuerung (Anfahrbeschleunigung / Bremsverzögerung) mit Control Unit oder Systems schaltbar. Als weitere Betriebsgeräusche sind Glockenläuten, Hornsignal, Pantograhpen-Betätigungsgeräusch und Lüfter-Betriebsgeräusch mit Systems schaltbar. Mit der Central-Station lassen sich ferner Schaltwerk-Klacken, Kabinenfunk-Durchsage, Kuppelgeräusch Schienenstoss -Klacken auslösen sowie das Bremsenquietschen abschalten. Grosse Dachstromabnehmer amerikanischer Bauart. Gehäuse in attraktiver Metallic-Sammlerausführung. Länge über Kupplungen 28,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37491",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/77/ef/77ef583828daead4749e731f5bbbeec51434539386.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

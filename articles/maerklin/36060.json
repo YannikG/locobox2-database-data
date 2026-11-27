@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36060",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36060",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 185.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.2 in fiktiver Ausführung anlässlich des 60jährigen Jubiläums des Märklin Magazins.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Griffstangen an den Lokfronten separat angesetzt. Zwei mechanisch funktionsfähige Dachstromabnehmer und zwei Kupplungsbügel mit 24-karätigem Gold vergoldet. Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36060",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/74/08/7408d85f04ae93ca2f2ea8fc344e44ed1756206013.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39829",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39829",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 182",
+    "number": "293-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 182 der Deutschen Bahn AG ( DB AG ), mit besonderer fiktiver Werbegestaltung der Coca-Cola® Company. Betriebsnummer 182 293-1. Betriebszustand 2020.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlicht digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39829",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a9/0f/a90fd30fe700d5b0419823780b30a64f1615964423.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

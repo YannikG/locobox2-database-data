@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39022",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39022",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "G.Bad.Sts.B.",
+    "type": "Schlepptender -Schnellzuglokomotive",
+    "number": "1013",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 267.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schlepptender -Schnellzuglokomotive der Gattung IVh der Grossherzoglichen Badischen Staatseisenbahnen. Betriebszustand 1920. Einsatz: Hochwertiger Reiseverkehr.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und umfangreichen Geräuschfunktionen. 3 Achsen angetrieben, Haftreifen . Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Rauchsatz 72270 nachrüstbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Am Tender kinematikgeführte Kurzkupplung mit NEM -Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39022",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/fc/58fcc7810fc6ec9ac43ea13c7bb75fa31434539349.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

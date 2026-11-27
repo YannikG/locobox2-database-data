@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3374",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3374",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 182.0
+  },
+  "description": "Vorbild: Baureihe 216 der Deutschen Bundesbahn (DB).\n\nModell: Mit Delta-Elektronik. Rahmen aus Metall. 2 Achsen angetrieben. 4 Haftreifen . Länge über Puffer 18,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3374",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cc/87/cc87e610720a289198ede7338ee9966b1434539271.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

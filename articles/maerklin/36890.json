@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36890",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36890",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Universallokomotive, entsprechend der Baureihe 185 der Deutschen Bahn AG ( DB AG ). Ausführung mit 2 Dachstromabnehmern. Freie Werbegestaltung der Biermarke Schöfferhofer.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Einstellbare Fahreigenschaften. 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36890",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/23/1a238fa9480bf903e867c8b1df530ed71434538710.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34988",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34988",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "P 8",
+    "number": "2401",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: P 8 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV).\n\nModell: Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Bemalte Kesselringe. Farblich abgesetzte Rauchkammer. Vorne Kupplungshaken , am Tender RELEXKupplung. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34988",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/43/18/431846862d625e44b81ca4da938cb3e71434538726.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

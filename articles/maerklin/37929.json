@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37929",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37929",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 41",
+    "number": "349",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 41 mit Schlepptender . Altbau-Ausführung der Deutschen Bundesbahn (DB), mit Witte-Windleitblechen, Altbau-Kessel, Einheitskastentender 2´2´T34, DB-Reflexglaslampen, einseitigem Indusi und Puffertellerwarnanstrich. Betriebsnummer 41 349. Betriebszustand um 1965.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Im Tender ist eine Mechanik zum Absenken der Kohlenbeladung eingebaut, um damit im Spielewelt -Modus auch optisch den Kohlenverbrauch im Tender darzustellen. Für nicht mfx+ fähige Digital-Zentralen kann das Senken und Heben der Kohlenbeladung über Sonderfunktion F8 ausgelöst werden. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37929",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/62/6c62fbe6e5db587f82d99367c9dfb2981441644235.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

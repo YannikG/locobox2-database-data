@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37230",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37230",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 25",
+    "number": "2501",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 25 der Belgischen Staatsbahnen (SNCB/NMBS) in gelb/blauer Grundfarbgebung. Ausführung mit 2 Doppellampen unten. Betriebszustand der Epoche IV.\n\nModell: Mit Digital- Decoder mfx und Mehrton-Signalhorn. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtungen. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37230",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/dd/fadd13ac050421d04c745c10589b233b1434538782.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

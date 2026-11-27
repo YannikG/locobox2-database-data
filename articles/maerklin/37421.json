@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37421",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37421",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Vierteiliger Elektro- Triebzug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Vierteiliger Elektro- Triebzug der Niederländischen Eisenbahnen ( NS ). Serie ELD4, \"Koploper\" als Intercity Triebzug ICM-4 in aktueller Ausführung. 1 Endwagen mBDk 2. Klasse, 1 Mittelwagen mB 2. Klasse, 1 Mittelwagen A 1. Klasse, 1 Endwagen sBFk 2. Klasse.\n\nModell: 4-teilige Ausführung. Fahrgestell beim motorisierten Endwagen aus Druckguss. Mit Digital- Decoder mfx . 5-poliger schräggenuteter Motor mit Schwungmasse und Geräuschgenerator. Führerstände in den beiden Endwagen mit Inneneinrichtung. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Spezial-Kurzkupplungen mit Kulissenführung. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal mit vorbildgerechten leicht gelben LED . Innenbeleuchtungen mit warmweissen LED . Inneneinrichtung auf den jeweiligen Wagentyp abgestimmt. Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. An den Endwagen Darstellung der \"Scharfenberg\"- Kupplung mit Abdeckung. Für Doppeltraktion liegt eine zusätzliche starre Kupplungsverbindung bei. Im Serienzustand Ausführung der Endwagen mit geschlossenen Übergangstüren. Darstellung der an einem Endwagen zur Seite geschobenen Schwenktüren mit Faltenbalg ist mit beigelegtem Einsteckteil möglich. Gesamtlänge des Zuges 114,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37421",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/0d/ec0d6cd750e7df3627abd7d3b889aaa71434539379.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37950",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37950",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03",
+    "number": "266",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 03 mit Schlepptender . Altbau-Ausführung der Deutschen Bundesbahn (DB), mit Wagner-Windleitblechen, Altbau-Kessel, Einheitskastentender 2´2´T34, Reichsbahn-Laternen, einseitigem Indusi und Puffertellerwarnanstrich. Betriebsnummer 03 266. Betriebszustand um 1954.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37950",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/0c/000ce92ca5d5c028ced910741a1366091434538919.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

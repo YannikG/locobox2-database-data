@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37573",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37573",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Serienausführung in purpurrot/beiger TEE -Lackierung, mit zwei seitlichen Lüfterreihen, ohne Frontschürzen, mit Pufferverkleidung und Einholmstromabnehmern. Eingesetzt im IC-Verkehr. Betriebszustand ca. Mitte 1980er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtungen mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Separat eingesetzte Griffstangen aus Metall. Detaillierte Dachausrüstung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37573",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ee/cb/eecb1cb02d17fe1e8c79f6740eaa340e1434539076.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

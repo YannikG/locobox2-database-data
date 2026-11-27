@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34059",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34059",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Serie K",
+    "number": "1801",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Serie K der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Mit DELTA-Elektronik. Hochleistungsmotor mit Glockenanker. 6 Achsen angetrieben. 4 Haftreifen . Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand .Norm-Kupplungsaufnahmen, am Tender mit Kulissenführung. Frei stehende Laternen mit wartungsfreien Leuchtdioden. Einrichtung für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe Nr. 11 (DELTA und Digital).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34059",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/01/b3/01b3fee5e6c520964c37944298e77fcd1434539142.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

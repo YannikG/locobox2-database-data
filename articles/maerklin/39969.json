@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39969",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39969",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "GB",
+    "operator": "Unbekannt",
+    "type": "Class A3",
+    "number": "60103",
+    "livery": "Flying Scotsman",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 245.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der Klasse A3 mit Schlepptender . Ausführung als Museumslokomotive in Postwar Black mit unterschiedlichen angeschriebenen Betriebsnummern. 502 und 103 aus der Zeit um 1946 sowie die aktuelle Betriebsnummer 60103 auf der Rauchkammer­türe. Betriebsfähiger Museumszustand Anfang 2015 mit Korridor-Tender und Windleitblechen. Lokomotive des National Railway Museum in York.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und eine Lampe an der Tenderrückseite konventionell in Betrieb, digital schaltbar. Lampe an der Tenderrückseite kann auf rotes Licht umgeschaltet werden. Drittes Spitzenlicht an der Lokfront als elektrische Lampe separat zu- und auf rote Beleuchtung umschaltbar. Führerstandsbeleuchtung und Feuerbüchsenflackern digital schaltbar. Beleuchtung des Tender-Durchgangs digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Bremsschläuche, Schraubenkupplungsimitationen und geschlossene Zylinderdeckel liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39969",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/80/f680a165f19fc041c4a78dbd7445f27f1724173207.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36966",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36966",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SWEG",
+    "type": "BR 650",
+    "number": "238",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dieseltriebwagen vom Typ Regio Shuttle RS1 als Baureihe 650 der Südwestdeutschen Landesverkehrs-GmbH (SWEG). Ausführung mit Scharfenbergkupplung und tief liegender Zugzielanzeige. Gestaltung im Landesdesign Baden-Württemberg (bwegt). Betriebsnummer 238 (NVR-Nummer: 95 80 0 650 634-8 D-SWEG). Betriebszustand ab 2024. Betriebsnummer der Wiederauflage 2026: 236 (NVR-Nummer: 95 80 0 650 632-2 D-SWEG).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Serienmässig eingebaute Innenbeleuchtung. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Viele separat angesetzte Details. An beiden Enden mit separat angesetzter Imitation einer Scharfenbergkupplung . Für einen Doppeltraktionsbetrieb liegen geöffnete Blenden und eine Kuppelstange bei. Befahrbarer Mindestradius 360 mm ohne Beachtung des Lichtraumprofils. Länge über Kupplung 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36966",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/22/2a/222a5c9b09fba6773226067eb2c5b2f01771837207.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

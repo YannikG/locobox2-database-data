@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39640",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39640",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 64",
+    "number": "250",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 64 der Deutschen Bundesbahn (DB). Betriebszustand um 1967.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Sound- Generator . Wartungsfreier Motor in kompakter Bauform. 3 Achsen angetrieben, Haftreifen . Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes LED - Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen LED . Bremsschlauch-Attrappen beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39640",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/80/9a80606d4093965a17ccaacfb66c61bd1434539241.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

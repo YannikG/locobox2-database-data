@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37853",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37853",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 150",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 150 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Grösste Bauart der Einheits-Elektrolokomotiven aus dem Neubauprogramm der 1950er-Jahre. Mit Doppellampen, Mehrfachdüsenlüfter und umlaufender Regenrinne. Betriebszustand Ende 1970er/Anfang 1980er Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und frontal aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37853",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/e9/f9e99a43cd78ac6742b21066d43966631434538616.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

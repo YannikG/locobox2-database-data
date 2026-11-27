@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37483",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37483",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Reihe EG 2 x 2/2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: E 70.2 der Deutschen Bundesbahn (DB) - ehemalige Reihe EG 2 x 2/2 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.).\n\nModell: Mit mfx -Digital- Decoder und geregeltem Hochleistungsantrieb. Spezialmotor mit Schwungmasse . 2 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk, Drehgestelle unter den festen Vorbauten beweglich gelagert. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung digital schaltbar. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37483",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/b7/7ab78c11e612220e5f63d2088ec953311434539020.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

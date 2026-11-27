@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37606",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37606",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 602",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Baureihe 602 der Deutschen Bundesbahn (DB). Umbauausführung mit Gasturbinen-Hochleistungsantrieb. Einsatz im Inter-City-Verkehr. Zug aus 2 Triebköpfen, Abteilwagen und Küchenwagen.\n\nModell: Mit Digital- Decoder , geregeltem Antrieb und Geräuschgenerator. 2 Hochleistungsmotoren in den Triebköpfen. 4 Achsen angetrieben. 8 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. Gasturbinen-Geräusch, Signaltöne sowie Anfahr- und Bremsverzögerung mit Control Unit oder mit Systems digital schaltbar. Weitere Betriebsgeräusche wie Geräusch Hilfsdiesel , Lüfter - Geräusch und Umgebungsgeräusch Türen schliessen mit Systems digital schaltbar. Leistungsfähige Lautsprecher in beiden Triebköpfen, Lautstärke einstellbar. Mehrpolige Strom führende Spezialkupplung und dicht schliessende Übergangsblenden mit Kulissenführungen zwischen den Fahrzeugen. An den Enden Nachbildung der abgedeckten Scharfenberg- Kupplung (ohne Funktion). Zuglänge über Kupplungen 88 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37606",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/9e/b29e169fad34ceeccfad07868e8a3c081434538831.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

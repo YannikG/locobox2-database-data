@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3756",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3756",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Güterzuglokomotive ´Krokodil´",
+    "number": "13305",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-V",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Serie Be 6/8III der Schweizerischen Bundesbahnen ( SBB ). Bauart mit Schrägstangenantrieb. Betriebsnummer 13305.\n\nModell: Mit Digitaldecoder und geregeltem Hochleistungsantrieb. Spitzensignal digital zuschaltbar. 3 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Dreiteiliges Metallgehäuse mit ausschwenkbaren Vorbauten. Nummernschilder aufgesetzt. Detaillierte Dachausrüstung. Länge über Puffer 23,0 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3756",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5d/02/5d021945db4e0852a32245aa28aadad11434539337.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

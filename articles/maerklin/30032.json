@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30032",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30032",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "061",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe 24 der Deutschen Bundesbahn (DB). Grosser Schlepptender der Bauart 2´2´T26.\n\nModell: Fahrtrichtungsumschalter. 3 Achsen angetrieben. 1 Haftreifen . Vorne Kupplungshaken , am Tender RELEX - Kupplung .",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30032",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/01/8801c63185a9a2bb057f4e0eb89fae2a1434538948.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

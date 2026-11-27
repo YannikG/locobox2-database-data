@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37938",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37938",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "P 10",
+    "number": "3673",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive der preussischen Gattung P 10 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ausführung ohne Windleitbleche und mit preussischem Tender 2´2´T31,5 ohne Kohlekasten-Aufsatzbretter. Lokomotive 11.000 im Auslieferungsbuch der A. Borsig-Werke Berlin-Tegel. Auslieferung 1922.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen LED . Verstellbare, kulissengeführte Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 26,3 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit einem Relief des charakteristischen Borsig-Tors des Borsigschen Lokomotivwerkes Berlin-Tegel. Graviertes Metallschild inklusive der Fabriknummer am Vitrinensockel. Hochwertiger Auszug des Auslieferungsbuches beigelegt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37938",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/51/be/51be7fb54550ea7c592040c9c1f3373f1434539315.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

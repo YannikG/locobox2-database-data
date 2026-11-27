@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39601",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39601",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie 460",
+    "number": "042-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Serie 460 der Schweizerischen Bundesbahnen ( SBB ).\n\nModell: Mit Digital- Decoder und C-Sinus-Motor. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtung. Angesetzte Signalhörner und Griffstangen. Eingebaute Fernscheinwerfer. Spitzensignal digital schaltbar. Fahrtrichtungsabhängige Fernscheinwerfer und Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot mit Control Unit 6021 digital zuschaltbar. In konventionellen Betrieb ist das Spitzensignal mit Schweizer Lichtwechsel funktionsfähig.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39601",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9e/75/9e754e7f23567b2b2665053b02a256131434538848.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

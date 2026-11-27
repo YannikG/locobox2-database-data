@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39590",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39590",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 8/14",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 391.0
+  },
+  "description": "Vorbild: Serie Ae 8/14 der Schweizerischen Bundesbahnen ( SBB CFF FFS ). Ausführung 11801 mit 2 Pantographen in Versuchslackierung Maschinengrün.\n\nModell: Mit Digital- Decoder mfx , geregeltem Doppel-Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. 2 Wartungsfreie Motoren in kompakter Bauform. 4 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Feste Deichsel zwischen den Lokhälften. Spitzensignal und Schlusslicht konventionell in Betrieb, digital schaltbar. 2 Dachstromabnehmer mit Doppelschleifstück. Führerstände mit Inneneinrichtung. Länge über Puffer 39,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39590",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3f/e8/3fe8fa8e41243d55fb6dd081a35e92f11434538964.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

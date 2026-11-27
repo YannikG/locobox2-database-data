@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37285",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37285",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 188",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 258.0
+  },
+  "description": "Vorbild: Schwere Dieselelektrische Doppeleinheit Baureihe V 188 der Deutschen Bundesbahn (DB). Ausführung in purpurroter Grundfarbgebung. Betriebsnummer V 188 002 a/b. Betriebszustand um 1964.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Lokomotiven mit Motor. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Beide Lok-Teile fest miteinander gekuppelt. Länge über Puffer 25,8 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37285",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/80/16/8016e30e8c65a71003a3dc38b5151f531460130773.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

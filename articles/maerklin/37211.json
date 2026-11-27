@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37211",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37211",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 140 001",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Baureihe V 140 001 der Deutschen Bundesbahn (DB), Achsfolge 1´C1´, erste dieselhydraulische Streckenlokomotive grosser Leistung, Baujahr 1935, für die Deutsche Reichsbahn-Gesellschaft. Einsatz: Mittlere Reise- und Güterzüge auf Haupt- und Nebenbahnen.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen, Spitzensignal weiss/rot in Fahrtrichtung wechselnd, Geregelter Hochleistungsantrieb, 3 Achsen über Kuppelstangen angetrieben, Haftreifen . Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37211",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fe/c5/fec5bb7576ef4017796016b02ec569a41434539139.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

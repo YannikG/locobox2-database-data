@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39835",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39835",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 182",
+    "number": "004-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 182 der Deutschen Bahn AG (DBAG). Bauart entspricht dem österreichischen \"Taurus\". Mehrsystemlokomotive. Ausführung im Design für eine hochwertige Automobilmarke.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb C-Sinus und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlichter und Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Weitere Betriebsgeräusche mit Systems digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39835",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/0c/e70c1765c93122d78cb939233593a2011434538897.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

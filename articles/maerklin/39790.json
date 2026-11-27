@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39790",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39790",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 78",
+    "number": "054",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 170.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Tenderdampflokomotive BR 78 (ehemalige preussische T18) der Deutschen Bundesbahn (DB). Ausführung mit drei Kesselaufbauten (D-D-S), Sandkasten eckig. Zweilicht-Spitzensignal , Führerhaus mit Tonnendach, Wasserkästen genietet, Turbodynamo links, Rauchkammertür ohne Zentralverschluss mit Nummernschild mittig, Kohlekasten mit hohem Aufbau. Betriebsnummer 78 054. Beheimatung in Hannover. Betriebszustand um 1956.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zwei rote Schlusslichter separat digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 17 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39790",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/16/a01679b8c015dfd54fd36f2336981a181660629612.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

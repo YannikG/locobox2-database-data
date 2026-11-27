@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37887",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37887",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 150 X",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Serie 150 X der Französischen Staatsbahnen ( SNCF ). Frühere deutsche Baureihe 44. 1 Mannschaftswagen preussischer Bauart (Cs) für die 2. Lokmannschaft. Betriebszustand um 1946.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator mit vielen Funktionen. 5 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Rauchsatz 7226 nachrüstbar. Spitzensignal konventionell in Betrieb, digital schaltbar. Verstellbare Kurzkupplung zwischen Lok und Tender. Vorne Kupplungsaufnahme nach NEM . Kolbenstangenschutzrohre einsteckbar. Länge über Puffer 26,0/26,2 cm. Abteilwagen mit Bremserhaus. Leitern und Griffstangen angesetzt. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37887",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/67/d667911ea7191504db1942ab27d510ea1434539024.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

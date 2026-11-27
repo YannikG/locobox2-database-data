@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39705",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39705",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "CA",
+    "operator": "ONR",
+    "type": "Dieseltriebzug",
+    "number": null,
+    "livery": "Northlander",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Dieseltriebzug \"Northlander\" der Ontario Northland Railway (ONR), Kanada (ehemaliger Dieseltriebzug RAm TEE ). 4-teilige Garnitur in himmelblau/gelber Grundfarbgebung. 1 Motorwagen , 1 Abteilwagen, 1 Speisewagen, 1 Grossraumwagen mit Steuerabteil. Dieseltriebzug-Nummer 1981. Betriebszustand 1980er-Jahre.\n\nModell: 4-teilige Einheit. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen , zentral eingebaut. Jeweils 2 von 3 Treibradsätzen in den beiden 3-achsigen Drehgestellen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung im Abteil-, Speise- und Grossraumwagen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter sowie Innenbeleuchtung, konventionell in Betrieb, digital schaltbar. Innenbeleuchtung im Gepäckabteil des Motorwagens separat digital schaltbar. Maschinenraum-Beleuchtung im Motorwagen und Führerstandbeleuchtung im Motorwagen und im Steuerabteil des Grossraumwagens jeweils separat digital schaltbar. Classification lights an den Triebzugenden digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und unterschiedlich farbigen Leuchtdioden ( LED ). Kulissengeführte mehrpolige stromführende Spezialkupplung zwischen den Triebzug -Einheiten für eine durchgehende elektrische Verbindug des ganzen Zuges. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Motorwagen bzw. Grossraumwagen mit Steuerabteil. Viele angesetzte Details. An beiden Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Befahrbarer Mindestradius 437,5 mm. Das Befahren des Radius 1 ist ohne Beachtung des Lichtraum-Profils ebenfalls möglich. Gesamtlänge des Triebzuges über Kupplung ca. 113 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39705",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/15/02/1502573e960acee4c61e165d3d3108c21698300014.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

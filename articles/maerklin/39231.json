@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39231",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39231",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 023",
+    "number": "011-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 245.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 023 mit Kohlen- Schlepptender 2´2´T31 der Deutschen Bundesbahn (DB). Lokomotive aus der ersten Bauserie. Witte-Windleitbleche. Lok-Betriebsnummer 023 011-0. Betriebszustand um 1970.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Lokomotive und Tender weitgehend aus Metall. Kurzkupplung mit Kinematik zwischen Lok und Tender. An der Lok und am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39231",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a5/0d/a50d1805ee1546a6ff721f0b65c2cfed1713200419.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

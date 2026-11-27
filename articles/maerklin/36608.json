@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36608",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36608",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 28",
+    "number": "2803",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 28 der Angel Trains Cargo, vermietet an die Belgischen Staatsbahnen (SNCB/NMBS). Zweisystemlokomotive mit 4 Pantographen. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36608",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/03/a703c1fc2f683d8aade9042a733b78681434539329.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

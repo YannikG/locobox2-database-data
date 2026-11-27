@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36334",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36334",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Reihe El 10",
+    "number": "10.2505",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III+IV",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro- Rangierlokomotive Reihe El 10 der Norwegischen Staatsbahnen (NSB) in rotbrauner Grundfarbgebung. Lok-Betriebsnummer 10.2505. Betriebszustand Ende 1960er/Anfang 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx . Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Zweilicht-Spitzensignal vorne und hinten, konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36334",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/f1/25f102f71279f153ea49196bfe8a547d1467045498.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

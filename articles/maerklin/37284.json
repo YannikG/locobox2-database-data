@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37284",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37284",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 288",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 258.0
+  },
+  "description": "Vorbild: Dieselelektrische Doppeleinheit Baureihe 288 der Deutschen Bundesbahn (DB). Frühere Baureihe V 188.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschelektronik. Beide Lokomotiven mit Motor. 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Dieselmotorgeräusch konventionell in Betrieb, digital schaltbar. Geräusch von Signalhorn und Pfeife sowie Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Zwischen den Lokomotiven Spezial- Kurzkupplung mit Kulissenführung. Länge über Puffer 25,8 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37284",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/81/4e81240914084cddb2bf7ac30c707d991434538890.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

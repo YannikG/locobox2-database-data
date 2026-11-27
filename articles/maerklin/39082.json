@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39082",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39082",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 08.5",
+    "number": null,
+    "livery": "Paris-Ruhr",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: TEE -Diesel-Triebwagenzug Baureihe VT 08.5 der Deutschen Bundesbahn (DB), als TEE 185 \"Paris-Ruhr\", mit dem Zuglauf Paris - Liège - Köln - Dortmund. 4-teilige Garnitur in purpurroter Grundfarbgebung. 1 Triebwagen VT 08 509 mit Küche und Speiseraum (WRPwPost4üm), 2 Mittelwagen VM 08 516 und VM 08 518 mit Abteilen (A4üm), 1 Triebwagen VT 08 517 mit Abteilen (A4üm). Alle Fahrzeuge 1. Klasse. Beide Triebwagen stirnseitig jeweils mit TEE -Schild. Betriebszustand um 1957.\n\nModell: Vierteilige Einheit, bestehend aus 2 Triebwagen (VT) und 2 Mittelwagen (VM). Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Über die Funktionstasten können unter anderem unterschiedliche Bahnhofsansagen, Zugdurchsagen und Dialoge ausgelöst werden. Geregelter Hochleistungsantrieb mit Schwungmasse im Triebwagen mit Küche und Speiseraum. 2 Achsen in einem Drehgestell über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung und Führerstandbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Führerstandbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzgekuppelte Spezialverbindung zwischen den Wageneinheiten. Eingebaute Inneneinrichtung. Führerstände der Endwagen mit freiem Durchblick. Serienmässig mit Lokführer in jedem Führerstand . An den Stirnseiten der Triebwagen separat eingesetzte Kupplungsimitationen und jeweils separat angesetztes TEE -Schild. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebwagen. Länge des vierteiligen Zuges 114 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39082",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/fc/dcfc521289c0b671044850c6306ebfab1483904938.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

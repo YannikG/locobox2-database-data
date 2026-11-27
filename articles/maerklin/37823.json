@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37823",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37823",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SGL",
+    "type": "BR V 270.09",
+    "number": "80",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Mehrzwecklokomotive Baureihe V 270.09 (ex Baureihe 221). Privatbahn-Lokomotive der SGL - Schienen Güter Logistik GmbH, Dachau. Lichtgraue Grundfarbgebung. Lok-Betriebsnummer 92 80 1 221 121-7. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Betriebs- und Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstand - und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37823",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f7/37/f73738da13c7bc9dc71de7b9041585361602136809.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

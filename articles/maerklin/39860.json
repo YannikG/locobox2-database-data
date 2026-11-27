@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39860",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39860",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 189",
+    "number": "059-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 189 der Deutschen Bahn AG ( DB AG ). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39860",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ff/cd/ffcddfecbdfa78389d602affdb1c2d891467125020.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

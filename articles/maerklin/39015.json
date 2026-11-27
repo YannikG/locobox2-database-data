@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39015",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39015",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": "147",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 01 der Deutschen Bundesbahn (DB).\n\nModell: Optisch und technisch gleiche Ausführung wie 39010, jedoch ohne erweiterte Sound-Funktionen. Spitzensignal und Raucheinsatzkontakt konventionell in Betrieb, digital schaltbar. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39015",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b1/20/b120c5ef7388c3017bf409ffd415acca1434539379.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

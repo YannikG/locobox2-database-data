@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37257",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37257",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "G.Bad.Sts.B.",
+    "type": "Dampftriebwagen Bauart Kittel CidT",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel CidT der Grossherzoglich Badischen Staatsbahn (G. Bad. Sts. B.). Betriebszustand 1915. Ausführung der Original-Lackierung in flaschengrün.\n\nModell: Mit Digital- Decoder mfx . Geregelter Miniaturmotor. Fahrgestell aus Metalldruckguss. 2 Achsen angetrieben. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Spitzensignal mit wartungsfreien warmweissen LED . Kupplungsaufnahme nach NEM . Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand , Nachbildung des Kessels. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 13 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37257",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/83/ff/83ffb6194cbccd426d4fd92554629c7c1434539321.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

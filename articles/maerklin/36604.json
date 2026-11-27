@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36604",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36604",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Lokomotion",
+    "type": "BR 185",
+    "number": "666",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.6 der Lokomotion Gesellschaft für Schienentraktion mbH, München. Zweisystemlokomotive gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36604",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a8/1e/a81e9424ad2eac813eb8f0179e73f7f31434539313.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

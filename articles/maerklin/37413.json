@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37413",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37413",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Rm",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Reihe Rm der Schwedischen Staatsbahnen (SJ). Ursprungsausführung. Einsatz im Erz- und Güterverkehr.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Scherenstromabnehmer . Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37413",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/08/0c084c3f0e5d4598e518aea69c0a24991434539161.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

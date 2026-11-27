@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37548",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37548",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Güterzug-Dampflokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive mit Schlepptender der Deutschen Bundesbahn (DB). Ausführung ohne Oberflächenvorwärmer und ohne Kolbenspeisepumpe. Mit Puffertellerwarnanstrich. Betriebszustand um 1959.\n\nModell: Dampflokomotive mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 4 Treib- und Kuppelachsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Kolbenstangen-Schutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37548",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c6/87/c6870d5d12757a79be0881207874edab1434539101.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

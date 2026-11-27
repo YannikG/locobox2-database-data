@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-49611",
+  "manufacturer": "Maerklin",
+  "articleNumber": "49611",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "zur Doppeltraktion.",
+    "number": "77",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Wie Modell 37611, jedoch mit Betriebsnummer 77L.\n\nModell: Verstärkungseinheit zur echten Doppeltraktion mit dem Modell 37611. Hochleistungsmotor, geregelt vom Decoder der Lokomotive 37611. 2 Achsen angetrieben. 4 Haftreifen . Lichtfunktionen sowie Anfahr- und Bremsverzögerung gesteuert vom Decoder der Lokomotive 37611. Spezialkupplung mit mehrpoliger elektrischer Verbindung der beiden Lokomotiven. Stirnseitige Kurzkupplung in Normaufnahmeschacht austauschbar gegen amerikanischen Kupplungstyp oder Abdeckblende. Länge über Kupplungen 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/49611",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3d/30/3d3012619224a7905ebdc1507ffd2b9b1434538928.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:52Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36806",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36806",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Gruppe 213",
+    "number": "915",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Gruppe 213 der Italienischen Staatsbahnen ( FS ). Frühere deutsche Baureihe Köf II.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36806",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0b/e8/0be86e2c15619d11dd60969a13d174ab1434539419.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

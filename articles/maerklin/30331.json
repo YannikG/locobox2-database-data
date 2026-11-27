@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30331",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30331",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 110",
+    "number": "294-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Baureihe 110 der Deutschen Bahn AG ( DB AG ).\n\nModell: Version mit windschnittigem Führerstand . Mit Fahrtrichtungsumschalter. 2 Achsen angetrieben. 4 Haftreifen . Kupplungshaken . Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30331",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/79/5e/795ee689909638c8714b7e20db58711d1434538620.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

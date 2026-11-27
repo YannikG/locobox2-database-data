@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34780",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34780",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ICE 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3. Baureihe 406 der Deutschen Bahn AG ( DB AG ). 1 Endwagen 406.0, 1. Klasse. 1 Mittelwagen Restaurant 406.3. 1 Endwagen 406.5, 2. Klasse.\n\nModell: 3-teilige Ausführung. Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Länge des Zuges 86,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34780",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/92/73/9273d0d9c4fdbde109aa201eadbe51b31434539026.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

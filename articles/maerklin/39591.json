@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39591",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39591",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 8/14",
+    "number": "11801",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 391.0
+  },
+  "description": "Vorbild: Doppel-Elektrolokomotive Serie Ae 8/14 der Schweizerischen Bundesbahnen ( SBB CFF FFS ). Lok-Betriebsnummer 11801 mit 2 Pantographen. Fiktive dunkelbraune Grundfarbgebung und schwarzer Fahrwerksbereich. Zustand Anfang der 1930er Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Doppel-Hochleistungsantrieb Softdrive Sinus, 2 wartungsfreie Motoren in kompakter Bauform. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Feste Deichsel zwischen den Lokhälften. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). 2 Dachstromabnehmer mit Doppelschleifstück. Führerstände mit Inneneinrichtung. Verpackt in einer dekorativen Holzkassette. Länge über Puffer 39,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39591",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/6b/786ba7007b9df3a31ed350ec1c6b44a61434539169.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

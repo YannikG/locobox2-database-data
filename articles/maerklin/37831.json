@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37831",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37831",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe N",
+    "number": "205",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Reihe N der Dänischen Staatsbahnen (DSB). Ehemalige deutsche BR 50 bzw. belgische Serie 25.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Soundfunktionen. Motor im Kessel. 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kurzkupplung in NEM -Aufnahme. Verstellbare Kurzkupplung zwischen Lokomotive und Tender. Leiter zum anstecken. Länge über Puffer 26,3/26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37831",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1c/9b/1c9b5a7a2c1f7b1d5184e4767ad8ed8a1434539363.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

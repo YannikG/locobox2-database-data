@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36868",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36868",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "PtL 2/2",
+    "number": "4519",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive PtL 2/2 \"Glaskasten\" der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung in grauem Fotografieranstrich, mit Aussentriebwerk und Blindwelle. Betriebsnummer 4519. Betriebszustand um 1908.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Innenkessel aus Metall. Gehäuse aus metallgefülltem Kunststoff für verbessertes Zugkraftverhalten. Zahlreiche angesetzte Handläufe und Griffstangen. Länge über Puffer ca. 8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36868",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/a5/e1a59ee49218c885d47068bf8d62ac931541833220.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

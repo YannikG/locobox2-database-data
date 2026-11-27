@@ -135,6 +135,13 @@ def _description(html: str, title: str) -> str:
 
 
 def _main_image(html: str) -> str:
+    """Prefer the large product photo (``<a href=…jpg>``, 1500 px) over the 114 px thumbnail."""
+    for m in re.finditer(
+        r'href="(https://static\.maerklin\.de/damcontent/[^"]+\.(?:jpg|jpeg|png|webp))"',
+        html,
+        re.I,
+    ):
+        return m.group(1).split("?")[0]
     for m in re.finditer(
         r'src="(https://static\.maerklin\.de/[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"',
         html,
@@ -250,10 +257,114 @@ def _operator_from_vorbild(description: str) -> tuple[str, str]:
         (r"Polnischen?\s+Staatsbahn|\bPKP\b", "PKP", "PL"),
         (r"Italienischen?\s+Staatsbahn|\bFS\b", "FS", "IT"),
         (r"Französischen?\s+Staatsbahn|\bSNCF\b", "SNCF", "FR"),
+        # Private / foreign operators (last: only reached when nothing above matched).
+        (r"D\s*&\s*RGW|Rio\s+Grande", "D&RGW", "US"),
+        (r"Baltimore\s*&\s*Ohio", "B&O", "US"),
+        (r"Milwaukee\s+Road", "Milwaukee Road", "US"),
+        (r"Kansas\s+City\s+Southern|\bKCS\b", "KCS", "US"),
+        (r"Great\s+Northern\s+Railway", "GN", "US"),
+        (r"SOO[- ]Line", "SOO Line", "US"),
+        (r"Southern\s+Pacific", "SP", "US"),
+        (r"Ontario\s+Northland", "ONR", "CA"),
+        (r"Raildox", "Raildox", "DE"),
+        (r"boxXpress", "boxXpress", "DE"),
+        (r"Schauffele", "Schauffele", "DE"),
+        (r"PCC\s+Rail", "PCC Rail", "PL"),
+        (r"DB\s+Netz", "DB Netz", "DE"),
+        (r"[Mm]etronom", "metronom", "DE"),
+        (r"Havelländische|\bHVLE\b", "HVLE", "DE"),
+        (r"GTS\s+Rail", "GTS Rail", "IT"),
+        (r"CAPTRAIN|Captrain", "Captrain", "DE"),
+        (r"RAIL\s+BAVARIA", "Rail Bavaria", "DE"),
+        (r"Steiermärkischen\s+Landesbahn|\bSTLB\b", "StLB", "AT"),
+        (r"Elbe-Weser|\bEVB\b", "EVB", "DE"),
+        (r"rail4chem", "rail4chem", "DE"),
+        (r"LTE\s+Logistik", "LTE", "AT"),
+        (r"TX\s+Logistik", "TX Logistik", "DE"),
+        (r"Veolia", "Veolia", "DE"),
+        (r"Hoyer\s+Railserv", "Hoyer", "DE"),
+        (r"On\s+Rail", "On Rail", "DE"),
+        (r"\bSWEG\b", "SWEG", "DE"),
+        (r"agilis", "agilis", "DE"),
+        (r"Württembergischen\s+Eisenbahn-Gesellschaft|\bWEG\b", "WEG", "DE"),
+        (r"Cargo\s+Logistik\s+Rail\s+Service|\bCLR\b", "CLR", "DE"),
+        (r"AIXrail", "AIXrail", "DE"),
+        (r"niederländischen\s+EETC|\bEETC\b", "EETC", "NL"),
+        (r"HUSA\s+Transportation", "HUSA", "NL"),
+        (r"DB[- ]Schenker\s+Logistics\s+Nederland", "DB Schenker", "NL"),
+        (r"Mittelweserbahn|\bMWB\b", "MWB", "DE"),
+        (r"Grossherzoglich(?:en)?\s+Badischen", "G.Bad.Sts.B.", "DE"),
+        (r"K\.?\s*Bay\.?\s*Staatseisenbahn", "K.Bay.Sts.B.", "DE"),
+        (r"DB\s+Regio", "DB Regio", "DE"),
+        (r"TAGAB", "TAGAB", "SE"),
+        (r"\bRBH\b", "RBH", "DE"),
+        (r"Erfurter\s+Bahnservice|\bEBS\b", "EBS", "DE"),
+        (r"ÖGEG", "ÖGEG", "AT"),
+        (r"Max\s+Bögl", "Max Bögl", "DE"),
+        (r"Tegernsee-Bahn", "Tegernsee-Bahn", "DE"),
+        (r"Northrail", "Northrail", "DE"),
+        (r"Lokalbanen|Lokaltog", "Lokaltog", "DK"),
+        (r"Bentheimer\s+Eisenbahn", "Bentheimer Eisenbahn", "DE"),
+        (r"Arriva\s+Danmark", "Arriva", "DK"),
+        (r"Vestsjaellands", "VLTJ", "DK"),
+        (r"Bayerischen\s+Regiobahn|\bBRB\b", "BRB", "DE"),
+        (r"NordWestBahn|\bNWB\b", "NWB", "DE"),
+        (r"Russischen\s+Staatsbahn|\bRZD\b", "RZD", "RU"),
+        (r"Swietelsky", "RTS", "AT"),
+        (r"\bSGL\b", "SGL", "DE"),
+        (r"Oensingen-Balsthal|\bOeBB\b", "OeBB", "CH"),
+        (r"Eurailscout", "Eurailscout", "NL"),
+        (r"B&V\s+Leipzig", "B&V Leipzig", "DE"),
+        (r"Railsystems", "Railsystems", "DE"),
+        (r"\bMTAS\b", "MTAS", "SE"),
+        (r"Green\s+Cargo", "Green Cargo", "SE"),
+        (r"Gruppenverwaltung\s+Bayern|\bGVB\b", "GVB", "DE"),
+        (r"Trois\s+Vallées|CFV3V", "CFV3V", "BE"),
+        (r"Pressnitztalbahn", "PRESS", "DE"),
+        (r"NeSA", "NeSA", "DE"),
+        (r"Veluwsche\s+Stoomtrein", "VSM", "NL"),
+        (r"ERS\s+Railways", "ERS", "NL"),
+        (r"Altona-Kaltenkirchen|\bAKN\b", "AKN", "DE"),
+        (r"Elmshorn-Barmstedt|\bEBOE\b", "EBOE", "DE"),
+        (r"Kahlgrund", "KVG", "DE"),
+        (r"Historischen\s+Eisenbahn\s+Frankfurt", "HEF", "DE"),
+        (r"Train\s+Rental", "TRI", "DE"),
+        (r"Vopak\s+Dupeg", "Vopak Dupeg", "DE"),
+        (r"Hessischen\s+Landesbahn|\bHLB\b", "HLB", "DE"),
+        (r"Schweizerischen\s+Post|\bPTT\b", "PTT", "CH"),
+        (r"ITL\s+Eisenbahn", "ITL", "DE"),
+        (r"Widmer\s+Rail|\bWRS\b", "WRS", "DE"),
+        (r"SRI\s+Rail\s+Invest|\bSRI\b", "SRI", "DE"),
+        (r"FuoriMuro", "FuoriMuro", "IT"),
+        (r"Ruhrkohle\s+AG|\bRAG\b", "RAG", "DE"),
+        (r"Dortmunder\s+Eisenbahn", "Dortmunder Eisenbahn", "DE"),
+        (r"RheinCargo", "RheinCargo", "DE"),
+        (r"DB\s+Museum", "DB Museum", "DE"),
+        (r"Aarsleff", "Aarsleff Rail", "DK"),
+        (r"Sersa", "Sersa", "CH"),
+        (r"Leonhard\s+Weiss", "Leonhard Weiss", "DE"),
+        (r"Plasser\s*&\s*Theurer", "Plasser & Theurer", "AT"),
+        (r"Museo\s+Ferroviario\s+Piemontese", "Museo Ferroviario Piemontese", "IT"),
+        (r"Grosskraftwerk\s+Mannheim|\bGKM\b", "GKM", "DE"),
+        (r"Blue\s+Star\s+Train", "BST", "DE"),
+        (r"OCEANOGATE", "OCEANOGATE", "IT"),
+        (r"\bDB\b", "DB", "DE"),
+        # Placeholders (see wiki-privatbahn-livery-anker.md): fictional design beats Privatbahn.
+        (
+            r"fiktiv|Märklin[- ]Magazin|Märklin-Optik|Weihnachtsbahn|Raw Metal|Wacken|HARIBO|"
+            r"Einmalige\s+Gestaltung",
+            "Fiktiv",
+            "DE",
+        ),
+        (r"Privatbahn|Privatlok|Werkslok|Werkseisenbahn|Werksbahn", "Privatbahn", "DE"),
     ]
     for pat, op, cc in text_ops:
         if re.search(pat, description, re.I):
             return op, cc
+    if re.search(r"General\s+Motors|\bEMD\b|ALCO|American\s+Locomotive|\bShay\b|GG-1", description):
+        return "Unbekannt", "US"
+    if re.search(r"Klasse\s+A3|\bClass\s+A3\b", description):
+        return "Unbekannt", "GB"
     return "Unbekannt", "DE"
 
 
@@ -284,10 +395,80 @@ _GENERIC_PRODUCT_TYPE = re.compile(
     re.I,
 )
 
+_MULTI_UNIT = re.compile(
+    r"Triebzug|Triebwagenzug|Triebwagen-Zug|Hochgeschwindigkeits|Gliedertriebzug|\bICE\b|\bTGV\b",
+    re.I,
+)
+_RAILCAR = re.compile(r"Triebwagen|Schienenbus|Schienenomnibus|Steuerwagen|Regio\s*Shuttle", re.I)
+_GENERIC_RAILCAR_TYPE = re.compile(
+    r"^(?:[\w\-]+[\- ])?(?:Elektro|Diesel|Akku|Nahverkehrs-?|S-Bahn[- ]?)?"
+    r"(?:triebwagen|triebzug|triebwagenzug|schienenbus|schienenomnibus)\.?$",
+    re.I,
+)
+
+
+_CLASS_ONLY = re.compile(
+    r"^(?:(?:Schnellzug|Personenzug|Güterzug|Schwere|Schwerer?|Stromlinien|Rangier|Erz|Weihnachts|"
+    r"Schlepptender|Mehrzweck|Aussichts)[- ]?)*"
+    r"(?:Dampf|Diesel|Elektro|Tender|Schnellzug|Güterzug|Personenzug|Rangier|Erz|Zweikraft|Gelenk|Kleinlok)?"
+    r"-?(?:klein)?(?:lokomotive|lok|triebwagen|schnelltriebwagen|triebzug)"
+    r"(?:\s+mit\s+[\w\- ]*(?:tender|Steuerwagen))?$",
+    re.I,
+)
+
+
+def _is_generic_class_title(t: str) -> bool:
+    """Title is only a product class (no Baureihe/number), e.g. «Schnellzug-Dampflokomotive mit Schlepptender»."""
+    if re.fullmatch(r"mit\s+[\w\- ]*tender", t, re.I):
+        return True
+    return bool(t) and not re.search(r"\d", t) and bool(_CLASS_ONLY.fullmatch(t))
+
+
+_SPECIAL = re.compile(
+    r"Gleiskraftwagen|Unimog|Zweiwege|Stopfmaschine|Schienenstopf|Turmtriebwagen|Schneepflug|"
+    r"Schienenreinigung|Kranwagen|Bahndienst",
+    re.I,
+)
+
+
+def _categories(title: str, description: str) -> list[str]:
+    """Parent + sub categories. Lok sub-types (dampf/diesel/elektro) come from autofix."""
+    head = f"{title} {description.split('Modell:', 1)[0]}"
+    if _SPECIAL.search(title) or _SPECIAL.search(head[:160]):
+        return ["spezialfahrzeug"]
+    if _MULTI_UNIT.search(title) or _MULTI_UNIT.search(head[:200]):
+        base = "triebzug"
+    elif _RAILCAR.search(title):
+        base = "triebwagen"
+    else:
+        out = ["lokomotive"]
+        low = f"{title} {description.split('Modell:', 1)[0][:240]}".lower()
+        if re.search(r"dampf|tenderlok|schlepptender|wannentender", low):
+            out.append("dampflokomotive")
+        elif re.search(r"diesel|dieselhydraul|köf", low):
+            out.append("diesellokomotive")
+        elif re.search(r"elektro|elektrisch|e-lok", low):
+            out.append("elektrolokomotive")
+        return out
+    out = [base]
+    low = head.lower()
+    if re.search(r"akku", low):
+        out.append("akkutriebwagen")
+    elif re.search(r"diesel|vt\b|schienenbus|schienenomnibus|lint|regio\s*shuttle", low):
+        out.append("dieseltriebwagen")
+    elif re.search(r"elektr|\bet\b|\bice\b|\btgv\b|desiro|s-bahn", low):
+        out.append("elektrotriebwagen")
+    return out
+
 
 def _type_from_title_or_vorbild(title: str, description: str) -> str:
     t = swiss_ss((title or "").strip())
-    if t and not _GENERIC_PRODUCT_TYPE.fullmatch(t):
+    t_plain = t.rstrip(". ").strip()
+    if t and not (
+        _GENERIC_PRODUCT_TYPE.fullmatch(t_plain)
+        or _GENERIC_RAILCAR_TYPE.fullmatch(t_plain)
+        or _is_generic_class_title(t_plain)
+    ):
         return t
     vor = ""
     if description:
@@ -370,7 +551,9 @@ def parse_maerklin_pdp(
         if m:
             release = m.group(1)
 
-    amount = float(uvp_amount) if uvp_amount is not None else 0.0
+    uvp: Optional[dict[str, Any]] = (
+        {"amount": float(uvp_amount), "currency": "EUR"} if uvp_amount else None
+    )
     source: dict[str, Any] = {
         "url": canonical_url,
         "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
@@ -384,10 +567,10 @@ def parse_maerklin_pdp(
         "manufacturer": "Maerklin",
         "articleNumber": shop_article,
         "releaseDate": release,
-        "uvp": {"amount": amount, "currency": "EUR"},
+        "uvp": uvp,
         "model": model,
         "description": desc,
-        "categories": ["lokomotive"],
+        "categories": _categories(title, desc),
         "tags": tags,
         "source": source,
         "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

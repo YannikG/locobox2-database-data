@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36791",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36791",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EVB",
+    "type": "ER 20",
+    "number": "420 12",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ ER 20 der Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH (EVB). Dieselelektrische Bauart \"Hercules\".\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36791",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a8/23/a8235d67cf7c7aaa449e6f0561b3921c1434539425.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

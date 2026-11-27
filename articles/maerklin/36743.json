@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36743",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36743",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 96",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Serie 96 der Belgischen Staatsbahnen (SNCB/NMBS). Ehemalige Reihe T 12 der Königlich Preussischen Staatseisenbahnen (K.P.E.V.).\n\nModell: Mit Digital- Decoder und Spezialmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36743",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1b/8a/1b8acf03fb26a77789783b7e2a5797b71434539453.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

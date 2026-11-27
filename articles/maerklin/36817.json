@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36817",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36817",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Köf II",
+    "number": "1002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Köf II der Luxemburgischen Staatsbahnen ( CFL ). Ausführung mit offenem Führerhaus. Lok-Betriebsnummer 1002. Betriebszustand der 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx+ . 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Wenn Rangiergang aktiviert oder Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Separat angesetzte Metallgriffstangen. Wegen der offenen Ausführung der Köf II kaschiert eine Abdeckung die trotz des sehr eingeschränkten Bauraumes notwendigen eingebauten Elektronik-Bauteile. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36817",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/1c/521c0c57761f9ade8873603e3bebc1cc1726754404.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

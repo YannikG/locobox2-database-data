@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37071",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37071",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Reihe T 18",
+    "number": "1140",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Reihe T 18 der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spitzensignal digital zuschaltbar. 3 Achsen angetrieben. 2 Haftreifen . Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37071",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9e/dc/9edc8db16eea83a1f9009cc9d35f367c1434538788.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

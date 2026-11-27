@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37559",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37559",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Gruppe 460",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Gruppe 460 der Italienischen Staatsbahnen ( FS ). Ehemalige preussische G 8.1.\n\nModell: Mit Digital- Decoder und geregeltem Antrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 4 Treib- und Kuppelachsen angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 72270 nachrüstbar. Rauchsatzkontakt sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37559",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/40/5e403af38c5b77715519bffbb07ee7f71434538967.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

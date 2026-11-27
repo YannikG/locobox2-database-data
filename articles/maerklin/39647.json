@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39647",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39647",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "VSM",
+    "type": "BR 64",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 64 der Veluwsche Stoomtrein MIJ, Niederlande. Mit authentischen Gebrauchsspuren.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und umfangreichen Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform. 3 Achsen angetrieben, Haftreifen . Rauchsatz 72270 nachrüstbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Bremsschläuche und Kolbenstangenschutzrohre ansteckbar. Gesamtlänge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39647",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ce/16/ce164b7a95dee34f7caec82c11ed1f701434538966.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

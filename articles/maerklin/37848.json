@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37848",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37848",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Güterzug-Lokomotive Baureihe 50 der Deutschen Bundesbahn (DB). Ausführung mit Kastentender und Wagner-Windleitblechen. Betriebszustand um 1954.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator. Motor im Kessel. 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kurzkupplung in NEM -Aufnahme am Vorlaufgestell . Verstellbare Kurzkupplung zwischen Lokomotive und Tender. Länge über Puffer 26,3/26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37848",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8e/e7/8ee7a85822d59755a977e7a4bcc44d0f1434538724.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

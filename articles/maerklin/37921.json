@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37921",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37921",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 41",
+    "number": "091",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Baureihe 41 der Deutschen Bundesbahn (DB). Einheitslokomotive mit geschweisstem Tender und Witte-Windleitblechen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator mit vielen Funktionen. 4 Achsen angetrieben. Haftreifen . Rauchsatz 7226 nachrüstbar. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37921",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9e/ae/9eaed8be08874eb0075194eb6a784b5e1434538931.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

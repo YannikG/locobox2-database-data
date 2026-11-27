@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36653",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36653",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "ITL",
+    "type": "BR 285",
+    "number": "106-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Dieselelektrische Lokomotive Baureihe 285 der CB Rail, vermietet an die ITL Eisenbahngesellschaft mbH, Dresden. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder mfx , Spezialmotor und schaltbaren Geräuschfunktionen. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36653",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/9c/f69c7b8fab7b320c6efdd51eb6bbb2391434539272.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

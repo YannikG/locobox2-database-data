@@ -159,6 +159,8 @@ def _categories_for(raw_type: str, cats: list[str]) -> list[str]:
     out = list(cats) if cats else []
     if "lokomotive" not in out:
         out.insert(0, "lokomotive")
+    if "triebwagen" in out or "triebzug" in out:
+        return out  # Triebwagen/Triebzug: no Lok-Subtyp (dampf/diesel/elektro)
     low = raw_type.lower()
     add: Optional[str] = None
     if "dampf" in low:

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37690",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37690",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 363",
+    "number": "810-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Baureihe 363 der Deutschen Bahn AG ( DB AG ), Unternehmensbereich DB Cargo AG. Weisse IC-Farbgebung. Dieselhydraulischer Antrieb mit Blindwelle. Betriebsnummer 363 810-3. Betriebszustand um 2018.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Drei Achsen und Blindwelle angetrieben. Haftreifen . Telex -Kupplungen vorne und hinten jeweils separat digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Doppel-A-Licht schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37690",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e9/08/e90890309c05f0fe2220995612b16c621549522812.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

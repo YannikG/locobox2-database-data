@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37062",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37062",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 117",
+    "number": "107-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 183.0
+  },
+  "description": "Vorbild: Altbau-Elektrolokomotive Baureihe 117 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Betriebsnummer 117 107-3. Betriebszustand um 1975.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Haftreifen . Führerstände und Maschinenraum mit Inneneinrichtung. Griffstangen und weitere Details separat angesetzt. Detaillierte Ausführung der Dachausrüstung, mit Queranordnung der Tragisolatoren an den Stromabnehmern, sowie den liegenden Glockenisolatoren und Rillenisolatoren. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Ansteckbare Bremsschläuche, Heizleitungen und Blenden für Vorlaufachsen liegen separat bei. Länge über Puffer 18,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37062",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/2d/c12d9882fbc910274ee651f2dc6157be1434538691.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

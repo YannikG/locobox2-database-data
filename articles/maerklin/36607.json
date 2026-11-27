@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36607",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36607",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Railpool",
+    "type": "BR E 186",
+    "number": "181-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive Baureihe E 186 der Railpool GmbH München, vermietet an die SBB Cargo. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36607",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/29/ba297bd98e7d0491d59e80a6b17d2ca01434539056.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

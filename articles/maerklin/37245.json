@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37245",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37245",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 140",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 140 der Belgischen Staatsbahnen (SNCB/NMBS) in grüner Grundfarbgebung. Betriebszustand der Epoche III um 1960.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstände mit Inneneinrichtungen. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37245",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/8a/9a8a7dec6341b1ceedf54f5e9021d3271434539084.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39643",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39643",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 064",
+    "number": "305-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 064 der Deutschen Bundesbahn (DB). Betriebszustand um 1972. Ausführung mit geschweissten Wasserkästen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und umfangreichen Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform. 3 Achsen angetrieben, Haftreifen . Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen LED . Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39643",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/cd/4ecd01700a428b50638c5a2c786d76071434538982.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

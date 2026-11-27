@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36814",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36814",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 100",
+    "number": "801-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Dieselkleinlokomotive Köf II als BR 100 der Deutschen Reichsbahn (DR DDR). Ausführung mit geschlossenem Führerhaus, grossen DR-Lampen, zwei Druckluftbehältern und Ölbadluftfilter. Betriebsnummer 100 801-0. Betriebszustand ab 1976.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 1 und 2 jeweils separat digital schaltbar. Wenn Rangiergang aktiviert oder Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Separat angesetzte Metallgriffstangen. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36814",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/55/f4555e70d921b5ba10e8d83106e72d481490718155.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

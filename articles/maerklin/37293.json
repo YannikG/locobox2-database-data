@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37293",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37293",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 191",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 199.0
+  },
+  "description": "Vorbild: Baureihe 191 der Deutschen Bundesbahn (DB). Umbau-Ausführung mit kleinen Lampen und chromoxidgrüner Lackierung. Betriebszustand um 1970.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Lokpfiff. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Maschinenraum mit Inneneinrichtung. Angesetzte Griffstangen und Dachlaufbretter. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37293",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cd/4e/cd4eb85819d29771d44aa59c38bb319f1434539394.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

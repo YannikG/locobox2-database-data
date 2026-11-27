@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34638",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34638",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie 460",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Serie 460 der Schweizerischen Bundesbahnen ( SBB ).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtung. Angesetzte Signalhörner und Griffstangen.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34638",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/b6/45b6f938d104acb7b545fa085d8322fa1434539399.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

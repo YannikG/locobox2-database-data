@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39491",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39491",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "E 991",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 245.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Schlepptender E 991 der Dänischen Staatsbahnen (DSB). Ausführung im Betriebszustand um 2007.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Ein Rauchgenerator ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Das Notlicht an der Rauchkammertür ist separat digital schaltbar. Zusätzlich sind eine Führerstandbeleuchtung und das Feuerflackern in der Feuerbüchse separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Diverse Ansteckteile wie bspw. Aufstiegstritte, Bremsschläuche, Rohrleitungen und Schraubenkupplungsimitation liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39491",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/41/80/4180deeb52a38e0be556d74c63766f5a1645772430.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

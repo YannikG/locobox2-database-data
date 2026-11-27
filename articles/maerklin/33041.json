@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33041",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33041",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 80",
+    "number": "031",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Baureihe 80 der Deutschen Bundesbahn (DB).\n\nModell: Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Langsame Getriebeübersetzung. Viele angesetzte Details. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33041",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bd/db/bddb174cb8adf547e50c69f49f9e238e1434538745.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

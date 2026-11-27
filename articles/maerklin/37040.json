@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37040",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37040",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50",
+    "number": "4005",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 50.40 der Deutschen Bundesbahn (DB). Umbauversion mit Neubau-Hochleistungskessel und Franco-Crosti-Rauchgasvorwärmer, Witte-Windleitbleche, DB-Reflexglaslampen, auf dem Umlauf stehend angeordnete Sandkästen, seitlich angesetzter Schornstein und umgebauter Schlepptender 2´2´T 26 mit Kohlenkasten-Abdeckklappen. Betriebsnummer 50 4005. Betriebszustand um 1962.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226 am normalen Schornstein. Bei Fahrten kann der Schornstein mit einem Deckel verschlossen werden. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. An der Lok-Vorderseite und an der Tender-Rückseite kinematikgeführte Kurzkupplung mit NEM -Schacht. Kohlenkasten-Abdeckklappen sind mechanisch zu öffnen und zu schliessen. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37040",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4b/b3/4bb3b910050dd05b23e0ea14cf3289121434538668.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

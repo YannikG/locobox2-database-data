@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39582",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39582",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 151",
+    "number": "042-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 151 der Railion Deutschland AG (früher DB Cargo) in der Deutschen Bahn AG ( DB AG ). Aktuelle Ausführung.\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus, und Geräuschgenerator. 3 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorngeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Angesetzte Griffstangen aus Metall. Feine Dachstromabnehmer . Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39582",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/69/e8/69e8d230fc598a412a685769d96780491434539094.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

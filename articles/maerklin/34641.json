@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34641",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34641",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 365",
+    "number": "709-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Baureihe 365 der Deutschen Bahn AG ( DB AG ) mit Funkfernsteuerung.\n\nModell: Mit Delta-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Telex -Kupplungen zum ferngesteuerten Abkuppeln der Wagen an jeder beliebigen Stelle der Anlage. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34641",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/da/f5da43227b336d538c9704bb9da7451e1434539276.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

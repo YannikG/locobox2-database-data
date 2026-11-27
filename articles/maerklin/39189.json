@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39189",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39189",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 210",
+    "number": "001-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzweck-Diesellokomotive Baureihe 210 der Deutschen Bundesbahn (DB). Dieselhydraulische Lokomotive mit zusätzlicher Gasturbine. Einsatz für den hochwertigen Personenverkehr. Betriebszustand um 1971.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Zentral eingebauter Hochleistungsmotor in kompakter Bauform. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39189",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/41/d9/41d9c5153de1deff671f0d9276c4f9471434538881.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

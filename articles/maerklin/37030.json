@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37030",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37030",
+  "releaseDate": "2003",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 38",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Personenzuglokomotive Baureihe 38.10-40 der Deutschen Bundesbahn (DB). Ehemalige preussische P8. Ausführung mit 3 Domen, kleinen Witte-Windleitblechen und Kastentender .\n\nModell: Mit Digital- Decoder und geregeltem Antrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 3 Achsen angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 72270 nachrüstbar. Rauchsatzkontakt sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Beiliegend Lokführer-und Heizerfigur. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37030",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4b/35/4b35d202e92d21540c681ea692514d651434538665.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

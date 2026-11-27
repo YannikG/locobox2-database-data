@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-46118",
+  "manufacturer": "Maerklin",
+  "articleNumber": "46118",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schneepflug.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Henschel-Schneepflug Bauart \"Klima\" der Deutschen Bundesbahn (DB).\n\nModell: Führerstände mit freiem Durchblick. Seitliche Räumschilde klappbar. Aufstiegsleiter aus Metall. Separat angesetzte Luftkessel und Leitungen. Funktionsfähiger Arbeitsscheinwerfer, abschaltbar mit Schiebeschalter. Länge 11,7 cm.",
+  "categories": [
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/46118",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b9/9b/b99b59aaa598d0d955b1693c000d92f61434538761.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:52Z"
+}

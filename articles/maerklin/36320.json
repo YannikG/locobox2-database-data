@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36320",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36320",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 81",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 81 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder . 4 Achsen angetrieben. 2 Haftreifen . Relex -Kupplungen in NEM -Normschacht. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36320",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/10/1a/101a6379ce280888067f8872546170861434539307.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

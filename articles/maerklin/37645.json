@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37645",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37645",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Tegernsee-Bahn",
+    "type": "Dieselhydraulische Lokomotive",
+    "number": "14",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Lok Nr.14 der Tegernsee-Bahn, Typ G1204 der ehemaligen MaK.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal und Schlusslichter digital zuschaltbar. Spezialmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien LED . Bewegliche Gelenkwellen(ohne Funktion). Seitliche Gelände und Endbühnen aus Metall.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37645",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d0/b0/d0b0eb56a724baf20f05714727b1cb091434539462.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

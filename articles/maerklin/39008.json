@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39008",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39008",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": "138",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01 der Deutschen Bundesbahn (DB), mit Kohlen- Schlepptender 2´2´T34. Grosse Wagner-Windleitbleche, silberfarbene Kesselringe und Pufferteller-Warnanstrich. Betriebsnummer 01 138. Betriebszustand um 1950.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Raucheinsatz aus 7226 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Im Tender ist eine Mechanik zum Absenken der Kohlenbeladung eingebaut, um damit im Spielewelt -Modus auch optisch den Kohlenverbrauch im Tender darzustellen. Für nicht mfx+ fähige Digital-Zentralen kann das Senken und Heben der Kohlenbeladung über Sonderfunktion F8 ausgelöst werden. Kolbenstangenschutzrohre, Bremsschläuche, Lokführer-Figur und Heizer-Figur liegen bei. Befahrbarer Mindestradius 360 mm. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39008",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/aa/35/aa3566ac172bf33d388e7d429572c5931434539065.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

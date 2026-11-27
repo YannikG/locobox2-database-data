@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37135",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37135",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe D XII",
+    "number": "2222",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Nebenbahn-Lokomotive Reihe D XII der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Spätere Baureihe 73.\n\nModell: Mit Digital- Decoder und geregeltem Spezialmotor. 2 Achsen angetrieben. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37135",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b1/15/b115d147b0b566aad0cb269e0c0436901434538945.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

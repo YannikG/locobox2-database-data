@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37110",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37110",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 110.1",
+    "number": "116-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 110.1 der Deutschen Bundesbahn (DB). Mit drei Lampen am Lokende 1 und fünf Lampen am Lokende 2. Mit „Klatte“-Lüftergitter und einteilige, abgerundete Maschinenraumfenster. Ohne umlaufende Regenrinne. Ohne Schürzen und Pufferverkleidungen. Farbgebung in Ozeanblau/Elfenbein. Betriebsnummer 110 116-1. Betriebszustand 1982.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Vier Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden ( LED ). Stromabnehmer als Digitalfunktion separat heb- und senkbar. Angesetzte Griffstangen aus Metall. Lokführerfigur im Führerstand 1. Länge über Puffer ca. 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37110",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/84/2c/842c4c96fced21a07a84771ce65609911523599216.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

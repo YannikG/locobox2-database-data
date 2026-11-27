@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39271",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39271",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 217",
+    "number": "020-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 217 der Deutschen Bahn AG ( DB AG ). Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Verkehrsrote Farbgebung. Mit Abgashutzen. Betriebszustand 2003. Betriebsnummer 217 020-7.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle vier Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Mit Lokführerfigur im Führerstand 1. Angesetzte Abgashutzen. Angesetzte Griffstangen seitlich und stirnseitig aus Metall. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer ca. 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39271",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7e/2a/7e2a2cf785c50b2fb1563f198e1630e41505815970.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

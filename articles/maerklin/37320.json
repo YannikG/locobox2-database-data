@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37320",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37320",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "E-Lok Doppeltraktion .",
+    "number": null,
+    "livery": "Re 10/10",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 394.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Doppeltraktion Re 10/10 der Schweizerischen Bundesbahnen ( SBB ), bestehend aus jeweils einer Elektrolokomotive Re 6/6 mit Stadtwappen \"Bischofszell\" und einer Elektrolokomotive Re 4/4 II. Einsatz hauptsächlich am Gotthard für lange, schwere Güterzüge. Betriebszustand um 1980.\n\nModell: Beide Lokomotiven mit Digital Decoder mfx , Re 6/6 zusätzlich mit seriell schaltbaren Geräuschfunktionen. Beide Lokomotiven jeweils mit geregeltem Hochleistungsantrieb. Jeweils 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Angesetzte Aufstiegs-Metallgriffstangen. Kupplungen gegen detaillierte Frontschürze austauschbar. Befahrbarer Mindestradius 360 mm. Gesamtlänge über Puffer 39,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37320",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5b/7c/5b7c4e6db0b0aaf198c5880f0f5ea9281434539369.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

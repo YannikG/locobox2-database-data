@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37384",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37384",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 426000",
+    "number": "426086",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 204.0
+  },
+  "description": "Vorbild: Zweisystem-Lokomotive Serie 426000 der Französischen Staatsbahnen ( SNCF ). Zweisystem-Lokomotive \"SYBIC\". Achsfolge Bo´Bo´. Zugeteilt dem Bereich Güterverkehr (FRET).\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Hornsignal-Modul. 2 Achsen angetrieben. 4 Haftreifen . Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Hornsignal sowie Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Unterschiedliche Dachstromabnehmer . Eingesetzte Metallgriffstangen. Länge über Puffer 20,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37384",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/f2/daf2dd96d64e540c51a616724d18773f1434539000.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

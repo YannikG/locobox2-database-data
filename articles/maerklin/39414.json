@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39414",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39414",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 141",
+    "number": "258-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Baureihe 141 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Ausführung mit Doppellampen, Mehrfachdüsenlüfter als Hochleistungslüfter mit senkrechten Lamellen und umlaufender Regenrinne. Betriebsnummer 141 258-4. Betriebszustand um 1971/72.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39414",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/a5/2fa59b4dbb16c379690f4420e6d5f4f41434539017.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

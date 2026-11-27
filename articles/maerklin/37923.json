@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37923",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37923",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 41",
+    "number": "178",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 41 mit Schlepptender . Altbau-Ausführung der Deutschen Bundesbahn (DB), mit Witte-Windleitblechen, Altbau-Kessel, Einheitskastentender 2´2´T34, DB-Reflexglaslampen, einseitigem Indusi und Puffertellerwarnanstrich. Betriebsnummer 41 178. Betriebszustand um 1965.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37923",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/28/1e/281e131945bf68983fe66d0e6c1b40ab1466758372.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37860",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37860",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 86",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 158.0
+  },
+  "description": "Vorbild: Einheitslokomotive Baureihe 86 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Einsatz für Personenzüge.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Telex -Kupplungen zum ferngesteuerten Abkuppeln der Wagen an jeder beliebigen Stelle der Anlage. 4 Achsen angetrieben. 2 Haftreifen . Spitzensignal mit der Fahrtrichtung wechselnd, konventionell in Betrieb, digital schaltbar. Telex - Kupplung vorne und hinten sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Eingesetzte Griffstangen aus Metall. Länge über Puffer 15,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37860",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3d/d0/3dd017b064eaff24e7de5340d7bebb141434538680.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

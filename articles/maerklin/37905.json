@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37905",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37905",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 294",
+    "number": "880-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 294 der Deutschen Bahn AG ( DB AG ) mit Eigentumskennzeichen der Railion DB Logistics. Verkehrsrote Ausführung. Zusätzlich längsseitige Geländer und neue Lüfteranlage. Aktueller Betriebszustand ca. 2008/2009.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardanwellen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Zusätzliche Trittstufen unter den Führerstand für grössere Gleisradien ansteckbar. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37905",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/42/2d42210b0759afd4ba39dcfc0db386d01434539226.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

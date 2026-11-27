@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36432",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36432",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 232",
+    "number": "357-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 232 \"Ludmilla\" der Deutschen Bahn AG ( DB AG ), Unternehmensbereich DB Cargo. Purpurrote Grundfarbgebung. Lok-Betriebsnummer: 232 357-4. Betriebszustand Mitte der 1990er Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36432",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/c8/ddc8cd4af90ae3da44c45a946eb91fdd1524895245.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39302",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39302",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "ML 2200 ´C´C.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 233.0
+  },
+  "description": "Vorbild: Schwere Grossdiesel-Lokomotive ML 2200 ´C´C. Versuchsfahrzeug von Krauss-Maffei in blauer Ursprungsausführung. Betriebszustand um 1957.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Hochleistungsmotor in kompakter Bauform. 4 Achsen vom zentral eingebauten Motor über Kardan angetrieben. Haftreifen . Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle mit eingesetzten Bremsschläuchen. Kupplungen gegen geschlossene Frontschürzen und Kupplungshaken mit Schraubenimitationen austauschbar. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39302",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7c/e4/7ce4d64c0bc3b6bcd63d66010cecbac51434539422.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

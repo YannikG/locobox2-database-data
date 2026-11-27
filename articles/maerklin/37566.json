@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37566",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37566",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖGEG",
+    "type": ".",
+    "number": "13257",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Be 6/8 II „Krokodil“. Museumslokomotive der ÖGEG (Österreichische Gesellschaft für Eisenbahngeschichte). Bauart aus der ersten Bauserie des Schweizer Krokodils. Tannengrüne Grundfarbgebung im Betriebszustand Anfang der 1980er Jahre. Mit teilweise verschlossenen Führerstandstüren, mit Hülsenpuffer , ohne stirnseitige Übergangsbleche, breite Rangierertreppen, ohne Falschfahrsignal und mit Indusi -Magnet. Lok-Betriebsnummer 13257.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse , jeweils 1 Motor in jedem Treibgestell . Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Lieferung in repräsentativer Holzkassette. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37566",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/16/3716f10e58775423c70847a2c94d20511434538617.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

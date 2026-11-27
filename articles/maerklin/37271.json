@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37271",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37271",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 59",
+    "number": "5907",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Serie 59 der Belgischen Staatsbahnen (SNCB/NMBS). Spätere Ausführung der ursprünglichen Serie 201.\n\nModell: Mit geregeltem Hochleistungsantrieb, mfx - Decoder und Hornsignal-Modul. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und rote Schlusslichter konventionell in Betrieb, digital schaltbar. Vorbildgerecht unterschiedlich lange Überhänge. Eingesetzte Griffstangen und Lüftergitter. Länge über Puffer 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37271",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/65/20/6520a54c5562be4db111f5a0f5c3534e1434539174.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

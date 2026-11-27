@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37895",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37895",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": "690",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 44 der Deutschen Bundesbahn (DB). Ausführung mit Witte-Windleitblechen und authentischen Gebrauchsspuren.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregeltem Hochleistungsantrieb, 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrgestell. Telex - Kupplung am Tender. Rauchsatz liegt bei. Spitzensignal konventionell in Betrieb, digital schaltbar. Verstellbare Kurzkupplung zwischen Lok und Tender. Länge über Puffer 26,0/26,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37895",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d3/04/d304097c3d7ce53d265d645623c47c0e1434539155.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

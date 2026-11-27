@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37229",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37229",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 94",
+    "number": "2015",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe 94 der Deutschen Bundesbahn (DB). Ausführung in fiktiver schwarzer Farbgebung.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängiges Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Angesetzte Griffstangen. Das Modell wird in einer attraktiven Holzkassette ausgeliefert. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37229",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/e6/93e6ac98be38e2e9f34fa56c701b26141436268297.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

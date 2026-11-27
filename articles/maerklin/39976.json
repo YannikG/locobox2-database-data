@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39976",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39976",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "AKN",
+    "type": "AKN Schienenbusgarnitur VT 3.09 Ep. IV",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen VT 3.09 und Schienenbus - Steuerwagen VS 3.51 der Eisenbahn-Gesellschaft Altona-Kaltenkirchen-Neumünster (AKN). Die Schienenbusse der AKN, wurden zur selben Zeit in der Triebwagen- und Waggonfabrik Uerdingen hergestellt, wie der Bundesbahnklassiker VT 98, jedoch mit dem Unterschied, dass die AKN-Fahrzeuge nur über eine Motorenanlage, anstatt der beim DB VT 98 üblichen zwei Motoren verfügte. Betriebszustand Ende der 1980er-Jahre.\n\nModell: Motorwagen mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, zusammen mit der Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzenlicht am Motorwagen je Seite jeweils separat digital abschaltbar. Steuerwagen mit serienmässig eingebauter Innenbeleuchtung. Auf der Steuerseite fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit 2 roten Schlusslichtern. Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel -Verbindung mit Kulissenführung. Stromführende Kupplungsdeichsel und Bremsschläuche liegen bei. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Beide Fahrzeug-Einheiten mit freiem Durchblick bei den Führerständen und im Fahrgastraum. Länge über Puffer der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39976",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/11/fd114aeb5784a4d5eb1dec57588db77d1585119620.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

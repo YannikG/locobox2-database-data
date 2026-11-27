@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-3085",
+  "manufacturer": "Maerklin",
+  "articleNumber": "3085",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 003",
+    "number": "131-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Baureihe 003 der Deutschen Bundesbahn (DB).\n\nModell: Fahrtrichtungsumschalter. 3 Achsen angetrieben. 2 Haftreifen . Am Tender Kupplungshaken . Länge über Puffer 27,7 cm. Eingerichtet für Rauchsatz 7226.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/3085",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/55/05556c80f64c5c82f49400f9ab1c7fd91434538928.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

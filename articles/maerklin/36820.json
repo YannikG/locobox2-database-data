@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36820",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36820",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Kleinlokomotive Bauart Köf II.",
+    "number": "1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Bauart Köf II. Lok 1 der Gleisbau-Firma H. F. Wiebe GmbH & Co KG. Frühere Baureihe 323 der Deutschen Bundesbahn.\n\nModell: Mit Digital- Decoder , und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Metall-Griffstangen und weitere Details separat eingesetzt. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36820",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bf/5c/bf5c224c659df874c46bf7f1fba459f11434539316.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37418",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37418",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Rc 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Reihe Rc 3 der Schwedischen Staatsbahnen (SJ). Ausführung in oranger Grundfarbgebung mit weissem Streifen und neuerem SJ-Logo der 1970er Jahre. Rote Scherenstromabnehmer , Schneepflug in alter Bauart. Betriebszustand um 1975.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Vierlicht- Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37418",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/01/6b/016bb8295306a1aa1c795eb2154acb441434539111.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37258",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37258",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "XDR 10103",
+    "number": null,
+    "livery": "Kittel",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen XDR 10103, Bauart \"Kittel\" der Französischen Staatsbahnen ( SNCF ). Flaschengrüne Grundfarbgebung. Betriebszustand um 1949/1950.\n\nModell: Mit Digital- Decoder mfx . Geregelter Miniaturmotor. Fahrgestell aus Metalldruckguss. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kupplungsaufnahme nach NEM . Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand , Nachbildung des Kessels. Länge über Puffer 13 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37258",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/77/f677fe631b4484919aa1c12c116788191434539347.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

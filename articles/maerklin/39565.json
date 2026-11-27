@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39565",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39565",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 III",
+    "number": "14303",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Ce 6/8 III der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Dunkelbraune Grundfarbgebung. Bauart mit Schrägstangenantrieb. Betriebszustand um 1930.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 3 Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurvengängiges Gelenkfahrwerk. 3-teiliges Metallgehäuse mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung. Länge über Puffer 23 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39565",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/ab/05ab714ab3b1e76c7f257350e4c235bc1434538887.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

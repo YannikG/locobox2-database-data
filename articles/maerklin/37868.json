@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37868",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37868",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RBe 2/4",
+    "number": "607",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 257.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen Serie RBe 2/4 \"Roter Pfeil\", 2. Klasse der Schweizerischen Bundesbahnen ( SBB ), in roter Grundfarbgebung. Betriebsnummer 607. Betriebszustand um 1957.\n\nModell: Mit mfx - Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell . 2 Achsen angetrieben. Haftreifen . Schweizer Lichtwechsel , 3-Licht- Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlusslicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Über die Funktionstasten können zusätzlich verschiedene Umgebungsgeräusche ausgelöst werden. Scherenstromabnehmer mit schmalem Schleifstück. Gesamtlänge über Puffer 25,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37868",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/42/8f42ffd6743527effbf80f458296d0231452604203.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

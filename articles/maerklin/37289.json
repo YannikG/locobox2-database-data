@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37289",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37289",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "Dampfspeicherlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Werkseisenbahn Rangierlokomotive .\n\nModell: In MHI Sonderfarbgebung. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Mit geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Der Kessel ist seidenmatt verchromt. Kessel-Aufstiegsleiter aus Metall. Zahlreiche separat angesetzte Details. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37289",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/76/99/76999272954aad99fccfc0c8a9fa83511545375614.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

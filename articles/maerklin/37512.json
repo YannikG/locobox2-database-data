@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37512",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37512",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II+III"
+  },
+  "description": "Vorbild: Zwei Elektrolokomotiven Serie Ae 3/6 II der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Eine Maschine in Epoche -II-, die andere in Epoche -III-Ausführung.\n\nModell: Beide Lokomotiven mit fx - Decoder und geregeltem Hochleistungsantrieb. Alle 3 Kuppelachsen sowie beide Blindwellen angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselnder Schweizer Lichtwechsel ( Dreilicht-Spitzensignal / weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Direktsteuerung (Anfahrbeschleunigung und Bremsverzögerung) mit Control Unit oder Systems schaltbar. Maschine 1 in Epoche -II-Ausführung mit brauner Ursprungs-Farbgebung, nachgebildeten frontseitigen Führerstandstüren und eingesetzten Übergangs-Griffstangen. Maschine 2 in Epoche -III-Ausführung in tannengrünem Betriebszustand und verschlossenen Fronttüren ohne Übergangs-Griffstangen. Länge jeder Lokomotive über Puffer jeweils 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37512",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c4/5c/c45cdfeb514cad8f72ba36b441e9cae51434539375.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

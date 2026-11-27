@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36241",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36241",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "055",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Mehrzweck-Lokomotive Baureihe 24 der Deutschen Bundesbahn (DB). Einheitslokomotive mit Witte-Windleitblechen.\n\nModell: Mit Digital- Decoder und Spezialmotor. Kessel aus Metall. Alle Achsen angetrieben. Haftreifen . Kurzkupplungen in NEM -Normschacht. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Lokomotive mit Rauchsatzkontakt: zum nachträglichen Einbau eines Rauchsatzes (72270) vorbereitet. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36241",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/7c/ba7c01d44c5b62e3dc0cb650efbf15671434539156.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

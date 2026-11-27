@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39441",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39441",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR E 44",
+    "number": "044",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe E 44 der Deutschen Reichsbahn Gesellschaft ( DRG ). Ausführung im Ablieferungszustand.\n\nModell: Mit Digital- Decoder mfx und zentral eingebautem, geregelten Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Pufferbohlen vorbildgerecht mit den Drehgestellen ausschwenkend. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39441",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/70/347076060ed431ae8176b516ab6b63b61434539437.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

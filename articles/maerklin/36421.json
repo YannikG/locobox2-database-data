@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36421",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36421",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 132",
+    "number": "022-5",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 132 \"Ludmilla\" der Deutschen Reichsbahn (DR).\n\nModell: Metallausführung. Mit Digital- Decoder und Spezialmotor mit Schwungmasse , 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36421",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6a/23/6a23ed5115785af441767eb5a8db05351434539325.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

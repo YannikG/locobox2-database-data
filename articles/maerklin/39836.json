@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39836",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39836",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise",
+    "number": "1216 238-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise- und Güterverkehr. Reihe 1216 der Österreichischen Bundesbahnen ( ÖBB ).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen LED . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39836",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/56/ac56fe11b6d9ea2797aef1c66c429e0a1434539060.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

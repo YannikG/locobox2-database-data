@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36331",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36331",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ee 3/3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Rangierlokomotive Serie Ee 3/3 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Bauserie ab 1932.\n\nModell: Mit Digital- Decoder mfx und Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Beleuchtung mit wartungsfreien Leuchtdioden in die Endbühnen integriert. Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und vorbildgetreue Kupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36331",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/79/7b796fc018ebdfdd5a352a32dbcbb4811434539113.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39890",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39890",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 189",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 189 der Deutschen Bahn AG/Railion ( DB AG ). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Einsatz: Grenzüberschreitende schnelle Güterzüge.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben, Haftreifen . Spitzensignal mit wartungsfreien, warmweissen Leuchtdioden, Schlusslichter mit wartungsfreien, roten Leuchtdioden, konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39890",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/35/a3356eb9a34845a10fe11e6b7f40dfd71434539438.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

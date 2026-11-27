@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37347",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37347",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 II (Serie 420)",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 II (Serie 420) der Schweizerischen Bundesbahnen ( SBB ). Umbauversion in roter Grundfarbgebung. Aktueller Betriebszustand für den Züricher S-Bahn-Verkehr.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes als rotes Nothalt- Signal . Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und frontal aus Metall. Darstellung der längsseitigen Klimaanlage. Kupplungen gegen beiliegende Frontschürzen austauschbar. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37347",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/84/7a/847aaccb266e91b31518cd2c8d08b4411434538679.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

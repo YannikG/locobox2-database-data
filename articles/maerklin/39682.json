@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39682",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39682",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1018",
+    "number": "046",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Reihe 1018.101 der Österreichischen Bundesbahnen ( ÖBB ). Umbaulok entstanden zwischen 1950 und 1952 aus den ehemaligen, kriegsbeschädigten Lokomotiven E 18 046 und E 18 206.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Führerstände und Maschinenraum mit Inneneinrichtung. Metall-Griffstangen und weitere Details separat eingesetzt. Fein detailliertes Fahrwerk, mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,5 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39682",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fe/2d/fe2d0c315d1fd1747237a766830898a11434538877.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37615",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37615",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 260",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive Baureihe 260 der Deutschen Bundesbahn (DB). Dieselhydraulischer Antrieb mit Blindwelle.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Telex -Kupplungen. 3 Achsen und Blindwelle angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37615",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/9f/6c9f8f91e7dd8ccd7d61950b87718bdf1434539124.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

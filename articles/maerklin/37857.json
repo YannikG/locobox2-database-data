@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37857",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37857",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Raildox",
+    "type": "BR 185.4",
+    "number": "409-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.4 der Firma Raildox GmbH & Co. KG, Erfurt. Zweisystemlokomotive aus dem TRAXX-Typenprogramm. Loknummer 185 409-0. Betriebszustand 2015.\n\nModell: Digital- Decoder mfx+ mit umfangreichen Geräuschfunktionen. Geräusch Puffer an Puffer (Betriebsgeräusch 1) und Geräusch ankuppeln und abkuppeln (Betriebsgeräusch 2). Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Rangiergang an, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37857",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/e2/44e24c7ed62104be342cf3df1dff05221456828551.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

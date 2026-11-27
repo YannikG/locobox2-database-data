@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37312",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37312",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 184",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Viersystem-Elektrolokomotive Baureihe 184 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. 4 Dachstromabnehmer in unterschiedlicher Bauart. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37312",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/70/0d/700d763d11b92a78754cd7bfa642d4181434538885.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

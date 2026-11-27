@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39253",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39253",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "mit Schlepptender Serie C 5/6",
+    "number": "2969",
+    "livery": "Elefant",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV+V",
+    "luepMm": 223.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Gotthard-Dampflokomotive Serie C 5/6 \"Elefant\" der Schweizerischen Bundesbahnen ( SBB ), mit 3-achsigem Kohlen- Schlepptender , für den Einsatz im Güter- und Schnellzugverkehr auf der Gotthard-Strecke. Ausführung im Zustand der Denkmallokomotive vor den SLM-Hallen in Winterthur. Lok-Betriebsnummer 2969. Betriebszustand Epoche IV/V.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok und 2 Lichter am Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. An der Vorderseite der Lok und am Tender Kurzkupplung mit NEM -Schacht, am Tender kinematikgeführt. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39253",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c8/28/c828b0ee547c2f7964e94e5d2e944d041730735405.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

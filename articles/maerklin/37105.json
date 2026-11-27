@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37105",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37105",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": "1054",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 281.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.10 der Deutschen Bundesbahn (DB) mit Ölbefeuerung und Witte-Windleitblechen. Betriebszustand um 1966/67.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Triebwerksbeleuchtung zusätzlich digital schaltbar. Am Tender Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 28,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37105",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/70/d4/70d4e9f08d26b8472ded7f30771034041467114212.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

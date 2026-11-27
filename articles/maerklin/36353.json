@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36353",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36353",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "PTT",
+    "type": "Ee 3/3",
+    "number": "1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 109.0
+  },
+  "description": "Vorbild: Elektro- Rangierlokomotive Serie Ee 3/3 \"Halbschuh\" der ehemaligen Schweizerischen Post PTT. Oxidrote Ausführung. Bauart aus der ersten Bauserie 1927/28, mit Endführerhaus und Rangierbühne vorne. Betriebszustand der Epoche IV.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb als Miniaturmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 weisse Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung digital umschaltbar auf Schweizer Lichtwechsel , mit einem weissen Schlusslicht sowie bei Solofahrt auf ein rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Fein detaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Detaillierte Dachausrüstung mit Scherenstromabnehmer . Länge über Puffer 10,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36353",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c4/06/c406b5db030991663e6c69e5b657fcbb1557208817.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

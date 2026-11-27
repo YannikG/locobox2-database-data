@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37193",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37193",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 17",
+    "number": "099",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 240.0
+  },
+  "description": "Vorbild: Baureihe 17.0 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Frühere preussische S 10.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Antrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Länge über Puffer 24,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37193",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/d4/5ed43c47f7fd9ca680d31c15d8b690c51452600996.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

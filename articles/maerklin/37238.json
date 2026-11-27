@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37238",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37238",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 25",
+    "number": "2551",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 25.5 der Belgischen Staatsbahnen (NMBS/SNCB). Ausführung mit fünf Stirnlampen und nur einem Dachstromabnehmer .\n\nModell: Umbauversion mit vorbildgerechter Ausführung der Seitenlüfter, entsprechende Dachgestaltung und Traktionsanzeige. Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Zusatzfunktionen. Spitzensignal konventionell in Betrieb, digital schaltbar. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Führerstände mit Inneneinrichtungen. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37238",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/40/e7400d1f06a4469f87cbadd9a09d014a1434539195.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

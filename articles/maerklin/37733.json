@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37733",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37733",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BRB",
+    "type": "BR 648",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen BR 648.2 der Bayerischen Regiobahn in Doppeltraktion. Einsatz Augsburg - Ingolstadt.\n\nModell: Angetriebene Einheit und unmotorisierte Dummy-Einheit. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen LED . Spitzensignal wechselt über beide Fahrzeuge mit der Fahrtrichtung. Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. Verbindung der Fahrzeuge mit 5-poliger Kupplung . Gesamtlänge ca. 96,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37733",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/9a/e79aaeed23a394fdcc8f0adfb49a2ed81434538849.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

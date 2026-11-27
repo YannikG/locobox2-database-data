@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37196",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37196",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR E 91",
+    "number": "104",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 199.0
+  },
+  "description": "Vorbild: Baureihe E 91.9 der Deutschen Reichsbahn-Gesellschaft ( DRG ).\n\nModell: Mit mfx - Decoder , geregelter Hochleistungsantrieb und Lokpfiff-Modul. 3 Achsen angetrieben. Haftreifen . Maschinenraum mit Inneneinrichtung. Angesetzte Griffstangen und Dachlaufbretter. In der Ausführung des Ablieferungszustandes mit Führerstandsfenster-Blendschutz, grossen Laternen, grauer DRG -Farbgebung und Altbau-Stromabnehmern. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37196",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/69/4269872cc549f0a0d8b67c66f6ae54091434539139.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

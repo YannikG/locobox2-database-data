@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38138",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38138",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 389.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "CFV3V",
+    "type": "Wismarer Schienenbus CFV3V",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Dieseltriebwagen Cvt-34 „Wismarer Schienenbus“ (Typ \"Hannover A\"), der Chemin de Fer à Vapeur des Trois Vallées (CFV3V), Mariembourg, Belgien. Farbe Purpurrot/Reinweiss, Epoche V/VI (Zustand von 1978 bis 2014).\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 jeweils separat digital abschaltbar. Spitzenlicht oben separat digital schaltbar. Serienmässig eingebaute Innenbeleuchtung digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Angesetzte Griffstangen aus Metall. Länge über Stossbügel ca. 13,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38138",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/76/25/7625e94ba46978fd7fa2ba586aab9f601764874805.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37972",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37972",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Oldtimer-Lokomotive mit Schlepptender",
+    "number": "7462",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Baureihe 34 der ehemaligen Deutschen Reichsbahn ( DRG ). Frühere bayerische Reihe B VI.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal und Strom führende Kupplung digital schaltbar. Hochleistungsmotor mit Glockenanker. 2 Achsen angetrieben. 4 Haftreifen . Detailliertes Fahrwerk mit Aussenrahmen und Stephenson- Steuerung . Feste Kurzkupplung zwischen Lokomotive und Tender. Norm-Kupplungsaufnahme am Tender mit elektrischem Anschluss zur Wagenbeleuchtung.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37972",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/54/4f/544faba2a5798e20a38705b4b94548f51434538614.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

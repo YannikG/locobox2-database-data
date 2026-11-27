@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39572",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39572",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 103",
+    "number": "201-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe 103.1 der Deutschen Bahn AG ( DB AG ). Achsfolge Co´Co´. Serienmaschine mit doppelten Lüfterreihen. Im Epoche -V-Betriebszustand zu Beginn der 1990er-Jahre mit Einholm-Pantographen und orientroter Farbgebung.\n\nModell: C-Sinus-Hochleistungsantrieb mit mfx - Decoder und Hornsignal-Geräuschgenerator. 3 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal sowie zwei Schlusslichter konventionell in Betrieb, digital schaltbar. Maschinenraum-Beleuchtung, Hornsignal sowie Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39572",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/02/3b/023b927057db32ce320eecec4039a0361434538972.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

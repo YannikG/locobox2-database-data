@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37406",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37406",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 139",
+    "number": "315-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe 139 der Deutschen Bundesbahn (DB). Betriebszustand in Epoche IV.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Länge über Puffer ca. 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37406",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6a/58/6a58c712a24cf018854591ae98e5475d1467120111.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37667",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37667",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe MY 1100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 205.0
+  },
+  "description": "Vorbild: Reihe MY 1100 der Dänischen Staatsbahnen (DSB). Dieselelektrische NOHAB-Mehrzweckmaschine in neuer dunkelblauer Güterverkehr-Farbgebung mit gelber Bedruckung \"DSB gods\". Im Betriebszustand um 2004.\n\nModell: Geregelter Hochleistungsantrieb mit mfx - Decoder und Sound- Generator . 3 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Motorgeräusch, Pfeifsignal sowie Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Die zwei weiteren Soundfunktionen Druckluftzischen und Bremsenquietschen sind mit Systems schaltbar. Länge über Puffer 20,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37667",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ca/ff/caffdfcc3f0bb6663ba3a201b38423871434538813.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

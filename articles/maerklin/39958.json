@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39958",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39958",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 724",
+    "number": "003-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Bahndienstfahrzeug als Indusi -Messwagen Baureihe 724 (ehemaliger VT 95.9) der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Beheimatet bei der Signalwerkstätte Wuppertal. Triebwagen-Betriebsnummer 724 003-9. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Inneneinrichtung mit einigen Figuren bestückt. Zusätzliche Triebwagenführerfigur im Führerstand . Länge über Puffer 16 cm.",
+  "categories": [
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39958",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/a0/52a072dc28e65caecfbe648a3df3ee251637305251.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

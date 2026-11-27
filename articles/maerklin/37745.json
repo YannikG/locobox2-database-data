@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37745",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37745",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 218 der Deutschen Bundesbahn (DB), Zustand um 1990. Dieselhydraulische Lokomotive mit elektrischer Zugheizung.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. Zentral eingebauter Motor in kompakter Bauform. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37745",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/d5/c3d5bb61c9b11140d9f89ef63306904f1434539321.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

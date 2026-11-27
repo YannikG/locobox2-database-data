@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39846",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39846",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "91 80 6182 560-3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive 91 80 6182 560-3 der Mitsui Rail Capital Europe (MRCE) vermietet an TX Logistik (TXL), Baujahr ab 2000.\n\nModell: Mit neuem Digital- Decoder mfx+ , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39846",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a1/23/a123a5b79af2375aa68e120e41e9981e1440415405.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

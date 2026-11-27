@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36864",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36864",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 688",
+    "number": "01",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Baureihe 688 der Österreichischen Bundesbahnen ( ÖBB ). Betriebszustand der Epoche III um 1953.\n\nModell: Mit Digital- Decoder mfx . Miniaturmotor im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Innenkessel aus Metall. Zahlreiche angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Länge über Puffer 8 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36864",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/b0/39b0f0a43b3e4a07b58c2d239559acaf1452600603.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

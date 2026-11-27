@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33042",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33042",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Gemäss Baureihe 80. Gestaltung Märklin-Magazin.\n\nModell: Gehäuse im typischen MM-Blau mit Beschriftung ´Märklin Magazin 2000´ und ´MM´ (röm. 2000). Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33042",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/81/20/8120e1fa44a0755e68c8e9c3f4cfd96e1434539398.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

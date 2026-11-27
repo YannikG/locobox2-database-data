@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34431",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34431",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 143",
+    "number": "007-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Baureihe 143 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtung. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34431",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f0/a8/f0a89100ca2c4e7d658717c0d446ba971434539395.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37399",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37399",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Werbelokomotive 101 016 in der Gestaltung \"60 Jahre UNICEF\".\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Bewegliche Imitation der Drehgestell -Anlenkung. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37399",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/b7/e2b786e29bb8335ce69a2479327ec12b1434538814.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

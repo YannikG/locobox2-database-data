@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39110",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39110",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 10 der Deutschen Bundesbahn (DB). Schnellzuglokomotive in stahlblauer Grundfarbgebung. Mit umlaufender Regenrinne, Schweiger-Lüftern mit waagerechten Lamellen und 3 Stirnlampen. Lieferzustand ca. 1958.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden bzw. roten Leuchtdioden konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39110",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c8/97/c897510edd0b1b3f2a21ec64e17200fe1434539100.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

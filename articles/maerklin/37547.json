@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37547",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37547",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "TEE-Elektro-Triebwagen-Zug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Viersystem-Elektro-Triebwagenzug Serie RAe, 1. Klasse, der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). 6-teilige Einheit mit 1 Steuerwagen , 1 Grossraumwagen, 1 Motorwagen mit Küche, 1 Barwagen mit Grossraum-Abteil, 1 Grossraumwagen und 1 Steuerwagen . Purpurrot/beige TEE -Grundfarbgebung als RAe TEE 1052 \"Cisalpin\". Einsatz im internationalen TEE -Verkehr von Milano über Domodossola - Simplon-Brig - Lausanne - Vallorbe - Dijon nach Paris. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen im Motorwagen untergebracht. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung, separat digital schaltbar. Führerstandsbeleuchtung am Führerstand 1 und 2 jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Vier verschiedene Dachstromabnehmer in versetzter Anordnung, detaillierte Dachausrüstung. Angesetzte Griffstangen aus Metall. Führerstände und Fahrgasträume mit Inneneinrichtung. Kurzgekuppelte mechanische und elektrische Spezialverbindung zwischen den Wageneinheiten. Fahrstrom- Schleifer in den beiden Steuerwagen , automatische Umschaltung auf den jeweils vorderen Schleifer . An den Enden Darstellung der Scharfenberg- Kupplung (ohne Funktion). Gleisbogen befahrbar ab Mindestradius 360 mm. Länge des Zuges ca. 161 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37547",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6a/21/6a213fe4e7f327b9a007808089f22ad81467120956.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

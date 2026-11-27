@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37268",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37268",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1600",
+    "number": "1601",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 1600 der Niederländischen Eisenbahnen ( NS ), Geschäftsbereich Railion. Betriebsnummer 1601 mit dem Wappen der Stadt „Amsterdam“.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37268",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d3/03/d303622896fc8adc8b702b004a2d3dca1434539097.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

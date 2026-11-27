@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37854",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37854",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 50",
+    "number": "053",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe E 50 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Grösste Bauart der Einheits-Elektrolokomotiven aus dem Neubauprogramm der 1950er-Jahre. Mit Doppellampen, Mehrfachdüsenlüfter und umlaufender Regenrinne. Betriebszustand um 1960.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und frontal aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37854",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/12/a8/12a8b49f030c87d91012d0fb8f5f667b1460131017.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

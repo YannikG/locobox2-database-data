@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36619",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36619",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "GTS Rail",
+    "type": "BR E 483",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe E 483 der GTS Rail, Italien. Betriebszustand um 2011.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36619",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/59/d9/59d973c9e093c14d3877b587660eec291434539399.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

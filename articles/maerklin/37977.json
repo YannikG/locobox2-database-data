@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37977",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37977",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe B VI",
+    "number": "1851",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung mit Kohlefeuerung. Namensschild \"Sauerlach\".\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. Hochleistungsmotor mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Kurzkupplung zwischen Lok und Tender. Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,3 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37977",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4f/c0/4fc01613db9e7ecdca245d34dc0fa9c51434538915.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39581",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39581",
+  "releaseDate": "2002",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 151",
+    "number": "022-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Baureihe 151 der Deutschen Bundesbahn (DB). Schwere Güterzuglokomotive in Ursprungsausführung.\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus und Geräuschgenerator. 3 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorngeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2002"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39581",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/40/1d40b3f6fd40e785bf80fc453b8a6a381434539470.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:22Z"
+}

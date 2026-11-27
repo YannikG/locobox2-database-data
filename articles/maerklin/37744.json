@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37744",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37744",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 182.0
+  },
+  "description": "Vorbild: Baureihe 216 der Deutschen Bahn AG, DB Cargo ( DB AG ).\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschmodul. 2 Achsen angetrieben. 4 Haftreifen . Rahmen aus Metall. Spitzensignal konventionell in Betrieb, digital schaltbar. Geräuschmodul Druckluftpfeife mit zwei verschiedenen Geräuschen sowie Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Länge über Puffer 18,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37744",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/c1/50c1702f3544cd74b7a85c1cf417c42b1434538895.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

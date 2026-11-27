@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39191",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39191",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 119",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Baureihe 119 der Deutschen Bundesbahn (DB) in blauer Farbgebung mit Altbaulaternen. Betriebszustand Anfang der 1970er-Jahre.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Elementen. In Epoche -IV-Ausführung mit grossen Altbau-Laternen und Altbau-Stromabnehmern. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39191",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/db/da/dbda1f5d0b910e4d955d06af1dc22ed61434538966.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

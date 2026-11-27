@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37653",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37653",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 260",
+    "number": "013",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive Serie 260 der Belgischen Staatsbahnen (SNCB/NMBS), Ursprungsausführung der späteren Serie 80.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Telex -Kupplungen. 3 Achsen und Blindwelle angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Telex -Kupplungen vorne und hinten unabhängig sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Angesetzte Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37653",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7c/31/7c31c23e18566e0ebd5d9bf876ee2c4e1434538631.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

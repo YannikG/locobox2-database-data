@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37360",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37360",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 6/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Ae 6/6 als Ae 610 der Schweizerischen Bundesbahnen ( SBB ). Ausführung in feuerrot/ultramarinblauer Grundfarbgebung der SBB Cargo, mit Städtewappen \"Landquart\". Umbauversion mit geteilten Haltegriffstangen unterhalb der Führerstandsfenster und zusätzlicher stirnseitig schräger Griffstange. Neue, unten angeschlagene Scheibenwischer an den beiden Führerständen. Runde Stirnlampen, eckige Pufferteller. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen aus Metall. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37360",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/02/88/028897816100e2c9eeeafc317733f9591434538968.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

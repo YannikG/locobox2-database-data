@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37269",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37269",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1700",
+    "number": "1773",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 1700 der Niederländischen Eisenbahnen ( NS ) in gelber Grundfarbgebung. Lok-Betriebsnummer 1773 mit dem Wappen „ENKHUIZEN“. Betriebszustand 1990er Jahre.\n\nModell: Mit Digital- Decoder mfx und Mehrton-Signalhorn. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Imitation der automatischen Kupplung liegt bei und kann auf einer Lok-Seite gegen die Kurzkupplung getauscht werden. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37269",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/62/9062ea19e05c4e301bf19bb5cb84cc111434538768.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

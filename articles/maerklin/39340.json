@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39340",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39340",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": "150-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 152 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb C-Sinus, Lichtfunktionen und ferngesteuerten Dachstromabnehmern. 2 Achsen angetrieben. Haftreifen . Beleuchtungen mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Angesetzte Gleisräumer. Räder mit Darstellung der Bremsscheiben. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39340",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/16/d1160ce4c16662ce7f02338405b610c71434539233.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:22Z"
+}

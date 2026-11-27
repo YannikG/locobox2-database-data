@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39706",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39706",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Dieseltriebzug RAm TEE",
+    "number": null,
+    "livery": "EDELWEISS",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Dieseltriebzug RAm TEE der Schweizerischen Bundesbahnen ( SBB ) als TEE \"EDELWEISS\", mit dem Zuglauf Amsterdam - Bruxelles Nord - Luxembourg - Strasbourg - Basel - Zürich. 4-teilige Garnitur in purpurrot/beiger Grundfarbgebung. 1 Motorwagen , 1 Abteilwagen, 1 Speisewagen, 1 Grossraumwagen mit Steuerabteil. Dieseltriebzug-Nummer 501. Betriebszustand Ende der 1950er Jahre.\n\nModell: 4-teilige Einheit. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen , zentral eingebaut. Jeweils 2 von 3 Treibradsätzen in den beiden 3-achsigen Drehgestellen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung im Abteil-, Speise- und Grossraumwagen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter sowie Innenbeleuchtung, konventionell in Betrieb, digital schaltbar. Innenbeleuchtung im Gepäckabteil des Motorwagens separat digital schaltbar. Maschinenraum-Beleuchtung im Motorwagen , Führerstandsbeleuchtung im Motorwagen und im Steuerabteil des Grossraumwagens und Tischlampen im Speisewagen jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kulissengeführte mehrpolige stromführende Spezialkupplung zwischen den Triebzug -Einheiten für eine durchgehende elektrische Verbindung des ganzen Zuges. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Motorwagen bzw. Grossraumwagen mit Steuerabteil. Viele angesetzte Details. An beiden Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Befahrbarer Mindestradius 437,5 mm. Das Befahren des Radius 1 ist ohne Beachtung des Lichtraum-Profils ebenfalls möglich. Gesamtlänge des Triebzuges über Kupplung ca. 113 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39706",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8d/a5/8da57d983d65522b8797feeaafa461c41576306827.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37136",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37136",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Eb 3/5",
+    "number": "5812",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Serie Eb 3/5 der Schweizerischen Bundesbahnen ( SBB ). \"Habersack\" im Betriebszustand Epoche III Ende der 1950er Jahre.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Schienenräumer . Eingesetzte Griffstangen und Leitungen aus Metall. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37136",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bc/6d/bc6df57b6dc3d568d07626edd06600221434538768.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

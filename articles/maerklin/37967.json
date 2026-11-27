@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37967",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37967",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "GVB",
+    "type": "Gt 2x 4/4",
+    "number": "5767",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Gt 2x 4/4 der Gruppenverwaltung Bayern (GVB). Spätere BR 96. Version nach dem Umbau von 1927, aber noch in der grün schwarzen Farbgebung. Einsatz: Güterzüge und Schiebebetrieb auf Steilstrecken.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37967",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/72/8872a6423e357389692a5572dd85eac91434539195.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

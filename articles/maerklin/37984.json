@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37984",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37984",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Klasse 800",
+    "number": "844",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schwere US-Dampflokomotive Klasse 800 der Union Pacific Railroad (UP), mit Öl-Tender. Lok-Betriebsnummer 844. Betriebszustand ab 2016.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Unterschiedliche Betriebsgeräusche wie Öl und Wasser nachfüllen oder Geräusche vom Öffnen und Schliessen von Schiebefenstern und Lüftungsklappen am Führerstand zusätzlich digital schaltbar. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Boxpok -Räder. Stirnlampe an Lok und Tender, Führerstandsbeleuchtung sowie Nummerntafeln/Markerlights mit wartungsfreien warmweissen Leuchtdioden ( LED ), digital schaltbar. Rauchgenerator mit dynamischem Rauchausstoss serienmässig eingebaut. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zwei leistungsfähige Lautsprecher im Tender. Stirnseitig Kupplungsimitation im Normschacht am Schienenräumer einsteckbar. Kurzkupplung mit Kinematik zwischen Lok und Tender. Angesetzte Griffstangen aus Metall. Viele weitere angesetzte Details. Länge über Kupplungen ca. 41 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37984",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/ef/37eff08070172045c49447e0545de3ef1627538447.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

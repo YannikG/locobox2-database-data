@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36339",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36339",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Reihe El 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro- Rangierlokomotive Reihe El 10 der Norwegischen Staatsbahnen (NSB) in grüner Grundfarbgebung.\n\nModell: Mit Digital- Decoder mfx . Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Zweilicht-Spitzensignal vorne und hinten, konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36339",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/71/51/7151ff0a4ee81fa8d2fcf9f0aa5abccf1434539016.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37324",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37324",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 6/6 f",
+    "number": "11675",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 6/6 f der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Ausführung in grüner Grundfarbgebung. Lok-Betriebsnummer 11675, mit Stadtwappen \"Gelterkinden\". Umbauversion mit eckigen Stirnlampen unten, UIC -Steckdosen, schrägen stirnseitigen Griffstangen, zusätzlichen Trittblechen und Aufstiegstritte und Funkantennen. Betriebszustand um 2006.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal , 1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Aufstiegsgriffstangen aus Metall. Kupplungen gegen detaillierte Frontschürzen austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37324",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/b2/d9b21ec2dfd6d899f8f7dfe2c4ffb9b21434539249.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

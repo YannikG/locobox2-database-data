@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37904",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37904",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 294",
+    "number": "075-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 294 der Deutschen Bahn AG/Railion ( DB AG ). Betriebszustand circa September 2006.\n\nModell: Mit Digital- Decoder mfx , Telex -Kupplungen und geregeltem Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform mit Schwungmasse zentral eingebaut. 4 Achsen über Kardanwellen angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Trittstufen zum Führerstand für kleinen Gleisradius abnehmbar. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37904",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/94/a9/94a93d1c88046beff599fa966b37432b1434539388.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

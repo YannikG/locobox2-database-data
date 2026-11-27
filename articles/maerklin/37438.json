@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37438",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37438",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "SRI",
+    "type": "BR 151",
+    "number": "033-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 151 der SRI Rail Invest GmbH (SRI). Blaue Grundfarbgebung. Einholmstromabnehmer . Betriebszustand um 2013.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Drei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, digital schaltbar. Doppel-A-Licht schaltbar. Beleuchtung mit warmweissen und roten LED . Einholmstromabnehmer . Länge über Puffer ca. 22,2 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37438",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/62/2f/622fa6211b0929206cad92466ee26b251467641083.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

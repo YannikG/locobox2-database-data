@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37356",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37356",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4II",
+    "number": "11239",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 171.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Serie Re 4/4II der Schweizerischen Bundesbahnen ( SBB ). Umbauversion in roter Farbgebung. Loknummer 11239 mit Stadtwappen „Porrentruy“. Einzige Lokomotive der Serie Re 4/4 II mit Wappen.\n\nModell: Digital Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden. Angesetzte Aufstiegs-Metallgriffstangen. Kupplungen gegen detaillierte Frontschürze austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 17,1 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37356",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/84/25/8425511bdce17885740ab9be856c43e91434538922.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

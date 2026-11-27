@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39531",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39531",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "ET 194",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 91.0
+  },
+  "description": "Vorbild: Elektrischer Triebwagen ET 194 (ex LAG 895) der Deutschen Reichsbahn ( DRG ). Fiktive Sondergestaltung exklusiv für die MHI Regionaltagung 2016.\n\nModell: ET 194 mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Fiktive Sondergestaltung exklusiv für die MHI. Länge über Puffer ca. 9,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39531",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cb/24/cb2429e67764329efc81f3e878ba94621488539804.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:26Z"
+}

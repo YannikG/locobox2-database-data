@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39046",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39046",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Reihe 5519",
+    "number": "5519",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Reihe 5519, mit Wannentender 2´2´T30 (ehem. Baureihe 42). Museumslokomotive der Luxemburgischen Staatsbahnen ( CFL ). Schwarze Grundfarbgebung mit schwarzen Rädern und rot ausgelegtem Gestänge . Mit Witte-Windleitblechen der Regelausführung, Vorlauf - Radsatz mit Vollrädern, Schienenräumer mit grossen Schaufeln, beide unteren Stirnlampen vorne an der Lok im Zylinderblock eingebaut. Kein Löscheschutzblech unterhalb der Rauchkammertür. Mit Umgrenzungsprofil auf dem Tender. Lok-Betriebsnummer 5519. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Wannentender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39046",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0a/42/0a42f497041b2bb948bf3b6478ba530f1526536857.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

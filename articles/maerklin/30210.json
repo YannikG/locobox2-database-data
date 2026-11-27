@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30210",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30210",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200",
+    "number": "048",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Baureihe V 200.0 der Deutschen Bundesbahn (DB). Altrote Ursprungs-Farbgebung der ersten Serienmaschinen. Betriebszustand Ende 1950er-Jahre.\n\nModell: Wiederauflage eines Märklin-Klassikers auf Basis des Artikels 3021. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotivgehäuse und Fahrgestell aus Metall. Erhabener Schriftzug \"DEUTSCHE BUNDESBAHN\", erhabene Betriebsnummer, Artikelnummer, Märklin-Schriftzug und Märklin-Signet. An beiden Enden Kupplungshaken mit Vorentkupplung. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30210",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/0f/500fd4cbdcc45a25020b543c2c953dca1434539257.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

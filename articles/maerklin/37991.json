@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37991",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37991",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 4000",
+    "number": "4012",
+    "livery": "Big Boy",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Reihe 4000 \"Big Boy\" der Union Pacific Railroad (UP). Ausführung der Lokomotive Nr. 4012 um 1960.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb, Geräuschgenerator und weiteren Zusatzfunktionen. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 8 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Boxpok -Räder. Mittlere Kuppelachsen gefedert. Stirnlampe, Tender und Nummerntafeln mit wartungsfreien LED beleuchtet. 2 Rauchsätze (Seuthe Nr. 11) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal , Nummerntafeln- und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Geschwindigkeitsabhängiges Dampflokgeräusch, Läutewerk, Pfeifsignale, Bremsen Quietschen sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 oder mit Mobile Station 60652 digital schaltbar. Weitere Betriebsgeräusche mit Central Station 60212 digital schaltbar. Leistungsfähiger Lautsprecher im Tender, Lautstärke einstellbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Kurzkupplung zwischen Lok und Tender. Dampfleitungen schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Länge über Kupplungen 46,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37991",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6f/06/6f065522071d7db2be2dd6587c380d8d1434538646.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

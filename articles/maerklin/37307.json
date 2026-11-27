@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37307",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37307",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "Hector Rail",
+    "type": "Hochleistungs-Elektrolokomotive.",
+    "number": "141.003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Hochleistungs-Schnellfahrlokomotive Litt. 141 des Schwedischen Privatbahnunternehmens Hectorrail. Gebaut 1997 von SGP, ELIN und Siemens als Serie von 3 Prototypen. Betriebsnummer 141.003-4 \"Starling\". Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx . 5-poliger schräggenuteter Motor mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen . Fahrgestell aus Metalldruckguss. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Griffstangen und viele weitere Details. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungen austauschbar gegen geschlossene Frontschürzen. Bremsschläuche ansteckbar. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37307",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/84/97/84971cb98068ee726470de01b6768bb31434539287.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

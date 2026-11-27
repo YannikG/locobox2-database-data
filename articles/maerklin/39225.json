@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39225",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39225",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 194",
+    "number": "178-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive BR 194 der Deutschen Bundesbahn (DB). Ausführung in der Farbgebung Ozeanblau/elfenbein. Betriebsnummer 194 178-0. Betriebszustand 1980.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an beiden Seiten abschaltbar. Wenn Rangiergang an, dann Doppel-A-Licht Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Telex - Kupplung vorne und hinten getrennt schaltbar. Angesetzte Griffstangen. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39225",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/01/ac010f3ed304f45a415ea5633a790b281484059871.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

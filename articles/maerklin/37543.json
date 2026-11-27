@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37543",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37543",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 120.1 der Deutschen Bahn AG ( DB AG ). Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstandsbeleuchtung zusätzlich digital schaltbar. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37543",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/26/26/2626567863217fd76ec2a4db3a3a377f1434538667.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36425",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36425",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Schauffele",
+    "type": "BR W 232",
+    "number": "01",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe W 232.01 \"Ludmilla\" der Ernst Schauffele Schienenverkehrs GmbH. Frühere Baureihe 242.\n\nModell: Lokomotive in Metallausführung, mit Digital- Decoder mfx , Spezialmotor mit Schwungmasse und schaltbaren Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36425",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/49/b9/49b97fd35ae3c542daf0bfe937f882151434538950.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

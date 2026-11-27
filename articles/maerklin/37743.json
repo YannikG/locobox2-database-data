@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37743",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37743",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BR 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Bauzug-Triebwagen der Firma Travaux du Sud-Ouest (TSO),zugelassen bei den Französischen Staatsbahn ( SNCF ).Frühere Baureihe 216 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder , einstellbaren Hochleistungsantrieb und Zusatzfunktion. 2 Achsen angetrieben.4 haftreifen . Spitzensignal mit der Fahrtrichtung wechselnd, bei konventionellem Betrieb funktionsfähig und digital schaltbar. Signalpfeife und Anfahr-/Bremsverzögerung mit Control Unit 6021 digital schaltbar.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37743",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/1e/0c1e343fec573e61d4c4741f9b9f363a1434539384.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

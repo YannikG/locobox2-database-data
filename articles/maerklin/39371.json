@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39371",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39371",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Mit längsseitiger Werbung \"END POLIO NOW\", dem Schwerpunktthema von Rotary International zur Bekämpfung der Kinderlähmung. Aktueller Betriebszustand 2012.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Bewegliche Imitation der Drehgestell -Anlenkung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39371",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/63/7a637525c215b1841ea4a5806411dd3b1434538736.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

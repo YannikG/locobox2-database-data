@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36602",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36602",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "Hector Rail",
+    "type": "Rh 241",
+    "number": "002-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 241 der Schwedischen Bahngesellschaft Hectorrail. Zweisystemlokomotive mit 2 Pantographen, gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36602",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/e6/e5e654ff679a6034e10a6f30bd57fd631434539100.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

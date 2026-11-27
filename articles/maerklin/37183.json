@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37183",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37183",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": "433",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 249.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 18.4 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Kleine Wagner-Windleitbleche, Schornstein mit Caledonian-Krempe und rot-weiss-rotem Band. Betriebszustand Anfang 1930er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Rauchsatz 72270 nachrüstbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Länge über Puffer 24,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37183",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/de/68/de689842d7618e4fd0939a6a01efe1c51574146818.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

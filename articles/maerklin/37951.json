@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37951",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37951",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 03",
+    "number": "156",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Baureihe 03 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Wagner-Windleitbleche. Genieteter Tender.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal digital zuschaltbar. Eingerichtet für Rauchsatz Seuthe Nr. 11.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37951",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/43/52/4352f800d8f30412295cd1574546a5ef1434539145.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

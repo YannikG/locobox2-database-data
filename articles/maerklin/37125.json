@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37125",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37125",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": "1254",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive, ehemalige Serie 1200 der Niederländischen Eisenbahnen ( NS ). Ausführung als Privatbahn-Lokomotive der Firma EETC, im Einsatz für Rangier- und Sonderfahrten. Lok-Betriebsnummer 1254, Lok-Name \"J. Hoekwater\". Mit Werbebeschriftung zum Jubiläum 80 Jahre NVBS. Purpurrote Grundfarbgebung. Aktueller Betriebszustand 2011.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Angesetzte Griffstangen aus Metall. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37125",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/10/b1/10b13518878e3825d96d150fe0a8c9ec1434538987.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

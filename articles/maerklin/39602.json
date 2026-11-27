@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39602",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39602",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie 460",
+    "number": "038-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Serie 460 der Schweizerischen Bundesbahnen ( SBB ).\n\nModell: Mit Digital- Decoder und C-Sinus-Motor. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtung. Angesetzte Signalhörner und Griffstangen. Eingebaute Fernscheinwerfer. Spitzensignal digital schaltbar. Fahrtrichtungsabhängige Fernscheinwerfer und Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot mit Control Unit 6021 digital zuschaltbar. Im konventionellen Betrieb ist das Spitzensignal mit Schweizer Lichtwechsel funktionsfähig. Länge über Puffer 21,3 cm. Im Digital-Betrieb mit der Control Unit 6021 kann über die Funktionstaste \"f4\" der Rangiergang aktiviert werden. Hierbei werden die eingestellten Werte der Anfahrbeschleunigung und Bremsverzögerung überbrückt. Gleichzeitig wird die Höchstgeschwindigkeit deutlich reduziert. Trotzdem steht weiterhin der volle Regelbereich mit allen Fahrstufen für die Steuerung des Fahrzeuges zur Verfügung. Dies ermöglicht vor allem im Rangierbetrieb ein millimetergenaues Rangieren .",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39602",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ca/71/ca714d4888e1a16a62760904a63859d91434539256.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

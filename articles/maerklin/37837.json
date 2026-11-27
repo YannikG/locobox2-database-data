@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37837",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37837",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 539.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50 - Geburtstags-Lokomotive",
+    "number": "1976",
+    "livery": "Echte Fünfziger",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 50 der Deutschen Bundesbahn (DB), mit Kohlen- Schlepptender als Einheits- Kastentender 2´2´ T 26 in der Ursprungsform. Mit Witte-Windleitblechen, Regelführerhaus, langem Umlauf vorne zur Rauchkammer schräg abfallend, DB-Reflexglaslampen, Läutewerk und Indusi . Betriebsnummer 50 1976, Betriebszustand von 1976.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37837",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/c5/0fc5f21bbe7c6bb1aa52308a01399d171788944405.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

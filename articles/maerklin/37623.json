@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37623",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37623",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "Milwaukee Road",
+    "type": "EMD F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-V"
+  },
+  "description": "Vorbild: Typ General Motors EMD F 7 der Milwaukee Road. Doppeleinheit aus A-Unit und B-Unit.\n\nModell: Mit Digital- Decoder , einstellbarem Hochleistungsantrieb und Zusatzfunktionen. Motor in der A-Unit, Lautsprecher in der B-Unit eingebaut. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal und beleuchtete Nummerntafeln digital schaltbar. Geräuschgenerator mit Diesellok-Fahrgeräuschen, Signalhorn und dynamischer Bremse sowie Anfahr-/Bremsverzögerung mit Control Unit 6021 digital schaltbar. Im konventionellen Betrieb sind das Spitzensignal und das Fahrgeräusch funktionsfähig. Feste Deichsel zwischen beiden Lokomotiveinheiten. Vorn Kupplungshaken mit Vorentkupplung, hinten RELEX - Kupplung , austauschbar gegen Norm-Kupplungsaufnahmen.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37623",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/32/96/3296d789a4905bd86effbb6fa4a350ee1434538696.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

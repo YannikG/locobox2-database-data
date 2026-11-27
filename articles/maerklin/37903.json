@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37903",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37903",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 90",
+    "number": "030",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe V 90 der Deutschen Bundesbahn (DB). Ausführung im Lieferzustand.\n\nModell: Mit Digital- Decoder mfx , Telex -Kupplungen und geregeltem Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform mit Schwungmasse zentral eingebaut. 4 Achsen über Kardanwellen angetrieben, Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Trittstufen zum Führerstand für kleinen Gleisradius abnehmbar. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37903",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/dc/7fdc417c21953c258c43fa86a1171f4a1434539329.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36965",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36965",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 650",
+    "number": "020-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 293.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dieseltriebwagen vom Typ Regio Shuttle RS1 als Baureihe 650 der Deutschen Bahn AG ( DB AG ). Ausführung mit Schraubenkupplung , Puffern und obenliegender Zugzielanzeige. Verkehrsrote Grundfarbgebung. Betriebsnummer 650 020-0. Betriebszustand ab 2015. Betriebsnummer der Wiederauflage 2026: 650 120-8.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Serienmässig eingebaute Innenbeleuchtung. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Viele separat angesetzte Details. An beiden Enden mit separat angesetzten Bremsschläuchen, Schraubenkupplungen und Steuerleitungen. Pufferhöhe nach NEM . Für einen Doppeltraktionsbetrieb liegen geöffnete Blenden, kürzere Steuerleitungen und eine Kuppelstange bei. Befahrbarer Mindestradius 360 mm ohne Beachtung des Lichtraumprofils. Länge über Puffer 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36965",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/3b/443bddc9c04df1315fd471e3f6371e701771837219.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37037",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37037",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Litra T 299",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Personenzuglokomotive Litra T 299 der Dänischen Staatsbahnen (DSB). Ehemalige deutsche P 8. Kessel mit 3 Domen ohne Windleitbleche. Vierachsiger Kastentender .\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. 3 Achsen angetrieben. Haftreifen . Rauchsatz 72270 nachrüstbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand . Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37037",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f2/24/f224cb0c82eb692db6545ea81dba21921434539366.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

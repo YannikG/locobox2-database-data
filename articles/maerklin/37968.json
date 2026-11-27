@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37968",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37968",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 96",
+    "number": "019",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 96 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Gelenklokomotive Bauart Mallet mit Verbundtriebwerk aus Hoch- und Niederdruck-Zylindergruppen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung digital schaltbar. Feinste Modellausführung mit zahlreichen angesetzten Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37968",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/83/dc83f06c61259463edf946fe0c4708bb1434539199.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

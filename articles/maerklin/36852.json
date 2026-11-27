@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36852",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36852",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Serie 485",
+    "number": "005-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 485 der BLS Lötschbergbahn AG (Bern-Lötschberg-Simplon). Zweisystemlokomotive.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36852",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/ec/0cec22788083d05aa796b7809a5f5ec81434539351.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

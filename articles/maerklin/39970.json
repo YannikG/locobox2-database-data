@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39970",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39970",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 701",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Wartungsfahrzeug Baureihe 701 der Deutschen Bundesbahn (DB). Mit beweglicher Arbeitsbühne und Scherenstromabnehmer . Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, zusätzlichem Funktionsdecoder und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben, Haftreifen . Spitzensignal mit wartungsfreien, warmweissen Leuchtdioden, Schlusslichter mit wartungsfreien, roten Leuchtdioden, konventionell in Betrieb, digital schaltbar. Führerstand mit Einrichtung. Angesetzte Details: Oberlicht, Antenne, Horn, Scheinwerfer und Leitern. Länge über Puffer 16,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39970",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/c6/d6c69471e3a7056d8a61250f0a5ba63c1434538753.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

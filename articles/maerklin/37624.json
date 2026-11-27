@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37624",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37624",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "EMD F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Typ General Motors EMD F 7 der Pennsylvania Railroad. Dreifacheinheit aus A-Unit, B-Unit und A-Unit.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Jeweils 1 Motor in der A-Unit, Lautsprecher in der B-Unit eingebaut. Je A-Unit 2 Achsen angetrieben. Haftreifen . Spitzensignal mit beleuchteten Nummerntafeln konventionell an, digital schaltbar. Geräuschgenerator mit Diesellok-Fahrgeräuschen. Feste Deichsel zwischen allen Lokomotiveinheiten. Schneeräumer zum Ansetzen beigelegt. Länge über Kupplungen 52 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37624",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/43/174301c9a39c2687cf3194c4a1991abb1434538682.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

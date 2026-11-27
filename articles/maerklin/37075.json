@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37075",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37075",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 232 TC",
+    "number": "414",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Schnelle Personenzuglokomotive Serie 232 TC der Französischen Staatsbahnen ( SNCF ).\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37075",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/04/4804d06fd757dcd1b4698b6b5377e95b1434539090.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

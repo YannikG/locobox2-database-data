@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36742",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36742",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 130TB",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Serie 130TB der Französischen Staatsbahnen ( SNCF ), ehemalige Reihe T 12 der Königlich Preussischen Staatseisenbahnen (K.P.E.V.).\n\nModell: Mit Digital- Decoder und Spezialmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36742",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/da/acda58ff90913f9956131ae7d8c039c51434539067.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

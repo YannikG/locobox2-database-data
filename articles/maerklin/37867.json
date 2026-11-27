@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37867",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37867",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "OeBB",
+    "type": "RBe 2/4",
+    "number": "202",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 257.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen \"Blauer Pfeil\", Serie RBe 2/4 der Oensingen-Balsthal-Bahn (OeBB) in azurblauer Grundfarbgebung. Betriebsnummer 202. Betriebszustand Mitte bis Ende der 1970er-Jahre.\n\nModell: Mit mfx - Decoder und schaltbarem Lokpfiff. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell . 2 Achsen angetrieben. Haftreifen . Schweizer Lichtwechsel 3-Licht- Spitzensignal und 1 weisses Schlussicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlussicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Scherenstromabnehmer mit schmalem Schleifstück. Gesamtlänge über Puffer 25,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37867",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/70/31/7031d6873ee7cbd9290e7911ccfbf2641434539050.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

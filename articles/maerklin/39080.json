@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39080",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39080",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR VT 08",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnell-Triebwagenzug Baureihe VT 08.5 der Deutschen Bundesbahn (DB). Dreiteilige Bauart mit Achsfolge B´2´+2´2´+2´2´.\n\nModell: Dreiteilige Einheit, bestehend aus Triebwagen (VT), Mittelwagen (VM) und Steuerwagen (VS). Mit mfx - Decoder und neuem wartungsfreien C-Sinus-Hochleistungsantrieb in kompakter Bauform. 2 Achsen angetrieben. 2 Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Kurzgekuppelte Spezialverbindung zwischen den Wageneinheiten. Eingebaute Inneneinrichtung. Führerstände der Endwagen mit freiem Durchblick. Spitzensignal und Innenbeleuchtung mit wartungsfreien Leuchtdioden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Schlusslichter sowie Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Dieselmotor-Geräusch, Hornsignal, Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Märklin Systems schaltbar. Weitere Betriebs- und Umgebungsgeräusche einschliesslich eines Reportageausschnitts der Fussball-Weltmeisterschaft 1954 mit Systems schaltbar. 2 Schleifer zur Fahrstromaufnahme mit Umschaltung auf den jeweils in Fahrtrichtung führenden Schleifer . Länge des dreiteiligen Zuges 85,6 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39080",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/a8/2ba8758fa7241f2b1a5fcf2f02c144951434539331.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

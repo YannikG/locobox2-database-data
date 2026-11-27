@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37227",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37227",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 1020 (ex E 94)",
+    "number": "33",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe 1020 (ex E 94) der Österreichischen Bundesbahnen ( ÖBB ). Ausführung in tannengrüner Farbgebung, Betriebszustand Mitte der 1960er-Jahre.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängiges Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Angesetzte Griffstangen. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37227",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/7c/587c90dfbc82786c4735e694a678a2d71434539089.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

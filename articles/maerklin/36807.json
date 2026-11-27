@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36807",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36807",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "YDE 18 110",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive YDE 18 110 der Französischen Staatsbahnen ( SNCF ). Entspricht der deutschen Baureihe Köf II. Ausführung mit offenem Führerstand .\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36807",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3b/42/3b4257cf75975af2282dbc849e3e6c5e1434539242.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

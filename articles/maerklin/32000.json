@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-32000",
+  "manufacturer": "Maerklin",
+  "articleNumber": "32000",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Lokomotive Millennium",
+    "number": "14305",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "Vorbild: Elektrolokomotive ´Krokodil´.\n\nModell: Aufbau, Vorbauten und Pufferbohle der Lokomotive aus massivem Platin gegossen. Kuppelstangen aus Titan. An beiden Vorbauten erstrahlt jeweils ein eingesetzter Rubin als Rangierlicht. Räder aus hochwertigem Edelstahl. Lagerung der Achsen in Keramikbuchsen. Indusi -Magnet echt magnetisiert. Zinklegierung für Fahrgestell mit Ruthenium oberflächenveredelt. Vergoldete angesetzte Dachleitungen und Griffstangen. Dachlaufbretter aus echtem Holz. Isolatoren aus Keramik. Angesetzte Kunststoffteile aus hochwertigem ETPU-Werkstoff. Echtverglaste Führerstandsfenster. Kupplung aus ETPU mit ruthenierten Metallteilen. Die Lokomotive ist voll funktionsfähig. Mit Digital- Decoder und C-Sinus-Motor. Spitzensignal digital schaltbar. Im konventionellen Betrieb ist das Spitzensignal funktionsfähig.In einem speziellen mehrstufigen Giessverfahren werden die Gehäuse, die Vorbauten und die Pufferbohlen aus etwa 475 g Platin Pt 950 gegossen. Dieses Giessverfahren musste extra für das Vorhaben Märklin-Millennium-Lokomotive weiterentwickelt und verfeinert werden. Um die grundsätzliche Machbarkeit des Projektes zu klären, waren unzählige Versuchsreihen und Prüfvorgänge erforderlich. Die Echtheit und der Reinheitsgrad der Teile werden auf jedem Einzelteil fälschungssicher dokumentiert.Die Räder werden in einem Spritzgiess-Sinter-Verfahren aus Edelstahl hergestellt. Dieses innovative Verfahren ermöglicht eine extrem hohe Präzision der Teile. Eine Keramiklagerung der Achsen unterstreicht die Langlebigkeit dieser Lokomotiven ebenso wie die Kuppelstangen aus hochfestem Titan. Um die Oberfläche der Zink Fahrgestellteile zu veredeln, wird zuerst eine Schicht Kupfer aufgetragen, gefolgt von Nickel und Gold und schliesslich einer Schicht Schwarz-Ruthenium.Die vergoldeten Griffstangen und die eingesetzten Rubine zur Imitation des Rangierlichts runden dieses Modell ab. Fein geschliffenes echtes Glas wird für sämtliche Fenster verwendet. Dadurch wird die Filigranität der Scheiben noch mehr betont. Die Isolatoren der vergoldeten Dachleitungen sind, wie beim grossen Vorbild, aus echter Keramik gefertigt.Um dieses wertige Millenniums-Modell in einem adäquaten Umfeld zu präsentieren, ist der Präsentationssockel in ebenso hochwertiger Granit-Holz-Verbundbauweise gestaltet. Das weiss vernickelte Gleisstück kann über eine in den Sockel eingelassene Buchse mit Strom versorgt werden. Über einen Schiebeschalter in der Lokomotive wird der C-Sinus-Antrieb abgeschaltet, so dass nur noch die Beleuchtung funktionsfähig ist. Der Betrachter kann auf diese Weise die hohe Leuchtkraft der Spezial-Leuchtdioden ausgiebig geniessen. Um die optische Wirkung der Pantographen zu erhöhen, können diese durch beiliegende Metallplättchen auf halber Höhe fixiert werden. Durch die Abdeckhaube wird das wertvolle Modell vor Staubablagerungen geschützt. Eine abschliessbare Schatulle aus edlen heimischen Hölzern nimmt die Märklin-Millenniums-Lokomotive in ihrem Inneren auf. Da wir von der Qualität und Langlebigkeit absolut überzeugt sind, gewähren wir auf dieses Modell eine Garantie von 5 Jahren.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/32000",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9f/fd/9ffdf9ffd3d21e93e1b08a9a104216bc1434538644.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

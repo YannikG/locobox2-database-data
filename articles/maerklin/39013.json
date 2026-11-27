@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39013",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39013",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 01",
+    "number": "150",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 01 der Deutschen Bahn AG ( DB AG ). Umgebauter Zustand der Museums-Lokomotive des Verkehrsmuseums Nürnberg. Ausführung und Betriebszustand vor dem Brand im Oktober 2005.\n\nModell: Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform mit mfx - Decoder und Sound- Generator . 3 Achsen angetrieben, Haftreifen . Lokomotive und Tender weitgehend aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED . Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 27,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39013",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/f8/2ef89283f1135bced6c2ec53412dedec1434538837.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

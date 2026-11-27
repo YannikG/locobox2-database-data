@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39961",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39961",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 96.0",
+    "number": "024",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 96.0 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Gelenklokomotive Bauart Mallet mit Verbundtriebwerk aus Hoch- und Niederdruck-Zylindergruppen. Betriebsnummer 96 024. Betriebszustand um 1930/31.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Serienmässig eingebauter Rauchsatz. Modell weitgehend aus Metall mit zahlreichen angesetzten Details. Jetzt mit ansteckbaren Bremsschläuchen. Bremsleitungen und Kolbenstangenschutzrohre sind beigelegt. Lokführer- und Heizerfigur beigelegt. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39961",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/20/57202dc265873a0cbf89f412c52201131589436008.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

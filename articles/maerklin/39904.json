@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39904",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39904",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 294",
+    "number": "202-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Diesel- Rangierlokomotive Baureihe 294. Lokomotive in fiktiver schwarzer Grundfarbgebung als Privatbahn-Lokomotive. Mit seitlichen Geländern. Lok-Betriebsnummer 294 202-3. Betriebszustand 2023.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit neuer Telex - Kupplung , vorne und hinten separat digital schaltbar. Kupplungswalzer . Führerstandsbeleuchtung digital schaltbar. Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Zusätzliche Trittstufen unter dem Führerstand für grössere Gleisradien liegen bei. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39904",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/bb/9cbb08d4d1f68c536fd67716e208203d1706198405.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

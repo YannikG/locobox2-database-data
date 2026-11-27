@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39837",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39837",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise",
+    "number": "067",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise- und Güterverkehr. ES 64 U2 der MRCE-Dispolok GmbH.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen, geregeltem Hochleistungsantrieb Softdrive Sinus, wartungsfreiem Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit warmweissen LED . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39837",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ed/16/ed16416d3ad7e0463edd3cff4dbed7281434538624.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

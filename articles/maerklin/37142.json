@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37142",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37142",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "Museo Ferroviario Piemontese",
+    "type": "Lok Nr.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Lok Nr. 3 des Museo Ferroviario Piemontese. Frühere Lok Nr. 2 der Ferrovia Val Sessera (FVS). Gebaut 1907 von Henschel als preussischer Typ T 3. Restaurierter Zustand von 1935. Einsatz: Sonderfahrten.\n\nModell: Mit Digital- Decoder mfx und geregeltem Antrieb. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Beleuchtung mit wartungsfreien warmweissen LED . Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37142",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/e3/34e30cac92cd461708033a165ab066c41434539263.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

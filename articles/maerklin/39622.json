@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39622",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39622",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7. Dreifacheinheit aus zwei A-Units und einer B-Unit. Einmalige Gestaltung im Coca-Cola® Design.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb je A-Unit. Je 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig beleuchtete Nummerntafeln und Positionslichter konventionell an, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Feste Deichsel zwischen den Lokomotiveinheiten. Schneeräumer beigelegt. Länge über Kupplungen ca. 53 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39622",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/35/5f/355fe92662ebc859bbc5b9df1597a4081524895218.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

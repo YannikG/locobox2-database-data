@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37763",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37763",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 628",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 525.0
+  },
+  "description": "Vorbild: Baureihe 628.2 mit Steuerwagen 928.2 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtete Zieltafeln an den Stirnseiten. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Kurzgekuppelte Spezialverbindung zwischen Trieb- und Steuerwagen . Nachbildung der Originalkupplungen und Bremsschläuche. Länge über Puffer 52,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37763",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b5/95/b5953a8b27afa80cd89d5ecaf1cc69df1434539325.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

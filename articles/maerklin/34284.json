@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34284",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34284",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Dieselelektrische Doppellokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 258.0
+  },
+  "description": "Vorbild: Baureihe 288 der Deutschen Bundesbahn (DB), frühere V 188.\n\nModell: Mit DELTA-Elektronik. 2 Motoren. 4 Achsen angetrieben. 4 Haftreifen . Zwischen den Lokomotiven feste Kurzkupplung . Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 25,8 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34284",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

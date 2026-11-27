@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37776",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37776",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "SVT 137",
+    "number": "225",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schnelltriebwagen als Diesel-Triebwagen Baureihe 137 \"Bauart Hamburg\" der Deutschen Bahn AG ( DB AG ). Optisch im angenäherten Zustand der Deutschen Reichsbahn-Gesellschaft ( DRG ), in eleganter elfenbein/nachtblauer Grundfarbgebung. Zweiteilig mit Jakobs-Drehgestell . Betriebsnummer 137 225 a/b. Aktueller Betriebszustand, entsprechend dem Fahrzeug auf dem Museumsgleis im Leipziger Hauptbahnhof.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Beide Achsen im Jakobs-Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung und Führerstandsbeleuchtungen jeweils separat digital schaltbar. Beleuchtungen mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Dach mit angesetzten Details. Durchgehende Seitenschürzen mit geführten Blenden über den Radausschnitten. Kulissenführung mit geschlossenem Faltenbalg zwischen den Fahrzeughälften. An den Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Gesamtlänge über Kupplungen 48,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37776",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/75/6e/756edabea0b69dbe490f926aebc693d71452602403.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

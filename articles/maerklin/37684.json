@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37684",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37684",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1018",
+    "number": "1018.04",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1018.0 der Österreichischen Bundesbahnen ( ÖBB ) in tannengrüner Grundfarbgebung. Umbauversion entsprechend der ÖBB Vereinheitlichung dieser Baureihe ab 1966. Betriebsnummer 1018.04. Betriebszustand ca. Anfang 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Lokpfiff. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Stirnbeleuchtung mit sogenannten \"Stielaugen\". Spitzensignal an Lokseite 2 und 1 jeweils digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Einzelheiten. Vorbildgerechte Scheren-Stromabnehmer. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Puffer aus Metall, separat eingesetzt, in gewölbter und flacher Ausführung. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37684",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/e6/52e646cb30af21ca1e11a9b4a3361c051434539109.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

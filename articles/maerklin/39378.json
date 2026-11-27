@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39378",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39378",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": "064-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Werbegestaltung \"160 Jahre Märklin\". Lok-Betriebsnummer 101 064-4. Aktueller Betriebszustand 2019.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39378",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/19/3e/193e5db8001efb95241b3d495632a48c1566367213.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39052",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39052",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 05",
+    "number": "003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 05 der Deutschen Bundesbahn (DB). Fiktive stahlblaue F-Zug-Farbgebung mit schwarzer Rauchkammer. Witte-Windleitbleche und Indusi -Magnet. Blanke Ausführung der Kesselspannbänder. Betriebszustand um 1961.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Feste Kurzkupplung zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39052",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b5/b5/b5b5b4a12f0213706e757bec24e7e6b71586239209.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

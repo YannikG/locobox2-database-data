@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37055",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37055",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Reihe K",
+    "number": "1802",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 235.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Reihe K der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ). Ausführung in grüner Ganzlackierung.\n\nModell: Mit Digital- Decoder , geregeltem Antrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Achsen angetrieben. 4 Haftreifen . Verstellbare Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand , Figuren Lokführer und Heizer liegen bei. Frei stehende Laternen mit integrierten Leuchtdioden. Eingerichtet für nachrüstbaren Rauchsatz 7226. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Dampflok-Fahrgeräusch, Pfeifsignal sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Weitere Geräuschfunktionen mit Systems digital schaltbar. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 23,5 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37055",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/87/1a87f365076deb6170b0ea2c71d5522a1434538969.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

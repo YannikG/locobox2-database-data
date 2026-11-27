@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37190",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37190",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 17",
+    "number": "007",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 240.0
+  },
+  "description": "Vorbild: Baureihe 17.0 der Deutschen Reichsbahn-Gesellschaft ( DRG ), frühere preussische S 10.\n\nModell: Hochleistungsmotor mit Glockenanker. 2 Haftreifen . Feste Kurzkupplung zwischen Lokomotive und Tender. Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal digital zuschaltbar. Länge über Puffer 24,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37190",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/3c/c33c4aefcae71d8bf0a5b3a8521563d51434538946.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

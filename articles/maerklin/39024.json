@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39024",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39024",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 267.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive mit Schlepptender Baureihe 18.3 (ehemalige badische IV h) der Deutschen Reichsbahn-Gesellschaft ( DRG ). Betriebszustand um 1929/1930.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39024",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/8c/5e8c9f25171172366d966dc25663c42c1434538684.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

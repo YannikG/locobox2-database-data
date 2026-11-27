@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36340",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36340",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 335",
+    "number": "234-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Kleindiesellokomotive Köf III als Baureihe 335 der Deutschen Bahn AG (DB Cargo) in Epoche V. Farbgebung in verkehrsrot. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell an und digital schaltbar. Beleuchtung mit warmweissen LED . Spitzensignal an beiden Seiten abschaltbar. Telex - Kupplung vorne und hinten getrennt schaltbar. Freier Durchblick im Führerhaus, Griffstangen angesetzt. Bremsleitungen und Rangierkupplungen liegen bei. Länge über 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36340",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/31/e53102e1872fe97384cf66a0d29c90fc1434539217.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

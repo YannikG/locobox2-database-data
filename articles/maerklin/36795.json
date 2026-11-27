@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36795",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36795",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "BR 223",
+    "number": "013-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Dieselelektrische Mehrzwecklokomotive BR 223 als ER 20-013 der Mitsui Rail Capital Europe B.V (MRCE).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36795",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/1f/a71f2714215e850e152cf2d412870c261434538710.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

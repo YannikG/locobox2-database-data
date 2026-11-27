@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33840",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33840",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50",
+    "number": "2448",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Baureihe 50 der Deutschen Bundesbahn (DB).\n\nModell: Mit Delta-Elektronik. 5 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Verstellbare Kurzkupplung zwischen Lok und Tender. Norm-Kupplungsaufnahmen, am Tender mit Kulissenführung. Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe Nr. 11 (Delta und Digital). Länge über Puffer 26,3 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33840",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b8/07/b80794e29da2471d14685e87915dd32a1434539199.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

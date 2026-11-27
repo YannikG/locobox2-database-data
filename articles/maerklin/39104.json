@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39104",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39104",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 01.10 der Deutschen Bundesbahn (DB). Dreizylinder-Hochleistungslokomotive mit Kohlefeuerung, Umbau-Ausführung mit Neubaukessel.\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus, Fahrwerksbeleuchtung und Geräuschgenerator. 3 Achsen angetrieben. 2 Haftreifen . Rauchsatz 7226 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Geschwindigkeitsabhängiges Dampflok Fahrgeräusch, Fahrwerksbeleuchtung sowie Pfeifsignal mit Control Unit 6021 digital schaltbar. Kesselringe farblich ausgelegt. Pufferteller-Warnanstrich. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39104",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/e1/8fe196363af3250273535b490a211c681434538850.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

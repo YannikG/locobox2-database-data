@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34345",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34345",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 II (420)",
+    "number": "11270",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Reihe Re 4/4 II (420) der Schweizerischen Bundesbahnen ( SBB ). Aktuelle Ausführung für den Bereich Güterverkehr ( SBB Cargo).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Führerstände und Maschinenraum mit Inneneinrichtung. Dachstromabnehmer in Schweizer Bauart.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34345",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/35/ca/35cad296fab474c8993663ff640f776d1434538998.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

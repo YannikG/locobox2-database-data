@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38860",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38860",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RCe 2/4",
+    "number": "607",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 257.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen Serie RCe 2/4 \"Roter Pfeil\", 3. Klasse, als Museumsfahrzeug für Extrafahrten unterhalten durch die Oensingen-Balsthal-Bahn AG (OeBB). Aufgearbeitet gibt der Triebwagen äusserlich den Zustand Mitte der 1950er Jahre in purpurroter Grundfarbgebung der SBB wieder. Triebwagen-Betriebsnummer 607. Betriebszustand 2023.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell . 2 Achsen angetrieben. Haftreifen . Schweizer Lichtwechsel , Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlusslicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Über die Funktionstasten können zusätzlich verschiedene Umgebungsgeräusche ausgelöst werden. Länge über Puffer 25,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38860",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f0/b7/f0b71801c0203995c694f228866aa6291702731611.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37649",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37649",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 360",
+    "number": "159-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Baureihe 360 der Deutschen Bahn AG, DB Cargo ( DB AG ).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. 1 Haftreifen . Bühnengeländer aus Metall. Beidseitig Telex -Kupplungen. Spitzensignal digital schaltbar. Telex - Kupplung vorne und Telex - Kupplung hinten mit Control-Unit 6021 digital zuschaltbar. Im konventionellen Betrieb ist das Spitzensignal funktionsfähig. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37649",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/16/07/16070ad472aa47abdf76e70e6aca3a8d1434539190.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

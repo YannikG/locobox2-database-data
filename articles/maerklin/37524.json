@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37524",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37524",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "De 6/6",
+    "number": "15303",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 162.0
+  },
+  "description": "Vorbild: Serie De 6/6 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ) \"Seetal- Krokodil \".\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 6 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht, konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen aus Metall. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37524",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/2e/e42ef484997f4b3011f9c9c6e29ae92b1434539170.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

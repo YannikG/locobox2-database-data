@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39978",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39978",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 98.9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen Baureihe VT 98.9 und Schienenbus - Steuerwagen Baureihe VS 98 der Deutschen Bundesbahn (DB). In purpurroter Ursprungsfarbgebung. Motorwagen -Betriebsnummer VT 98 9705, Steuerwagen -Betriebsnummer VS 98 306. Betriebszustand Anfang der 1960er-Jahre.\n\nModell: Motorwagen mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, zusammen mit der Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzenlicht am Motorwagen je Seite jeweils separat digital abschaltbar. Steuerwagen mit serienmässig eingebauter Innenbeleuchtung. Auf der Steuerseite fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit 2 roten Schlusslichtern. Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel -Verbindung mit Kulissenführung. Stromführende Kupplungsdeichsel und Bremsschläuche liegen bei. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Beide Fahrzeug-Einheiten sowie der optional erhältliche Beiwagen mit freiem Durchblick bei den Führerständen und im Fahrgastraum. Länge über Puffer der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39978",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9b/89/9b89490c94fd2989521df917c1560c581549522814.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37046",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37046",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 80 der Deutschen Bundesbahn (DB). Betriebszustand um 1958.\n\nModell: Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele separat angesetzte Details. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37046",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/b9/f4b9d41a9a863c79e554b651356c910f1434538623.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39392",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39392",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 39",
+    "number": "115",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 263.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 39.0-2 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Mit kurzen Wagner-Windleitblechen und preussischem Tender 2´2´ T 31,5. Gebaut ab 1922 als Serie P 10 der Preussischen Staatsbahnen. Betriebszustand um 1934.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung kulissengeführt zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 26,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39392",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/a8/8ca8d143af3f2a8396e0aed9c9824cb11434538966.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

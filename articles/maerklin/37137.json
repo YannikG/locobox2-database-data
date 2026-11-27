@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37137",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37137",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Eb 3/5",
+    "number": "5804",
+    "livery": "Habersack",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Serie Eb 3/5 \"Habersack\" der Schweizerischen Bundesbahnen ( SBB ). Betriebszustand 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Schienenräumer . Eingesetzte Griffstangen und Leitungen aus Metall. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37137",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/35/b7/35b733bac1b5aa0496c0a2b0870b91b41434538870.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

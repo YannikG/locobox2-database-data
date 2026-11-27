@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33071",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33071",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Reihe T 18",
+    "number": "1140",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Reihe T 18 der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33071",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/93/24936635b3eb839ba1b5d6f599e4ea5e1434538979.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

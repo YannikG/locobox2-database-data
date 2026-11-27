@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36824",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36824",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Kleinlokomotive Bauart Köf II, zugelassen bei",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Bauart Köf II, zugelassen bei der Deutschen Bundesbahn (DB). Ausführung mit offenem Führerhaus. Gestaltung als Werkslokomotive der Firma Daimler-Benz AG.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Metall-Griffstangen und weitere Details separat angesetzt. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36824",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8d/f1/8df1074ebf213dbf0d9d3fffa25bc15d1434538795.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37513",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37513",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie Ae 3/6 II der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Dunkelbraune Grundfarbgebung. Betriebszustand um 1930.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und 2 Blindwellen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Eingesetzte Griffstangen. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37513",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/29/d929bc105aca0732522927f229e9a4031434538639.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

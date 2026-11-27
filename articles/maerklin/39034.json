@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39034",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39034",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 18",
+    "number": "505",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 18.5 der LVA Minden, mit Schlepptender 2´3 T38 der Baureihe 45. Deutsche Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Lok-Betriebsnummer 18 505. Betriebszustand um 1967.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung und das Feuerbüchsenflackern digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche sowie Lokführer-Figur und Heizer-Figur liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39034",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ef/78/ef782f62a6601213ee4727a4b7c34f3a1504019388.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

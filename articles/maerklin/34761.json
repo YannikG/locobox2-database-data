@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34761",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34761",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Diesel-Triebwagen-Zug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 610 der Deutschen Bahn AG ( DB AG ).\n\nModell: Automatische, gleisbogenabhängige Wagenkastenneigung. Mit DELTA-Elektronik. 2 Achsen angetrieben. 2 Haftreifen . Kurzgekuppelte Spezialverbindung zwischen den Wagen-Einheiten. An den Fahrzeugenden detaillierte Nachbildung der Scharfenberg-Kupplungen. Durch Austausch gegen die beiliegenden Norm-Kupplungsaufnahmen können mehrere Einheiten miteinander gekuppelt werden.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34761",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/77/2d779cab1d303d33090626c8b07579661434538698.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

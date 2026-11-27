@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37401",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37401",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 140",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 183.0
+  },
+  "description": "Vorbild: Baureihe 140 der Deutschen Bahn AG/Geschäftsbereich Güterverkehr (DB Cargo AG). Frühere E 40. Aktuelle Ausführung 1999/2000.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahrund Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 18,3 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37401",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b5/2f/b52f91f008cb97201f07fc749b09b49a1434539173.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

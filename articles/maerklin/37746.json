@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37746",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37746",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "V 216",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 182.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive V 216 der Serfer Servizi Ferroviari, einer Gesellschaft der Italienischen Staatsbahnen ( FS CARGO). Einsatz vor Wartungs- und Bauzügen, aber auch im Transportdienst. Ehemalige deutsche Baureihe 216/V 160.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Rahmen aus Metall. Beleuchtung konventionell in Betrieb, digital schaltbar. Diesellok-Fahrgeräusch und Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Weitere Betriebsgeräusche mit Systems digital schaltbar. Länge über Puffer 18,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37746",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5d/c9/5dc9261ca59d8e9f8f7679acd5da36ba1434539274.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37251",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37251",
+  "releaseDate": "2003",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "GKM",
+    "type": "Dampfspeicherlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Dampfspeicherlokomotive Nr. 3 im Grosskraftwerk Mannheim (GKM).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. 2 Haftreifen . Aufstiegsleiter am Kessel aus Metall. Zahlreiche angesetzte Details. Gelb/schwarzer Warnanstrich. Nachbildung des Dampffüllstutzens. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37251",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/08/d5/08d580fbee2bdd6fc744055a04eb98871434539338.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37083",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37083",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 10",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 305.0
+  },
+  "description": "Vorbild: BR 10 der Deutschen Bundesbahn (DB). Mit Öltender und Öl-Hauptfeuerung.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben, 2 Haftreifen . Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Eingerichtet für Rauchsatz 72270. Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Fahrwerksbeleuchtung und Geräuschmodul eingebaut. Fahrwerksbeleuchtung, Pfeife , treibradsynchrones Dampflok-Fahrgeräusch und Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Märklin Systems schaltbar. Ferner sind mit Systems noch weitere Sound-Funktionen schaltbar. Länge über Puffer 30,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37083",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/fe/e7fe81d3fc6fa4fb13e98b1ff28dddbc1453208143.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

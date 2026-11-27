@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34060",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34060",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "EP 3/6",
+    "number": "20102",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Reihe EP 3/6 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.).\n\nModell: Mit DELTA-Elektronik. 3 Achsen und Blindwelle angetrieben. 2 Haftreifen . Asymmetrisch angeordnete Altbau-Stromabnehmer. Nachbildung des Dampfheizkessels. Eingerichtet für Rauchsatz 72270 (konventioneller Betrieb) oder Seuthe Nr. 24 (DELTA-/Digitalbetrieb).",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34060",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/c5/9cc5b69dd62b2843e08e80022a4073a61434539152.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

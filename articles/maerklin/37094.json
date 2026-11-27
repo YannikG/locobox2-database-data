@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37094",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37094",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 399.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "CLR",
+    "type": "BR 272 (G2000)",
+    "number": "204-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 200.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 272 (Vossloh G2000 BB) mit symmetrischem Führerhaus der Cargo Logistik Rail Service GmbH, Barleben (CLR). Purpurrote Grundfarbgebung. Betriebsnummer 272 204-9. Betriebszustand ab 2024.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung pro Führerstand jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Viele separat angesetzte Details. Längsseitige Geländer am Rahmen aus Metall. Detaillierte Pufferbohle. Bremsschläuche und Schraubenkupplungsimitationen liegen als separat ansteckbare Teile bei. Beiliegende Frontabdeckungen können zusätzlich an der Pufferbohle montiert werden. Länge über Puffer 20 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37094",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/99/24993e7c82df83a8a7bc2c968f157fb21783346404.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

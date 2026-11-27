@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36641",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36641",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "HLB",
+    "type": "LINT 27",
+    "number": "203",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen LINT 27 der Hessischen Landesbahn GmbH (HLB).\n\nModell: Triebwagen mit geregeltem Hochleistungsantrieb, Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Stirnseitige Zugzielanzeige, vorbildgerecht mit gelben LEDs beleuchtet. An beiden Enden Darstellung der Mittelpufferkupplung. Zug mit getönten Fenstern und Tiefeinstiegen. Gesamtlänge 28,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36641",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/06/51/06516ce699a1daf17e17e48db1b5f6bf1536645614.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

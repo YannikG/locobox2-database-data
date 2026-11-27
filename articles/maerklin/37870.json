@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37870",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37870",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 93",
+    "number": "07",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Baureihe E 93 der Deutschen Bundesbahn (DB). Flaschengrüne Grundfarbgebung. Betriebsnummer E 93 07. Betriebszustand um 1960.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils 2 Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Zusätzlich kann die Führerstandsbeleuchtung digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Kupplungshaken liegen separat bei. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37870",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/ac/2dac9c7bed9a1af8438b21679644f9cd1434539267.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

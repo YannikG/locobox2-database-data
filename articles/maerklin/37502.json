@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37502",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37502",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 420",
+    "number": "339-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: S-Bahn- Triebzug Baureihe 420 der Deutschen Bundesbahn (DB). Ursprungsausführung der 5. Bauserie für das Stuttgarter S-Bahn Netz. Betriebszustand Ende der siebziger Jahre. Betriebsnummer 420 339-4, 421 339-3, 420 839-3 mit „Schwabenbräu“ Werbung.\n\nModell: Mit Digital- Decoder mfx . 5-poliger schräggenuteter Motor mit Schwungmasse zentral eingebaut. Antrieb mit Kardan auf 4 Achsen des Mittelwagens. Fahrgestell des Mittelwagens aus Metalldruckguss. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb. Dreilicht-Spitzensignal und zwei rote Schlusslichter. Fahrtrichtungsabhängiger Lichtwechsel. Die Endwagen besitzen Schleiferumschaltung und nehmen jeweils in Fahrtrichtung vorne den Strom auf. Beleuchtete Zugzielanzeige gemeinsam mit Dreilicht-Spitzensignal digital schaltbar. Kurzkupplungskinematik und elektrische Verbindung zwischen den Wagen. Kuppelbar mit beiliegender Spezialkupplung mit weiteren ET 420 Einheiten zum vorbildgerechten Betrieb. Serienmässige Innenbeleuchtung. Hochdetailliertes Kunststoffgehäuse mit vielen angesetzten Details, wie Griffstangen, Steckdosen, Scheibenwischer, Antennen, Pfeifen und Hörner. Mehrfarbige Inneneinrichtung. An den Enden detaillierte Darstellung der Scharfenberg- Kupplung (ohne Funktion). Verschiedene authentische Zielbeschilderungen beiliegend. Länge über Kupplung 77,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37502",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/2b/2f2b9623678cffa1d9b193fa281bd3e91434539029.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

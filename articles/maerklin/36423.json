@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36423",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36423",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 234",
+    "number": "304-4",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 234 \"Ludmilla\" der Deutschen Bahn AG ( DB AG ). Ausführung in minttürkiser Farbgebung.\n\nModell: Lokomotive in Metallausführung. Mit Digital- Decoder und Spezialmotor mit Schwungmasse , 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36423",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/a6/78a69a14c47baf071443b5b86e70bdd11434539397.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

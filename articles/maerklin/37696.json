@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37696",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37696",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 80",
+    "number": "12",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive Serie 8000 der Belgischen Eisenbahnen SNCB/NMBS. Dieselhydraulischer Antrieb mit Blindwelle.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Telex - Kupplung vorne und hinten getrennt schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37696",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6b/78/6b78fea15b4cb5a5cad74d04bdc7f0321484058687.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

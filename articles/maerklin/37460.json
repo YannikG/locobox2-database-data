@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37460",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37460",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Re 460",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Serie Re 460 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Namenslok 460 118-3 \"Gotthard\"/\"Gottardo\".\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Spitzensignal und weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Eingesetzte Metall-Griffstangen. Frontschürze wahlweise verschliessbar. Länge über Puffer 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37460",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5c/ef/5cefd641c43de566c7c0cb0947be67161434538873.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

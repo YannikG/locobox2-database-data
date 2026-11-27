@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37712",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37712",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Hochgeschwindigkeitszug InterCityExpress.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug InterCityExpress. Baureihe 402 der Deutschen Bahn AG ( DB AG ). 1 Triebkopf 402. 1 Grossraumwagen 805.3. 1 Grossraumwagen 806.6. 1 Steuerwagen 808.\n\nModell: 4-teilige Ausführung. Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spitzensignal und Innenbeleuchtung digital zuschaltbar. Führerstände im Triebkopf und im Steuerwagen mit Inneneinrichtung. 2 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Abnehmbare Bugklappen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37712",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0a/25/0a25cfaddab64b08f34b4422d1a5d67c1434539247.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

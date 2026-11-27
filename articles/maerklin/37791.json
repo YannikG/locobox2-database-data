@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37791",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37791",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Hochgeschwindigkeitszug.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug THALYS PBKA der Thalys International, Brüssel, in der mehrsystemfähigen Ausführung für den Verkehr zwischen Paris, Brüssel, Köln und Amsterdam. 2 Triebköpfe (TK1 und TK2), 1 Übergangswagen (R1) 1./2. Klasse, 1 Übergangswagen (R8) 2. Klasse. Neueste Farbgebung. Aktueller Betriebszustand 2010.\n\nModell: 4-teilige Grundgarnitur. Beide Triebköpfe (TK1 und TK2) motorisiert. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zentral eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht für französischen Lichtwechsel digital separat abschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Separat angesetzte Griffstangen aus Metall. Eingesetzte Scheibenwischer. Führerstände in den Triebköpfen mit Inneneinrichtung. Triebkopf und Übergangswagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in SNCF -Ausführungen. Pantographen sind nur mechanisch, nicht elektrisch, funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 4-teiligen Grundgarnitur 101 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37791",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3e/6d/3e6ddeabded462c23a859d0cface7bc71434539376.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37553",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37553",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 81",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie 81 der Belgischen Staatsbahnen (NMBS/SNCB).Ehemalige preussische G8.1 bzw. deutsche Baureihe 55.\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse im Kessel. Kurzkupplung zwischen Lok und Tender. Spitzensignal digital schaltbar.Kamin mit Windschutz in belgischer Ausführung. Viele angesetzte Details.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37553",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/b7/45b7b4bde5e970a4c532617da463eeec1434539001.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

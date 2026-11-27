@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39698",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39698",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 92.5",
+    "number": "502",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 251.0
+  },
+  "description": "Vorbild: Vierachsiger Dieseltriebwagen als Salon-Triebwagen Baureihe VT 92.5 der Deutschen Bundesbahn (DB). Stahlblaue Grundfarbgebung. Mit Pufferverkleidungen. Triebwagen-Betriebsnummer VT 92 502. Betriebszustand um 1956.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Über Kardan 2 Treibachsen im Motortriebdrehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Zusätzlich Führerstandbeleuchtung vorne und hinten jeweils separat digital schaltbar. Ausserdem sind Gepäckraumbeleuchtung, Gang-, WC-, Schlafabteil- und Spindraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Bewegliches Lüfterrad. Lüfterradantrieb separat digital schaltbar. Auf beiden Seiten stromführende Kurzkupplungen. Damit kann die Innenbeleuchtung von angehängten Personenwagen über die stromführende Kurzkupplung des Triebwagens separat digital geschaltet werden. Frontschürzen austauschbar für Ausführung ohne eingesteckte Kurzkupplungen. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche, Schraubenkupplungsimitationen und Heizleitungen liegen bei. Zusätzlich können die angebrachten Pufferverkleidungen, die für einen sicheren Fahrbetrieb mit angehängten Wagen notwendig sind, gegen Pufferverkleidungen in vorbildgerechter Höhe getauscht werden. Länge über Puffer 25,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39698",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/52/3952ee2536df64b117bcd8e601a55f441724162419.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

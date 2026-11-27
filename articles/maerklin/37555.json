@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37555",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37555",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Bauart G",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Bauart G der Statens Järnvägar (SJ) - Schwedische Staatsbahnen. Ehemalige preussische G 8.1.\n\nModell: Mit mfx - Decoder und geregeltem Antrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 4 Achsen angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal sowie Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Rauchsatz 72270 nachrüstbar. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Vorbildgerechte Ausführung mit Schienenräumern, zierlichen Stangenpuffern und Rauchkammer- Zentralverschluss . Viele angesetzte Details. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37555",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e9/58/e958409f8fb0ef997f7cd0bf1870c99e1434539319.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

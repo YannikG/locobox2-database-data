@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37423",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37423",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Vierteiliger Elektro- Triebzug",
+    "number": "4237",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Vierteiliger Elektro- Triebzug der Niederländischen Eisenbahnen ( NS ). Serie ELD4 \"Koploper\" als Intercity Triebzug ICM-4, mit der Betriebsnummer 4237. 1 Motorwagen als Endwagen mBDk 2. Klasse, 1 Mittelwagen mB 2. Klasse, 1 Mittelwagen A 1. Klasse, 1 Steuerwagen als Endwagen sBFk 2. Klasse.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 4-teilige Ausführung. Fahrgestell beim motorisierten Endwagen aus Druckguss. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Führerstände in den beiden Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Spezial-Kurzkupplungen mit Kulissenführung. Serienmässig eingebaute Innenbeleuchtung. Inneneinrichtung auf den jeweiligen Wagentyp abgestimmt. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter sowie Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzensignal an Endwagenseite 2 und 1 jeweils digital separat abschaltbar. Spitzensignal mit vorbildgerechten leicht gelben und roten Leuchtdioden ( LED ). Innenbeleuchtungen mit warmweissen LED . Detaillierte Ausführung von Fahrwerk und Aufbau. An den Endwagen Darstellung der \"Scharfenberg\"- Kupplung mit Abdeckung. Für Doppeltraktion liegt eine zusätzliche starre Kupplungsverbindung bei. Im Serienzustand Ausführung der Endwagen mit geschlossenen Übergangstüren. Darstellung der an einem Endwagen zur Seite geschobenen Schwenktüren mit Faltenbalg ist mit beigelegtem Einsteckteil möglich. Gesamtlänge des Zuges 114,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37423",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/e4/f4e4757dcee172dbb23ef3bb378d8ed81434538773.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

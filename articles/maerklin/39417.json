@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39417",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39417",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 41",
+    "number": "225",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Baureihe E 41 der Deutschen Bundesbahn (DB). Mit 5 Lampen, abgerundeten Lüftern, senkrechten Lamellen und umlaufender Regenrinne. Farbgebung chromoxidgrün. Betriebsnummer 41 225. Betriebszustand September 1962.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Wenn der Rangiergang angeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Trennbare, Strom führende Kupplung digital schaltbar. Angesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39417",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/3e/573e80d67fdcb6c32514b29d9b1dd7ff1484060144.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

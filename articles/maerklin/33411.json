@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33411",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33411",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Rc3",
+    "number": "1047",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Reihe Rc3 der Schwedischen Staatsbahnen (SJ). Aktuelle Ausführung.\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Beweglicher Schienenräumer mit integrierter Norm-Kupplungsaufnahme. Angesetzte Zusatzlüfter am Dach. Einholm- Dachstromabnehmer . Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33411",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6b/9c/6b9ce995076ef2e1df6cf5b2f2ee7e861434538884.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

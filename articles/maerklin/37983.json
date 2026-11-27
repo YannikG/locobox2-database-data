@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37983",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37983",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "SP",
+    "type": "2-8-4 Berkshire",
+    "number": "3505",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Dampflokomotive mit der Achsfolge 2-8-4 \" Berkshire \" der Southern Pacific . Tiefschwarze Grundfarbgebung. Betriebsnummer 3505. Betriebszustand zwischen 1945 und 1950. Eine von 25 gebauten Lokomotiven mit dem markanten Coffin-Vorwärmer.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben, davon drei Achsen über Kuppelstangen. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselnde Stirnbeleuchtung mit je einer Lampe an Lok und Tender konventionell in Betrieb, digital schaltbar. Führerstands- und Nummerntafelbeleuchtung sowie Feuerbüchsenflackern separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Lokführer- und Heizerfigur im Führerstand sitzend. Rohrleitungen für den Bereich unterhalb des Führerhauses liegen als separat ansteckbare Teile bei. Länge ca. 31,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37983",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5d/71/5d71bad111950f7b851fab24c5644d6b1771930836.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

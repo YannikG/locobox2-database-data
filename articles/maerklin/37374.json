@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37374",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37374",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Baureihe 101 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Fernscheinwerfern. 2 Achsen angetrieben. 4 Haftreifen . Bewegliche Imitationen der Zug- und Druckstangen zur Drehgestellanlenkung. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Schnellfahr- Dachstromabnehmer . Angesetzte Dachspoiler. Spitzensignal konventionell in Betrieb, digital schaltbar. Fernscheinwerfer vorne, Fernscheinwerfer hinten sowie Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37374",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/bd/7abd79a0fd5f548dcefc0f57aa3d09eb1434539075.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

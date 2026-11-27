@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33723",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33723",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 212",
+    "number": "267-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 141.0
+  },
+  "description": "Vorbild: Baureihe 212 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit Delta-Elektronik. Rahmen aus Metall. 2 Achsen angetrieben. 4 Haftreifen . Länge über Puffer 14,1 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33723",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/3c/c33c3035820680af3e79c8627d8230231434539019.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

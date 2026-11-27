@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37128",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37128",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "EETC",
+    "type": "Serie 1200",
+    "number": "003-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200 der niederländischen EETC. Werbegestaltung zum Jubiläum 175 Jahre Eisenbahn in den Niederlanden. Betriebszustand 2013.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Drei-Licht- Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Separat angesetzte Griffstangen aus Metall. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37128",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b1/37/b1373d949985b74965d9bf4b1e2c5c771434539262.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

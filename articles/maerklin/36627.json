@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36627",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36627",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Rh 482",
+    "number": "026-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 482 (1. Bauserie) der Schweizerischen Bundesbahn ( SBB ), Unternehmensbereich Cargo. Ausführung der ersten Bauserie mit 4 Dachstromabnehmern.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36627",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/c0/f4c090ae5fd7d178b63aad5833e18a6a1460130625.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

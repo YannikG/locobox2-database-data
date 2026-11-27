@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37003",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37003",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 100.10",
+    "number": "1365",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 139.0
+  },
+  "description": "Vorbild: Diesellokomotive V 100.10 der Deutschen Bundesbahn (DB). Purpurrote Ausführung der Epoche III. Betriebszustand um 1967/1968.\n\nModell: Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Telex - Kupplung vorne und hinten separat schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden ( LED ). Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 13,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37003",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/bb/44bb4de96bd7fd39672d5650c25b79ea1434539164.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

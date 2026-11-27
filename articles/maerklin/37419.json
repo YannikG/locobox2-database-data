@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37419",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37419",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "TAGAB",
+    "type": "Reihe Rc 2",
+    "number": "009",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Reihe Rc 2 der schwedischen Privatbahn TAGAB. Spitzenlichter oben wie bei den österreichischen 1043 Lokomotiven. Rote Einholmstromabnehmer , Schneepflug in alter Bauart. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37419",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/47/cc/47cce17c9960d352d336102f190152a31467120216.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

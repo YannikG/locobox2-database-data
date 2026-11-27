@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37116",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37116",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": "112",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 18.1 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Frühere Württemberger Reihe C.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37116",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/e4/50e44e0a038ffce45736790b00fab1951434538760.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

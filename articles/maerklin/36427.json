@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36427",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36427",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Schwere Diesellokomotive .",
+    "number": "310-7",
+    "livery": "Looney Tunes",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 232 \"Ludmilla\" der Deutschen Bahn AG ( DB AG ).\n\nModell: Lokomotive in Metallausführung, mit Digital- Decoder mfx , Spezialmotor mit Schwungmasse und schaltbaren Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Lokomotive gestaltet mit Motiven aus der Welt der \"Looney Tunes\". Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36427",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/38/c4/38c43c59cf040403e2c1ac5c440bf25a1434539080.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

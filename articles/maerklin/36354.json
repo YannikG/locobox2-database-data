@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36354",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36354",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 339.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ee 3/3",
+    "number": "16352",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektrische Rangierlokomotive Serie Ee 3/3 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Feuerrote Grundfarbgebung. Zweite Bauserie ab 1932, mit Führerhaus in der Mitte liegend. 2 Rangierbühnen. Lok-Betriebsnummer 16352. Betriebszustand um 2005.\n\nModell: Mit Digital- Decoder mfx und Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 weisse Schlusslichter konventionell in Betrieb, digital schaltbar. Zusätzlich Schweizer Lichtwechsel mit einem weissen Schlusslicht bei Lok mit Wagen und einem roten Schlusslicht bei Solofahrt der Lok digital schaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit neuer Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer . Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und vorbildgetreue Kupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36354",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/bb/39bb036fa77a5311a41874944ff3d7b71724162424.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

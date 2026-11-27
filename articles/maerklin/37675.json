@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37675",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37675",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 1800",
+    "number": "12",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 226.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 1800 der Luxemburgischen Staatsbahnen ( CFL ), mit CFL Cargo Logo. Gekennzeichnet mit Aufschrift zum 150-jährigen Jubiläum der Eisenbahn in Luxemburg. Aktueller Betriebszustand 2009.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Länge über Puffer 22,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37675",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/65/8265f6f82393bd71822bb2bbc875427a1434539378.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

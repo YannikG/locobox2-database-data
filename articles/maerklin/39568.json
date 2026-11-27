@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39568",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39568",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 III",
+    "number": "14314",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Güterzug-Elektrolokomotive Serie Ce 6/8 III \" Krokodil \" der Schweizerischen Bundesbahnen ( SBB ). Dunkelbraune Grundfarbgebung. Bauart aus der 2. Bauserie. Lok-Betriebsnummer 14314. Betriebszustand Anfang 1930er-Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurvengängiges Gelenkfahrwerk. 3-teiliges Metallgehäuse mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung. Länge über Puffer 23 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39568",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/49/94/4994ab5d15f8f7bb1910dd105e87371b1533880821.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

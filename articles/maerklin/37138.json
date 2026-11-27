@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37138",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37138",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 73 (ehemalige D XII)",
+    "number": "085",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Baureihe 73 (ehemalige D XII) der Deutschen Reichsbahn-Gesellschaft ( DRG ). Betriebsnummer 73 085. Betriebszustand 1920er Jahre.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Viele separat angesetzte Details. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37138",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/64/d5/64d514db93b677ae86a500b38e5a3a191434539368.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

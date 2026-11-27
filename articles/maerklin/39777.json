@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39777",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39777",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Schienenzeppelin",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Propellergetriebener Kruckenberg- Schienenzeppelin . Ein legendärer Klassiker der 1930er Jahre.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung konventionell in Betrieb, separat digital schaltbar. Führerstandsbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Heckpropeller separat digital schaltbar, konventionell in Betrieb. Bei Rangier- und Rückwärtsfahrt ist ein Elektromotor zu hören, der Propeller ist aus. Lokführerfigur im Führerstand . Inneneinrichtung mit Miniatur-Figuren als Reisende bestückt. Fahrzeuglänge ca. 28,5 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39777",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ff/cf/ffcfcb9db52b8db58c5762037ffc92751603519226.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36430",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36430",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Raildox",
+    "type": "BR 232",
+    "number": "103-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 232 \"Ludmilla\" der Raildox GmbH & Co. KG, Erfurt. Betriebsnummer 232 103-2. Betriebszustand 2015.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36430",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a1/79/a1797a167a8a214c6118c8bdfab952871456828465.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39206",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39206",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 01",
+    "number": "0505-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 282.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.5 mit Öl-Tender als Öl-Hauptfeuerung. Reko-Ausführung der Deutschen Reichsbahn der DDR (DR/DDR). Mit Speichen-Rädern, Einheitskastentender 2´2´T34 (Öl), Witte-Windleitblechen in spezieller Bauform für die BR 01.5, durchgehender Domverkleidung, ohne Indusi , mit Zierstreifen. Betriebsnummer 01 0505-6. Betriebszustand um 1975/76.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 28,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39206",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/4a/e84ad7a8e989bfd5ac3565352731a99c1467898128.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

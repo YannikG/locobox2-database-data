@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36851",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36851",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie 482",
+    "number": "011-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 482 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Zweisystemlokomotive.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36851",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/21/a2/21a2fcb26e8014271db91e02406f7b8e1434539329.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

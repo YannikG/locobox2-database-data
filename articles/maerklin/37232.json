@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37232",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37232",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 22",
+    "number": "2201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie 22 der Belgischen Staatsbahnen (NMBS/SNCB).\n\nModell: Umbauversion mit Detailänderungen. Mit Digital- Decoder , einstellbarem Hochleistungsantrieb und Zusatzfunktionen. Spitzensignal bei konventionellem Betrieb funktionsfähig und digital schaltbar. 2 Signalhorngeräusche und Anfahr-/Bremsverzögerung mit Control Unit 6021 digital schaltbar. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtungen. Stirnlampengehäuse separat angesetzt. Weitere angesetzte Details. Kupplungen gegen Frontschürze austauschbar.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37232",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/82/1782e97535adea040c75a0cfb69ebd301434539152.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

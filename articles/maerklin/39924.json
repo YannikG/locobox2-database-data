@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39924",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39924",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 92",
+    "number": "739",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 92. Ausführung als Ausstellungslokomotive der Dampflok-Erlebniswelt in Meiningen. Beschriftet als 92 739 im Aussehen der Deutschen Bundesbahn.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Schraubenkupplungen liegen als separat ansteckbare Teile bei. Ein beiliegendes Booklet informiert über die Geschichte der Lokomotive. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39924",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/eb/ac/ebac440eb5682af45a9ef0b5554cdc791745949627.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

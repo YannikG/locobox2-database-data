@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30050",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30050",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 23",
+    "number": "041",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 240.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 23 der Deutschen Bundesbahn (DB). Silberne Ausführung der Kesselspannbänder. Betriebszustand um 1960.\n\nModell: Wiederauflage eines Märklin-Klassikers auf Basis des Artikels 3005. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Zweilicht-Spitzensignal an der Vorderseite der Lokomotive, konventionell in Betrieb, digital schaltbar. Lokomotivgehäuse und Fahrgestell aus Metall. Erhabener \"Märklin\"-Schriftzug, erhabene Betriebsnummer und erhabene Artikelnummer am Führerhaus. Entsprechend dem alten Vorbild Räder und Gestänge blank vernickelt. An der Lok-Vorderseite Kupplungshaken , am Tender Relex - Kupplung . Länge über Puffer 24 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30050",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/04/a30442057c538210040c68fb1a84d6ea1434538836.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

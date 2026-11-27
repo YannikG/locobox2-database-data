@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37975",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37975",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe B VI",
+    "number": "3620",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung für Torffeuerung ohne hohen Torftender. Lokomotiv-Name mit Namensschild \"Orlando di Lasso\".\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. Hochleistungsmotor mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Aussenrahmen und Stephenson- Steuerung . Spitzensignal konventionell in Betrieb, digital schaltbar. Kurzkupplung zwischen Lok und Tender. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,3 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37975",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/db/29db218749e8d89b5b45b29d0e9d8e471434538905.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

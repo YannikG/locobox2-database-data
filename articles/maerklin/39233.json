@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39233",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39233",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 23",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 245.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 23 der Deutschen Bundesbahn (DB). Betriebszustand nach 1960. Schwarze Ausführung der Kesselspannbänder.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Eingerichtet für Rauchsatz 7226. Lokomotive und Tender weitgehend aus Metall. Kurzkupplung mit Kinematik zwischen Lok und Tender. An der Lok und am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Bremsschlauch-Attrappen und Kolbenstangenschutzrohre liegen bei. Länge über Puffer 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39233",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/75/c375fac4ba67741b251c1a410e6f75c01434538849.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

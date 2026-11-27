@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34232",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34232",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR VT 89",
+    "number": "901",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe VT 89.9 der Deutschen Bundesbahn (DB).\n\nModell: Mit DELTA-Elektronik in Sonderausführung. Miniaturmotor. 2 Achsen angetrieben. 1 Haftreifen . Länge über Stossstangen 11,6 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34232",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/0f/820f2ff6d8eb9f24107da120a34d2af31434539474.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

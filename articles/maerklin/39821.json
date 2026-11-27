@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39821",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39821",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200",
+    "number": "150",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe V 200.1 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus und Geräuschelektronik. 2 Achsen angetrieben. Haftreifen . Führerstände und Maschinenraum mit Inneneinrichtung. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39821",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/aa/5f/aa5fab9bfaaf164888c31375f6bc555f1434538920.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39420",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39420",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 I",
+    "number": "10015",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 I der Schweizerischen Bundesbahnen ( SBB ). Im grünen Ursprungs-Betriebszustand der Epoche III um 1965.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb C-Sinus in kompakter Bauform. Alle 4 Achsen angetrieben. Haftreifen . Separat angesetzte Dachlauftritte. Eingesetzte Griffstangen aus Metall. Darstellung der stirnseitigen Übergangsbleche und Handgriffe. Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39420",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fe/6c/fe6ca2a726c2bc6ebf0509af8c232cad1434539281.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

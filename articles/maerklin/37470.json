@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37470",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37470",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 04",
+    "number": "18",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 178.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe E 04 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Metallgriffstangen. Länge über Puffer 17,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37470",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/e0/dce0d265e49d90257d0acb3bcb851ca01434539330.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

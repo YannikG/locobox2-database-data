@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33186",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33186",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "S 3/6",
+    "number": "3673",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Reihe S 3/6 der Königlichen Bayerischen Staatsbahn (K.Bay.Sts.B), spätere Baureihe 18.4 der deutschen Reichsbahn ( DRG ). Königsblaue Sonderlackierung der betriebsfähig erhaltenen Lokomotive Nr. 3575.\n\nModell: Mit DELTA-Elektronik. 3 Achsenangetrieben. 2 Haftreifen . Durchbrochener Rahmen. Aufgesetzte Schornsteinkrempe. Eingerichtet für Rauchsatz 72270 (konventioneller Betrieb) bzw. Seuthe Nr.24 (DELTA-/Digital-Betrieb).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33186",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/44/fd44e95e9a3b898326848d35c733f3611434539001.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

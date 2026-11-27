@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39205",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39205",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 01",
+    "number": "512",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 282.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.5 mit Kohlen-Tender. Reko-Ausführung der Deutschen Reichsbahn der DDR (DR/DDR). Mit Boxpok -Rädern, Kohlen-Einheitskastentender 2´2´T34, Witte-Windleitblechen in spezieller Bauform für die BR 01.5, durchgehender Domverkleidung, einseitiger Indusi und Puffertellerwarnanstrich. Betriebsnummer 01 512. Betriebszustand um 1967.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 28,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39205",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5d/3c/5d3c6cb2352378b71b60af50054f0ba51467897991.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

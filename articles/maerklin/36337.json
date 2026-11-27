@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36337",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36337",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Ue",
+    "number": "592",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV+V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Rangierlokomotive Reihe Ue der Schwedischen Staatsbahnen (SJ).\n\nModell: Mit Digital- Decoder mfx und Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36337",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/74/28/74289388992a1e97f8990711b2dbf0311434538897.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

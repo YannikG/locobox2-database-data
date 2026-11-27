@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36829",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36829",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SOB",
+    "type": "Traktor Tm 34",
+    "number": null,
+    "livery": "Mandarinli",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Traktor Tm 34 \"Mandarinli\" der Südostbahn (SOB). Ausführung mit geschlossenem Führerhaus und zusätzlichen Luftkesseln.\n\nModell: Mit Digital- Decoder mfx . 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Telex - Kupplung digital schaltbar. Separat angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control-Unit 6021 digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36829",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/86/c5/86c5c5a3f4cba94457170a31ad19e2f81434539230.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

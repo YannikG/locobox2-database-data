@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36342",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36342",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 335 (Köf III)",
+    "number": "183-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Dieselrangierlokomotive Baureihe 335 (Köf III) der Deutschen Bundesbahn (DB) in Epoche V. Farbgebung in Orientrot. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an beiden Seiten abschaltbar. Telex - Kupplung vorne und hinten getrennt schaltbar. Freier Durchblick im Führerhaus, Griffstangen angesetzt. Bremsleitungen und Rangierkupplungen liegen bei. Länge über Puffer 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36342",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/d1/58d15aab1acd9763089149477a35109a1467108922.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

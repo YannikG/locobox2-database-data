@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36848",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36848",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR ER 20",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Baureihe ER 20 des Allgäu-Express \"alex\". Dieselelektrische Bauart. Achsfolge Bo´Bo´.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36848",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/38/4238e4a698d31a54fced9f86cc9cdf8f1434539186.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

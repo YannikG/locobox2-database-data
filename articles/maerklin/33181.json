@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33181",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33181",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "S 3/6",
+    "number": "3644",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Reihe S 3/6 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.).\n\nModell: Mit DELTA-Elektronik. 3 Achsen angetrieben. 2 Haftreifen . Eingerichtet für Rauchsatz Nr. 72270 (konventioneller Betrieb) oder Seuthe Nr. 24 (DELTA-/ Digital-Betrieb).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33181",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/aa/ab/aaab6acff8417f3abfd3c781580823e91434539159.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

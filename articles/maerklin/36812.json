@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36812",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36812",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 381",
+    "number": "018-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe 381 der Deutschen Bahn AG ( DB AG ). Früher Baureihe Ks, danach Ka. Einsatz im Ausbesserungswerk Opladen.\n\nModell: Mit Digital- Decoder mfx und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36812",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/d5/4ed51b34b9e73db81265466244e32fb51434539117.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

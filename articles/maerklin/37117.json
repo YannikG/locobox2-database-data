@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37117",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37117",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": "111",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 18.1 der Deutschen Reichsbahn Gesellschaft ( DRG ). Frühere Württemberger Reihe C. Betriebsnummer 18 111, Betriebszustand um 1928. Unter anderem Zuglokomotive des legendären \"Orient Express\".\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Vorbereitet für Rauchsatz 72270. Lokomotive weitgehend aus Metall wie beispielsweise Kessel, Kamin, Dom, Führerhaus, Umlauf und Tender. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37117",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/51/d6/51d6b37b1e30ca2a8233e030095b92021434538871.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

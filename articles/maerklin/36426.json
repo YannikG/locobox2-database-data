@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36426",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36426",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "PL",
+    "operator": "PCC Rail",
+    "type": "BR 232",
+    "number": "275",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 232 \"Ludmilla\" der PCC Rail Szczakowa S. A., Polen.\n\nModell: Lokomotive in Metallausführung, mit Digital- Decoder mfx , Spezialmotor mit Schwungmasse und schaltbaren Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36426",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/35/1735aae16b5ecce1a81bdc1e1355a9ff1434538930.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

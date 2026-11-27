@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37750",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37750",
+  "releaseDate": "2002",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 75",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Baureihe E 75 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschmodul Druckluftpfeife. 4 Achsen angetrieben. 2 Haftreifen . Maschinenraum mit Imitation der Inneneinrichtung. Spitzensignal konventionell in Betrieb, digital schaltbar. Druckluftpfeife sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 oder Märklin Systems digital schaltbar. Länge über Puffer 17,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2002"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37750",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/43/9e/439ed3908ffa8b3a79d3746698d0e2431434539385.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

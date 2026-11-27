@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37107",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37107",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10",
+    "number": "231",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 10.1 der Deutschen Bundesbahn (DB). Mit eckigem Lokkasten, 5 Stirnlampen, umlaufende Regenrinne und Hochleistungslüfter. Grundfarbgebung kobaltblau/schwarz. Betriebszustand um 1964.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37107",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/46/fd464bad66fb68cf975fbbb9ae23a0731434538698.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

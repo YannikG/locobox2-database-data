@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36895",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36895",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 185.2",
+    "number": "260-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 185.2 der Deutschen Bahn AG ( DB AG ). Einsatz für die Güterbahn Railion Deutschland/DB Logistics. Zweisystemlokomotive gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm. Verschneite Ausführung. Betriebszustand im Winter.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 2 mechanisch funktionsfähige Dachstromabnehmer . Verschneite Ausführung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36895",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/80/e7/80e74fdf1a4a5938cbef160c952c001e1479215488.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

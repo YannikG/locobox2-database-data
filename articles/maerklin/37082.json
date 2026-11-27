@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37082",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37082",
+  "releaseDate": "2003",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 10",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 305.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Design-Ausführung Krauss-Maffei für die Baureihe 10 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich Fahrwerksbeleuchtung separat digital schaltbar. Eingerichtet für Rauchsatz 72270. Lokomotive und Tender weitgehend aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Befahrbarer Mindestradius 360 mm. Bremsschläuche liegen separat bei. Länge über Puffer 30,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37082",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/41/d7/41d73e5583c91b9c52ae81024e076fc31453207949.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

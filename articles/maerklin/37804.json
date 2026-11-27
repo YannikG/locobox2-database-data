@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37804",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37804",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR D 220",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Baureihe D 220 der italienischen Ferrovie Emilia Romagna (FER). Die frühere Baureihe 220 der Deutschen Bundesbahn (DB), wurde nach der Ausmusterung nach Italien verkauft. Einsatz überwiegend vor schweren Güterzügen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37804",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8d/09/8d09bed123deb77d0e11c289f55d1b901434539293.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

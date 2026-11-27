@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34880",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34880",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 044",
+    "number": "534-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 260.0
+  },
+  "description": "Vorbild: Baureihe 044 der Deutschen Bundesbahn (DB).\n\nModell: Mit DELTA-Elektronik. 5 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Verstellbare Kurzkupplung zwischen Lok und Tender. Vorne Norm-Kupplungsaufnahme, am Tender Kurzkupplung mit Kulissenführung. Eingerichtet für Rauchsatz 7226 (konventioneller Betrieb) oder Seuthe Nr. 11 (DELTA-/Digital-Betrieb). Länge über Puffer 26,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34880",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/df/c5/dfc54f61fb7ba1ccd0188d19ab4450a81434538869.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

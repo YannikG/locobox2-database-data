@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34374",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34374",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": "008-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Baureihe 101 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Bewegliche Imitationen der Zug- und Druckstangen zur Drehgestellanlenkung. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Schnellfahr- Dachstromabnehmer . Angesetzte Dachspoiler. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34374",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a5/be/a5be53bf11d0443bfec5476f718eee1f1434539188.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

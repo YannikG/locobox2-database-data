@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39804",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39804",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200",
+    "number": "020",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Baureihe V 200.0 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive in klassischer purpurroter Farbgebung mit markantem Schriftzug \"Deutsche Bundesbahn\", im Betriebszustand um 1958.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39804",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/db/c9db742988ab555a3e448683d35145051434538714.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

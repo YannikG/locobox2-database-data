@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37941",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37941",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe T44",
+    "number": "364",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Reihe T44 der Schwedischen Staatsbahnen (SJ). Ausführung in blauer Farbgebung.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform, zentral eingebaut mit Schwungmasse und 2 Kardanwellen. 4 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen LED . Spitzensignal und Schlusslicht konventionell in Betrieb, digital schaltbar. Angedeutete Führerstandseinrichtung. Angesetzte Metallgriffstangen. Länge über Puffer 17,7 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37941",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/0f/900fa5d5f2cc9c0b5c80789ec004f0ff1434538619.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

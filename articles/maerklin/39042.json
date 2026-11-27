@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39042",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39042",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 42",
+    "number": "1417",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 42, mit Wannentender 2´2´T30 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Mit Witte-Windleitblechen der Regelausführung, Vorlauf - Radsatz mit Vollrädern, beide unteren Stirnlampen vorne an der Lok im Zylinderblock eingebaut. Kein Löscheschutzblech unterhalb der Rauchkammertür. Lok-Betriebsnummer 42 1417. Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Wannentender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39042",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f7/4a/f74a5f5ca371c9ec8ff35533843d0e341483904241.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37162",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37162",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 094 (frühere BR 94",
+    "number": "651-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 094 (frühere BR 94.5-17) der Deutschen Bundesbahn (DB), mit Läutewerk und Vorwärmer auf dem Kesselscheitel, Rangierfunkantenne und Hülsenpuffer . Betriebsnummer 094 651-7. Betriebszustand um 1969/70.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37162",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b5/e0/b5e0641719d3b8ccc9d8a1953cc0a28c1434539312.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

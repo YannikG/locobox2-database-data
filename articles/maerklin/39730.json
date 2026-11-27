@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39730",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39730",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 648.2 (LINT 41) der Deutschen Bahn AG ( DB AG ). Ausführung mit Tiefeinstiegen. Betriebszustand 2011.\n\nModell: Mit vier eingebauten Displays, die im Digitalbetrieb die Türen darstellen bzw. typische Ein- und Ausstiegsszenen abspielen können. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige, Innenbeleuchtung und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung mit 29 stehenden bzw. sitzenden Figuren, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39730",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9d/54/9d546ba65ca86262ffbf3506bc0f214f1434539032.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

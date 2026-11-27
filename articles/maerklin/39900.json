@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39900",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39900",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 294",
+    "number": "863-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Diesel- Rangierlokomotive Baureihe 294 der Deutschen Bahn AG. Verkehrsrote Grundfarbgebung. Betriebsnummer 294 863-6. Betriebszustand ab 2007.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Der Lokführer dreht sich in die jeweilige Fahrtrichtung und schaut bei Stillstand aus dem Fenster. Telex - Kupplung und Führerstandsbeleuchtung digital schaltbar. Kupplungswalzer . Führerstand mit Relief-Inneneinrichtung. Pufferhöhe nach NEM . Separat angesetzte Griffstangen, Geländer und Imitationen der automatischen Kupplung . Zusätzliche Trittstufen unter dem Führerstand für grössere Gleisradien und Bremsschläuche liegen als separat ansteckbare Teile bei. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39900",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/59/6c59863d8690e626bc13bff2fafb42ba1725433205.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37175",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37175",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 52",
+    "number": "1911",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 52 der Deutschen Bundesbahn (DB). Ausführung mit Kondenstender . Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 5 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 26,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37175",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/d4/7ad4c36605b10b16c95fbd7e780887251434539250.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

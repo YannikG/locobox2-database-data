@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39170",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39170",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103.1",
+    "number": "243-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 232.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Ausführung mit verlängertem Führerstand , Pufferverkleidung und Frontschürze mit der Betriebsnummer 103 243-2 in purpurrot/beiger Farbgebung. Beheimatung im Bahnbetriebswerk Hamburg-Eidelstedt. Betriebszustand Ende der 1970er Jahre.\n\nModell: Mit mSD3 Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Der Decoder unterstützt die Digitalformate mfx , MM1, MM2 und DCC . 5poliger Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandsbeleuchtung digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Bewegliche Lokführerfigur in beiden Führerständen digital schaltbar. Lokführer mit Richtungswechsel auch im Analogbetrieb. Neue, filigrane Einholm-Stromabnehmer. Stromabnehmer digital schaltbar. Angesetzte Scheibenwischer. Angesetzte Griffstangen und Dachleitungen aus Metall. Geschlossene Schürze, Bremsleitungen, Steckdosen, Schraubenkupplung und Trittstufen liegen als separat ansteckbare Teile bei. Länge über Puffer 23,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39170",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/49/4449ff40ba03a8a5b41073717e30a25c1543474822.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

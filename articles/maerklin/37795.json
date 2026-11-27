@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37795",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37795",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Hochgeschwindigkeitszug.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug THALYS PBKA der Thalys International, Brüssel, in der mehrsystemfähigen Ausführung für den Verkehr zwischen Paris, Brüssel, Köln und Amsterdam. 2 Triebköpfe (TK1 und TK2), 1 Übergangswagen (R1) 1. Klasse, 1 Übergangswagen (R8) 2. Klasse. 2 Mittelwagen (R2 und R3) 1. Klasse, 1 Barwagen (R4) 2. Klasse, 3 Mittelwagen (R5, R6, R7) 2. Klasse. Sonderausführung zur Premiere des Films \"Die Abenteuer von Tim und Struppi - Das Geheimnis der Einhorn\". Betriebszustand für die Sonderfahrt am 22.10.2011 von Brüssel nach Paris.\n\nModell: Kompletter 10-teiliger Zug. Beide Triebköpfe (TK1 und TK2) motorisiert. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zentral eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen . Übergangs- und Mittelwagen mit serienmässig eingebauter Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht für französischen Lichtwechsel digital separat abschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). An den Triebköpfen separat angesetzte Griffstangen aus Metall und eingesetzte Scheibenwischer. Führerstände in den Triebköpfen mit Inneneinrichtung. Triebköpfe und Übergangswagen sowie die Mittelwagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in SNCF -Ausführungen. Pantographen sind nur mechanisch, nicht elektrisch, funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 10-teiligen Garnitur 230 cm. Kompletter Zug in exklusiver Sonderverpackung. Mit durchnummeriertem Echtheitszertifikat.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37795",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/02/80/02808bebd736c2d90d3071d8832b514b1434538991.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

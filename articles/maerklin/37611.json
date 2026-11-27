@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37611",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37611",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "ATSF",
+    "type": "Rh 52",
+    "number": "61",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnellzuglokomotive Reihe 52 der Atchison Topeka & Santa Fe Railway (AT & SF). Typ PA-1 der American Locomotive Company (ALCO). Dieselelektrischer Antrieb. Betriebsnummer 61L.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb, Geräuschgenerator und Zusatzfunktionen. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal und beleuchtete Nummerntafeln konventionell in Betrieb, digital schaltbar. Blinklicht, Dieselmotorgeräusch, Signaltöne sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Leistungsfähiger Lautsprecher. Lautstärke einstellbar. Anschlussmöglichkeit für eine zweite motorisierte Lokomotive ohne Decoder (49611), die über den Decoder der ersten Lokomotive gesteuert wird. Kurzkupplung in der Normaufnahme austauschbar gegen amerikanischen Kupplungstyp oder Abdeckblende. Länge über Kupplungen 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37611",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4d/9d/4d9d01616ac83a678c10013bc99eb4ce1434538833.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

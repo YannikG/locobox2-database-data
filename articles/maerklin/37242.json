@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37242",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37242",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Gruppe E 424",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 176.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Gruppe E 424 der Italienischen Staatsbahnen ( FS ). Umbauausführung. Dachstromabnehmer nach italienischer Bauart.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung digital schaltbar. Schienenräumer aus Metall. Eingesetzte Metallgriffstangen. Länge über Puffer 17,6 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37242",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/4e/dc4ed9a3eb1518e918f6633f5f79c91b1434539094.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

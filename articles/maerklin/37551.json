@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37551",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37551",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Reihe G 8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Reihe G 8.1 der Königlich Preussischen Eisenbahnverwaltung (KPEV) spätere Baureihe 55 der Deutschen Reichsbahn ( DRG ).\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spitzensignal digital schaltbar.4 Achsen angetrieben. 2 Haftreifen . Spezial-Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel eingebaut. Spezialgetriebe mit Kegelrädern. Kurzkupplung zwischen Lok und Tender. Viele angesetzte Details. Eingerichtet für Rauchsatz 72270 (konventioneller Betrieb) bzw. Seuthe Nr. 24 (DELTA-/Digital-Betrieb).",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37551",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/7b/787b12cb0daa07d6425e3589d48b2c161434538845.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

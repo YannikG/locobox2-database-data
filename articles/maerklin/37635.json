@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37635",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37635",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "MaK 1206",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ MaK 1206. Privatbahn-Lokomotive der Firma ACTS, eingestellt bei den Niederländischen Eisenbahnen ( NS ).\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen LED . Spitzensignal und rote Schlusslichter konventionell in Betrieb, digital schaltbar. Umlaufende Bühnengeländer aus Metall. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37635",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/ad/ddaddb9b183c4c9db1865eac84c3010f1434539162.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

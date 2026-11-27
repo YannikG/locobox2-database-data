@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39183",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39183",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 218 der Deutschen Bundesbahn (DB). Dieselhydraulische Lokomotive mit elektrischer Zugheizung.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Zentral eingebauter Motor in kompakter Bauform. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39183",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/58/34583f0cab80dd062a30ce74488e8eec1434539094.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

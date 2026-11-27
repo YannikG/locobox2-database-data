@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37224",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37224",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MWB",
+    "type": "BR 1020 (ex E 94)",
+    "number": "041-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe 1020 (ex E 94) der Mittelweserbahn (MWB).\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Angesetzte Griffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Schlusslichter, Hornsignal sowie Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Systems schaltbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37224",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/6a/7a6aa92605606ff3c4d17f5a076653ea1434539216.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

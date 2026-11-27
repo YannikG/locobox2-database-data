@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37556",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37556",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 040 D EST",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Serie 040 D EST der Französischen Staatsbahnen ( SNCF ). Ehemalige preussische G 8.1.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 4 Treib- und Kuppelachsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal sowie Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen LED . Rauchsatz 72270 nachrüstbar. Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37556",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/df/29df04b80c4835283e11aba35cf6d9141434539465.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

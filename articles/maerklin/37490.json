@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37490",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37490",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "GG-1",
+    "number": "4935",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Typ GG-1 der Pennsylvania Railroad (PRR). Achsfolge 4-6-6-4. Gebaut von General Electric und Westinghouse. Ursprungsausführung im Design Brunswick Green.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. Hochleistungsmotor mit Glockenanker zentral eingebaut. 4 Achsen in beiden Treibgestellen angetrieben. 4 Haftreifen . Kurvengängiges Fahrwerk mit 2 Treib- und 2 Laufgestellen. Beleuchtung mit wartungsfreien LED . Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Fernlicht, Führerstandsbeleuchtung, E-Lok-Fahrgeräusch sowie Direktsteuerung (Anfahrbeschleunigung / Bremsverzögerung) mit Control Unit oder Systems schaltbar. Als weitere Betriebsgeräusche sind Glockenläuten, Hornsignal, Pantograhpen-Betätigungsgeräusch und Lüfter-Betriebsgeräusch mit Systems schaltbar. Mit der Central-Station lassen sich ferner Schaltwerk-Klacken, Kabinenfunk-Durchsage, Kuppelgeräusch und Schienenstoss -Klacken auslösen sowie das Bremsenquietschen abschalten. Grosse Dachstromabnehmer amerikanischer Bauart. Länge über Kupplungen 28,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37490",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/93/8293bd6b17fa0ae0c5dd9874e9166dcc1434538853.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

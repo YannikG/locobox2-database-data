@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37676",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37676",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe MV 1134",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 205.0
+  },
+  "description": "Vorbild: Diesellokomotive Reihe MV 1134 der Dänischen Staatsbahnen (DSB). Dieselelektrische NOHAB-Mehrzweckmaschine in Zustand der Epoche IV.\n\nModell: Geregelter Hochleistungsantrieb mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 20,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37676",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/ad/e2ad39af9ca6b80437d3cca8637773f21434539009.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

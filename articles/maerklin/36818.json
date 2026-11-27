@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36818",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36818",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "X 112",
+    "number": "03",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Baureihe X 112 (Köf II) der Österreichischen Bundesbahnen ( ÖBB ). Ausführung mit geschlossenem Führerhaus. Betriebszustand Anfang der 1970er-Jahre.\n\nModell: Mit Digital- Decoder mfx und Telex - Kupplung . 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Separat angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36818",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/26/68/26686e37f955290173327f453e2cb25d1467383028.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

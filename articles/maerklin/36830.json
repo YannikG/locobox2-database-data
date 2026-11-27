@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36830",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36830",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "rail4chem",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Zweisystemlokomotive BR 185. Privatbahn-Lokomotive der Firma rail4chem Eisenbahnverkehrsgesellschaft mbH, Essen, im Verbund der Rail Freight Alliance European Bulls.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselnde Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Einstellbare Fahreigenschaften. Vier mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36830",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8a/9e/8a9e55b794d49872864300f43873e1011434539348.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

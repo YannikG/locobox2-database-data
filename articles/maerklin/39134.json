@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39134",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39134",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 489.99,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Lokomotion",
+    "type": "BR 151",
+    "number": "060-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 151 der Lokomotion GmbH, München. Lichtgraue Grundfarbgebung mit blauen Zebrastreifen. Betriebsnummer 151 060-1. Betriebszustand ab 2017.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd und Maschinenraumbeleuchtung digital schaltbar. Zusätzlich kann eine Anfahrlampe fahrtrichtungsabhängig digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit filigranen Einholm-Stromabnehmern. Stromabnehmer digital heb- und senkbar. Viele separat angesetzte Teile wie Radimitationen, Griffstangen, Sandkästen, UIC -Steckdosen und Dachleitungen. Pufferhöhe nach NEM . Bremsleitungen, Schraubenkupplungen und verschiedene Steckdosen liegen als separat ansteckbare Teile bei. Länge über Puffer 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39134",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/81/2981470738e8399e9f89742010291aa91766401208.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

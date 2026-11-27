@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37593",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37593",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 8/14",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie Ae 8/14 der Schweizerischen Bundesbahnen ( SBB ). Ausführung 11801 mit 2 Pantographen.\n\nModell: 2 Motoren. 4 Achsen angetrieben. 8 Haftreifen . Feste Deichsel zwischen den Lokhälften. Druckluft-Schnellschalter in Schweizer Bauart. Führerstände mit Inneneinrichtung. Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spitzensignal digital zuschaltbar.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37593",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/de/f5/def51759e6145d6abfe8b567ec3234661434538978.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

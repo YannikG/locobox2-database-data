@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37777",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37777",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Schienenzeppelin.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Propellergetriebener Kruckenberg- Schienenzeppelin . Im Betriebszustand von 1931 bei der Deutschen Reichsbahn-Gesellschaft ( DRG ).\n\nModell: Eingebauter Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Eingebaute Innenbeleuchtung sowie weisses Zweilicht-Spitzensignal . Fahrzeuglänge ca. 28,5 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37777",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b9/e7/b9e7af1f267a83b07663a280d32d9ec21434538865.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

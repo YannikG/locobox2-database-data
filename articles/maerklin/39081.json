@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39081",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39081",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR VT 08",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Diesel-Triebwagenzug Baureihe VT 08.5 der Deutschen Bundesbahn (DB), als FT 43 \"Roland\" mit dem Zuglauf Basel SBB - Bremen. 4-teilige Garnitur in purpurroter Farbgebung. 1 Triebwagen VT 08.5 mit Küche und Speiseraum (WRPwPost4üm), 2 Mittelwagen VM 08.5 mit Abteilen (A4üm), 1 Triebwagen VT 08.5 mit Abteilen (A4üm). Betriebszustand um 1959.\n\nModell: Vierteilige Einheit, bestehend aus 2 Triebwagen (VT) und 2 Mittelwagen (VM). Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen in einem Triebwagen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter, Innenbeleuchtung und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzgekuppelte Spezialverbindung zwischen den Wageneinheiten. Eingebaute Inneneinrichtung. Führerstände der Endwagen mit freiem Durchblick. An den Stirnseiten der Triebwagen separat eingesetzte Kupplungsimitationen. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebwagen. Länge des vierteiligen Zuges 114 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39081",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/92/a692f86f035ff99a025593223a7a75131434539305.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39054",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39054",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 05",
+    "number": "003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 310.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Stromlinien-Schnellzugdampflokomotive Baureihe 05 der Deutschen Reichsbahn ( DRB ). Ausführung mit Kohlenstaubfeuerung und vorne liegendem Führerstand . Tiefschwarze Grundfarbgebung mit weisser Zierlinie. Lok-Betriebsnummer 05 003. Lokomotive 14.555 im Auslieferungsbuch der Borsig Lokomotiv-Werke, Hennigsdorf.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Über die Funktionstaste kann das Geräusch der Kohlenstaubförderung mit Gebläse (Betriebsgeräusch 1) ausgelöst werden. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Bogenfahrt ab Mindest-Radius 360 mm möglich. Gleisradius bezogene Aussparungen in der Seitenverkleidung können mit zusätzlichen Füllstücken geschlossen werden. Fahrtrichtungssabhängig wechselndes Zweilicht-Spitzensignal , konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht als Zugbegegnungslicht digital separat zuschaltbar. Führerstandsbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zahlreiche angesetzte Griffstangen an Lok und Tender. Eingerichtet für Rauchsatz 7226. Feste Kurzkupplung zwischen Lok und Tender. Länge über Puffer 31,0 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit einem Relief des charakteristischen Borsig-Tors des Borsigschen Lokomotivwerks. Graviertes Metallschild inklusive Fabriknummer am Vitrinensockel. Hochwertiger Auszug des Auslieferungsbuches beigelegt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39054",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/ce/00ce5815674efc4cb472c1870fd5ead61469192906.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

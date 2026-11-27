@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38175",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38175",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 1099.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "VT 18.16",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Diesel-Schnelltriebwagenzug Baureihe VT 18.16 (Bauart SVT \"Görlitz\"), im Zustand der wiederaufbereiteten Museumsgarnitur durch die SVT Görlitz gGmbH. Angelehnt an die Ausführung der Deutschen Reichsbahn der DDR (DR/DDR) aus den 1960er und 1970er Jahren, als Aushängeschild für den internationalen Schnellverkehr. 4-teilige Einheit. 1 Triebkopf VTa, 1 Mittelwagen VMc mit Speiseraum und Küche, 1 Mittelwagen VMd, 1 Triebkopf VTb. Aktueller Betriebszustand ab 2025/26.\n\nModell: 4-teilige Einheit. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse in einem Triebkopf, alle vier Achsen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute LED -Innenbeleuchtung, Führerstandbeleuchtung, Führerpultbeleuchtung, Maschinenraumbeleuchtung, Beleuchtung Küchen-Bereich und Wandlampen im Speiseraum jeweils digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , zwei rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Gesamte Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mehrteilige Inneneinrichtungen. Kulissengeführte mehrpolige stromführende Spezialkupplungen zwischen den Fahrzeugen. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Triebkopf. Mit Pufferspeicher. Viele angesetzte Details. An beiden Enden Nachbildung der automatischen Kupplung (ohne Funktion). Befahrbarer Mindestradius 360 mm. Länge der 4-teiligen Garnitur ca. 113 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38175",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1b/ce/1bce53dcef0c873b475532054c118e0d1746777603.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

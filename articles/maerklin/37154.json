@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37154",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37154",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 5600 (ex Baureihe 52)",
+    "number": "5602",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Serie 5600 (ex Baureihe 52) der Luxemburgischen Staatsbahnen ( CFL ). Ausführung mit Wannentender und Witte-Windleitblechen. Zustand 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Motor im Kessel der Lokomotive. 5 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok-Vorderseite und 2 weisse Schlusslichter am Tender konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37154",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1b/89/1b897923141547b16c902c141ebffa1b1434538796.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

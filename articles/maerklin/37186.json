@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37186",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37186",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "S 3/6",
+    "number": "3673",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Reihe S 3/6 der Königlichen Bayerischen Staatsbahn (K.Bay.Sts.B), spätere Baureihe 18.4 der deutschen Reichsbahn ( DRG ). Königsblaue Sonderlackierung der betriebsfähig erhaltenen Lokomotive Nr. 3575.\n\nModell: 3 Achsenangetrieben. 2 Haftreifen . Durchbrochener Rahmen. Aufgesetzte Schornsteinkrempe. Mit Digital- Decoder , einstellbarem Hochleistungsantrieb und Geräuschelektronik. Vorbereitet für Rauchsatz 72270. Spitzensignal digital schaltbar. Rauch, Pfeife und Läutewerk mit Control Unit 6021 digital zuschaltbar.Bei konventionellem Betrieb sind Spitzensignal und Rauch in Funktion.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37186",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/eb/3d/eb3df663d41b5c35db85c7d7b372c3f51434539314.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

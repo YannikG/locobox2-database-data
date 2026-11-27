@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37189",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37189",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "PtL 3/3",
+    "number": "1880",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive angelehnt an die bayerische Gattung PtL 3/3 der Königlich Bayerischen Staatseisenbahnen(K.Bay.Sts.B.), spätere Baureihe 89.70-75 in grüner Farbgebung der Epoche I. Loknummer 1880.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37189",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/77/09/7709ace42e3a673d731fd577f7671bb71586239208.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

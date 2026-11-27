@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37538",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37538",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": "002-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.0 der Deutschen Bundesbahn (DB). Präsentationsausführung \"E 120\" zur Verkehrsausstellung München 1979.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb, Geräusch- und Lichtfunktionen. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung, Pfeifsignal sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37538",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/f5/0ff59fcef34a42c2d409bbaa7213aa901434539008.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:51Z"
+}

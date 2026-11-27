@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37641",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37641",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Reihe 6400",
+    "number": "6513",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Reihe 6400 der Niederländischen Eisenbahnen, Bereich Güterverkehr ( NS Cargo).\n\nModell: Mit Digital- Decoder und einstellbarem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Spitzensignal digital schaltbar. Beleuchtung mit wartungsfreien LED . Seitliche Geländer und Endbühnen aus Metall. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37641",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/3a/2c3a31ef09ce9c6f4067a0d4364d95a01434539304.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

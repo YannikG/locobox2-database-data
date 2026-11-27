@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36968",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36968",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "agilis",
+    "type": "BR 650",
+    "number": "701-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 293.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dieseltriebwagen vom Typ Regio Shuttle RS1 als Baureihe 650 der agilis Eisenbahngesellschaft. Ausführung mit Schraubenkupplung , Puffern und tief liegender Zugzielanzeige. Graue Grundfarbgebung. Betriebsnummer 650 701-5. Betriebszustand ab 2024.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Serienmässig eingebaute Innenbeleuchtung. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Viele separat angesetzte Details. An beiden Enden mit separat angesetzten Bremsschläuchen, Schraubenkupplungen und Steuerleitungen. Pufferhöhe nach NEM . Für einen Doppeltraktionsbetrieb liegen geöffnete Blenden, kürzere Steuerleitungen und eine Kuppelstange bei. Befahrbarer Mindestradius 360 mm ohne Beachtung des Lichtraumprofils. Länge über Puffer 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36968",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/ff/9cff9d76d97d6751249368085b23bb9d1776787212.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

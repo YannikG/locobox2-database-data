@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36431",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36431",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Netz",
+    "type": "BR 233",
+    "number": "493-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 233 \"Tiger\" der DB Netz Instandhaltung, Bahnbau Gruppe. Aktueller Betriebszustand.\n\nModell: Lokomotive in Metallausführung, mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Nachempfundener Abgasausstoss durch Piezo-Vernebler, digital schaltbar (Betrieb mit destilliertem Wasser). 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36431",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/90/e4906fc59029056e987910794e60ee5d1490717969.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

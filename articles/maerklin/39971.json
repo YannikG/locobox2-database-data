@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39971",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39971",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "TVT 621.9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 276.0
+  },
+  "description": "Vorbild: Wartungsfahrzeug als Regelturmtriebwagen Baureihe TVT 621.9 Esn der Deutschen Bundesbahn (DB). Mit Arbeitsbühne und Scherenstromabnehmer . Ein Niederbordwagen Typ X 05 mit Bremserbühne als Fahrleitungsbauwagen. Beladen mit Kabeltrommeln, Werkzeugkisten und Leitern. Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Spitzensignal mit wartungsfreien warmweissen Leuchtdioden, Schlusslichter mit wartungsfreien roten Leuchtdioden, konventionell in Betrieb, digital schaltbar. Führerstand mit Einrichtung. Angesetzte Details: Oberlicht, Antenne, Horn, Scheinwerfer und Leitern. Arbeitsbühne mechanisch heb-, senk- und schwenkbar. Scherenstromabnehmer mechanisch heb- und senkbar, ohne elektrische Funktion. Fahrleitungswagen beladen mit Nachbildungen von Kabeltrommeln, Werkzeugkisten und Leitern. Spezial- Kupplung zwischen Turmtriebwagen und Fahrleitungsbauwagen. Gesamtlänge über Puffer 27,6 cm.",
+  "categories": [
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39971",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/38/fc/38fc28d156b6d73192ac0425e68e104b1434539004.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

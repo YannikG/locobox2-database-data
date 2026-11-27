@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37028",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37028",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung P8",
+    "number": "2438",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Gattung P8 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Im Ursprungszustand mit Kastentender .\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 72270 nachrüstbar. Feine Modellausführung mit zahlreichen epochetypischen Details und detailliertem Führerstand . Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37028",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/be/4ebec9dfd6d20bcba30d93d1923fa3891467114092.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

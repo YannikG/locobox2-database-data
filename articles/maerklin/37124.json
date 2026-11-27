@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37124",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37124",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": "1201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200 der Niederländischen Eisenbahnen ( NS ). Ausführung im Ursprungszustand. Lok-Betriebsnummer 1201. Türkise Grundfarbgebung. Betriebszustand um 1951/1952.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Signalhorn. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Angesetzte Griffstangen aus Metall. Bremsschläuche an der Pufferbohle ansteckbar. Lieferung in repräsentativer Holzkassette. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37124",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/81/95/8195f1cd575b8cd3eb2ab7b00b62320b1434539457.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

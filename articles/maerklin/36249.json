@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36249",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36249",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 24",
+    "number": "061",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 194.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 24 mit Schlepptender 2'2' T 26 der Baureihe 50 der Deutschen Bundesbahn (DB). 1948 erhielt diese Lok zum Einsatz bei der Prüfanstalt Göttingen den grösseren Tender, der deutlich mehr Wasser aufnehmen konnte als der Standard-Tender. Durch seine Führerhausrückwand wurden zudem Rückwärtsfahrten mit bis zu 80 km/h möglich. Einheitslokomotive mit kleinen, ursprünglichen Wagner-Windleitblechen. Lok-Betriebsnummer 24 061. Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Kessel aus Metall. Rauchsatz 72270 serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Vorne an der Lok Kurzkupplung im NEM -Schacht. Schlepptender der Baureihe 50. Beiliegend Lokführer- und Heizerfigur. Länge über Puffer 19,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36249",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/0a/fd0a983e05ad12c1f7bc6a791563957b1548831612.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

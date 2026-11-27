@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39800",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39800",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200",
+    "number": "021",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Baureihe V 200.0 der Deutschen Bundesbahn (DB). Achsfolge B´B´. In altroter Ursprungs-Farbgebung der ersten Serienmaschinen von 1956.\n\nModell: C-Sinus-Hochleistungsantrieb in kompakter Bauform mit mfx - Decoder und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39800",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/22/0e/220e5e28df4454151ff535dddbffc9641434538638.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

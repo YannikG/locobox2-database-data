@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36747",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36747",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Gattung T12",
+    "number": "8740",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Gattung T12 der Deutschen Reichsbahn. Fiktive Ausführung in grauem Fotoanstrich. Angenommener Betriebszustand für eine 1921 gelieferte Lok.\n\nModell: Mit Digital- Decoder mfx und Geräuschfunktionen. Spezialmotor mit Schwungmasse . Drei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zwei rote Schlusslichter separat digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36747",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/73/a4/73a4caf8cf3dfd9bb222104f97fe8ced1680328808.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

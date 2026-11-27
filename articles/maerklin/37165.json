@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37165",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37165",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 94",
+    "number": "713",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 94.5-17 der Deutschen Bundesbahn (DB), mit Läutewerk und Vorwärmer auf dem Kesselscheitel, ohne Rangierfunkantenne. Betriebsnummer 94 713. Betriebszustand um 1961.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb und Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37165",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/89/a1/89a196f2af59736da7dbac5a1a16539a1434539218.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37866",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37866",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RBe 2/4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 370.0
+  },
+  "description": "Vorbild: Serie RBe 2/4 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ), \"Roter Pfeil\" in roter Grundfarbgebung, gekuppelt mit einem gedeckten Güterwagen mit Bremserhaus der Bauart K3 der SBB . Betriebszustand Mitte bis Ende der 1950er-Jahre.\n\nModell: Mit mfx - Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell . 2 Achsen angetrieben. Haftreifen . Spitzensignal mit Schweizer Lichtwechsel konventionell in Betrieb, digital schaltbar. Spitzensignal und Innenbeleuchtung mit warmweissen LED . Scherenstromabnehmer mit schmalem Schleifstück. Spezial- Kuppelstange zum Kuppeln des Güterwagens K3. Gedeckter Güterwagen mit Bremserhaus K3 in rotbrauner Grundfarbgebung. Schiebetüren zum Öffnen. Gesamtlänge über Puffer 37 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37866",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/39/fd3985566cb3464a815b57a46523050b1434539101.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

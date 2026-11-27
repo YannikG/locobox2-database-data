@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37720",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37720",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DK",
+    "operator": "Arriva",
+    "type": "LINT 41",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen LINT 41 der Privatbahngesellschaft Arriva Danmark A/S. Ausführung mit Tiefeinstiegen. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Hochleistungsmotor im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige, Innenbeleuchtung und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung mit Figuren, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37720",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9f/55/9f5502db097a4eed2c5119d323ed82981533967219.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

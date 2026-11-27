@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37141",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37141",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "T 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Nebenbahnlokomotive T 3 der Königlich Preussischen Eisenbahnverwaltung (KPEV). Zweite Hauptbauart ab 1897.\n\nModell: Mit Digital- Decoder und geregeltem Antrieb. Miniaturmotor im Kessel. 3 Achsen angetrieben. 1 Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Märklin Systems digital schaltbar. Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37141",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a1/29/a129d03135c8d87a73387a2696e619e81434539208.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

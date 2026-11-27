@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37309",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37309",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1012",
+    "number": "1012.003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 222.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Reihe 1012 der Österreichischen Bundesbahnen ( ÖBB ). Gebaut 1997 von SGP, ELIN und Siemens als Serie von 3 Prototypen. Betriebsnummer 1012.003-8.\n\nModell: Mit Digital- Decoder mfx . 5-poliger schräggenuteter Motor mit Schwungmasse zentral eingebaut. Fahrgestell aus Metalldruckguss. Antrieb über Kardan auf 4 Achsen. Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb. Angesetzte Griffstangen und viele weitere Details. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Kupplungen austauschbar gegen geschlossene Frontschürzen. Bremsschläuche ansteckbar. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37309",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ce/74/ce746d46a8d3f0b4e65d3863ab01fee11434538626.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

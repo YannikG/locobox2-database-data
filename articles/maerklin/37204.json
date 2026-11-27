@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37204",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37204",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "DB Schenker",
+    "type": "Serie 1600",
+    "number": "1615",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 1600 der DB-Schenker Logistics Nederland mit der Betriebsnummer 1615 und dem Wappen \"Zandvoort\". Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien gelben und roten Leuchtdioden ( LED ). Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37204",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/98/3f/983fd6ec844f8c47c2502f682c4514421434538864.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

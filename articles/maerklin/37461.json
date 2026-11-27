@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37461",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37461",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Serie 465",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Serie 465 der Bern-Lötschberg-Simplon-Bahn (BLS).\n\nModell: Mit Digital- Decoder mfx und Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Führerstände mit Inneneinrichtung. Angesetzte Signalhörner und Griffstangen. Spitzensignal mit europäischem Lichtwechsel rot/weiss konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängige Fernscheinwerfer, Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot sowie ABV digital schaltbar. Länge über Puffer 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37461",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/15/0c/150cbfe1f18cc5e2633dfc609c5c2ce71434539151.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

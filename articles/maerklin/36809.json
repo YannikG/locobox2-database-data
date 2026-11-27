@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36809",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36809",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MWB",
+    "type": "Privatbahnlokomotive",
+    "number": "121",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Privatbahnlokomotive der Mittelweserbahn (MWB). Baureihe V 121 (Köf II) mit geschlossenem Führerhaus.\n\nModell: Lokomotive mit Digital- Decoder . Geregelter Miniaturmotor. 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Separat angesetzte Metall-Griffstangen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und rote Schlusslichter konventionell in Betrieb, digital schaltbar. Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Systems schaltbar. Lokomotive in enzianblauer Privatlok-Gestaltung der Mittelweserbahn. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36809",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3e/1f/3e1f20ad7b342e056bd173e8ca3b6ec51434539347.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

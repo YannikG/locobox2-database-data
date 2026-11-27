@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-33232",
+  "manufacturer": "Maerklin",
+  "articleNumber": "33232",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 22",
+    "number": "2201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie 22 der Belgischen Staatsbahnen (NMBS/SNCB).\n\nModell: Umbauversion mit Detailänderungen. Mit DELTA-Elektronik. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtungen. Stirnlampengehäuse separat angesetzt. Weitere angesetzte Details. Kupplungen gegen Frontschürze austauschbar.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/33232",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/18/e8184770203c893258ad341c620b0ea71434538755.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

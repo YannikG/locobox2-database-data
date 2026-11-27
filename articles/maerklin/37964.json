@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37964",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37964",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Gt 2x4/4",
+    "number": "5752",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Gt 2x4/4 der Königlich Bayerischen Staatsbahn (K.bay.Sts.B.). Gelenklokomotive Bauart Mallet mit Hoch- und Niederdruckzylindern.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. 4 Achsen angetrieben. 6 Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Dampflok-Fahrgeräusch, Pfeifsignal sowie Anfahr- und Bremsverzögerung mit Control Unit oder mit Systems digital schaltbar. Weitere Betriebsgeräusche mit Systems digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 20,3 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37964",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/db/c7/dbc7b8b80541b0e72e277838b20013711434538675.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

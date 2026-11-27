@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37824",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37824",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 221",
+    "number": "120-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Mehrzwecklokomotive Baureihe 221. Deutsche Bundesbahn (DB). Grundfarbgebung ozeanblau/elfenbein. Lok-Betriebsnummer 221 120-9. Betriebszustand um 1985.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Betriebs- und Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstand - und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit neuer Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer . Seitlich und frontal angesetzte Griffstangen aus Metall. Mit Lokführer im Führerstand 1. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37824",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/82/9382d02ba3984bba920eb2d531237f291660629610.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

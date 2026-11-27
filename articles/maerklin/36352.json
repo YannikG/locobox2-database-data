@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36352",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36352",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Elektrische Rangierlokomotive Reihe Ub",
+    "number": "709",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III+IV",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektrische Rangierlokomotive Reihe Ub der Schwedischen Staatsbahnen (SJ). Braune Grundfarbgebung. Lok-Betriebsnummer Ub 709. Betriebszustand der Epoche III/IV.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal , konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Zugvorrichtungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36352",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/66/ad/66ad12d8a5f400550bccf19e1a5e5ea11484054146.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

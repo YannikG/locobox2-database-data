@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37287",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37287",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "elT Breslau 1004",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 490.0
+  },
+  "description": "Vorbild: Triebzug elT Breslau 1004 (späterer ET 87) der Deutschen Reichsbahn ( DRG ), Achsfolge 2'1 + B'1 + 1 2'. Bestehend aus Steuerwagen a (mit 1. und 2. Klasse) BC3ielS Breslau 2004 (später ES 87 03a), Triebwagen (mit Gepäck- und Postabteilen) PwPost3ielT Breslau 1004 (später ET 87 03) und Steuerwagen b (mit Abteilen 3. Klasse und Traglastenabteil 3. Klasse) CC3itrelS Breslau 2014 (später ES 87 03b). Authentische Farbgebung der Epoche II. Betriebszustand um 1937.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, vorbildgerecht angetriebene Mitteleinheit. 2 Achsen angetrieben, Haftreifen . 2-Licht- Spitzensignal mit der Fahrtrichtung wechselnd. Innenbeleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Inneneinrichtung der Fahrgasträume. Führerstände mit freiem Durchblick. Spezial- Kurzkupplung zwischen den Fahrzeugen, an den Enden Kupplungsaufnahmen nach NEM . Länge über Puffer 49,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37287",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/89/2e891507ff5d6f3c33922dcdadfdffe21434538871.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37644",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37644",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 6400",
+    "number": "6409",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 6400 der Niederländischen Staatsbahnen ( NS ). Dieselelektrische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), weiterentwickelt aus den Standardlokomotiven der früheren MaK.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängig wechselnd Dreilicht-Spitzensignal / 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37644",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/58/425828c5e21e4f6508d3a1fda79ab9a91434539289.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

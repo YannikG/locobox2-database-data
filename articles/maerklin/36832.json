@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36832",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36832",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Universallokomotive Baureihe 185. Privatbahn-Lokomotive der Firma Mitsui Rail Capital Europe, Amsterdam (MRCE). Leasing-Lokomotive für grenzüberschreitenden Einsatz.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselnde Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Einstellbare Fahreigenschaften. 4 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36832",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b5/92/b5925af93981c987d918fca00a4b59631434538744.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

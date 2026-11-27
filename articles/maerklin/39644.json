@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39644",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39644",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 64",
+    "number": "236",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 64 der Deutschen Bundesbahn (DB). Ausführung mit genieteten Wasserkästen. Betriebszustand um 1955.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39644",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/1e/0e1e0ce9c084e24a5a35f4407388c0281434539167.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

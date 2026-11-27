@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-34550",
+  "manufacturer": "Maerklin",
+  "articleNumber": "34550",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 55",
+    "number": "5555",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe 55 der Deutschen Bundesbahn (DB), frühere preussische G 8.1.\n\nModell: Mit Delta-Elektronik. 4 Achsen angetrieben. 2 Haftreifen . Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel eingebaut. Kurzkupplung zwischen Lok und Tender. Eingerichtet für Rauchsatz 72270 (konventioneller Betrieb) bzw. Seuthe Nr. 24 (Delta-/Digital-Betrieb. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/34550",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/27/8a/278abe10618d6cc0ded40726623ad2001434539180.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

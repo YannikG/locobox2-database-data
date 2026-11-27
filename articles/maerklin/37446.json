@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37446",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37446",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "Serie 482",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie 482 der SBB Cargo. Betriebszustand um 2012.\n\nModell: Digital- Decoder mfx mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb und digital schaltbar. Fernlicht zuschaltbar. Auf Schweizer Lichtwechsel umschaltbar. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer ca. 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37446",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/a0/7fa06c769af9c1bc87c84914cf490eb51467120329.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37274",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37274",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 59",
+    "number": "5933",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Serie 59 der Belgischen Staatsbahnen (SNCB/NMBS). Spätere Ausführung mit Doppellampen der ursprünglichen Serie 201. Achsfolge Bo´Bo´. Ausführung in gelb-grüner Farbgebung. Betriebszustand Anfang /Mitte der 1980er Jahre. Betriebsnummer: 5933 „Merelbeke“.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen LED . Spitzensignal konventionell in Betrieb, digital schaltbar. Vorbildgerecht unterschiedlich lange Überhänge. Eingesetzte Griffstangen und Lüftergitter. Länge über Puffer 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37274",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/3a/7f3a9a5e69d65490b9a858a2346dd6da1434538708.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

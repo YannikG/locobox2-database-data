@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30881",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30881",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "Henschel DHG 700 C.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III-V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Werkslokomotive Henschel DHG 700 C.\n\nModell: Mit Delta-Elektronik. Eingebautes Blinklicht. Pufferbohle mit gelb-schwarzem Warnanstrich. Bühnengeländer aus Metall. 3 Achsen angetrieben. 1 Haftreifen . Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30881",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/30/d7/30d700205392c42b9dbd6c119830887f1434538644.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:50Z"
+}

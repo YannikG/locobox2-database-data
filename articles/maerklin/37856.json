@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37856",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37856",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Schenker",
+    "type": "BR 185",
+    "number": "327-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Traxx 2, Typ F 140 AC2 der Firma DB Schenker Rail Scandinavia A/S, einer Kooperation zwischen der DB Schenker Rail Deutschland AG und der schwedischen Green Cargo AB. Loknummer 185 327-1. Betriebszustand 2017/18. Einsatzgebiet Dänemark und auch bis nach Deutschland hinein.\n\nModell: Digital- Decoder mfx+ mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Rangiergang an, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37856",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9f/67/9f67059b56acb97a6c6f82f9e23528a01567749610.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38462",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38462",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Elektrotriebzug Siemens Desiro HC",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrotriebzug vom Typ Siemens Desiro HC als Baureihe 1462/1862 der Deutschen Bahn AG ( DB AG ). Ein Endwagen Baureihe 1462.0, 2. Klasse, ein Mittelwagen Baureihe 1862.0, 2. Klasse, ein Mittelwagen Baureihe 1862.5, 2. Klasse und ein Endwagen Baureihe 1462.5, 1./2. Klasse. Fahrzeug des Netz Franken-Südthüringen. Verkehrsrote Grundfarbgebung. Betriebszustand ab Dezember 2023.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Endwagen A zentral eingebaut. Alle vier Achsen in beiden Drehgestellen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Fernlicht vorbildgerecht in zwei Intensitäten, Führerstands- und Führerpultbeleuchtung sowie Beleuchtung der Zugzielanzeigen an den Fronten und Seiten digital schaltbar. Serienmässig eingebaute LED -Innenbeleuchtung. In jedem Wagen ist ein Pufferkondensator zur Überbrückung von kurzfristigen stromlosen Stellen eingebaut. Die Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Gesamte Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mehrfarbige Inneneinrichtungen. Stromabnehmer digital heb- und senkbar. Viele separat angesetzte Details. Befahrbarer Mindestradius 360 mm. Länge des Zuges ca. 112,6 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38462",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/d0/29d025d4e7e77febbe92f95382a8f3051773302403.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

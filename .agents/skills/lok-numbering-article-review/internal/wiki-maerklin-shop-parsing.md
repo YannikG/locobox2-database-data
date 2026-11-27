@@ -1,6 +1,6 @@
 # Märklin Produktdatenbank: Import-Artefakte und Review
 
-Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `www.maerklin.de` (Produktdatenbank, gleiche HTML-Form wie Trix). **Import-Workflow:** Skill [locobox-import](../../locobox-import/SKILL.md). **Autofix:** `scripts/autofix_trix_shop_import.py` (gilt für Trix und Märklin).
+Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `www.maerklin.de` (Produktdatenbank, gleiche HTML-Form wie Trix). **Import-Workflow:** Skill [locobox-import](../../locobox-import/SKILL.md). **Autofix:** `scripts/autofix_trix_shop_import.py` (gilt für Trix und Märklin), danach `scripts/autofix_maerklin_shop_import.py` (Klassen-Präfix im Typ, z. B. «Nahverkehrs-Dieseltriebwagen LINT 41» → `LINT 41`).
 
 ## Kontext
 
@@ -39,9 +39,27 @@ Reihenfolge im Parser: US-Namensrouten → Klammer-Codes → Freitext-EVU (Hecto
 
 Privat-/Leasing-EVU ohne Klammer und ohne Map-Eintrag → Pass-1-Finding, nicht raten.
 
+## Betreiber (Privatbahnen, Ausland)
+
+`_operator_from_vorbild` kennt am Ende der Regelliste rund 80 Privat-/Auslands-EVU (Raildox, HVLE, metronom, LTE, StLB, EETC, KCS, GN, ONR, …) mit Land. Sie greifen erst, wenn keine DB/SBB/ÖBB-Regel passt. Fiktive Gestaltungen («in fiktiver Ausführung», Märklin Magazin, HARIBO, Weihnachtsbahn, Einmalige Gestaltung) → `operator` **«Fiktiv»**, «Privatbahn»/Werkslok/Werkseisenbahn → **«Privatbahn»** (Regel aus [wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md); fiktiv schlägt Privatbahn). US-Typen (EMD F7, GG-1, ALCO PA-1, Shay) bekommen `country` US, A3 → GB. Weiterhin `Unbekannt`: Class 66 ohne Betreiber, Adria Transport u. ä.
+
+**UVP:** fehlt der Preis (ausverkaufte Artikel), steht `uvp: null` (nicht 0). **Spezialfahrzeuge** (Gleiskraftwagen, Unimog, Stopfmaschine, Turmtriebwagen, Schneepflug) → Kategorie `spezialfahrzeug` statt `lokomotive`.
+
+## Typ und Nummer aus Vorbild
+
+`autofix_maerklin_shop_import.py` ersetzt kaputte Typen (Satzfragmente, nur Produktklasse, `.`/`Nr.`) durch die Bezeichnung aus dem ersten Vorbild-Satz (`Baureihe X` → `BR X`, `Reihe`/`Serie`, `EMD F7`, `ICE 3`, `Köf II`). `VT`/`TVT`/`ER` ohne `BR`. Gattung bayerischer Länderbahnen ohne Wort `Gattung` (`S 2/6`). `number` nur bei `Betriebsnummer`/`Loknummer` mit eindeutigem Muster. Offen bleiben Artikel ohne Baureihe im Vorbild (alte Katalogtitel wie «Güterzug-Dampflokomotive», «Hochgeschwindigkeitszug.»).
+
+## Produktbilder und Betriebsnummer aus Foto
+
+`source.imageUrl` zeigt auf das **grosse Produktfoto** (erster `<a href="…damcontent….jpg">` im PDP, 1500 px). Das `src`-Bild im PDP ist nur ein 114×160-Thumbnail. Fehlt `model.number`, kann sie vom Foto gelesen werden (Skill-Abschnitt «Betriebsnummer aus Produktbild»): nur bei 1500-px-Bildern, Ausschnitt mit `sips` vergrössern, unsichere Ziffern weglassen. 800-px-Downsampling reicht oft nicht. Plausibilitätsregel: die ersten zwei Ziffern der Baureihe im `type` müssen in der gelesenen Nummer vorkommen (sonst Finding).
+
 ## Kategorien
 
 Parent `lokomotive` plus `dampf-/diesel-/elektrolokomotive` aus Roh-Typ oder Vorbild-Antriebswort. Autofix-Skript setzt das, wenn der Roh-Typ noch das Klassenwort enthält.
+
+## Triebwagen / Triebzüge
+
+Parser setzt `triebwagen`/`triebzug` plus `dieseltriebwagen`/`elektrotriebwagen`/`akkutriebwagen` aus Titel und Vorbild; Parent `lokomotive` bleibt wie bei den bisherigen Märklin-Artikeln. UVP fehlt auf PDPs ausverkaufter Artikel (`uvp.amount` 0). Release-Jahr = erster Katalog unter «Veröffentlichungen» auf dem PDP.
 
 ## Bewusst ausserhalb dieses Skills
 

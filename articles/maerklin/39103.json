@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39103",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39103",
+  "releaseDate": "2000",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": "1057",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Baureihe 01.10 der Deutschen Bundesbahn (DB) mit Ölfeuerung.\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus, Fahrwerksbeleuchtung und Geräuschelektronik. 3 Achsen angetrieben. 2 Haftreifen . Eingerichtet für Rauchsatz 7226. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Dampflokgeräusche und Fahrwerksbeleuchtung mit Control Unit 6021 digital schaltbar. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39103",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/db/46/db464b1feb5bebebde091bfcb75428051434539420.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:02Z"
+}

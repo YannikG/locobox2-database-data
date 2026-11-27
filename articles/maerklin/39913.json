@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39913",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39913",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Klasse 3900",
+    "number": "3977",
+    "livery": "Challenger",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere US-Dampflokomotive der Klasse 3900 \" Challenger \", in der Umbau-Version mit Öl-Tender der Union Pacific Railroad (UP). Ausführung im Zustand als Museumslokomotive im Cody Park in North Platte NE, mit der Betriebsnummer 3977. Epoche III und VI.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Unterschiedliche Betriebsgeräusche wie Öl und Wasser nachfüllen oder Geräusche vom Öffnen und Schliessen von Schiebefenster und Lüftungsklappen am Führerstand zusätzlich digital schaltbar. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 6 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Boxpok -Räder. Stirnlampe an Lok und Tender. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung und beleuchtete Nummerntafeln/Markerlights separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Pufferspeicher. Geschwindigkeitsabhängiger dynamischer Rauchausstoss serienmässig eingebaut und ebenfalls digital schaltbar. Leistungsfähiger Lautsprecher im Tender. Stirnseitig Kupplungsimitation im Normschacht am Schienenräumer einsteckbar. Kurzkupplung mit Kinematik zwischen Lok und Tender. Dampfleitungen am vorderen Treibgestell schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele weitere angesetzte Einzelheiten. Lokführer- und Heizer-Figur im Führerstand . Lokomotive auf Präsentationssockel als Transportschutz verschraubt. Länge über Kupplungen 42,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39913",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/13/00/130099b9cea447132c68a3b748e5a70d1787756416.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

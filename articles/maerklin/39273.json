@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39273",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39273",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Railsystems",
+    "type": "BR 218",
+    "number": "469-5",
+    "livery": "Betty Boom",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 218 der Railsystems. Grundfarbe rot mit \"Betty Boom\"-Motiv. Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen seitlich und frontal aus Metall. Detaillierte Pufferbohle. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39273",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/75/6c75330990b19aa57f9ecd3f6ee9456e1522130412.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:26Z"
+}

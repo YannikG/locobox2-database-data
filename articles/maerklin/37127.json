@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37127",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37127",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": "1203",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200 der Niederländischen Eisenbahnen ( NS ). Betriebsnummer 1203. Betriebszustand um 1970.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Drei-Licht- Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Separat angesetzte Griffstangen aus Metall. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37127",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/94/ac9419db50e1ac4f27deaf68f4d100241467114343.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

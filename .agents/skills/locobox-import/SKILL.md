@@ -88,10 +88,21 @@ uv run locobox shop fetch --source SOURCE \
 - bei Block: stoppen, `.tmp/import/CAMPAIGN/blocked.txt` prüfen, ggf. Delay erhöhen / später Pro-Cloak
 - **kein** Glass/`cursor-ide-browser` für Batches, **kein** Chrome-MCP-Import
 - Trix: Produktdatenbank `trix.de/de/produkte/details/article/{nr}` (maerklinshop-Suche oft unbrauchbar für Neuheiten)
+- Märklin Inventur: H0-Lokliste `maerklin.de/de/produkte/spur-h0/lokomotiven?tx_torrpdb_list[filter]=3&…[perpage]=36&…[page]=N` (Filter 3 = «Alle Artikel», ~1500 Artikel inkl. ausverkauft). PDP-Abschnitt «Veröffentlichungen» liefert das Erstjahr für `releaseDate`/Tag (`maerklin-neuheiten-JJJJ`; 2000 = «bis 2000»). Start up, Packungen/Sets bewusst ausgenommen; Triebwagen/Triebzüge sind drin. Auch ausverkaufte/ältere Artikel importieren (Datenbank, kein Shop).
 - Märklin: Produktdatenbank `maerklin.de/de/produkte/details/article/{nr}` (gleiche Vorbild/Modell-HTML-Form wie Trix). **Allowlist:** Host `www.maerklin.de` nur in einem **allowlist-only**-PR. UVP aus Katalog-Preisindex in die Queue schreiben, sonst `uvp.amount` 0. Nach Parse: HTML mit H1/`description` «Suchen» = kaputter Fetch → verwerfen und nachziehen. Details: [wiki-maerklin-shop-parsing.md](../lok-numbering-article-review/internal/wiki-maerklin-shop-parsing.md).
 - LS Models: PrestaShop `lsmodels.eu/de/suche?…&s={nr}` → PDP (interne Shop-ID in der URL). Katalog-SKUs `16 075` → `16075`; Sound-`S` und Models-World `MW…` vorerst übersprungen. Shop oft ohne UVP.
 - ACME: Flyer-URL / pdftotext, kein HTML-Shop.
 - Amintiri Feroviare (AF): Source `amintiri-feroviare` / Alias `af`; offizieller Shop + Menzels-Fallback. Shop-Artefakte und Balkan-`country`/`operator`: [wiki-amintiri-feroviare-shop-parsing.md](../lok-numbering-article-review/internal/wiki-amintiri-feroviare-shop-parsing.md), Länder [wiki-rumaenien-loks-liste.md](../lok-numbering-article-review/internal/wiki-rumaenien-loks-liste.md) / [wiki-bulgarien-loks-liste.md](../lok-numbering-article-review/internal/wiki-bulgarien-loks-liste.md) / [wiki-bosnien-herzegowina-loks-liste.md](../lok-numbering-article-review/internal/wiki-bosnien-herzegowina-loks-liste.md).
+
+#### Rate-Limit-Regeln (Pflicht, gelten auch für «nur kurz analysieren»)
+
+Ein Hersteller-Shop darf nie ins Rate-Limit laufen. Ein Agent hat einmal ~950 Märklin-PDPs per `curl` mit 3 parallelen Anfragen (~1,5 Req/s) geholt, ohne den User zu fragen. Das ist verboten.
+
+- **Nur `shop fetch` (CloakBrowser, Delay 2,5–6 s, Concurrency 1).** Kein `curl`/`wget`/`requests`/`xargs -P`/Parallelisierung gegen Shop- oder Produktdatenbank-Hosts, auch nicht für Analysen oder Inventuren.
+- **Blöcke à max. 100 Artikel.** Pro Block: fetch → parse → Autofix/Review Pass 1 → korrigieren → committen. Erst dann der nächste Block. Nie die ganze Queue auf einmal.
+- **Listen-/Inventurseiten** (z. B. Märklin `…/lokomotiven?tx_torrpdb_list[perpage]=36&…[page]=N`) sparsam: Seiten nacheinander, mind. 1 s Pause, einmal holen und unter `.tmp/` cachen.
+- **Kein Hintergrund-Massenabruf.** Lange Läufe nur mit User-OK und Fortschrittslog. Bei Block (HTTP 403/429, Captcha, leere/«Suchen»-Seiten): sofort stoppen, Delay erhöhen, User informieren.
+- Bereits gecachtes HTML unter `.tmp/import/…/html*/` wiederverwenden statt neu zu laden.
 
 ### 4. Parse + shared Pipeline
 
@@ -164,6 +175,7 @@ Löscht nur Working-State unter `.tmp/import/…`, nicht `articles/` oder `rules
 
 ## Hard rules
 
+0. **Rate-Limit:** max. 100 Artikel pro Block, nur über `shop fetch` mit Jitter, kein paralleles `curl` (siehe «Rate-Limit-Regeln»). Pro Block korrigieren und committen. Ein grosser PR am Ende ist ok.
 1. **Gate vor Fetch** — ohne Approved-Queue und User-OK keinen `shop fetch`.
 2. **Eine Pipeline nach Raw** — Fixes primär `rules/**/*.yaml`, dann `articles set-field`/`patch`.
 3. **Agent entscheidet Tool-Reihenfolge**, erfindet aber keine parallele MCP-/Utils-Pipeline.

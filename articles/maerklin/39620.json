@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39620",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39620",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "SOO Line",
+    "type": "EMD F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7 der SOO-Line. Dreifacheinheit aus A-Unit, B-Unit und A-Unit. Güterzugbegleitwagen ( Caboose ) der SOO-Line.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in den A-Units. Je 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig beleuchtete Nummerntafeln und Positionslichter konventionell an, digital schaltbar. Marslight separat schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Feste Deichsel zwischen den Lokomotiveinheiten. Schneeräumer beigelegt. Güterzugbegleitwagen ( Caboose ) mit Rahmen und detailliertem Boden aus Metall. Bremsanlage, Bühnengeländer, Griffstangen und viele weitere Einzelheiten angesetzt. Detaillierte Drehgestelle mit Spezialradsätzen. Länge der F7 über Kupplungen ca. 52 cm. Länge Caboose über Kupplungen ca. 14,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39620",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/5d/245dc0628702fdde0a6f74472e8c55ac1467124819.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}
