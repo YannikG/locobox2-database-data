@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37742",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37742",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DBG",
+    "type": "BR 218",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 218 der Deutschen Bahn Gleisbau (DBG) in goldgelber Farbgebung.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Hochleistungsantrieb. Alle Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden. Angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37742",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/c6/7fc6c03890613f97a1de9305ad9c06931434539098.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

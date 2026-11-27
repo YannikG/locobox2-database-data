@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37918",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37918",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03",
+    "number": "1012",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 03.10 der Deutschen Bundesbahn (DB). Unverkleidete Umbauversion mit Neubau-Hochleistungskessel, Witte-Windleitblechen, DB-Reflexglaslampen und umgebautem Schlepptender mit Kohlenkastenklappen und Nachschubeinrichtung. Vorlauf - Drehgestell mit Speichenradsätzen. Betriebsnummer 03 1012. Betriebszustand um 1961.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz 7226 ist serienmässig enthalten. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Kohlenkasten-Abdeckklappen sind mechanisch zu öffnen und zu schliessen. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37918",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/24/c3246dfaeff584715fcc25f55e5846481467123099.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

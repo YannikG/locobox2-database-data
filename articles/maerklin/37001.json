@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37001",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37001",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2048",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 139.0
+  },
+  "description": "Vorbild: Diesellokomotive Reihe 2048 der Österreichischen Bundesbahnen ( ÖBB ). Ehemalige BR 211 der DB. Verkehrsrote Ausführung der Epoche V. Betriebszustand um 1992.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Telex - Kupplung vorne und hinten separat schaltbar. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden ( LED ). Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 13,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37001",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a9/ac/a9ac601c65beabaf0224d1affaabbfbd1434539065.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

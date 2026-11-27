@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37380",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37380",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 26000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 204.0
+  },
+  "description": "Vorbild: Zweisystem-Lokomotive Serie 26000 der Französischen Staatsbahnen ( SNCF ) im \"en voyage\" Design. Betriebszustand Epoche V.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Eingesetzte Metallgriffstangen. Länge über Puffer 20,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37380",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6a/1b/6a1b7cc4f0e043a4ce46b91535a858091467119696.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37549",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37549",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 4600 (ex Baureihe 55)",
+    "number": "4602",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Serie 4600 (ex Baureihe 55) der Luxemburgischen Staatsbahnen ( CFL ). Betriebsnummer 4602. Ausführung mit Puffertellerwarnanstrich vorne und hinten. Zustand 1950er-Jahre.\n\nModell: Dampflokomotive mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 4 Treib- und Kuppelachsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Viele angesetzte Details. Kolbenstangen-Schutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37549",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/5c/c15cd91a30b2b53e39305ddaeff82bbd1434538735.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

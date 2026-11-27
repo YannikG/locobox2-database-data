@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37894",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37894",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BRT-08 JIM",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 270.0
+  },
+  "description": "Vorbild: Prüftriebwagen BRT-08 JIM der niederländischen Firma Eurailscout Inspection & Analysis b.v. auf Basis des Posttriebwagens Serie mP 3000. Gelbe Grundfarbgebung als Bahndienstfahrzeug. Aktueller Betriebszustand 2010.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes 3-Licht- Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Beiliegende Druckluftschläuche an der Pufferbohle ansteckbar. Metallgriffstangen und weitere Details angesetzt. Länge über Puffer 27,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37894",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/7f/e17f7d2f6923d225480e97ce7587d26d1434538924.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

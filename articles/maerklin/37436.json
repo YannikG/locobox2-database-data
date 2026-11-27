@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37436",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37436",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 143",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 143 der Deutschen Bahn AG ( DB AG ), Zustand 2010.\n\nModell: Lokomotive in aktueller verkehrsroter Grundfarbgebung mit eckigen Puffern. Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Führerstände mit Inneneinrichtung. Fahrtrichtungsabhängig wechselndes 3-Licht- Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37436",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/27/b8/27b8b7caaa126efb3533d9fcce1ba9011434539232.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

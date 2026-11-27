@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36338",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36338",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Ue",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro- Rangierlokomotive Reihe Ue der Schwedischen Staatsbahnen (SJ) in blau-grauer Grundfarbgebung. Betriebszustand 1990er Jahre.\n\nModell: Mit Digital- Decoder mfx . Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Zweilicht-Spitzensignal vorne und hinten, sowie zusätzlich rotes Licht an Lok-Seite B konventionell in Betrieb, digital schaltbar. Weitere Lichtsignal -Funktionen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Zusätzlicher Schienenräumer ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36338",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/a7/e1a7016c113fa257ece5fb66df4c65381434538855.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37405",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37405",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Lokomotion",
+    "type": "BR 139",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe 139 der Lokomotion Gesellschaft für Schienentraktion mbH, München. Mit Klatte-Einzellüfter, Doppellampen und rechteckigem Maschinenraumfenster. Aktuelles Design im Betriebszustand 2011.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37405",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/0d/e50d0f7c4239de5f960e4006586f062c1434539187.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

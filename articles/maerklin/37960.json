@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37960",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37960",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe Gt 2x4/4 (spätere Baureihe 96)",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Reihe Gt 2x4/4 (spätere Baureihe 96) der Königlich Bayerischen Staatseisenbahn (K.Bay.Sts.B). Erste Bauserie, Betriebszustand um 1913. Zum Jubiläum \"100 Jahre Gt 2x4/4\".\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Bauartbedingt ist das Nachrüsten eines Raucheinsatzes nicht möglich. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37960",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8a/0b/8a0be72173d0213bbb5af4d5df12cb031434538757.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

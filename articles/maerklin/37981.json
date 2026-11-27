@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37981",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37981",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Reihe B VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung für Torffeuerung und mit birnenförmigem Kamin. Lokomotiv-Name mit Namensschild \"Mittenwald\".\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb . 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein Schlusslicht konventionell in Betrieb, digital schaltbar. Detailliertes Fahrwerk mit Aussenrahmen und Stephenson- Steuerung . Kurzkupplung zwischen Lok und Tender. Strom führende Kupplungsaufnahme am Tender. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 16,3 cm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37981",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/5b/875b68d1824ea396822d8f571afd60e01434538803.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

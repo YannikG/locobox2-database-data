@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37337",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37337",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie BB 12 000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV+V",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Serie BB 12 000 der Französischen Staatsbahnen ( SNCF ). Ausführung in grüner Grundfarbgebung mit separaten Schlusslichtern. Zustand Epoche IV/V.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED . Dachstromabnehmer auf frei stehendem Rahmen gelagert. Zahlreiche angesetzte Griffstangen. Bremsschläuche und Kupplungsnachbildungen an der Pufferbohle ansteckbar. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37337",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f0/33/f03341ab374507fd6ec179301432dafb1434538930.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

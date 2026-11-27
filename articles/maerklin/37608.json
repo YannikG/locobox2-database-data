@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37608",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37608",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BST Diesel-Triebzug.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Diesel- Triebzug Baureihe 601 \"Blue Star Train\" (BST). Zug befindet sich im Besitz der Eisenbahn und Sonderwagen Betriebsgesellschaft mbH (ESG). 1 Triebkopf Dü mit Gepäckabteil und BST Logo in blau/weisser Lackierung. 1 Triebkopf in blau/weisser und rot/beiger Lackierung und TEE -Logo. Mittelwagen jeweils in blau/weisser Lackierung. Aktueller Betriebszustand.\n\nModell: 7-teilige Grundgarnitur. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Jeder Triebkopf mit geregeltem Hochleistungsantrieb. Je Triebkopf ein Drehgestell auf beiden Achsen angetrieben. Haftreifen . Mittelwagen mit serienmässig eingebauter Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Mehrpolige Strom führende Spezialkupplungen und dicht schliessende Übergangsblenden mit Kulissenführungen zwischen den Fahrzeugen. An den Enden Nachbildung der abgedeckten Scharfenberg- Kupplung (ohne Funktion). Zuglänge über Kupplungen 150,9 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37608",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/83/80/8380e5a38d8c34f8807cae1c8c56689d1434538623.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

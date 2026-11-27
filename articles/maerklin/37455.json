@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37455",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37455",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 45",
+    "number": "010",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 295.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 45 der Deutschen Bundesbahn (DB). Umbauversion mit Neubau-Hochleistungskessel, Witte-Windleitblechen, DB-Reflexglaslampen und 5-achsigem Schlepptender 2´3´T38. Betriebsnummer 45 010. Betriebszustand um 1965.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Hochleistungsantrieb im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Raucheinsatz 7226 liegt bereits serienmässig bei. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Mit Führerstandsbeleuchtung und Flackern in der Feuerbüchse , digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Telex - Kupplung im NEM -Schacht, digital schaltbar. Nachbildung des Innenzylinders. Zahlreiche separat angesetzte Leitungen und Griffstangen. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 29,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37455",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/f6/39f6d86b5b3a80fb2304917ce01b3dd21434539203.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

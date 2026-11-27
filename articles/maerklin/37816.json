@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37816",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37816",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 50 der Deutschen Reichsbahn-Gesellschaft ( DRG ), mit Kohlen- Schlepptender als Einheits- Kastentender 2´2´T26 in der Ursprungsform. Mit Wagner-Windleitblechen, Regelführerhaus und langem Umlauf vorne zur Rauchkammer schräg abfallend. Lokomotive 14.894 im Auslieferungsbuch der Borsig Lokomotiv-Werke. Auslieferung 1940.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 5 Achsen angetrieben, Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,4 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit einem Relief des charakteristischen Borsig-Tors des Borsigschen Lokomotivwerkes Berlin-Tegel. Graviertes Metallschild inklusive der Fabriknummer am Vitrinensockel. Hochwertiger Auszug des Auslieferungsbuches beigelegt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37816",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/62/89/62899f4d4c6bc47c58d94baf75ab8eb41434539294.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

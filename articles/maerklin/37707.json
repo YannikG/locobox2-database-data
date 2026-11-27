@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37707",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37707",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Dieseltriebwagen mit Beiwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: 2-teiliger Dieseltriebwagen, bestehend aus Motorwagen Baureihe VT 135 Nürnberg und Beiwagen Baureihe VB 140 Nürnberg, 3. Klasse, der Deutschen Reichsbahn-Gesellschaft ( DRG ). Weinrot/beige Grundfarbgebung. Führerstände am Motorwagen mit Blendschirmen und je Führerstandseite ein Typhon mit geradem Horn. Dachausführung des Motorwagens mit aufgesetzten Dachkühlern sowie Zu- und Abflussrohren. Am Beiwagen einseitig Signalstützen mit Schluss-Scheiben. Motorwagen und Beiwagen mit Stangenpuffer . Betriebsnummern VT 135 009 und VB 140 032. Zuglauf \"Nürnberg-Erlangen\". Betriebszustand Mitte/Ende 1930er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen . Beide Achsen im Motorwagen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung im Motorwagen und Beiwagen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter am Motorwagen , sowie Innenbeleuchtungen konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an Triebwagenseite 2 und 1 jeweils separat digital abschaltbar. Beiwagen vorbildgerecht ohne Spitzensignal . Stromführende Kurzkupplungsköpfe liegen separat bei und können als Verbindung zwischen Triebwagen und Beiwagen jeweils auf beiden Seiten eingesteckt werden. Inneneinrichtungen. Freier Durchblick im Motorwagen und Beiwagen. Am Motorwagen separat angesetzte Leiter. Länge über Puffer der zweiteiligen Garnitur 28,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37707",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/42/4242b0fd66023058b0060233ca67dc751434538942.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:41Z"
+}

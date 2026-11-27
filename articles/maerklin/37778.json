@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37778",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37778",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 403",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektro-Schnelltriebwagen Baureihe 403, 1. Klasse, der Deutschen Bundesbahn (DB). 4-teilige Einheit. 1 Endtriebwagen BR 403 001-1, Avüm, mit Abteilen. 1 Mitteltriebwagen BR 404 101-8, ARüm, mit Küche, Speise- und Grossraum. 1 Grossraum-Mitteltriebwagen BR 404 001-0, Apüm. 1 Endtriebwagen BR 403 002-9, Avüm, mit Abteilen. InterCity-Farbgebung kieselgrau/schwarzbraun. Betriebszustand 1973.\n\nModell: 4-teilige Einheit. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse im Grossraum-Mittelwagen. Jeweils beide Achsen in beiden Drehgestellen über je einen Motor angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung, Führerstandsbeleuchtung und beleuchtete Tischlampen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , rote Schlusslichter, Innenbeleuchtung und Führerstandsbeleuchtung konventionell in Betrieb, digital gemeinsam schaltbar. Beleuchtete Tischlampen separat digital schaltbar, wechselnd ein- und ausgeschaltet über Zufallsgenerator. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kulissengeführte mehrpolige Strom führende Spezialkupplung zwischen den Fahrzeugen. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Endtriebwagen. Viele angesetzte Details. Detaillierte Ausführung der Dachausrüstung. Pantographen nur mechanisch, nicht elektrisch funktionsfähig. An beiden Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Gleisbogen befahrbar ab Mindestradius 360 mm. Zuglänge über Kupplung 118 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37778",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/34/a9/34a922087a3c8246e89594d3f62188a81434539468.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

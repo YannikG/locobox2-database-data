@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37077",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37077",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "BR T18",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Schnelle Personenzuglokomotive Baureihe T18 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Zustand um 1914, Epoche I.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37077",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/f5/f5f57073d8100796ec6c4b0261ea276e1434538806.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

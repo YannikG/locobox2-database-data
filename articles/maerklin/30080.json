@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30080",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30080",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 280.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01 der Deutschen Bundesbahn (DB). Mit Witte-Windleitblechen. Betriebszustand um 1961.\n\nModell: Wiederauflage eines Märklin-Klassikers auf Basis der Artikel 3008/3048. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Eingerichtet für Rauchsatz 7226. Dreilicht-Spitzensignal an der Vorderseite der Lokomotive, konventionell in Betrieb, digital schaltbar. Lokomotivgehäuse und Fahrgestell aus Metall. Entsprechend dem alten Vorbild Räder und Gestänge blank vernickelt. Am Tender Relex - Kupplung . Länge über Puffer 28 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30080",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/40/6c/406caa832850df5935984ccb9cd88a411434538832.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

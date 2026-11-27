@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37053",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37053",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 659",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 235.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Reihe 659 der Österreichischen Bundesbahnen (BBÖ/ ÖBB ). Frühere deutsche Baureihe 59, zuvor Württemberger Reihe K. Ausführung in Epoche III, um 1955.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Eingerichtet für nachrüstbaren Rauchsatz 7226. Rauchsatzkontakt sowie Anfahr- und Bremsverzögerung digital schaltbar. Verstellbare Kurzkupplung zwischen Lok und Tender. Tender mit erhöhtem Kohleaufsatz. Detaillierter Führerstand . Figuren Lokführer und Heizer liegen bei. Länge über Puffer 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37053",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1e/2f/1e2fc18a4129ba4e790bfc71d2fb10571434538704.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

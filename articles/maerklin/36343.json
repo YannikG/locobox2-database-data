@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36343",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36343",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DBG",
+    "type": "BR 333 eingesetzt bei",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Kleindiesellokomotive Köf III als Baureihe 333 eingesetzt bei der Deutschen Bahn Gleisbau (DBG) in Epoche VI. Farbgebung Goldgelb. Ausführung mit Frontlüfter und Funkfernsteuerung.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell an und digital schaltbar. Beleuchtung mit warmweissen LED . Spitzensignal an beiden Seiten abschaltbar. Telex - Kupplung vorne und hinten getrennt schaltbar. Freier Durchblick im Führerhaus, Griffstangen angesetzt. Bremsleitungen und Rangierkupplungen liegen bei. Länge über Puffer 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36343",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/7e/da7e36055a7569fc8401eac5c4dc16a51434539115.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

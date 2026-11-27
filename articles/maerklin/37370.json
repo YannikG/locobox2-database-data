@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37370",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37370",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Bewegliche Imitation der Drehgestell -Anlenkung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37370",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/ae/39ae417f716e20d27f4f598b6e67f03d1434538800.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

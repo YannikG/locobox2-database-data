@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37616",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37616",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 261",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive Baureihe 261 der Deutschen Bundesbahn (DB). Dieselhydraulischer Antrieb mit Blindwelle.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen, geregeltem Hochleistungsantrieb und Telex -Kupplungen. 3 Achsen und Blindwelle angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37616",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ed/4c/ed4c756d7b239a58bb45d104d7846efe1434539374.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

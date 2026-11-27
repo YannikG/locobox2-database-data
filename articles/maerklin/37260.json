@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37260",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37260",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 115000",
+    "number": "115053",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Serie 115000 der Französischen Staatsbahnen ( SNCF ). Mit einem Einholm- Dachstromabnehmer . Farbgestaltung und Design in der Ausführung \"en voyage\". Betriebsnummer 115053 mit dem Wappen „Trouville Sur Mer\". Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Signalhorn. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37260",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4b/90/4b903ba0471d451143768ec2a7354a2d1434539337.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37788",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37788",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ICE 3 BR 403",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3. Baureihe 403 der Deutschen Bahn AG ( DB AG ). 1 Endwagen 403.0, 1. Klasse. 1 Trafowagen 403.1, 1. Klasse. 1 Speisewagen \"BordBistro\" 403.3. 1 Trafowagen 403.6, 2. Klasse. 1 Endwagen 403.5, 2. Klasse. Der Zug trägt den Namen \"Offenburg\", Betriebszustand 2011.\n\nModell: 5-teilige Ausführung. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb und Fernscheinwerfer. 2 Achsen angetrieben, Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge des Zuges 142,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37788",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/fd/b2fdb27c785a814476e65371dd5c78211469192178.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

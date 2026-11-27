@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37628",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37628",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Dieselelektrische Lokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7 der Kansas City Southern. Dreifacheinheit aus A-Unit, B-Unit und A-Unit.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Jeweils 1 Motor in den A-Units, Lautsprecher in der B-Unit eingebaut. Je motorisierter Unit 2 Achsen angetrieben. Haftreifen . Spitzensignal mit beleuchteten Nummerntafeln konventionell an, digital schaltbar. Geräuschgenerator mit Diesellok-Fahrgeräuschen. Feste Deichsel zwischen allen Lokomotiveinheiten. Schneeräumer zum Ansetzen beigelegt. Länge 52 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37628",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/85/00855afe7d4424dd02e6551d949914af1434539266.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}

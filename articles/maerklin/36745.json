@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36745",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36745",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 130TB",
+    "number": "130",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Serie 130TB der Französischen Staatsbahnen ( SNCF ). Ehemalige Reihe T 12 der Königlich Preussischen Staatseisenbahnen (KPEV). Lok-Betriebsnummer 130.TB.712.\n\nModell: Mit Digital- Decoder und Spezialmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36745",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/5b/7a5b59eb4c1be7b4aaa310bffa9d13471434538846.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:40Z"
+}
