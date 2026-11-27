@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 201",
-    "number": null,
+    "number": "001",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

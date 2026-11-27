@@ -49,6 +49,10 @@ Privat-/Leasing-EVU ohne Klammer und ohne Map-Eintrag → Pass-1-Finding, nicht 
 
 `autofix_maerklin_shop_import.py` ersetzt kaputte Typen (Satzfragmente, nur Produktklasse, `.`/`Nr.`) durch die Bezeichnung aus dem ersten Vorbild-Satz (`Baureihe X` → `BR X`, `Reihe`/`Serie`, `EMD F7`, `ICE 3`, `Köf II`). `VT`/`TVT`/`ER` ohne `BR`. Gattung bayerischer Länderbahnen ohne Wort `Gattung` (`S 2/6`). `number` nur bei `Betriebsnummer`/`Loknummer` mit eindeutigem Muster. Offen bleiben Artikel ohne Baureihe im Vorbild (alte Katalogtitel wie «Güterzug-Dampflokomotive», «Hochgeschwindigkeitszug.»).
 
+## Produktbilder und Betriebsnummer aus Foto
+
+`source.imageUrl` zeigt auf das **grosse Produktfoto** (erster `<a href="…damcontent….jpg">` im PDP, 1500 px). Das `src`-Bild im PDP ist nur ein 114×160-Thumbnail. Fehlt `model.number`, kann sie vom Foto gelesen werden (Skill-Abschnitt «Betriebsnummer aus Produktbild»): nur bei 1500-px-Bildern, Ausschnitt mit `sips` vergrössern, unsichere Ziffern weglassen. 800-px-Downsampling reicht oft nicht. Plausibilitätsregel: die ersten zwei Ziffern der Baureihe im `type` müssen in der gelesenen Nummer vorkommen (sonst Finding).
+
 ## Kategorien
 
 Parent `lokomotive` plus `dampf-/diesel-/elektrolokomotive` aus Roh-Typ oder Vorbild-Antriebswort. Autofix-Skript setzt das, wenn der Roh-Typ noch das Klassenwort enthält.
