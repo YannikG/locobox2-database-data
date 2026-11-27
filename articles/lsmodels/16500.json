@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16500",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16500",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ET 403",
+    "number": "403 002-9",
+    "livery": "IC",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "ET 403, grau/rot/schwarz, IC, 4-teilig",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2756-et-403-grau-rot-schwarz-ic-4-teilig.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2871-superlarge_default/et-403-grau-rot-schwarz-ic-4-teilig.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

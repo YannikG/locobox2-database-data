@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10064",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10064",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 4500",
+    "number": "X 4630",
+    "livery": "rot/creme, TER Rhône-Alpes",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "X4630, rouge crème, TER Rhône-Alpes, Lyon-Vaise",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2858-x4630-rouge-creme-ter-rhone-alpes-lyon-vaise.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3163-superlarge_default/x4630-rouge-creme-ter-rhone-alpes-lyon-vaise.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

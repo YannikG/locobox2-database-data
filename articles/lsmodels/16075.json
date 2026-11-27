@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16075",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16075",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "Vectron MS",
+    "number": "193 366-2",
+    "livery": "I am Einziganders",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "DB Cargo Vectron MS, white, \"I am Einziganders\"",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2192-db-cargo-vectron-ms-white-i-am-einziganders.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/550-superlarge_default/db-cargo-vectron-ms-white-i-am-einziganders.jpg"
+  },
+  "updatedAt": "2026-11-27T11:15:12Z"
+}

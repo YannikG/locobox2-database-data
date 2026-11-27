@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16529",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16529",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 181",
+    "number": "181 001-9",
+    "livery": "ozeanblau/elfenbein",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "181 001-9, AEG, ozean blau/elfenbein, 15kV 16 2/3 Hz/25kV 50 Hz, DBAG Logo, Saarbrücken",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2562-181-001-9-aeg-ozean-blau-elfenbein-15kv-16-2-3-hz-25kv-50-hz-dbag-logo-saarbrucken.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2884-superlarge_default/181-001-9-aeg-ozean-blau-elfenbein-15kv-16-2-3-hz-25kv-50-hz-dbag-logo-saarbrucken.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

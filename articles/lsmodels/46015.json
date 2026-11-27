@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-46015",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "46015",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "PL",
+    "operator": "PKP",
+    "type": "Bvcmz",
+    "number": null,
+    "livery": "blau/weiss",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "Bvcmz 248.5, blau/weiss, ohne Jan Kiepura zu markieren",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2840-bvcmz-2485-blau-weiss-ohne-jan-kiepura-zu-markieren.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3078-superlarge_default/bvcmz-2485-blau-weiss-ohne-jan-kiepura-zu-markieren.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

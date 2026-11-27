@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40107",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40107",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Gril express",
+    "number": null,
+    "livery": "rot/grau, GE-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Gril express, rot/grau, oranges GE Logo",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2763-gril-express-rot-grau-oranges-ge-logo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

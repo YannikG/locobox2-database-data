@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16589",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16589",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": "120 108-6",
+    "livery": "orientrot",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "BR120, orientrot",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2819-br120-orientrot.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2891-superlarge_default/br120-orientrot.jpg"
+  },
+  "updatedAt": "2026-11-27T11:15:12Z"
+}

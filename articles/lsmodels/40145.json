@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40145",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40145",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Gril express",
+    "number": null,
+    "livery": "Corail, Logo mit Rahmen",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Gril express, Corail, Logo mit Rahmen",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2764-gril-express-corail-logo-mit-rahmen.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T11:15:12Z"
+}

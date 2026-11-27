@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40993",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40993",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Vtu",
+    "number": null,
+    "livery": "OUIGO",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Vtu OUIGO, toiture gris orage",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2627-vtu-ouigo-toiture-gris-orage.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3004-superlarge_default/vtu-ouigo-toiture-gris-orage.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12558",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12558",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 27",
+    "number": "2715",
+    "livery": "New Look",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "2715, New Look",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2798-2715-new-look.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2829-superlarge_default/2715-new-look.jpg"
+  },
+  "updatedAt": "2026-11-27T11:15:12Z"
+}

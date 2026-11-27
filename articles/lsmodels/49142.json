@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49142",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49142",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "STU",
+    "number": null,
+    "livery": "blau, 1956",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "STU, blau, Farbgebung 1956, CIWL, Chassis kurz, Dach normal, Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2291-stu-blau-farbgebung-1956-ciwl-chassis-kurz-dach-normal-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/981-superlarge_default/stu-blau-farbgebung-1956-ciwl-chassis-kurz-dach-normal-monogramm.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

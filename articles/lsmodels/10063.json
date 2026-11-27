@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10063",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10063",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "X 4500",
+    "number": "X 4630",
+    "livery": "rot/creme",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "X4630, rouge crème, Longeau",
+  "categories": [
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2856-x4630-rouge-creme-longeau.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3153-superlarge_default/x4630-rouge-creme-longeau.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

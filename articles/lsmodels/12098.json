@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12098",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12098",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 11",
+    "number": "1183",
+    "livery": "rot/gelb",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "1183, rot/gelb, Schaerbeek",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2792-1183-rot-gelb-schaerbeek.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2823-superlarge_default/1183-rot-gelb-schaerbeek.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

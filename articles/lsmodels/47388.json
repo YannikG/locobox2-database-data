@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47388",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47388",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Apm",
+    "number": null,
+    "livery": "weiss, Fahrrad-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Apm, weiss, schwarzes Fensterband, rote Türen, rote Dach Linie, Fahrad Logo",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2877-apm-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo-5404039900280.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3298-superlarge_default/apm-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo.jpg"
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}

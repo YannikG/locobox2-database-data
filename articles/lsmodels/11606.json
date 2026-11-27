@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11606",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11606",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": "22240",
+    "livery": "OUIGO",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "BB 22240, livrée OUIGO",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2625-bb-22240-livree-ouigo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T11:22:07Z"
+}
