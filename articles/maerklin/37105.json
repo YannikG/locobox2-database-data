@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 01",
-    "number": null,
+    "number": "1054",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37105",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/91/92/9192f6c536600cf9d1af040dc08a21e31467114203.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/70/d4/70d4e9f08d26b8472ded7f30771034041467114212.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

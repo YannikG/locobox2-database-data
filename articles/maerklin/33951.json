@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 03",
-    "number": null,
+    "number": "156",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33951",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/53/f5/53f587c3dbb76d79db39acb34fdfd55c1434539135.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/16/7c/167c2d75c26abfd358a1dd61bcdd56861434539135.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

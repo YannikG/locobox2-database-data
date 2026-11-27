@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "Reihe D XII",
-    "number": null,
+    "number": "2222",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37135",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/8f/47/8f47a13b53a00d71cf39c5e4677303141434538945.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/b1/15/b115d147b0b566aad0cb269e0c0436901434538945.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

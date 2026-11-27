@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Ee 3/3",
-    "number": null,
+    "number": "16373",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36330",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/12/22/1222d92c4484a46b9165a430d8bdf6ca1434538655.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/3b/8d/3b8decf1f5b420fc699550dfad3d1bf71434538655.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

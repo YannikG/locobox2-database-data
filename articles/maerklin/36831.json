@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "LTE",
     "type": "BR 185",
-    "number": null,
+    "number": "528-7",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36831",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/87/37/8737fa9a74fb2687e22fe016f7aee4661784282403.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/33/7f3394249d139724b672f00b696955d21784282404.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

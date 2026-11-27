@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 89",
-    "number": null,
+    "number": "006",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/3000",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b7/8a/b78a66e7864072e2602c0b708a646ca21434545089.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/26/43/264354e2342dd23cfc3da2520eacdc3b1434545089.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

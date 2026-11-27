@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "KPEV",
     "type": "Gattung P8",
-    "number": null,
+    "number": "2438",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37028",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/9a/13/9a13a457586f9655d38ede4133cdd8871467114082.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/be/4ebec9dfd6d20bcba30d93d1923fa3891467114092.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

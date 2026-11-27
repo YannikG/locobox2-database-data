@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 74",
-    "number": null,
+    "number": "749",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30951",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/be/93/be9329f7e931cb832277ffe4a8eb502d1434539261.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/97/b297fe1cae41f8997c62aba3ebeab70d1434539261.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

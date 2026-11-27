@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "KPEV",
     "type": "Gattung T 3",
-    "number": null,
+    "number": "6127",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -25,7 +25,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37146",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/da/5f/da5fe6ffcb661b16b326d83724218fab1534750806.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/3e/8e/3e8e9c9b22c2d9a0e36385c7ec64c9421534750805.jpg"
   },
   "updatedAt": "2026-11-27T10:06:28Z"
 }

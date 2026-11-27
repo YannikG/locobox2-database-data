@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 89",
-    "number": null,
+    "number": "7314",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37140",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/6e/5f/6e5f978e8e29247423d88d4a2f58cb001434539338.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/57/42/5742dcd4aa1cdb7dfbc4a4f527a395441434539338.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

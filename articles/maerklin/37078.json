@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 78",
-    "number": null,
+    "number": "128",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37078",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/7a/4e/7a4efc876ea6a7eda9eb2a3b843953801434539052.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/49/ad/49adf51c35153cf57269d9fcaf34a1521434539051.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

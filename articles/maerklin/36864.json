@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "BR 688",
-    "number": null,
+    "number": "01",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36864",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b7/b1/b7b1fd80154515ea7a0044dc18698c591451855402.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/39/b0/39b0f0a43b3e4a07b58c2d239559acaf1452600603.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

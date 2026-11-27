@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "Railpool",
     "type": "BR 186",
-    "number": null,
+    "number": "293-7",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36644",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/0f/38/0f383cf1deb291d27387bc92f0778b6e1534399207.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/c2/53/c253f070a4a6e9406621530ba94c77461534399207.jpg"
   },
   "updatedAt": "2026-11-27T09:55:07Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 232",
-    "number": null,
+    "number": "673-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36433",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/cd/e8/cde8db40983eaca6f55c722e6b97d3b91533880827.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/08/9b/089b31475784a18675ce2ef34e3fa9e01533967211.jpg"
   },
   "updatedAt": "2026-11-27T09:55:07Z"
 }

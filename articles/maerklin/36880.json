@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "On Rail",
     "type": "Henschel DHG 700 Privatlokomotive",
-    "number": null,
+    "number": "04",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36880",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/d9/6e/d96e52b51f2f3b8899932f1f80ac09661434539178.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/35/b2/35b232f1d86b6da94f2a0e1a63a6016e1434539178.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

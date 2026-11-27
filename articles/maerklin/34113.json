@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.W.St.E.",
     "type": "Reihe C",
-    "number": null,
+    "number": "2010",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34113",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/e5/06/e5067c450e40455f74eabe60683292e31434539209.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/81/7a/817adeff1b003d903047adf02f20b2fb1434539209.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

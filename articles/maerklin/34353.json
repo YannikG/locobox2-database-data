@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 152",
-    "number": null,
+    "number": "073-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34353",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/42/0f/420f79f2b4b145d8b2350fd18b02db211434539293.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a5/81/a5818f8fc3070f46b8be11707129f3fb1434539293.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

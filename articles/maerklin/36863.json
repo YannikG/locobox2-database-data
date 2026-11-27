@@ -8,7 +8,7 @@
   "model": {
     "country": "DE",
     "operator": "DB",
-    "type": "BR BR 98",
+    "type": "BR 98",
     "number": null,
     "livery": null,
     "scale": "H0",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36863",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/0c/a2/0ca2e61da929485767175c3fe4db58241434539164.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/f8/51/f851fe092b4e8e920ce3acb2aa1700e21434539164.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

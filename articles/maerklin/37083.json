@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 10",
-    "number": null,
+    "number": "002",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37083",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/6e/af/6eafad257c91100d0aecc729f42a52581453208131.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/fe/e7fe81d3fc6fa4fb13e98b1ff28dddbc1453208143.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

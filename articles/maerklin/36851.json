@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Serie 482",
-    "number": null,
+    "number": "011-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36851",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/65/a8/65a82524397e91c080788fd535b23a281434539329.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/21/a2/21a2fcb26e8014271db91e02406f7b8e1434539329.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

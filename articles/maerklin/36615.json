@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "HVLE",
     "type": "BR 185",
-    "number": null,
+    "number": "583-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36615",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/61/e5/61e589041fa13f03e1e1d7c379e7942e1434539214.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/13/4b/134bf3e657238b4a64251df7ed1e19e91434539214.jpg"
   },
   "updatedAt": "2026-11-27T10:04:53Z"
 }

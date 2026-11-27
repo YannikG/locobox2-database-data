@@ -9,7 +9,7 @@
     "country": "PL",
     "operator": "PCC Rail",
     "type": "BR 232",
-    "number": null,
+    "number": "275",
     "livery": "Ludmilla",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36426",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/88/2e/882e925912b80a94c18040b5f105398e1434538930.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/17/35/1735aae16b5ecce1a81bdc1e1355a9ff1434538930.jpg"
   },
   "updatedAt": "2026-11-27T10:04:40Z"
 }

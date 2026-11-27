@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "Reihe 2016",
-    "number": null,
+    "number": "082-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36845",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/20/eb/20eb0f57cf3af529ac34d061c8bfb19a1434539098.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/74/4c743925042f0df6e1b523bd3a017bf81434539098.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

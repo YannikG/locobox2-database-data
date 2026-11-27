@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 28",
-    "number": null,
+    "number": "2803",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36608",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b3/46/b346f57028ca52d16f875cc55bb768ba1434539329.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/03/a703c1fc2f683d8aade9042a733b78681434539329.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

@@ -9,7 +9,7 @@
     "country": "LU",
     "operator": "CFL",
     "type": "BR 185",
-    "number": null,
+    "number": "534-5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36632",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/32/95/3295e0db3a0c5ead0f546f21c7d889811484055135.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/51/a8/51a8b8b4ed9afdaef9d1e3b6bce195371484055147.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

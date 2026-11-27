@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "Unbekannt",
     "type": "ER 20",
-    "number": null,
+    "number": "255",
     "livery": "Looney Tunes",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36847",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/2b/f4/2bf44ede26063b188841ef576148fd3a1434538986.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/ab/e1ab980f2d51ef2c20d23299fd17bec61434538986.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

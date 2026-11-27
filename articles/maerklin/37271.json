@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 59",
-    "number": null,
+    "number": "5907",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37271",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/38/40/38408641cd44701de0b7d90ec87669b71434539174.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/65/20/6520a54c5562be4db111f5a0f5c3534e1434539174.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

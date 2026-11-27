@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR V 61",
-    "number": null,
+    "number": "172",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36505",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/04/10/04101858943539e2e4bdd894bcc48b081734116411.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/5f/59/5f59223fae622628b78d52c229c966661734102014.jpg"
   },
   "updatedAt": "2026-11-27T09:53:42Z"
 }

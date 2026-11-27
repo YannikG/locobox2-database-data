@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BR 186",
-    "number": null,
+    "number": "184-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36625",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/84/4c/844ccc52a5bcf6733a4622a47cc369ed1536818405.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/df/90/df9040ce650098ff43ff5923ac2212151536645609.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

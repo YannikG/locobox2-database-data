@@ -9,7 +9,7 @@
     "country": "NL",
     "operator": "NS",
     "type": "Serie 1200",
-    "number": null,
+    "number": "1251",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37122",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/eb/c8/ebc817e6ec5e1dd0ef649578c09636de1434538703.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/5f/87/5f876396729e181c41b0b666dcfe95d31434538703.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

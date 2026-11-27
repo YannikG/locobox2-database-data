@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 22",
-    "number": null,
+    "number": "2201",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37232",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/00/06/0006af2d349f0f51124d9df80d76e7291434539152.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/17/82/1782e97535adea040c75a0cfb69ebd301434539152.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

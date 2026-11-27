@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "EP 3/6",
-    "number": null,
+    "number": "20102",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37060",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/d7/10/d710d048be23b6507e00668ad9db89c11434539067.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/df/31/df31bb0c3a883839b08f5e428c4c4d031434539067.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

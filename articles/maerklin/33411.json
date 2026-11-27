@@ -9,7 +9,7 @@
     "country": "SE",
     "operator": "SJ",
     "type": "Reihe Rc3",
-    "number": null,
+    "number": "1047",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33411",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/eb/b3/ebb3f1e43953b0a25f6412b10e2e2ffa1434538884.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/6b/9c/6b9ce995076ef2e1df6cf5b2f2ee7e861434538884.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

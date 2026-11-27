@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.W.St.E.",
     "type": "Serie K",
-    "number": null,
+    "number": "1801",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37059",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/82/89/828902308792badd718acc3cdc55daab1434538781.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/22/a8/22a8ac32cec64119093441098d2e4e531434538781.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

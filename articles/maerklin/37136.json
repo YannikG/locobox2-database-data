@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Eb 3/5",
-    "number": null,
+    "number": "5812",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37136",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ea/2f/ea2f880fae70ce2b362e28ee4a47c0451434538768.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/bc/6d/bc6df57b6dc3d568d07626edd06600221434538768.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

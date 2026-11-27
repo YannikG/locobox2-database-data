@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 94",
-    "number": null,
+    "number": "2015",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37229",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/87/d0/87d05c3477b163e5b60e92c9d9cf42891436268297.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/93/e6/93e6ac98be38e2e9f34fa56c701b26141436268297.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

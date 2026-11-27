@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 232",
-    "number": null,
+    "number": "904-3",
     "livery": "Ludmilla",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36422",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/5b/81/5b8142b4073c927caeb8f8105cef70dd1434539307.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/74/85/7485c14796f7b3ee9a996b573b4fa3081434539307.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

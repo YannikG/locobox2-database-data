@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 381",
-    "number": null,
+    "number": "018-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36812",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ea/86/ea86015b268f72334de4161edca9e6331434539117.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/d5/4ed51b34b9e73db81265466244e32fb51434539117.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

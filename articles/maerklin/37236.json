@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 23",
-    "number": null,
+    "number": "2380",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37236",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/2f/11/2f11d6dbe8291a71b6c86143521d7aa11434538640.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/85/b5/85b573614a72894e270776391080fe0b1434538640.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR V 80",
-    "number": null,
+    "number": "005",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36081",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b2/c1/b2c1b3d096bcebddaac4fbb3f460ad6e1434539389.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/64/ca/64ca367993708995eab91eabcebc75641434539389.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

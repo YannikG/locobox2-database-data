@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "KPEV",
     "type": "BR 89",
-    "number": null,
+    "number": "6306",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37144",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/9a/36/9a36a8a9926bdfafd87850608040ba911434539222.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/f3/8cf37ad721800b83795011c97b393efc1434539222.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

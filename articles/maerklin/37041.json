@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "Rangierlokomotive Nr.",
-    "number": null,
+    "number": "5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37041",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/c3/e8/c3e8d3bfee895a775d135f39a57473c91434538736.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/ae/05/ae053f5c32188a7ea3b4db2bcd16b02d1434538736.jpg"
   },
   "updatedAt": "2026-11-27T10:04:53Z"
 }

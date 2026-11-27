@@ -12,7 +12,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 59",
-    "number": null,
+    "number": "5905",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -30,7 +30,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37279",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/58/00/5800409441bdf9122af30e2ff25874711745942430.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/6e/d7/6ed76fc79bc6b6458275a18d0aa593fc1745946035.jpg"
   },
   "updatedAt": "2026-11-27T09:53:42Z"
 }

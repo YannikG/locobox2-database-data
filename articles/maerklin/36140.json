@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.W.St.E.",
     "type": "Klasse T3",
-    "number": null,
+    "number": "994",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36140",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b0/fa/b0fa2f9fd474d0d7811988555b14673d1466694684.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/77/6c/776cbe68fbddb3d3030b3d43f620ec831466694712.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

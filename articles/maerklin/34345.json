@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Re 4/4 II (420)",
-    "number": null,
+    "number": "11270",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34345",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/0f/9e/0f9ec535acbeba750e6a7f5d49f1c0301434538998.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/35/ca/35cad296fab474c8993663ff640f776d1434538998.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

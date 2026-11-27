@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "X 112",
-    "number": null,
+    "number": "03",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36818",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/6c/57/6c577dee6732cc5cf09cec624f5ce3fe1467383013.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/26/68/26686e37f955290173327f453e2cb25d1467383028.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

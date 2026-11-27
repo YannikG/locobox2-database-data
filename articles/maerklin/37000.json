@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 212",
-    "number": null,
+    "number": "105-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37000",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/65/df/65df565bb1dcca50da7720a9dfe0eec81434539414.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/2e/7f2e6336ba494b0515164fda75ce0b331434539414.jpg"
   },
   "updatedAt": "2026-11-27T10:04:40Z"
 }

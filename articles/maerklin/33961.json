@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 86",
-    "number": null,
+    "number": "217",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33961",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/a6/9e/a69ea01fbaf71e352e80b88865e707271434539284.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/94/b9/94b9376f74f7c5ebf6d13665ad386f241434539284.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "Tegernsee-Bahn",
     "type": "Dieselhydraulische Lokomotive",
-    "number": null,
+    "number": "14",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33645",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/41/29/4129b09edff86f745af56411757cd5b31434539415.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/70/ec701a3ae1ca45da90c354470646589b1434539415.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

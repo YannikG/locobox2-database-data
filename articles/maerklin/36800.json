@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR Köf II",
-    "number": null,
+    "number": "6641",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36800",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/c4/0e/c40e4bacb4d930d95608d678ebd6ae501434538988.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/30/2e/302ee984a36410d4772e214a73dcc9361434538988.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

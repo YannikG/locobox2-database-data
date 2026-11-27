@@ -9,7 +9,7 @@
     "country": "SE",
     "operator": "SJ",
     "type": "Elektro-Rangierlokomotive Reihe Ue",
-    "number": null,
+    "number": "499",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36350",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/af/eb/afeb405bae246312ca5655a27fc69eb41451853833.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/59/82/5982a55e8def7bd5baf5d07e1a1916bd1452598802.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 92",
-    "number": null,
+    "number": "705",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34132",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/d9/f2/d9f2a2e09e86dc32284228ae574d84f41434539168.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/02/2a/022ae8cf511adce36f67d7a8174283091434539168.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR E 52",
-    "number": null,
+    "number": "30",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33661",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/7a/a2/7aa2cb419a73f0c60ed47aa52aec167c1434539441.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/59/e7595eded52779c83f5ac503a79d0f3e1434539441.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

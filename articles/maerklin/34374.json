@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 101",
-    "number": null,
+    "number": "008-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34374",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/c2/af/c2affd5e979039569972b34c09883e561434539188.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a5/be/a5be53bf11d0443bfec5476f718eee1f1434539188.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

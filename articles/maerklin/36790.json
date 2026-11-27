@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "StLB",
     "type": "Reihe 2016",
-    "number": null,
+    "number": "901-7",
     "livery": "Hercules",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36790",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ea/45/ea45aaa1412e46ba0be06f089b6709591434538702.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/59/15/591591ebf3e5fb0b921b78f6fca589751434538702.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

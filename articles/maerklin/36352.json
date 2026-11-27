@@ -9,7 +9,7 @@
     "country": "SE",
     "operator": "SJ",
     "type": "Elektrische Rangierlokomotive Reihe Ub",
-    "number": null,
+    "number": "709",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36352",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/5c/e2/5ce2ac599f66dc1d0661a59d4b1c82231484054138.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/66/ad/66ad12d8a5f400550bccf19e1a5e5ea11484054146.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 218",
-    "number": null,
+    "number": "217-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30747",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/fd/ed/fded9a980d5ee4c00e93e657d4f711e21434539317.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a1/ab/a1ab97e17df528d81b473b5b18788a6f1434539317.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

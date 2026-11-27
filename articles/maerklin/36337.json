@@ -9,7 +9,7 @@
     "country": "SE",
     "operator": "SJ",
     "type": "Reihe Ue",
-    "number": null,
+    "number": "592",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36337",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/01/2d/012d76c8bb991f7498e88c08f967e46a1434538897.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/74/28/74289388992a1e97f8990711b2dbf0311434538897.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

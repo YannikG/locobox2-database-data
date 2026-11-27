@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "metronom",
     "type": "BR 246",
-    "number": null,
+    "number": "003-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36650",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/fe/c6/fec67a3c76cfb3316c56c9b1e5cd82241434538914.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/4d/2f/4d2f2850dd2205051687bc8137a162d11434538914.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR E 44",
-    "number": null,
+    "number": "098",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34440",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/2c/29/2c290bbce76bcd741d847cca19720bf51434539000.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/02/79/027930af8f4795af8a91ef5b01a41f491434539000.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 25",
-    "number": null,
+    "number": "2551",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37238",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ce/47/ce474f607ac02153c410fc53db5449c61434539195.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/40/e7400d1f06a4469f87cbadd9a09d014a1434539195.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

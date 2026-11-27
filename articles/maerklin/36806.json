@@ -9,7 +9,7 @@
     "country": "IT",
     "operator": "FS",
     "type": "Gruppe 213",
-    "number": null,
+    "number": "915",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36806",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/7c/fc/7cfcd6736e27e41f7cef8c20208869bf1434539419.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/0b/e8/0be86e2c15619d11dd60969a13d174ab1434539419.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

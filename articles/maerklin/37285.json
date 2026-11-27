@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "V 188",
-    "number": null,
+    "number": "002",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37285",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ea/92/ea92a90c250668aeefa29c756c7afedf1460130758.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/80/16/8016e30e8c65a71003a3dc38b5151f531460130773.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

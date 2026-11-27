@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "S 2/6",
-    "number": null,
+    "number": "3201",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37017",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/bc/e4/bce41f826a825e8c2da6367a6a2d14291473855999.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/0f/a00fef952526121537450f9b9ba5e2491473856012.jpg"
   },
   "updatedAt": "2026-11-27T10:06:28Z"
 }

@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Eb 3/5",
-    "number": null,
+    "number": "5804",
     "livery": "Habersack",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37137",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/4b/71/4b71bd0795259c2563f1a2f970125c941434538870.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/35/b7/35b733bac1b5aa0496c0a2b0870b91b41434538870.jpg"
   },
   "updatedAt": "2026-11-27T10:04:53Z"
 }

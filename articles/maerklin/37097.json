@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 85",
-    "number": null,
+    "number": "005",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37097",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b5/f7/b5f7e992c97b44c95d5bfb17c8f69def1434539069.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/96/dd/96dd55d9fb086fef95a8135003a8ce151434539069.jpg"
   },
   "updatedAt": "2026-11-27T10:05:15Z"
 }

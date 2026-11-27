@@ -12,7 +12,7 @@
     "country": "DE",
     "operator": "DBG",
     "type": "BR 367",
-    "number": null,
+    "number": "006-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -30,7 +30,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36702",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/94/e2/94e221e0603a11a77cf00946cea56d221765825223.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/88/7d/887d1ffd5a5020cf4121b25901b9595b1765828808.jpg"
   },
   "updatedAt": "2026-11-27T09:53:42Z"
 }

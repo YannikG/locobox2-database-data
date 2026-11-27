@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "Serie BB 422 200",
-    "number": null,
+    "number": "422298",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37255",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ba/27/ba27ae35fa6adf991a910a97f49424d31434538691.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/f0/bb/f0bb2c9140b370b11e46b28ec44fb4841434538690.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

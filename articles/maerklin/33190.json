@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 17",
-    "number": null,
+    "number": "007",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33190",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/47/d5/47d531940e2c10cb83ed65b6893491ae1434539036.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/cc/e3/cce33f85632db5e8e72580a51f2bce841434539035.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

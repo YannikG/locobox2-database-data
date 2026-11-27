@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "BR 694",
-    "number": null,
+    "number": "692",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37179",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/1d/d6/1dd69190a8fc873273b39645551b22411503409721.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/22/c122d99ff4e181d0e2d66e260cc097b51503409693.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

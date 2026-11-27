@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "MRCE",
     "type": "EuroRunner ER 20",
-    "number": null,
+    "number": "013",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36794",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/65/0c/650ceaf70aeffe4a00db054fb69183001434538931.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/46/d246124a56399f78806eca8d9a5df1921434538931.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

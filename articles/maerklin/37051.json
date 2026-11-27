@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 05",
-    "number": null,
+    "number": "002",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -28,7 +28,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37051",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/4f/6c/4f6c7502b5832c626b78aee1854d18761434538793.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/78/69/7869e2894118036ee6b66c8e76118aa81434538792.jpg"
   },
   "updatedAt": "2026-11-27T10:04:40Z"
 }

@@ -135,6 +135,13 @@ def _description(html: str, title: str) -> str:
 
 
 def _main_image(html: str) -> str:
+    """Prefer the large product photo (``<a href=…jpg>``, 1500 px) over the 114 px thumbnail."""
+    for m in re.finditer(
+        r'href="(https://static\.maerklin\.de/damcontent/[^"]+\.(?:jpg|jpeg|png|webp))"',
+        html,
+        re.I,
+    ):
+        return m.group(1).split("?")[0]
     for m in re.finditer(
         r'src="(https://static\.maerklin\.de/[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"',
         html,

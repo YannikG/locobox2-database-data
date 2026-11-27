@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "Serie 230 F",
-    "number": null,
+    "number": "373",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37036",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/3b/c3/3bc36591aabcf5787381a917f8b86cde1434539380.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/7c/7b7cce577b06d95de6d9ba71d71037611434539380.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

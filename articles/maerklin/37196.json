@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR E 91",
-    "number": null,
+    "number": "104",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37196",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/13/f6/13f6143718380a1869897269b83e1ce21434539139.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/42/69/4269872cc549f0a0d8b67c66f6ae54091434539139.jpg"
   },
   "updatedAt": "2026-11-27T10:05:40Z"
 }

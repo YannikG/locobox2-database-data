@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 212",
-    "number": null,
+    "number": "V100.57",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37170",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/b7/30/b730398d84c5c1c4577a0ea1a83d6bd51663070403.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/74/7c/747ce2c4bc05de832361bab3ff3451df1663070402.jpg"
   },
   "updatedAt": "2026-11-27T09:53:43Z"
 }

@@ -9,7 +9,7 @@
     "country": "NL",
     "operator": "NS",
     "type": "Serie 1600",
-    "number": null,
+    "number": "1637",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37262",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/06/e3/06e35ac069cae148d19a7e9c7d85cefe1434538641.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/73/d7/73d7b1f81d4c13a685be98dfb1559a761434538641.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

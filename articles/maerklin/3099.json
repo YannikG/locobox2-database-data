@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 038",
-    "number": null,
+    "number": "772-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/3099",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/27/bc/27bcec63fa6bf78de1e93872440040741434539263.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/6f/5d/6f5dc069d89cf463840bfcf82dc519f71434539263.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

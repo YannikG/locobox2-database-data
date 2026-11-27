@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 185",
-    "number": null,
+    "number": "052-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36850",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/47/44/47445680da912282f0a2f9c2b2c0d8f21434539014.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/60/a7/60a7db4191952f1756e3763da7b03a281434539014.jpg"
   },
   "updatedAt": "2026-11-27T10:05:51Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "HVLE",
     "type": "BR 285",
-    "number": null,
+    "number": "102-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36651",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/80/fd/80fd56342f28aab8ef3a6321ee253d711434539418.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/0a/dc0a40358bafa2fbe99a40088f2f823f1434539418.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "ITL",
     "type": "BR 285",
-    "number": null,
+    "number": "106-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36653",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/6e/2d/6e2d1fd98d99ce0500e74278210b6e821434539272.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/9c/f69c7b8fab7b320c6efdd51eb6bbb2391434539272.jpg"
   },
   "updatedAt": "2026-11-27T10:04:53Z"
 }

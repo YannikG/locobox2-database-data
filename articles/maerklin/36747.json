@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DR",
     "type": "Gattung T12",
-    "number": null,
+    "number": "8740",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36747",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/da/60/da607de3d62961c1a36979d89d75eca81680328806.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/73/a4/73a4caf8cf3dfd9bb222104f97fe8ced1680328808.jpg"
   },
   "updatedAt": "2026-11-27T09:53:43Z"
 }

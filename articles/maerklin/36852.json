@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "BLS",
     "type": "Serie 485",
-    "number": null,
+    "number": "005-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36852",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/f0/95/f095c68095ba1656f55869f9d8662b791434539351.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/ec/0cec22788083d05aa796b7809a5f5ec81434539351.jpg"
   },
   "updatedAt": "2026-11-27T10:05:39Z"
 }

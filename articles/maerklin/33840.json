@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 50",
-    "number": null,
+    "number": "2448",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -26,7 +26,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33840",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/9a/0b/9a0b629d1a57249060cf2a2a390d29731434539199.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/b8/07/b80794e29da2471d14685e87915dd32a1434539199.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

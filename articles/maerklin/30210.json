@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR V 200",
-    "number": null,
+    "number": "048",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30210",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/0c/2c/0c2c0030332e224ca77f4819133e84cf1434539257.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/50/0f/500fd4cbdcc45a25020b543c2c953dca1434539257.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

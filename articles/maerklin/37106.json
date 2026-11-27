@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR E 10",
-    "number": null,
+    "number": "1240",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37106",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/e7/d8/e7d8091f7b9e243ba23c1902b3bea77a1434538992.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/35/30/35301c71a05e13557bb25f347c95d11b1434538992.jpg"
   },
   "updatedAt": "2026-11-27T10:04:40Z"
 }

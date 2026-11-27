@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 24",
-    "number": null,
+    "number": "055",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36241",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/59/00/590043d8865835704bd6a74f84e131c81434539156.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/7c/ba7c01d44c5b62e3dc0cb650efbf15671434539156.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.W.St.E.",
     "type": "Reihe T 18",
-    "number": null,
+    "number": "1140",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/33071",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/70/70/7070e9f09a556e81a83abe9baede4ff21434538979.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/24/93/24936635b3eb839ba1b5d6f599e4ea5e1434538979.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

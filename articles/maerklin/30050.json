@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 23",
-    "number": null,
+    "number": "041",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30050",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/46/e5/46e54355c45b907c721c04a1db6231221434538836.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/04/a30442057c538210040c68fb1a84d6ea1434538836.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

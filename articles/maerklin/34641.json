@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 365",
-    "number": null,
+    "number": "709-5",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34641",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/ee/85/ee85924ab6c3fc30ac48cc30799cc9261434539276.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/f5/da/f5da43227b336d538c9704bb9da7451e1434539276.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

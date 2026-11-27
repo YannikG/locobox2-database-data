@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 29",
-    "number": null,
+    "number": "2901",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36618",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/c5/69/c569df510166ba5d86385042800bc7951484054258.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/60/4c60dee46b376abf90f7f6661385ff1d1484054280.jpg"
   },
   "updatedAt": "2026-11-27T09:55:06Z"
 }

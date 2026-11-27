@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 74",
-    "number": null,
+    "number": "701",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/3095",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/c8/f6/c8f65329c37d67a6a7c2f892ebb728731434539213.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/12/e2125d3b0400e1a02a4f237f89a597f71434539213.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

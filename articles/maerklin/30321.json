@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 81",
-    "number": null,
+    "number": "003",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30321",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/05/2e/052e182a7dc9d38d0a07ef5404ec98471434539443.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/28/a8/28a8f7a1b13026449a8191d3462e8d301434539443.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

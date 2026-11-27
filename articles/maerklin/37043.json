@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 80",
-    "number": null,
+    "number": "038",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37043",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/f8/df/f8df04a16cd01c3dadb5d344c71858c71434538999.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/67/5b/675b4b3ff97c8c6825a468ab4504f6541434538999.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

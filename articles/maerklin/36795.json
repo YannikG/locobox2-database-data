@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "MRCE",
     "type": "BR 223",
-    "number": null,
+    "number": "013-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36795",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/76/30/7630e04ebf51c8a3b39accf229923fd41434538710.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/1f/a71f2714215e850e152cf2d412870c261434538710.jpg"
   },
   "updatedAt": "2026-11-27T10:03:51Z"
 }

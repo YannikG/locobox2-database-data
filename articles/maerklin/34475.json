@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR E 69",
-    "number": null,
+    "number": "02",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/34475",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/1d/6c/1d6c8bd389d932460c5afcf729a68e361434539245.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/a5/c8/a5c858d9a88e8769ee9e857b77883ef21434539245.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }

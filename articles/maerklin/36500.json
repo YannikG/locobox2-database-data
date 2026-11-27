@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "Vopak Dupeg",
     "type": "DHG 500",
-    "number": null,
+    "number": "3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/36500",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/75/24/7524d26af18b4c2010af0c5177a832f81434539269.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/fe/b7fe5827c472f253c164080ab1874d9e1434539269.jpg"
   },
   "updatedAt": "2026-11-27T10:04:52Z"
 }

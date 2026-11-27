@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 110",
-    "number": null,
+    "number": "294-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/30331",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/a4/d4/a4d49834dfe2164db55c982827989f761434538620.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/79/5e/795ee689909638c8714b7e20db58711d1434538620.jpg"
   },
   "updatedAt": "2026-11-27T10:05:50Z"
 }

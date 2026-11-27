@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 18",
-    "number": null,
+    "number": "427",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,7 +27,7 @@
   "source": {
     "url": "https://www.maerklin.de/de/produkte/details/article/37184",
     "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
-    "imageUrl": "https://static.maerklin.de/damcontent/29/cf/29cf48a9fb9ec3121018917b51852db11434539013.jpg"
+    "imageUrl": "https://static.maerklin.de/damcontent/cc/af/ccaf06834272477a2d20540d9156f8fe1434539013.jpg"
   },
   "updatedAt": "2026-11-27T10:06:02Z"
 }
