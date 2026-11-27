@@ -13,7 +13,7 @@
     "livery": "AEG, ozean blau/elfenbein",
     "scale": "H0",
     "electricSystem": "AC-Digital",
-    "era": "VB"
+    "era": "V"
   },
   "description": "181 001-9, AEG, ozean blau/elfenbein, 15kV 16 2/3 Hz/25kV 50 Hz, DBAG Logo, Saarbrücken",
   "categories": [
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2884-superlarge_default/181-001-9-aeg-ozean-blau-elfenbein-15kv-16-2-3-hz-25kv-50-hz-dbag-logo-saarbrucken.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T11:13:24Z"
 }

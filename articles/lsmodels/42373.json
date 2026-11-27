@@ -13,7 +13,7 @@
     "livery": "B, orange, weisse Linie",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "era": "IVB"
+    "era": "IV"
   },
   "description": "I10 B, orange, weisse Linie",
   "categories": [
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3141-superlarge_default/i10-b-orange-weisse-linie.jpg"
   },
-  "updatedAt": "2026-11-21T22:55:02Z"
+  "updatedAt": "2026-11-27T11:13:24Z"
 }

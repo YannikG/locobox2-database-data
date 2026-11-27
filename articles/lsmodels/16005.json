@@ -13,7 +13,7 @@
     "livery": "gelb/grau, Lufthansa Airport Express, 4-teilig",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "era": "IVC-VA"
+    "era": "IV-V"
   },
   "description": "ET 403, gelb/grau, Lufthansa Airport Express, 4-teilig",
   "categories": [
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/1626-superlarge_default/et-403-gelb-grau-lufthansa-airport-express-4-teilig.jpg"
   },
-  "updatedAt": "2026-11-27T10:01:10Z"
+  "updatedAt": "2026-11-27T11:13:24Z"
 }

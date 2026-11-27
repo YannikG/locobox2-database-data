@@ -13,7 +13,7 @@
     "livery": "rot/beige, geänderte Front, DB Logo, Dach Vorserienversion",
     "scale": "H0",
     "electricSystem": "DC-Analog",
-    "era": "IVB"
+    "era": "IV"
   },
   "description": "120, rot/beige, geänderte Front, DB Logo, Dach Vorserienversion",
   "categories": [
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2893-superlarge_default/120-rot-beige-geanderte-front-db-logo-dach-vorserienversion.jpg"
   },
-  "updatedAt": "2026-11-27T10:01:10Z"
+  "updatedAt": "2026-11-27T11:13:24Z"
 }
