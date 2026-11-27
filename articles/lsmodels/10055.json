@@ -10,7 +10,7 @@
     "operator": "SNCF",
     "type": "BB 22200",
     "number": "22214",
-    "livery": "grau/violett, En Voyage, Wappen Dole",
+    "livery": "En Voyage, Dole",
     "scale": "H0",
     "electricSystem": "DC-Analog",
     "era": "V-VI"
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3081-superlarge_default/bb-22200-grau-violett-en-voyage-carmillon-logo-frontnummer-kleines-fuhrerhaus-wappen-dole.jpg"
   },
-  "updatedAt": "2026-11-27T10:01:35Z"
+  "updatedAt": "2026-11-27T10:04:45Z"
 }

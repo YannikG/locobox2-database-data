@@ -48,7 +48,7 @@ Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `H
 - HLE: grosse Nummer an der Flanke (`2756`, `2114`, `1211`), UIC-Zeile ignorieren
 - DB BR 120/Vectron: `120 144-1` bzw. UIC `91 80 6193 366-2 D-DB` → `193 366-2`
 - Typ-Zeile mit `X####` hat die Nummer schon im `type`, nichts zu tun
-- Stadtwappen/Taufnamen (z. B. «Wappen Dole») in `livery`
+- Stadtwappen/Taufnamen (z. B. «Dole») kurz in `livery`, Muster `En Voyage, Dole`
 
 ## AC/DC-Schwestern
 

@@ -226,7 +226,7 @@ Ist `model.number` `null`, obwohl das Modell eine feste Betriebsnummer trägt (T
 1. Bild nach `.tmp/` (oder Scratchpad) laden (`curl -sL -A 'Mozilla/5.0' -o …`), mit dem Read-Tool öffnen. Nie ins Repo legen.
 2. Nur Nummern übernehmen, die **klar lesbar** sind (Lokflanke, Frontnummer, UIC-Zeile). Unleserlich oder mehrdeutig → Finding, nichts schreiben.
 3. Schreibweise an bestehende Artikel derselben Baureihe anpassen: SNCF/SNCB ohne Präfix und Prüfziffer (`522214` / `107284` → `22214` / `7284`), DB mit Prüfziffer (`120 144-1`, `193 366-2`), UIC-Zeile `91 80 6193 366-2 D-DB` → `193 366-2`.
-4. Sondernamen und Wappen auf dem Bild (z. B. «Wappen Dole», Taufname) in `model.livery` ergänzen, sofern dort noch nicht vorhanden.
+4. Sondernamen und Wappen auf dem Bild (z. B. «Dole», Taufname) in `model.livery` ergänzen, kurz als Name ohne «Wappen» und ohne Farbangabe (Muster: `En Voyage, Dole`).
 5. Schreiben über `articles patch`/`set-field` (nicht von Hand), danach `articles validate` bzw. `npm run check`.
 6. **Schwestern** (gleiche Livery, anderes Stromsystem, z. B. DC `…07` / AC `…707`) übernehmen die Nummer nur, wenn Titel und Lackierung identisch sind. Gleiches Bild bei einem Eintrag «Variante» heisst **nicht** gleiche Nummer: dort leer lassen.
 7. Triebzug/Set: Bild zeigt oft nur **einen** Wagen; Nummer gilt dann nur für diesen Wagen. Im Protokoll vermerken.
