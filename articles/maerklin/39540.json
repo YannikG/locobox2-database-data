@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39540",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39540",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "TEE Elektro-Triebzug .",
+    "number": null,
+    "livery": "Gottardo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Viersystem- Triebzug Serie RAe TEE II der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). 5 Einheiten eingerichtet als Grossräume 1. Klasse. Motorwagen mit Küche, 2 Steuerwagen und als Zwischenwagen ein Sitzwagen und ein Speisewagen mit Bar. Einsatz im internationalen TEE -Verkehr. Lieferzustand von 1961.\n\nModell: Motorwagen hinter dem Steuerwagen im 5-teiligen Zug angeordnet. Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Hochleistungsmotor in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Spitzensignal (mit der Fahrtrichtung wechselnd) und serienmässige Innenbeleuchtung mit wartungsfreien, warmweissen Leuchtdioden, Schlusslichter mit wartungsfreien roten Leuchtdioden. Beleuchtungen konventionell in Betrieb, digital schaltbar. Vier verschiedene Dachstromabnehmer in versetzter Anordnung, detaillierte Dachausrüstung. Angesetzte Griffstangen aus Metall. Führerstände und Fahrgasträume mit Inneneinrichtung. Kurzgekuppelte mechanische und elektrische Spezialverbindung zwischen den Wageneinheiten. Fahrstrom- Schleifer in den beiden Steuerwagen , automatische Umschaltung auf den jeweils vorderen Schleifer . An den Enden Darstellung der Scharfenberg- Kupplung (ohne Funktion). Gleisbogen befahrbar ab Mindestradius 360 mm. Länge des Zuges ca. 134,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39540",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9d/46/9d46e9b53547c5ac8d29460aa800edd01434538758.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

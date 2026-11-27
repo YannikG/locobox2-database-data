@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39300",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39300",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 230",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 233.0
+  },
+  "description": "Vorbild: Schwere Grossdiesel-Lokomotive Baureihe 230 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive V 300 im Betriebszustand der 1970er-Jahre.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Hochleistungsmotor in kompakter Bauform. 4 Achsen vom zentral eingebauten Motor über Kardan angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle mit eingesetzten Bremsschläuchen, jeweils ein flacher und abgerundeter Pufferteller. Kupplungen gegen geschlossene Frontschürzen und Kupplungshaken mit Schraubenimitationen austauschbar. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39300",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/07/0a/070a24002ac3cdd4e55d178fb56906881434539320.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

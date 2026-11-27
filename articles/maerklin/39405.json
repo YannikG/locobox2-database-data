@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39405",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39405",
+  "releaseDate": "2012",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TEE-Elektrolokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 253.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie CC 40100 der Französischen Staatsbahnen ( SNCF ). Viersystem-Lokomotive für ganz Frankreich, Benelux und Deutschland. Zweite Bauserie, Betriebszustand um 1995. Einsatz im internationalen TEE -Verkehr, Zuglok des TEE RUBENS.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Eingesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer . Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Länge über Puffer 25,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39405",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/bb/29bba24422f56afc647e077f4574372e1434539216.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

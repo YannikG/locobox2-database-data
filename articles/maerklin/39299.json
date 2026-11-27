@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39299",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39299",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 249",
+    "number": "202-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 236.0
+  },
+  "description": "Vorbild: Zweikraftlokomotive BR 249 (Vectron Dual Mode light). Lokomotive in fiktiver schwarzer Grundfarbgebung als Privatbahn-Lokomotive, registriert in Deutschland. Aus der Vectron-Produktfamilie von Siemens. Lok-Betriebsnummer 249 202-4. Aktueller Betriebszustand 2024.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Lichtfunktion. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Fernscheinwerfer separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Ansteckbare Bremsschläuche und Rangierkupplung liegen separat bei. Länge über Puffer ca. 23,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39299",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/df/a3/dfa353512b81fd0945a00a4a8502452e1713193224.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

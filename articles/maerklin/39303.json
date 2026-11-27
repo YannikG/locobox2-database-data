@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39303",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39303",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 300",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 233.0
+  },
+  "description": "Vorbild: Schwere Grossdiesel-Lokomotive Baureihe V 300 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive im Betriebszustand von 1965-1967.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und umfangreichen Geräuschfunktionen. Zentral eingebauter Motor in kompakter Bauform. 4 Achsen über Kardan angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle mit eingesetzten Bremsschläuchen, jeweils ein flacher und ein abgerundeter Pufferteller. Kupplungen gegen geschlossene Frontschürzen und Kupplungshaken mit Schraubenimitationen austauschbar. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39303",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b3/de/b3dec5a906caf90fbe457ca07602bd881434538695.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

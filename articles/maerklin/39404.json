@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39404",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39404",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie CC 40100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 253.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie CC 40100 der Französischen Staatsbahnen ( SNCF ). Viersystem-Lokomotive für Benelux, Frankreich und Deutschland. Betriebszustand um 1975. Ausführung mit der Betriebsnummer „40106“ und dem Wappen „COMPIEGNE“.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 4 Achsen über Kardan angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Eingesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer . Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Länge über Puffer 25,3 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39404",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/e5/e8e5726122ed2bc5913394a546f8ed5a1434539424.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

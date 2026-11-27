@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39365",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39365",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 6/6",
+    "number": "11421",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 6/6 als Museumslok der SBB Historic. Kantonswappen Graubünden/Grischun. Betriebsnummer 11421. Tannengrüne Grundfarbgebung. Betriebszustand 2022.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Je zwei Achsen in beiden Drehgestellen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Weitere separat schaltbare Lichtfunktionen: Umschalten auf ein rotes Schlusslicht, umschalten auf zwei rote Schlusslichter, umschalten auf Warnsignal, Fahrberechtigungssignal und Rangierlicht. Führerstands- und Maschinenraumbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten LED . Viele angesetzte Details wie Griffstangen aus Metall. Kurzkupplungskinematik. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39365",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2a/6a/2a6a4a63e0a2868d438a304df995cbe21675839609.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

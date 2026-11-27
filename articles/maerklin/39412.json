@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39412",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39412",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 141",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Baureihe 141 der Deutschen Bundesbahn. Im Einsatz der S-Bahn Nürnberg. Achsfolge Bo´Bo´. Epoche -V-Betriebszustand mit 5 Lampen, Klatte-Lüftern und ohne umlaufende Regenrinne.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 4 Achsen angetrieben. Haftreifen . Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter. Wartungsfreie, warmweisse Leuchtdioden konventionell in Betrieb, digital schaltbar. Detaillierte Pufferbohle. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung . Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39412",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e9/c4/e9c4e267cea44e18402a8a3b6714d09f1434538646.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39334",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39334",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Rh 475",
+    "number": "417",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 475 (Vectron) der BLS Cargo. Mit Bildmotiv Berge und Bergsteiger und der Beschriftung „BLS Cargo. The Alpinists in Europe.“. Betriebsnummer 475 417. Betriebszustand ab 2021.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des „Doppel-A-Lichts“. Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot schaltbar. Fernscheinwerfer digital schaltbar. Führerstandbeleuchtung digital schaltbar. Rangierlicht, Warnsignal und Falschfahrt digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39334",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/64/b0/64b0a43c2058c4782b202ceda018d6351681365620.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

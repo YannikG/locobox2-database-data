@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39370",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39370",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 101 der Deutschen Bahn AG ( DB AG ).\n\nModell: Mit Digital- Decoder und C-Sinus-Motor. 2 Achsen angetrieben. 4 Haftreifen . Bewegliche Imitationen der Zug- und Druckstangen zur Drehgestellanlenkung. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Schnellfahr- Dachstromabnehmer . Angesetzte Dachspoiler. Eingebaute Fernscheinwerfer. Spitzensignal digital schaltbar. Fernscheinwerfer vorne, Fernscheinwerfer hinten und Rangiergang mit Control Unit 6021 digital zuschaltbar. Im konventionellen Betrieb ist das Spitzensignal funktionsfähig.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39370",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fe/1d/fe1d2f4eb7fe26bf6ec7aa38536c96af1434539255.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:22Z"
+}

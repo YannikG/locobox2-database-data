@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39421",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39421",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Re 4/4 I",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 I der Schweizerischen Bundesbahnen ( SBB ). In roter, nicht umgebauter Ausführung. Betriebszustand Ende der 1980er- Jahre.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform. Alle 4 Achsen angetrieben. Haftreifen . Separat angesetzte Dachlauftritte. Eingesetzte Griffstangen aus Metall. Darstellung der stirnseitigen Übergangsbleche und Handgriffe. Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39421",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/56/69/5669035246565f7d2dfb5d2420dbbfa81434538671.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

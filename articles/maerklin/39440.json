@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39440",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39440",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 144",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 144 der Deutschen Bundesbahn (DB). Altbaulokomotive.\n\nModell: Mit mfx -Digital- Decoder und geregeltem Hochleistungsantrieb C-Sinus in neuer kompakter Bauform. Zentral eingebauter Motor mit Schwungmasse . 4 Achsen über Kardanwellen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Pufferbohlen vorbildgerecht mit den Drehgestellen ausschwenkend. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39440",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/73/8c/738c5d347f08c3f50ed36831d4df19791434538895.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

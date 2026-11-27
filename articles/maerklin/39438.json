@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39438",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39438",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "S 3/6",
+    "number": "3622",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflok der bayerischen Gattung S 3/6 als Lok der K. Bay. Staatseisenbahnen, Unterbaureihe d, die \"Hochhaxige\" mit 2.000 mm Treibraddurchmesser. Im fiktiven Zustand mit Betriebsnummer 3622 in grünblauer Grundfarbgebung. Betriebszustand um 1912.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Lokomotive und Tender weitgehend aus Metall. Filigranes Fahrwerk aus Metall mit durchbrochenem Barrenrahmen. Freier Fahrwerksdurchblick. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht separat schaltbar. Lampen weiss ausgelegt. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Serienmässig eingebauter Rauchsatz konventionell in Betrieb. Detaillierte Darstellung des Führerstandes, Führerstandsbeleuchtung digital schaltbar. Kurzkupplungskinematik zwischen Lok und Tender mit \"Vitrinenstellung\". Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an der Front nach NEM . Filigrane Rauchkammertür-Tritte, Hakenkupplung und Luftschlauch für Tender hinten sowie Kolbenstangenschutzrohre beiliegend. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39438",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/76/26/7626ed3c19f58d6de52e0765e666ccfa1660629618.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

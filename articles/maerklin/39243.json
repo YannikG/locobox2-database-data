@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39243",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39243",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "EST",
+    "type": "Serie 13 EST",
+    "number": "241",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 304.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schwere Schnellzug-Dampflokomotive mit Schlepptender Serie 13 (241-A) der Französischen Ostbahn (EST). Ausführung als Lokomotive für den Simplon-Orient-Express. Typspezifische Änderung der Windleitbleche und 2-Licht- Spitzensignal mit einer Lampe oben und einer Lampe unten. Lok-Betriebsnummer 241 A 002. Betriebszustand um 1933.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist eine Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 437,5 mm. Bremsschläuche, Heizkupplung und Schraubenkupplungsimitation liegen bei. Länge über Puffer 30,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39243",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e9/8a/e98a81792da6f304b7d63adc5bc8df591555394405.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:24Z"
+}

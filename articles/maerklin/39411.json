@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39411",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39411",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 141",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Baureihe 141 der Deutschen Bahn AG ( DB AG ). Achsfolge Bo´Bo´. Epoche -V-Betriebszustand mit 3 Lampen, Klatte-Lüftern und ohne umlaufende Regenrinne.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 4 Achsen angetrieben. Haftreifen . Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter. Wartungsfreie, warmweisse Leuchtdioden konventionell in Betrieb, digital schaltbar. Detaillierte Pufferbohle. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung . Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39411",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/61/13/61138282ad16639cefe7c8d31ae90fc61434538772.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

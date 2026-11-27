@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39560",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39560",
+  "releaseDate": "2001",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Güterzuglokomotive .",
+    "number": null,
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III+IV",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Serie Ce 6/8 III der Schweizerischen Bundesbahnen ( SBB ). Bauart mit Schrägstangenantrieb.\n\nModell: Mit Digital- Decoder , C-Sinus-Motor und verschiedenen Lichtfunktionen. 3 Achsen angetrieben. 4 Haftreifen . Kurvengängiges Gelenkfahrwerk. Dreiteiliges Metallgehäuse mit ausschwenkbaren Vorbauten. Nummernschilder aufgesetzt. Detaillierte Dachausrüstung. Spitzensignal mit Schweizer Lichtwechsel konventionell in Betrieb, digital schaltbar. Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot sowie Rangiergang ohne Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Länge über Puffer 23,0 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2001"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39560",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/fc/82fcd9086da28092a4ad7ca40ac174d21434539009.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:43Z"
+}

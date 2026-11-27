@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39380",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39380",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 38",
+    "number": "2919",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 213.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Schlepptender Baureihe 38.10-40 der Deutschen Bundesbahn (DB). Ehemalige preussische P8. Ausführung mit zwei Kesselaufbauten, kleinen Wagner-Windleitblechen und Kastentender . Betriebsnummer 38 2919. Betriebszustand um 1949/50.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Eingerichtet für Rauchsatz 72270. Feuerflackern digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Strom führende Kupplung am Tender digital schaltbar. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen sind beigelegt. Länge über Puffer ca. 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39380",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f7/d9/f7d92c2a67f3a8a458f2b5804f7e2b1d1589349609.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39342",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39342",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 152 der Deutschen Bahn AG/Railion ( DB AG ). Werbegestaltung (Mähdrescher-Motiv) der Firma CLAAS KGaA mbH in Harsewinkel bei Osnabrück.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben, Haftreifen . Spitzensignal mit wartungsfreien warmweissen Leuchtdioden, Schlusslichter mit wartungsfreien roten Leuchtdioden, konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39342",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/0a/290a36036f0cff0a4aca91c5c008c9bb1434539130.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:23Z"
+}

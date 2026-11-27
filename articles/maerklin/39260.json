@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39260",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39260",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RAe 4/8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 530.0
+  },
+  "description": "Vorbild: Elektrischer Doppel-Triebwagen RAe 4/8 \"Churchill-Pfeil\" der Schweizerischen Bundesbahnen ( SBB ). Eingesetzt als Charter-Zug für Ausflugs- und Gesellschaftsfahrten. Feuerrote Grundfarbgebung. Triebwagen-Betriebsnummer RAe 4/8 1021. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Über Kardan werden die beiden Achsen im äusseren Drehgestell am Fahrzeugteil 1 angetrieben. Haftreifen . Schweizer Lichtwechsel , Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Spitzensignal umschaltbar auf 1 rotes Schlusslicht. Zusätzlich rotes Fahrberechtigungssignal (Falschfahrsignal) jeweils in Fahrtrichtung vorne, digital schaltbar, mit der Fahrtrichtung wechselnd. Serienmässig eingebaute Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Führerstandbseleuchtung jeweils separat digital schaltbar. Tischlampen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Vier Drehgestell -Blenden liegen zum Austausch für den Einsatz auf grossen Radien oder für die Vitrine bei. Gesamtlänge über Puffer ca. 53 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39260",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/da/42daa88eb820e61e85c3743b4327e3ba1696939207.jpg"
+  },
+  "updatedAt": "2026-11-27T10:16:25Z"
+}
