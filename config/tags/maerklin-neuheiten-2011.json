@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Märklin Neuheiten 2011",
+  "slug": "maerklin-neuheiten-2011",
+  "description": "Artikel, erstmals im Märklin-Programm 2011 (Erstveröffentlichung laut Märklin-Produktdatenbank).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "maerklin",
+  "year": 2011,
+  "order": 1,
+  "source": "https://www.maerklin.de/de/produkte/spur-h0/lokomotiven"
+}
