@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ELL",
     "type": "BR 193",
-    "number": null,
+    "number": "232-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -27,5 +27,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/0c/63/0c63b1ffc65ea574ac85b4519cd561ae1534941507.jpg"
   },
-  "updatedAt": "2026-11-27T13:50:50Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

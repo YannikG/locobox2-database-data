@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "Reihe 2070",
-    "number": null,
+    "number": "058-9",
     "livery": "Hector",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/1f/72/1f72ad3671ed6d9ed4a09e08b298a6811434534659.jpg"
   },
-  "updatedAt": "2026-11-27T13:37:52Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

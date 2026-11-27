@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR V 300",
-    "number": null,
+    "number": "001",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/da/18/da189f721a36a168b901bd1dbf1aab0c1434534497.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:19Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

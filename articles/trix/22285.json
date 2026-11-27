@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "ITL",
     "type": "BR 285",
-    "number": null,
+    "number": "106-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d2/46/d24665484583f658b8fe0f558a645b541434534624.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:17Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

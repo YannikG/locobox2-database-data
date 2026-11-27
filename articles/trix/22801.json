@@ -9,7 +9,7 @@
     "country": "US",
     "operator": "NYC",
     "type": "H 6",
-    "number": null,
+    "number": "1890",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/0b/44/0b44004f412be21ae896503874962d071434534449.jpg"
   },
-  "updatedAt": "2026-11-27T13:51:25Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

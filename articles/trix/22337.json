@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 59",
-    "number": null,
+    "number": "5907",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/29/86/29861aa92cd72ee9f5aaee43c9d5b0ba1434534624.jpg"
   },
-  "updatedAt": "2026-11-27T13:37:53Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

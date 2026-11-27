@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "MRCE",
     "type": "BR 185",
-    "number": null,
+    "number": "544-4",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/90/f1/90f1e2829ca1df5f6cffb01146b513e11434534699.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:45Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 96",
-    "number": null,
+    "number": "006",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/dd/5c/dd5c717bb981177ade4d3ef1db84eedf1434534625.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:45Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

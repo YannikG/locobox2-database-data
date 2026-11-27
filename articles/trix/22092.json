@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "StLB",
     "type": "Reihe 2016",
-    "number": null,
+    "number": "901-7",
     "livery": "Hercules",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/61/48/6148b7f267a04b7a0affba2bc194b2c41434534527.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:45Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

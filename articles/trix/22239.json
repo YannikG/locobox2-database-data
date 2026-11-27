@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "P10",
-    "number": null,
+    "number": "2814",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/43/9e/439eb1ba6f6519ab79bbfe8e93293de21477499443.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:18Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

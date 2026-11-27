@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "BR 42",
-    "number": null,
+    "number": "2513",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/55/62/55621b356fcdc62d1454930f787e27801513839624.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:19Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

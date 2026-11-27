@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 45",
-    "number": null,
+    "number": "024",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/8f/fd/8ffd8db0f8f75b7fd65700db2303767d1434534699.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:46Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

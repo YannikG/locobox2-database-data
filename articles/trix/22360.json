@@ -9,7 +9,7 @@
     "country": "LU",
     "operator": "CFL",
     "type": "MaK 1206",
-    "number": null,
+    "number": "1502",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/1c/ad/1cadc486202b7f2e63d6861f4218c7e21434534516.jpg"
   },
-  "updatedAt": "2026-11-27T13:37:52Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

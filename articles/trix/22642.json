@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "MRCE",
     "type": "ES 64 U2",
-    "number": null,
+    "number": "067",
     "livery": "BosporusSprinter",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/06/20/06203b2d3800b3e151e5f6f06f2d787a1434534559.jpg"
   },
-  "updatedAt": "2026-11-27T13:38:31Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

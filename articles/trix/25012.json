@@ -12,7 +12,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "Reihe 12",
-    "number": null,
+    "number": "11",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -33,5 +33,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/95/55/955517c03561c4ff477e95cad99070861789041606.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:22Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

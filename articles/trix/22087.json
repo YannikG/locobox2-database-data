@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "Siemens Dispolok",
     "type": "ER 20",
-    "number": null,
+    "number": "002-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/af/01/af015316ceee84c159b7dfba35783d541434534599.jpg"
   },
-  "updatedAt": "2026-11-27T13:12:24Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

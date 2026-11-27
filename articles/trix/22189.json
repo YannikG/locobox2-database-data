@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 05",
-    "number": null,
+    "number": "002",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/9c/b5/9cb59d26733900f6ba50ccd3af4635aa1434534670.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:17Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

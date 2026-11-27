@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "BR 182",
-    "number": null,
+    "number": "004-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/7f/25/7f25219ebf466e567dd0ba999a5e94c71434534434.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:20Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

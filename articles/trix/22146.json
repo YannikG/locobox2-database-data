@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 89",
-    "number": null,
+    "number": "7422",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/84/f8/84f8787f641247048a222fa8b698c0db1434534686.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:46Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

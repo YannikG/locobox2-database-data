@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "TX Logistik",
     "type": "BR 185",
-    "number": null,
+    "number": "538-6",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/a9/55/a955fb84585247b476a317bb169c42381434534596.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:45Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

@@ -9,7 +9,7 @@
     "country": "AT",
     "operator": "ÖBB",
     "type": "BR 694",
-    "number": null,
+    "number": "692",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f0/bc/f0bc60e75d23895488540f1873e2d82b1484066444.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:18Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

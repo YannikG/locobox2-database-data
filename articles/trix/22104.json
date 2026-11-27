@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 10",
-    "number": null,
+    "number": "001",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/21/5b/215b68ec844e8e59df2f7f392d0570011502454630.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:47Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

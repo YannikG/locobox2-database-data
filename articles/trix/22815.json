@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "SRI",
     "type": "BR 151",
-    "number": null,
+    "number": "033-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/a8/1d/a81d33bab4a11ad869f1d455255b2ad51434534660.jpg"
   },
-  "updatedAt": "2026-11-27T13:51:25Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 141",
-    "number": null,
+    "number": "438-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/b9/84/b98464c866c49d3a1fc2db8f5d52e0831434534503.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:18Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

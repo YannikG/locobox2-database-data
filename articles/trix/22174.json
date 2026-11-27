@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 216",
-    "number": null,
+    "number": "006-7",
     "livery": "Lollo",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/46/06/46061a79f8856075eba8d3d056d7ba401434534690.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:17Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

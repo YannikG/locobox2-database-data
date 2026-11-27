@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Re 4/4 I",
-    "number": null,
+    "number": "10015",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/c1/a2/c1a27c5b22f6da54fe7b2132f66bed8d1434534585.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:19Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

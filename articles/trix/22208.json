@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB Cargo",
     "type": "BR 290",
-    "number": null,
+    "number": "022-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/09/83/0983f80fe73045d32205db41b6fd8a311434534506.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:19Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

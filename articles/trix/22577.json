@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "Serie 18",
-    "number": null,
+    "number": "1805",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/fa/ef/faef7bd4a3050a8fee926c60dd9964ee1434534642.jpg"
   },
-  "updatedAt": "2026-11-27T13:37:53Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

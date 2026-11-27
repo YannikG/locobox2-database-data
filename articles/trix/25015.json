@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "K.Bay.Sts.B.",
     "type": "S 2/6",
-    "number": null,
+    "number": "3201",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/01/a1/01a1e52f805ae7337606031c739c48fd1724169618.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:22Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

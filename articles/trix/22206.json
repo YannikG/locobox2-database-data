@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 290",
-    "number": null,
+    "number": "061-1",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f6/df/f6df34b0631e8d4b8d3a47770ef9a7211434534592.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:19Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

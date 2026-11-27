@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "TVT",
-    "number": null,
+    "number": "6251",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -29,5 +29,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/4f/93/4f939d88985644193ee9ab683dad37d21484068837.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:21Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

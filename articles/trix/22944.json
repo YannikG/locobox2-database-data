@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB",
     "type": "Re 620",
-    "number": null,
+    "number": "058-8",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/25/ff/25ffb5de7efd205d6620d47f31be0fae1434534686.jpg"
   },
-  "updatedAt": "2026-11-27T14:04:21Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

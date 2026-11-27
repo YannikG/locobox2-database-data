@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 150",
-    "number": null,
+    "number": "084-2",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/39/8b/398b9cb158f7d45de809c8e28a3a17731434534571.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:46Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

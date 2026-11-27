@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB AG",
     "type": "Köf II",
-    "number": null,
+    "number": "541-3",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/3c/63/3c636acc59ece2b538ade9fd154d03301434534678.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:45Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

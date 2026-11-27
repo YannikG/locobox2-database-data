@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "EP 3/6",
-    "number": null,
+    "number": "20104",
     "livery": null,
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -28,5 +28,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/f9/d0/f9d00120e2a3b2cecb9b624d52b3a3c81434534608.jpg"
   },
-  "updatedAt": "2026-11-27T13:10:44Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }

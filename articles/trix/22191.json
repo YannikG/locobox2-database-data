@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 491",
-    "number": null,
+    "number": "001-4",
     "livery": "Gläserner Zug",
     "scale": "H0",
     "electricSystem": "DC-Digital",
@@ -30,5 +30,5 @@
     "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
     "imageUrl": "https://static.maerklin.de/damcontent/d2/72/d272c2f7f52be5e26602d5e1ee7297a51434534452.jpg"
   },
-  "updatedAt": "2026-11-27T13:25:18Z"
+  "updatedAt": "2026-11-27T14:44:26Z"
 }
