@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39680",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39680",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 18",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Baureihe E 18 der Deutschen Bundsbahn (DB) in blauer Epoche -III-Farbgebung.\n\nModell: Mit mfx - Decoder und C-Sinus-Hochleistungsantrieb in neuer kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Elementen. In Epoche -III-Ausführung mit grossen Altbau-Laternen und Altbau-Stromabnehmern. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39680",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e3/fc/e3fca2c05604683755428320288abf671434538737.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

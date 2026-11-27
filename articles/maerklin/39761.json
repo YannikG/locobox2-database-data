@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39761",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39761",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01.10",
+    "number": "1075",
+    "livery": "Altbau",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 277.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.10 mit Altbaukessel und Kohlen- Schlepptender 2´3 T38 der Deutschen Bundesbahn (DB). Stahlblaue Grundfarbgebung, mit schwarzer Rauchkammer und silbernen Kesselringen, in Anlehung an das F-Zug Netz der schnellen Züge. Ausführung ohne Stromlinienverkleidung. Mit markantem quer liegendem Oberflächenvorwärmer an der Rauchkammer. Zweilicht-Spitzensignal . Witte-Windleitbleche und einseitige Indusi . Lok-Betriebsnummer 01 1075. Betriebszustand um 1950.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung, Feuerbüchsenflackern und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche sowie ein Lokführer und Heizer liegen bei. Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39761",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/e6/f4e654560ce5b6c0b68a941908b6c4e91787760005.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

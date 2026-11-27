@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39901",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39901",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 295",
+    "number": "076-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Diesel- Rangierlokomotive Baureihe 295 der Railsystems RP GmbH, Gotha. Tiefschwarze Grundfarbgebung mit attraktiven Bildmotiven an den Vorbauten und dem Führerhaus. Betriebsnummer 295 076-4. Betriebszustand 2020.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardanwellen angetrieben. Haftreifen . Mit neuer Telex - Kupplung . Kupplungswalzer . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Zusätzliche Trittstufen unter dem Führerstand für grössere Gleisradien liegen bei. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39901",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c6/78/c678b0814d4262726325ad1ec27317021670850021.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

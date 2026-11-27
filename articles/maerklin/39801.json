@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39801",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39801",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Am 4/4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Serie Am 4/4 der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Achsfolge B´B´. Im SBB -Betriebszustand der Epoche V mit feuerroter Farbgebung.\n\nModell: C-Sinus-Hochleistungsantrieb in kompakter Bauform mit mfx - Decoder und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Diesellok-Fahrgeräusch und Signalpfeife sowie Direktsteuerung (Anfahrbeschleunigung und Bremsverzögerung) mit Control Unit oder Systems schaltbar. Zwei weitere Betriebsgeräusche (Druckluft-Zischen, Bremsenquietschen ) mit Systems schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39801",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/19/12/191258a7f6b49eb74bf2945a5e09044a1434539314.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

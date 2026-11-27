@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39617",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39617",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "Alco PA-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Doppeltraktion der schweren Diesellokomotive Alco PA-1 der US-Bahngesellschaft Pennsylvania Railroad (PRR). Betriebsnummern 5752A und 5753A. Betriebszustand um 1954.\n\nModell: Lokomotive mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Jeweils 1 geregelter Hochleistungsantrieb in den A-Units. Je 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Seitliche Nummerntafeln beleuchtet. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). An beiden Stirnseiten Kurzkupplungen in Norm-Aufnahmeschächten, jeweils austauschbar gegen eine Imitation einer amerikanischen Kupplung oder eine Abdeckblende. Kupplungsimitation und Abdeckblende beiliegend. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen ca. 47,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39617",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/2b/d22bcca31a3cc3ac9f895c5efab560051501763110.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

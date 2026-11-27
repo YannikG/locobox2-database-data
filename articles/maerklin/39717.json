@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39717",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39717",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ICE 4 Baureihe 412/812",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 4 als Baureihe 412/812 der Deutschen Bahn AG ( DB AG ), mit grünem Streifen und Stecker-Symbol an den beiden Endwagen, als Zeichen für die Fahrt mit 100 Prozent Ökostrom. 1 Endwagen EW 1.2-H, Baureihe 812, 1. Klasse. 1 Speisewagen RW \"Bordrestaurant\", Baureihe 812, 1. Klasse. 1 Servicewagen TW 2.2, Baureihe 412, 2. Klasse. 1 Mittelwagen MW 2-H, Baureihe 812, 2. Klasse. 1 Endwagen EW 2.2-H, Baureihe 812, 2. Klasse. Triebzug -Nummer 9009. Betriebszustand 2019.\n\nModell: Verschmutzter Betriebszustand. 5-teilige Ausführung im Längenmassstab 1:93,5. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Bordrestaurantwagen zentral eingebaut. Alle 4 Achsen in beiden Drehgestellen über Kardan angetrieben. Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Unterschiedliche Farb-Szenarien für die Innenbeleuchtung digital schaltbar. Zusäztlich Führerstand -Beleuchtung jeweils separat digital schaltbar. Gesamte Beleuchtung mit wartungsfreien warmweissen und unterschiedlich farbigen Leuchtdioden ( LED ). Beide Pantographen auf dem Servicewagen als Digital-Funktion separat heb- und senkbar. Befahrbarer Mindestradius 437,5 mm. Länge des Zuges 151,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39717",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/88/8288116b158032d89236c7ed3c1858a01720447206.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

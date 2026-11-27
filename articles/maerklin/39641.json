@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39641",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39641",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Rh 64",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Reihe 64 der Österreichischen Bundesbahnen ( ÖBB ). Betriebszustand Epoche III, um 1956. Ausführung mit genieteten Wasserkästen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Soundgenerator. Wartungsfreier Motor in kompakter Bauform. 3 Achsen angetrieben, Haftreifen . Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes LED - Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen LED . Bremsschlauch-Attrappen und Kolbenstangenschutzrohe beiliegend. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39641",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f3/7f/f37fd8d486f64ba456c7051185efd55b1434539296.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

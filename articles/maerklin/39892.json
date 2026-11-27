@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39892",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39892",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR ES 64 F4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe ES 64 F4 der Siemens Dispolok GmbH, vermietet an die Österreichischen Bundesbahnen ( ÖBB ). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Einsatz: Grenzüberschreitende schnelle Reise- und Güterzüge.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, wartungsfreiem Motor in kompakter Bauform und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen LED . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39892",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/71/37715603e78aed1044d0c3ad506c9aab1434539433.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

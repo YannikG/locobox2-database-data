@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39671",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39671",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Di3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Diesellokomotive Typ Di3 der Norwegischen Staatsbahnen (NSB). NOHAB-Mehrzweckmaschine in brauner Farbgebung der Epoche III.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat schaltbar. Führerstandsbeleuchtung an Lokseite 1 und 2 jeweils digital separat schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39671",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ce/36/ce3693855281b340840e3748aaba42b81434539400.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

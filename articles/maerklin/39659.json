@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39659",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39659",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 064",
+    "number": "106-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 064 der Deutschen Bundesbahn (DB). Ausführung mit geschweissten Wasserkästen. Betriebsnummer 064 106-8. Betriebszustand um 1970.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen, DCC -fähig. Geregelter Hochleistungsantrieb. Drei Achsen angetrieben, davon zwei über Kuppelstange . Zwei Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Serienmässig eingebauter Rauchsatz. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer ca. 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39659",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/38/ac38ba29379ea8b275babd08fec37f6c1724158814.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

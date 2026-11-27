@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39831",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39831",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 1016",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 1016 der Österreichischen Bundesbahnen ( ÖBB ). Bezeichnung \"Taurus\".\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb C-Sinus, Licht- und Geräuschfunktion. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtungen mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer, Druckluftsignalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Angesetzte Gleisräumer. Räder mit Darstellung der Schalldämpfer. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39831",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ce/d7/ced70106d9bef850a15f41d3c38006df1434539393.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39883",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39883",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": "1667",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 260.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 44, mit Einheits-Kohlentender 2´2´T34 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Mit Witte-Windleitblechen der Regelausführung, Vorlauf - Radsatz mit Speichenräder, ohne Rauchkammer- Zentralverschluss , mit Indusi -Magnet einseitig. Lok-Betriebsnummer 44 1667. Betriebszustand um 1962/63.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Kohlen-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung, Feuerbüchsenflackern und Flackern am Aschekasten zusätzlich jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39883",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/ef/e1ef8796dfe8f1e8546615e521df8e4f1571724004.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

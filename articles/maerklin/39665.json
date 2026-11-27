@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39665",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39665",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "66 002",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 170.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug- Tenderlokomotive Baureihe 66 der Deutschen Bundesbahn (DB). Betriebsnummer 66 002. Betriebszustand Mitte der 1960er Jahre. Bahnbetriebswerk Giessen.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben. Zwei Achsen über Kuppelstangen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator , mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche, Heizleitungen und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer ca. 17 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39665",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/b9/58b973a71165818f2bb55d96641d963e1747998007.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

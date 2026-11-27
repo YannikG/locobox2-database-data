@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39894",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39894",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "Hector Rail",
+    "type": "Rh 441",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive der Reihe 441 der schwedischen Bahngesellschaft Hector Rail. Mehrsystemlokomotive mit 2 Dachstromabnehmern. Einsatz: Grenzüberschreitende schnelle Güterzüge.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, wartungsfreiem Motor in kompakter Bauform und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen LED . Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39894",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/38/b738a7faedc364095f3a364800ef3ac21434538643.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

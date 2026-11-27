@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39781",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39781",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 78.10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 199.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive 78 1001, Bauart 2’C2’h2 mit zweiachsigem Kurztender 2T17 der Deutschen Bundesbahn (DB), im Zustand um 1951.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Feuerbüchsenflackern digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Strom führende Kupplung am Tender digital schaltbar. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen sind beigelegt. Lokführer- und Heizerfigur liegen serienmässig bei. Länge über Puffer ca. 19,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39781",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/b2/58b21ba32d6623c0de84e0468a6897cc1558591215.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

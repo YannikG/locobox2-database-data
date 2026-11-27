@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39872",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39872",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "Hector Rail",
+    "type": "BR 182",
+    "number": "242.503",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 182 \"Taurus\" der Firma Hector Rail, vermietet an FlixTrain GmbH, München, registriert in Deutschland. Ausführung mit 2 Stromabnehmern. Lok-Betriebsnummer 242.503 bzw. 91 80 6 182 503-3, Lok-Name Balboa. Betriebszustand um 2025.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Fernlicht digital zuschaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Separat angesetzte Griffstangen aus Metall. Mit Lokführer-Figur im Führerstand 1. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39872",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5f/16/5f162c310be7295b96bc49cd8a48341e1787760014.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

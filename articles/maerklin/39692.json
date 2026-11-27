@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39692",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39692",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 92.5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 251.0
+  },
+  "description": "Vorbild: Vierachsiger Dieseltriebwagen Baureihe VT 92.5 der Deutschen Bundesbahn (DB). Mit Pufferverkleidungen. Beheimatet in Nürnberg. Als Versuchs-VT unter anderem im Eilzugdienst im Einsatz auf den Strecken Nürnberg-Amberg und Nürnberg-Furth im Wald. Purpurrote Grundfarbgebung. Triebwagen-Betriebsnummer VT 92 501. Betriebszustand um 1957 bis 1959.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Über Kardan 2 Treibachsen im Motortriebdrehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Zusätzlich Führerstandbeleuchtung vorne und hinten jeweils separat digital schaltbar. Ausserdem sind Gepäckraumbeleuchtung, Gang-, WC-, Schlafabteil- und Spindraum-Beleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Bewegliches Lüfterrad. Lüfterradantrieb separat digital schaltbar. Auf beiden Seiten stromführende Kurzkupplungen. Innenbeleuchtung für angehängte Personenwagen aus Eilzugwagen-Set 41327 kann über die stromführende Kurzkupplung des Triebwagens separat digital geschaltet werden. Frontschürzen austauschbar für Ausführung ohne eingesteckte Kurzkupplungen. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche, Schraubenkupplungsimitationen und Heizleitungen liegen bei. Zusätzlich können die angebrachten Pufferverkleidungen, die für einen sicheren Fahrbetrieb mit angehängten Wagen notwendig sind, gegen Pufferverkleidungen in vorbildgerechter Höhe getauscht werden. Länge über Puffer 25,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39692",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/32/1a/321a5bed761f4104262b151f902b75911620820818.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

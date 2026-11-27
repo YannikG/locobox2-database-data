@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39834",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39834",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "ES64U2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive ES64U2 der Mittelweserbahn (MWB). Gebaut als österreichische Reihe 1116 \"Taurus\". Mehrsystemlokomotive mit 2 Dachstromabnehmern.\n\nModell: Mit Digital- Decoder , Hochleistungsantrieb C-Sinus, und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlichter und Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Weitere Betriebsgeräusche Hauptschalter und Pressluft mit Systems digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39834",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a2/78/a278e999b4f6e80b69be16a843e498231434539276.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

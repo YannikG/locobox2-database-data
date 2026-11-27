@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39893",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39893",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie 474",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Serie 474 der Schweizerischen Bundesbahnen ( SBB ). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Einsatz: Grenzüberschreitende schnelle Güterzüge.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Signalhorn. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreiem Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen LED . Spitzensignal und Schlusslichter, konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39893",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/02/4502429bf298349b7c2e435bf8aa7fcb1434539040.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

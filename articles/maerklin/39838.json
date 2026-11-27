@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39838",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39838",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrsystem-Elektrolokomotive für grenzüberschreitenden Reise- und Güterverkehr. Reihe 1216 der Firma Adria Transport GmbH.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, wartungsfreiem Motor in kompakter Bauform und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen LED . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39838",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/7b/d17bdcf0054e997bd1e9faa879d2424a1434538788.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

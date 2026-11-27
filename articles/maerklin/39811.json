@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39811",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39811",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RABe 501 Giruno",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrischer Hochgeschwindigkeits- Triebzug EC 250 als RABe 501 \"Giruno\" der Schweizerischen Bundesbahnen ( SBB ). 1 Endwagen A (Bt1), 2. Klasse. 1 Mittelwagen D (B9), 2. Klasse mit Pantograph . 1 Mittelwagen E (B8), 2. Klasse. 1 Mittelwagen F (B7), 2. Klasse, mit behindertengerechten Einstiegen und Pantograph . 1 Mittelwagen G (WR6), mit Restaurant-Bereich. 1 Mittelwagen H (A5), 1. Klasse, mit Behinderten-Einstiegen und Pantograph . 1 Endwagen L (At2), 1. Klasse. Mit Zulassung auch nach Deutschland und Österreich vorgesehen. Zug-Nummer RABe 501 004. Präsentationszug, mit auffälliger Schweiz/Italien Gestaltung an den Endwagen. Betriebszustand um 2018/19.\n\nModell: 7-teilige Grundgarnitur. Restaurantwagen G und die beiden links und rechts angeordneten Mittelwagen F und H sind über die Jakobs-Drehgestelle fest miteinander gekuppelt. Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Restaurantwagen zentral eingebaut. Alle 4 Achsen in beiden Jakobs-Drehgestellen links und rechts des Restaurantwagens über Kardan angetrieben. Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Kulissenführung in den Jakobs-Drehgestellen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Umschaltbar auf ein weisses Schlusslicht ( Schweizer Lichtwechsel ). Weitere separat schaltbare Lichtfunktionen. Serienmässig eingebaute Innenbeleuchtung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Zusätzlich Führerstand - und Fahrpult-Beleuchtung jeweils separat digital schaltbar. Gesamte Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Einholmstromabnehmer auf den Mittelwagen D, F und H jeweils als Digital-Funktion separat heb- und senkbar. Massstäbliche Nachbildung. Befahrbarer Mindestradius 360 mm. Länge der Grundgarnitur ca. 152 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39811",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/91/b7916871801b9675e0c6827638fbc5351725537604.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

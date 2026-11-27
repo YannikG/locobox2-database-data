@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39681",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39681",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "E18 42",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive E18 42 der Österreichischen Bundesbahnen (BBÖ). Spätere 1118.01 der ÖBB . Die Zweifarbige Lackierung war für hochwertigen Fernverkehr vorgesehen.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb C-Sinus. 2 Achsen angetrieben. 4 Haftreifen . Führerstände und Maschinenraum mit Inneneinrichtung. Metall-Griffstangen und weitere Details separat eingesetzt. Nachbildung der Federtopf-Treibräder. Spitzensignal konventionell in Betrieb, digital schaltbar. Rangiergang oder Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39681",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/df/a6df349406f65b61697904c1a3c685f71434539230.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

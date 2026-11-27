@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39725",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39725",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Reihe 1600",
+    "number": "1626",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1600 der Nederlandse Spoorwegen ( NS ). Signalgelbe Grundfarbgebung. Betriebsnummer 1626 mit Stadtwappen \"Meppel\". Betriebszustand ab 1993.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Weitere Lichtfunktionen wie verschiedene Rangierlichter und Gefahrsignale separat schaltbar. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien gelben und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Stromabnehmer digital heb- und senkbar. Separat angesetzte Scheibenwischer, Lüftergitter, Griffstangen und Dachleitungen. Pufferhöhe nach NEM . Bremsleitungen, Schraubenkupplungen und Steckdosen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39725",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/95/8d/958d82ea3c0691f064bd708a26d9232d1791966784.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:46Z"
+}

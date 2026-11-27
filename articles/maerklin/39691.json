@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39691",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39691",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 363",
+    "number": "664-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Baureihe 363. Lokomotive der Firma SGL Schienen Güter Logistik GmbH, Dachau, registriert in Deutschland. Lichtgraue Grundfarbgebung. Dieselhydraulischer Antrieb mit Blindwelle. Lok-Betriebsnummer 363 664-4, SGL-Nummer V 60.14. Betriebszustand um 2021.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Drei Achsen und Blindwelle angetrieben. Haftreifen . Neue Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Doppel-A-Licht schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39691",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9b/b5/9bb59a00f5a470cdd84c686b242692d91648124942.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

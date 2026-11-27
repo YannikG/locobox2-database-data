@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39891",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39891",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ES 64 F4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive ES 64 F4 der Siemens Dispolok GmbH, eingestellt bei der Deutschen Bahn AG ( DB AG ). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Einsatz: Grenzüberschreitende schnelle Güterzüge.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Weisses Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Weisse Fernlichter und Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder mit Systems schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39891",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/1f/d61f64d04805c391b8970577d46ffac01434538832.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}

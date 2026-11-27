@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39621",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39621",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7 der Great Northern Railway (GN). Doppeleinheit aus zwei A-Units. Betriebsnummern 309-A und 309-C. Farbgebung rotorange und schwarzgrün.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb je A-Unit. Je 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig beleuchtete Nummerntafeln und Positionslichter konventionell an, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Feste Deichsel zwischen den Lokomotiveinheiten. Schneeräumer beigelegt. Länge über Kupplungen ca. 35 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39621",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8b/85/8b85340942d179b86b8c579eca8145951451855402.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:44Z"
+}

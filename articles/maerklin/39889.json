@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39889",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39889",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": "1315",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 260.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 44, mit Öl-Tender der Einheitsbauart 2´2´T34 der Deutschen Bundesbahn (DB). Schwarz/rote Grundfarbgebung. Führerhaus mit zwei seitlichen Fenstern, mit Witte-Windleitblechen der Regelausführung, Vorlauf - Radsatz mit Speichenrädern, ohne Rauchkammer- Zentralverschluss , mit Indusi -Magneten beidseitig. Lok-Betriebsnummer 44 1315. Restaurierte Lokomotive beim Märklineum im historischen Betriebszustand um 1963/64.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive und Öl-Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Eine ebenfalls beiliegende DVD zeigt die Geschichte der Dampflokomotive sowie den Transport zum Märklineum und die anschliessende Restaurierung der Lokomotive. Länge über Puffer 26 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39889",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bf/a3/bfa322223bdbac3c40c15b27b9a949311634277643.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:45Z"
+}

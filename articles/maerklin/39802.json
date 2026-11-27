@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39802",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39802",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 220",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive Baureihe 220 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive V 200.0 in der Farbgebung um 1980: ozeanblau/beige.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb C-Sinus und Geräuschgenerator. Hochleistungsmotor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Seitlich und frontal angesetzte Griffstangen aus Metall. Kupplungen gegen geschlossene Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39802",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/14/8d/148dec84141881147d8144c70d35de1e1434538615.jpg"
+  },
+  "updatedAt": "2026-11-27T10:26:43Z"
+}
