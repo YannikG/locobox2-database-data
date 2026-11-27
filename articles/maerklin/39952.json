@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39952",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39952",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus VT 95.9 mit Einachs-Anhänger VB 141.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schienenbus -Triebwagen Baureihe VT 95.9 mit Einachs-Anhänger VB 141.2 der Deutschen Bundesbahn (DB). Triebwagen VT 95 9165 der ersten Bauserie, in purpurroter Ursprungsfarbgebung, mit Oberlicht-Fenster über dem Führerstand . Einachs-Anhänger VB 141 254 in purpurroter Farbgebung, mit Schlusslichtern. Betriebszustand um 1955/56.\n\nModell: Triebwagen mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Licht-Funktionen. Über die Funktionstasten können zusätzlich zu den geläufigen Geräuschfunktionen verschiedene Gespräche zwischen Fahrgästen (Dialoge), Geräusche beim Öffnen und Schliessen der Anhänger-Klappen sowie Beladen des Anhängers (Umgebungsgeräusche) ausgelöst werden. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen . 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter am Motorwagen konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 des Motorwagens jeweils separat digital abschaltbar. Am Einachs-Anhänger leuchten am Ende zwei rote Schlusslichter, die mit 2 weissen Lichtern wechseln, je nach Fahrtrichtung des Motorwagens. Spitzenlicht, Schlusslichter und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel . Wagen-Führerstände und Inneneinrichtung im Motorwagen erlauben einen freien Durchblick. Der Motorwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Ansteckbare Bremsschläuche liegen separat bei. Am Einachs-Anhänger können alle sechs Ladeklappen manuell geöffnet werden. Alle Ladeklappen sind in sich nochmals faltbar. Der Einachs-Anhänger ist mit 5 Fahrrädern und einigen Gepäckstücken beladen. 2 Wagenstützen für das separate Abstellen des Anhängers liegen bei. Länge der zweiteiligen Garnitur 22 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39952",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/14/41/1441c21d17e7caf50d525713d477c2361464800249.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

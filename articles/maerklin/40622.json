@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-40622",
+  "manufacturer": "Maerklin",
+  "articleNumber": "40622",
+  "releaseDate": "2000",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "ATSF",
+    "type": "Dieselelektrische Lokomotive (ohne Antrieb)",
+    "number": "336",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7 der Atchison, Topeka & Santa Fe Railway (AT & SF). Betriebsnummer 336.\n\nModell: Passend zu den Lokomotiven 33622 und 37622. Beleuchtung der Stirnlampen und Nummerntafeln wahlweise über Schleifer oder von der angekuppelten Lokomotive. Kupplungshaken , vorne mit Vorentkupplung, austauschbar gegen Norm- Kupplungsaufnahmen. Länge 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2000"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/40622",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/84/0c/840ce554592dc89556a38a77a2228e4f1434539173.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:52Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39954",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39954",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Z 161",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 152.0
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen Z 161 auf Basis des Schienenbusses der Baureihe VT 95.9. Luxemburgische Eisenbahnen ( CFL ). Ohne stirnseitige Oberlicht-Fenster über dem Führerstand . Betriebszustand um 1964/65.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 jeweils separat digital abschaltbar. Spitzenlicht, Schlusslichter und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit freiem Durchblick bei den Führerständen und im Fahrgastraum. Bremsschläuche und eine Zugstange zum Anhängen eines Wagens mit Normschacht auf Normhöhe liegen bei. Länge über Puffer 15,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39954",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8d/8d/8d8debb32b6e4a912b1f67a2f5b6966e1544684423.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

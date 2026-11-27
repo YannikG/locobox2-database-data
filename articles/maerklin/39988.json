@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39988",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39988",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus mit Beiwagen und Steuerwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: 3-teilige Schienenbus -Garnitur der Deutschen Bundesbahn (DB). Bestehend aus Schienenbus - Motorwagen Baureihe 797.5, Beiwagen Baureihe 998 und Steuerwagen Baureihe 997. In purpurroter Ursprungsfarbgebung mit Uerdinger Raute. Typischer Betriebszustand für die Hohenstaufenbahn Ende der 1970er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungsdeichsel -Verbindung mit Kulissenführung. Inneneinrichtung. Freier Durchblick im Motorwagen , Beiwagen und Steuerwagen . Spitzensignal sowie Innenbeleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge der 3-teiligen Garnitur 48,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39988",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e6/68/e668fb6cd918f2db7611af7a27ac7a901434539324.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

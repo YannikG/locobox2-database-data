@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39966",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39966",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "AC/DC Schlepptender-Dampflokomotive",
+    "number": null,
+    "livery": "Black Ice",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt",
+    "luepMm": 245.0
+  },
+  "description": "Vorbild: Schlepptender -Dampflokomotive \"Black Ice\", die der Bühnenkulisse der AC/DC Black Ice World Tour 2008 - 2010 nachempfunden ist.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Frontscheinwerfer mittig auf der Rauchkammertür der Lok und eine Lampe an der Tenderrückseite konventionell in Betrieb, digital schaltbar. Die Beleuchtung des Frontscheinwerfers kann auf rot umgeschaltet werden. Die AC/DC typischen Teufelshörner sind beleuchtet und können digital zugeschaltet werden. Führerstandsbeleuchtung und Feuerbüchsenflackern digital schaltbar. Beleuchtung des Tender-Durchgangs digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Bremsschläuche, Schraubenkupplungsimitationen und geschlossene Zylinderdeckel liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39966",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ae/e9/aee9d79484dc2e727ecc5b89e583cb181758106808.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

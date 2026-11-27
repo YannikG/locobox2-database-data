@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39984",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39984",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus mit Steuerwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen Baureihe VT 98 und Steuerwagen Baureihe VS 98 der Deutschen Bundesbahn (DB). In ursprungsfarbener Epoche -III-Ausführung zu Beginn der 1960er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungsdeichsel -Verbindung mit Kulissenführung. Inneneinrichtung. Freier Durchblick im Motorwagen und Steuerwagen . Spitzensignal sowie Innenbeleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39984",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/c9/a7c95b8fe42fc0815ff77f5057eea46c1434539325.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

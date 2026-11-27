@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39979",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39979",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Schienenbus-Motorwagen",
+    "number": null,
+    "livery": "Roter Flitzer",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: BR 798 Motorwagen (ehem. ÖBB ) der DNV Touristik GmbH, Stuttgart-Kornwestheim. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Inneneinrichtung. Spitzen- und Schlusslichter sowie Innenbeleuchtung mit warmweissen Leuchtdioden ( LED ). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39979",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/66/88/6688ef569634bfbede155fb3b48342311504019718.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39986",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39986",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Schienenbus Jägermeister.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen Baureihe VT 54 der Kahlgrund-Verkehrsgesellschaft mbH. Ausführung mit Werbebeschriftung der Firma Jägermeister, Zustand um das Jahr 1970.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Inneneinrichtung. Spitzensignal sowie Innenbeleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39986",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/b5/52b5b77aa52ab1f397cc94a9e7e919091434539156.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

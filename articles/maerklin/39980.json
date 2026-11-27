@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39980",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39980",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus mit Steuerwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: BR 798 + 998 ( Motorwagen und Steuerwagen ) der Deutschen Bundesbahn (DB). In ursprungsfarbener Epoche -IV-Ausführung zu Beginn der 1970er-Jahre.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb C-Sinus in neuer wartungsfreier Kompakt-Bauform. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungsdeichsel -Verbindung mit Kulissenführung. Inneneinrichtung. Wagen-Führerstände, Steuerwagen und der optional erhältliche Beiwagen mit freiem Durchblick. Spitzen- und Schlusslichter sowie Innenbeleuchtung mit wartungsfreien Leuchtdioden ( LED ). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39980",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7e/42/7e4287cb4c764c552fcb3628ccee4fea1434538771.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

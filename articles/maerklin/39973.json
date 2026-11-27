@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39973",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39973",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 701",
+    "number": "018-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 320.0
+  },
+  "description": "Vorbild: Regelturmtriebwagen Baureihe 701 als Wartungsfahrzeug der Fahrleitungsmeisterei Köln-Nippes, mit Arbeitsbühne und Scherenstromabnehmer sowie zusätzlichem 2-achsigem Oberleitungsbauwagen. Deutsche Bundesbahn (DB). Goldgelbe Grundfarbgebung für DB-Dienstfahrzeuge. Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen. Turmtriebwagen-Betriebsnummer 701 018-4. Betriebszustand der 1980er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Betriebs- und Geräuschfunktionen. Geregelter Hochleistungsantrieb. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstand mit Einrichtung. Heb-, senk- und schwenkbare Arbeitsbühne, digital schaltbar und über Drehregler am Fahrgerät steuerbar. Dazu wird über Funktionstaste F1 der Zustand Fahrbetrieb oder betätigen der Arbeitsbühne im stehenden Zustand ausgewählt. Heb- und senkbarer Scherenstromabnehmer , digital schaltbar. Stromabnehmer ohne Funktion für Oberleitungsbetrieb. Spezielle Zugstange zum Anhängen des Oberleitungsbauwagens an den Turmtriebwagen liegt bei. Oberleitungsbauwagen beladen mit Kabeltrommeln und Gestelle für Seilführung. Gesamtlänge über Puffer ca. 32 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39973",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/20/c120906c69117cea0bf1f068882fc2301577343621.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:54Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39955",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39955",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus mit Beiwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schienenbus Triebwagen Baureihe VT 95.9 mit Beiwagen VB 140 der Deutschen Bundesbahn (DB). Erste Bauserie, in purpurroter Ursprungsfarbgebung, mit Oberlicht-Fenster über dem Führerstand . Auslieferungs- bzw. Betriebszustand um 1952/53. Authentische Gebrauchsspuren.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen . 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung im Motorwagen und Beiwagen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter am Motorwagen konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 des Motorwagens jeweils se- parat digital abschaltbar. Am Beiwagen leuchten zwei rote Schlusslichter je nach Position des Motorwagens. Spitzenlicht, Schlusslicht und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LEDs), digital gemeinsam schaltbar. Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel mit Kulissenführung. Eine zusätzliche stromlose Kuppelstange liegt für den Einsatz in einer Mehrfachtraktion bei. Bei einer maximal vierteiligen Einheit (2 Doppel-Einheiten) kann über einen Schalter jeweils das rote Schlusslicht am Beiwagen abgeschaltet werden. Wagenführerstände und Inneneinrichtung im Motorwagen und Beiwagen erlauben einen freien Durchblick. Ansteckbare Bremsschläuche liegen separat bei. Länge der zweiteiligen Garnitur ca. 28,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39955",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/c6/37c62dab24d8d3cc75a05bf5198fc9e61434538982.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

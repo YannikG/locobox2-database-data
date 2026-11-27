@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-41730",
+  "manufacturer": "Maerklin",
+  "articleNumber": "41730",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen BR 648.2 (LINT 41) der Deutschen Bahn AG ( DB AG ). Aktuelle Ausführung mit Tiefeinstiegen. Einsatz im Verkehrsbereich Braunschweig – Harz – Göttingen.\n\nModell: Unmotorisierte Dummy-Einheit mit fest montierter 5-poliger Kupplung auf einer Seite des Triebwagens, zur Erweiterung des motorisierten Dieseltriebwagens Artikel 37730 auf eine 2-teilige oder 3-teilige Einheit. Zusätzliches 5-poliges Kuppelstück zum Einstecken an die motorisierte Einheit liegt bei. Dreilicht-Spitzensignal und 2 rote Schlusslichter nur an der End-Stirnseite des Dummys mit der Fahrtrichtung wechselnd. Kuppelseite ohne beleuchtetes Spitzensignal . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien, warmweissen LED . Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, digital über motorisierte Einheit schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/41730",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/ee/53eed8f585978659e66bf10a2bad4d001434538624.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39982",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39982",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Schienenbus mit Steuerwagen.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Motorwagen Baureihe VT 27 und Steuerwagen VS 21 der Elmshorn-Barmstedt-Oldesloer Eisenbahn (EBOE). In Epoche III-Ausführung, mit Werbeaufschrift \"Doornkaat\".\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungsdeichsel -Verbindung mit Kulissenführung. Inneneinrichtung. Beide Fahrzeuge mit freiem Durchblick. Beleuchtung mit wartungsfreien warmweissen LED . Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Im Lieferumfang enthalten: 2 Original Doornkaat-Gläser. Länge der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39982",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/ec/78ece9bb8e46836fadd8f05c314516e91434538983.jpg"
+  },
+  "updatedAt": "2026-11-27T10:30:53Z"
+}
