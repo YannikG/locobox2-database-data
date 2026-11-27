@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22069",
+  "manufacturer": "Trix",
+  "articleNumber": "22069",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 234",
+    "number": "292-1",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 234 \"Ludmilla\" der Deutschen Bahn AG (DB AG). Ausführung in verkehrsroter Farbgebung. Betriebsnummer 234 292-1.\n\nModell: Epoche V. Lokomotive in Metallausführung. 8-polige Digital-Schnittstelle. Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal. Beleuchtung mit wartungsfreien Leuchtdioden. Kupplungsaufnahmen nach NEM. Länge über Puffer 239 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22069",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/91/dc/91dc7446724e3d4d7e6acfbcbac8a4361434534526.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

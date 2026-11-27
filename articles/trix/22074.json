@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22074",
+  "manufacturer": "Trix",
+  "articleNumber": "22074",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2016",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2016 der Österreichischen Bundesbahnen (ÖBB). Dieselelektrische Bauart \"Hercules\".\n\nModell: Epoche V. Metallausführung. Digital-Decoder für DCC, Selectrix und konventionellen Betrieb. Zentral eingebauter Motor, 4 Achsen über Kardan angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Kupplungsaufnahmen nach NEM. Länge über Puffer 217 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22074",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/28/ec28693bd8e824afeadbd76de6e4368b1434534456.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

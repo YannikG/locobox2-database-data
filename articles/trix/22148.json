@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22148",
+  "manufacturer": "Trix",
+  "articleNumber": "22148",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie Re 4/4 II der Schweizerischen Bundesbahnen, Achsfolge Bo'Bo', Baujahr ab 1967. Einsatz: TEE-Züge.\n\nModell: Epoche IV, Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle, 5-poliger Motor, 2 Achsen angetrieben, Haftreifen, Kupplungsaufnahme nach NEM. Länge über Puffer 171 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22148",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/4f/0c4ffb49ea22ead642d35a49297510271434534396.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:46Z"
+}

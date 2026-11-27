@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22020",
+  "manufacturer": "Trix",
+  "articleNumber": "22020",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 01 der Deutschen Bundesbahn (DB). Betriebszustand um 1966, Bauart 2'C1'h2.\n\nModell: Epoche III. Geregelter C-Sinus-Hochleistungsantrieb in kompakter Bauform mit DCC-/Sx-Decoder und Soundgenerator. 3 Achsen angetrieben, Haftreifen. Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Rauchsatz 7226 nachrüstbar. Fahrtrichtungsabhängig wechselndes LED-Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Lokpfiff und Dampflok-Fahrgeräusch. Luftpumpen-Arbeitsgeräusch, Feuerbüchsen-Flackerlicht, Bremsenquietschen und kurzer Rangierpfiff mit Trix Systems schaltbar. Drei weitere Sound-Funktionen (Dampf ablassen, Kohle schaufeln und Schüttelrost-Geräusch) mit zukünftiger Trix Systems Central Station aktivierbar. Am Tender kinematikgeführte Kurzkupplung mit NEM-Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 275 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22020",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/59/23/59238f2e5031b8e4eb867f3aa7965c401434534597.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

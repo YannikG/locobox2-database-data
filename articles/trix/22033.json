@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22033",
+  "manufacturer": "Trix",
+  "articleNumber": "22033",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Kittel",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel der Deutschen Bundesbahn (DB). Gebaut 1914 ursprünglich für die Grossherzoglich badischen Staatseisenbahnen.\n\nModell: Epoche III. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle nach NEM. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben, Haftreifen. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand, Nachbildung des Kessels. Pufferbohlendetails im Beutel beiliegend, um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 130 mm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22033",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/9d/249dcf7ff9c22309d47651da16c1759c1434534513.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

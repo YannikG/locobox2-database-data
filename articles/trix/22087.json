@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22087",
+  "manufacturer": "Trix",
+  "articleNumber": "22087",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Siemens Dispolok",
+    "type": "ER 20",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ EuroRunner ER 20 der Siemens Dispolok GmbH. Entspricht der österreichischen Bauart \"Hercules\". Einsatz für private Eisenbahnverkehrsunternehmen (EVU) als Leasing-Fahrzeug. Epoche V.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital-Decoder für DCC, Selectrix und konventionellen Betrieb. Spezialmotor zentral eingebaut. 4 Achsen über Kardan angetrieben, 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Kupplungsaufnahmen nach NEM. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22087",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/01/af015316ceee84c159b7dfba35783d541434534599.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

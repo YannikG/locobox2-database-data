@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22061",
+  "manufacturer": "Trix",
+  "articleNumber": "22061",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 53.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 355.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive nach einem Entwurf von Borsig 1943. Vorgesehen als Baureihe 53.0 der Deutschen Reichsbahn (DRG). Langstreckenausführung mit grossem Kondenstender.\n\nModell: Mit Digital-Decoder, geregeltem Hochleistungsantrieb, Lüfterantrieb im Tender. 4 Achsen angetrieben, Haftreifen. 2 Rauchsätze 7226 nachrüstbar. Lok und Tender mit NEM-Kupplungsaufnahme. Abstand zwischen Lok und Tender verstellbar. Länge über Puffer 35,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22061",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7a/83/7a83b08a7b63ece05659b45ba144db0c1434534582.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

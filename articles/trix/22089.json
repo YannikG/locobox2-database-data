@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22089",
+  "manufacturer": "Trix",
+  "articleNumber": "22089",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "rail4chem",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Zweisystemlokomotive BR 185. Privatbahn-Lokomotive der Firma rail4chem Eisenbahnverkehrsgesellschaft mbH, Essen, im Verbund der Rail Freight Alliance European Bulls.\n\nModell: Epoche V, Fahrgestell und Aufbau aus Metalldruckguss. Mit lastgeregeltem Digital-Decoder für DCC und Selectrix und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Vier mechanisch funktionsfähige Dachstromabnehmer. Fahrtrichtungsabhängig wechselnde Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22089",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a4/7c/a47c2095f7f8603dfa78004c6fc4fa431434534635.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

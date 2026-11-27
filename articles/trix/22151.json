@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22151",
+  "manufacturer": "Trix",
+  "articleNumber": "22151",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 150",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 150 der Deutschen Bundesbahn (DB). Grösste Bauart der Einheits-Elektrolokomotiven aus dem Neubauprogramm der 50er Jahre. Modernisierte Ausführung mit Doppellampen, ohne Regenrinne mit Klatte-Lüftern in ozeanblau-beiger Farbgebung.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metalldruckguss. 21-polige Digitalschnittstelle. Glockenankermotor mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Spitzensignal und Schlusslichter mit warmweissen bzw. roten wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Angesetzte Metall-Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Kupplungsaufnahmen nach NEM. Länge über Puffer 224 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22151",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/39/8b/398b9cb158f7d45de809c8e28a3a17731434534571.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:46Z"
+}

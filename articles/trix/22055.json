@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22055",
+  "manufacturer": "Trix",
+  "articleNumber": "22055",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Gt 2x4/4",
+    "number": "5761",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Gt 2x4/4 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.) Bauart D´D h4v (Mallet-Lokomotive). Baujahr ab 1913. Betriebsnummer: 5761. Einsatz: Güterzüge und Schiebebetrieb auf Steilstrecken.\n\nModell: Epoche I, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder nach DCC-Standard mit Geräuschgenerator. 5-poliger Motor. 4 Achsen angetrieben, Haftreifen. Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Kupplungsaufnahmen nach NEM mit Kinematik für Kurzkupplung. Länge über Puffer 203 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22055",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/a3/48a32b0f21a69e77dec792ee10e043eb1434534423.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

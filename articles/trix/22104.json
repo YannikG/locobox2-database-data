@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22104",
+  "manufacturer": "Trix",
+  "articleNumber": "22104",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 305.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 10 der Deutschen Bundesbahn (DB). Mit Öltender und Öl-Hauptfeuerung.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 3 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich Fahrwerksbeleuchtung separat digital schaltbar. Eingerichtet für Rauchsatz 72270. Lokomotive und Tender weitgehend aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Befahrbarer Mindestradius 360 mm. Bremsschläuche liegen separat bei. Länge über Puffer 30,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22104",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/21/5b/215b68ec844e8e59df2f7f392d0570011502454630.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:47Z"
+}

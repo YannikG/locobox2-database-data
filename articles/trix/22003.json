@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22003",
+  "manufacturer": "Trix",
+  "articleNumber": "22003",
+  "releaseDate": "2003",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 85",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: BR 85 der Deutschen Reichsbahn Gesellschaft (DRG), Bauart 1\"E 1\"h3, Baujahr ab 1932. Einsatz: schwere Züge auf steilen Strecken.\n\nModell: Epoche II, Fahrgestell und Kessel aus Metalldruckguss, mit digitaler Schnittstelle, 5-poliger Motor, 5 Achsen angetrieben, 2 Haftreifen, Kupplungsaufnahme nach NEM. LüP 186 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22003",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/df/53df87bf19eaadbc7974bc05b30cc7e41434534474.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:44Z"
+}

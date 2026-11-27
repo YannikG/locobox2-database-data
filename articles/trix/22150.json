@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22150",
+  "manufacturer": "Trix",
+  "articleNumber": "22150",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe E 50 der Deutschen Bundesbahn (DB). Grösste Bauart der Einheits-Elektrolokomotiven aus dem Neubauprogramm der 50er Jahre. Ursprungsausführung mit Doppellampen und Regenrinne. Epoche III.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. Hochleistungsmotor C-Sinus in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben. Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. E-Lok-Lüftergeräusch und Signalhorn sowie Anfahr- und Bremsverzögerung mit DCC oder Trix Systems schaltbar. Angesetzte Metall-Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Kupplungsaufnahmen nach NEM. LüP 224 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22150",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/09/f909e01c245e1533ce10b50cec2cbfa91434534703.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

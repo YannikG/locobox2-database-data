@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22116",
+  "manufacturer": "Trix",
+  "articleNumber": "22116",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 42",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 42.90 Franco-Crosti der Deutschen Bundesbahn (DB). Ausführung mit Wagner-Windleitblechen. Bauart 1'Eh2. Einsatz: Mittelschwere Güterzüge.\n\nModell: Epoche III, Fahrgestell und Kessel aus Metalldruckguss. Mit 8-poliger Digital-Schnittstelle nach NEM. 5-poliger Motor im Kessel. 5 Achsen angetrieben. 4 Haftreifen. Kurvengängiges Gelenk-Fahrwerk. Beleuchtungen mit wartungsfreien Leuchtdioden. Kurzkupplung zwischen Lok und Tender. Kupplungsaufnahmen nach NEM, am Tender mit Kinematik für Kurzkupplung. LüP 267 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22116",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/f9/9af9da5ea4bc41208421ad2f6020571f1434534482.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

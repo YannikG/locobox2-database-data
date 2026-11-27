@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22005",
+  "manufacturer": "Trix",
+  "articleNumber": "22005",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "EP 3/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Nebenbahn-Lokomotive Baureihe EP 3/6 der Deutschen Reichsbahn-Gesellschaft, Gruppenverwaltung Bayern (DRG), Achsfolge 1'C 2'. Spätere Baureihe E 36. Baujahr 1914. Ausführung mit elektrischer Zugheizung. Einsatz: Personenzüge.\n\nModell: Epoche II, 8-polige Digital-Schnittstelle nach NEM. Motor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. 2 Haftreifen. Kupplungsaufnahme nach NEM. Altbau-Dachstromabnehmer. LüP 142 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22005",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/d0/f9d00120e2a3b2cecb9b624d52b3a3c81434534608.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:44Z"
+}

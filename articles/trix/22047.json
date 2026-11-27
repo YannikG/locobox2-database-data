@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22047",
+  "manufacturer": "Trix",
+  "articleNumber": "22047",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 335",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Kleindiesellokomotive Köf III als Baureihe 335 der Deutschen Bahn AG (DB Cargo) in Epoche V. Farbgebung in verkehrsrot. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung.\n\nModell: Mit Digital-Decoder DCC und geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell an und digital schaltbar. Beleuchtung mit warmweissen LED. Spitzensignal an beiden Seiten abschaltbar. Telex-Kupplung vorne und hinten getrennt schaltbar. Freier Durchblick im Führerhaus, Griffstangen angesetzt. Bremsleitungen und Rangierkupplungen liegen bei. Länge über Puffer 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22047",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/56/7b/567b8a9482452b74936a106258fa1d101434534572.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:46Z"
+}

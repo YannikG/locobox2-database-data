@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22085",
+  "manufacturer": "Trix",
+  "articleNumber": "22085",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Serie 485",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzweck-Zweisystemlokomotive Serie 485 der BLS-Lötschbergbahn AG (Bern - Lötschberg - Simplon) \"Connecting Europe\".\n\nModell: Lokomotive mit Digital-Decoder für DCC, Selectrix und Analogbetrieb mit automatischer Systemerkennung, auch konventionell einsetzbar. Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. 4 mechanisch funktionsfähige Dachstromabnehmer. An beiden Enden Kurzkupplungen im NEM-Schacht. Länge über Puffer 217 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22085",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/66/8a/668a985ec0976703d4fdcaa2a79f0e081434534628.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

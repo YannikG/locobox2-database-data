@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22017",
+  "manufacturer": "Trix",
+  "articleNumber": "22017",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 96",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 96 der Deutschen Reichsbahn-Gesellschaft (DRG). Frühere bayerische Gt 2x4/4. Bauart D´D h4v (Mallet-Lokomotive). Baujahr ab 1913. Einsatz: Güterzüge und Schiebebetrieb auf Steilstrecken.\n\nModell: Epoche II, Fahrgestell und Aufbau aus Metalldruckguss. 5-poliger Motor. 4 Achsen angetrieben, 4 Haftreifen. Kurvengängiges Gelenkfahrwerk. 21-polige Digital-Schnittstelle, Decoder 66839 nachrüstbar. Kupplungsaufnahmen nach NEM mit Kinematik für Kurzkupplung. LüP 203 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22017",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/33/7b33fc0a546319c62a18f140cf554c391434534590.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

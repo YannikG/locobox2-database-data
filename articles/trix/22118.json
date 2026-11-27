@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22118",
+  "manufacturer": "Trix",
+  "articleNumber": "22118",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe E 03 der Deutschen Bundesbahn (DB). Vorserienausführung Baujahr 1965. Einsatz: Fernschnellzüge, TEE, später InterCity-Verkehr.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder nach DCC-Standard und ferngesteuerte Dachstromabnehmer. 5-poliger Motor. 3 Achsen ngetrieben, 2 Haftreifen. Spitzensignal, Schlusslichter und Maschinenraum-Beleuchtung mit LED, konventionell in Betrieb, digital schaltbar. Hub- und Senkantrieb beider Dachstromabnehmer sowie Anfahr- und Bremsverzögerung mit Trix Systems oder DCC digital schaltbar. Kupplungsaufnahmen nach NEM. Eingesetzte Griffstangen aus Metall. Führerstände mit Inneneinrichtung. LüP 219 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22118",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/06/570669c27d926215ff3dff434a0c07301434534648.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

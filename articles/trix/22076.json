@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22076",
+  "manufacturer": "Trix",
+  "articleNumber": "22076",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Veolia",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 185.1 der \"Veolia Transport\". Zweisystemlokomotive.\n\nModell: Epoche V. Metallausführung. Lokomotive mit Digital-Decoder für DCC, Selectrix und Analogbetrieb mit automatischer Systemerkennung, auch konventionell einsetzbar. Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. 2 mechanisch funktionsfähige Dachstromabnehmer. Kupplungsaufnahmen nach NEM. Länge über Puffer 217 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22076",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/47/85471cd6ac4bed5eeb0d64fa792366be1434534520.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

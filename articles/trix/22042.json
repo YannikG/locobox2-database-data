@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22042",
+  "manufacturer": "Trix",
+  "articleNumber": "22042",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "D XI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Nassdampflokomotive Gattung D XI der Königlich Bayerischen Staatsbahnen (K.Bay.Sts.B.). Bauzeit 1895-1912 von den Firmen Krauss und Maffei in München. Einsatz: Güter- und Personenzüge auf Nebenstrecken.\n\nModell: Epoche I. 5-poliger schräg genuteter Motor mit Schwungmasse, 6-polige Digitalschnittstelle, 3 Achsen angetrieben, 3-Licht-Spitzensignal mit der Fahrtrichtung wechselnd. Vorhangimitation im Führerstandsfenster, Nachbildung der Länderbahn-Stangenpuffer. Länge über Puffer 106 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22042",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/77/71/7771183d82004dae9d4fd0ffd283f1a71434534513.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

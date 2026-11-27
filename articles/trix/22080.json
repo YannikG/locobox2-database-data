@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22080",
+  "manufacturer": "Trix",
+  "articleNumber": "22080",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe V 80 der Deutschen Bundesbahn. Achsfolge B'B'. Epoche III, Baujahr 1952.\n\nModell: Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. 2 Haftreifen. Eingebauter Digital-Decoder DCC-/Selectrix-Format mit automatischer Analogbetrieb-Erkennung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal. Beleuchtung mit wartungsfreien LED. Epoche III. Nachgebildete Führerstands-Inneneinrichtung. Kurzkupplungsaufnahmen nach NEM mit Märklin-Kupplungskopf. LüP 147 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22080",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/f2/8ff2e7cd4272e6ce8746b360bedcddfe1434534502.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

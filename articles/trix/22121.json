@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22121",
+  "manufacturer": "Trix",
+  "articleNumber": "22121",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 89",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe 89.70-75 der Deutschen Bundesbahn (DB). Frühere preussische Nebenbahnlokomotive T 3. Bauzeit 1881 bis 1910. Bauart Cn2. Einsatz: Güterzüge und Personenzüge auf Nebenstrecken.\n\nModell: Epoche III, Fahrgestell und Kessel aus Metalldruckguss. 21-polige Schnittstelle für Digital-Decoder. Miniaturmotor im Kessel. 3 Achsen angetrieben. Digital-Decoder 66839 nachrüstbar. Beleuchtung mit LED, konventionell in Betrieb, digital schaltbar. Detailliertes Fahrwerk mit Darstellung der Allan-Steuerung. Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Kupplungsaufnahmen nach NEM. LüP 99 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22121",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/c6/29c64bcf735e71cde3f239897e93cc161434534690.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

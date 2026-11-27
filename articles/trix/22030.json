@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22030",
+  "manufacturer": "Trix",
+  "articleNumber": "22030",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe E 10.3 der Deutschen Bundesbahn. Achsfolge Bo´Bo´. Epoche-III-Betriebszustand um 1965 mit \"Bügelfalten\"-Front, durchgehenden Lüfterbändern, umlaufender Regenrinne und aerodynamischer Pufferverkleidung sowie Frontschürze.\n\nModell: Epoche III, mit DCC-/Selectrix-Decoder und neuem C-Sinus-Hochleistungsantrieb in kompakter Bauform. 4 Achsen angetrieben. 2 Haftreifen. Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. Bahnhofsdurchsage, Hornsignal. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. LüP 189 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22030",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/6e/876e496f333b323f8cf334730968cc951434534474.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

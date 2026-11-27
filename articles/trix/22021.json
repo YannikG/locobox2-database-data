@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22021",
+  "manufacturer": "Trix",
+  "articleNumber": "22021",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "PtL 2/2",
+    "number": null,
+    "livery": "Glaskasten",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Reihe PtL 2/2 (Glaskasten) der Königlich Bayerischen Staatsbahnen (K.Bay.Sts.B.). Im Betriebszustand der Epoche I.\n\nModell: Lokomotive mit Digital-Decoder für DCC, Selectrix und Analogbetrieb mit automatischer Systemerkennung, auch konventionell einsetzbar. Geregelter Spezialmotor. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit DCC, Selectrix oder Trix Systems schaltbar. Innenkessel aus Metall. Zahlreiche angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Typisch dunkelgrüne bayerische Länderbahn-Ausführung mit Zierlinien. Länge über Puffer 8,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22021",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c4/21/c421e6ad5719632116a284a0be7c2d7b1434534705.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

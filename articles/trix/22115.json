@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22115",
+  "manufacturer": "Trix",
+  "articleNumber": "22115",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 4000",
+    "number": "4019",
+    "livery": "Big Boy",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Reihe 4000 \"Big Boy\" der Union Pacific Railroad (UP). Ausführung der Lokomotive mit der Betriebsnummer 4019 im Zustand mit Windleitblechen. Im Winter 1944/45 wurden dem Big Boy 4019 versuchsweise Windleitbleche angebracht.\n\nModell: Mit Digital-Decoder DCC und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, Hochleistungsmotor. 8 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Boxpok-Räder. Mittlere Kuppelachsen gefedert. Stirnlampe, Tender und Nummerntafeln mit wartungsfreien warmweissen LED beleuchtet. 2 Rauchsätze (Seuthe Nr. 10) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal, Nummerntafeln- und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Leistungsfähiger Lautsprecher im Tender, Lautstärke einstellbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Kurzkupplung zwischen Lok und Tender. Dampfleitungen schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Länge über Kupplungen 46,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22115",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/77/9c/779cc6efa046fae2cb129146e7de4a571434534599.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

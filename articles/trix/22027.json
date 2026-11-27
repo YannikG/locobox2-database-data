@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22027",
+  "manufacturer": "Trix",
+  "articleNumber": "22027",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Kittel CidT",
+    "number": "4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel CidT der Deutschen Reichsbahn (DRB). Gebaut ab 1915, ursprünglich für die Grossherzoglich Badischen Staatseisenbahnen. Ausführung in typischer Triebwagen-Lackierung in rot/creme der Epoche II. Betriebszustand Ende der 1930er Jahre. Betriebsnummer: 4 Karlsruhe.\n\nModell: Epoche II. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle nach NEM. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand, Nachbildung des Kessels. Pufferbohlendetails im Beutel beiliegend, um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 130 mm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22027",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/fb/c9fbb48d31935cd2f5d87e8cf6aaa7621434534418.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

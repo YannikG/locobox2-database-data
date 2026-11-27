@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22056",
+  "manufacturer": "Trix",
+  "articleNumber": "22056",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "EP 3/6",
+    "number": "20103",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Nebenbahn-Lokomotive Baureihe EP 3/6 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.), Achsfolge 1'C 2'. Baujahr 1914. Einsatz: Personenzüge. Betriebsnummer: 20103.\n\nModell: Epoche I, 8-polige Digital-Schnittstelle nach NEM. Motor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Haftreifen. Asymmetrisch angeordnete Altbau-Stromabnehmer. Nachbildung des Dampfheizkessels. Eingerichtet für Rauchsatz. Kupplungsaufnahme nach NEM. Länge über Puffer 142 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22056",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/07/d8/07d8f1478d5065178d1813f29a236b3e1434534460.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

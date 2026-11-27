@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22134",
+  "manufacturer": "Trix",
+  "articleNumber": "22134",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 38",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Baureihe 38.10-40 der Deutschen Reichsbahn Gesellschaft (DRG). Frühere preussische P 8. Ausführung mit kleinen Wagner-Windleitblechen. Vierachsiger Kastentender.\n\nModell: Epoche II. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. Hochleistungsmotor mit Glockenanker im Stehkessel. 3 Achsen angetrieben, 2 Haftreifen. Spitzensignal mit wartungsfreien warmweissen Leuchtdioden konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Rauchsatz Märklin 72270 nachrüstbar. Am Tender NEM-Kupplungsaufnahme mit Kinematik für Kurzkupplung. Länge über Puffer 210 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22134",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/33/14/3314b75b3ce0fe83db879729dd50b7bc1434534459.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22071",
+  "manufacturer": "Trix",
+  "articleNumber": "22071",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 132",
+    "number": null,
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Baureihe 132 \"Ludmilla\" der Deutschen Reichsbahn (DR).\n\nModell: Epoche IV. Metallausführung. Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Eingebauter Digital-Decoder DCC-/Selectrix-Format mit automatischer Analogbetrieb-Erkennung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Kurzkupplungsaufnahmen nach NEM. Länge über Puffer 239 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22071",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/b4/7bb4ffc7fbb605c0e137bf233b08cc801434534441.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

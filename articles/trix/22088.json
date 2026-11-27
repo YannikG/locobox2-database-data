@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22088",
+  "manufacturer": "Trix",
+  "articleNumber": "22088",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "LTE",
+    "type": "ER 20",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Typ EuroRunner ER 20. Privatbahn-Lokomotive der Firma LTE Logistik- und Transport GmbH, Graz, im Verbund der Rail Freight Alliance European Bulls.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Lastgeregelter Digital-Decoder für DCC und Selectrix und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Fahrtrichtungsabhängig wechselnde Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22088",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/ac/96acb5684e32a521f44808e428a2fa911434534426.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

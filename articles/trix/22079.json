@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22079",
+  "manufacturer": "Trix",
+  "articleNumber": "22079",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "Reihe 2016",
+    "number": null,
+    "livery": "Hercules",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2016 \"Hercules\" im Design für den Film \"Superman Returns\". Gestaltet mit Motiven von \"Lex Luthor\".\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Digital-Decoder für DCC, Selectrix und konventionellen Betreib. Zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit DCC oder Trix Systems schaltbar. Kupplungsschacht nach NEM mit Kurzkupplungen. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22079",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/37/4537c566c0d2a15f1df9a61ab813f0921434534553.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

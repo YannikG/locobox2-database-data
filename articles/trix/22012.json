@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22012",
+  "manufacturer": "Trix",
+  "articleNumber": "22012",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Gt 2x4/4",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Gt 2x4/4 der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.) Bauart D´D h4v (Mallet-Lokomotive). Baujahr ab 1913. Einsatz: Güterzüge und Schiebebetrieb auf Steilstrecken.\n\nModell: Epoche I, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder nach DCC-Standard mit Geräuschgenerator. 5-poliger Motor. 4 Achsen angetrieben, 4 Haftreifen. Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Dampflok-Fahrgeräusch, Anfahr- und Bremsverzögerung sowie mehrere weitere Betriebsgeräusche (Pfeifsignal 1 und 2, Kohle schaufeln, Luftpumpe, Bremsen, Injektor, Dampf ablassen und Schieberkasten) mit Trix Systems oder DCC digital schaltbar. Kupplungsaufnahmen nach NEM mit Kinematik für Kurzkupplung. LüP 203 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22012",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0b/89/0b894f9e9873c892e47328581830490f1434534696.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

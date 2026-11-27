@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22075",
+  "manufacturer": "Trix",
+  "articleNumber": "22075",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe V 80 der Deutschen Bundesbahn (DB) mit dieselhydraulischem Antrieb und Gelenkwellen-Kraftübertragung. Ausführung mit Schalldämpfer.\n\nModell: Epoche III. Metallausführung. Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Eingebauter Digital-Decoder DCC-/Selectrix-Format mit automatischer Analogbetrieb-Erkennung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Kupplungsaufnahmen nach NEM. Länge über Puffer 147 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22075",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/9c/259cde013c9c3b5f4081b92248b2159b1434534658.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

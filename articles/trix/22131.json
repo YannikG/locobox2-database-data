@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22131",
+  "manufacturer": "Trix",
+  "articleNumber": "22131",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RAm TEE I",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnelltriebzug Reihe RAm TEE I 501 und 502 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Dieselelektrischer Triebkopf, Abteilwagen, Speisewagen und Grossraumwagen mit Führerstand. Baugleich mit dem niederländischen TEE-Zug Reihe DE 1001 bis 1003. Baujahr 1957, Ursprungsausführung der Epoche III. Einsatz Trans Europ Express Schweiz, Deutschland, Benelux.\n\nModell: Epoche III. Fahrgestell des Triebkopfes aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems, auch konventionell einsetzbar. Geräuschgenerator mit leistungsfähigem Lautsprecher. 5-poliger schräggenuteter Motor mit Schwungmasse zentral im Triebkopf eingebaut. Beide Drehgestelle über Kardan angetrieben. Spitzensignal mit warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Innenbeleuchtung 66719 nachrüstbar. Durchgehende elektrische Verbindung und Spezial-Kurzkupplungen mit Kulissenführung zwischen den Fahrzeugen. Führerstand im Triebkopf mit Lokführer-Figur. Angesetzte Metall-Griffstangen. An den Enden Nachbildung der Scharfenberg-Kupplung. Für den Einsatz dieses Zuges ist ein Mindestradius von 419 mm erforderlich. Gesamtlänge des Zuges 1130 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22131",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c5/2c/c52c67e4432ca113fd021ac7ffbcef101434534421.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

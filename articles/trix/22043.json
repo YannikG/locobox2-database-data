@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22043",
+  "manufacturer": "Trix",
+  "articleNumber": "22043",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 44 mit Ölfeuerung der Deutschen Bundesbahn (DB). Gebaut ab 1937 als Reichsbahn-Einheitslokomotive, Modernisierung ab 1950, Umbau der Feuerung ab 1955. Betriebszustand vor dem Übergang von Epoche III zu Epoche IV.\n\nModell: Fahrgestell und Kessel aus Metall-Druckguss. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. 5-poliger Hochleistungsmotor im Stehkessel. 5 Achsen angetrieben, 4 Haftreifen. Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Rauchsatz Märklin 7226 nachrüstbar. Farblich gealterter Betriebszustand. Verstellbare Kurzkupplung zwischen Lok und Tender. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung am Tender. LüP 260/263 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22043",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e3/3d/e33d65ba613d48d5f786e43e081cba691434534593.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

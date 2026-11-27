@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22018",
+  "manufacturer": "Trix",
+  "articleNumber": "22018",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "T 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: preussische Nebenbahnlokomotive T 3. Bauzeit 1881 bis 1910. Einsatz: Güterzüge und Personenzüge auf Nebenstrecken.\n\nModell: Lokomotive mit Miniaturmotor im Kessel. Im Betriebszustand der Epoche I. Fahrgestell und Kessel aus Metalldruckguss. 21-polige Schnittstelle für Digital-Decoder. 3 Achsen angetrieben. 1 Haftreifen. Digital-Decoder 66839 nachrüstbar. Beleuchtung mit LED konventionell in Betrieb, digital schaltbar. Detailliertes Fahrwerk mit Darstellung der Allan-Steuerung. Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Im Betriebszustand der Epoche I mit Stangenpuffern und Petroleum-Laternen. Kupplungsaufnahmen nach NEM. LüP 99 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22018",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/83/04/8304cd7c1b5eaa51737463fb41d4fef01434534483.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22026",
+  "manufacturer": "Trix",
+  "articleNumber": "22026",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 38.10-40",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Baureihe 38 10-40 der Deutschen Reichsbahn (DR der ehem. DDR). Im Epoche-III-Betriebszustand mit Witte-Windleitblechen, Rauchkammer-Zentralverschluss und Kastentender. Bauart 2´Ch2.\n\nModell: Epoche III, Glockenanker-Motor. 3 Achsen angetrieben, 2 Haftreifen. 21-polige Digital-Schnittstelle. Rauchsatz nachrüstbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal mit wartungsfreien Leuchtdioden und nachrüstbarer Rauchsatz 72270 konventionell in Betrieb. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Decoder 66839 nachrüstbar. Bremsschläuche, Vorbildkupplungen und Kolbenstangenschutzrohre ansteckbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 275 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22026",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f8/f9/f8f9c1485a450872510f8628be1ae5991434534598.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

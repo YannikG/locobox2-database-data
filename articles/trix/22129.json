@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22129",
+  "manufacturer": "Trix",
+  "articleNumber": "22129",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe Köf II der Deutschen Reichsbahn Gesellschaft (DRG). Ursprungsausführung um 1938 mit offenem Führerstand.\n\nModell: Epoche II. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit LED. Spitzensignal digital schaltbar. Angesetzte Metall-Griffstangen. Kupplungsaufnahmen nach NEM. Länge über Puffer 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22129",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/31/f9/31f989e08b9870799cf5ab3a4df939871434534590.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

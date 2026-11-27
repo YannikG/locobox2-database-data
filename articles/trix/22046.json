@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22046",
+  "manufacturer": "Trix",
+  "articleNumber": "22046",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "G.Bad.Sts.B.",
+    "type": "Kittel CidT",
+    "number": "1004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel CidT der Grossherzoglich Badischen Staatsbahnen (G.Bad.Sts.B.). Gebaut ab 1915. Ausführung in flaschengrüner Ursprungslackierung der Epoche I. Betriebszustand um 1915. Betriebsnummer: 1004.\n\nModell: Epoche I. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle nach NEM. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand, Nachbildung des Kessels. Pufferbohlendetails im Beutel beiliegend, um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 13 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22046",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/64/0f64c625498d24408b2b89dcf56213321434534497.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:46Z"
+}
