@@ -48,7 +48,7 @@ def parse_trix_pdp(
                 break
     raw["id"] = f"trix-{raw['articleNumber']}"
     raw["manufacturer"] = "Trix"
-    raw["source"]["notes"] = "Daten von der Trix-Produktdatenbank, automatisch geupdated."
+    raw["source"]["notes"] = "Daten von der Trix-Produktdatenbank, automatisch aktualisiert."
     # Märklin H0 is AC (3-rail); Trix H0 is DC (2-rail).
     model["electricSystem"] = model["electricSystem"].replace("AC-", "DC-")
     return raw
