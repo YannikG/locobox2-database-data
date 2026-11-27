@@ -1,6 +1,6 @@
 # Märklin Produktdatenbank: Import-Artefakte und Review
 
-Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `www.maerklin.de` (Produktdatenbank, gleiche HTML-Form wie Trix). **Import-Workflow:** Skill [locobox-import](../../locobox-import/SKILL.md). **Autofix:** `scripts/autofix_trix_shop_import.py` (gilt für Trix und Märklin).
+Komprimiertes Wissen für **Loknummerierung und Plausibilität** nach Import aus `www.maerklin.de` (Produktdatenbank, gleiche HTML-Form wie Trix). **Import-Workflow:** Skill [locobox-import](../../locobox-import/SKILL.md). **Autofix:** `scripts/autofix_trix_shop_import.py` (gilt für Trix und Märklin), danach `scripts/autofix_maerklin_shop_import.py` (Klassen-Präfix im Typ, z. B. «Nahverkehrs-Dieseltriebwagen LINT 41» → `LINT 41`).
 
 ## Kontext
 
@@ -42,6 +42,10 @@ Privat-/Leasing-EVU ohne Klammer und ohne Map-Eintrag → Pass-1-Finding, nicht 
 ## Kategorien
 
 Parent `lokomotive` plus `dampf-/diesel-/elektrolokomotive` aus Roh-Typ oder Vorbild-Antriebswort. Autofix-Skript setzt das, wenn der Roh-Typ noch das Klassenwort enthält.
+
+## Triebwagen / Triebzüge
+
+Parser setzt `triebwagen`/`triebzug` plus `dieseltriebwagen`/`elektrotriebwagen`/`akkutriebwagen` aus Titel und Vorbild; Parent `lokomotive` bleibt wie bei den bisherigen Märklin-Artikeln. UVP fehlt auf PDPs ausverkaufter Artikel (`uvp.amount` 0). Release-Jahr = erster Katalog unter «Veröffentlichungen» auf dem PDP.
 
 ## Bewusst ausserhalb dieses Skills
 
