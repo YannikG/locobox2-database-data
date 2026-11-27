@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22211",
+  "manufacturer": "Trix",
+  "articleNumber": "22211",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen BR 648.2 (LINT 41) der Deutschen Bahn AG (DB AG). Aktuelle Ausführung mit Tiefeinstiegen.\n\nModell: Epoche V. Hochleistungsmotor mit Glockenanker und Schwungmasse im Jacobs-Drehgestell angeordnet. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. 2 Achsen angetrieben, Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien, warmweissen LED. Zugzielanzeige vorbildgerecht mit gelben LED. Spitzensignal, Innenbeleuchtung, Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 481 mm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22211",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/37/e5/37e52561b09d4565cece5fd0a8ad7c1a1434534575.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:35Z"
+}

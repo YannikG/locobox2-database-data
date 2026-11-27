@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22184",
+  "manufacturer": "Trix",
+  "articleNumber": "22184",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "B VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung für Torffeuerung ohne hohen Torftender. Namensschild \"Orlando di Lasso\".\n\nModell: Epoche I. Geregelter Hochleistungsantrieb mit DCC-/Sx-Decoder und Soundgenerator. Hochleistungsmotor mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. Haftreifen. Detailliertes Fahrwerk mit Aussenrahmen und Stephenson-Steuerung. Spitzensignal konventionell in Betrieb, digital schaltbar. Geschwindigkeitsabhängiges Dampflok-Fahrgeräusch, Pfeifsignal, weitere Betriebsgeräusche sowie Anfahr- und Bremsverzögerung mit DCC digital schaltbar. Kurzkupplung zwischen Lok und Tender. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 163 mm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22184",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/3e/573e2f7f5281d0eeebb5dd8dfaab3af11434534572.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

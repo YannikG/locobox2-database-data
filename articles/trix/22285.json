@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22285",
+  "manufacturer": "Trix",
+  "articleNumber": "22285",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "ITL",
+    "type": "BR 285",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Dieselelektrische Lokomotive Baureihe 285 der CB Rail, vermietet an die ITL Eisenbahngesellschaft mbH, Dresden. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Lokomotive in Metallausführung, mit DCC-Decoder, Spezialmotor und schaltbaren Geräuschfunktionen. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden (LED). Kupplungsaufnahmen nach NEM. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22285",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/46/d24665484583f658b8fe0f558a645b541434534624.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

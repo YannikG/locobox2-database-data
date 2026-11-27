@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22205",
+  "manufacturer": "Trix",
+  "articleNumber": "22205",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Elektrischer Triebzug",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Modell: Epoche V, Wagen mit Metalleinlage für tiefen Schwerpunkt. Mit eingebautem DCC-Decoder in 8-poliger Digital-Schnittstelle nach NEM und Geräuschelektronik. Konventioneller Betrieb über beiliegenden Diodenstecker. 5-poliger Motor im Speisewagen, Antrieb auf beide Drehgestelle. 4 Haftreifen. Spitzensignal konventionell in Betrieb, digital schaltbar. Fahrgeräusch und verschiedene weitere Betriebsgeräusche sowie Anfahr- und Bremsverzögerung digital schaltbar. Führerstände mit Inneneinrichtung. Spezialkurzkupplungen mit Kulisse und elektrischer Verbindung zwischen den Wagen. Innenbeleuchtungen mit wartungsfreien LED. Dachstromabnehmer mechanisch funktionsfähig, ohne elektrischen Anschluss. Zuglänge 1422 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22205",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cf/59/cf59adf519fc0b7bcc39746368ec6ce01434534409.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:19Z"
+}

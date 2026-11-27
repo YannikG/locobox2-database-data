@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22218",
+  "manufacturer": "Trix",
+  "articleNumber": "22218",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 218 der Deutschen Bundesbahn (DB). Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Ursprüngliche Lackierung der frühen Epoche IV. Einsatz für Personen- und Güterzüge.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. Hochleistungsmotor C-Sinus in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Licht am Lokende 1 und 2, Diesellok-Fahrgeräusch, Lokpfiff und Bremsgeräusch mit DCC oder Trix Systems schaltbar. Angesetzte Metall-Griffstangen. Detaillierte Pufferbohle Kupplungsaufnahmen nach NEM. LüP 189 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22218",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/64/14/64145dce4da83f7f06f7cc85ddf16ac31434534686.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:19Z"
+}

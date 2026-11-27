@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22261",
+  "manufacturer": "Trix",
+  "articleNumber": "22261",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 11.5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: TEE Diesel-Triebzug Baureihe VT 11.5 \"Helvetia\" der Deutschen Bundesbahn (DB). Zuglauf: Zürich - Basel - Mannheim - Frankfurt - Hamburg. 2 Triebköpfe Pw4ü, 1 Abteilwagen A4ü, 1. Klasse, 1 Mittelwagen mit Küche/Speiseraum WR4y. Klassische purpurrot/beige TEE-Lackierung. Betriebszustand um 1957.\n\nModell: 4-teilige Grundgarnitur. Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Jeder Triebkopf mit geregeltem Hochleistungsantrieb. Je Triebkopf ein Drehgestell auf beiden Achsen angetrieben. Haftreifen. Mittelwagen mit serienmässig eingebauter Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Mehrpolige stromführende Spezialkupplungen und dicht schliessende Übergangsblenden mit Kulissenführungen zwischen den Fahrzeugen. An den Enden Nachbildung der abgedeckten Scharfenberg-Kupplung (ohne Funktion). Zuglänge über Kupplungen 88 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22261",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3e/ee/3eee6c362bd56b52c0496adf0d84384a1450030202.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:20Z"
+}

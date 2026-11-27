@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22223",
+  "manufacturer": "Trix",
+  "articleNumber": "22223",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 52",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe E 52 der Deutschen Bundesbahn (DB). Achsfolge 2´B B 2´. Baujahr ab 1924. Einsatz vor schweren Reisezügen. Ausführung der Epoche III.\n\nModell: Fahrgestell aus Metalldruckguss. Digitale Schnittstelle. 2 Achsen angetrieben, 2 Haftreifen. Dreilicht-Spitzensignal vorne und hinten mit der Fahrtrichtung wechselnd und konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Kupplungsaufnahmen nach NEM. Länge über Puffer 198 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22223",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/69/6b/696be92ff13ca5f42ce174f4006f470b1434534680.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:19Z"
+}

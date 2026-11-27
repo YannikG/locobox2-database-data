@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22179",
+  "manufacturer": "Trix",
+  "articleNumber": "22179",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 03.10",
+    "number": "1001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 03.10 der Deutschen Bundesbahn (DB). Unverkleidete Umbauversion mit Neubau-Hochleistungskessel, Witte-Windleitblechen, DB-Reflexglaslampen und umgebautem Schlepptender mit Kohlenkastenklappen und Nachschubeinrichtung. Vorlauf-Drehgestell vorbildentsprechend mit Scheibenräder. Betriebsnummer 03 1001. Betriebszustand um 1963.\n\nModell: Epoche III. Mit DCC-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Kohlenkasten-Abdeckklappen sind mechanisch zu öffnen und zu schliessen. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22179",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/63/a0638e912c4b153998fb74c5298420f21434534582.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}

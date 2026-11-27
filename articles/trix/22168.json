@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22168",
+  "manufacturer": "Trix",
+  "articleNumber": "22168",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "T 3",
+    "number": "6306",
+    "livery": "Mainz",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive der preussischen Gattung T 3 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV), spätere Baureihe 89.70-75. Loknummer 6306 MAINZ. Zweite Hauptbauart ab 1897.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Detailliertes Fahrwerk mit Darstellung der Allan-Steuerung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22168",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/18/f3/18f3af7e9424d3d3053e971e148ade491434534451.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:35Z"
+}

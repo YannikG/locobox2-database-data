@@ -20,6 +20,10 @@ class CleanType(unittest.TestCase):
             ("Bauart G", "G"),
             ("Reihe 2016", "Reihe 2016"),
             ("Serie 1200", "Serie 1200"),
+            ("Serie 5600 (ex Baureihe 52)", "Serie 5600"),
+            ("BR 094 (frühere BR 94.5-17)", "BR 094"),
+            ("BR ET 91", "ET 91"),
+            ("Reihe Dm3", "Dm3"),
             ("BR 185", "BR 185"),
             ("BR E 41", "BR E 41"),
         ]:

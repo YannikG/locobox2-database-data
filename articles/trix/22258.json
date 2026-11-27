@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22258",
+  "manufacturer": "Trix",
+  "articleNumber": "22258",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "XDR 10103",
+    "number": null,
+    "livery": "Kittel",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen XDR 10103, Bauart \"Kittel\" der Französischen Staatsbahnen (SNCF). Flaschengrüne Grundfarbgebung. Betriebszustand um 1949/1950.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Miniaturmotor. Fahrgestell aus Metalldruckguss. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand, Nachbildung des Kessels. Länge über Puffer 13 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22258",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/16/18/161870fbf783a885089d391bf1929f7c1434534392.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

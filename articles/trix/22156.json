@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22156",
+  "manufacturer": "Trix",
+  "articleNumber": "22156",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 59",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 59 der Deutschen Reichsbahn-Gesellschaft (DRG). Ehemalige Reihe K der Königlich Württembergischen Staatseisenbahnen (K.W.St.E.).\n\nModell: Epoche II, Fahrgestell und Aufbau aus Metall-Druckguss. 21-polige digitale Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Treib- und Kuppelachsen angetrieben. 4 Haftreifen. Kurzkupplung zwischen Lok und Tender. Freistehende Laternen mit warmweissen Leuchtdioden. Rauchsatz nachrüstbar. Tender mit erhöhtem Kohleaufsatz. Detaillierter Führerstand, Figuren Lokführer und Heizer liegen bei. Kupplungsaufnahmen nach NEM und Kinematik für Kurzkupplung am Tender. Länge über Puffer 235 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22156",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/7e/877e4155c4c462db83e0f0c0b0c7c4fc1434534656.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22172",
+  "manufacturer": "Trix",
+  "articleNumber": "22172",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 17",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 183.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 17 der Deutschen Bundesbahn (DB). Flaschengrüne Grundfarbgebung. Mit Reichsbahn-Laternen. Sonnenblenden an den Führerständen. Betriebszustand um 1963.\n\nModell: 21-polige Digital-Schnittstelle nach NEM. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen angetrieben. Haftreifen. Führerstände und Maschinenraum mit Inneneinrichtung. Griffstangen und weitere Details separat angesetzt. Detaillierte Ausführung der Dachausrüstung, mit Queranordnung der Tragisolatoren an den Stromabnehmern, sowie den liegenden Glockenisolatoren und Rillenisolatoren. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Länge über Puffer 18,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22172",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/03/50037c7daee3a3cd849afe20956d4b561434534568.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

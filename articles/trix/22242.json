@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22242",
+  "manufacturer": "Trix",
+  "articleNumber": "22242",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 64",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 64 der Deutschen Bundesbahn (DB). Betriebszustand um 1967.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Bremsschlauch-Attrappen und Kolbenstangenschutzrohre beiliegend. Länge über Puffer ca. 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22242",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d5/14/d51488b3f24ab5d8aee116a8227d13de1434534678.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}
