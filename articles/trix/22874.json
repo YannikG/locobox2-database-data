@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22874",
+  "manufacturer": "Trix",
+  "articleNumber": "22874",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ELL",
+    "type": "BR 193",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive Vectron, BR 193 der ELL/LTE. Die sehr interessante \"Flying Dutchman\"-Gestaltung ist zu Ehren der Übergabe der 100. Lokomotive an ELL designt worden. Die Lokomotive ist so ausgerüstet, dass Sie von Rotterdam über Deutschland, Tschechien, Österreich, die Slowakei und Ungarn bis nach Rumänien ans Schwarze Meer fahren kann. Aktueller Betriebszustand.\n\nModell: Elektrolokomotive in Metallausführung, mit Digital-Decoder mfx/DCC und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn das Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). 4 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22874",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/63/0c63b1ffc65ea574ac85b4519cd561ae1534941507.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

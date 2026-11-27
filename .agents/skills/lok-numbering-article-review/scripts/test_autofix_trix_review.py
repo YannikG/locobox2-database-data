@@ -27,6 +27,9 @@ class CleanType(unittest.TestCase):
             ("Be 6/8III", "Be 6/8 III"),
             ("BR VT 08.5", "VT 08.5"),
             ("BR ICM-1", "ICM-1"),
+            ("Re 4/4 II (Serie 420)", "Re 4/4 II"),
+            ("Type GG-1", "GG-1"),
+            ("BR F 140 AC 2", "F 140 AC 2"),
             ("BR 185", "BR 185"),
             ("BR E 41", "BR E 41"),
         ]:

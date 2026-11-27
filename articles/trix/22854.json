@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22854",
+  "manufacturer": "Trix",
+  "articleNumber": "22854",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 74",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe 74 der Deutschen Bundesbahn (DB). Einsatz: Personenzüge.\n\nModell: Epoche III. 21-polige Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. 3-Licht Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 127 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22854",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/9e/1d9e1df9163ab5739ec8f460a0bbb3c01434534494.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22817",
+  "manufacturer": "Trix",
+  "articleNumber": "22817",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 85",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Tenderlokomotive der Baureihe 85 der Deutschen Bundesbahn (DB). Epoche III.\n\nModell: 21-polige Digital-Schnittstelle nach NEM. Hochleistungsantrieb. 5 Achsen angetrieben, Haftreifen. 3-Licht Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Länge über Puffer 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22817",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/07/18/07181ccc92056a655e12cd20ba8c7cc21434534558.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

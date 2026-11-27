@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22778",
+  "manufacturer": "Trix",
+  "articleNumber": "22778",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 403",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektro-Schnelltriebwagen Baureihe 403, 1. Klasse, der Deutschen Bundesbahn (DB). 4-teilige Einheit. 1 Endtriebwagen BR 403 001-1, Avüm, mit Abteilen. 1 Mitteltriebwagen BR 404 101-8, ARüm, mit Küche, Speise- und Grossraum. 1 Grossraum-Mitteltriebwagen BR 404 001-0, Apüm. 1 Endtriebwagen BR 403 002-9, Avüm, mit Abteilen. InterCity-Farbgebung kieselgrau/schwarzbraun. Betriebszustand 1973.\n\nModell: 4-teilige Einheit. Mit DCC-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse im Grossraum-Mittelwagen. Jeweils beide Achsen in beiden Drehgestellen über je einen Motor angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung, Führerstandsbeleuchtung und beleuchtete Tischlampen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, rote Schlusslichter, Innenbeleuchtung und Führerstandsbeleuchtung konventionell in Betrieb, digital gemeinsam schaltbar. Beleuchtete Tischlampen separat digital schaltbar, wechselnd ein- und ausgeschaltet über Zufallsgenerator. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Kulissengeführte mehrpolige stromführende Spezialkupplung zwischen den Fahrzeugen. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Endtriebwagen. Viele angesetzte Details. Detaillierte Ausführung der Dachausrüstung. Pantographen nur mechanisch, nicht elektrisch funktionsfähig. An beiden Enden Nachbildung der Scharfenberg-Kupplung (ohne Funktion). Gleisbogen befahrbar ab Mindestradius 360 mm. Zuglänge über Kupplung 118 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22778",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8e/8f/8e8f1a07e9d955c93e331cbdeb364a0b1434534489.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

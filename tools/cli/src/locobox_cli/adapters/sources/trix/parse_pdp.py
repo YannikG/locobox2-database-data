@@ -16,6 +16,9 @@ from locobox_cli.adapters.sources.maerklin.parse_pdp import parse_maerklin_pdp
 # Trix-only operator hints, tried only when the shared Märklin rules left ``Unbekannt``.
 _EXTRA_OPERATORS: list[tuple[str, str, str]] = [
     (r"Dispolok", "Siemens Dispolok", "DE"),
+    (r"Prignitzer\s+Eisenbahn|\bPEG\b", "PEG", "DE"),
+    (r"New\s+York\s+Central|\bNYC\b", "NYC", "US"),
+    (r"Angel\s*Trains\s*Cargo|\bATC\b", "Angel Trains Cargo", "DE"),
     (r"im\s+Design\s+für\s+den\s+Film|\bFilm\s+[\"„]", "Fiktiv", "DE"),
     (r"Gleisbau-Firma|Privatbahn-Lokomotive|Museumslokomotive", "Privatbahn", "DE"),
     (r"preussische[nr]?\s+(?:\w+\s+)?(?:Nebenbahn|Lokomotive|Gattung)", "KPEV", "DE"),

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22868",
+  "manufacturer": "Trix",
+  "articleNumber": "22868",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RBe 2/4",
+    "number": "607",
+    "livery": "Roter Pfeil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 257.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen Serie RBe 2/4 \"Roter Pfeil\", 2. Klasse der Schweizerischen Bundesbahnen (SBB), in roter Grundfarbgebung. Betriebsnummer 607. Betriebszustand um 1957.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell. 2 Achsen angetrieben. Haftreifen. Schweizer Lichtwechsel, 3-Licht-Spitzensignal und 1 weisses Schlussicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlussicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Über die Funktionstasten können zusätzlich verschiedene Umgebungsgeräusche ausgelöst werden. Scherenstromabnehmer mit schmalem Schleifstück. Gesamtlänge über Puffer 25,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22868",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/4e/934ebd1e0198d6e2621e04d6fd3073d71450030436.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

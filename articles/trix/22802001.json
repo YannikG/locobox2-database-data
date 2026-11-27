@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22802001",
+  "manufacturer": "Trix",
+  "articleNumber": "22802001",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "NYC",
+    "type": "H 6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III",
+    "minRadiusMm": 450.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe H 6 der New York Central (NYC). Standardbauart Achsfolge 2-8-2 \"Mikado\" der United States Railroad Administration (USRA). Einsatz: Reisezug- und Güterverkehr.\n\nModell: Epoche III, mit Digital-Schnittstelle. Hochleistungsmotor mit Glockenanker im Kessel. 4 Achsen angetrieben. Rauchsatz (Märklin 72270) nachrüstbar. Beleuchtung mit wartungsfreier Leuchtdiode (LED). Radreifen mit RP 25 Spurkranz Profil. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Kupplungen kompatibel zum Kadee-System, austauschbar gegen alle gängigen Kupplungssysteme. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren von Lokführer und Heizer für den Führerstand liegen bei. Andere Betriebsnummer als 22801. LüK 290 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22802001",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f3/7a/f37a7790e5db785691f3adcf6d5062ae1434534558.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

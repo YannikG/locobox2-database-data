@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22680",
+  "manufacturer": "Trix",
+  "articleNumber": "22680",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "HGK",
+    "type": "F 140 AC 2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe F 140 AC 2 der \"AngelTrainsCargo\" (ATC), vermietet an die \"Häfen und Güterverkehr, Köln\". Gebaut ab 2005 von Bombardier als Lokomotive aus dem TRAXX Typenprogramm. Einsatz: Güterverkehr.\n\nModell: Epoche VI. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf Kardan auf 4 Achsen. Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Bremsschläuche in langer Ausführung im Beutel beiliegend. Länge über Puffer 217,2 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22680",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/2f/7f2fff47c7f06351c9fafd2107cc64cb1434534561.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

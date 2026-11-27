@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22683",
+  "manufacturer": "Trix",
+  "articleNumber": "22683",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1018.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1018.0 der Österreichischen Bundesbahnen (ÖBB) in sogenannter blutoranger \"Jaffa\"-Lackierung. Umbauversion entsprechend der ÖBB-Vereinheitlichung dieser Baureihe ab 1966. Betriebszustand um 1984.\n\nModell: Mit DCC-Decoder und schaltbarem Lokpfiff. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Stirnbeleuchtung mit sogenannten \"Stielaugen\". Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Einzelheiten. Vorbildgerechte Scheren-Stromabnehmer. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Puffer aus Metall, separat eingesetzt, in gewölbter und flacher Ausführung. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22683",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/12/06/12066145fdd4dff53c8ff3fb7e1d33be1434534536.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

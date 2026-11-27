@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22792",
+  "manufacturer": "Trix",
+  "articleNumber": "22792",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 75.4",
+    "number": "1116",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 146.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Mehrzweck-Tenderdampflokomotive BR 75.4 (ehemalige badische VIc) der Deutschen Reichsbahn (DR) der DDR. Ausführung mit Zweilicht-Spitzensignal mit elektrischen Lampen Bauart DRB und genieteten Wasserkästen. Betriebsnummer 75 1116. Betriebszustand um 1964.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Serienmässig eingebauter Rauchsatz. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22792",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/c2/2cc25e31b40b974b1c02444703acdc291576998011.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

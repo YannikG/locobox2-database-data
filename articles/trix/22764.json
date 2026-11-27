@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22764",
+  "manufacturer": "Trix",
+  "articleNumber": "22764",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.0 der Deutschen Bundesbahn (DB). Vorserienausführung in ursprünglicher Lackierung. Epoche IV.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. Digital-Schnittstelle nach NEM mit Brückenstecker für konventionellen Betrieb. 5-poliger Hochleistungsmotor. 2 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslicht konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Kupplungsaufnahmen nach NEM. LüP 221 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22764",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/aa/0c/aa0c35f9e6ea9b62fcafa9bd628502a31434534563.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

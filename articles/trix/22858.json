@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22858",
+  "manufacturer": "Trix",
+  "articleNumber": "22858",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 130 TB",
+    "number": "717",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie 130 TB der Französischen Staatsbahnen (SNCF). Ehemalige Reihe T 12 der Königlich Preussischen Staatseisenbahnen (K.P.E.V.). Betriebsnummer: 130.TB.717. Einsatz: Personenzüge.\n\nModell: Epoche III. 21-polige Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. 2-Licht Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 127 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22858",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e3/c1/e3c134f523abc10d0d7ac706db1994e51434534584.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

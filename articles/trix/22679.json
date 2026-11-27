@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22679",
+  "manufacturer": "Trix",
+  "articleNumber": "22679",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 152 der Deutschen Bahn AG (DB AG). Ausführung in \"TFG & DB Intermodal\" Werbegestaltung auf verkehrsroter Grundfarbe.\n\nModell: Epoche VI. Fahrgestell und Aufbau aus Metalldruckguss. 8-polige Digital-Schnittstelle nach NEM mit Brückenstecker für konventionellen Betrieb. 5-poliger Hochleistungsmotor. 2 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal und Schlusslicht konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Kupplungsaufnahmen nach NEM. Länge über Puffer 225 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22679",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/22/ff/22ff7a41b4e8d2f19f633890c43e76311434534694.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

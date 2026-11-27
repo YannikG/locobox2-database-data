@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22853",
+  "manufacturer": "Trix",
+  "articleNumber": "22853",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "T 12",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Reihe T 12 der Königlich Preussischen Staatseisenbahnen (K.P.E.V.). Einsatz: Personenzüge.\n\nModell: Epoche I. 21-polige Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. 2-Licht Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 127 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22853",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/cf/2ecfa3b408e687af33c81ae42e8a71e51434534552.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

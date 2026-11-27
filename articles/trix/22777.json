@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22777",
+  "manufacturer": "Trix",
+  "articleNumber": "22777",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 III",
+    "number": null,
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Ce 6/8 III der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Dunkelbraune Grundfarbgebung. Bauart mit Schrägstangenantrieb. Betriebszustand um 1930.\n\nModell: Mit DCC-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und Blindwelle angetrieben. Haftreifen. Fahrtrichtungsabhängiger Schweizer Lichtwechsel (Dreilicht-Spitzensignal/1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurvengängiges Gelenkfahrwerk. 3-teiliges Metallgehäuse mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung. Länge über Puffer 23 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22777",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/60/7c/607c8190202eb2632e374e3612b015ac1434534443.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

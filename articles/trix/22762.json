@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22762",
+  "manufacturer": "Trix",
+  "articleNumber": "22762",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 6400",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 6400 der Niederländischen Staatsbahnen (NS). Dieselhydraulische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), weiterentwickelt aus den Standardlokomotiven der früheren MaK.\n\nModell: Fahrgestell und Aufbau aus Metall-Druckguss mit Kunststoff-Ansatzteilen. Glockenanker-Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. 4 Haftreifen. 8-polige Digital-Schnittstelle. Dreilicht-Spitzensignal / rote Schlusslichter fahrtrichtungsabhängig wechselnd. Beleuchtung mit wartungsfreien LED. LüP 165 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22762",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/df/62/df62faf0b8274182c186b2a4cc71c9631434534468.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

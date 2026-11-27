@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22810",
+  "manufacturer": "Trix",
+  "articleNumber": "22810",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "GG-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Typ GG-1 der Pennsylvania Railroad (PRR). Achsfolge 4-6-6-4. Gebaut von General Electric und Westinghouse ab 1934. Ursprungsausführung im Standard-Design Brunswick Green mit 5 Zierlinien. Einsatz: Güterzüge und Personenzüge auf Hauptstrecken der PRR, später Penn Central, Conrail und Amtrak.\n\nModell: Epoche II und III, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder nach DCC-Standard mit Geräuschgenerator. Hochleistungsmotor mit Glockenanker zentral eingebaut. 4 Achsen in beiden Treibgestellen angetrieben. Kurvengängiges Fahrwerk mit 2 Treibund 2 Laufgestellen. Spitzensignal konventionell in Betrieb, digital schaltbar. Fernlicht, Führerstandsbeleuchtung 1 und 2, Anfahr- und Bremsverzögerung sowie mehrere Betriebsgeräusche mit Trix Systems oder DCC digital schaltbar. Leistungsfähiger Lautsprecher. Grosse Dachstromabnehmer amerikanischer Bauart. Angesetzte Griffstangen aus Metall. Radsätze nach amerikanischer Norm RP 25. Kupplungen kompatibel zum Kadee-System. LüK 280 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22810",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/8f/ba8fd47a01e3e5352927ff5a7b0d28f41434534533.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

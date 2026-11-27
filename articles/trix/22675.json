@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22675",
+  "manufacturer": "Trix",
+  "articleNumber": "22675",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 75.9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: 2-teiliger Dieseltriebwagen bestehend aus Motorwagen Baureihe VT 75.9 und Beiwagen Baureihe VB 140, 2. Klasse, der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Führerstände am Motorwagen mit Blendschirmen und je Führerstandsseite ein Typhon mit gebogenem Horn. Dachausführung des Motorwagens mit aufgesetzten Dachkühlern sowie Zu- und Abflussrohre und zusätzlichen Stellstangen. Motorwagen und Beiwagen mit Stangenpuffer. Betriebsnummern VT 75 902 und VB 140 042. Betriebszustand um 1959.\n\nModell: Mit DCC-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen. Beide Achsen im Motorwagen angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung im Motorwagen und Beiwagen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter am Motorwagen, sowie Innenbeleuchtungen konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Rotes Schlusslicht am Motorwagen ist an der Seite 2 zum Beiwagen hin separat digital abschaltbar. Beiwagen vorbildgerecht ohne Spitzensignal. Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel-Verbindung mit Kulissenführungen. Inneneinrichtungen. Freier Durchblick im Motorwagen und Beiwagen. Am Motorwagen separat angesetzte Leiter. Länge über Puffer der zweiteiligen Garnitur 28,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22675",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/18/5c/185c394a572b71a0b2508e9fc547564d1434534510.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

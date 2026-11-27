@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22775",
+  "manufacturer": "Trix",
+  "articleNumber": "22775",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 6/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Elektrolokomotive der Reihe Ae 6/6 der Schweizerischen Bundesbahnen (SBB), im aktuellen Betriebszustand von 2009 als Re 610 in Cargo-Farbgebung, Epoche VI, mit dem Loknamen \"Landquart\".\n\nModell: Lokomotive mit geregeltem Hochleistungsantrieb und 21-poliger Schnittstelle. 3 Achsen angetrieben. Haftreifen. Angesetzte Aufstiegs-Metallgriffstangen. Bei konventionellem Betrieb mit der Fahrtrichtung wechselndes Dreilicht-Spitzensignal und Schweizer Einfach-Schlusslicht ständig leuchtend, im Digitalbetrieb mit nachgerüstetem Decoder schaltbar. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22775",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/43/ba43b78997c2c8a555209cc45cdb1d5f1434534410.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22855",
+  "manufacturer": "Trix",
+  "articleNumber": "22855",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 96",
+    "number": "015",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie 96 der Belgischen Staatbahnen (SNCB/NMBS). Ehemalige Reihe T 12 der Königlich Preussischen Staatseisenbahnen (K.P.E.V.). Einsatz: Personenzüge. Betriebsnummer: 96 015.\n\nModell: Epoche III. 21-polige Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. 3-Licht Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 127 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22855",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/66/8c6657db58c7e3c0aeeab2f012013ce61434534686.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

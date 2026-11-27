@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22886",
+  "manufacturer": "Trix",
+  "articleNumber": "22886",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "GB",
+    "operator": "Unbekannt",
+    "type": "Class A3",
+    "number": "60103",
+    "livery": "Flying Scotsman",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 245.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive mit Schlepptender der Klasse A3. Ausführung als Museumslokomotive 60103. Aktueller Betriebszustand im Aussehen von 1963 mit Korridor-Tender und Windleitblechen, so wie die Lokomotive derzeit betriebsfähig im National Railway Museum in York beheimatet ist.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und eine Lampe an der Tenderrückseite konventionell in Betrieb, digital schaltbar. Lampe an der Tenderrückseite kann auf rotes Licht umgeschaltet werden. Drittes Spitzenlicht an der Lokfront als elektrische Lampe separat zu- und auf rote Beleuchtung umschaltbar. Führerstandsbeleuchtung und Feuerbüchsenflackern digital schaltbar. Beleuchtung des Tender-Durchgangs digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Pufferhöhe an Lok und Tender nach NEM. Bremsschläuche, Schraubenkupplungsimitationen und geschlossene Zylinderdeckel liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22886",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/22/15/221503efc088cc81e2f19c78c5fbc4e11680933613.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

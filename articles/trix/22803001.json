@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22803001",
+  "manufacturer": "Trix",
+  "articleNumber": "22803001",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 2400",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III",
+    "minRadiusMm": 450.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2400 der Union Pacific Railroad (UP). Standardbauart Achsfolge 2-8-2 \"Mikado\" der United States Railroad Administration (USRA). Einsatz: Reisezug- und Güterverkehr.\n\nModell: Epoche III, mit Digital-Schnittstelle. Hochleistungsmotor mit Glockenanker im Kessel. 4 Achsen angetrieben. Rauchsatz (Märklin 72270) nachrüstbar. Beleuchtung mit wartungsfreier Leuchtdiode (LED). Radreifen mit RP 25 Spurkranz Profil. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Kupplungen kompatibel zum Kadee-System, austauschbar gegen alle gängigen Kupplungssysteme. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren von Lokführer und Heizer für den Führerstand liegen bei. LüK 290 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22803001",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/7e/c37e7bb31d1eeff31dad4735d8a82bb81434534648.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

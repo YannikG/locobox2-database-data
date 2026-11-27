@@ -35,6 +35,8 @@ def clean_type(t: str) -> str:
     s = t.strip()
     s = re.sub(r",?\s+(?:im\s+Design|zugelassen\s+bei)\b.*$", "", s)
     s = re.sub(r"\s+und\s+\d+$", "", s)
+    s = re.sub(r"\s*\(Serie\s+\d+\)", "", s)
+    s = re.sub(r"^Type\s+(?=[A-Z])", "", s)
     s = re.sub(r"\s*\((?:ex|ehem\.?|frühere?)\b[^)]*\)", "", s)
     s = re.sub(
         r"^[A-Za-zÄÖÜäöüß\-]*(?:lokomotive|lok|triebwagen)\.?\s+(?:Bauart|Gattung|Reihe|Serie|Typ)\s+",
@@ -43,7 +45,7 @@ def clean_type(t: str) -> str:
     )
     s = re.sub(r"^(?:Bauart|Gattung)\s+(?=[A-Z])", "", s)
     s = re.sub(r"^(?:Reihe|Serie)\s+(?=[A-Z][A-Za-z]{0,3}(?:\s|\d|$))", "", s)
-    s = re.sub(r"^BR\s+(?=(?:EP|SVT|Köf|ET|ES|VT|ICM)\b)", "", s)
+    s = re.sub(r"^BR\s+(?=(?:EP|SVT|Köf|ET|ES|VT|ICM|F\s?\d+)\b)", "", s)
     s = re.sub(r"^BR\s+(?=[A-Z][A-Za-z]{0,2}\s\d+/\d)", "", s)
     s = re.sub(r"(\d/\d)([IVX]+)$", r"\1 \2", s)
     s = re.sub(r"^(\D+?\s\d+)\s+bis\s+(\d+)$", r"\1-\2", s)
