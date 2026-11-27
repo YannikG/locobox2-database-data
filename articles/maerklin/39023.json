@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39023",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39023",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18",
+    "number": "320",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 267.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive mit Schlepptender der Baureihe 18.3, ehemalige badische IVh, der Deutschen Reichsbahn-Gesellschaft ( DRG ). Saphierblaue und rotbraune Grundfarbgebung. Betriebsnummer 18 320. Betriebszustand um 1924.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Auslieferung mit dekorativem Präsentationsbrett mit Schiene. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39023",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/96/2e9643769f9c62adc69c26c68c1192801434539099.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

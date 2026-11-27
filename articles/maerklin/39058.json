@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39058",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39058",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 05",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Stromlinien-Schnellzuglokomotive Baureihe 05 der Deutschen Reichsbahn (DR). Ausführung mit voller Stromlinien-Verkleidung. Fiktive stahlblaue Grundfarbgebung mit Zierstreifen. Lok-Betriebsnummer 05 001. Betriebszustand Ende 1930er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Geschlossene Seitenverkleidungen ohne zusätzliche Aussparungen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Raucheinsatz konventionell in Betrieb, digital schaltbar. Dritte Lampe vorne als Gegenzugsignal separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Feste Kurzkupplung zwischen Lok und Tender. Bogenfahrt ab normalem Radius 360 mm möglich. Decoder unter aufschiebbaren Tenderhauben zugänglich. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39058",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/81/20/8120ff3b28e0ec56a55d39048d1765431517900412.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

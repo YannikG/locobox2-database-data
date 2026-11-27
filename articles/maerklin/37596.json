@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37596",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37596",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Ae 8/14",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Ae 8/14 der Schweizerischen Bundesbahnen SBB . Ausführung in Epoche III.\n\nModell: Elektrolokomotive Ae 8/14 mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. Haftreifen . 4 Achsen angetrieben. Fahrtrichtungsabhängiges Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer : 39,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37596",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/8f/1d8f40d85852d61ffcd3a3784e5375de1434539217.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

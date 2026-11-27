@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37603",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37603",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 11.5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "Unbekannt"
+  },
+  "description": "Vorbild: TEE Diesel- Triebzug Baureihe VT 11.5 als 7-teilige Einheit der Deutschen Bundesbahn (DB). 1 Triebkopf Pw4ü, 1 Abteilwagen A4ü, 1 Grossraumwagen A4y, 1 Abteilwagen mit Speise-/Barraum AR4y, 1 Mittelwagen mit Küche/Speiseraum AR4y, 1 Abteilwagen A4ü, 1 Triebkopf Pw4ü. Vorbildbezogene Zugreihung der Ursprungsausführung von 1957.\n\nModell: 7-teilige Zuggarnitur. Triebkopf- und Mittelwagen-Aufbauten mit 24 Karat Feingold beschichtet. Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Jeder Triebkopf mit geregeltem Hochleistungsantrieb. Je Triebkopf ein Drehgestell auf beiden Achsen angetrieben. Haftreifen . Mittelwagen mit serienmässig eingebauter Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Mehrpolige stromführende Spezialkupplungen und dicht schliessende Übergangsblenden mit Kulissenführungen zwischen den Fahrzeugen. An den Enden Nachbildung der abgedeckten Scharfenberg- Kupplung (ohne Funktion). Der Triebzug wird in einer exklusiven Verpackung mit Echtheitszertifikat ausgeliefert. Triebzug und Echtheitszertifikat sind durchnummeriert. Zuglänge über Kupplungen 151 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37603",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a2/bd/a2bde94be740ae7fb918fd1f7bc349961485361950.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37437",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37437",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Ae 6/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Ae 6/6 der SBB . Ausführung in Epoche III.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Haftreifen . 3 Achsen angetrieben. Fahrtrichtungsabhängiges Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer : 21 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37437",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/7d/2d7deef347f6868cdcf80fb375daacbe1434538793.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

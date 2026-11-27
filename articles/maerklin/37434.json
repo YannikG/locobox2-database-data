@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37434",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37434",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Original Weltrekord-Lok, einmalige Serie.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 143 der Deutschen Bahn AG ( DB AG ), Achsfolge Bo´Bo´.\n\nModell: Lokomotive in aktueller verkehrsroter Grundfarbgebung mit eckigen Puffern und eckigen Dachkanten. Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Führerstände mit Inneneinrichtung. Fahrtrichtungsabhängig wechselndes 3-Licht- Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Schlusslichter und Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Systems schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37434",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/65/3b/653b51f3a0ac1dd5098d6b010a9cc79d1434539048.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}

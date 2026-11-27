@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39208",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39208",
+  "releaseDate": null,
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 01.5",
+    "number": "508",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 282.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.5 der Deutschen Reichsbahn der DDR (DR/DDR), mit Öl-Hauptfeuerung und Einheitstender 2´2´T34 als Öl-Tender. Fiktive stahlblaue F-Zug-Farbgebung mit schwarzer Rauchkammer und silberfarbenen Kesselringen. Witte-Windleitbleche in spezieller Bauform, Boxpok -Räder und Pufferteller-Warnanstrich. Betriebsnummer 01 508. Betriebszustand um 1968.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Raucheinsatz aus 7226 liegt zum Einbau serienmässig bei. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Zusätzlich liegt eine Lokführer- und eine Heizer-Figur bei. Befahrbarer Mindestradius 360 mm. Mit Präsentationssockel. Länge über Puffer 28,2 cm. #Modelleisenbahn #Modellbahn",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39208",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/f2/d2f2008355a6a4bc103272bb85edcb8b1591342198.jpg"
+  },
+  "updatedAt": "2026-11-27T10:06:28Z"
+}
