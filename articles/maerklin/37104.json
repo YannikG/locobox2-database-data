@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37104",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37104",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 01",
+    "number": "1001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 281.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.10 der Deutschen Bundesbahn (DB) mit Kohlen- Schlepptender . Unverkleidete Umbauversion mit Neubau-Hochleistungskessel, Witte-Windleitblechen, hohen Sandkästen und silbernen Kesselringen. Betriebsnummer 01 1001. Betriebszustand um 1954/55.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Triebwerksbeleuchtung zusätzlich digital schaltbar. Am Tender Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 28,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37104",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d3/b9/d3b924a2fbca7745884cb9250fcdd20a1434539335.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

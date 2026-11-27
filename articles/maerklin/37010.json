@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37010",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37010",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 110",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe 110.3 der Deutschen Bahn AG ( DB AG ). Schnellfahrlokomotive mit aerodynamischer Front, mit der sogenannten \"Bügelfalte\". Umbau-Version mit rechteckigen Klatte-Lüftergittern, rechteckigen Maschinenraumfenstern, ohne umlaufende Regenrinne, ohne Schürze und Pufferverkleidung. Aktueller Betriebszustand, ca. 2007.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37010",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/07/58075ef037a392adc8925ae885e6dc9f1434538971.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

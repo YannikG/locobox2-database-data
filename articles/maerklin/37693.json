@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37693",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37693",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Lok Nr.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 145.0
+  },
+  "description": "Vorbild: Lok Nr. 31 der Dortmunder Eisenbahnen. Dieselelektrische Ausführung der MaK-Universallok in Epoche V.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse . Alle Achsen angetrieben. Haftreifen . Spitzensignal vorne und hinten separat abschaltbar. Länge über Puffer 14,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37693",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cb/0f/cb0fe14b33139efd9b4f3bb43936659d1434539431.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

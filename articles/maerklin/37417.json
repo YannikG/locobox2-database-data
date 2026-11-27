@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37417",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37417",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "2 Elektrolokomotiven.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: 2 Elektrolokomotiven der Reihe 1043 der Österreichischen Bundesbahnen ( ÖBB ). Eine Ausführung im Valousek-Design und eine Ausführung im klassischen Schweden-Design. Betriebszustand ca. 2001.\n\nModell: Beide Lokomotiven mit Digital- Decoder mfx und Lokpfiff. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer jeweils 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37417",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/23/d6/23d644665f0ff0acaf25098d86e4958c1434539476.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

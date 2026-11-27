@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37435",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37435",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 143",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 143 der RBH Logistics GmbH, Gladbeck. Aktueller Betriebszustand.\n\nModell: Lokomotive mit mfx - Decoder , geregeltem Hochleistungsantrieb und schaltbarem Signalhorn. 2 Achsen angetrieben. Haftreifen . Führerstände mit Inneneinrichtung. Fahrtrichtungsabhängig wechselndes 3-Licht- Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37435",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0d/e2/0de200787745808053d59848f62023b71434539133.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

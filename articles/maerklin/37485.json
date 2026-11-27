@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37485",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37485",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.0 der Deutschen Bundesbahn (DB). Vorserienausführung in ursprünglicher Lackierung.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und seriell schaltbaren Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung, Pfeifsignal sowie Anfahr- und Bremsverzögerung digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37485",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/61/ff/61ff30f52440782605c92731a529afa31434539168.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

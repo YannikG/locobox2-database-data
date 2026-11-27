@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37581",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37581",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR ET 91",
+    "number": null,
+    "livery": "Gläserner Zug",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Elektrischer Aussichtstriebwagen Baureihe ET 91 \"Gläserner Zug\" der Deutschen Bundesbahn (DB). Farbgebung purpurrot/beige. Mit Einfachlampen an den Stirnseiten, mit Luftpfeife auf dem Dach statt Makrophon, ohne Zugbahnfunk, mit 2 Scheren-Stromabnehmern. Betriebszustand um 1965.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Innenbeleuchtung kann als digitale Zusatzfunktion gedämpft werden. Drehgestelle mit vorbildgerecht unterschiedlich langen Radständen. Eingebaute Inneneinrichtung. Eingesetzte Panorama-Fenster. Ausführung mit 2 Scheren-Stromabnehmern. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37581",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/71/81/71811beb7add374a017445f497eb1a951434539345.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

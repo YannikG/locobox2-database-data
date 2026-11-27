@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37787",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37787",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Hochgeschwindigkeitszug Velaro Sapsan .",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug Velaro Sapsan . Baureihe 406 der Russischen Staatsbahn (RZD), Betriebszustand Ende 2009 für den Regelverkehr zwischen Moskau und St. Petersburg.\n\nModell: 5-teilige Ausführung. Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Fernscheinwerfer und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben, Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Pantographen sind mechanisch funktionsfähig. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge des Zuges 142,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37787",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/69/246993527bc0653e5201cfad947e025b1434539167.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

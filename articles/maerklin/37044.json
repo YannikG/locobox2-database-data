@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37044",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37044",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie Re 4/4 I",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 171.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 I der Schweizerischen Bundesbahnen ( SBB ). Zweite Bauserie in grüner Grundfarbgebung. Betriebszustand um 1988.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Alle 4 Achsen über Kardan angetrieben. Haftreifen . Separat angesetzte Dachlauftritte. Eingesetzte Griffstangen aus Metall. Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 17,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37044",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/56/e756fa6c6206ae54b87a185bbec851861434538831.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

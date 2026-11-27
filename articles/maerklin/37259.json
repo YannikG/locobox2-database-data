@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37259",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37259",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Dampfspeicherlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Werkseisenbahn Rangierlokomotive .\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Mit geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Kessel-Aufstiegsleiter aus Metall. Zahlreiche separat angesetzte Details. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37259",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/33/38/33389e929f14d7c159586f1ae5a5b0c51543302024.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

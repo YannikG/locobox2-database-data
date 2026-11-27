@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37041",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37041",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Rangierlokomotive Nr.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Rangierlokomotive Nr. 5 der Klöckner-Werke AG, eingesetzt für Verschiebedienste auf dem Zechengelände. Frühere Baureihe 80 014 der Deutschen Bundesbahn (DB). Betriebszustand um 1970.\n\nModell: Lokomotive mit mfx - Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele separat angesetzte Details. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37041",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/e8/c3e8d3bfee895a775d135f39a57473c91434538736.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

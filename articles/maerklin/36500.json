@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36500",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36500",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "DHG 500",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive DHG 500 der Vopak Dupeg Terminal Hamburg GmbH, Hamburg-Neuhof. Aktueller Betriebszustand.\n\nModell: Lokomotive mit Digital- Decoder und Spezialmotor. 1 Achse angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36500",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/75/24/7524d26af18b4c2010af0c5177a832f81434539269.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

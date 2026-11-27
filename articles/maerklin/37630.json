@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37630",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37630",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "HGK",
+    "type": "2 x Diesellokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 330.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ DE 1002 in Doppeltraktion. Lokomotiven eingestellt bei der Häfen und Güterverkehr Köln AG (HGK).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfuntkionen. Eine Lokomotive mit geregeltem Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen LED . Dreilicht-Spitzensignal und 2 rote Schlusslichter über beide Lokomotiven konventionell in Betrieb, digital schaltbar. Lokomotiven mit 4-poliger Steckkupplung verbunden. Länge über Puffer 33 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37630",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5c/5b/5c5b7b160f53472b43e7866ba2eefd1f1434538756.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

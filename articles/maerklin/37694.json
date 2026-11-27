@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37694",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37694",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "MaK DE 1002",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 145.0
+  },
+  "description": "Vorbild: Dieselelektrische Verschublokomotive Typ MaK DE 1002 der Northrail GmbH, Hamburg. Seit Januar 2011 ist die Lokomotive vermietet an die Seehafen Kiel GmbH & Co. KG. Epoche VI.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse . Alle Achsen angetrieben. Haftreifen . Spitzensignal vorne und hinten separat abschaltbar. Länge über Puffer 14,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37694",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/95/92/95922045140e207d33a4c3788157c00c1434538660.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

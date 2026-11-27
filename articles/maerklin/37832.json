@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37832",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37832",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Güterzug-Lokomotive Baureihe 50 der Österreichischen Bundesbahnen ( ÖBB ). Ausführung mit Kastentender und Wagner-Windleitblechen. Betriebszustand um 1954.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und umfangreichen Soundfunktionen. Motor im Kessel. 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kurzkupplung in NEM -Aufnahme am Vorlaufgestell . Verstellbare Kurzkupplung zwischen Lokomotive und Tender. Länge über Puffer 26,3/26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37832",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/12/9a12452bdd3a837ffb1b3568797aa9d41434539234.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

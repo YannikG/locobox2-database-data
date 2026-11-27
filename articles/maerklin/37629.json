@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37629",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37629",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Dieselelektrische Lokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Typ General Motors EMD F7 der Union Pacific . Dreifacheinheit aus A-Unit, B-Unit und B-Unit.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Jeweils 1 Motor in der A-Unit und einer B-Unit, Lautsprecher in der anderen B-Unit eingebaut. Je motorisierter Unit 2 Achsen angetrieben. Haftreifen . Spitzensignal mit beleuchteten Nummerntafeln konventionell an, digital schaltbar. Geräuschgenerator mit Diesellok-Fahrgeräuschen. Feste Deichsel zwischen allen Lokomotiveinheiten. Schneeräumer zum Ansetzen beigelegt. Länge 52 cm bzw. 12,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37629",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/94/c6/94c6c213777590b107bc417e9b320d341434539360.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36827",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36827",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 323",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Baureihe 323 der Deutschen Bundesbahn (DB). Ausführung mit geschlossenem Führerhaus.\n\nModell: Mit Digital- Decoder mfx und Telex - Kupplung . 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Separat angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36827",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bb/89/bb89c9bdba31008bca7827acc39ffebf1434539288.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

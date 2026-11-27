@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37404",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37404",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 140",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe 140 der Deutschen Bundesbahn (DB). Güterzuglokomotive in grüner Grundfarbgebung. Betriebszustand ca. 1989.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden bzw. roten Leuchtdioden konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37404",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c5/e5/c5e503f76c2fc445944c52f9576e8e5e1434538807.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

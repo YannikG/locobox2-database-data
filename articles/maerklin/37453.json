@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37453",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37453",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 45",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 295.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 45 der Deutschen Reichsbahn ( DRB ).\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. 5 Achsen angetrieben, Haftreifen . Eingerichtet für Rauchsatz 7226. Spitzensignal und Rauchsatz-Kontakt konventionell in Betrieb, digital schaltbar. Dampflok-Fahrgeräusch und Lokpfiff sowie Anfahr- und Bremsverzögerung. Flackern in der Feuerbüchse und weitere Betriebsgeräusche mit Systems schaltbar. Tender aus Metall mit Kurzkupplung zur Lokomotive. Nachbildung des Innenzylinders. Zahlreiche separat angesetzte Leitungen und Griffstangen. Länge über Puffer 29,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37453",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/22/8f226a1f22b6c957d4730791e4d6f77f1434539022.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

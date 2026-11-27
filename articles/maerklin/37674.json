@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37674",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37674",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 55",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 226.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 55 der Belgischen Staatsbahnen (SNCB/NMBS). Frühere Serie 205. Kennzeichnung mit Sonderbeschriftung ATB/ PZB 90. Zusätzliche Antennen auf dem Führerhausdach. Aktueller Betriebszustand um 2007.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Länge über Puffer 22,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37674",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1e/85/1e85eb50f8a4922744a9f2e85706bfd21434539195.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

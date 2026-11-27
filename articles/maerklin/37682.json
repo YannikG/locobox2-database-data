@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37682",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37682",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 118",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 118 der Deutschen Bundesbahn (DB). Farbgebung in kobaltblau, Zustand um 1979.\n\nModell: Mit Digital- Decoder mfx und schaltbarem Lokpfiff. 2 Achsen angetrieben. Haftreifen . Führerstände und Maschinenraum mit Inneneinrichtung. Metall-Griffstangen und weitere Details separat eingesetzt. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit warmweissen LED konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37682",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a4/78/a478affc0d793ab7499eeb8900f3b8581434538848.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

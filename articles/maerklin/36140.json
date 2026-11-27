@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36140",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36140",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.W.St.E.",
+    "type": "Klasse T3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 108.0
+  },
+  "description": "Vorbild: Tenderlokomotive Klasse T3 der württembergischen Staatseisenbahnen ( K.W.St.E. ).\n\nModell: Mit Digital- Decoder . 1 Achse angetrieben. Haftreifen . Kupplungshaken . Länge über Puffer 10,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36140",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b0/fa/b0fa2f9fd474d0d7811988555b14673d1466694684.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

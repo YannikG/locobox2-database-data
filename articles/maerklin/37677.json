@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37677",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37677",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe MY 1100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 205.0
+  },
+  "description": "Vorbild: Diesellokomotive Reihe MY 1100 der Dänischen Staatsbahnen (DSB). Dieselelektrische NOHAB-Mehrzwecklokomotive in schwarz/roter Farbgebung der Epoche V mit Schneeräumern.\n\nModell: Geregelter Hochleistungsantrieb mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 20,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37677",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/77/487752e9680bcede595f082b9b62aefa1434539325.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

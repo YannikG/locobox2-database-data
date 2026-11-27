@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37283",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37283",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 188",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 258.0
+  },
+  "description": "Vorbild: Dieselelektrische Doppeleinheit Baureihe V 188 der Deutschen Bundesbahn (DB). Ausführung in purpurroter Farbgebung. Betriebszustand Anfang der 1960er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Lokomotiven mit Motor. 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zwischen den Lokomotiven Spezial- Kurzkupplung mit Kulissenführung. Länge über Puffer 25,8 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37283",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/77/58/7758fc9a4c743d7e87f04a4483a206ec1434539268.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}

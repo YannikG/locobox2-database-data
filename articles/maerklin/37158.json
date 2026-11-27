@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37158",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37158",
+  "releaseDate": "2011",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Reihe 63a (ex Baureihe 52)",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Reihe 63a (ex Baureihe 52) der Norwegischen Staatsbahnen (NSB). Ausführung mit Wannentender , geschlossenem Führerhaus und Witte-Windleitblechen. Zustand 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Motor im Kessel der Lokomotive. 5 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok-Vorderseite und 2 weisse Schlusslichter am Tender konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37158",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/bd/26/bd260861dd1a83cab9a0d0449427d4651434538665.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:53Z"
+}

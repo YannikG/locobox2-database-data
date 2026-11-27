@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36744",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36744",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 5906",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Serie 5906 der Niederländischen Eisenbahnen ( NS ). Die BR 74 924 der Deutschen Reichsbahn, war als 5906 in den Niederlanden im Einsatz. Zustand 1946/1947.\n\nModell: Mit Digital- Decoder und Spezialmotor mit Schwungmasse . 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36744",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/16/7d/167d2d51fe0b22db1c404f5fcc7c85a01434538701.jpg"
+  },
+  "updatedAt": "2026-11-27T10:04:52Z"
+}
