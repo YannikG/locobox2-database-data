@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25295",
+  "manufacturer": "Trix",
+  "articleNumber": "25295",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "BUG Verkehrsbau",
+    "type": "BR 248",
+    "number": "024-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Zweikraftlokomotive BR 248 (Vectron Dual Mode) der BUG Verkehrsbau SE, Berlin. Aus der Vectron-Produktfamilie von Siemens. Betriebsnummer 248 024-2. Betriebszustand ab 2023.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd digital schaltbar. Fernscheinwerfer separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Pufferhöhe nach NEM. Bremsschläuche liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 23 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25295",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d7/0c/d70c14cf0691653271ee0ee8790d5a141702904421.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22900",
+  "manufacturer": "Trix",
+  "articleNumber": "22900",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 300",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 233.0
+  },
+  "description": "Vorbild: Schwere Grossdiesel-Lokomotive Baureihe V 300 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive V 300 im Betriebszustand der 1960er-Jahre.\n\nModell: Mit DCC-/Selectrix-Decoder, geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Hochleistungsmotor in kompakter Bauform. 4 Achsen vom zentral eingebauten Motor über Kardan angetrieben. Haftreifen. Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle mit eingesetzten Bremsschläuchen, jeweils ein flacher und abgerundeter Pufferteller. Kupplungen gegen geschlossene Frontschürzen und Kupplungshaken mit Schraubenimitationen austauschbar. Länge über Puffer 23,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22900",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/18/da189f721a36a168b901bd1dbf1aab0c1434534497.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25442",
+  "manufacturer": "Trix",
+  "articleNumber": "25442",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "KCS",
+    "type": "GE ES44AC",
+    "number": "4848",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Schwere dieselelektrische Güterzuglokomotive Typ General Electric ES44AC der Kansas City Southern (KCS). Gelb/Rot/Schwarze Grundfarbgebung. Betriebsnummer 4848. Aktueller Betriebszustand.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Je zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsunabhängig schaltbare Spitzenbeleuchtung bestehend aus vier Lampen an der Front und zwei nebeneinander positionierten Lampen am Heck der Lokomotive. Spitzensignal konventionell in Betrieb und jeweils paarweise separat digital abschaltbar. Führerstandsbeleuchtung, Betriebsnummerntafeln, Fernlicht und Blinkfunktion der Spitzenlichter digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Serienmässig eingebauter Rauchgenerator mit dynamischem Rauchausstoss, digital schaltbar. Viele separat angesetzte Details. Für den Betrieb mit Klauenkupplungen kann der NEM-Schacht mittels beiliegenden Klemmstücken fixiert werden. Ein Schienenräumer mit geringerer Aussparung für die Front, Bremsschläuche und zwei Klemmstücke für den NEM-Schacht liegen bei. Länge über Kupplung ca. 27 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25442",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/b9/9cb97d96fa09c38b5d8173e8da603dbc1692360007.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

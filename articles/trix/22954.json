@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22954",
+  "manufacturer": "Trix",
+  "articleNumber": "22954",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KVG",
+    "type": "VT 54",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Schienenbus-Motorwagen Baureihe VT 54 der Kahlgrund-Verkehrsgesellschaft mbH. Ausführung mit Werbebeschriftung der Firma Jägermeister, Zustand um das Jahr 1970.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Serienmässig eingebaute Innenbeleuchtung. Inneneinrichtung. Spitzensignal sowie Innenbeleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22954",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/f2/03f2cc8cfce268844d70b4f4a6af6af31434534688.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

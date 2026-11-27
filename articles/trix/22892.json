@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22892",
+  "manufacturer": "Trix",
+  "articleNumber": "22892",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 78.10",
+    "number": "1002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 199.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive 78 1002, Bauart 2’C2’h2 mit zweiachsigem Kurztender 2T17 der Deutschen Bundesbahn (DB). Ausführung mit Dreilicht-Spitzensignal im Zustand um 1958.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Feuerbüchsenflackern digital schaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden (LED). Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen sind beigelegt. Lokführer- und Heizerfigur liegen serienmässig bei. Länge über Puffer ca. 19,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22892",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/10/e5108b25fc312c2c0bf9c9f970f3665c1696939208.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

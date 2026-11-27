@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25330",
+  "manufacturer": "Trix",
+  "articleNumber": "25330",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ee 3/3",
+    "number": "16352",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektrische Rangierlokomotive Serie Ee 3/3 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Feuerrote Grundfarbgebung. Zweite Bauserie ab 1932, mit Führerhaus in der Mitte liegend. 2 Rangierbühnen. Lok-Betriebsnummer 16352. Betriebszustand um 2005.\n\nModell: Mit Digital-Decoder und Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 weisse Schlusslichter konventionell in Betrieb, digital schaltbar. Zusätzlich Schweizer Lichtwechsel mit einem weissen Schlusslicht bei Lok mit Wagen und einem roten Schlusslicht bei Solofahrt der Lok digital schaltbar. Doppel-A-Lichtfunktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit neuer Telex-Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer. Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und vorbildgetreue Kupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25330",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4b/de/4bde94af29682de5f4c2c055f7e00bf71724166020.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

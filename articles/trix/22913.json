@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22913",
+  "manufacturer": "Trix",
+  "articleNumber": "22913",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "EST",
+    "type": "Serie 13 EST",
+    "number": "241 A 002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 304.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schwere Schnellzug-Dampflokomotive mit Schlepptender Serie 13 (241-A) der Französischen Ostbahn (EST). Ausführung als Lokomotive für den Simplon-Orient-Express. Typspezifische Änderung der Windleitbleche und 2-Licht-Spitzensignal mit einer Lampe oben und einer Lampe unten. Lok-Betriebsnummer 241 A 002. Betriebszustand um 1933.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist eine Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 437,5 mm. Bremsschläuche, Heizkupplung und Schraubenkupplungsimitation liegen bei. Länge über Puffer 30,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22913",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/27/0e279cc929f8ac789f226ae2f4bc6a8c1571464832.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

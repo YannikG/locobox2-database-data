@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22992",
+  "manufacturer": "Trix",
+  "articleNumber": "22992",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 95.9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schienenbus-Triebwagen Baureihe VT 95.9 mit Einachs-Anhänger VB 141.2 der Deutschen Bundesbahn (DB). Triebwagen VT 95 9165 der ersten Bauserie, in purpurroter Ursprungsfarbgebung, mit Oberlicht-Fenster über dem Führerstand. Einachs-Anhänger VB 141 254 in purpurroter Farbgebung, mit Schlusslichtern. Betriebszustand um 1955/56.\n\nModell: Triebwagen mit Digital-Decoder und umfangreichen Geräusch- und Licht-Funktionen. Über die Funktionstasten können zusätzlich zu den geläufigen Geräuschfunktionen verschiedene Gespräche zwischen Fahrgästen (Dialoge), Geräusche beim Öffnen und Schliessen der Anhänger-Klappen sowie Beladen des Anhängers (Umgebungsgeräusche) ausgelöst werden. Geregelter Hochleistungsantrieb mit Schwungmasse im Motorwagen. 2 Achsen angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter am Motorwagen konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 des Motorwagens jeweils separat digital abschaltbar. Am Einachs-Anhänger leuchten am Ende zwei rote Schlusslichter, die mit 2 weissen Lichtern wechseln, je nach Fahrtrichtung des Motorwagens. Spitzenlicht, Schlusslichter und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel. Wagen-Führerstände und Inneneinrichtung im Motorwagen erlauben einen freien Durchblick. Der Motorwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Ansteckbare Bremsschläuche liegen separat bei. Am Einachs-Anhänger können alle sechs Ladeklappen manuell geöffnet werden. Alle Ladeklappen sind in sich nochmals faltbar. Der Einachs-Anhänger ist mit 5 Fahrrädern und einigen Gepäckstücken beladen. 2 Wagenstützen für das separate Abstellen des Anhängers liegen bei. Länge der zweiteiligen Garnitur 22 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22992",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e9/ff/e9ffd4133c5ca753905b9743c36be0011464800508.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

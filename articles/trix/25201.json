@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25201",
+  "manufacturer": "Trix",
+  "articleNumber": "25201",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 220",
+    "number": "274",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 202.0
+  },
+  "description": "Vorbild: Diesellokomotive BR 220 der Deutschen Bahn AG (DB AG), auch bekannt unter dem Spitznamen „Taigatrommel“. Mit Schalldämpfer sowjetischer Bauart, Ansauggitter mit senkrechten Lamellen und Kühlerlüfter mit Flatterlamellen. Betriebszustand 1994. Betriebsnummer 220 274.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Seitlich angesetzte Griffstangen aus Metall. Frontschürze gegen geschlossene Frontschürzen austauschbar. Das DB AG Logo liegt als Schiebebild bei. Länge über Puffer ca. 20,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25201",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/fd/88fd618da1b2a9bb9c60d1a1dfedcac91705572005.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

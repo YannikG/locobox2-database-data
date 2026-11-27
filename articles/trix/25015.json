@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25015",
+  "manufacturer": "Trix",
+  "articleNumber": "25015",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "S 2/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 251.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der bayerischen Gattung S 2/6 in grüner Grundfarbgebung mit schwarzer Rauchkammertür und rotem Fahrwerk. Nachbildung der erhaltenen Lokomotive im Verkehrsmuseum Nürnberg. Musealer Zustand als Lokomotive der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.) der Epoche I.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Serienmässig eingebauter Rauchsatz. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht und Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Detailliertes Fahrwerk mit durchbrochenem Barrenrahmen. Windschnittige Verkleidung von Rauchkammer, Kamin, Dom und Zylindergruppe sowie windschnittig gestaltetes Führerhaus. Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen separat bei. Länge über Puffer 25,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25015",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/01/a1/01a1e52f805ae7337606031c739c48fd1724169618.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

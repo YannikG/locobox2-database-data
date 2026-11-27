@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22957",
+  "manufacturer": "Trix",
+  "articleNumber": "22957",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖGEG",
+    "type": "Be 6/8 II",
+    "number": "13257",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Be 6/8 II „Krokodil“. Museumslokomotive der ÖGEG (Österreichische Gesellschaft für Eisenbahngeschichte). Bauart aus der ersten Bauserie des Schweizer Krokodils. Tannengrüne Grundfarbgebung im Betriebszustand Anfang der 1980er Jahre. Mit teilweise verschlossenen Führerstandstüren, mit Hülsenpuffer, ohne stirnseitige Übergangsbleche, breite Rangierertreppen, ohne Falschfahrsignal und mit Indusi-Magnet. Lok-Betriebsnummer 13257.\n\nModell: Mit DCC-Digital-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jedem Treibgestell. Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Lieferung in repräsentativer Holzkassette. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22957",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e0/36/e036413374053f1dc473f5b6aa7dd6fa1434534581.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

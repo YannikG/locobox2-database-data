@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25163",
+  "manufacturer": "Trix",
+  "articleNumber": "25163",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 439.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Elektrolokomotive BB 22200 der Französischen Staatsbahnen (SNCF). Steingraue Grundfarbgebung. Betriebsnummer BB 22307. Betriebszustand um 1985.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Viele separat angesetzte Teile wie Scheibenwischer, Lüftergitter, Griffstangen und Dachleitungen. Detailliert ausgeführte Dachaufbauten mit neu konstruierten Stromabnehmern mit unterschiedlichen Schleifstücken. Pufferhöhe nach NEM. Bremsleitungen, Schraubenkupplungen und unterschiedliche Steckdosen liegen als separat ansteckbare Teile bei. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25163",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/0b/000bf5361ccfe31713d7fe77ae5633d01756134011.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25090",
+  "manufacturer": "Trix",
+  "articleNumber": "25090",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 589.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1189",
+    "number": "1189.02",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 234.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1189 \"Österreichisches Krokodil\" der Österreichischen Bundesbahnen (ÖBB). Blutorange Grundfarbgebung. Betriebsnummer 1189.02. Betriebszustand Mitte/Ende der 1970er-Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Jeweils 2 Treibräder in den beiden Treibgestellen über Kardan angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar auf ein weisses Schlusslicht. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstands- und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Details. Bremsschläuche und Schraubenkupplungsimitationen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 23,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25090",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f3/8b/f38b6457bc3dc2a0169fa07a7f4be5471702904422.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

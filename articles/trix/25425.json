@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25425",
+  "manufacturer": "Trix",
+  "articleNumber": "25425",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "ICM-1",
+    "number": "4015",
+    "livery": "Koploper",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Dreiteiliger Elektro-Triebzug als Intercity Triebzug Baureihe ICM-1 \"Koploper\" der Niederländischen Eisenbahnen (NS). Gelb/blaue Grundfarbgebung in der Standard-Ausführung. 1 Motorwagen als Endwagen mBk 2. Klasse. 1 Mittelwagen AB 1./2. Klasse. 1 Steuerwagen als Endwagen sBk 2. Klasse. Zugzielanzeige \"Hoek van Holland\". Triebzug-Betriebsnummer 4015. Betriebszustand der Epoche IV, im Ablieferungszustand 1984 bis 1988.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 3-teilige Ausführung. Fahrgestell beim motorisierten Endwagen aus Druckguss. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen in einem Drehgestell angetrieben. Haftreifen. Führerstände in den beiden Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Spezial-Kurzkupplungen mit Kulissenführung. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter sowie Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzensignal an Endwagenseite 2 und 1 jeweils digital separat abschaltbar. Spitzensignal mit vorbildgerechten leicht gelben und roten Leuchtdioden (LED). Innenbeleuchtungen mit warmweissen LED. Detaillierte Ausführung von Fahrwerk und Aufbau. An den Endwagen Darstellung der \"Scharfenberg\"-Kupplung mit Abdeckung. Für Doppeltraktion liegt eine zusätzliche starre Kupplungsverbindung bei. Im Serienzustand Ausführung der Endwagen mit geschlossenen Übergangstüren. Darstellung der an einem Endwagen zur Seite geschobenen Schwenktüren mit Faltenbalg ist mit beigelegtem Einsteckteil möglich. Gesamtlänge des Zuges 86,6 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25425",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/3f/173f5635c441c1c30fb40d79be8e36d01669618822.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

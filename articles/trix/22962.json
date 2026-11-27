@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22962",
+  "manufacturer": "Trix",
+  "articleNumber": "22962",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 96.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 96.0 der Deutschen Reichsbahn-Gesellschaft (DRG). Gelenklokomotive Bauart Mallet mit Verbundtriebwerk aus Hoch- und Niederdruck-Zylindergruppen. Betriebszustand 1930.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb . 4 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung digital schaltbar. Feinste Modellausführung mit zahlreichen angesetzten Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22962",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c5/57/c557093bcf2995521ee1a7b72a620ff51450032002.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

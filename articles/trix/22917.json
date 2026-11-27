@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22917",
+  "manufacturer": "Trix",
+  "articleNumber": "22917",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 05",
+    "number": "001",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Stromlinien-Schnellzuglokomotive Baureihe 05 der Deutschen Reichsbahn (DR). Ausführung mit voller Stromlinien-Verkleidung. Fiktive stahlblaue Grundfarbgebung mit Zierstreifen. Lok-Betriebsnummer 05 001. Betriebszustand Ende 1930er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Geschlossene Seitenverkleidungen ohne zusätzliche Aussparungen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Raucheinsatz konventionell in Betrieb, digital schaltbar. Dritte Lampe vorne als Gegenzugsignal separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Feste Kurzkupplung zwischen Lok und Tender. Bogenfahrt ab normalem Radius 360 mm möglich. Decoder unter aufschiebbaren Tenderhauben zugänglich. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22917",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/85/d685c6b0e97862edf1a9dea1a0df51041517900434.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:21Z"
+}
