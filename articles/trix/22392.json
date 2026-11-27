@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22392",
+  "manufacturer": "Trix",
+  "articleNumber": "22392",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "PTT",
+    "type": "Ee 3/3",
+    "number": null,
+    "livery": "Halbschuh",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 109.0
+  },
+  "description": "Vorbild: Elektro-Rangierlokomotive Serie Ee 3/3 \"Halbschuh\" der ehemaligen Schweizerischen Post PTT. Oxidrote Ausführung. Bauart aus der ersten Bauserie 1927/28, mit Endführerhaus und Rangierbühne vorne. Betriebszustand der Epoche IV.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb als Miniaturmotor mit Schwungmasse. 3 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 weisse Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung digital umschaltbar auf Schweizer Lichtwechsel, mit einem weissen Schlusslicht sowie bei Solofahrt auf ein rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Fein detaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Detaillierte Dachausrüstung mit Scherenstromabnehmer. Länge über Puffer 10,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22392",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3d/12/3d129d51767fca8aa07705e25bc505c71541778314.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

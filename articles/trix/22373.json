@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22373",
+  "manufacturer": "Trix",
+  "articleNumber": "22373",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Baureihe V 200.0 der Deutschen Bundesbahn, Achsfolge B'B', Baujahr ab 1953 Einsatz: Mittlere und schwere Schnell- und Eilzüge\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle, 5-poliger Motor, 2 Achsen angetrieben, Haftreifen, Kupplungsaufnahme nach NEM. Länge über Puffer 21 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22373",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/29/a329ac40e40d6e7feb5524387ad6ae071434534666.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

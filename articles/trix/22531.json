@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22531",
+  "manufacturer": "Trix",
+  "articleNumber": "22531",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 53.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 314.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive nach einem Entwurf von Borsig 1943. Vorgesehen als Baureihe 53.0 der Deutschen Reichsbahn (DR), Ausführung in Winter-lackierung. Kriegsbedingt nie fertig gestellte grösste deutsche Dampflokomotivkonstruktion.\n\nModell: Mit Digital-Decoder DCC und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. 2 Rauchsätze 7226 nachrüstbar. Fahrtrichtungsabhängig wechselndes Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Länge über Puffer 31,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22531",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

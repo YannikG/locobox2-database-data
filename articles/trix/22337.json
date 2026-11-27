@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22337",
+  "manufacturer": "Trix",
+  "articleNumber": "22337",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 59",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie 59 der Belgischen Staatsbahnen (SNCB/NMBS). Spätere Ausführung der ursprünglichen Serie 201. Achsfolge Bo´Bo´.\n\nModell: Epoche IV, mit 5-poligem Hochleistungsmotor und 8-poliger Digital-Schnittstelle nach NEM. 2 Achsen angetrieben. 4 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und rote Schlusslichter mit der Fahrtrichtung wechselnd. Vorbildgerecht unterschiedlich lange Überhänge sowie Trittstufen unter den Lampen. Eingesetzte Griffstangen und Lüftergitter. Kupplungsaufnahmen nach NEM. LüP 186 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22337",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/86/29861aa92cd72ee9f5aaee43c9d5b0ba1434534624.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

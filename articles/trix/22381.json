@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22381",
+  "manufacturer": "Trix",
+  "articleNumber": "22381",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV Euroduplex",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug TGV Euroduplex (train à grande vitesse) der Französischen Staatsbahnen (SNCF), in der Ausführung für den Verkehr zwischen Paris und München. 2 Triebköpfe (TK1 und TK2), 1 Doppelstock-Übergangswagen (R1) 1. Klasse, 1 Doppelstock-Übergangswagen (R8) 2. Klasse. Triebzugnummer 4709. Betriebszustand der Epoche VI.\n\nModell: 4-teilige Grundgarnitur. Beide Triebköpfe (TK1 und TK2) motorisiert. Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zentral eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht für französischen Lichtwechsel digital separat abschaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Führerstände in den Triebköpfen mit Inneneinrichtung. Separat angesetzte Griffstangen aus Metall. Triebkopf und Übergangswagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in unterschiedlichen Ausführungen mit jeweils einer Wippe für DB und SNCF. Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 4-teiligen Grundgarnitur 102 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22381",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/dc/d1dc26005209d2c27c8f786c10151f2c1602741606.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

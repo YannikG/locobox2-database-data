@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22353",
+  "manufacturer": "Trix",
+  "articleNumber": "22353",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 4/4 I",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Re 4/4 I der Schweizerischen Bundesbahnen (SBB). In roter Ausführung mit Übergangstür. Betriebszustand Ende der 1980er-Jahre. Achsfolge Bo´Bo´.\n\nModell: Epoche IV, 21-polige Digital-Schnittstelle. Glockenankermotor mit Schwungmasse zentral eingebaut. Alle 4 Achsen angetrieben. 2 Haftreifen. Fahrtrichtungsabhängig wechselnder Schweizer Lichtwechsel (Dreilicht-Spitzensignal/weisses Schlusslicht). Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Kupplungsaufnahme nach NEM. Länge über Puffer 171 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22353",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d3/80/d38080dbc238e576e0d4760bee257c4b1434534626.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

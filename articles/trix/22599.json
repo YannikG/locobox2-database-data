@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22599",
+  "manufacturer": "Trix",
+  "articleNumber": "22599",
+  "releaseDate": "2003",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 4000",
+    "number": null,
+    "livery": "Big Boy",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe 4000 \"Big Boy\" der Union Pacific Railroad (U.P.). Ausführung der Lokomotive Nr. 4015 um 1960. Einsatz: schwere Güterzüge.\n\nModell: Epoche III, in neuer, überzeugender Trix-Technik: • Fahrgestell, Kessel und Tender aus Metall. • Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. • Serienmässig mit eingebautem DCC-Decoder. • Serienmässig mit eingebautem Geräuschgenerator nur für Digitalbetrieb. • Stirnlampe, Tender und Nummerntafeln mit wartungsfreien LED beleuchtet. • Kurzkupplung zwischen Lokomotive und Tender. • Serienmässig mit RP 25-Profil und Kadee-kompatibler Kupplung Kurvengängiges. Gelenkfahrwerk mit Boxpok- Rädern, 8 Achsen angetrieben, mittlere Kuppelachsen federnd gelagert, stirnseitig Kupplungshaken im Schienenräumer einsteckbar, Dampfleitungen schwenkbar mit den Zylindern ausgeführt, angesetzte Griffstangen aus Metall, viele angesetzte Einzelheiten, Figuren Lokomotivführer und Heizer für den Führerstand liegen bei. Beiliegende Märklin-Kurzkupplungen. LüP 465 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2003"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22599",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/99/c2/99c26b4d59d3dd8b9d06eee328ac13091434534502.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

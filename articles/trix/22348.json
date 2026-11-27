@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22348",
+  "manufacturer": "Trix",
+  "articleNumber": "22348",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "E 18",
+    "number": "42",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnellzuglokomotive E18 42 der Österreichischen Bundesbahnen (ÖBB). Spätere 1118.01 der ÖBB. Die zweifarbige Lackierung war für hochwertigen Fernverkehr vorgesehen.\n\nModell: Epoche III, 5-poliger Motor, Fahrgestell und Aufbau aus Metalldruckguss, mit 8-poliger digitaler Schnittstelle nach NEM, 2 Achsen angetrieben, 2 Haftreifen, Kupplungsaufnahme nach NEM, Führerstände und Maschinenraum mit Inneneinrichtung. Länge über Puffer 195 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22348",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/05/f9058afadda8aa635b4db8d5f08dfc7f1434534402.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

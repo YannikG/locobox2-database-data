@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22606",
+  "manufacturer": "Trix",
+  "articleNumber": "22606",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 19",
+    "number": "002-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe E 19 der Deutschen Bundesbahn (DB). In blauer Farbgebung mit Altbau-Lampen. Betriebsnummer: 119 002-4. Einsatz: Schnell- und Eilzugverkehr.\n\nModell: Epoche IV. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf 2 Achsen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung und Lokführerfigur. Kupplungsaufnahmen nach NEM. Pufferbohlendetails im Beutel beiliegend um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 194,5 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22606",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/91/62/916214717383d1188b38045af8c326561434534449.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

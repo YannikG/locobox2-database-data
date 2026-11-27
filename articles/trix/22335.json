@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22335",
+  "manufacturer": "Trix",
+  "articleNumber": "22335",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ee 3/3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Rangierlokomotive Ee 3/3 der Schweizerischen Bundesbahnen (SBB/CFF/FFS), Achsfolge C. Bauserie ab 1932. Winterthurer Schrägstangenantrieb. Einsatz: Rangierbetrieb.\n\nModell: Epoche III, Fahrgestell und Aufbau vorne und hinten aus Metall-Druckguss. 8-polige digitale Schnittstelle nach NEM. 5-poliger Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Beleuchtung mit LED in die Endbühnen integriert. Kupplungsaufnahmen nach NEM. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 112 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22335",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/20/d0/20d0b43ed5fbabe544c98b5eaa2a406a1434534660.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22398",
+  "manufacturer": "Trix",
+  "articleNumber": "22398",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 152 der Deutschen Bahn AG (DB AG). Aktueller Betriebszustand.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22398",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a1/9d/a19df3d0806b8e6b4082a2af329bcca01477499933.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

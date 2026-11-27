@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22442",
+  "manufacturer": "Trix",
+  "articleNumber": "22442",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe E 44 der Deutschen Bundesbahn (DB). Betriebszustand um 1958.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Länge über Puffer ca. 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22442",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/54/87/54876c761f7e0eddfffdfb3dc49e1c801434534510.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

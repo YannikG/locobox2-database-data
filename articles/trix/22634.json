@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22634",
+  "manufacturer": "Trix",
+  "articleNumber": "22634",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "metronom",
+    "type": "BR 146.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe 146.2 der LNVG Niedersachsen, in Ausführung der Metronom Eisenbahngesellschaft mbH. Gebaut ab 2005 von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm. Betriebsnummer: ME 146-18. Einsatz: Schneller Regionalverkehr.\n\nModell: Epoche V. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf Kardan auf 4 Achsen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Spitzensignal wahlweise an Führerstand 1 oder 2 im Digitalbetrieb abschaltbar. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Bremsschläuche in langer Ausführung im Beutel beiliegend. Länge über Puffer: 217,2 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22634",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/b6/ecb669aa3cfd79ee02f20b4357c19fb51434534499.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

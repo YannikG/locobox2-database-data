@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22639",
+  "manufacturer": "Trix",
+  "articleNumber": "22639",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Schenker",
+    "type": "BR 185.2",
+    "number": "320-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.2 der DB Schenker, Geschäftsbereich Railion Deutschland. Gebaut ab 2005 von Bombardier als Lokomotive aus dem TRAXX Typenprogramm. Betriebsnummer 185 320-9. Einsatz: Güterverkehr.\n\nModell: Epoche VI. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb über Kardan auf 4 Achsen. Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Spitzenlicht wahlweise an Führerstand 1 oder 2 im Digitalbetrieb abschaltbar. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Bremsschläuche in langer und gekürzter Ausführung, Pufferbohlendetails im Beutel beiliegend, um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22639",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/64/6c6414abf879cf39bc09ba723506f1ce1434534623.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

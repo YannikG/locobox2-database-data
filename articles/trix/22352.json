@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22352",
+  "manufacturer": "Trix",
+  "articleNumber": "22352",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "T44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Reihe T44 der Schwedischen Staatsbahnen (SJ).\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. Hochleistungsmotor Softdrive Sinus in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb, digital schaltbar. Rotes Schlusslicht separat abschaltbar. Anfahr- und Bremsverzögerung digital schaltbar. Angedeutete Führerstandseinrichtung. Angesetzte Metallgriffstangen. Kupplungsaufnahme nach NEM. Länge über Puffer 177 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22352",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/1d/2e1d4c8dbeea8879ae5ee5ba7f997a351434534625.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

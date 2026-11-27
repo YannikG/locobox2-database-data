@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22372",
+  "manufacturer": "Trix",
+  "articleNumber": "22372",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 042",
+    "number": "186-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 042 mit Schlepptender und Öl-Hauptfeuerung der Deutschen Bundesbahn (DB). Umbauversion mit Neubau-Hochleistungskessel, Witte-Windleitblechen, DB-Reflexglaslampen, beidseitigem Indusi, Puffertellerwarnanstrich und umgebautem Schlepptender mit Ölbehälter. Betriebsnummer 042 186-7. Betriebszustand um 1972.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22372",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/19/e4/19e494027b606ef8f554d6559e61cee11434534622.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

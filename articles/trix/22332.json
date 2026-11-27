@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22332",
+  "manufacturer": "Trix",
+  "articleNumber": "22332",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 2070",
+    "number": null,
+    "livery": "Hector",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2070 \"Hector\" der Österreichischen Bundesbahnen (ÖBB). Dieselhydraulische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), entwickelt aus den Standardlokomotiven der früheren MaK. Einsatz: Güterzüge und fallweise Reisezüge auf Kurzstrecken.\n\nModell: Epoche V, Fahrgestell und Aufbau aus Metalldruckguss. Mit 8-poliger Digital-Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker und Schwungmasse zentral eingebaut. 4 Achsen angetrieben. Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Umlaufende Bühnengeländer aus Metall. Kupplungsaufnahmen nach NEM. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22332",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1f/72/1f72ad3671ed6d9ed4a09e08b298a6811434534659.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

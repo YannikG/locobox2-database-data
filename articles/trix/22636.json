@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22636",
+  "manufacturer": "Trix",
+  "articleNumber": "22636",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "Crossrail",
+    "type": "BR 185.5",
+    "number": "578-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe 185.5 der Schweizer Firma Crossrail. Gebaut ab 2005 von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm. Betriebsnummer: 185 578-2. Einsatz: Güterverkehr.\n\nModell: Epoche V. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf Kardan auf 4 Achsen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Spitzensignal wahlweise an Führerstand 1 oder 2 im Digitalbetrieb abschaltbar. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Bremsschläuche in langer Ausführung im Beutel beiliegend. Länge über Puffer 217,2 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22636",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/96/ac962ccebb3f84a8e1d1f4cf2fbf1c101434534525.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

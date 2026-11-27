@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22621",
+  "manufacturer": "Trix",
+  "articleNumber": "22621",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 420",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: S-Bahn-Triebzug Baureihe 420 der Deutschen Bahn AG . Aktueller Betriebszustand in verkehrsroter Nahverkehrslackierung. Einsatz: Vorortverkehr.\n\nModell: Epoche V. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb mit Kardan auf 4 Achsen des Mittelwagens. Fahrgestell des Mittelwagens aus Metalldruckguss. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Dreilicht-Spitzensignal und zwei rote Schlusslichter. Fahrtrichtungsabhängiger Lichtwechsel. Beleuchtete Zugzielanzeige gemeinsam mit Dreilicht-Spitzensignal digital schaltbar. Kurzkupplungskinematik und elektrische Verbindung zwischen den Wagen. Kuppelbar mit beiliegender Spezialkupplung mit weiteren ET 420 Einheiten zum vorbildgerechten Betrieb. Innenbeleuchtung 66718 nachrüstbar. Verschiedene Zielschilder der S-Bahn-Netze Frankfurt, Stuttgart, München und Ruhrgebiet beiliegend. Hochdetailliertes Kunststoffgehäuse mit vielen angesetzten Details, wie Griffstangen, Steckdosen, Scheibenwischer, Antennen, Pfeifen und Hörner. Mehrfarbige Inneneinrichtung. An den Enden detaillierte Darstellung der Scharfenberg-Kupplung (ohne Funktion). Länge über Kupplung 77,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22621",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/f8/ecf8dec35a1a3a47ee2536fcb5ab067f1434534509.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22364",
+  "manufacturer": "Trix",
+  "articleNumber": "22364",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "TGV POS",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug TGV POS (train à grande vitesse) der Französischen Staatsbahnen (SNCF), in der Ausführung für den Verkehr zwischen Paris und Süddeutschland. 2 Triebköpfe, 1 Übergangswagen (R1) 1./2. Klasse, 1 Übergangswagen (R8) 2. Klasse. Neueste Farbgebung. Aktueller Betriebszustand 2009/2010.\n\nModell: Epoche VI. 4-teilige Grundgarnitur. Beide Triebköpfe (TK1 und TK2) motorisiert. 21-polige Digital-Schnittstelle. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zental eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal, 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Separat angesetzte Griffstangen aus Metall. Eingesetzte Scheibenwischer. Führerstände in den Triebköpfen mit Inneneinrichtung. Triebkopf und Übergangswagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell. Im Analogbetrieb Stromaufnahme nur über einen Triebkopf. Nach Einbau eines Decoders fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in unterschiedlichen Ausführungen mit jeweils einer Wippe für DB und SNCF. Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 4-teiligen Grundgarnitur 101 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22364",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/21/c121c2b30836dfea0e7b8b1d02ee763e1434534596.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

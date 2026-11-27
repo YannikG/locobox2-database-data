@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22489",
+  "manufacturer": "Trix",
+  "articleNumber": "22489",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 648.2 (LINT 41) der Deutschen Bahn AG (DB AG). Verkehrsrote Grundfarbgebung. Ausführung mit Tiefeinstiegen. Einsatz im Verkehrsbereich Koblenz, mit Zugziel-Anzeige \"RE25 Koblenz Hbf\". Triebwagen-Betriebsnummern 648 204-5 und 648 704-4. Betriebszustand um 2016.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Triebwagenseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Zugzielanzeige vorbildgerecht mit gelben LEDs. Spitzensignal, Zugzielanzeige und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. Freier Durchblick. Geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge ca. 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22489",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3e/3e/3e3e50b0116b839ff9a573ebd10859bb1575874807.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:55Z"
+}

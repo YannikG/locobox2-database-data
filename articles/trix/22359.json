@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22359",
+  "manufacturer": "Trix",
+  "articleNumber": "22359",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 64",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Personenzuglokomotive Serie 64 der Belgischen Staatsbahnen (NMBS/SNCB). Ehemalige preussische P 8. Typisch belgische Umbauversion. Betriebszustand Epoche III. Einsatz: Personenzüge.\n\nModell: 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. Hochleistungsmotor mit Glockenanker im Stehkessel. 3 Achsen angetrieben, 2 Haftreifen. Spitzensignal mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Rauchsatz Märklin 72270 nachrüstbar. Am Tender NEM-Kupplungsaufnahme mit Kinematik für Kurzkupplung. Länge über Puffer 275 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22359",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4d/e2/4de2475934af7ae58b6e7b210270efed1434534522.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

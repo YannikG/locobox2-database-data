@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22360",
+  "manufacturer": "Trix",
+  "articleNumber": "22360",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "MaK 1206",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ MaK 1206 als Serie 1500 Nationalen Luxemburgischen Eisenbahngesellschaft (CFL). Blaue Grundfarbgebung mit weissem Führerhaus.\n\nModell: Epoche V. Fahrgestell und Aufbau aus Metall-Druckguss mit Kunststoff-Ansatzteilen. Glockenanker-Spezialmotor mit Schwungmasse. 8-polige digitale Schnittstelle. 4 Achsen angetrieben. Haftreifen. Dreilicht-Spitzensignal/rote Schlusslichter fahrtrichtungsabhängig wechselnd. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Kupplungsaufnahme nach NEM. Länge über Puffer 165 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22360",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1c/ad/1cadc486202b7f2e63d6861f4218c7e21434534516.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

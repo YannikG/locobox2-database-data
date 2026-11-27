@@ -14,6 +14,7 @@ Läuft **nach** ``autofix_trix_shop_import.py`` und ``autofix_maerklin_shop_impo
   Reihen («Reihe 2016», «Serie 1200») bleiben.
 - Klammerzusatz «(ex Baureihe 52)», «(frühere BR 94.5-17)» im Typ entfernen.
 - Typ «BR 01 150» / «BR V 140 001» mit ``number`` null → Typ «BR 01» / «BR V 140», Nummer «150» / «001».
+- «Rh 638» außerhalb NL → «Reihe 638»; «Be 6/8III» → «Be 6/8 III»; «BR VT»/«BR ICM» → ohne BR.
 - «bis» in Nummernbereichen → Bindestrich («DE 1001 bis 1003» → «DE 1001-1003»).
 
 Usage::
@@ -42,8 +43,9 @@ def clean_type(t: str) -> str:
     )
     s = re.sub(r"^(?:Bauart|Gattung)\s+(?=[A-Z])", "", s)
     s = re.sub(r"^(?:Reihe|Serie)\s+(?=[A-Z][A-Za-z]{0,3}(?:\s|\d|$))", "", s)
-    s = re.sub(r"^BR\s+(?=(?:EP|SVT|Köf|ET|ES)\b)", "", s)
+    s = re.sub(r"^BR\s+(?=(?:EP|SVT|Köf|ET|ES|VT|ICM)\b)", "", s)
     s = re.sub(r"^BR\s+(?=[A-Z][A-Za-z]{0,2}\s\d+/\d)", "", s)
+    s = re.sub(r"(\d/\d)([IVX]+)$", r"\1 \2", s)
     s = re.sub(r"^(\D+?\s\d+)\s+bis\s+(\d+)$", r"\1-\2", s)
     return s.rstrip(". ").strip() or t
 
@@ -59,7 +61,9 @@ def main(argv: list[str]) -> int:
         m = d.get("model", {})
         t = m.get("type") or ""
         nt = clean_type(t)
-        sm = re.fullmatch(r"(BR (?:[A-Z] )?\d{2,3}) (\d{3})", nt)
+        if nt.startswith("Rh ") and m.get("country") != "NL":
+            nt = "Reihe " + nt[3:]
+        sm = re.fullmatch(r"((?:BR|Reihe) (?:[A-Z] )?\d{2,3}) (\d{3})", nt)
         if sm and not m.get("number"):
             nt = sm.group(1)
             print(f"{p}\tnumber None -> {sm.group(2)!r}")

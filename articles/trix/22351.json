@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22351",
+  "manufacturer": "Trix",
+  "articleNumber": "22351",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "El 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Rangierlokomotive Reihe El 10 der Norwegischen Staatsbahnen (NSB).\n\nModell: Epoche IV. Fahrgestell und Aufbau vorwiegend aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Beleuchtung mit wartungsfreien LED, konventionell in Betrieb, bei Decoder-Nachrüstung digital schaltbar. Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Kupplungsaufnahme nach NEM. Länge über Puffer 112 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22351",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/7f/dd7f4277028a875e9c8e2acbb4ab008d1434534539.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

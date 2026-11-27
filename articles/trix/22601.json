@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22601",
+  "manufacturer": "Trix",
+  "articleNumber": "22601",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 1012",
+    "number": "1012.003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Reihe 1012 der Österreichischen Bundesbahnen (ÖBB). Gebaut 1997 von SGP, ELIN und Siemens als Serie von 3 Prototypen. Betriebsnummer 1012.003-8. Einsatz: Testfahrten, auch im Plandienst.\n\nModell: Epoche V. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräggenuteter Motor mit Schwungmasse zentral eingebaut. Antrieb über Kardan auf 4 Achsen. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb. Mit nachgerüstetem Decoder 66839 Normal- und Fernlicht digital schaltbar. Angesetzte Griffstangen und viele weitere Details. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Kupplungen austauschbar gegen geschlossene Frontschürzen. Bremsschläuche ansteckbar. Länge über Puffer 222 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22601",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/23/b7/23b7938d8b6c11048c8de2daed25da6c1434534614.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

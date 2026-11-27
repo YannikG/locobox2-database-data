@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22333",
+  "manufacturer": "Trix",
+  "articleNumber": "22333",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 230 F",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Personenzuglokomotive Serie 230 F der Französischen Staatsbahnen (SNCF). Ehemalige deutsche P 8. Kessel mit 2 Domen ohne Windleitbleche. Dreiachsiger Kastentender. Einsatz: Reisezüge und leichte Güterzüge im Flachland, Region 1 Est (Ost).\n\nModell: Epoche III, Fahrgestell, Kessel und Tenderaufbau aus Metalldruckguss. Mit 21-poliger Digital-Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Rauchsatz 72270 nachrüstbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand. Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Kupplungsaufnahmen nach NEM, am Tender mit Kinematik für Kurzkupplung. LüP 210 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22333",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ea/15/ea1567aca89ab4b7e6d2f4d67cebf8671434534574.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

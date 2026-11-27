@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22357",
+  "manufacturer": "Trix",
+  "articleNumber": "22357",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 25.5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Serie 25.5 der Belgischen Staatsbahnen (NMBS/SNCB). Ausführung mit fünf Stirnlampen und nur einem Dachstromabnehmer. Einsatz: Reise- und Güterzüge.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metall-Druckguss. Umbauversion mit vorbildgerechter Ausführung der Seitenlüfter, entsprechende Dachgestaltung und Traktionsanzeige. Mit eingebauter 21-poliger Digital-Schnittstelle nach NEM und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen. Dreilicht-Spitzensignal, mit der Fahrtrichtung wechselnd. Rotes Schlusslicht separat abschaltbar. Im konventionellen Betrieb ist der Lichtwechsel funktionsfähig. Beleuchtung mit warmweissen Leuchtdioden. Führerstände mit Inneneinrichtungen. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Kupplungsaufnahme nach NEM. Länge über Puffer 210 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22357",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/05/2d05e4b97c46b88c47271c3e03ce9e7f1434534400.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}
