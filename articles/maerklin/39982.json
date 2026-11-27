@@ -10,8 +10,8 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Schienenbus mit Steuerwagen.",
+    "operator": "EBOE",
+    "type": "VT 27",
     "number": null,
     "livery": null,
     "scale": "H0",

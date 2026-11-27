@@ -11,7 +11,7 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Hochgeschwindigkeitszug TGV POS",
+    "type": "TGV POS",
     "number": null,
     "livery": null,
     "scale": "H0",

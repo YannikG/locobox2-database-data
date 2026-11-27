@@ -10,9 +10,9 @@
   },
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Raildox",
     "type": "BR 185.4",
-    "number": null,
+    "number": "409-0",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

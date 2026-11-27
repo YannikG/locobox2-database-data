@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "DK",
+    "operator": "Arriva",
     "type": "LINT 41",
     "number": null,
     "livery": null,

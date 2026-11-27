@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "AT",
+    "operator": "LTE",
     "type": "EuroRunner ER 20",
     "number": null,
     "livery": null,

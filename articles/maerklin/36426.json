@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "PL",
+    "operator": "PCC Rail",
     "type": "BR 232",
     "number": null,
     "livery": "Ludmilla",

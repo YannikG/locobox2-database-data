@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Elektrischer Schnelltriebwagen.",
+    "country": "CH",
+    "operator": "OeBB",
+    "type": "Serie RBe 2/4",
     "number": "202",
     "livery": null,
     "scale": "H0",

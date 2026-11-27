@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "US",
+    "operator": "KCS",
     "type": "GE ES44AC",
     "number": "4848",
     "livery": null,

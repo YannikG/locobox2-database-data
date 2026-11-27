@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "BE",
+    "operator": "CFV3V",
     "type": "Wismarer Schienenbus CFV3V",
     "number": null,
     "livery": null,

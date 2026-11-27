@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "CA",
+    "operator": "ONR",
     "type": "Dieseltriebzug",
     "number": null,
     "livery": "Northlander",

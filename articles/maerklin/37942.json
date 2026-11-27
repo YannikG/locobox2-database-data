@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "SE",
+    "operator": "MTAS",
     "type": "Nr.",
     "number": null,
     "livery": null,

@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "AT",
+    "operator": "RTS",
     "type": "BR 221",
     "number": "221.134",
     "livery": null,

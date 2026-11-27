@@ -9,9 +9,9 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
-    "type": "Dieselelektrische Lokomotive",
+    "country": "US",
+    "operator": "Milwaukee Road",
+    "type": "EMD F7",
     "number": null,
     "livery": null,
     "scale": "H0",

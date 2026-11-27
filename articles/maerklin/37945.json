@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "SE",
+    "operator": "Green Cargo",
     "type": "T44",
-    "number": null,
+    "number": "369",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

@@ -9,10 +9,10 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "US",
+    "operator": "D&RGW",
     "type": "F7",
-    "number": null,
+    "number": "5641",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

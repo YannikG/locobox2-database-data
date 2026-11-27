@@ -11,7 +11,7 @@
   "model": {
     "country": "FR",
     "operator": "SNCF",
-    "type": "Hochgeschwindigkeitszug TGV Euroduplex",
+    "type": "TGV Euroduplex",
     "number": null,
     "livery": null,
     "scale": "H0",

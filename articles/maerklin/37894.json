@@ -9,8 +9,8 @@
     "currency": "EUR"
   },
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "NL",
+    "operator": "Eurailscout",
     "type": "BRT-08 JIM",
     "number": null,
     "livery": null,

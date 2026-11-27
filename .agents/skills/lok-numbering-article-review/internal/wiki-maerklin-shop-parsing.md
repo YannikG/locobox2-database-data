@@ -39,6 +39,14 @@ Reihenfolge im Parser: US-Namensrouten → Klammer-Codes → Freitext-EVU (Hecto
 
 Privat-/Leasing-EVU ohne Klammer und ohne Map-Eintrag → Pass-1-Finding, nicht raten.
 
+## Betreiber (Privatbahnen, Ausland)
+
+`_operator_from_vorbild` kennt am Ende der Regelliste rund 80 Privat-/Auslands-EVU (Raildox, HVLE, metronom, LTE, StLB, EETC, KCS, GN, ONR, …) mit Land. Sie greifen erst, wenn keine DB/SBB/ÖBB-Regel passt. Weiterhin `Unbekannt` (bewusst nicht geraten): fiktive Sondermodelle (Märklin Magazin, HARIBO, Weihnachtsbahn, «in fiktiver Ausführung»), Werkslok-Typen ohne Eigentümer (Henschel DHG), Class 66 ohne Betreiber.
+
+## Typ und Nummer aus Vorbild
+
+`autofix_maerklin_shop_import.py` ersetzt kaputte Typen (Satzfragmente, nur Produktklasse, `.`/`Nr.`) durch die Bezeichnung aus dem ersten Vorbild-Satz (`Baureihe X` → `BR X`, `Reihe`/`Serie`, `EMD F7`, `ICE 3`, `Köf II`). `VT`/`TVT`/`ER` ohne `BR`. Gattung bayerischer Länderbahnen ohne Wort `Gattung` (`S 2/6`). `number` nur bei `Betriebsnummer`/`Loknummer` mit eindeutigem Muster. Offen bleiben Artikel ohne Baureihe im Vorbild (alte Katalogtitel wie «Güterzug-Dampflokomotive», «Hochgeschwindigkeitszug.»).
+
 ## Kategorien
 
 Parent `lokomotive` plus `dampf-/diesel-/elektrolokomotive` aus Roh-Typ oder Vorbild-Antriebswort. Autofix-Skript setzt das, wenn der Roh-Typ noch das Klassenwort enthält.
