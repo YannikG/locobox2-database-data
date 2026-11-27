@@ -50,6 +50,10 @@ Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `H
 - Autorail `X####`: Nummer steht im Titel/Beschreibung (`X4638-XR8650`), nicht im Bild suchen → `type` `X 4500`, `number` `X 4638`
 - Stadtwappen/Taufnamen (z. B. «Dole») kurz in `livery`, Muster `En Voyage, Dole`
 
+## Epoche
+
+LS Models nennt Unterstufen (`IVB`, `IIIC`, `VA`, `IVC-VA`). Locobox führt nur ganze Epochen: Buchstaben-Suffix weglassen (`IVB` → `IV`, `IIIB-C` → `III`, `IVC-VA` → `IV-V`, `II-IIIA` → `II-III`). Parser `_normalize_era` macht das, bei Bestand `articles patch`.
+
 ## AC/DC-Schwestern
 
 LS Models: oft DC `AAxxx` und AC `AA5xx` (+500 auf der Artikelnummer, z. B. `16075` / `16575`). Primär `ALIMENTATION` aus dem PDP. Fehlt `ALIMENTATION` (häufig ausverkaufte Seiten ohne Feature-Block) und die DC-Schwester (`articleNumber − 500`) liegt im Repo mit gleichem `model.type` und nicht-AC-Stromsystem, darf Auto-Fix die +500-Variante auf `AC-Digital` setzen. Nicht aus dem Fliesstext der Schwester raten und nicht kopieren, wenn Typen abweichen. `model.era`: wenn eine Twin-Seite `EPOQUE` hat und die andere `Unbekannt`, bei gleichem `type` die bekannte Epoche übernehmen (gleiche Vorbild-Epoche). Epoche nicht aus Lack oder Marketing erfinden.

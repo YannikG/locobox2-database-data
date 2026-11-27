@@ -220,7 +220,20 @@ def _normalize_era(raw: str) -> str:
     if not t or t in {"---", "-", "?"}:
         return "Unbekannt"
     # Shop often uses Arabic or Roman; keep Roman letters uppercase.
-    return t.upper() if re.fullmatch(r"[ivxlcdm]+", t, re.I) else t
+    t = t.upper() if re.fullmatch(r"[ivxlcdm]+", t, re.I) else t
+    return _strip_era_subletters(t)
+
+
+def _strip_era_subletters(era: str) -> str:
+    """Epoche ohne Unterstufen: ``IVC-VA`` → ``IV-V``, ``IIIB-C`` → ``III``, ``VB`` → ``V``."""
+    if not re.fullmatch(r"[IVX]+[A-C]?(?:\s*-\s*[IVX]*[A-C]?)*", era):
+        return era
+    parts: list[str] = []
+    for tok in re.split(r"\s*-\s*", era):
+        base = re.sub(r"[A-C]$", "", tok)
+        if base and (not parts or parts[-1] != base):
+            parts.append(base)
+    return "-".join(parts) or era
 
 
 def _operator_country(op: str) -> tuple[str, str]:

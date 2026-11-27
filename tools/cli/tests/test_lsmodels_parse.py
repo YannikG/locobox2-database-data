@@ -160,3 +160,15 @@ def test_parse_lsmodels_pdp_rejects_pantograph_accessory() -> None:
     )
     with pytest.raises(ValueError, match="Zubehör"):
         parse_lsmodels_pdp(html, canonical_url="https://lsmodels.eu/x.html", article="89206")
+
+
+def test_normalize_era_strips_subletters() -> None:
+    from locobox_cli.adapters.sources.lsmodels.parse_pdp import _normalize_era
+
+    assert _normalize_era("IVB") == "IV"
+    assert _normalize_era("IVC-VA") == "IV-V"
+    assert _normalize_era("II-IIIA") == "II-III"
+    assert _normalize_era("IIIB-C") == "III"
+    assert _normalize_era("VI") == "VI"
+    assert _normalize_era("III-IV") == "III-IV"
+    assert _normalize_era("---") == "Unbekannt"
