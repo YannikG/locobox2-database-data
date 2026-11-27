@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37966",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37966",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 96",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 96 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Frühere bayerische Gt 2x4/4. Bauart D´D h4v ( Mallet -Lokomotive). Baujahr ab 1913. Einsatz: Güterzüge und Schiebebetrieb auf Steilstrecken.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. 4 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37966",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/38/b7381503d4f0e84ef0c713ae83f6be9d1434538990.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

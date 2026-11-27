@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39192",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39192",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR E 19",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Baureihe E 19 der Deutschen Reichsbahn ( DRB ) in weinroter Farbgebung mit Altbau-Scherenstromabnehmern. Betriebszustand um das Jahr 1940.\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb Softdrive Sinus. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Haftreifen . Führerstand und Maschinenraum mit Inneneinrichtung. Gehäuse mit zahlreichen eingesetzten Elementen. In Epoche -II-Ausführung mit Altbau-Stromabnehmern. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39192",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/84/6c846d3c1bf3dabadff3a14ddc3418de1434538730.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

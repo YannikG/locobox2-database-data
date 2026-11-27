@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37671",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37671",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 204",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 205.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 204 der Belgischen Staatsbahnen (SNCB/NMBS). Dieselelektrische Europa-Lokomotive aus der Zusammenarbeit GM/NOHAB/AFB.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 20,5 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37671",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/10/4c10b22c752e8bf56bf26eac842f06e81434538840.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

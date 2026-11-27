@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36826",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36826",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 323 (Köf II)",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe 323 (Köf II) der Deutschen Bahn AG ( DB AG ). Ausführung mit geschlossenem Führerhaus.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor mit Schwungmasse . 2 Achsen angetrieben. 2 Gleis-Haftmagnete für höhere Zugkraft. Angesetzte Metall-Griffstangen. Beleuchtung mit wartungsfreien LED . Spitzensignal und Schlusslicht konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36826",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/77/58772b49c025e566c790cfdbd6df61ee1434538957.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37732",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37732",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 648",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen VT 2029/2129 (BR 648.2) der Vestsjaellands Lokalbaner A/S. Aktuelle Ausführung mit Tiefeinstiegen.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker und Schwungmasse im Jacobs- Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen LED . Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37732",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a3/a8/a3a858df11e04a9a75b2fcbd45ba083d1434539365.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

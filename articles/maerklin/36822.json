@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36822",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36822",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe Köf II der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ursprungsausführung um 1938 mit offenem Führerstand .\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor mit Schwungmasse . 2 Achsen angetrieben. 2 Gleis-Haftmagnete für höhere Zugkraft. Angesetzte Metall-Griffstangen. Beleuchtung mit wartungsfreien LED . Spitzensignal und Schlusslicht konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36822",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/34/af34b0c2c02322fa18f90bcc0d6bcb161434538655.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

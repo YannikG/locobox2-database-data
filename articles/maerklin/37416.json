@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37416",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37416",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Rc 3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Reihe Rc 3 der Schwedischen Staatsbahnen (SJ). Ausführung in schwarzer Grundfarbgebung. Betriebszustand ca. 2005.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. 2 unterschiedliche Schienenräumer und Stromabnehmer. Länge über Puffer 18,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37416",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/11/93/11936139d373cafe7df69f84062645e31434538847.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

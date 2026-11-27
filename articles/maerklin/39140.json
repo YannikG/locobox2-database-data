@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39140",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39140",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 40",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 40 der Deutschen Bundesbahn (DB). Güterzuglokomotive in chromoxid-grüner Grundfarbgebung. Mit umlaufender Regenrinne, Schweiger-Lüftern mit waagerechten Lamellen und 3 Stirnlampen. Betriebszustand ca. 1965.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden bzw. roten Leuchtdioden konventionell in Betrieb, digital schaltbar. Oberes Spitzenlicht in Umbauform mit kleinem Lampendurchmesser. Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39140",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f8/a2/f8a27a11bbdab4d8fa7bf33d4f9a5cb61434538857.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37054",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37054",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 59",
+    "number": "004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 235.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 59 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ehemalige Reihe K der Königlich Württembergischen Staatseisenbahnen ( K.W.St.E. ). 59 004 nach Fotos von Carl Bellingrodt.\n\nModell: Mit Digital- Decoder mfx , geregeltem Antrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. Kurvengängiges Rahmenfahrwerk mit seitlich verschiebbaren Achsen. 6 Achsen angetrieben. Haftreifen . Verstellbare Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand , Figuren Lokführer und Heizer liegen bei. Frei stehende Laternen mit integrierten Leuchtdioden. Eingerichtet für nachrüstbaren Rauchsatz 7226. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 23,5 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos vom Meister.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37054",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8c/ab/8cababcbdff26ccc7166a08391c8cd931434539368.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37575",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37575",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 03",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe E 03 der Deutschen Bundesbahn (DB). Vorserienausführung in purpurrot/beiger TEE -Lackierung, mit einfachen Seitenlüftern, Zierlinien, Frontschürzen, und Einholmstromabnehmern. Baujahr 1965.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben, Haftreifen . Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtungen mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. 18 einzeln eingesetzte Griffstangen aus Metall. Detaillierte Dachausrüstung. Offene Frontschürze und Kurzkupplung austauschbar gegen geschlossene Ausführung mit ansteckbaren Bremsschläuchen und Vorbildkupplung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37575",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/3c/963c31c64418176782d020d35f9067e81434538714.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

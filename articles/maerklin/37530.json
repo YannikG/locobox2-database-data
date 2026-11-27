@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37530",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37530",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.1 der Deutschen Bahn AG ( DB AG ). Werbegestaltung \"150 Jahre Märklin\".\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Geräusch- und Lichtfunktionen. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit warmweissen Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37530",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/21/4c21962687b4c50c8535938bb5311a7c1434538712.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37122",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37122",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 208.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200. Ausführung als Privatbahn-Lokomotive der Firma ACTS, eingestellt bei den Niederländischen Eisenbahnen ( NS ).\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen LED . Spitzensignal konventionell in Betrieb, digital schaltbar. Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer 20,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37122",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/eb/c8/ebc817e6ec5e1dd0ef649578c09636de1434538703.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

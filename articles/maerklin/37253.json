@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37253",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37253",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Bauart Kittel DT8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel DT8 der Deutschen Bundesbahn (DB). Gebaut ab 1915, ursprünglich für die Grossherzoglich Badischen Staatseisenbahnen. Ausführung in purpurroter Farbgebung der Epoche III.\n\nModell: Mit Digital- Decoder mfx und geregeltem Miniaturmotor. Fahrgestell aus Metalldruckguss. 2 Achsen angetrieben. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Spitzensignal mit wartungsfreien, warmweissen LED . Kupplungsaufnahme nach NEM . Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand , Nachbildung des Kessels. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 13,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37253",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c2/77/c2771ba0bb8fcad964d71993edf851c71434539033.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

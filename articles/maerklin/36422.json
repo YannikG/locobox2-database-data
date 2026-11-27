@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36422",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36422",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 232",
+    "number": null,
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 232 \"Ludmilla\" der Railion Niederlande. Ehemalige Baureihe 232 der Deutschen Bahn AG ( DB AG ).\n\nModell: Lokomotive in Metallausführung. Mit Digital- Decoder und Spezialmotor mit Schwungmasse . 4 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36422",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5b/81/5b8142b4073c927caeb8f8105cef70dd1434539307.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39100",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39100",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR VT 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Tages-Gliederzug Baureihe VT 10.5 \"Senator\" der Deutschen Bundesbahn (DB). Zug aus 2 Triebwagen, 1 Grossraumwagenglied und 1 Wagenglied mit Küche. Farbgebung im Auslieferungszustand 1953/1954.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator im Triebwagen A. Wartungsfreier Motor in kompakter Bauform. 2 Achsen im Drehgestell des Triebwagens A angetrieben. Haftreifen . Zweilicht-Spitzensignal und rote Schlusslichter, Innenbeleuchtung und Tischlampen mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Mehrpolige Strom führende Spezialkupplung und dicht schliessende Übergangsblenden zwischen den Fahrzeugen. Schleiferumschaltung . An den Enden Nachbildung der abgedeckten Scharfenberg- Kupplung (ohne Funktion). Zuglänge über Kupplungen 69,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39100",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6a/71/6a71c6c0b5a91541a3bbac2f0ea569e31434538884.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

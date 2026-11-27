@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37993",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37993",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 4000",
+    "number": "4006",
+    "livery": "Big Boy",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Reihe 4000 \"Big Boy\" der Union Pacific Railroad (UP). Ausführung der Lokomotive mit der Betriebsnummer 4006.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb, Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 8 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Boxpok -Räder. Mittlere Kuppelachsen gefedert. Stirnlampe, Tender und Nummerntafeln mit wartungsfreien warmweissen LED beleuchtet. 2 Rauchsätze (7226) nachrüstbar, Kontakte ständig betriebsbereit. Spitzensignal , Nummerntafeln- und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Leistungsfähiger Lautsprecher im Tender, Lautstärke einstellbar. Stirnseitig Kupplungshaken im Schienenräumer einsteckbar. Kurzkupplung zwischen Lok und Tender. Dampfleitungen schwenkbar mit den Zylindern geführt. Angesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Länge über Kupplungen 46,5 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37993",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/ca/96ca4965200161e76e8ec17b41412ac81434539210.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

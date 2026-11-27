@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39014",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39014",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 01 118.",
+    "number": "118",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Museumslokomotive Baureihe 01 der Historischen Eisenbahn Frankfurt. Betriebsnummer 01 118. Aktueller Betriebszustand.\n\nModell: Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform mit mfx - Decoder und umfangreichen Geräuschfunktionen. 3 Achsen angetrieben, Haftreifen . Lokomotive und Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED . Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 27,5 cm. Lieferung mit Präsentationssockel.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39014",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d4/3d/d43da88e3bb62286be3e75710d055d931434539047.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

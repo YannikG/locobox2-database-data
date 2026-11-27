@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37052",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37052",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 05",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 05 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ausführung mit voller Stromlinien-Verkleidung.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb mit Glockenanker im Stehkessel. 3 Achsen angetrieben. Haftreifen . Geschlossene Seitenverkleidungen ohne zusätzliche Aussparungen. Bogenfahrt ab normalem Radius 360 mm möglich. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Tender aus Metall. Feste Kurzkupplung zwischen Lok und Tender. Decoder unter aufschiebbaren Tenderhauben zugänglich. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37052",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a2/b9/a2b97a2340fe4575cc1e58b4a43d36111434538769.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

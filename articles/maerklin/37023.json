@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37023",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37023",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Güterzuglokomotive nach einem Entwurf",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 314.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive nach einem Entwurf von Borsig 1943. Vorgesehen als Baureihe 53.0 der Deutschen Reichsbahn ( DRB ). Kriegsbedingt nie fertig gestellte grösste deutsche Dampflokomotivkonstruktion.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . 2 Rauchsätze 7226 nachrüstbar. Fahrtrichtungsabhängig wechselndes Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Länge über Puffer 31,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37023",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/8e/008e1cef068993f9ded0e72212c285ec1434539320.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

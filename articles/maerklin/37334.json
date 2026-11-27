@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37334",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37334",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 3600",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Serie 3600 der Luxemburgischen Staatsbahnen ( CFL ). Ausführung in weinroter Grundfarbgebung. Betriebszustand Anfang der 1990er-Jahre. Französische Bauart ähnlich BB 12 000.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spezialmotor mit Schwungmasse . 4 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen LED . Dachstromabnehmer auf frei stehendem Rahmen gelagert. Zahlreiche angesetzte Griffstangen. Bremsschläuche und Kupplungsnachbildungen an der Pufferbohle ansteckbar. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37334",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/7b/887bd03f2bc1bc5e8550b354cf78f9061434539241.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

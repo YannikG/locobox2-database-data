@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37786",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37786",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Hochgeschwindigkeitszug ICE 3 MF.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3 MF. Baureihe 406 der Deutschen Bahn AG ( DB AG ), in der Ausführung für den Verkehr nach Frankreich. 1 Endwagen 406.0, 1. Klasse. 1 Trafowagen 406.1, 1. Klasse. 1 Speisewagen \"BordBistro\" 406.3. 1 Trafowagen 406.6, 2. Klasse. 1 Endwagen 406.5, 2. Klasse. Der Zug trägt den Namen \"Forbach-Lorraine\" und verkehrt zwischen Frankfurt/Main und Paris.\n\nModell: 5-teilige Ausführung. Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb und Fernscheinwerfer. 2 Achsen angetrieben, Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge des Zuges 142,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37786",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8b/c9/8bc952a95ec0506361e2ec127e0ad5ff1434539334.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

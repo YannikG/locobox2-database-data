@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37503",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37503",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 420",
+    "number": "379-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: S-Bahn- Triebzug Baureihe 420 der Deutschen Bahn AG ( DB AG ). Umbauausführung mit einem Stromabnehmer für das Stuttgarter S-Bahn Netz. Aktueller Betriebszustand in verkehrsroter Nahverkehrslackierung. Betriebsnummer 420 379-0, 421 379-9, 420 879-9.\n\nModell: Mit Digital- Decoder mfx und Sound- Generator . 5-poliger schräggenuteter Motor mit Schwungmasse zentral eingebaut. Antrieb mit Kardan auf 4 Achsen des Mittelwagens. Fahrgestell des Mittelwagens aus Metalldruckguss. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Dreilicht-Spitzensignal und zwei rote Schlusslichter. Fahrtrichtungsabhängiger Lichtwechsel. Die Endwagen besitzen Schleiferumschaltung und nehmen jeweils in Fahrtrichtung vorne den Strom auf. Beleuchtete Zugzielanzeige gemeinsam mit Dreilicht-Spitzensignal digital schaltbar. Kurzkupplungskinematik und elektrische Verbindung zwischen den Wagen. Kuppelbar mit beiliegender Spezialkupplung mit weiteren ET 420 Einheiten zum vorbildgerechten Betrieb. Serienmässige Innenbeleuchtung. Hochdetailliertes Kunststoffgehäuse mit vielen angesetzten Details, wie Griffstangen, Steckdosen, Scheibenwischer, Antennen, Pfeifen und Hörner. Mehrfarbige Inneneinrichtung. An den Enden detaillierte Darstellung der Scharfenberg- Kupplung (ohne Funktion). Verschiedene authentische Zielbeschilderungen beiliegend. Länge über Kupplung 77,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37503",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3a/8d/3a8deede46d6ab1c24efa3db4f9984ba1434538853.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

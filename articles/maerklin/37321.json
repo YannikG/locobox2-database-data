@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37321",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37321",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 620",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Re 620 der Schweizerischen Bundesbahnen ( SBB ). Ausführung in feuerroter/ultramarinblauer Grundfarbgebung der SBB Cargo, mit Wappen der Stadt \"Auvernier\". Umbauversion mit eckigen Stirnlampen. Aktueller Betriebszustand.\n\nModell: Mit Digital- Decoder mfx und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Schweizer Lichtwechsel ( Dreilicht-Spitzensignal /1 weisses Schlusslicht) konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Angesetzte Aufstiegs-Metallgriffstangen. Kupplungen gegen detaillierte Frontschürze austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37321",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fb/9d/fb9de542c8bcd5b088b06f4bd265dabd1434539281.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

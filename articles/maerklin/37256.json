@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37256",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37256",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "Dampftriebwagen Bauart Kittel CidT",
+    "number": null,
+    "livery": "4 Karlsruhe",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 130.0
+  },
+  "description": "Vorbild: Dampftriebwagen Bauart Kittel CidT „4 Karlsruhe“ der Deutschen Reichsbahn ( DRB ). Gebaut ab 1915, ursprünglich für die Grossherzoglich Badischen Staatseisenbahnen. Ausführung in typischer Triebwagen-Lackierung in rot/creme der Epoche II. Betriebszustand Ende der 1930er-Jahre.\n\nModell: Mit Digital- Decoder mfx . Geregelter Miniaturmotor. Fahrgestell aus Metalldruckguss. 2 Achsen angetrieben. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Spitzensignal mit wartungsfreien warmweissen LED . Kupplungsaufnahme nach NEM . Viele angesetzte Einzelheiten. Vollständiger Durchblick durch den Führerstand , Nachbildung des Kessels. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 13 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37256",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/cd/00cdb24e84e484afd76e8d4d3b6a17f41434538837.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

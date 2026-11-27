@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36711",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36711",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Hochgeschwindigkeitszug ICE 2.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: InterCity Express Baureihe 402 der Deutschen Bahn AG ( DB AG ). Vierteiliger Zug: Triebkopf 402.0, Grossraumwagen 1. Klasse 805.3, BordRestaurant 804.0, Steuerwagen 2. Klasse 808.0. Design im Lieferzustand.\n\nModell: Triebkopf mit Digital- Decoder und seriell schaltbaren Geräuschfunktionen. Spezialmotor. 2 Achsen angetrieben, Haftreifen . Spitzensignal konventionell in Betrieb, digital am Triebkopf schaltbar ( Steuerwagen immer an). Dachstromabnehmer mechanisch funktionsfähig. Zuglänge 102,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36711",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/80/0f800c0601864596023827659fde5bc51434538943.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

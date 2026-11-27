@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36793",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36793",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": ".",
+    "number": null,
+    "livery": "Polizei",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: ER 20 \"Hercules\". Fiktive Gestaltung als Polizeilokomotive.\n\nModell: Diesellokomotive in \"Polizeilackierung\" mit funktionsfähigen Blaulichtern und polizei-typischem Geräusch \"Martinshorn\". Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. Geräuschgenerator. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Blaulichter, \"Martinshorn\" und Anfahr- und Bremsverzögerung digital schaltbar. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36793",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cb/16/cb166b44066a3501640325302d53773f1434539279.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

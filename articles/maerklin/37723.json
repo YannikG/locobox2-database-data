@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37723",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37723",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Dieselhydraulische Mehrzwecklokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 141.0
+  },
+  "description": "Vorbild: Baureihe 212 der Deutschen Bahn AG ( DB AG ), Geschäftsbereich DB Cargo. Ausführung in verkehrsrot. Betriebszustand ca. 2002.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. Rahmen aus Metall. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Haltestangen aus Metall. Massstäblich schmale Vorbauten. Länge über Puffer 14,1 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37723",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c7/03/c7035107ea6decc8c2b05f95fc231fb01434539049.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

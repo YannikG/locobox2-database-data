@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39235",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39235",
+  "releaseDate": "2009",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 23",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 245.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 23 der Deutschen Bundesbahn (DB), Bauart 1´C1´h2. Gebaut ab 1950. Betriebszustand um 1959. Schwarze Ausführung der Kesselspannbänder.\n\nModell: Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb Softdrive Sinus, wartungsfreier Motor in kompakter Bauform. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Kurzkupplung mit Kinematik zwischen Lok und Tender. Eingerichtet für Rauchsatz 7226. Beleuchtung mit wartungsfreien warmweissen LED . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. An der Lok und am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Andere Betriebsnummer als Artikelnummer 39230. Befahrbarer Mindestradius 360 mm. Bremsschlauch-Attrappen und Kolbenstangenschutzrohre liegen bei. Länge über Puffer 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39235",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/ef/88ef3902bd3dc77abf9fbadc0fa2393a1434539189.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

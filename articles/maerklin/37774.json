@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37774",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37774",
+  "releaseDate": "2008",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR SVT 04",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnelltriebwagen Baureihe SVT 04 der Deutschen Bundesbahn (DB). Reichsbahn-Bauart SVT 137 \"Hamburg\". Zweiteilig mit Jacobs- Drehgestell . Ausführung in graublauer/hellgrauer Farbgebung im Betriebszustand Anfang der 1950er-Jahre.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, Licht- und Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform im Jacobs- Drehgestell angeordnet. 2 Achsen angetrieben, Haftreifen . Beleuchtungen mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Dach mit angesetzten Details. Durchgehende Seitenschürzen mit geführten Blenden über den Radausschnitten. Kulissenführung mit geschlossenem Faltenbalg zwischen den Fahrzeughälften. An den Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Länge über Kupplungen 48,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37774",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/69/0369559ca1e0d0eb82768033e5abfbcc1434539045.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}

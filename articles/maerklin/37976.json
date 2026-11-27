@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37976",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37976",
+  "releaseDate": "2010",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "Reihe L-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Reihe L-1 der Pennsylvania Railroad. Standard-Bauart 2-8-2 \" Mikado \" der United States Railroad Administration (USRA). Bauzeit ab 1918.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsmotor mit Glockenanker und Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien LED . Geschwindigkeitsabhängiges, synchronisiertes Dampflokgeräusch, Pfeifsignal sowie Läutewerk oder Anfahr- und Bremsverzögerung digital schaltbar. Vorne eingesteckte Vorbildkupplung ohne Funktion. Kurzkupplung zwischen Lok und Tender. Eingesetzte Griffstangen aus Metall. Viele angesetzte Einzelheiten. Figuren Lokführer und Heizer für den Führerstand liegen bei. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 29 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37976",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d5/0b/d50ba195c8516dddcbc5c38222de25581434539061.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:15Z"
+}
