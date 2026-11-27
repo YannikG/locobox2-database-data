@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37697",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37697",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Schenker",
+    "type": "2x Diesellokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 330.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 6400 in Doppeltraktion. Lokomotiven der DB Schenker Rail Nederland NV.\n\nModell: Mit Digital- Decoder mfx und Geräuschfunktionen. Eine Lokomotive mit geregeltem Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter über beide Lokomotiven konventionell in Betrieb, digital schaltbar. Doppel-A-Licht schaltbar. Beide Lokomotiven jeweils mit einer Telex - Kupplung . Lokomotiven fest verbunden. Länge über Puffer 33 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37697",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a2/cb/a2cbecbe474b9a0bad8575e1f16c96091467121350.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

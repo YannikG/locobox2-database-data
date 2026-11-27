@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37775",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37775",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 183",
+    "number": "252-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Salontriebwagen als Diesel-Schnelltriebwagen Baureihe 183 der Deutschen Reichsbahn der DDR (DR/DDR). Reichsbahn-Bauart SVT 137 \"Hamburg\". Zweiteilig mit Jacobs- Drehgestell . Ausführung in beige/rubinroter Farbgebung. Betriebsnummer 183 252-6. Betriebszustand um 1985.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . Beide Achsen im Jacobs- Drehgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung. Digital separat schaltbare Führerstandbeleuchtung. Beleuchtungen mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Dach mit angesetzten Details. Durchgehende Seitenschürzen mit geführten Blenden über den Radausschnitten. Kulissenführung mit geschlossenem Faltenbalg zwischen den Fahrzeughälften. An den Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Gesamtlänge über Kupplungen 48,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37775",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a8/dd/a8ddb6dd47267af012c4ca4a401a556d1466758168.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

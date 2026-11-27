@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37766",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37766",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 160",
+    "number": null,
+    "livery": "Lollo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 184.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive in Vorserien-Ausführung als Baureihe V 160 „Lollo“ der Deutschen Bundesbahn (DB). Farbgebung in Prototypen-Lackierung. Längsseitig jeweils vorbildgerecht unterschiedliche Lüfter- und Fensteranordnung. Betriebsnummer V 160 005. Betriebszustand um 1962.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 18,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37766",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/53/0f53d1023f84145cd951eee972fe20291467121935.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

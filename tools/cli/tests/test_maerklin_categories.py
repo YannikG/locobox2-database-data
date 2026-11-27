@@ -2,7 +2,14 @@ from locobox_cli.adapters.sources.maerklin.parse_pdp import _categories
 
 
 def test_lok_stays_lokomotive() -> None:
-    assert _categories("Elektrolokomotive Baureihe 101", "") == ["lokomotive"]
+    assert _categories("Elektrolokomotive Baureihe 101", "") == ["lokomotive", "elektrolokomotive"]
+
+
+def test_generic_class_title_has_no_type() -> None:
+    from locobox_cli.adapters.sources.maerklin.parse_pdp import _is_generic_class_title
+
+    assert _is_generic_class_title("Schnellzug-Dampflokomotive mit Schlepptender")
+    assert not _is_generic_class_title("BR 185.2")
 
 
 def test_railcar_diesel() -> None:

@@ -296,6 +296,23 @@ _GENERIC_RAILCAR_TYPE = re.compile(
 )
 
 
+_CLASS_ONLY = re.compile(
+    r"^(?:(?:Schnellzug|Personenzug|Güterzug|Schwere|Schwerer?|Stromlinien|Rangier|Erz|Weihnachts|"
+    r"Schlepptender|Mehrzweck|Aussichts)[- ]?)*"
+    r"(?:Dampf|Diesel|Elektro|Tender|Schnellzug|Güterzug|Personenzug|Rangier|Erz|Zweikraft|Gelenk|Kleinlok)?"
+    r"-?(?:klein)?(?:lokomotive|lok|triebwagen|schnelltriebwagen|triebzug)"
+    r"(?:\s+mit\s+[\w\- ]*(?:tender|Steuerwagen))?$",
+    re.I,
+)
+
+
+def _is_generic_class_title(t: str) -> bool:
+    """Title is only a product class (no Baureihe/number), e.g. «Schnellzug-Dampflokomotive mit Schlepptender»."""
+    if re.fullmatch(r"mit\s+[\w\- ]*tender", t, re.I):
+        return True
+    return bool(t) and not re.search(r"\d", t) and bool(_CLASS_ONLY.fullmatch(t))
+
+
 def _categories(title: str, description: str) -> list[str]:
     """Parent + sub categories. Lok sub-types (dampf/diesel/elektro) come from autofix."""
     head = f"{title} {description.split('Modell:', 1)[0]}"
@@ -304,7 +321,15 @@ def _categories(title: str, description: str) -> list[str]:
     elif _RAILCAR.search(title):
         base = "triebwagen"
     else:
-        return ["lokomotive"]
+        out = ["lokomotive"]
+        low = f"{title} {description.split('Modell:', 1)[0][:240]}".lower()
+        if re.search(r"dampf|tenderlok|schlepptender|wannentender", low):
+            out.append("dampflokomotive")
+        elif re.search(r"diesel|dieselhydraul|köf", low):
+            out.append("diesellokomotive")
+        elif re.search(r"elektro|elektrisch|e-lok", low):
+            out.append("elektrolokomotive")
+        return out
     out = [base]
     low = head.lower()
     if re.search(r"akku", low):
@@ -318,7 +343,12 @@ def _categories(title: str, description: str) -> list[str]:
 
 def _type_from_title_or_vorbild(title: str, description: str) -> str:
     t = swiss_ss((title or "").strip())
-    if t and not (_GENERIC_PRODUCT_TYPE.fullmatch(t) or _GENERIC_RAILCAR_TYPE.fullmatch(t)):
+    t_plain = t.rstrip(". ").strip()
+    if t and not (
+        _GENERIC_PRODUCT_TYPE.fullmatch(t_plain)
+        or _GENERIC_RAILCAR_TYPE.fullmatch(t_plain)
+        or _is_generic_class_title(t_plain)
+    ):
         return t
     vor = ""
     if description:

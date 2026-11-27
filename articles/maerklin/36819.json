@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36819",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36819",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Baureihe Köf II der Deutschen Bundesbahn (DB). Ausführung mit offenem Führerhaus.\n\nModell: Mit Digital- Decoder mfx und Telex - Kupplung . 2 Achsen angetrieben. Mit Gleishaftmagneten zur Zugkraftverbesserung. Separat angesetzte Metallgriffstangen. Spitzensignal konventionell in Betrieb, digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36819",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/09/b6/09b655a6b4e6fb0e150a363a885e5f271434539397.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

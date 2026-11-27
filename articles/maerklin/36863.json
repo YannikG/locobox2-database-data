@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36863",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36863",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR BR 98",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 80.0
+  },
+  "description": "Vorbild: Bayerische Lokalbahnlok PtL 2/2 als Baureihe BR 98.3 \"Glaskasten\" der Deutschen Bundesbahn (DB). Im Betriebszustand der Epoche III um 1954.\n\nModell: Mit Digital- Decoder mfx . Miniaturmotor im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Innenkessel aus Metall. Zahlreiche angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Länge über Puffer 8,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36863",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/a2/0ca2e61da929485767175c3fe4db58241434539164.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

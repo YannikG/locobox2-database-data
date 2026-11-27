@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37568",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37568",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Elektrolokomotive",
+    "number": null,
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Serie Be 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen ( SBB ). Bauart aus der ersten Bauserie. Tannengrüne Grundfarbgebung, mit teilweise verschlossenen Führerstandstüren, mit Hülsenpuffer , ohne stirnseitige Übergangsbleche, mit breiten Rangierertreppen, mit Falschfahrsignal und mit Indusi -Magnet. Betriebszustand um 1963.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse , jeweils 1 Motor in jedem Treibgestell . Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37568",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fa/1e/fa1ed1b9e92d79357500939dada2f2761434539085.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

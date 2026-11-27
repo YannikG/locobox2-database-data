@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37942",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37942",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Nr.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Nr. 5 (Reihe T44), Privatbahn-Lokomotive der schwedisch-norwegischen Erzbahn MTAS, zum Verschub von Erzwagen im Erzhafen Narvik. Betriebszustand 2010.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, zentral eingebaut. 4 Achsen über Kardanwellen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Vierlicht- Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Weitere Lichtfunktionen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Angedeutete Führerstandseinrichtung. Angesetzte Metallgriffstangen. Länge über Puffer 17,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37942",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2a/9c/2a9c51b49b9b470543b2905b0bcf532e1467123532.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

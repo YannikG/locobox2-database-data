@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37600",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37600",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "V 60",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive V 60 der Deutschen Bundesbahn (DB). Betriebszustand um 1960.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen, geregeltem Hochleistungsantrieb und Telex -Kupplungen. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37600",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/06/62/066228accc7251b8eefbe1ccb054b6141434539367.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

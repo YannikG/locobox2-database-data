@@ -35,6 +35,9 @@ def new_type(t: str, number: str | None) -> str | None:
         return None
     rest = s[matches[-1].end() :].strip()
     rest = re.split(r"\s+als\s+", rest, flags=re.I)[-1]
+    rest = re.sub(
+        r"^mit\s+\S+\s+(?=(?:BR|Baureihe|Reihe|Serie|Gattung|Klasse|Class)\b)", "", rest, flags=re.I
+    )
     rest = re.sub(r"^(?:als|mit)\s+", "", rest, flags=re.I)
     rest = re.sub(r"\s+mit\s+.*$", "", rest, flags=re.I)
     rest = re.sub(r"^Baureihe\s+", "BR ", rest, flags=re.I)

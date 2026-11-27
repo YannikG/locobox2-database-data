@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37738",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37738",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Diesel-Triebzug .",
+    "number": null,
+    "livery": "LINT",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen LINT 41 der Bayerischen Regiobahn BRB. Ausführung als \"Puppenkistenzug\". Einsatz: Nahverkehr im Grossraum Augsburg und Ingolstadt.\n\nModell: Mit Digital- Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Hochleistungsmotor und Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen LED . Zugzielanzeige vorbildgerecht mit gelben LED . Spitzensignal , Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37738",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/f2/baf22d047841b2c3591ac309438660661434539326.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

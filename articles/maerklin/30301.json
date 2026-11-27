@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30301",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30301",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Da",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 147.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe Da der Schwedischen Staatsbahnen (SJ). Braune Grundfarbgebung. Betriebszustand Ende 1950er Jahre.\n\nModell: Wiederauflage eines Märklin-Klassikers auf Basis des Artikels 3030. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. Erhabener \"Märklin\"-Schriftzug und erhabene Artikelnummer am Lokgehäuse. An beiden Lokseiten Relex - Kupplung . Länge über Puffer 14,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30301",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ae/28/ae284bcebe7c4bccd8c3a6a307b0693a1434538627.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

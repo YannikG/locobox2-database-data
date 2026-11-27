@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37020",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37020",
+  "releaseDate": "2013",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 53.0",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 355.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive mit 5-achsigem Kondenstender , nach einem Entwurf von Borsig. Vorgesehen als Baureihe 53.0 der Deutschen Bundesbahn (DB). Kriegsbedingt nie fertig gestellte grösste deutsche Dampflokomotivkonstruktion. Fiktiver Betriebszustand Anfang 1950er Jahre.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel und Lüfterantrieb im Kondenstender . 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für 2 Raucheinsätze 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbare Raucheinsätze konventionell in Betrieb, digital schaltbar. Abstand zwischen Lokomotive und Kondenstender verstellbar. Länge über Puffer 35,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37020",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/65/b765d8fc0a5b12c2c94cf905ba22dad61434539101.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

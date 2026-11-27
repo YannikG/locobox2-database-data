@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37796",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37796",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Hochgeschwindigkeitszug TGV POS",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug TGV POS (train à grande vitesse) der Französischen Staatsbahnen ( SNCF ), in der Ausführung für den Verkehr zwischen Paris und Süddeutschland. 2 Triebköpfe, 1 Übergangswagen (R1) 1./2. Klasse, 1 Übergangswagen (R8) 2. Klasse. Triebzugnummer 4415. Betriebszustand 2012.\n\nModell: 4-teilige Grundgarnitur. Beide Triebköpfe (TK1 und TK2) motorisiert. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zentral eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht für französischen Lichtwechsel digital separat abschaltbar (Lichtfunktion). Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Einzeln eingesetzte und funktionsfähige Scheibenwischer in jedem Führerstand , je Triebkopf digital separat schaltbar (Schaltfunktion V/R). Führerstände in den Triebköpfen mit Inneneinrichtung. Separat angesetzte Griffstangen aus Metall. Triebkopf und Übergangswagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell . Übergangswagen mit Dachhutzen. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in unterschiedlichen Ausführungen mit jeweils einer Wippe für DB und SNCF . Pantographen sind nur mechanisch, nicht elektrisch funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 4-teiligen Grundgarnitur 101 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37796",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c9/ae/c9ae9efc2d92de12b5c7864474424c051434539467.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

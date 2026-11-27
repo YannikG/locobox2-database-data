@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37937",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37937",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "Personenzug-Dampflokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive der preussischen Gattung P10 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ausführung ohne Windleitbleche und mit preussischem Tender 2´2´T 31,5 ohne Kohlekasten-Aufsatzbretter.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen LED . Verstellbare, kulissengeführte Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Kolbenstangenschutzrohre liegen bei. Länge über Puffer 26,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37937",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/86/be/86be30dac5f6ba36fe23ae75a178c79a1440415134.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

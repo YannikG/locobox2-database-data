@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37166",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37166",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung T 16.1",
+    "number": "8118",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Gattung T 16.1 in der Lackierung der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Braungrüne Grundfarbgebung. Mit Läutewerk und Vorwärmer auf dem Kesselscheitel sowie Stangenpuffer . Betriebsnummer 8118 Magdeburg. Betriebszustand um 1916.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Rauchsatz 72270 liegt bei. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Telex - Kupplung vorne und hinten zum ferngesteuerten Abkuppeln von Wagen. Rangiergang mit Rangierlicht-Funktion vorne/hinten digital schaltbar. Lokführer-Figur und Heizer-Figur, sowie Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37166",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9f/73/9f738359a60090b91dbee20c1a5cacbc1434539064.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

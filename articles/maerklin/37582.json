@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37582",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37582",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR elT 1999",
+    "number": null,
+    "livery": "Gläserner Zug",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Elektrischer Aussichtstriebwagen Baureihe elT 1999 \"Gläserner Zug\" der Deutschen Reichsbahn-Gesellschaft ( DRG ). Farbgebung beige/braungrün. Mit Einfachlampen an den Stirnseiten, 2 doppelte Wendler-Sauger für die Belüftung und Druckluftpfeife auf dem Dach, ohne Zugbahnfunk und mit 2 Scheren-Stromabnehmern. Betriebszustand um 1935.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Über die Funktionstasten kann eine zeitgenössische Begrüssungsansage sowie die Ansage eines Etappenziels, eines Fotohalts und des Endbahnhofes (Umgebungsgeräusch 1, 2, 3) ausgelöst werden. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Eingebaute Inneneinrichtung. Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Innenbeleuchtung kann als digitale Zusatzfunktion gedimmt werden. Drehgestelle mit vorbildgerecht unterschiedlich langen Radständen. Eingesetzte Panorama-Fenster. Doppelte Wendler-Sauger und Druckluftpfeife auf dem Dach. Ausführung mit 2 Scheren-Stromabnehmern. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37582",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d1/9d/d19df2c984ff0468b121c60aa1bf7e8a1434539137.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

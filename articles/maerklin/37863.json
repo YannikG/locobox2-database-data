@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37863",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37863",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB Schenker",
+    "type": "BR 363",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Baureihe 363 der DB Schenker Rail Deutschland AG. Dieselhydraulischer Antrieb mit Blindwelle. Betriebszustand um 2011.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und Blindwelle angetrieben. Haftreifen . Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37863",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/07/4f/074fb22176bfb2015ebee948376db82b1434539301.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

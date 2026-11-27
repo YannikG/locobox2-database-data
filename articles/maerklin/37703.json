@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37703",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37703",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 401",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 1 InterCityExpress Baureihe 401 der Deutschen Bahn AG ( DB AG ). Aktuelle Ausführung.\n\nModell: Fünfteilige Ausführung. Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit warmweissen LED . Chassis der Triebköpfe aus Metall. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Länge des Zuges ca. 123,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37703",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/bf/b2bf969ed4f95215cafc4a35c01835ce1467121472.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

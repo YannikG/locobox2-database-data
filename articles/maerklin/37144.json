@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37144",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37144",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "BR 89",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive der preussischen Gattung T 3 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV), spätere Baureihe 89.70-75. Loknummer 6306 MAINZ. Zweite Hauptbauart ab 1897.\n\nModell: Mit neuem Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden ( LED ). Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37144",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/36/9a36a8a9926bdfafd87850608040ba911434539222.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

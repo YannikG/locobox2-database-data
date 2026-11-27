@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36082",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36082",
+  "releaseDate": "2015",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 147.0
+  },
+  "description": "Vorbild: Baureihe V 80 der Deutschen Bundesbahn mit dieselhydraulischem Antrieb und Gelenkwellen-Kraftübertragung. Epoche III, Achsfolge B'B', Betriebszustand um 1957.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor mit Schwungmasse , 4 Achsen angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital schaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Strom führende Kupplungen, digital schaltbar. Nachgebildete Führerstands-Inneneinrichtung. Die Lokführer-Figur ist beigelegt. Länge über Puffer 14,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36082",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f1/8e/f18ec468487e74ae1a898453297ea24d1434539405.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}

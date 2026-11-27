@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37545",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37545",
+  "releaseDate": "2014",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Güterzug-Dampflokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive der preussischen Gattung G 8.1 der Königlich Preussischen Eisenbahnverwaltung (KPEV), mit Kastentender 3 T 16,5. Betriebszustand kurz nach Auslieferung durch Borsig 1917. Lokomotive 9.736 im Auslieferungsbuch der A. Borsig-Werke, Berlin-Tegel.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Führerstand mit Inneneinrichtung. Feste Kurzkupplung zwischen Lokomotive und Tender. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungen liegen bei. Länge über Puffer 21,0 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit einem Relief des charakteristischen Borsig-Tors des Borsigschen Lokomotivwerkes Berlin-Tegel. Graviertes Metallschild inklusive der Fabriknummer am Vitrinensockel. Hochwertiger Auszug des Auslieferungsbuches beigelegt.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37545",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/b8/05b80fd1f08af7e2d975edd9367fabc81434538622.jpg"
+  },
+  "updatedAt": "2026-11-27T10:03:51Z"
+}
