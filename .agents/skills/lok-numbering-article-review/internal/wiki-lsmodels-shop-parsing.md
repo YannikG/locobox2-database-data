@@ -26,7 +26,7 @@ Shop oft ohne UVP (`show_prices: false`).
 | `BB 22200, grau/violett, …` | `BB 22200` | null (Serie) | Rest |
 | `BB 22399, …` / `BB 22240, …` | `BB 22200` | `22399` / `22240` | Rest |
 | `CC 6507, …` | `CC 6500` | `6507` | Rest |
-| `X4630, rouge crème, …` | `X 4630` | null | Rest |
+| `X4630, rouge crème, …` / `X4638-XR8650, bleu, …` | `X 4500` (Nr. 4501–4800) | `X 4630` / `X 4638` | Rest |
 | `Z 27877, …` | `AGC` | `27877` | Rest |
 | `DB Cargo Vectron MS, … "I am …"` | `Vectron MS` | null | Kurzname / Quote |
 | `Apm EC Panorama, …` | `Apm EC Panorama` | null | Rest |
@@ -47,7 +47,7 @@ Viele LS-Models-Titel nennen nur die Serie (`BB 22200`, `BB 7200`, `CC 6500`, `H
 - SNCF-Flanke `522214` → `BB 22214` (`number` `22214`); `107284` → `BB 7284`; `CC-6513` → `6513`
 - HLE: grosse Nummer an der Flanke (`2756`, `2114`, `1211`), UIC-Zeile ignorieren
 - DB BR 120/Vectron: `120 144-1` bzw. UIC `91 80 6193 366-2 D-DB` → `193 366-2`
-- Typ-Zeile mit `X####` hat die Nummer schon im `type`, nichts zu tun
+- Autorail `X####`: Nummer steht im Titel/Beschreibung (`X4638-XR8650`), nicht im Bild suchen → `type` `X 4500`, `number` `X 4638`
 - Stadtwappen/Taufnamen (z. B. «Dole») kurz in `livery`, Muster `En Voyage, Dole`
 
 ## AC/DC-Schwestern

@@ -403,7 +403,10 @@ def split_lsmodels_title(
     # 4) Autorail X#### / X ####
     m = re.match(r"^X\s*[-]?\s*(\d{3,4})\b\s*,?\s*(.*)$", work, re.I)
     if m:
-        return f"X {m.group(1)}", None, _livery_from_rest(m.group(2))
+        # Serie X 4500 (Nr. 4501–4800), Laufnummer wie bei REE «X-2900» mit X-Präfix
+        num = int(m.group(1))
+        typ = "X 4500" if 4501 <= num <= 4800 else f"X {num}"
+        return typ, f"X {m.group(1)}", _livery_from_rest(m.group(2))
 
     # 5) AGC / Z #####
     m = re.match(r"^Z\s+(\d{4,5})\b\s*,?\s*(.*)$", work, re.I)

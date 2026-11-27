@@ -120,7 +120,10 @@ def test_split_lsmodels_title_common_patterns() -> None:
         categorie="HLE 13",
     ) == ("HLE 13", "1312", "Grau-blau, Linien türkis, LINEAS, Version 2020")
     assert split_lsmodels_title("BB 22200, grau/violett, En Voyage")[0] == "BB 22200"
-    assert split_lsmodels_title("X4630, rouge crème, Longeau")[0] == "X 4630"
+    typ, num, liv = split_lsmodels_title("X4630, rouge crème, Longeau")
+    assert (typ, num, liv) == ("X 4500", "X 4630", "rouge crème, Longeau")
+    typ, num, _liv = split_lsmodels_title("X4638-XR8650,bleu, TER SNCF, Nevers")
+    assert (typ, num) == ("X 4500", "X 4638")
     typ, num, _liv = split_lsmodels_title(
         "Z 27877, blau/metallic grau, Alsace, vierteilig, DB Zulassung"
     )
