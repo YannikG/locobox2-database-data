@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22428",
+  "manufacturer": "Trix",
+  "articleNumber": "22428",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 132",
+    "number": null,
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 132 \"Ludmilla\" der Deutschen Reichsbahn (DR). Betriebszustand um 1989.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Länge über Puffer ca. 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22428",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/82/3b/823baf90e1c35f2f185447e7d31b924b1434534691.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

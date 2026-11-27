@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22022",
+  "manufacturer": "Trix",
+  "articleNumber": "22022",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Schlepptender-Schnellzuglokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Modell: Epoche III. Geregelter C-Sinus-Hochleistungsantrieb in kompakter Bauform. DCC/SX-Decoder mit automatischer Analogbetrieb-Erkennung, auch für konventionellen Betrieb geeignet. 3 Achsen angetrieben, Haftreifen. Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Mit Rauchsatz 7226 nachrüstbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit wartungsfreien Leuchtdioden und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 275 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22022",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b6/69/b669b0ffbbb5f96a6a4e34576e3a37db1434534670.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

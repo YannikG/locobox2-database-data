@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22160",
+  "manufacturer": "Trix",
+  "articleNumber": "22160",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 94.5-17",
+    "number": "713",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 94.5-17 der Deutschen Bundesbahn (DB), mit Läutewerk und Vorwärmer auf dem Kesselscheitel, ohne Rangierfunkantenne. Betriebsnummer 94 713. Betriebszustand um 1961.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22160",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ea/3d/ea3dfd26ecec3c8dae8558b772776b361434534413.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22773",
+  "manufacturer": "Trix",
+  "articleNumber": "22773",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 620",
+    "number": "063-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Elektrolokomotive Re 6/6 als Re 620 der Schweizerischen Bundesbahnen (SBB), Geschäftsbereich SBB Cargo. Ausführung in tannengrüner Grundfarbgebung. Runde Stirnlampen, UIC-Steckdosen, stirnseitig schräge Griffstangen, an einer Lokseite mit Wartungsklappe für Klimaanlage. Lok-Betriebsnummer 620 063-8, mit Lok-Wappen \"Eglisau\". Betriebszustand ca. 2013 bis 2018.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen (jeweils beide Achsen in den beiden äusseren Drehgestellen) über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung umschaltbar auf 2 rote Schlusslichter. Führerstandsbeleuchtung und Maschinenraumbeleuchtung zusätzlich jeweils digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Aufstiegsgriffstangen aus Metall. Kupplungen gegen Frontschürzen austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22773",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ac/10/ac10132b0189e3e1c6ba94f8f2a101961692360015.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

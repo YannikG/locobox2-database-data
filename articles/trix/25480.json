@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25480",
+  "manufacturer": "Trix",
+  "articleNumber": "25480",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Reihe 1",
+    "number": "1.030",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 284.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Reihe 1 der Belgischen Staatsbahn (SNCB/NMBS). Betriebsnummer 1.030. Betriebszustand um 1953/54.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Drei Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Ein Rauchgenerator ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Das Notlicht an der Rauchkammertür ist separat digital schaltbar. Zusätzlich sind eine Führerstandbeleuchtung und das Feuerflackern in der Feuerbüchse separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Uneingeschränkte Kurvengängigkeit der Lok im Radius 437,5 mm (Radius 2) mit Beachtung des Lichtraum-Profils. Das Befahren des Radius 360 mm (Radius 1) ist ohne Beachtung des Lichtraum-Profils ebenfalls möglich. Bremsschläuche, Schraubenkupplungsimitation und Signalhalter liegen bei. Länge über Puffer ca. 28,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25480",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/fe/78fef8d7d1d278ac86c7d1c790c08f7a1600927239.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

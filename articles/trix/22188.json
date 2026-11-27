@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22188",
+  "manufacturer": "Trix",
+  "articleNumber": "22188",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "B VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 163.0
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung mit Kohlefeuerung. Namensschild \"Steinach\".\n\nModell: Geregelter Hochleistungsantrieb mit DCC-Decoder und umfangreichen Geräuschfunktionen. Hochleistungsmotor im Kessel der Lok. 2 Achsen angetrieben. Haftreifen. Detailliertes Fahrwerk mit Aussenrahmen und Stephenson-Steuerung. Spitzensignal konventionell in Betrieb, digital schaltbar. Kurzkupplung zwischen Lok und Tender. Vorbildkupplungen beiliegend. Länge über Puffer 16,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22188",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/a1/2ba186940a3b6bf2727c93e0592a13cc1434534429.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

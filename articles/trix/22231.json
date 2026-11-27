@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22231",
+  "manufacturer": "Trix",
+  "articleNumber": "22231",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 23",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Personenzug-Dampflokomotive Baureihe 23 der Deutschen Bundesbahn (DB), Bauart 1\"C1\"h2, aus der ersten Bauserie Gebaut ab 1950. Betriebszustand um 1959. Schwarze Ausführung der Kesselspannbänder. Einsatz: Personenzüge.\n\nModell: Epoche III. Mit 21-poliger Digital-Schnittstelle. Glockenankermotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. Lokomotive und Tender weitgehend aus Metall. Kurzkupplung mit Kinematik zwischen Lok und Tender. Eingerichtet für Rauchsatz 7226. Beleuchtung mit wartungsfreien warmweissen LED. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Andere Betriebsnummer als Artikelnummer 22230. An der Lok und am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Bremsschlauch-Attrappen und Kolbenstangenschutzrohre liegen bei. Länge über Puffer 245 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22231",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/10/02/10022b80b06fc2685034df7133daaaa31434534553.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

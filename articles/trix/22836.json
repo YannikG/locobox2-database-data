@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22836",
+  "manufacturer": "Trix",
+  "articleNumber": "22836",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10.12",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe E 10.12 der Deutschen Bundesbahn (DB) mit windschnittiger Front (\"Bügelfalte\"). Bauserie mit Schnellfahr-Drehgestellen und verkleideten Puffern. Betriebszustand Mai 1967.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22836",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/9b/059ba4a44f77dca32dedab1d93b177501434534562.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

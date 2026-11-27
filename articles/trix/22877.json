@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22877",
+  "manufacturer": "Trix",
+  "articleNumber": "22877",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 78",
+    "number": "507",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 170.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Tenderdampflokomotive BR 78 (ehemalige preussische T18) der Deutschen Bundesbahn (DB). Ausführung mit drei Kesselaufbauten (D-D-S), Sandkasten eckig. Wasserkästen genietet, Führerhausdach mit eckigem Aufbau, Dreilicht-Spitzensignal mit DB Reflexglaslampen. Betriebsnummer 78 507. Beheimatet in Essen. Betriebszustand um 1965.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zwei rote Schlusslichter separat digital schaltbar. Zusätzlich ist die Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED) Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 17 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22877",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/b7/e4b75d2e3e6c7416781c2fdcf11771ac1605769209.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

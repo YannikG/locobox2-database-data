@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25161",
+  "manufacturer": "Trix",
+  "articleNumber": "25161",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 429.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "Strukton",
+    "type": "Reihe 1800",
+    "number": "1824",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 203.0
+  },
+  "description": "Vorbild: Elektrolokomotive Reihe 1800 der Strukton Rail B.V. Gelbe Grundfarbgebung mit auffälliger Seitengestaltung der Strukton Rail. Betriebsnummer 1824 \"Nicole\". Betriebszustand ab Ende 2021 mit zusätzlicher Beklebung zu \"100 Jahre Strukton\".\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Weitere Lichtfunktionen wie verschiedene Rangierlichter und Gefahrsignale separat schaltbar. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien gelben und roten Leuchtdioden (LED). Stromabnehmer digital heb- und senkbar. Separat angesetzte Scheibenwischer, Lüftergitter, Griffstangen und Dachleitungen. Pufferhöhe nach NEM. Bremsleitungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 20,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25161",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a8/b7/a8b71aedc6f002b3acc4ce7c20d947c41702904426.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

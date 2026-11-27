@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22201",
+  "manufacturer": "Trix",
+  "articleNumber": "22201",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 290",
+    "number": "083-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 290 der Deutschen Bundesbahn (DB). Frühere Baureihe V 90. Achsfolge B'B'. Einsatz: Rangierdienst, Ablaufberg, Kurzstrecken im Güterverkehr.\n\nModell: Epoche IV, Fahrgestell und Hauptteil des Aufbaus aus Metalldruckguss. 21-polige Digital-Schnittstelle. Hochleistungsmotor mit Glockenanker zentral eingebaut. 4 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Angedeutete Führerstandseinrichtung. Angesetzte Metall-Griffstangen. Zusätzliche Trittstufen beiliegend. Kupplungsaufnahmen nach NEM. LüP 164 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22201",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/54/d6/54d670831952f90571d72066429573c91434534500.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

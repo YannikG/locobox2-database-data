@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22334",
+  "manufacturer": "Trix",
+  "articleNumber": "22334",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Gruppe 675",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III"
+  },
+  "description": "Vorbild: Personenzuglokomotive Gruppe 675 der Italienischen Staatsbahnen (FS). Ehemalige deutsche P 8. Kessel mit 2 Domen ohne Windleitbleche. Vierachsiger Kastentender. Einsatz: Reisezüge und leichte Güterzüge im Flachland, auch gemischte Züge. LüP 218 mm.\n\nModell: Epoche II und III, Fahrgestell, Kessel und Tenderaufbau aus Metalldruckguss. Mit 21-poliger Digital-Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Rauchsatz 72270 nachrüstbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand. Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Kupplungsaufnahmen nach NEM, am Tender mit Kinematik für Kurzkupplung.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22334",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7c/40/7c40f9daad0f329823d7d0505f9c78a11434534647.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

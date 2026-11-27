@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22963",
+  "manufacturer": "Trix",
+  "articleNumber": "22963",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 609.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 I",
+    "number": "14201",
+    "livery": "Köfferli",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 221.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Elektrolokomotive Serie Ce 6/8 I \"Köfferli\" der Schweizerischen Bundesbahnen (SBB). Tannengrüne Grundfarbgebung mit grauem Fahrwerk. Stirnseitige Führerstandstüren mit Fenster und mit Übergangsblechen, mit Besandungsanlage, mit Falschfahrsignal und mit Integra-Signum Magnete. Lok-Betriebsnummer 14201. Betriebszustand Anfang der 1950er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Jeweils 3 Treibräder und Blindwelle in den beiden Treibgestellen über Kardan angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Falschfahrsignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten, wie Kühlröhren für das Transformatorenöl. Führerstand- und Maschinenraum-Nachbildung. Mit Besandungsanlage an den Treibradgruppen. Detaillierte Dachausrüstung mit Heizwiderständen, Dachleitungen, Isolatoren und Dachlaufbretter sowie Scherenstromabnehmer mit doppeltem Schleifstück. Befahrbarer Mindestradius 360 mm. Bremsschläuche, Schraubenkupplungsimitationen sowie Aufstiegstritte liegen bei. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22963",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/34/2c34f7e11655584d344bd771a970212d1746018029.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

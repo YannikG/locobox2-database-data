@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25853",
+  "manufacturer": "Trix",
+  "articleNumber": "25853",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 599.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ET 85",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 468.0
+  },
+  "description": "Vorbild: Elektrischer Triebwagen ET 85 mit Steuerwagen ES 85 der Deutschen Bundesbahn (DB). Ausführung mit oben angebrachten Zugschlusssignal-Laternen in purpurroter Farbgebung. Betriebsnummern ET 85 21 und ES 85 20. Heimatbetriebswerk München. Betriebszustand ab 1958.\n\nModell: ET 85 als angetriebene Einheit mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Vier Achsen angetrieben. Haftreifen. Dreilicht-Spitzensignal und zwei rote Schlusslichter über beide Einheiten an den äusseren Stirnseiten mit der Fahrtrichtung wechselnd, digital schaltbar. Beide Einheiten sind über eine mehrpolige Kupplung fest miteinander gekuppelt. Innenbeleuchtungen im Triebwagen ET 85 und Steuerwagen ES 85 konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Spitzensignal an Triebwagenseite 1 und Steuerwagenseite 2 jeweils separat digital abschaltbar. Führerstandsbeleuchtung an den äusseren Führerständen separat digital schaltbar. Sehr detaillierte Ausführung von Fahrwerk und Aufbau. Wagenkasten und Wagenboden aus Metall. Mehrteilige und mehrfarbige Inneneinrichtung. Nachgebildete Bremsleitungen und zwei Kurzkupplungsköpfe liegen bei. Gesamtlänge über Puffer ca. 46,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25853",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c6/fe/c6feacef3321400269934db1cf6371831668862819.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:57Z"
+}

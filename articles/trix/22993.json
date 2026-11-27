@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22993",
+  "manufacturer": "Trix",
+  "articleNumber": "22993",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 92",
+    "number": "739",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 128.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 92. Ausführung als Ausstellungslokomotive der Dampflok-Erlebniswelt in Meiningen. Beschriftet als 92 739 im Aussehen der Deutschen Bundesbahn.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Schraubenkupplungen liegen als separat ansteckbare Teile bei. Ein beiliegendes Booklet informiert über die Geschichte der Lokomotive. Länge über Puffer 12,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22993",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0a/8c/0a8c94d24a7ac3cabc3037340093e18e1746018027.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

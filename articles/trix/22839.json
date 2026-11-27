@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22839",
+  "manufacturer": "Trix",
+  "articleNumber": "22839",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "D XII",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Tenderlokomotive Reihe D XII der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.), spätere DRG-Baureihe 73.\n\nModell: Tenderlokomotive mit Digital-Decoder DCC. Hochleistungsmotor im Kessel. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22839",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/62/b9/62b93e3a0cec077a70a10880a77b9ce51434534668.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

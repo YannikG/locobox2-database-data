@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22267",
+  "manufacturer": "Trix",
+  "articleNumber": "22267",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 10.1 der Deutschen Bundesbahn (DB). Mit eckigem Lokkasten, 5 Stirnlampen, umlaufende Regenrinne und Hochleistungslüfter. Grundfarbgebung kobaltblau/schwarz. Betriebszustand um 1964.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22267",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3a/a9/3aa99fd35c9e7b572c34b02ddeea589a1434534674.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:20Z"
+}

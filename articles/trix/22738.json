@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22738",
+  "manufacturer": "Trix",
+  "articleNumber": "22738",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ET 87",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 490.0
+  },
+  "description": "Vorbild: Elektrischer Triebzug (ET) 87 der Deutschen Bundesbahn (DB). Achsfolge 2'1 + B'1 + 1 2'. Bestehend aus Steuerwagen a (ES 87 03 a), Triebwagen (ET 87 03) und Steuerwagen b (ES 87 03 b). Purpurrote Farbgebung. Betriebszustand um 1955.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb, vorbildgerecht angetriebene Mitteleinheit. 2 Achsen angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes 2-Licht-Spitzensignal und zwei rote Schlusslichter. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung digital schaltbar, konventionell in Betrieb. Beleuchtung mit wartungsfreien Leuchtdioden. Fahrgasträume mit Inneneinrichtung. Führerstände mit freiem Durchblick. Kurzgekuppelte Spezialverbindung zwischen den Wageneinheiten. An den Enden Kupplungsaufnahmen nach NEM. Länge über Puffer 49,0 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22738",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/10/0e107febb7bb2a9311fbbbaa9fde8e731514358069.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:48Z"
+}

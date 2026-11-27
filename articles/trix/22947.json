@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22947",
+  "manufacturer": "Trix",
+  "articleNumber": "22947",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Re 460",
+    "number": "105-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Serie Re 460 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Werbelokomotive des Verbandes Schweizer Lokomotivführer(VSLF). Lok-Betriebsnummer: 460 105-0. Aktueller Betriebszustand.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Fernscheinwerfer digital schaltbar. Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstände mit Inneneinrichtung. Länge über Puffer 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22947",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/57/2a/572a236f6d2313f258cb1dcf4fef1fc21434534577.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

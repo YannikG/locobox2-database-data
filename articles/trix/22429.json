@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22429",
+  "manufacturer": "Trix",
+  "articleNumber": "22429",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 42.90",
+    "number": null,
+    "livery": "Franco-Crosti",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 42.90 Franco-Crosti der Deutschen Bundesbahn (DB). Ausführung mit Wagner-Windleitblechen. Betriebszustand um 1955.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Führerstands- und Fahrwerksbeleuchtung. 5 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrgestell. Beleuchtungen mit warmweissen Leuchtdioden (LED). Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Führerstandsbeleuchtung konventionell in Betrieb, digital schaltbar. Länge über Puffer ca. 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22429",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/25/e82549d4c50272ee2e8747eb9768b4331434534509.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

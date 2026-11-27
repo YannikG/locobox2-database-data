@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22271",
+  "manufacturer": "Trix",
+  "articleNumber": "22271",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 640",
+    "number": "017-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 640 (LINT 27) der Deutschen Bahn AG (DB AG), Unternehmensbereich DB Regio.\n\nModell: Triebwagen mit geregeltem Hochleistungsantrieb und 21-poliger Digital-Schnittstelle. 2 Achsen angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). An beiden Enden Darstellung der Mittelpufferkupplung. Zug mit getönten Fenstern und Tiefeinstiegen. Gesamtlänge 28,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22271",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/aa/c3aa73ea462b2cdf06ad35d10a01a70e1452545157.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

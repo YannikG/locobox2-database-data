@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22185",
+  "manufacturer": "Trix",
+  "articleNumber": "22185",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "B VI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Oldtimer-Lokomotive Reihe B VI der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Ausführung mit Kohlefeuerung. Namensschild \"Sauerlach\".\n\nModell: Epoche I. Geregelter Hochleistungsantrieb mit DCC-Decoder und umfangreichen Geräuschfunktionen. Hochleistungsmotor mit Glockenanker im Kessel der Lok. 2 Achsen angetrieben. Haftreifen. Detailliertes Fahrwerk mit Aussenrahmen und Stephenson-Steuerung. Spitzensignal konventionell in Betrieb, digital schaltbar. Geschwindigkeitsabhängiges Dampflok-Fahrgeräusch, Pfeifsignal, weitere Betriebsgeräusche sowie Anfahr- und Bremsverzögerung mit DCC digital schaltbar. Kurzkupplung zwischen Lok und Tender. Vorbildkupplungen beiliegend. Länge über Puffer 163 mm. Verpackt in einer dekorativen Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22185",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/40/0e/400ee7975a9ffb9c4a6392d47db56f7e1434534702.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}

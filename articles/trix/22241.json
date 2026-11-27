@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22241",
+  "manufacturer": "Trix",
+  "articleNumber": "22241",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 89",
+    "number": "70–75",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 89.70-75 der Deutschen Bundesbahn (DB). Frühere preussische Nebenbahnlokomotive T 3. Betriebszustand Anfang 1950er Jahre.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. 3 Achsen angetrieben. Haftreifen. Detailliertes Fahrwerk. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer ca. 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22241",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/72/5b/725b6eddcdb55e68f0137fb571bdb57c1434534539.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}

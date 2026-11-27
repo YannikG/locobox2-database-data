@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22798",
+  "manufacturer": "Trix",
+  "articleNumber": "22798",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 798",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: BR 798 + 998 (Motorwagen und Steuerwagen) der Deutschen Bundesbahn (DB). In ursprungsfarbener Epoche-IV-Ausführung zu Beginn der 1970er-Jahre.\n\nModell: Epoche IV. Mit DCC/Sx-Decoder und geregeltem Hochleistungsantrieb C-Sinus in neuer wartungsfreier Kompakt-Bauform. 2 Achsen angetrieben. Serienmässig eingebaute Innenbeleuchtung. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungsdeichsel-Verbindung mit Kulissenführung. Inneneinrichtung. Wagen-Führerstände, Steuerwagen und der optional erhältliche Beiwagen mit freiem Durchblick. Spitzen- und Schlusslichter sowie Innenbeleuchtung mit wartungsfreien Leuchtdioden (LED). Spitzensignal und Innenbeleuchtung konventionell in Betrieb und digital schaltbar. Länge der zweiteiligen Garnitur 322 mm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22798",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ca/c4/cac434238b2b43cf94d0807bf6c40e441434534425.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

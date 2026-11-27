@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22217",
+  "manufacturer": "Trix",
+  "articleNumber": "22217",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 218",
+    "number": "247-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 218 der Deutschen Bundesbahn (DB). Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Ausführung in altroter Lackierung.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. 21-polige Digitalschnittstelle. Spezialmotor mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Beleuchtung mit warmweissen wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Spitzensignal wahlweise am Führerstand 1 und 2 bei Verwendung des Decoders 66849 im Digitalbetrieb abschaltbar. Angesetzte Metall-Griffstangen. Detaillierte Pufferbohle. Kupplungsaufnahmen nach NEM. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22217",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c0/9f/c09f34dd6c755dc896fc64c1b45f56be1434534632.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

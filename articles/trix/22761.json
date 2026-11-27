@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22761",
+  "manufacturer": "Trix",
+  "articleNumber": "22761",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Zweisystem-Mehrzwecklokomotive BR 185 der Deutschen Bahn AG (DB AG). Achsfolge Bo´Bo´.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. DCC-/Sx-Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung/Bremsverzögerung mit DCC, Selectrix oder Trix Systems schaltbar. 4 mechanisch funktionsfähige Dachstromabnehmer. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22761",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/ba/87ba8e3f302656313cedb141186b7a681434534623.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

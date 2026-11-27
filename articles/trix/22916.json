@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22916",
+  "manufacturer": "Trix",
+  "articleNumber": "22916",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 05",
+    "number": "003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 310.0,
+    "minRadiusMm": 437.0
+  },
+  "description": "Vorbild: Stromlinien-Schnellzugdampflokomotive Baureihe 05 der Deutschen Reichsbahn (DRB). Ausführung mit Kohlenstaubfeuerung und vorne liegendem Führerstand. Tiefschwarze Grundfarbgebung mit weisser Zierlinie. Lok-Betriebsnummer 05 003. Betriebszustand um 1937.\n\nModell: Digital-Decoder DCC/mfx mit umfangreichen Geräuschfunktionen. Über die Funktionstaste kann das Geräusch der Kohlenstaubförderung mit Gebläse (Betriebsgeräusch 1) ausgelöst werden. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Bogenfahrt ab Mindest-Radius 437 mm möglich. Gleisradius bezogene Aussparungen in der Seitenverkleidung können mit zusätzlichen Füllstücken geschlossen werden. Fahrtrichtungssabhängig wechselndes Zweilicht-Spitzensignal, konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht als Zugbegegnungslicht digital separat zuschaltbar. Führerstandsbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Zahlreiche angesetzte Griffstangen an Lok und Tender. Eingerichtet für Rauchsatz 7226. Feste Kurzkupplung zwischen Lok und Tender. Länge über Puffer 31,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22916",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/89/5e89f21c6b4a06e3034fd02f9853c80f1484068280.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:21Z"
+}

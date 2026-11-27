@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25958",
+  "manufacturer": "Trix",
+  "articleNumber": "25958",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 724",
+    "number": "003-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Bahndienstfahrzeug als Indusi-Messwagen Baureihe 724 (ehemaliger VT 95.9) der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Beheimatet bei der Signalwerkstätte Wuppertal. Triebwagen-Betriebsnummer 724 003-9. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden (LED). Inneneinrichtung mit einigen Figuren bestückt. Zusätzliche Triebwagenführerfigur im Führerstand. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25958",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/3e/903ef42bd53fd768ce7b3f43c48167a61627970434.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

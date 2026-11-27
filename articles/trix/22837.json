@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22837",
+  "manufacturer": "Trix",
+  "articleNumber": "22837",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "MTAS",
+    "type": "T44",
+    "number": "5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Nr. 5 (Reihe T44), Privatbahn-Lokomotive der schwedisch-norwegischen Erzbahn MTAS, zum Verschub von Erzwagen im Erzhafen Narvik. Betriebszustand um 2010.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Vierlicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Weitere Lichtfunktionen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Angesetzte Metallgriffstangen. Länge über Puffer ca. 17,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22837",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/60/36/6036d4348006f278d8724a26d07d09a61477576336.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

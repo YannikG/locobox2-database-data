@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22864",
+  "manufacturer": "Trix",
+  "articleNumber": "22864",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "ERS",
+    "type": "ES 64 F4",
+    "number": "206",
+    "livery": "Vincent van Gogh",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Mehrsystem-Elektrolokomotive EW 64 F4-206 (Baureihe 189) \"Vincent van Gogh\" der ERS Railways. Herstellerbezeichnung ES 64 F4. Achsfolge Bo´ Bo´, Baujahr ab 2002.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Mit beiliegendem Echtheitszertifikat und besonders gestalteter Umverpackung. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22864",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6c/0b/6c0b274486b69bdd553677057e04b5841462541107.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

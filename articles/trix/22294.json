@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22294",
+  "manufacturer": "Trix",
+  "articleNumber": "22294",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 294",
+    "number": "680-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 294 der Deutschen Bahn AG (DB AG). Epoche VI-Ausführung in Verkehrsrot. Frühere Baureihe V 90. Achsfolge B´B´. Einsatz: Rangierdienst, Ablaufberg, Kurzstrecken-Güterverkehr.\n\nModell: Epoche VI, Fahrgestell und Hauptteil des Aufbaus aus Metalldruckguss. Telex-Kupplungen und DCC-Decoder. Zentral eingebauter Glockenanker-Hochleistungsmotor. 4 Achsen über Kardanwellen angetrieben, Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Nicht funktionsfähige Nachbildung der seitlichen Blinklichter. Angedeutete Führerstandseinrichtung. Angesetzte Metall-Griffstangen. Vorbildgerechte Änderung des Geländers und der Antennenbestückung. Zusätzliche Trittstufen beiliegend. Kupplungsaufnahmen nach NEM. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22294",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/26/12/2612701be6bb3a249f0adfb3ccf09a3c1434534505.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

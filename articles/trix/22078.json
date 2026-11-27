@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22078",
+  "manufacturer": "Trix",
+  "articleNumber": "22078",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 185",
+    "number": null,
+    "livery": "Superman Returns",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 185 im Design für den Film \"Superman Returns\". Ausführung mit den Motiven von \"Superman\".\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Digital-Decoder für DCC, Selectrix und konventionellen Betrieb. Zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit DCC oder Trix Systems schaltbar. 2 mechanisch funktionsfähige Dachstromabnehmer. Kupplungsschacht nach NEM mit Kurzkupplungen. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22078",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/47/61/4761a9eeb02d3e4b8f3dd16a5b5a570f1434534695.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

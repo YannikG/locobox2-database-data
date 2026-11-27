@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22361",
+  "manufacturer": "Trix",
+  "articleNumber": "22361",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 12 000",
+    "number": "12061",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie BB 12 000 der Französischen Staatsbahnen (SNCF). Baujahr ab 1954. Betriebsnummer BB12061. Einsatz: Güterzüge.\n\nModell: Epoche III, mit 8-poliger digitaler Schnittstelle nach NEM, Fahrgestell und Aufbau aus Metalldruckguss, angesetzte Griffstangen aus Metall, original Lichtwechsel 2 weiss/2 rot, Beleuchtung mit warmweissen Leuchtdioden, 5-poliger Hochleistungsmotor mit Schwungmasse, 4 Achsen angetrieben, 2 Haftreifen, Kupplungsaufnahme nach NEM. Länge über Puffer 175 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22361",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4d/05/4d05de7974496b7e16e5a20dcc761e961434534535.jpg"
+  },
+  "updatedAt": "2026-11-27T14:12:03Z"
+}

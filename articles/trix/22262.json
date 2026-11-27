@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22262",
+  "manufacturer": "Trix",
+  "articleNumber": "22262",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "ICM-4",
+    "number": "4237",
+    "livery": "Koploper",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Vierteiliger Elektro-Triebzug der Niederländischen Eisenbahnen (NS). Serie ELD4 \"Koploper\" als Intercity Triebzug ICM-4, mit der Betriebsnummer 4237 und dem Zugziel \"Amersfoort\". 1 Motorwagen als Endwagen mBDk 2. Klasse, 1 Mittelwagen mB 2. Klasse, 1 Mittelwagen A 1. Klasse, 1 Steuerwagen als Endwagen sBFk 2. Klasse.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. 4-teilige Ausführung. Fahrgestell beim motorisierten Endwagen aus Druckguss. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen in einem Drehgestell angetrieben. Haftreifen. Führerstände in den beiden Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Spezial-Kurzkupplungen mit Kulissenführung. Serienmässig eingebaute Innenbeleuchtung. Inneneinrichtung auf den jeweiligen Wagentyp abgestimmt. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter sowie Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzensignal an Endwagenseite 2 und 1 jeweils digital separat abschaltbar. Spitzensignal mit vorbildgerechten leicht gelben und roten Leuchtdioden (LED). Innenbeleuchtungen mit warmweissen Leuchtdioden (LED). Detaillierte Ausführung von Fahrwerk und Aufbau. An den Endwagen Darstellung der \"Scharfenberg\"-Kupplung mit Abdeckung. Für Doppeltraktion liegt eine zusätzliche starre Kupplungsverbindung bei. Im Serienzustand Ausführung der Endwagen mit geschlossenen Übergangstüren. Darstellung der an einem Endwagen zur Seite geschobenen Schwenktüren mit Faltenbalg ist mit beigelegtem Einsteckteil möglich. Gesamtlänge des Zuges ca. 114,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22262",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/b7/2db759bbfdff67734afbce9195fec7251434534467.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:35Z"
+}

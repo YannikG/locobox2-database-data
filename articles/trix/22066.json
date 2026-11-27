@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22066",
+  "manufacturer": "Trix",
+  "articleNumber": "22066",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "PL",
+    "operator": "PCC Rail",
+    "type": "BR 232",
+    "number": "275",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Baureihe 232 \"Ludmilla\" der PCC Rail Szczakowa S.A., Polen.\n\nModell: Lokomotive in Metallausführung, mit DCC-Decoder, Spezialmotor mit Schwungmasse und schaltbaren Geräuschfunktionen. 4 Achsen angetrieben, Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Kurzkupplungsaufnahmen nach NEM. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22066",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/0c/780cbd2d7b385a1301c2f98b7d4ec6c11434534487.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

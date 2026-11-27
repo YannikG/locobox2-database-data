@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22941",
+  "manufacturer": "Trix",
+  "articleNumber": "22941",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 241-A",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "minRadiusMm": 437.5
+  },
+  "description": "Modell: Mit Digital-Decoder und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist eine Führerstandbeleuchtung und eine Fahrwerksbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 437,5 mm. Bremsschläuche, Heizkupplung und Schraubenkupplungsimitation sowie ein Schiebebildsatz mit Sponsoren-Logo liegen bei. Länge über Puffer 30,4 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22941",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/41/9641560187bec47e2a6558ad0977fc8a1505745266.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

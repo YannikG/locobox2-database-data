@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22077",
+  "manufacturer": "Trix",
+  "articleNumber": "22077",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 335",
+    "number": "227-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Dieselrangierlokomotive Baureihe 335 (Köf III) der Deutschen Bahn AG (DB AG). Farbgebung in ausgeblichenem Orientrot. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung. Betriebsnummer 335 227-5. Betriebszustand 1997.\n\nModell: Mit Digital-Decoder und Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Spitzensignal an beiden Seiten abschaltbar. Doppel-A-Licht-Funktion. Mit Pufferspeicher. Telex-Kupplung vorne und hinten getrennt digital schaltbar. Griffstangen angesetzt. Bremsleitungen und die Imitationen der automatischen Rangierkupplung liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22077",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/0a/0f0a8407d0aa562f3d17ae0178fc52ec1789041618.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:47Z"
+}

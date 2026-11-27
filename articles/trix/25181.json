@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25181",
+  "manufacturer": "Trix",
+  "articleNumber": "25181",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 181.2",
+    "number": "203-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 206.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 181.2 der Deutschen Bundesbahn (DB). Stahlblaue Grundfarbgebung. Betriebsnummer 181 203-1. Betriebszustand ab 1984.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Stromabnehmer digital heb- und senkbar. Separat angesetzte Radimitationen, Griffstangen, Scheibenwischer, UIC-Steckdosen und Dachleitungen. Pufferhöhe nach NEM. Bremsleitungen, Schraubenkupplungen und verschiedene Steckdosen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 20,6 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25181",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/b7/17b76057f97009364ea430cd65d9f5191682424006.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

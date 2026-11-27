@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22036",
+  "manufacturer": "Trix",
+  "articleNumber": "22036",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "G",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Bauart G der Statens Järnvägar (SJ) - Schwedische Staatsbahnen. Ehemalige preussische G 8.1.\n\nModell: Epoche III. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. Hochleistungsmotor mit Glockenanker im Stehkessel. 4 Achsen angetrieben, 2 Haftreifen. Spitzensignal mit wartungsfreien Leuchtdioden konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Rauchsatz Märklin 72270 nachrüstbar. Feste Kurzkupplung zwischen Lokomotive und Tender. Vorbildgerechte Ausführung mit Schienenräumern, zierlichen Stangenpuffern und Rauchkammer-Zentralverschluss. Viele angesetzte Details. Am Tender NEM-Kupplungsaufnahme mit Kinematik für Kurzkupplung. Länge über Puffer 210 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22036",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b2/69/b2692d6ae132771a785eacca9cddfd671434534417.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22797",
+  "manufacturer": "Trix",
+  "articleNumber": "22797",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 10.5",
+    "number": null,
+    "livery": "Senator",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Tages-Gliederzug Baureihe VT 10.5 \"Senator\" der Deutschen Bundesbahn (DB). Zug aus 2 Triebwagen, 1 Grossraumwagenglied und 1 Wagenglied mit Küche. Farbgebung im Auslieferungszustand 1953/1954.\n\nModell: Epoche III. Mit DCC/Sx-Decoder und geregeltem Hochleistungsantrieb Softdrive Sinus in neuer wartungsfreier Kompakt-Bauform und Geräuschgenerator in einem Triebwagen. 2 Achsen im Drehgestell des Triebwagens A angetrieben. Haftreifen. Zweilicht-Spitzensignal und rote Schlusslichter, serienmässig eingebaute Innenbeleuchtung und beleuchtete Tischlampen mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Dieselmotor-Geräusch, Signalton sowie Anfahr- und Bremsverzögerung sowie weitere Betriebsgeräusche wie Bremsenquietschen, Bahnhofsansage, Umgebungsgeräusch Türen schliessen und Abfahrtspfiff mit DCC und Trix Systems digital schaltbar. Leistungsfähiger Lautsprecher in einem Triebkopf, Lautstärke einstellbar. Mehrpolige Strom führende Spezialkupplung und dicht schliessende Übergangsblenden mit Kulissenführungen zwischen den Fahrzeugen. Schleiferumschaltung. An den Enden Nachbildung der abgedeckten Scharfenberg-Kupplung (ohne Funktion). Zuglänge über Kupplungen 691 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22797",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/71/2d71d1a2047833dc7f5f1fee428b9c921434534707.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

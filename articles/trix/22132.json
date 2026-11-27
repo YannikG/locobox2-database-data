@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22132",
+  "manufacturer": "Trix",
+  "articleNumber": "22132",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "DE 1001-1003",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnelltriebzug Reihe DE 1001 bis 1003 der Niederländischen Eisenbahnen (NS). Dieselelektrischer Triebkopf, Abteilwagen, Speisewagen und Grossraumwagen mit Führerstand. Baugleich mit dem schweizerischen TEE-I Reihe RAm 501 und 502. Baujahr 1957, Ursprungsausführung der Epoche III. Einsatz als Trans Europ Express in der Schweiz, Deutschland und in den Benelux-Ländern.\n\nModell: Fahrgestell des Triebkopfes aus Metalldruckguss. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. 5-poliger schräggenuteter Motor mit Schwungmasse zentral im Triebkopf eingebaut. Beide Drehgestelle über Kardan angetrieben. Spitzensignal mit warmweissen Leuchtdioden, mit nachgerüstetem Decoder digital schaltbar. Innenbeleuchtung 66719 nachrüstbar. Durchgehende elektrische Verbindung und Spezial-Kurzkupplungen mit Kulissenführung zwischen den Fahrzeugen. Führerstand im Triebkopf mit Lokführer-Figur. Angesetzte Metall-Griffstangen. Für den Einsatz dieses Zuges ist ein Mindestradius von 419 mm erforderlich. An den Enden Nachbildung der Scharfenberg-Kupplung. Gesamtlänge des Zuges 1130 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22132",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ee/d9/eed97029df4f1d8b787efd599b82aad01434534477.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22086",
+  "manufacturer": "Trix",
+  "articleNumber": "22086",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "RAG",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Zweisystemlokomotive Baureihe 185 der Ruhrkohle AG (RAG)\".\n\nModell: Lokomotive mit Digital-Decoder für DCC, Selectrix und Analogbetrieb mit automatischer Systemerkennung, auch konventionell einsetzbar. Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit DCC, Selectrix oder Trix Systems schaltbar. 2 mechanisch funktionsfähige Dachstromabnehmer. An beiden Enden Kurzkupplungen im NEM-Schacht. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22086",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/cd/4f/cd4f7dbbbbd7a9f7cf27154c379206441434534463.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

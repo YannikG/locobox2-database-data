@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22253",
+  "manufacturer": "Trix",
+  "articleNumber": "22253",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "LU",
+    "operator": "CFL",
+    "type": "Serie 5600",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 267.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Serie 5600 (ex Baureihe 52) der Luxemburgischen Staatsbahnen (CFL). Ausführung mit Wannentender und Witte-Windleitblechen. Zustand 1950er-Jahre.\n\nModell: Mit Digital-Decoder DCC und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Motor im Kessel der Lokomotive. 5 Achsen angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an der Lok-Vorderseite und 2 weisse Schlusslichter am Tender konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 26,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22253",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/df/47/df47b48c90ac9c03bb8c44b4b86628be1434534598.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

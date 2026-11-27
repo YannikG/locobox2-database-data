@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22355",
+  "manufacturer": "Trix",
+  "articleNumber": "22355",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "ICM-4",
+    "number": null,
+    "livery": "Koploper",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Vierteiliger Elektro-Triebzug der Niederländischen Eisenbahnen (NS). Serie ELD4, \"Koploper\" als Intercity-Triebzug ICM-4 in aktueller Ausführung. 1 Endwagen mBDk 2. Klasse, 1 Mittelwagen mB 2. Klasse, 1 Mittelwagen A 1. Klasse, 1 Endwagen sBFk 2. Klasse.\n\nModell: Epoche V. 4-teilige Ausführung. Fahrgestell beim motorisierten Endwagen aus Druckguss. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. 5-poliger schräggenuteter Motor mit Schwungmasse. Führerstände in den beiden Endwagen mit Inneneinrichtung. 2 Achsen in einem Drehgestell angetrieben. Haftreifen. Spezial-Kurzkupplungen mit Kulissenführung. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal mit vorbildgerechten leicht gelben LED. Innenbeleuchtungen mit warmweissen LED. Inneneinrichtung auf den jeweiligen Wagen-Typ abgestimmt. Spitzensignal, 2 rote Schlusslichter und Innenbeleuchtung mit nachgerüstetem Decoder digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. An den Endwagen Darstellung der \"Scharffenberg\"-Kupplung mit Abdeckung. Für Doppeltraktion liegt eine zusätzliche starre Kupplungsverbindung bei. Im Serienzustand Ausführung der Endwagen mit geschlossenen Übergangstüren. Darstellung der an einem Endwagen zur Seite geschobenen Schwenktüren mit Faltenbalg ist mit beigelegtem Einsteckteil möglich. Gesamtlänge des Zuges 1148 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22355",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/09/28/09280407571baed4a8036d6677ba31811434534496.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

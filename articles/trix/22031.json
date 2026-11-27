@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22031",
+  "manufacturer": "Trix",
+  "articleNumber": "22031",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10.12",
+    "number": null,
+    "livery": "Rheingold",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe E 10.12 der Deutschen Bundesbahn (DB). Schnellfahrlokomotive mit aerodynamischer Front, Hochleistungs-Drehgestellen und Frontschürze. Lieferzustand ab 1962.\n\nModell: Epoche III. Fahrgestell und Aufbau aus Metall-Druckguss. Digital-Decoder für DCC, Selectrix, Trix Systems und konventionellen Betrieb. Hochleistungsantrieb C-Sinus in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, 2 Haftreifen. Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. Bahnhofsdurchsage und Lokpfiff mit DCC oder Trix Systems schaltbar. Eingesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Angesetzte Dachlaufstege. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. LüP 189 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22031",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/da/4cdae9055c8c4afea7755a37199d07fd1434534533.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

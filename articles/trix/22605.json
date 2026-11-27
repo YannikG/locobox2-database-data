@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22605",
+  "manufacturer": "Trix",
+  "articleNumber": "22605",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR E 19",
+    "number": "01",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "minRadiusMm": 420.0
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe E 19 der Deutschen Reichsbahn (DR). In roter Farbgebung mit erhabenem Reichsbahn Adler. Betriebsnummer: E 19 01. Einsatz: Hochwertiger Reiseverkehr.\n\nModell: Epoche II. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf 2 Achsen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Mit nachgerüstetem Digitaldecoder zuschaltbares Zugbegegnungslicht (3. Stirnleuchte). Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung und Lokführerfigur. Kupplungsaufnahmen nach NEM. Pufferbohlendetails im Beutel beiliegend um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 194,5 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22605",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/65/af65dc07c161e88493d55cf65db85c221434534473.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

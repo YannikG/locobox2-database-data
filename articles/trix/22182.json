@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22182",
+  "manufacturer": "Trix",
+  "articleNumber": "22182",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "G.Bad.Sts.B.",
+    "type": "IVh",
+    "number": "1002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Serie IVh der Grossherzoglichen Badischen Staatseisenbahnen, Bauart 2\"C1\"h4v. Gebaut ab 1918. Einsatz: Hochwertiger Reiseverkehr.\n\nModell: Epoche I. Geregelter Softdrive-Sinus-Hochleistungsantrieb in kompakter Bauform mit DCC-/Sx-Decoder und Soundgenerator. 3 Achsen angetrieben, Haftreifen. Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Rauchsatz 72270 nachrüstbar. Fahrtrichtungsabhängig wechselndes LED-Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Am Tender kinematikgeführte Kurzkupplung mit NEM-Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 267 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22182",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/12/a61284c1f0b3ead2df2e5bf199927f9b1434534470.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

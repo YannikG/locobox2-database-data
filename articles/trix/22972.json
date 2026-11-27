@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22972",
+  "manufacturer": "Trix",
+  "articleNumber": "22972",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 701",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Wartungsfahrzeug BR 701 der Deutschen Bahn AG (DB AG). Mit beweglicher Arbeitsbühne und Einholmstromabnehmer. Einsatz: Zur Instandhaltung und Kontrolle der Fahrleitungen.\n\nModell: Aufbau aus Metalldruckguss. 21-polige Digitalschnittstelle. Glockenankermotor mit Schwungmasse zentral eingebaut. 2 Achsen angetrieben. Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Dachstromabnehmer und Arbeitsbühne manuell beweglich: Bühne heben und senken, Bühne schwenken nach rechts und links, Stromabnehmer auf oder ab. Keine elektrische Funktion des Stromabnehmers. Führerstand mit Einrichtung. Angesetzte Details: Neonröhrenimitationen, Oberlicht, Antenne, Horn, Scheinwerfer und Leitern. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22972",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/01/f601a11b49285ff26b29e5f8f6c155341434534544.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:21Z"
+}

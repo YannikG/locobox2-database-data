@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22270",
+  "manufacturer": "Trix",
+  "articleNumber": "22270",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 70.2",
+    "number": "22",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: BR E70.2 der Deutschen Bundesbahn (DB), ehemalige EG 2 x 2/2 der Bayerischen Staatsbahn, Achsfolge B´B´, Baujahr ab 1920. Einsatz: Güterzüge und Schiebedienst\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss, 8-polige Digitalschnittstelle nach NEM, Motor mit Schwungmasse, 2 Achsen angetrieben, Haftreifen. Kupplungsaufnahme nach NEM. Länge über Puffer 144 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22270",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/ba/85ba4b53b8e139786aec5ab5aee174d71434534639.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

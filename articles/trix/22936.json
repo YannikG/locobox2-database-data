@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22936",
+  "manufacturer": "Trix",
+  "articleNumber": "22936",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 58.10-21",
+    "number": "1287",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 212.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 58.10-21 (ehemalige preussische G 12) der Deutschen Reichsbahn (DR). Mit Reichsbahn-Laternen und Tender 3T 20. Betriebsnummer 58 1287. Betriebszustand um 1962.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatzkontakt vorhanden, Raucheinsatz 7226 kann nachgerüstet werden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Vorne an der Lok kulissengeführte Kurzkupplung mit NEM-Schacht. Hinten am Tender NEM-Kupplungsaufnahme mit Kinematik und TELEX-Kupplung. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Führerstandsbeleuchtung. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22936",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e6/18/e618c00feacfe39e00b69773a44f80661484068412.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:21Z"
+}

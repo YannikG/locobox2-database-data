@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22769",
+  "manufacturer": "Trix",
+  "articleNumber": "22769",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Dortmunder Eisenbahn",
+    "type": "MaK G 1206",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ MaK G 1206 als Privatbahnlokomotive der Dortmunder Eisenbahn. Einsatz: Werksverkehr in und zwischen Stahlwerken.\n\nModell: Epoche V. Fahrgestell und Aufbau aus Metall-Druckguss mit Kunststoff-Ansatzteilen. Glockenanker-Spezialmotor mit Schwungmasse. 8-polige digitale Schnittstelle. 4 Achsen angetrieben. Haftreifen. Dreilicht-Spitzensignal/rote Schlusslichter fahrtrichtungsabhängig wechselnd. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Kupplungsaufnahme nach NEM. Länge über Puffer 165 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22769",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/4d/1d4d48025e1417b5075052d1ddd7cd271434534606.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

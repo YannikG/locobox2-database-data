@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22840",
+  "manufacturer": "Trix",
+  "articleNumber": "22840",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "D XII",
+    "number": "2237",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Gattung D XII der Königlich Bayerischen Staatseisenbahnen (K.Bay.Sts.B.), spätere Baureihe 73. Betriebsnummer 2237.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 2 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Viele separat angesetzte Details. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22840",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/96/7f9634f7889a4681aa8f6c5cf5b59eb31450030436.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

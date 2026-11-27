@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22070",
+  "manufacturer": "Trix",
+  "articleNumber": "22070",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB Cargo",
+    "type": "BR 232",
+    "number": null,
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 239.0
+  },
+  "description": "Vorbild: Baureihe 232 \"Ludmilla\" der Deutschen Bahn AG (DB Cargo).\n\nModell: Epoche V. Metallausführung. Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Eingebauter Digital-Decoder DCC-/Selectrix-Format mit automatischer Analogbetrieb-Erkennung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Kupplungsaufnahmen nach NEM. Länge über Puffer 23,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22070",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a0/77/a077102f5c91d066885f8eb0faa2b3eb1434534601.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

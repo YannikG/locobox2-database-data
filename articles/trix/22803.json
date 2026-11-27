@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22803",
+  "manufacturer": "Trix",
+  "articleNumber": "22803",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "UP",
+    "type": "Reihe 2400",
+    "number": "2494",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III"
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Reihe 2400 der Union Pacific Railroad. Standard- Bauartachsfolge 2-8-2 \"Mikado\" der United States Railroad Administration (USRA).\n\nModell: Epoche II - III, Ausführung der Räder nach amerikanischer Norm RP 25. Kupplungen kompatibel zum Kadee System. Technische Ausführung wie 22804. LüK 290 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22803",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/cc/29ccd47fbeb3d3553a80267feb7156801434534480.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

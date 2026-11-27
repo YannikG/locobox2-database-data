@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22378",
+  "manufacturer": "Trix",
+  "articleNumber": "22378",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 189",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 189 der Deutschen Bahn AG (DB AG). Mehrsystemlokomotive mit 4 Dachstromabnehmern. Aktueller Betriebszustand. Einsatz: Grenzüberschreitende, schnelle Güterzüge.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. 21-polige Digital-Schnittstelle mit Brückenstecker für konventionellen Betrieb. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22378",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1b/f5/1bf59f32860501aee862c052613171561434534475.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

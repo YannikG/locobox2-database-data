@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25135",
+  "manufacturer": "Trix",
+  "articleNumber": "25135",
+  "releaseDate": "2025",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 88.9",
+    "number": "902",
+    "livery": "Schweineschnäuzchen",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Dieseltriebwagen Cvt-34 „Wismarer Schienenbus“ (Typ \"Hannover A\") als VT 88.9 der DB. Farbgebung purpurrot. Zustand um 1950. VT 88 902, Nürnberg.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 jeweils separat digital abschaltbar. Spitzenlicht oben separat digital schaltbar. Serienmässig eingebaute Innenbeleuchtung digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Angesetzte Griffstangen aus Metall. Länge über Stossbügel ca. 13,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25135",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/76/e2/76e228066605fe8a8e247f479b8f2bab1767787206.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

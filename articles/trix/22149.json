@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22149",
+  "manufacturer": "Trix",
+  "articleNumber": "22149",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie 1200",
+    "number": "1251",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Serie 1200. Ausführung in blauer Grundfarbgebung mit gelben Streifen der Firma ACTS, eingestellt bei den Niederländischen Eisenbahnen (NS). Einsatz: Reisezüge und schwere Güterzüge.\n\nModell: Epoche V. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems, auch konventionell einsetzbar. 5-poliger Motor. 2 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal und Schlusslicht konventionell in Betrieb, digital schaltbar. Signalhorn-Geräusch sowie Anfahr- und Bremsverzögerung digital schaltbar. Bremsschläuche an der Pufferbohle ansteckbar. Kupplungsaufnahmen nach NEM. Länge über Puffer 208 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22149",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/1f/a61fc2bf6569ff0ed3b3a8ed34f52de91434534396.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

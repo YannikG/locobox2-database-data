@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22331",
+  "manufacturer": "Trix",
+  "articleNumber": "22331",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "YDE 18 110",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Kleinlokomotive YDE 18 110 der Französischen Staatsbahnen (SNCF). Entspricht der deutschen Baureihe Köf II. Ausführung mit offenem Führerstand. Einsatz: Rangierdienst und Zubringer.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal in Betrieb, digital schaltbar. Kupplungsaufnahmen nach NEM. Angesetzte Metall-Griffstangen. LüP 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22331",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/73/a3/73a3386f34e661575768935c6aaff99b1434534541.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

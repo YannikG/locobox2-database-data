@@ -70,6 +70,7 @@ Alle Hilfsskripte zu diesem Skill liegen im Repo unter **`.agents/skills/lok-num
 - **`autofill_categories_from_piko_url.py`** — analog für PIKO-Shop-URLs (gleiche Parent-Regel Triebwagen vs. Lok; **kein** Ersatz für Typ-/Nummer-Review).
 - **`autofix_piko_shop_type.py`** — bereinigt PIKO-Shop-Reste in **`model.type`** (Sound-, Skalenpräfix, GTW/Re 4/4, …); Allowlist im Skript, Referenz [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md).
 - **`autofix_trix_shop_import.py`** — Trix- **und Märklin**-Produktdatenbank-Titel (`Dampflokomotive Baureihe …` → `BR …`; generische H1 → Typ aus Vorbild), Betriebsnummer aus Beschreibung, Livery aus Anführungszeichen, Kategorie Dampf/Diesel/Elektro, DR+DDR-Kontext `DE`→`DD`. Details: [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md).
+- **`autofix_trix_review.py`** — Review-Regeln für Trix-/Märklin-PDP-Typen (`BR EP 3/6` → `EP 3/6`, `Reihe RAm TEE I 501` → `RAm TEE I 501`, Klammerzusätze, `Rh` ausserhalb NL → `Reihe`, Split `BR 01 150`); Referenz [internal/wiki-trix-shop-parsing.md](internal/wiki-trix-shop-parsing.md).
 - **`autofix_ree_shop_import.py`** — REE Modèles Shop: SNCF ``BB``/``CC`` Serie vs. Laufnummer (auch wenn ``number`` noch Präfix trägt), Pacific ``231 K/G`` / ``141 D``, Moyse/040 DE/RGP-Kurztypen, Operator/Epoche/`dampflokomotive` aus Text; Referenz [reference-sncf-type-number.md](reference-sncf-type-number.md).
 - **`autofix_lsmodels_shop_import.py`** — LS Models PrestaShop: langer H1 → `type`/`number`/`livery` (HLE, BB/CC, X####, AGC, Vectron, Apm/Bpm), Operator/Land aus Titel, Kategorien Triebwagen/Wagen; Referenz [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md).
 - **`autofix_model_country.py`** — setzt **`model.country`**, wenn **`null`** und der Fall zur **Skill-Allowlist** (K.P.E.V., Südbahn+AT-Kontext), zur **Operator→ISO-Map** im Skript (u. a. DB, ČSD als **CS**, VSM, GTS Rail, SBW, Balkan **CFR**→**RO**, **BDZ**→**BG**, **ŽFBH**→**BA**) oder zur **konservativen DR-Epochen-Heuristik** (``IV`` → **DD**, reine **I–III** → **DE**) passt; **Privatbahn**-Livery-Anker: [internal/wiki-privatbahn-livery-anker.md](internal/wiki-privatbahn-livery-anker.md).
@@ -192,6 +193,7 @@ Gegen [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsi
 - **Operator `Unbekannt`**, obwohl Vorbild `( NS )` / EVU-Name trägt?
 - **`Rh`** nur bei NL/NS; ÖBB/SBB `Reihe`/`Re` nicht als Rh lassen
 - Autofix zuerst: `autofix_trix_shop_import.py` (Scope `articles/maerklin` oder `articles/trix`)
+- Trix zusätzlich: [internal/wiki-trix-shop-parsing.md](internal/wiki-trix-shop-parsing.md); danach `autofix_trix_review.py` (Scope `articles/trix`)
 
 #### Pass 1: LS Models (Tag `lsmodels-*` / Hersteller L.S.Models)
 
@@ -267,6 +269,7 @@ Protokoll: pro Artikel `Pfad`, `alt → neu`, Quelle «Bild».
 | Modell-`electricSystem` (DC/AC am Modell) | [internal/field-parsing-model.md](internal/field-parsing-model.md) («Modell-Stromsystem») |
 | PIKO Shop-Titel / Import-Artefakte | [internal/wiki-piko-shop-parsing.md](internal/wiki-piko-shop-parsing.md) |
 | Märklin / Trix Produktdatenbank | [internal/wiki-maerklin-shop-parsing.md](internal/wiki-maerklin-shop-parsing.md) |
+| Trix-spezifisch (Inventur, Erstjahr, Typ-Regeln, Foto-Nummern) | [internal/wiki-trix-shop-parsing.md](internal/wiki-trix-shop-parsing.md) |
 | BEMO Shop / Katalog-Artefakte | [internal/wiki-bemo-shop-parsing.md](internal/wiki-bemo-shop-parsing.md) |
 | LS Models Shop (lsmodels.eu) | [internal/wiki-lsmodels-shop-parsing.md](internal/wiki-lsmodels-shop-parsing.md) |
 | Shop-Import-Workflow (PDF → Queue → Fetch → Pipeline) | Skill [locobox-import](../locobox-import/SKILL.md), CLI [`tools/cli`](../../../tools/cli/README.md) |

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22966",
+  "manufacturer": "Trix",
+  "articleNumber": "22966",
+  "releaseDate": "2018",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "S 2/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 251.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der bayerischen Gattung S 2/6 in braunvioletter Grundfarbgebung mit goldenen Kesselringen der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.), für den Einsatz im linksrheinischen (pfälzischen) Netz. Betriebszustand um 1910 bis 1912.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Eingerichtet für Raucheinsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht und Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Detailliertes Fahrwerk mit durchbrochenem Barrenrahmen. Windschnittige Verkleidung von Rauchkammer, Kamin, Dom und Zylindergruppe sowie windschnittig gestaltetes Führerhaus. Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen separat bei. Länge über Puffer 25,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22966",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/20/fd/20fd8f0bb6bf94a8413d9b8074a5fa461512124807.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

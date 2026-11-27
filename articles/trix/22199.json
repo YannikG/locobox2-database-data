@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22199",
+  "manufacturer": "Trix",
+  "articleNumber": "22199",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.1 der Deutschen Bahn AG (DB AG). Werbegestaltung \"175 Jahre Eisenbahn in Deutschland\".\n\nModell: Epoche VI. Mit DCC-Decoder und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Beleuchtung mit warmweissen Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung zusätzlich digital schaltbar. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22199",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/de/5d/de5d2d88174c8546049881fe089409dc1434534689.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}

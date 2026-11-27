@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22210",
+  "manufacturer": "Trix",
+  "articleNumber": "22210",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 701",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Wartungsfahrzeug Baureihe 701 der Deutschen Bundesbahn (DB). Mit beweglicher Arbeitsbühne und Scherenstromabnehmer. Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen.\n\nModell: Epoche IV. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. Glockenankermotor mit Schwungmasse zentral eingebaut. 2 Achsen angetrieben. 1 Haftreifen. Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Zusätzlicher Funktionsdecoder und Geräuschgenerator: Diesel-Motorgeräusch, Signalhorn, Anfahr- und Bremsverzögerung, Bremsenquietschen und Arbeitsgeräusche digital schaltbar. Dachstromabnehmer und Arbeitsbühne digital steuerbar: Bühne heben und senken, Bühne schwenken nach rechts und links, Bügel auf oder ab. Feinfühlige Steuerung der Funktionen möglich. Zusatzfunktionen nur im DCC Format steuerbar. Führerstand mit Einrichtung. Angesetzte Details: Oberlicht, Antenne, Horn, Scheinwerfer und Leitern. Länge über Puffer 160 mm.",
+  "categories": [
+    "lokomotive",
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22210",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/2d/442d0a2d3698e6a9e730e581cae4e8cd1434534492.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

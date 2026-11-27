@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25086",
+  "manufacturer": "Trix",
+  "articleNumber": "25086",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 86",
+    "number": "507",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 160.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Baureihe 86.0-8 der Deutschen Bundesbahn (DB). Grundfarbgebung schwarz mit rotem Fahrwerk. Ausführung mit 4 Kesselaufbauten. Geschweisste Wasserkästen mit langen Ausschnitten über den Zylindern und gerundeter Kante. Dreilicht-Spitzensignal mit DB-Reflexglas-Lampen. Läutewerk, Turbodynamo links, Rauchkammertür ohne Zentralverschluss mit Nummernschild mittig, ohne Indusi, Kohlekasten mit geradem Aufsatzbrett. Betriebsnummer 86 507. Beheimatung BD Wuppertal, Bw Dieringhausen. Betriebszustand um 1964.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Zwei rote Schlusslichter separat digital zuschaltbar. Zusätzlich ist die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche, Heizleitungen und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 16,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25086",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a6/ac/a6acf289cbb0b07bce0534241a6034d81702908017.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

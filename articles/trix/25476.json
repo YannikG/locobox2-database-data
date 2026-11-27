@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25476",
+  "manufacturer": "Trix",
+  "articleNumber": "25476",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 444.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 101",
+    "number": null,
+    "livery": "W:O:A",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 mit einer Werbegestaltung zum Wacken Open Air (W:O:A®). Betriebszustand 2026.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Fernscheinwerfer separat schaltbar. Führerstandbeleuchtung digital schaltbar. Spitzenlicht an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher zur Überbrückung von kurzen stromlosen Stellen. Kulissengeführte Kupplung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25476",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6d/42/6d42cc0737ff65df5ede956ffc96f3911781622005.jpg"
+  },
+  "updatedAt": "2026-11-27T14:11:13Z"
+}

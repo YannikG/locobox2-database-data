@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25027",
+  "manufacturer": "Trix",
+  "articleNumber": "25027",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 02",
+    "number": "0314",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 272.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 02 0314-1 mit Öl-Hauptfeuerung und Öl-Tender der Deutschen Reichsbahn der DDR (DR/DDR). Umbau-Version als Versuchslokomotive der VES-M Halle (Saale). Ausführung mit Reko-Kessel und Teilverkleidung, auf Basis der Dampflokomotive 18 314 (ehemalige Badische IVh). Mit Witte-Windleitblechen und einseitiger Indusi. Betriebszustand um 1970/71.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zusätzlich sind vorne an der Lok zwei rote Lampen digital schaltbar. Führerstandbeleuchtung und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Für grosse Radien oder Vitrine liegt eine Verkleidung ohne Radausschnitt unterhalb des Führerhauses zum Austausch bei. Kolbenstangenschutzrohre und Bremsschläuche liegen ebenfalls bei. Länge über Puffer 27,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25027",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2c/31/2c3153ed137e656a868412383dc86ab41633068053.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

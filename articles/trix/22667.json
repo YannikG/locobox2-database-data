@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22667",
+  "manufacturer": "Trix",
+  "articleNumber": "22667",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 110.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe 110.3 der Deutschen Bahn AG (DB AG). Schnellfahrlokomotive mit aerodynamischer Front, mit der sogenannten \"Bügelfalte\". Orientrote Grundfarbgebung, mit Werbegestaltung. Umbau-Version mit rechteckigen Klatte-Lüftergittern, rechteckigen Maschinenraumfenstern, ohne umlaufende Regenrinne, ohne Schürze und ohne Pufferverkleidung. Betriebszustand um 1996.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb, zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22667",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/74/b9/74b95707b72d668c25975199182e5bae1434534634.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22341",
+  "manufacturer": "Trix",
+  "articleNumber": "22341",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 638",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Personenzuglokomotive Reihe 638 der Österreichischen Bundesbahnen (ÖBB). Ehemalige deutsche P 8. Kessel mit 3 Domen ohne Windleitbleche. Vierachsiger Kastentender, Vorlaufgestell mit Scheibenrädern.\n\nModell: Epoche III, Fahrgestell, Kessel und Tenderaufbau aus Metalldruckguss. Mit 21-poliger Digital-Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben. Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Rauchsatz 72270 nachrüstbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand. Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Kupplungsaufnahmen nach NEM, am Tender mit Kinematik für Kurzkupplung. Länge über Puffer 218 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22341",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/e9/53e962ba10f8fef804ebc718f5ac96cc1434534423.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

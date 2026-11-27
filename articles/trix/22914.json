@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22914",
+  "manufacturer": "Trix",
+  "articleNumber": "22914",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "T 3",
+    "number": "6135",
+    "livery": "Halle",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive der preussischen Gattung T 3 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV), spätere Baureihe 89.70-75. Loknummer 6135 HALLE. Diese Lok wurde 1898 von Henschel in Kassel unter der Fabriknummer 4938 gebaut.\n\nModell: Mit mfx-Digital-Decoder und umfangreichen Geräuschfunktionen. Miniaturmotor im Kessel. 3 Achsen angetrieben. Detailliertes Fahrwerk mit Darstellung der Allan-Steuerung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Bremsschläuche liegen bei. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22914",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/14/ec14f652af039700a3ee816fa8bb65c71577430010.jpg"
+  },
+  "updatedAt": "2026-11-27T14:12:03Z"
+}

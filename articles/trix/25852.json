@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25852",
+  "manufacturer": "Trix",
+  "articleNumber": "25852",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 639.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "elT 1126",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 468.0
+  },
+  "description": "Vorbild: Elektrischer Triebwagen elT mit Steuerwagen elS der Deutschen Reichsbahn-Gesellschaft (DRG). Ausführung mit Fronttüren am Triebwagen und Steuerwagen mit stirnseitigen Übergangsblechen. Oben angebrachte Zugschlusssignal-Laternen. Anordnung der Sandkästen im Ablieferungszustand. Farbgebung in beige/weinrot. Betriebsnummern elT 1126 und elS 2126. Steuerwagen elS mit Laufschild „Nach Ismaning - Nach München Ost Pbf“. Heimatbahnhof München. Betriebszustand 1932.\n\nModell: Triebwagen elT als angetriebene Einheit mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Vier Achsen angetrieben. Haftreifen. Zweilicht-Spitzensignal und zwei rote Schlusslichter über beide Einheiten an den äusseren Stirnseiten mit der Fahrtrichtung wechselnd, digital schaltbar. Zusätzlich 3. Spitzenlicht oben als Zugbegegnungslicht jeweils in Fahrtrichtung vorne separat digital schaltbar. Beide Einheiten sind über eine mehrpolige Kupplung fest miteinander Gekuppelt. Innenbeleuchtungen im Triebwagen elT und Steuerwagen elS konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Spitzensignal an Triebwagenseite 1 und Steuerwagenseite 2 jeweils separat digital abschaltbar. Führerstandbeleuchtung an den äusseren Führerständen separat digital schaltbar. Mit Pufferspeicher. Sehr detaillierte Ausführung von Fahrwerk und Aufbau. Wagenkasten und Wagenboden aus Metall. Mehrteilige und mehrfarbige Inneneinrichtung. Nachgebildete Glocke, Bremsleitungen und zwei Kurzkupplungsköpfe liegen bei. Gesamtlänge über Puffer ca. 46,8 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25852",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/07/bc/07bc84854cb08096a2b1eaa3be349b531772463610.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

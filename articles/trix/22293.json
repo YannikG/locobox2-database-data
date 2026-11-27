@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22293",
+  "manufacturer": "Trix",
+  "articleNumber": "22293",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 694",
+    "number": "692",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 694 (ehem. BR 94.5) der Österreichischen Bundesbahnen (ÖBB). Betriebszustand der 1950er-Jahre.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen wie unter anderem Betriebsstoffe Wasser, Kohle und Sand nachfüllen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22293",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f0/bc/f0bc60e75d23895488540f1873e2d82b1484066444.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22329",
+  "manufacturer": "Trix",
+  "articleNumber": "22329",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "De 6/6",
+    "number": "15302",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie De 6/6 der Schweizerischen Bundesbahnen (SBB CFF FFS). \"Seetal-Krokodil\", Ausführung um 1953. Einsatz: Güterzüge und Personenzüge auf Nebenstrecken.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss. Schnittstelle für Digital-Decoder. 5-poliger Motor mit Schwungmasse zentral eingebaut. 6 Achsen angetrieben. 2 Haftreifen. Kurvengängiges Gelenk-Fahrwerk. Spitzensignal und Schweizer Schlusslicht mit LED. Angesetzte Griffstangen aus Metall. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Kupplungsaufnahmen nach NEM. LüP 162 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22329",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ca/27/ca2744de8ea3f03107b54ec945fde3dd1434534528.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

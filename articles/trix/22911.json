@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22911",
+  "manufacturer": "Trix",
+  "articleNumber": "22911",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 182",
+    "number": "004-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V",
+    "luepMm": 225.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 182 der Deutschen Bahn AG (DBAG). Bauart entspricht dem österreichischen \"Taurus\". Mehrsystemlokomotive. Achsfolge Bo´Bo´. Baujahr ab 1999. Ausführung im Design für eine hochwertige Automobilmarke. Einsatz: schnelle Güterzüge, speziell Neuwagen-Transporte.\n\nModell: Epoche V. 5-poliger Hochleistungsmotor. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung und Geräuschgenerator, auch konventionell einsetzbar. 2 Achsen angetrieben. 2 Haftreifen. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Fernlichter, Signalhorn, weitere Betriebsgeräusche sowie Anfahr- und Bremsverzögerung digital schaltbar. Führerstände mit Inneneinrichtung. Kurzkupplungen in Kupplungsaufnahmen nach NEM. Angesetzte Griffstangen aus Metall. Länge über Puffer 22,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22911",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/25/7f25219ebf466e567dd0ba999a5e94c71434534434.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

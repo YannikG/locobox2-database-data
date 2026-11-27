@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22206",
+  "manufacturer": "Trix",
+  "articleNumber": "22206",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 290",
+    "number": "061-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 290 der Deutschen Bundesbahn (DB). Epoche IV-Ausführung im alten Purpurrot. Frühere Baureihe V 90. Achsfolge B´B´. Einsatz: Rangierdienst, Ablaufberg, Kurzstrecken-Güterverkehr.\n\nModell: Epoche IV, Fahrgestell und Hauptteil des Aufbaus aus Metalldruckguss. 21-polige Digital-Schnittstelle. Zentral eingebauter Glockenanker-Hochleistungsmotor. 4 Achsen angetrieben. 2 Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter mit wartungsfreien Leuchtdioden konventionell in Betrieb. Nach Einbau des Decoders 66839 direkt schaltbar. Angedeutete Führerstandseinrichtung. Angesetzte Metall-Griffstangen. Zusätzliche Trittstufen beiliegend. Kupplungsaufnahmen nach NEM. Länge über Puffer 164 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22206",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f6/df/f6df34b0631e8d4b8d3a47770ef9a7211434534592.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

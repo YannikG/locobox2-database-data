@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22273",
+  "manufacturer": "Trix",
+  "articleNumber": "22273",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Dm3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 407.0
+  },
+  "description": "Vorbild: Schwere Erzlokomotive als 3-teilige Stangen-Elektrolokomotive Reihe Dm3 der Schwedischen Staatsbahnen (SJ). Eingesetzt auf der Erzbahn Lulea - Kiruna - Narvik. Serie 1200, mit den Betriebsnummern 1201+1231+1202. Braune Grundfarbgebung, grosse Stirnlampen, Führerstandstüren in alter Anordnung, grosse Schneepflüge (Norrlandspflüge) und SAB-Gummifederräder. Betriebszustand um 1970.\n\nModell: Mit DCC-Digital-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jeder Lok-Einheit mit Führerstand. Jeweils alle 4 Treibachsen in jeder Lok-Einheit mit Führerstand angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Zusätzliches drittes Volllicht oben digital zuschaltbar. Maschinenraumbeleuchtung, sowie Führerstandsbeleuchtung am Führerstand 1 und 2 jeweils separat digital schaltbar. Zusätzliches Markierungslicht digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. Detaillierte Dachausrüstung mit grossen Lüfteraufsätzen und Druckluftbehältern. Alle 3 Lok-Einheiten fest miteinander verbunden. Kurzkupplungskinematik zwischen den einzelnen Lok-Einheiten. Markierungstafeln für das vordere Ende der Lok liegen separat bei. Länge über Puffer 40,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22273",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/12/72/12725e4ed5db31e2df3cad7ec88eb35f1434534664.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:20Z"
+}

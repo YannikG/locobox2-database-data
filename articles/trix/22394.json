@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22394",
+  "manufacturer": "Trix",
+  "articleNumber": "22394",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 44.5",
+    "number": "507",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Personenzug-Elektrolokomotive Baureihe E 44.5 der Deutschen Bundesbahn (DB). Überwiegend im Einsatz auf der Bahnstrecke zwischen Freilassing und Berchtesgaden. Flaschengrüne Grundfarbgebung. Ausführung der 2. Bauserie, mit vorbildgerechten Aussparungen am Langträger. Lok-Betriebsnummer E 44 507. Betriebszustand um 1960.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Jeweils 2 Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Beide Scherenstromabnehmer als Digital-Funktion separat heb- und senkbar. Separat angesetzte Griffstangen. Führerstände mit Inneneinrichtung. Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche, Kupplungshaken und Heizkupplungen liegen separat bei. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22394",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/03/ba/03ba00d5a19a874a04a435ca4b88d3021605250826.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

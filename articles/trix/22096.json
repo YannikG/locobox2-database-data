@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22096",
+  "manufacturer": "Trix",
+  "articleNumber": "22096",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ICE 2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: InterCity Express Baureihe 402 der Deutschen Bahn AG (DB AG). Vierteiliger Zug: Triebkopf 402.0, Grossraumwagen 1. Klasse 805.3, BordRestaurant 804.0, Steuerwagen 2. Klasse 808.0. Design im Lieferzustand.\n\nModell: Triebkopf mit Digital-Decoder für DCC, Selectrix und konventionellen Betrieb. Spezialmotor mit Regelung. 2 Achsen angetrieben, 2 Haftreifen. Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorn und Bahnhofsdurchsage mit DCC oder mit Trix Systems schaltbar. Dachstromabnehmer mechanisch funktionsfähig. Zuglänge 1027 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22096",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/63/c1631b752497bf0b8f984bfa7f6eefb31434534474.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

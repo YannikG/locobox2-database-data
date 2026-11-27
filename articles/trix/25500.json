@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25500",
+  "manufacturer": "Trix",
+  "articleNumber": "25500",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 200",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 213.0
+  },
+  "description": "Vorbild: Schwere dieselhydraulische Lokomotive V 200 002 der Deutschen Bundesbahn (DB). Mehrzwecklokomotive V 200.0 (Vorserie) in purpurroter Farbgebung im Betriebszustand Mitte der 1950er-Jahre. Einsatz: Mittlere und schwere Reise- und Güterzüge.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Vier Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Zwei bewegliche Lüfterräder mit je einem Motor angetrieben und paarweise separat digital schaltbar. Lüftergitter auf dem Dach aus Metall. Maschinenraumnachbildung neu gestaltet. Seitlich und frontal angesetzte Griffstangen aus Metall. Pufferhöhe nach NEM. Kinematikgeführte Kurzkupplungen. Kupplungen gegen geschlossene Frontschürzen austauschbar. Ansteckbare Hauptluftleitungen, Heizleitungen Kupplungsimitationen und geschlossene Frontschürze liegen bei. Länge über Puffer ca. 21,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25500",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/0a/da0a496cd12eb33df02b488da95394491718200805.jpg"
+  },
+  "updatedAt": "2026-11-27T14:11:13Z"
+}

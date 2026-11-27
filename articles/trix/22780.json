@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22780",
+  "manufacturer": "Trix",
+  "articleNumber": "22780",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 50",
+    "number": "1013",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 50 der Deutschen Bundesbahn (DB), mit Kohlen-Schlepptender als Einheits-Kastentender 2´2´T26 in der Ursprungsform. Mit Witte-Windleitblechen, Regelführerhaus, langem Umlauf vorne zur Rauchkammer schräg abfallend, DB-Reflexglaslampen und einseitigem Indusi. Betriebsnummer 50 1013. Betriebszustand um 1965.\n\nModell: Mit DCC-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker und Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22780",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/0d/c10d81b09ccec8bcb8fbdc90b5392a3c1434534543.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

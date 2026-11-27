@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25202",
+  "manufacturer": "Trix",
+  "articleNumber": "25202",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 419.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CS",
+    "operator": "ČSD",
+    "type": "T 679.1266",
+    "number": null,
+    "livery": "Taigatrommel",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 202.0
+  },
+  "description": "Vorbild: Diesellokomotive T 679.1266 der Tschechoslowakischen Staatsbahnen CSD, auch bekannt unter dem Spitznamen „Taigatrommel“. Mit Schalldämpfer sowjetischer Bauart, Ansauggitter mit waagerechten Lamellen und Kühlerlüfter mit Gitter. Betriebszustand um 1980.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb zentral eingebaut. Jeweils zwei Achsen in jedem Drehgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichts. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Seitlich angesetzte Griffstangen aus Metall. Frontschürze gegen geschlossene Frontschürzen austauschbar. Länge über Puffer ca. 20,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25202",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/a9/48a9510515a32a128692c0d0f024e13a1702904416.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

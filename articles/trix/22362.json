@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22362",
+  "manufacturer": "Trix",
+  "articleNumber": "22362",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 8/14",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie Ae 8/14 der Schweizerischen Bundesbahnen (SBB/CFF/FFS). Ausführung 11801 mit 2 Pantographen in Versuchslackierung maschinengrün. Epoche III.\n\nModell: Fahrgestelle und Aufbauten aus Metalldruckguss. Digital-Schnittstelle nach NEM (M). Zwei Hochleistungsantriebe. 4 Achsen angetrieben, Haftreifen. Kurvengängiges Gelenkfahrwerk. Feste Deichsel zwischen den Lokhälften. Spitzensignal und Schlusslicht konventionell in Betrieb, bei Decoder-Nachrüstung digital schaltbar. 2 Dachstromabnehmer mit Doppelschleifstück. Führerstände mit Inneneinrichtung. Kupplungsaufnahmen nach NEM. Länge über Puffer 391 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22362",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/e7/25e7b168a8e879745ec12469dc87364c1434534552.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

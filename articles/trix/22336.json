@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22336",
+  "manufacturer": "Trix",
+  "articleNumber": "22336",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 12 000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV+V",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Serie BB 12 000 der Französischen Staatsbahnen (SNCF). Zustand Epoche IV/V.\n\nModell: Digital-Decoder mit Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Bremsschläuche und Kupplungsnachbildungen an der Pufferbohle ansteckbar. Länge über Puffer ca. 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22336",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/17/0b/170b5a4265467bb28406c6762d2e88441434534524.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

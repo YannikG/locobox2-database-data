@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22959",
+  "manufacturer": "Trix",
+  "articleNumber": "22959",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "G 12",
+    "number": "5582",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 212.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive preussische Gattung G 12 (spätere Baureihe 58.10-21) der Königlich Preussischen Eisenbahnverwaltung (KPEV). Mit Gasbeleuchtung und preussischem Tender 3T 20. Betriebszustand kurz nach Auslieferung 1917.\n\nModell: Mit Digitaldecoder mfx und DCC, sowie einem geregeltem Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben, Haftreifen. Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Rauchsatz 7226 nachrüstbar. Feste Kurzkupplung zwischen Lok und Tender. Vorne an der Lok kulissengeführte Kurzkupplung mit NEM-Schacht. Hinten am Tender NEM-Kupplungsaufnahme mit Kinematik und TELEX-Kupplung. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 21,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22959",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/7e/857e41e7a25f21572175cca842eba7591459956106.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

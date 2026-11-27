@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22863",
+  "manufacturer": "Trix",
+  "articleNumber": "22863",
+  "releaseDate": "2020",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 94",
+    "number": "232-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 146.0
+  },
+  "description": "Vorbild: Güterzug-Tenderdampflokomotive Baureihe 094 (frühere BR 94.5-17) der Deutschen Bundesbahn (DB), mit Läutewerk und Vorwärmer auf dem Kesselscheitel sowie Hülsenpuffern. Betriebsnummer 094 232-6. Betriebszustand um 1969 beim Bw Crailsheim.\n\nModell: Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 14,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22863",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c2/fa/c2fae6688c6e8aef3f7b2f797c3d04781571724018.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

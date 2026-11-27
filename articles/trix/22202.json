@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22202",
+  "manufacturer": "Trix",
+  "articleNumber": "22202",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 602",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Inter-City-Zug Baureihe 602 der Deutschen Bundesbahn (DB). Umbauausführung des TEE-Triebzuges VT 11.5 auf Gasturbinen-Antrieb. Umbaujahr 1971. 4-teiliger Zug aus 2 Triebköpfen, 1 Küchenwagen und 1 Abteilwagen. Einsatz: Inter-City-Verkehr.\n\nModell: Epoche IV, Fahrgestell und Aufbau bei Triebköpfen und Zwischenwagen aus Metalldruckguss. Digital-Decoder für DCC und Trix Systems, auch konventionell einsetzbar. Beide Triebköpfe mit 5-poligem Hochleistungsmotor und mit Geräuschgenerator. 4 Achsen angetrieben. Spitzensignal mit LED, digital schaltbar. Eingebaute Innenbeleuchtung, digital schaltbar. Durchgehende elektrische Verbindung und Spezial-Kurzkupplungen mit Kulissenführung zwischen den Fahrzeugen. Angesetzte Metall-Griffstangen. Gesamtlänge des Zuges 880 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22202",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/69/c6/69c6519a60431591a45a784601738ad41434534594.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:19Z"
+}

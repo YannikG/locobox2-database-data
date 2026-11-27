@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22906",
+  "manufacturer": "Trix",
+  "articleNumber": "22906",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 01.5",
+    "number": "0505-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 282.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive Baureihe 01.5 mit Öl-Tender als Öl-Hauptfeuerung. Reko-Ausführung der Deutschen Reichsbahn der DDR (DR/DDR). Mit Speichen-Räder, Einheitskastentender 2´2´T34 (Öl), Witte-Windleitblechen in spezieller Bauform für die BR 01.5, durchgehende Domverkleidung, ohne Indusi, mit Zierstreifen. Betriebsnummer 01 0505-6. Betriebszustand um 1975/76.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 28,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22906",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a7/e5/a7e52841d33f78f297342075aacbeb791569304807.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:20Z"
+}

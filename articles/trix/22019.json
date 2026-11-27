@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22019",
+  "manufacturer": "Trix",
+  "articleNumber": "22019",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR E 91.9",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: E 91.9 der Deutschen Reichsbahn-Gesellschaft (DRG). Achsfolge C´C´.\n\nModell: Epoche II. Mit 5-poligem Hochleistungsmotor. 3 Achsen angetrieben. 2 Haftreifen. 21-polige Digital-Schnittstelle nach NEM. Maschinenraum mit Inneneinrichtung. Angesetzte Griffstangen und Dachlaufbretter. In der Ausführung des Ablieferungszustandes mit Führerstandsfenster-Blendschutz, grossen Laternen, grauer DRG-Farbgebung und Altbau-Stromabnehmern. Kupplungsaufnahmen nach NEM. LüP 199 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22019",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/65/48/65484dbb694a7dc5c6477f29e1b614c11434534392.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

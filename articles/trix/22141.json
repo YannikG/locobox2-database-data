@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22141",
+  "manufacturer": "Trix",
+  "articleNumber": "22141",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 141",
+    "number": "061-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Baureihe 141 der Deutschen Bahn AG. Achsfolge Bo´Bo´. Epoche-V-Betriebszustand mit 3 Lampen, Klatte-Lüftern und ohne umlaufende Regenrinne. Betriebsnummer: 141 061-2.\n\nModell: Epoche V. Mit DCC-/Selectrix-Decoder und Glockenankermotor mit Schwungmasse. 4 Achsen angetrieben. 2 Haftreifen. Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Gutdetaillierte Pufferbohle. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. Länge über Puffer 180 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22141",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3f/d8/3fd8044ad2aa274f782daec45a1bd9bb1434534599.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

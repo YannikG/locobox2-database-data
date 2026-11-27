@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22632",
+  "manufacturer": "Trix",
+  "articleNumber": "22632",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 185.2",
+    "number": "258-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.2 der Deutschen Bahn AG, Geschäftsbereich Railion. Gebaut ab 2005 von Bombardier als Lokomotive aus dem TRAXX Typenprogramm. Betriebsnummer 185 258-1. Einsatz: Güterverkehr.\n\nModell: Epoche V. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf Kardan auf 4 Achsen. Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Spitzensignal wahlweise an Führerstand 1 oder 2 im Digitalbetrieb abschaltbar. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Bremsschläuche in langer Ausführung im Beutel beiliegend. Länge über Puffer 217,2 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22632",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9a/3f/9a3f2ad477a64bc5d9f61636a594bdbe1434534565.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

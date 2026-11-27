@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22126",
+  "manufacturer": "Trix",
+  "articleNumber": "22126",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Privatbahn",
+    "type": "Köf II",
+    "number": null,
+    "livery": "H. F. Wiebe",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Kleinlokomotive Bauart Köf II. Lok 1 der Gleisbau-Firma H. F. Wiebe GmbH & Co KG. Frühere Baureihe 323 der Deutschen Bundesbahn\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal in Betrieb, digital schaltbar. Kupplungsaufnahmen nach NEM. Angesetzte Metall-Griffstangen. LüP 74 mm.LüP 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22126",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/35/50/3550699553f225a1ebfdbc27f8091b561434534667.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

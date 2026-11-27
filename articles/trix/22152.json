@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22152",
+  "manufacturer": "Trix",
+  "articleNumber": "22152",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR V 16",
+    "number": "01",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: BR V 16 01 der Deutschen Reichsbahn-Gesellschaft (DRG), Achsfolge 1´C1´, erste dieselhydraulische Streckenlokomotive mit grosser Leistung, Baujahr 1935. Einsatz: Mittlere Reise- und Güterzüge auf Haupt- und Nebenbahnen.\n\nModell: Epoche II, Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle, Spitzensignal weiss/rot in Fahrtrichtung wechselnd, 5-poliger schräggenuteter Motor mit Schwungmasse, 3 Achsen über Kuppelstangen angetrieben, 2 Haftreifen, Kupplungsaufnahme nach NEM. Länge über Puffer 165 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22152",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e0/a0/e0a0c546de0da663d5d6dcb52301e4e01434534463.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

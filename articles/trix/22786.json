@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22786",
+  "manufacturer": "Trix",
+  "articleNumber": "22786",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 050",
+    "number": "045-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 265.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 050 mit Kabinentender der Deutschen Bundesbahn (DB). Witte-Windleitbleche, 4 Kesselaufbauten, gekürzter Umlauf, DB-Reflexglaslampen und Indusi. Lok-Betriebsnummer 050 045-4. Betriebszustand um 1970.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung und Kabinen-Beleuchtung im Kabinentender jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Im Kabinentender ist die Figur eines Zugbegleiters bereits serienmässig eingesetzt. Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Lokführer- und Heizer-Figur sowie Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22786",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/21/d221d6ab017e864defe47cd26badb5ba1484067833.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

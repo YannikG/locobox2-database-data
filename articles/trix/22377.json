@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22377",
+  "manufacturer": "Trix",
+  "articleNumber": "22377",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "BRB",
+    "type": "LINT 41",
+    "number": null,
+    "livery": "LINT",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen LINT 41 der Bayerischen Regiobahn BRB. Ausführung als \"Puppenkistenzug\". Einsatz: Nahverkehr im Grossraum Augsburg und Ingolstadt.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Hochleistungsmotor und Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen LED. Zugzielanzeige vorbildgerecht mit gelben LED. Spitzensignal, Zugzielanzeige und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau, freier Durchblick, Inneneinrichtung, geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22377",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/ce/53ce357a1f89068fe256c5b006e075f41434534410.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

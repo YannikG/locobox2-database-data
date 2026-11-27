@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22808",
+  "manufacturer": "Trix",
+  "articleNumber": "22808",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "NO",
+    "operator": "CargoNet",
+    "type": "Litra 119",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive der Firma Angel Trains Cargo (ATC), eingesetzt als Litra 119 bei der CargoNet Group, Norwegen. Zweisystemlokomotive mit 2 Pantographen. Gebaut von Bombardier als Serienlokomotive aus dem TRAXX-Typenprogramm.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Mit Digital-Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. 2 mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22808",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/b6/d9b6a2570f846cddc10fc3b47879a88f1434534556.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22347",
+  "manufacturer": "Trix",
+  "articleNumber": "22347",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 98",
+    "number": "304",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Reihe 98 304 der Österreichischen Bundesbahnen (ÖBB). Umbau- und Betriebszustand der 50er Jahre.\n\nModell: Epoche III. Innenkessel aus Metalldruckguss. Digital-Decoder für DCC, Selectrix. Trix Systems und konventionellen Betrieb mit automatischer Systemerkennung. Geregelter Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Vorne 2, hinten 1 Spitzenlicht konventionell in Betrieb, digital schaltbar. Angesetzte Handläufe und Griffstangen. Filigrane Nachbildung der Kesselarmaturen und weiterer Details. Länge über Puffer 80 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22347",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/6b/4e6b830f38778d19b76449e535e938eb1434534669.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

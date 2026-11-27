@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22257",
+  "manufacturer": "Trix",
+  "articleNumber": "22257",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 74",
+    "number": "854",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 74 der Deutschen Bundesbahn (DB). Einsatz: Güterzüge.\n\nModell: Lokomotive mit 21-poliger Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. Dreilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22257",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/ba/90baf3eb5098dfc16bca05b3f102ec9a1477499492.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

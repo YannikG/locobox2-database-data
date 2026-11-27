@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22779",
+  "manufacturer": "Trix",
+  "articleNumber": "22779",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103.1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Serienausführung in purpurrot/beiger TEE-Sonder-Lackierung, mit zwei seitlichen Lüfterreihen, mit Frontschürzen, mit Pufferverkleidung und Scherenstromabnehmern. Eingesetzt im IC-Verkehr. Betriebszustand ca. Anfang 1970er-Jahre.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss. 21-polige Digital-Schnittstelle. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtungen mit wartungsfreien warmweissen Leuchtdioden (LED). Führerstände mit Inneneinrichtung. Separat eingesetzte Griffstangen aus Metall. Detaillierte Dachausrüstung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22779",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/89/66/89666ad1703ed4aab70e1c5f4b6778a91434534672.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22623",
+  "manufacturer": "Trix",
+  "articleNumber": "22623",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "Max Bögl",
+    "type": "V 60",
+    "number": "608",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive V60 608 der Firma Max Bögl.\n\nModell: Fahrgestell und Aufbauteile aus Metalldruckguss. Mit Digital-Decoder und umfangreichen Geräuschfunktionen, geregeltem Hochleistungsantrieb und Telex-Kupplungen. 3 Achsen und Blindwelle angetrieben. Spitzensignal konventionell in Betrieb, digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22623",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/11/2b/112b55093de006b808b02becb70e31761477500106.jpg"
+  },
+  "updatedAt": "2026-11-27T13:38:31Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22130",
+  "manufacturer": "Trix",
+  "articleNumber": "22130",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 05",
+    "number": "003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 05 der Deutschen Bundesbahn (DB). Betriebszustand der 05 003 um 1950 nach dem Umbau ohne Stromlinienverkleidung.\n\nModell: Lokomotive und Tender vorwiegend aus Metall. Hochleistungsantrieb C-Sinus, geregelter Digital-Decoder DCC-/Sx und Geräuschgenerator mit vielen Funktionen. Betrieb mit DCC, Selectrix und Trix Systems sowie konventionell möglich. Wartungsfreier C-Sinus-Motor in kompakter Bauform eingebaut im Kessel der Lokomotive. 3 Achsen angetrieben, 2 Haftreifen. Rauchsatz (Märklin 7226) nachrüstbar. Beleuchtung mit wartungsfreien warmweissen LED. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Lokpfiff und Dampflok-Fahrgeräusch mit DCC oder Trix Systems schaltbar. Flackerlicht in der Feuerbüchse, Geräusche von Luftpumpe und Bremsen sowie Rangierpfiff mit Trix Systems schaltbar. Drei weitere Geräusche (Dampf ablassen, Kohle schaufeln und Schüttelrost) mit Trix Systems Central Station schaltbar. Feste Kurzkupplung zwischen Lok und Tender, am Tender hinten NEM-Kupplungsaufnahme mit Kulissenführung und Kurzkupplung. Befahrbarer Mindestradius 360 mm. Ansteckbare Kolbenstangenschutzrohre. Länge über Puffer 307 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22130",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c6/65/c6656913bcbbd8d7109a57ff656ddb331434534555.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

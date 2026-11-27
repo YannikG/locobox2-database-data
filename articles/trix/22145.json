@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22145",
+  "manufacturer": "Trix",
+  "articleNumber": "22145",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 45",
+    "number": "024",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: BR 45, Bauart 1´E 1´h3 der Deutschen Reichsbahn-Gesellschaft (DRG), Baujahr ab 1936. Einsatz: Schwere Güterzüge.\n\nModell: Epoche II, Fahrgestell und Aufbau aus Metalldruckguss. Darstellung zahlreicher Details. Hochleistungsmotor (Glockenankermotor) mit Schwungmasse im Kessel. Mit digitaler Schnittstelle nach NEM. Kurzkupplung zwischen Lok und Tender. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung am Tender. Eingerichtet für Seuthe-Rauchsatz. Beleuchtete Feuerbüchse. 5 Achsen über Kuppelstangen angetrieben, Haftreifen. Länge über Puffer 295 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22145",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/8f/fd/8ffd8db0f8f75b7fd65700db2303767d1434534699.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

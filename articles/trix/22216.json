@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22216",
+  "manufacturer": "Trix",
+  "articleNumber": "22216",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "RAG",
+    "type": "D-727",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III-IV"
+  },
+  "description": "Vorbild: Rangierlokomotive D-727 der Ruhrkohle AG (RAG). Frühere Baureihe 80 der Deutschen Bundesbahn. Baujahr 1927. Einsatz: Verschiebedienst auf dem Zechengelände und Zubringer zum Netz. Zustand um 1970.\n\nModell: Epoche III-IV. Fahrgestell und Aufbau aus Metalldruckguss. 8-polige Schnittstelle nach NEM für Digital-Decoder. Starker 5-poliger Motor. 3 Achsen angetrieben, Haftreifen. Beleuchtung konventionell in Betrieb, mit nachrüstbarem Decoder digital schaltbar. Wiedergabe der Heusinger-Steuerung. Viele separat angesetzte Details. Kupplungsaufnahmen nach NEM mit Kurzkupplungs-Kinematik. LüP 111 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22216",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/92/fb/92fb2fd87e1efd506fb8e786676915061434534517.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:35Z"
+}

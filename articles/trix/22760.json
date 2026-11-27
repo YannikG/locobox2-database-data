@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22760",
+  "manufacturer": "Trix",
+  "articleNumber": "22760",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "PEG",
+    "type": "BR V 270",
+    "number": null,
+    "livery": "imoTrans",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe V 270 der Prignitzer Eisenbahn (PEG). Dunkelblauer Lack der imoTrans. Achsfolge: B'B'. Umbaujahr: 2004. Einsatz: Güterverkehr.\n\nModell: Epoche V, mit digitaler Schnittstelle, fünfpoliger C-90-Motor, 2 Achsen angetrieben, 2 Haftreifen. Fahrgestell und Aufbau aus Metalldruckguss, angesetzte Griffstangen seitlich und an Stirnfronten aus Metall. Kupplungsaufnahme nach NEM. Kupplungen gegen geschlossene Frontschürze austauschbar. LüP 210 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22760",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/68/32/6832e44e5fa75293340884a9c04071e01434534394.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

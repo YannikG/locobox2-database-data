@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22049",
+  "manufacturer": "Trix",
+  "articleNumber": "22049",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "S 2/6",
+    "number": "3201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 251.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der bayerischen Gattung S 2/6 in dunkelgrün/schwarzer Grundfarbgebung der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.). Mit goldenen Kesselringen. Lok-Betriebsnumer 3201. Betriebszustand um 1906/07.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen. Eingerichtet für Raucheinsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht und Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Detailliertes Fahrwerk mit durchbrochenem Barrenrahmen. Windschnittige Verkleidung von Rauchkammer, Kamin, Dom und Zylindergruppe sowie windschnittig gestaltetes Führerhaus. Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen separat bei. Länge über Puffer 25,1 cm. Lokomotive ist in einer dekorativen Holzkassette verpackt. Booklet über die Geschichte der S 2/6 liegt bei.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22049",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/45/2b/452bf5152d839cb922afac2d3b7732161434534633.jpg"
+  },
+  "updatedAt": "2026-11-27T13:12:24Z"
+}

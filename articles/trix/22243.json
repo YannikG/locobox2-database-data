@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22243",
+  "manufacturer": "Trix",
+  "articleNumber": "22243",
+  "releaseDate": "2014",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 80 der Deutschen Bundesbahn (DB). Betriebszustand um 1958.\n\nModell: Digital-Decoder mit umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele separat angesetzte Details. Länge über Puffer ca. 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2014"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22243",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0d/b0/0db08160e82729f9f84e492e68b51ce01434534481.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:18Z"
+}

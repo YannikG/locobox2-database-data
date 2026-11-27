@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22812",
+  "manufacturer": "Trix",
+  "articleNumber": "22812",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "GG-1",
+    "number": "4911",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Type GG-1 der Pennsylvania Railroad (PRR). \"Loewy\" Design in \"Tuscan Red\", Ausführung der 50er Jahre.\n\nModell: Epoche III. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder nach DCC-Standard mit Geräuschgenerator. Hochleistungsmotor mit Glockenanker zentral eingebaut. 4 Achsen in beiden Treibgestellen angetrieben. Kurvengängiges Fahrwerk mit 2 Treib- und 2 Laufgestellen. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Leistungsfähiger Lautsprecher. Grosse Dachstromabnehmer amerikanischer Bauart. Angesetzte Griffstangen aus Metall. Radsätze nach amerikanischer Norm RP 25. Kupplungen kompatibel zum Kadee-System. Länge über Kupplung 280 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22812",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f4/fe/f4fef7f34feb7621d4349baffc71d14b1434534627.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

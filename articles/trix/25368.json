@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25368",
+  "manufacturer": "Trix",
+  "articleNumber": "25368",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 299.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Fiktiv",
+    "type": "BR 185.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.2 in fiktiver Ausführung anlässlich der 2024 in Deutschland stattfindenden Fussball Europameisterschaft.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden (LED). Griffstangen an den Lokfronten separat angesetzt. Zwei mechanisch funktionsfähige, mit 24-karätigem Gold vergoldete Dachstromabnehmer. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25368",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/30/04/300439e9a3f2435e13309f28195910961712854802.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:22Z"
+}

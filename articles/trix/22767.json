@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22767",
+  "manufacturer": "Trix",
+  "articleNumber": "22767",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "IT",
+    "operator": "Museo Ferroviario Piemontese",
+    "type": "T 3",
+    "number": "3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II"
+  },
+  "description": "Vorbild: Lok Nr. 3 des Museo Ferroviario Piemontese. Frühere Lok Nr. 2 der Ferrovia Val Sessera (FVS). Gebaut 1907 von Henschel als preussischer Typ T 3. Restaurierter Zustand von 1935. Einsatz: Sonderfahrten.\n\nModell: Fahrgestell und Kessel aus Metalldruckguss. 21-polige Schnittstelle für Digital-Decoder. Miniaturmotor im Kessel. 3 Achsen angetrieben, 1 Haftreifen. Beleuchtung mit LED konventionell in Betrieb, mit nachgerüstetem Decoder 66839 digital schaltbar. Detailliertes Fahrwerk mit Darstellung der Allan-Steuerung. Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Kupplungsaufnahmen nach NEM. LüP 99 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22767",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/39/2f39865add94932ac79b42bd2888c7f21434534417.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

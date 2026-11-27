@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22833",
+  "manufacturer": "Trix",
+  "articleNumber": "22833",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "El 10",
+    "number": "10.2505",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro-Rangierlokomotive Reihe El 10 der Norwegischen Staatsbahnen (NSB) in rotbrauner Grundfarbgebung. Lok-Betriebsnummer 10.2505. Betriebszustand Ende 1960er/Anfang 1970er Jahre.\n\nModell: Mit Digital-Decoder DCC / mfx. Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Haftreifen. Zweilicht-Spitzensignal vorne und hinten, konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22833",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/48/44487a83b412bd04c52e7ae2d8adb9571477576271.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

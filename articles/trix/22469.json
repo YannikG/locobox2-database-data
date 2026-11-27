@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22469",
+  "manufacturer": "Trix",
+  "articleNumber": "22469",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Rail Bavaria",
+    "type": "BR 185.1",
+    "number": "537-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 185.1 der RAIL BAVARIA GmbH (Rohrbach). Betriebszustand ab Juli 2026 in auffälliger und attraktiver \"Zippo\" Werbegestaltung anlässlich des 50jährigen Jubiläums des Circus Roncalli.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Spezialmotor, zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien, warmweissen und roten Leuchtdioden (LED). Zwei mechanisch funktionsfähige Dachstromabnehmer. Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22469",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/a6/d9a6b11291e5f53f9555129624b49b151785229204.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

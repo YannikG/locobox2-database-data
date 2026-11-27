@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22125",
+  "manufacturer": "Trix",
+  "articleNumber": "22125",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 10",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: BR 10 der Deutschen Bundesbahn (DB). Mit Öltender und Öl-Hauptfeuerung. Bauart 2'C1'h3.\n\nModell: Mit 21-poliger Digital-Schnittstelle und Hochleistungsantrieb. 3 Achsen angetrieben. 2 Haftreifen. Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Eingerichtet für Rauchsatz 72270. Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, bei Decodereinbau digital schaltbar. Nach Einbau des Decoders 66839 ist ferner mit DCC oder Trix Systems dieTriebwerksbeleuchtung schaltbar. Länge über Puffer 305 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22125",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/a0/85a0f6ab7cfc6fbb7af3a57d5031af151453208690.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

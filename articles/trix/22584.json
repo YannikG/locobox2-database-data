@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22584",
+  "manufacturer": "Trix",
+  "articleNumber": "22584",
+  "releaseDate": "2002",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Be 6/8 III",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie Be 6/8III der Schweizerischen Bundesbahnen, Achsfolge (1´C)(C1´), Baujahr ab 1926 (Ce 6/8III). Weltberühmter Elloktyp, Spitzname \"Krokodil\". Einsatz: schwere Güterzüge.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle nach NEM, 3 Achsen angetrieben, 2 Haftreifen, Kupplungsaufnahme nach NEM. Lichtwechsel nach Schweizer Vorbild. Länge über Puffer 230 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2002"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22584",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c3/bb/c3bb361e7fc6a31a5499a6208d36dc7b1434534557.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:57Z"
+}

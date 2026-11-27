@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25951",
+  "manufacturer": "Trix",
+  "articleNumber": "25951",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 329.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 003",
+    "number": "276-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 277.0
+  },
+  "description": "Vorbild: Dampflokomotive 003 276-3 der Deutschen Bundesbahn (DB) mit Witte-Windleitblechen. Betriebszustand um 1971 im Bw Ulm.\n\nModell: Mit Digital-Decoder mfx und DCC und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Kessel. 3 Achsen angetrieben. Haftreifen. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Länge über Puffer 27,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25951",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/e0/78e032da7697ebdc932d6f33b3bc23651746018021.jpg"
+  },
+  "updatedAt": "2026-11-27T14:11:13Z"
+}

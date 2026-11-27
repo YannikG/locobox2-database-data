@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22626",
+  "manufacturer": "Trix",
+  "articleNumber": "22626",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 456",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "minRadiusMm": 420.0
+  },
+  "description": "Vorbild: Elektrotriebzug Baureihe 456 der Deutschen Bundesbahn (DB). Betriebszustand Ende der siebziger Jahre. Einsatz: Vorortverkehr.\n\nModell: Epoche IV. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb mit Kardan auf 4 Achsen des Mittelwagens. Fahrgestell des Mittelwagens aus Metalldruckguss. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Dreilicht-Spitzensignal und zwei rote Schlusslichter. Fahrtrichtungsabhängiger Lichtwechsel. Die Endwagen besitzen Schleiferumschaltung und nehmen jeweils in Fahrtrichtung vorne den Strom auf. Kurzkupplungskinematik und elektrische Verbindung zwischen den Wagen. Innenbeleuchtung 66718/66719 nachrüstbar. Hochdetailliertes Kunststoffgehäuse mit vielen angesetzten Details, wie Griffstangen, Steckdosen, Scheibenwischer, Antennen, Pfeifen und Hörner. Mehrfarbige Inneneinrichtung. An den Enden detaillierte Darstellung der Scharfenberg-Kupplung (ohne Funktion). Länge über Kupplung 919 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22626",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/f9/a2/f9a22ecc802d9fed4f1e7b248dee95341434534683.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

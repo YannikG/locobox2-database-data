@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22859",
+  "manufacturer": "Trix",
+  "articleNumber": "22859",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 74.10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 127.0
+  },
+  "description": "Vorbild: Baureihe 74.10 der Deutschen Reichsbahn (DR). Einsatz: Personenzüge.\n\nModell: 21-polige Digital-Schnittstelle nach NEM. Spezialmotor mit Schwungmasse. 3 Achsen angetrieben, Haftreifen. Zweilicht-Spitzensignal mit der Fahrtrichtung wechselnd. Kupplungsaufnahme nach NEM. Viele angesetzte Einzelheiten. Länge über Puffer 12,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22859",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/16/fe/16fed4f7c86b29c5dae81b09c6fc27361434534400.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:50Z"
+}

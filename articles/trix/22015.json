@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22015",
+  "manufacturer": "Trix",
+  "articleNumber": "22015",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "ET 833/834",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I"
+  },
+  "description": "Vorbild: Triebzug ET 833/834 der Königlich Preussischen Eisenbahnverwaltung (KPEV), Achsfolge 2'1 + B'1 + 1 2'. Späterer ET 87 der Deutschen Reichsbahn (DRG). Gebaut 1914 von AEG und LHB. Einsatz: Nahverkehr in Schlesien.\n\nModell: Epoche I, Fahrgestell der mittleren Einheit aus Metalldruckguss. Mit 8-poliger Digital-Schnittstelle nach NEM. 5-poliger Motor mit Schwungmasse. 2 Achsen angetrieben, 2 Haftreifen. Innenbeleuchtung mit wartungsfreien Leuchtdioden. Inneneinrichtung der Fahrgasträume, Führerstände mit freiem Durchblick. Spezial-Kurzkupplung zwischen den Fahrzeugen, an den Enden Kupplungsaufnahmen nach NEM. LüP 490 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22015",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/52/59/5259aecbba9d157818f932970ee8a6b51434534663.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

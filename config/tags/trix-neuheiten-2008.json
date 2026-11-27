@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "Trix Neuheiten 2008",
+  "slug": "trix-neuheiten-2008",
+  "description": "Artikel, erstmals im Trix-Programm 2008 (Erstveröffentlichung laut Trix-Produktdatenbank).",
+  "kind": "neuheiten",
+  "manufacturerSlug": "trix",
+  "year": 2008,
+  "order": 1,
+  "source": "https://www.trix.de/de/produkte/trix-h0/lokomotiven"
+}

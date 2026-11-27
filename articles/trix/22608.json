@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22608",
+  "manufacturer": "Trix",
+  "articleNumber": "22608",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 08.5",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnell-Triebwagenzug Baureihe VT 08.5 der Deutschen Bundesbahn (DB). Dreiteilige Bauart mit Achsfolge B´2´+2´2´+2´2´.\n\nModell: Dreiteilige Einheit, bestehend aus Triebwagen (VT), Mittelwagen (VM) und Steuerwagen (VS). Mit DCC-/Selectrix-Decoder, C-Sinus-Antrieb und eingebauter Innenbeleuchtung. 2 Achsen angetrieben. 2 Haftreifen. Kurzgekuppelte Spezialverbindung zwischen den Wageneinheiten. Eingebaute Inneneinrichtung. Führerstände der Endwagen mit freiem Durchblick. Innenbeleuchtung mit wartungsfreien Leuchtdioden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Schlusslichter sowie Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit Selectrix oder Trix Systems digital schaltbar. Vorbildgemässe Ergänzungsmöglichkeit der dreiteiligen Zugeinheit mit Zwischenwagen. Länge des dreiteiligen Zuges 85,6 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22608",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/c6/96c6a9c18e564c72fbe01c404b4a33321434534416.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

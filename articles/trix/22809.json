@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22809",
+  "manufacturer": "Trix",
+  "articleNumber": "22809",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "VT 10.5",
+    "number": null,
+    "livery": "Senator",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Tages-Gliederzug Baureihe VT 10.5 \"Senator\" der Deutschen Bundesbahn (DB). 1 Triebkopf A, mit Maschinenraum, Gepäckraum und Abteilen. 1 Triebkopf B, mit Maschinenraum und Sitzplätze im Grossraum, 1 Wagenglied e, mit Küche. 1 Wagenglied g, mit Sitzplätze im Grossraum. Farbgebung weissaluminium/purpurrot. Betriebszustand um 1955.\n\nModell: 4-teilige Grundgarnitur. Mit DCC-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Triebkopf A. Beide Achsen im Drehgestell des Triebkopfes A angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal, rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Tischlampen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Mehrpolige stromführende Spezialkupplung und dicht schliessende Übergangsblenden zwischen den Fahrzeugen. Schleiferumschaltung mit fahrtrichtungsabhängiger Stromversorgung über den jeweils vorderen Triebkopf. An den Enden Nachbildung der abgedeckten Scharfenberg-Kupplung (ohne Funktion). Zuglänge über Kupplungen 69,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22809",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/98/0b/980b35f9d2b671ab7b2331fe2333a0271434534478.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

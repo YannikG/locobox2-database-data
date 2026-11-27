@@ -480,7 +480,7 @@ def _type_from_title_or_vorbild(title: str, description: str) -> str:
     # Prefer «Baureihe …» / «Serie …» / «Reihe …» fragment when present.
     m = re.search(
         r"((?:Baureihe|Serie|Reihe|Typ|Class|Rh|BR)\s+.+?)"
-        r"(?=\s+(?:der|des|von|mit|in|als|aus|und)\b|[.,;]|$)",
+        r"(?=\s+(?:der|des|von|mit|in|als|aus|und)\b|[.,;](?:\s|$)|$)",
         first,
         re.I,
     )

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22307",
+  "manufacturer": "Trix",
+  "articleNumber": "22307",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Kleinlokomotive Bauart Köf II, zugelassen bei den Österreichischen Bundesbahnen (ÖBB). Geschlossenes Führerhaus.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit LED. Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Metall-Griffstangen. Kupplungsaufnahmen nach NEM. Länge über Puffer 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22307",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3f/9a/3f9afbb1bf40507e7b871cd38ff643ce1434534622.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22140",
+  "manufacturer": "Trix",
+  "articleNumber": "22140",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 41",
+    "number": "208",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Baureihe E 41 der Deutschen Bundesbahn. Achsfolge Bo´Bo´. Epoche-III-Betriebszustand mit 5 Lampen, abgerundeten Lüftern mit senkrechten Lamellen und umlaufender Regenrinne. Betriebsnummer: E 41 208.\n\nModell: Epoche III. Mit DCC-/Selectrix-Decoder und Glockenankermotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Gutdetaillierte Pufferbohle. Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. Länge über Puffer 180 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22140",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c5/23/c523b4bf46a6f568303e49d6596ca7c41434534575.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

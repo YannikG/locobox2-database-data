@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22576",
+  "manufacturer": "Trix",
+  "articleNumber": "22576",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 40100",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie CC 40100 der Französischen Staatsbahnen (SNCF). Viersystem-Lokomotive für ganz Frankreich, Benelux und Deutschland. Zweite Bauserie, Betriebszustand um 1972. Einsatz im internationalen TEE-Verkehr.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metall-Druckguss. Digital-Decoder für DCC, Selectrix und konventionellen Betrieb in 21-poliger Schnittstelle. Hochleistungsantrieb C-Sinus in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Schlusslichter, E-Lok-Fahrgeräusch und Lokpfiff mit DCC oder Trix Systems schaltbar. Eingesetzte Griffstangen aus Metall. Angesetzte Trittstufen. Detaillierte Dachausrüstung, unterschiedliche Dachstromabnehmer. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Ansteckbare Zurüstteile zur Pufferbohle. Kupplungsaufnahmen nach NEM mit Kinematik. Länge über Puffer 253 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22576",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c4/6c/c46cf84dc079478308bb96b7da19ea901434534567.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

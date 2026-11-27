@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22799",
+  "manufacturer": "Trix",
+  "articleNumber": "22799",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 5081",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Motorwagen Reihe 5081 und Steuerwagen Reihe 6581 der Österreichischen Bundesbahnen (ÖBB). Ursprungsausführung der 60er Jahre.\n\nModell: Epoche III. Mit Decoder für DCC, Selectrix und konventionellen Betrieb, automatische Systemerkennung. Geregelter Hochleistungsantrieb C-Sinus in kompakter Bauform. 2 Achsen angetrieben. Spitzen- und Schlusslichter sowie Innenbeleuchtung mit wartungsfreien warmweissen Leuchtdioden, konventionell in Betrieb und digital schaltbar. Diesel-Motorgeräusch, Signalhorn und weitere Betriebsgeräusche mit DCC oder Trix Systems schaltbar. Zwischen den Fahrzeug-Einheiten Strom führende Kupplungen in NEM-Aufnahme mit Kulissenführung. Führerstände und Fahrgasträume mit Inneneinrichtung. Gesamtlänge über Puffer 322 mm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22799",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/ef/4eeff463d7d2c21b22ed29f626b24eed1434534473.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

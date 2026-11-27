@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22215",
+  "manufacturer": "Trix",
+  "articleNumber": "22215",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "TVT 6219 Esn",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Wartungsfahrzeug TVT 6219 Esn der Deutschen Bundesbahn (DB). Mit beweglicher Arbeitsbühne und Scherenstromabnehmer. Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen.\n\nModell: Epoche III. Aufbau aus Metalldruckguss. 21-polige Digitalschnittstelle. Glockenankermotor mit Schwungmasse zentral eingebaut. 2 Achsen angetrieben. Spitzensignal und Schlusslichter mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Dachstromabnehmer und Arbeitsbühne manuell beweglich: Bühne heben und senken, Bühne schwenken nach rechts und links, Stromabnehmer auf oder ab. Keine elektrische Funktion des Stromabnehmers. Führerstand mit Einrichtung. Angesetzte Details: Oberlicht, Antenne, Horn, Scheinwerfer und Leitern. Länge über Puffer 160 mm.",
+  "categories": [
+    "lokomotive",
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22215",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/a3/fda31c4d3aeb72a85a65566ddfe2237d1434534506.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:35Z"
+}

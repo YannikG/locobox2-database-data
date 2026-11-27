@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22122",
+  "manufacturer": "Trix",
+  "articleNumber": "22122",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV+V"
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe Köf II, zugelassen bei der Deutschen Bundesbahn (DB). Werkslokomotive der Firma Südzucker AG. Bauart mit offenem Führerhaus. Einsatz: Werksverkehr und Übergabezüge.\n\nModell: Epoche IV und V, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit LED. Spitzensignal digital schaltbar. Angesetzte Metall-Griffstangen. Kupplungsaufnahmen nach NEM. LüP 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22122",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ae/30/ae30765e10f1fdbc193375ef08654a8d1434534681.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

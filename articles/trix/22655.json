@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22655",
+  "manufacturer": "Trix",
+  "articleNumber": "22655",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 420",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: S-Bahn-Triebzug Baureihe 420 der Deutschen Bundesbahn (DB). Betriebszustand um 1980. Ausführung in kieselgrau/blau für das Netz der S-Bahn im Grossraum München.\n\nModell: Mit Digital-Decoder DCC/mfx und umfangreichen Geräuschfunktionen. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb mit Kardan auf 4 Achsen des Mittelwagens. Fahrgestell des Mittelwagens aus Metalldruckguss. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Dreilicht-Spitzensignal und zwei rote Schlusslichter. Fahrtrichtungsabhängiger Lichtwechsel. Die Endwagen besitzen eine Schleiferumschaltung und nehmen jeweils in Fahrtrichtung vorne den Strom auf. Beleuchtete Zugzielanzeige gemeinsam mit Dreilicht-Spitzensignal digital schaltbar. Kurzkupplungskinematik und elektrische Verbindung zwischen den Wagen. Kuppelbar mit beiliegender Spezialkupplung mit weiteren ET-420-Einheiten zum vorbildgerechten Betrieb. Serienmässige Innenbeleuchtung. Verschiedene Zielschilder des S-Bahn-Netzes München beiliegend. Hochdetailliertes Kunststoffgehäuse mit vielen angesetzten Details, wie Griffstangen, Steckdosen, Scheibenwischer, Antennen, Pfeifen und Hörner. Inneneinrichtung. An den Enden detaillierte Darstellung der Scharfenberg-Kupplung (ohne Funktion). Länge über Kupplung 77,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22655",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/75/bb/75bbe10256034c15547ca01f5a127a041547535608.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:49Z"
+}

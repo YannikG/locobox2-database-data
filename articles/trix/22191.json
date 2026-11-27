@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22191",
+  "manufacturer": "Trix",
+  "articleNumber": "22191",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 491",
+    "number": "001-4",
+    "livery": "Gläserner Zug",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Elektrischer Aussichtstriebwagen Baureihe 491 \"Gläserner Zug\" der Deutschen Bundesbahn (DB). Farbgebung weissaluminium/olympiablau. Betriebszustand um 1977.\n\nModell: Epoche IV. Mit DCC-Decoder und seriell schaltbaren Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Innenbeleuchtung kann als digitale Zusatzfunktion gedämpft werden. Drehgestelle mit vorbildgerecht unterschiedlich langen Radständen. Eingebaute Inneneinrichtung. Eingesetzte Panorama-Fenster. Auf dem Dach jeweils ein Scheren-Stromabnehmer und ein Einholm-Stromabnehmer mit Doppel-Schleifstück. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22191",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d2/72/d272c2f7f52be5e26602d5e1ee7297a51434534452.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

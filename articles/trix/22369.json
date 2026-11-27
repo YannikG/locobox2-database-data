@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22369",
+  "manufacturer": "Trix",
+  "articleNumber": "22369",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 040D Est",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Serie 040D Est der Französischen Staatsbahnen (SNCF). Bauart D h2, Baujahr ab 1913 als G 8.1 für die KPEV. Einsatz: Güterzüge.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle, Glockenanker - Hochleistungsmotor mit Schwungmasse im Kessel, 4 Achsen über Kuppelstangen angetrieben, 2 Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Kurzkupplung zwischen Lok und Tender, Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. Eingerichtet für Seuthe-Rauchsatz. Länge über Puffer 210 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22369",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ad/de/adde2948e4607b0b90091b298af17ff61434534435.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:54Z"
+}

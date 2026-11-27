@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22349",
+  "manufacturer": "Trix",
+  "articleNumber": "22349",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Ub",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Rangierlokomotive Reihe Ub der Schwedischen Staatsbahnen (SJ).\n\nModell: Fahrgestell und Aufbau vorwiegend aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Beleuchtung mit wartungsfreien LED, konventionell in Betrieb, bei Decoder-Nachrüstung digital schaltbar. Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. LüP 112 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22349",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/f9/48f9a3793bdf45b9688da9ccf02522261434534569.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:53Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22776",
+  "manufacturer": "Trix",
+  "articleNumber": "22776",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ce 6/8 III",
+    "number": "14307",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 230.0
+  },
+  "description": "Vorbild: Serie Ce 6/8 III der Schweizerischen Bundesbahnen, Achsfolge (1´C) (C1´), Baujahr ab 1926 (Ce 6/8 III). Weltberühmter E-Loktyp, Spitzname \"Krokodil\". Einsatz: Schwere Güterzüge.\n\nModell: Fahrgestell und Aufbau aus Metalldruckguss, mit digitaler Schnittstelle nach NEM, 3 Achsen angetrieben, Haftreifen, Kupplungsaufnahme nach NEM. Lichtwechsel nach Schweizer Vorbild. Länge über Puffer 23 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22776",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/de/b9/deb98fc28161987dd56918e7dc5b76fb1434534648.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

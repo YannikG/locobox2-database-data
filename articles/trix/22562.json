@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22562",
+  "manufacturer": "Trix",
+  "articleNumber": "22562",
+  "releaseDate": "2016",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 56.2-8",
+    "number": "569",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 211.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive der Baureihe 56.2-8 der Deutschen Reichsbahn-Gesellschaft (DRG). Umgebaute preussische G 8.1 mit Laufachse. Mit Reichsbahnlaternen und Läutewerk. Kohlen-Schlepptender der Bauart 3T 16,5. Betriebsnummer 56 569. Betriebszustand um 1938.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden (LED). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender mit digital schaltbarer Telex-Kupplung, vorne an der Lok Kurzkupplung mit NEM-Schacht. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Kolbenstangenschutzrohre, Bremsleitungen, Schraubenkupplungsimitation, Lokführer- und Heizer-Figur liegen bei. Länge über Puffer 21,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22562",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/24/7f/247f1688c8586d4392516bcacdc9fda41453475808.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:56Z"
+}

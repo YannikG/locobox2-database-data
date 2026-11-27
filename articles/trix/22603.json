@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22603",
+  "manufacturer": "Trix",
+  "articleNumber": "22603",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120.1",
+    "number": "125-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Elektrolokomotive der Baureihe 120.1 der Deutschen Bundesbahn (DB). In orientroter Farbgebung mit dem Bundesbahn Logo. Betriebsnummer: 120 125-0. Einsatz: Hochwertiger Reise- und Güterverkehr.\n\nModell: Epoche IV/V. Fahrgestell aus Metalldruckguss. 21-polige Digital-Schnittstelle. 5-poliger schräg genuteter Motor mit Schwungmasse zentral eingebaut. Antrieb auf Kardan auf 4 Achsen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden, konventionell in Betrieb. Spitzensignal wahlweise an Führerstand 1 oder 2 im Digitalbetrieb abschaltbar. Detaillierte Dachausrüstung. Führerstände mit Inneneinrichtung, vorne mit Lokführerfigur. Kupplungsaufnahmen nach NEM mit Kinematik. Pufferbohlendetails im Beutel beiliegend, um den Frontbereich wahlweise für den Vitrineneinsatz vollständig vorbildgerecht oder für den Fahrbetrieb zurüsten zu können. Länge über Puffer 220,7 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22603",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c8/1b/c81b0c20ad1b8699fc462b4bb29143da1434534624.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:52Z"
+}

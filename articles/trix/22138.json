@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22138",
+  "manufacturer": "Trix",
+  "articleNumber": "22138",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Köf II",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Kleinlokomotive Bauart Köf II, zugelassen bei der Deutschen Bundesbahn (DB). Offenes Führerhaus. Gestaltung als Werkslokomotive der Firma Daimler-Benz.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit LED. Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Metall-Griffstangen. Kupplungsaufnahmen nach NEM. Länge über Puffer 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22138",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/c7/0ec7a609027fd1aba5bb7dcd2e34da901434534628.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

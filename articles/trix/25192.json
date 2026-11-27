@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25192",
+  "manufacturer": "Trix",
+  "articleNumber": "25192",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "BR 193",
+    "number": "524",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Elektrolokomotive BR 193 (Vectron) der SüdLeasing GmbH, vermietet an die SBB Cargo International AG. Lokname „Limmat“. Betriebsnummer 193 524. Betriebszustand 2020.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des „Doppel-A-Lichts“. Wechsel zwischen Schweizer Lichtwechsel und Lichtwechsel weiss/rot schaltbar. Fernscheinwerfer digital schaltbar. Führerstandsbeleuchtung digital schaltbar. Rangierlicht, Warnsignal und Falschfahrt digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Ansteckbare Bremsschläuche liegen separat bei. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25192",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/05/a1/05a1a9c1ab5451e406d884001a33cb531619157621.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

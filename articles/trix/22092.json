@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22092",
+  "manufacturer": "Trix",
+  "articleNumber": "22092",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "AT",
+    "operator": "StLB",
+    "type": "Reihe 2016",
+    "number": "901-7",
+    "livery": "Hercules",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Reihe 2016 \"Hercules\" der Steiermärkischen Landesbahnen (STLB). Dieselelektrische Bauart. Achsfolge Bo´Bo´.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. DCC-Digital-Decoder und zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit DCC oder Trix Systems digital schaltbar. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22092",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/61/48/6148b7f267a04b7a0affba2bc194b2c41434534527.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

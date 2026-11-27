@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22174",
+  "manufacturer": "Trix",
+  "articleNumber": "22174",
+  "releaseDate": "2011",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 216",
+    "number": "006-7",
+    "livery": "Lollo",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 184.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive in Vorserien-Ausführung als Baureihe 216 \"Lollo\" der Deutschen Bundesbahn (DB). Regellackierung mit purpurrotem Lokkasten. Längsseitig jeweils vorbildgerecht unterschiedliche Lüfter- und Fensteranordnung. Betriebszustand um 1975.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden (LED). Seitlich und frontal angesetzte Griffstangen aus Metall. Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 18,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2011"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22174",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/46/06/46061a79f8856075eba8d3d056d7ba401434534690.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22766",
+  "manufacturer": "Trix",
+  "articleNumber": "22766",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 426000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Zweisystem-Lokomotive Serie 426000 der Französischen Staatsbahnen (SNCF). Zweisystem-Lokomotive \"SYBIC\". Achsfolge Bo´Bo´. Zugeteilt dem Bereich Güterverkehr (FRET).\n\nModell: Epoche V. Fahrgestell und Aufbau aus Metall-Druckguss. Mit eingebautem DCC-/Selectrix-Decoder in 8-poliger Digital-Schnittstelle nach NEM und Hornsignal-Geräuschelektronik. Konventioneller Betrieb über beiliegenden Dioden-Brückenstecker. 5-poliger Motor. 2 Achsen angetrieben. 2 Haftreifen. Spitzensignal konventionell in Betrieb, digital schaltbar. Hornsignal sowie Anfahr- und Bremsverzögerung digital schaltbar. Unterschiedliche Dachstromabnehmer. Eingesetzte Metall-Griffstangen. Kupplungsaufnahme nach NEM. LüP 204 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22766",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/37/7b37337a82a56f949060bdaa6ecdb17c1434534662.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22120",
+  "manufacturer": "Trix",
+  "articleNumber": "22120",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR Ka",
+    "number": "4816",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe Ka der Deutschen Bundesbahn (DB). Ausführung mit Akkumulatoren und Elektroantrieb auf Diesellok-Chassis. Achsfolge B. Bauzeit ab 1935. Einsatz: Rangierdienst, Werkverkehr, Gefahrgut-Wagen.\n\nModell: Epoche III, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC und Selectrix mit automatischer Systemerkennung, auch konventionell einsetzbar. 5-poliger Miniaturmotor mit Schwungmasse. 2 Achsen angetrieben. Beleuchtung mit LED. Spitzensignal digital schaltbar. Angesetzte Metall-Griffstangen. Kupplungsaufnahmen nach NEM. LüP 74 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22120",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/54/e1/54e1ba5d07bbb2ce01dbf29adccabfd31434534441.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22903",
+  "manufacturer": "Trix",
+  "articleNumber": "22903",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 56",
+    "number": "814",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 211.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive der Baureihe 56.2-8 der Deutschen Bundesbahn (DB). Umgebaute preussische G 8.1 mit Vorlaufachse. Mit DRB-Lampen an Lok und Tender, ohne Läutewerk. Kohlen-Schlepptender der Bauart 3T 16,5. Betriebsnummer 56 814. Betriebszustand ab 1950 beim Bw Nördlingen.\n\nModell: Mit mfx-Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz 72270 kann nachgerüstet werden. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit warmweissen Leuchtdioden (LED). Feste Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok Kurzkupplung mit NEM-Schacht. Viele separat angesetzte Details wie Leitungen und Sandfallrohre. Beiliegend Kolbenstangenschutzrohre, Bremsleitungen sowie Schraubenkupplungsimitation. Länge über Puffer 21,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22903",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/62/ca/62ca1007d70f6486d12becda35edf7bd1608555619.jpg"
+  },
+  "updatedAt": "2026-11-27T14:04:19Z"
+}

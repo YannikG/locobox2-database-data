@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22770",
+  "manufacturer": "Trix",
+  "articleNumber": "22770",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 152",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 152 der Deutschen Bahn AG/Railion (DB AG). Werbegestaltung (Mähdrescher-Motiv) der Firma CLAAS KGaA mbH in Harsewinkel bei Osnabrück.\n\nModell: Epoche V. Fahrgestell und Aufbau aus Metalldruckguss. 8-polige Digital-Schnittstelle nach NEM mit Brückenstecker für konventionellen Betrieb. 5-poliger Hochleistungsmotor. 2 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Spitzensignal und Schlusslicht konventionell in Betrieb, mit nachgerüstetem Decoder digital schaltbar. Führerstände mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Kupplungsaufnahmen nach NEM. Länge über Puffer 225 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22770",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/38/ba/38ba9fe8fe50e7f74a2efce44414a5041434534480.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:52Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22212",
+  "manufacturer": "Trix",
+  "articleNumber": "22212",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 90",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe V 90 der Deutschen Bundesbahn (DB). Ausführung im Lieferzustand. Achsfolge B´B´. Einsatz: Rangierdienst, Ablaufberg, Kurzstrecken-Güterverkehr.\n\nModell: Epoche III. Fahrgestell und Hauptteil des Aufbaus aus Metalldruckguss. 21-polige Digital-Schnittstelle. Zentral eingebauter Glockenanker-Hochleistungsmotor. 4 Achsen angetrieben. 2 Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb. Nach Einbau des Decoders 66839 direkt schaltbar. Angedeutete Führerstandseinrichtung. Angesetzte Metall-Griffstangen. Zusätzliche Trittstufen beiliegend. Kupplungsaufnahmen nach NEM. Länge über Puffer 164 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22212",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/68/db/68db46f510dabb14c8f30ed8b881d62a1434534436.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

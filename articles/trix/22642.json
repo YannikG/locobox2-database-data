@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22642",
+  "manufacturer": "Trix",
+  "articleNumber": "22642",
+  "releaseDate": "2010",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "MRCE",
+    "type": "ES 64 U2",
+    "number": "067",
+    "livery": "BosporusSprinter",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Baureihe ES 64 U2 der MRCE-dispolok GmbH als \"BosporusSprinter\", Achsfolge Co´Co´, Baujahr ab 1999 (Spitzname \"Taurus\") Einsatz: schwere Reise- und Güterzüge.\n\nModell: Epoche VI, Fahrgestell und Gehäuse aus Metalldruckguss, mit 21-poliger digitaler Schnittstelle, 5-poliger Motor, Spitzensignal weiss/rot in Fahrtrichtung wechselnd, Beleuchtung mit warmweissen LEDs, bei nachgerüstetem Decoder T66849 kann das Fernlicht geschaltet werden, Führerstände mit Inneneinrichtung, 2 Achsen angetrieben, Haftreifen, mit Kupplungsaufnahme nach NEM und Kinematik für Kurzkupplung. Länge über Puffer 225 mm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2010"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22642",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/06/20/06203b2d3800b3e151e5f6f06f2d787a1434534559.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

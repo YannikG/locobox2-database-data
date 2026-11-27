@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22222",
+  "manufacturer": "Trix",
+  "articleNumber": "22222",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 210",
+    "number": "002-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Gasturbinenlokomotive Baureihe 210 der Deutschen Bundesbahn (DB). Dieselhydraulische Lokomotive mit zusätzlicher Gasturbine. Einsatz für hochwertigen Personenverkehr.\n\nModell: Epoche IV. Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und Trix Systems mit automatischer Systemerkennung, auch konventionell einsetzbar. Glockenankermotor mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Angesetzte Metall-Griffstangen. Detaillierte Pufferbohle Kupplungsaufnahmen nach NEM. Länge über Puffer 189 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22222",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/88/d6/88d6cf1a5a333dd539550e874eba67dc1434534650.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

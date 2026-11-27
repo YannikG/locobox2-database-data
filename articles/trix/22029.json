@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22029",
+  "manufacturer": "Trix",
+  "articleNumber": "22029",
+  "releaseDate": "2015",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "G 5/5",
+    "number": "5856",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 235.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive der bayerischen Gattung G 5/5, mit Schlepptender 2´2 T21,8. Bauart-Ausführung aus der dritten Lieferserie. Dunkelgrüne Grundfarbgebung der Gruppenverwaltung Bayern der Deutschen Reichsbahn. Betriebsnummer 5856. Betriebszustand um 1923.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 72270. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Drittes Zugbegegnungslicht an der Lok vorne und am Tender fahrtrichtungsabhängig digital separat zuschaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kulissengeführte Kurzkupplung mit Kinematik zwischen Lok und Tender. Vorne an der Lok und hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 23,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2015"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22029",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1e/ec/1eecd280377e45ee0b6168fa059ee1491477498824.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:46Z"
+}

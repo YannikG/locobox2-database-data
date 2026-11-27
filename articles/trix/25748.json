@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25748",
+  "manufacturer": "Trix",
+  "articleNumber": "25748",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 70.2",
+    "number": "24",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 143.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 70.2 der Deutschen Bundesbahn (DB). fiktive schwarze Grundfarbgebung. Lok-Betriebsnummer E 70 24. Betriebszustand um 1950.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse. 2 Achsen und Blindwelle in einem Treibgestell angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Doppel-A-Licht-Funktion. Lichtwechsel umschaltbar auf Zweilicht-Spitzensignal und zwei rote Schlusslichter. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Kurvengängiges Gelenkfahrwerk, beweglich unter den festen Vorbauten gelagert. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 14,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25748",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0e/a3/0ea38f135ea28539f69e13378dc0f4ab1702908024.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22117",
+  "manufacturer": "Trix",
+  "articleNumber": "22117",
+  "releaseDate": "2005",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 3810",
+    "number": "3075",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Personenzuglokomotive Baureihe 3810 der Deutschen Bundesbahn (DB). Ehemalige preussische P 8. Kessel mit 3 Domen ohne Windleitbleche. Vierachsiger Kastentender. Bauart 2'Ch2. Einsatz: Reisezüge und leichte Güterzüge im Flachland, auch gemischte Züge.\n\nModell: Epoche III, Fahrgestell, Kessel und Tenderaufbau aus Metalldruckguss. Mit 8-poliger Digital-Schnittstelle nach NEM. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben. 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden. Rauchsatz 72270 nachrüstbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand. Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Kupplungsaufnahmen nach NEM, am Tender mit Kinematik für Kurzkupplung. LüP 218 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22117",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4a/59/4a595f94b8438b2b67a1d63146b1cd641434534657.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

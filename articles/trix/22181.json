@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22181",
+  "manufacturer": "Trix",
+  "articleNumber": "22181",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 18.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive Baureihe 18.3 der Deutschen Reichsbahn Gesellschaft (DRG), Bauart 2\"C1\"h4v. Gebaut ab 1918 als Serie IV h der Grossherzoglichen Badischen Staatseisenbahnen. Einsatz: Hochwertiger Reiseverkehr.\n\nModell: Epoche II. Geregelter Softdrive-Sinus-Hochleistungsantrieb in kompakter Bauform mit DCC-/Sx-Decoder ohne Soundgenerator. 3 Achsen angetrieben, 2 Haftreifen. Tender aus Metall. Gleisradiusbezogen verstellbare Kurzkupplung zwischen Lok und Tender. Rauchsatz nachrüstbar. Fahrtrichtungsabhängig wechselndes LED-Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit Trix Systems schaltbar. Am Tender kinematikgeführte Kurzkupplung mit NEM-Aufnahmeschacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 267 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22181",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/88/9388b845a5b8259645035d977624772d1434534419.jpg"
+  },
+  "updatedAt": "2026-11-27T13:25:17Z"
+}

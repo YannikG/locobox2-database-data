@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25030",
+  "manufacturer": "Trix",
+  "articleNumber": "25030",
+  "releaseDate": "2026",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 03",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive E 03 002 der Deutschen Bundesbahn (DB). Vorserienlokomotive mit jeweils einer Lüfterreihe links und rechts, erhabener Zierleiste, Scherenstromabnehmern DSB 54 mit Wanisch-Wippe WB 15 , Frontschürze und Pufferverkleidung. Farbgebung in purpurrot/beige. Beheimatet im Bahnbetriebswerk München Hbf. Betriebszustand 1965.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 5-poliger Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher zur Überbrückung von kurzen stromlosen Stellen. Scherenstromabnehmer DBS 54 mit Wanisch-Wippe digital schaltbar. Lokaufbau mit vorbildgerecht nachgebildeter, erhabener Zierleiste. Angesetzte Scheibenwischer. Angesetzte Griffstangen und Dachleitungen aus Metall. Zwei Lokführerfiguren im Führerstand 1. Führerstandrückwand mit vorbildgerechter Gestaltung. Schürzen für die Vitrine, Bremsleitungen, Steckdosen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25030",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/00/9d/009df500bd4bf2fcb2669af68458fb591782745206.jpg"
+  },
+  "updatedAt": "2026-11-27T14:05:04Z"
+}

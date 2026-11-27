@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22388",
+  "manufacturer": "Trix",
+  "articleNumber": "22388",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Ue",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro-Rangierlokomotive Reihe Ue der Schwedischen Staatsbahnen (SJ) in orange-dunkelblauer Farbgebung. Betriebszustand der Epoche IV.\n\nModell: Mit 21-poliger Digital-Schnittstelle. Miniaturmotor mit Schwungmasse. 3 Achsen und Blindwelle angetrieben. Haftreifen. Zweilicht-Spitzensignal vorne und hinten, sowie zusätzlich rotes Licht an Lok-Seite B konventionell in Betrieb. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Vorbildkupplungen an der Pufferbohle ansteckbar. Zusätzlicher Schienenräumer ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22388",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/90/56/905603aba945b39d6a6d035e8adf56cb1434534668.jpg"
+  },
+  "updatedAt": "2026-11-27T13:37:55Z"
+}

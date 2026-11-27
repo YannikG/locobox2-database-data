@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22802",
+  "manufacturer": "Trix",
+  "articleNumber": "22802",
+  "releaseDate": "2004",
+  "uvp": null,
+  "model": {
+    "country": "US",
+    "operator": "NYC",
+    "type": "H 6",
+    "number": "1883",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II+III"
+  },
+  "description": "Vorbild: Schnelle Güterzuglokomotive Reihe H 6 der New York Central Railroad (NYC). Standard- Bauartachsfolge 2-8-2 \"Mikado\" der United States Railroad Administration (USRA). Bauzeit ab 1918.\n\nModell: Epoche II - III, Ausführung der Räder nach amerikanischer Norm RP 25. Kupplungen kompatibel zum Kadee System. Technische Ausführung wie 22804 und andere Betriebsnummer als 22801. LüK 290 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2004"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22802",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e5/a6/e5a62c30a2585aae2cc3f6df224c09271434534594.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

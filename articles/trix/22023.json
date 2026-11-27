@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22023",
+  "manufacturer": "Trix",
+  "articleNumber": "22023",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "P8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 275.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Gattung P8 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Im Ursprungszustand.\n\nModell: Glockenanker-Motor. 3 Achsen angetrieben, 2 Haftreifen. 21-polige Digital-Schnittstelle. Rauchsatz nachrüstbar. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal mit wartungsfreien Leuchtdioden und nachrüstbarer Rauchsatz konventionell in Betrieb. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Länge über Puffer 27,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22023",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/62/2f62dca915741c08cc635018eaf31eb11434534536.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

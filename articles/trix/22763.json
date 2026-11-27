@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22763",
+  "manufacturer": "Trix",
+  "articleNumber": "22763",
+  "releaseDate": "2006",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "Am 842",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie Am 842 der Schweizerischen Bundesbahnen (SBB Cargo). Dieselhydraulische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), weiterentwickelt aus den Standardlokomotiven der früheren MaK. Achsfolge B'B'.\n\nModell: Epoche V, Fahrgestell und Aufbau aus Metall-Druckguss mit Kunststoff-Ansatzteilen. Glockenanker-Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. 2 Haftreifen. Dreilicht-Spitzensignal/weisses Schlusslicht fahrtrichtungsabhängig wechselnd. Beleuchtung mit wartungsfreien LED. Kupplungsaufnahme nach NEM. LüP 165 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22763",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/51/b2/51b2b0a9ba6ad36f35e448245a1079031434534397.jpg"
+  },
+  "updatedAt": "2026-11-27T13:50:51Z"
+}

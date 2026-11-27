@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25511",
+  "manufacturer": "Trix",
+  "articleNumber": "25511",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Be 4/6",
+    "number": "12306",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 189.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Elektrolokomotive Be 4/6 der Schweizerischen Bundesbahnen (SBB). Lokomotive aus der ersten Bauserie. Tannengrüne Grundfarbgebung mit grauem Fahrwerk. Mit Stangenpuffer, stirnseitigen Führerstandstüren mit Übergangsblechen, mit Besandungsanlage, mit Falschfahrsignal und mit Integra-Signum Magnet. Längsseitige Kühlschlangen mit 6 senkrechten Haltern. Lok-Betriebsnummer 12306. Betriebszustand um 1950.\n\nModell: Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Jeweils beide Treibräder und Blindwelle in beiden Treibgestellen über Kardan angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Fahrberechtigungssignal separat digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Zusätzliche Führerstandsbeleuchtung und Maschinenraumbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten, wie Kühlröhren für das Transformatorenöl. Führerstand- und Maschinenraum-Nachbildung. Mit Besandungsanlage an den Treibradgruppen. Detaillierte Dachausrüstung mit Heizwiderständen, Dachleitungen, Isolatoren, Blitzschutzspulen und Dachlaufbrettern sowie Scherenstromabnehmer mit einfacher Wippe. Befahrbarer Mindestradius 360 mm. Bremsschläuche, Schraubenkupplungsimitationen sowie Aufstiegstritte liegen bei. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25511",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/f7/4ef7e12e767d849f53f22b73ec5ff5c51606892456.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

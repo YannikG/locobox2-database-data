@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22867",
+  "manufacturer": "Trix",
+  "articleNumber": "22867",
+  "releaseDate": "2019",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "RCe 2/4",
+    "number": "604",
+    "livery": "Roter Pfeil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 315.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen Serie RCe 2/4 \"Roter Pfeil\", 3. Klasse, der Schweizerischen Bundesbahnen (SBB), mit Einachs-Skianhänger. Purpurrote Grundfarbgebung. Triebwagen-Betriebsnummer 604. Betriebszustand um 1948.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell. 2 Achsen angetrieben. Haftreifen. Schweizer Lichtwechsel, Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlusslicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Über die Funktionstasten können zusätzlich verschiedene Umgebungsgeräusche ausgelöst werden. Einachs-Skianhänger mit entsprechender Spezialkupplung am Triebwagen angehängt. Gesamtlänge über Puffer 31,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22867",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/5e/425eb41cd5c728add7864f4bd86a55b21545289215.jpg"
+  },
+  "updatedAt": "2026-11-27T13:51:25Z"
+}

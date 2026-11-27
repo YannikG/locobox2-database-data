@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22144",
+  "manufacturer": "Trix",
+  "articleNumber": "22144",
+  "releaseDate": "2008",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 03",
+    "number": "2202-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: BR 03, Bauart 2´C 1´h2 der Deutschen Reichsbahn (DR), Baujahr ab 1936 für die Deutsche Reichsbahn. Einsatz: Schnellzüge.\n\nModell: Epoche IV. Lokomotive mit 21-poliger Digital-Schnittstelle für nachrüstbaren Decoder 66839. Hochleistungsantrieb im Kessel der Lokomotive. 3 Achsen angetrieben, 2 Haftreifen. Rauchsatz (Märklin 7226) nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb. Am Tender NEM-Kupplungsaufnahmen mit Kinematik. Länge über Puffer 277 mm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2008"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22144",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/95/c7/95c7eff42d3e9644f7a5a3af974608b61434534450.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

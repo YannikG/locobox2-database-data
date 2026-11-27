@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25241",
+  "manufacturer": "Trix",
+  "articleNumber": "25241",
+  "releaseDate": "2023",
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "EST",
+    "type": "Serie 13 EST",
+    "number": "241-004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 304.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schwere Schnellzug-Dampflokomotive mit Schlepptender Serie 13 (241-A) der Französischen Ostbahn (EST). Schwarze Grundfarbgebung mit schwarzem Fahrwerk. Ausführung als Lokomotive für das Schnellzugwagen-Set \"EDELWEISS\". Typspezifische Änderung der Windleitbleche. 2-Licht-Spitzensignal mit Petroleum-Lampen, mit einer Lampe oben und einer Lampe unten. Lok-Betriebsnummer EST 241-004. Betriebszustand um 1931.\n\nModell: Mit Digital-Decoder und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen. Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist eine Führerstandbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 437,5 mm. Bremsschläuche, Heizkupplung und Schraubenkupplungsimitation liegen bei. Zusätzlich liegt ein Rahmen ohne Radaussparung für die Nachlaufachse bei, der z.B. für die Vitrine gegen den serienmässig eingebauten Rahmen der Nachlaufachse getauscht werden kann. Länge über Puffer 30,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25241",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/26/5d/265d92c6e3aec6dc7f6bc65a0e8688d31668862813.jpg"
+  },
+  "updatedAt": "2026-11-27T14:12:03Z"
+}

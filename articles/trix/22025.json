@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22025",
+  "manufacturer": "Trix",
+  "articleNumber": "22025",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "SVT 04",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnelltriebwagen Baureihe SVT 04 der Deutschen Bundesbahn (DB). Reichsbahn-Bauart SVT 137 \"Hamburg\". Zweiteilig mit Jacobs-Drehgestell. Ausführung als FT 231 \"Montan-Express\" von 1954, Epoche III a.\n\nModell: Gehäuse aus Metall-Druckguss. Digital-Decoder für Selectrix, DCC, Trix Systems und konventionellen Betrieb. Hochleistungsantrieb C-Sinus in kompakter Bauform eingebaut im Jacobs-Drehgestell. 2 Achsen angetrieben. 4 Haftreifen. Beleuchtungen mit wartungsfreien Leuchtdioden. Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Dieselmotor-Geräusch und Signalhorn mit DCC oder Trix Systems schaltbar. Weitere Betriebs- und Umgebungsgeräusche mit Trix Systems schaltbar. Durchgehende Seitenschürzen mit geführten Blenden über den Radausschnitten. Kulissenführung mit geschlossenem Faltenbalg zwischen den Fahrzeughälften. Dach mit angesetzten Details. An den Enden Nachbildung der Scharfenberg-Kupplung (ohne Funktion). LüK 484 mm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22025",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fd/98/fd98962bc365f7971dc1f8579e9568d91434534669.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

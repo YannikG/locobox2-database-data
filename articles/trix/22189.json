@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22189",
+  "manufacturer": "Trix",
+  "articleNumber": "22189",
+  "releaseDate": "2012",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 05",
+    "number": "002",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 05 der Deutschen Reichsbahn-Gesellschaft (DRG). Ausführung in Schwarz mit voller Stromlinien-Verkleidung.\n\nModell: Mit Digital-Decoder DCC und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Glockenanker im Stehkessel. 3 Achsen angetrieben. Haftreifen. Geschlossene Seitenverkleidungen ohne zusätzliche Aussparungen. Bogenfahrt ab normalem Radius 360 mm möglich. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Tender aus Metall. Feste Kurzkupplung zwischen Lok und Tender. Decoder unter aufschiebbaren Tenderhauben zugänglich. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2012"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22189",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/b5/9cb59d26733900f6ba50ccd3af4635aa1434534670.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

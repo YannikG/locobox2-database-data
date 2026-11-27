@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22974",
+  "manufacturer": "Trix",
+  "articleNumber": "22974",
+  "releaseDate": "2017",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "TVT",
+    "number": "6251",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Turmtriebwagen TVT (spätere BR 701) als Wartungsfahrzeug der Deutschen Bundesbahn (DB). Mit beweglicher Arbeitsbühne und Scherenstromabnehmer. Einsatz zur Instandhaltung und Kontrolle der Fahrleitung. Betriebszustand im Auslieferungszustand nach 1957.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Kein Haftreifen. Dreilicht-Spitzensignal und zwei rote Schlusslichter mit der Fahrtrichtung wechselnd, digital schaltbar. Funktion Doppel-A-Licht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Führerstand mit Einrichtung. Arbeitsbühne zum Heben, Senken und Schwenken, digital steuerbar. Scherenstromabnehmer zum Heben und Senken, digital schaltbar. Stromabnehmer ohne Funktion für Oberleitungsbetrieb. Angesetzte Details: Oberlicht, Horn, Scheinwerfer und Leitern. Länge über Puffer 16,0 cm.",
+  "categories": [
+    "lokomotive",
+    "spezialfahrzeug"
+  ],
+  "tags": [
+    "trix-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22974",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4f/93/4f939d88985644193ee9ab683dad37d21484068837.jpg"
+  },
+  "updatedAt": "2026-11-27T14:44:26Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22067",
+  "manufacturer": "Trix",
+  "articleNumber": "22067",
+  "releaseDate": "2009",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 232",
+    "number": "284-0",
+    "livery": "Ludmilla",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Baureihe 232 \"Ludmilla\" der Deutschen Reichsbahn (DR). Betriebsnummer 232 284-0.\n\nModell: Epoche IV. Lokomotive in Metallausführung. 8-polige Digital-Schnittstelle. Spezialmotor mit Schwungmasse. 4 Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal. Beleuchtung mit wartungsfreien Leuchtdioden. Kupplungsaufnahmen nach NEM. Länge über Puffer 239 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2009"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22067",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/7c/dd7c75b2a98391c102a98baba2d270221434534632.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}

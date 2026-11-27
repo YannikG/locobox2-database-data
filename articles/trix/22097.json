@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-22097",
+  "manufacturer": "Trix",
+  "articleNumber": "22097",
+  "releaseDate": "2007",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "EVB",
+    "type": "ER 20",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "V"
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Typ ER 20 der Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH (EVB). Dieselelektrische Bauart \"Hercules\". Einsatz: Reisezüge und Güterzüge.\n\nModell: Epoche V, Fahrgestell und Aufbau aus Metalldruckguss. Digital-Decoder für DCC, Selectrix und konventionellen Betrieb. Zentral eingebauter Motor, 4 Achsen über Kardan angetrieben, 2 Haftreifen. Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Kupplungsaufnahmen nach NEM. LüP 217 mm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/22097",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a2/c8/a2c8fcdeb569bdc2b1629ade701eef181434534667.jpg"
+  },
+  "updatedAt": "2026-11-27T13:10:45Z"
+}
