@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "38201",
   "releaseDate": "2023",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DR",

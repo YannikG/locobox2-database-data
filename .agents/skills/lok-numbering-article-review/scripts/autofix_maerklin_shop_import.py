@@ -47,11 +47,16 @@ _DESIG = re.compile(
 _EMD = re.compile(r"EMD\s+F\s?7")
 
 
+def norm_series(t: str) -> str:
+    """Swiss class «Serie Be 6/8 II» → «Be 6/8 II» (numeric «Serie 1100» stays)."""
+    return re.sub(r"^(?:Serie|Reihe|Gattung)\s+(?=[A-Z][A-Za-z]{0,3}\s\d+/\d)", "", t)
+
+
 def is_bad_type(t: str) -> bool:
     s = t.strip()
     if _BAD_TYPE.search(s) or _UIC_LIKE.match(s):
         return True
-    if re.fullmatch(r"(?:[\w\-]+[\- ])?(?:lokomotive|lok|triebzug|triebwagen)\.?", s, re.I):
+    if re.fullmatch(r"[\w\-]*(?:lokomotive|lok|triebzug|triebwagen)\.?", s, re.I):
         return True
     return False
 
@@ -77,7 +82,7 @@ def type_from_vorbild(desc: str) -> str | None:
         return f"BR {v}"
     if kw == "Gattung":
         return v
-    return f"{kw} {v}"
+    return norm_series(f"{kw} {v}")
 
 
 def number_from_vorbild(desc: str, typ: str) -> str | None:
@@ -149,6 +154,12 @@ def main() -> int:
             changed += 1
             if args.apply:
                 m["type"] = nt
+        ns = norm_series(m.get("type") or "")
+        if ns != (m.get("type") or ""):
+            print(f"{p}\ttype {m.get('type')!r} -> {ns!r}")
+            changed += 1
+            if args.apply:
+                m["type"] = ns
         typ = m.get("type") or ""
         if m.get("number") is None and typ and not is_bad_type(typ):
             nn = number_from_vorbild(desc, typ)

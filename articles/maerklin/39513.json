@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39513",
   "releaseDate": "2026",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Be 4/6",
+    "type": "Be 4/6",
     "number": "12323",
     "livery": null,
     "scale": "H0",

@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39544",
   "releaseDate": "2021",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "LU",
     "operator": "CFL",
@@ -21,7 +18,7 @@
   },
   "description": "Vorbild: Gleiskraftwagen ROBEL angelehnt an die Serie 700 der Luxemburgischen Staatsbahnen ( CFL ). Mit beweglichem Ladekran. Einsatz zur Instandhaltung und Kontrolle. Betriebszustand 2020.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben. Angesetzte Griffstangen am Führerhaus. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Führerstand mit Einrichtung und schaltbarer Innenbeleuchtung. Ladekran motorisch schwenkbar, digital steuerbar. Länge über Puffer 13,4 cm.",
   "categories": [
-    "lokomotive"
+    "spezialfahrzeug"
   ],
   "tags": [
     "maerklin-neuheiten-2021"

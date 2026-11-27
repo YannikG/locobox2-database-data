@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37384",
   "releaseDate": "2006",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "FR",
     "operator": "SNCF",

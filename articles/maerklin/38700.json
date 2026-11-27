@@ -4,12 +4,9 @@
   "manufacturer": "Maerklin",
   "articleNumber": "38700",
   "releaseDate": "2025",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "US",
     "operator": "Unbekannt",
     "type": "US-Getriebe-Dampflokomotive Bauart Shay",
     "number": null,

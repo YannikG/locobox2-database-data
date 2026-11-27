@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39331",
   "releaseDate": "2021",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DK",
     "operator": "DSB",

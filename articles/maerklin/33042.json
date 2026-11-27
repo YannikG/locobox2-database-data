@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "33042",
   "releaseDate": "2000",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 80",
     "number": null,
     "livery": null,

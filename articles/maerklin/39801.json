@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39801",
   "releaseDate": "2006",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Am 4/4",
+    "type": "Am 4/4",
     "number": null,
     "livery": null,
     "scale": "H0",

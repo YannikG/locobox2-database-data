@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37568",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Elektrolokomotive",
+    "type": "Be 6/8 II",
     "number": null,
     "livery": "Krokodil",
     "scale": "H0",

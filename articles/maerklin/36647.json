@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36647",
   "releaseDate": "2022",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "Elektrolokomotive der RhB",
     "number": null,
     "livery": null,

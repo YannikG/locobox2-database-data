@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "40622",
   "releaseDate": "2000",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "US",
     "operator": "ATSF",

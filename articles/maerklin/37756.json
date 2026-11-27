@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37756",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "SE",
     "operator": "SJ",

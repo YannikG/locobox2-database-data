@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39365",
   "releaseDate": "2022",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",

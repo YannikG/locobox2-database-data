@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37153",
   "releaseDate": "2013",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "BE",
     "operator": "SNCB",

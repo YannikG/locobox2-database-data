@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36333",
   "releaseDate": "2017",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Ee 3/3",
+    "type": "Ee 3/3",
     "number": "16356",
     "livery": null,
     "scale": "H0",

@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37142",
   "releaseDate": "2008",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "IT",
+    "operator": "Museo Ferroviario Piemontese",
     "type": "Lok Nr.",
     "number": null,
     "livery": null,

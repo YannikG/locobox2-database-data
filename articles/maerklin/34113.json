@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "34113",
   "releaseDate": "2000",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "K.W.St.E.",

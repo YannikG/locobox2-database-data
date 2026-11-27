@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36187",
   "releaseDate": "2017",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 193",
     "number": null,
     "livery": null,

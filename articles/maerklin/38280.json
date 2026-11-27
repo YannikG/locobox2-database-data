@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "38280",
   "releaseDate": "2026",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "HU",
     "operator": "MAV",

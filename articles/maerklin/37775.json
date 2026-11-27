@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37775",
   "releaseDate": "2015",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DD",
     "operator": "DR",

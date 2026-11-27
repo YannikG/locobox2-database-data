@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36426",
   "releaseDate": "2012",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "PL",
     "operator": "PCC Rail",

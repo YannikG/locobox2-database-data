@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39974",
   "releaseDate": "2017",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DB",
@@ -21,9 +18,7 @@
   },
   "description": "Vorbild: Turmtriebwagen TVT (spätere BR 701) als Wartungsfahrzeug der Deutschen Bundesbahn (DB). Mit beweglicher Arbeitsbühne und Scherenstromabnehmer . Einsatz zur Instandhaltung und Kontrolle der Fahrleitungen. Betriebszustand im Auslieferungszustand nach 1957.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Wartungsfreier Motor in kompakter Bauform. 2 Achsen angetrieben, Haftreifen . Dreilicht-Spitzensignal und zwei rote Schlusslichter mit der Fahrtrichtung wechselnd, digital schaltbar. Funktion Doppel-A-Licht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Führerstand mit Einrichtung. Arbeitsbühne zum Heben, Senken und Schwenken, digital steuerbar. Scherenstromabnehmer zum Heben und Senken, digital schaltbar. Stromabnehmer ohne Funktion für Oberleitungsbetrieb. Angesetzte Details: Oberlicht, Horn, Scheinwerfer und Leitern. Länge über Puffer 16,0 cm.",
   "categories": [
-    "lokomotive",
-    "triebwagen",
-    "dieseltriebwagen"
+    "spezialfahrzeug"
   ],
   "tags": [
     "maerklin-neuheiten-2017"

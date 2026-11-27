@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36628",
   "releaseDate": "2016",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
-    "operator": "Unbekannt",
+    "country": "IT",
+    "operator": "OCEANOGATE",
     "type": "Rh 483",
     "number": null,
     "livery": null,

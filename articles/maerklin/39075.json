@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39075",
   "releaseDate": "2022",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "Class 66",
     "number": "80",
     "livery": null,

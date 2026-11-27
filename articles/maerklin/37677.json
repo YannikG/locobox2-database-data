@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37677",
   "releaseDate": "2011",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DK",
     "operator": "DSB",

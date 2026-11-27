@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39958",
   "releaseDate": "2021",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DB",
@@ -21,9 +18,7 @@
   },
   "description": "Vorbild: Bahndienstfahrzeug als Indusi -Messwagen Baureihe 724 (ehemaliger VT 95.9) der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Beheimatet bei der Signalwerkstätte Wuppertal. Triebwagen-Betriebsnummer 724 003-9. Betriebszustand Mitte der 1970er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal vorne und hinten jeweils separat digital abschaltbar. Beleuchtung mit warmweissen und roten Leuchtdioden ( LED ). Inneneinrichtung mit einigen Figuren bestückt. Zusätzliche Triebwagenführerfigur im Führerstand . Länge über Puffer 16 cm.",
   "categories": [
-    "lokomotive",
-    "triebwagen",
-    "dieseltriebwagen"
+    "spezialfahrzeug"
   ],
   "tags": [
     "maerklin-neuheiten-2021"

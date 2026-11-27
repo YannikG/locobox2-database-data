@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37939",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DRG",
-    "type": "Personenzug-Dampflokomotive",
+    "type": "P10",
     "number": null,
     "livery": null,
     "scale": "H0",

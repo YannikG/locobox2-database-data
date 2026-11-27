@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "46118",
   "releaseDate": "2005",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DB",
@@ -20,7 +17,7 @@
   },
   "description": "Vorbild: Henschel-Schneepflug Bauart \"Klima\" der Deutschen Bundesbahn (DB).\n\nModell: Führerstände mit freiem Durchblick. Seitliche Räumschilde klappbar. Aufstiegsleiter aus Metall. Separat angesetzte Luftkessel und Leitungen. Funktionsfähiger Arbeitsscheinwerfer, abschaltbar mit Schiebeschalter. Länge 11,7 cm.",
   "categories": [
-    "lokomotive"
+    "spezialfahrzeug"
   ],
   "tags": [
     "maerklin-neuheiten-2005"

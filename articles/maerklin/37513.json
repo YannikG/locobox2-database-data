@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37513",
   "releaseDate": "2010",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Ae 3/6 II",
+    "type": "Ae 3/6 II",
     "number": null,
     "livery": null,
     "scale": "H0",

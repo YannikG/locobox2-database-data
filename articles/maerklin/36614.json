@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36614",
   "releaseDate": "2012",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 146",
     "number": null,
     "livery": null,

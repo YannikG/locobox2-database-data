@@ -4,15 +4,12 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36161",
   "releaseDate": "2020",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 193",
-    "number": null,
+    "number": "2020",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",

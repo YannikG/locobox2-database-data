@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37945",
   "releaseDate": "2020",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "SE",
     "operator": "Green Cargo",

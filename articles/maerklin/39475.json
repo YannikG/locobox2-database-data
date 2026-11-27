@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39475",
   "releaseDate": "2026",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 101 Raw Metal Edition",
     "number": null,
     "livery": null,

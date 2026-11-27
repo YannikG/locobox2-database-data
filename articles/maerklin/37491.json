@@ -4,12 +4,9 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37491",
   "releaseDate": "2006",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "US",
     "operator": "Unbekannt",
     "type": "GG-1",
     "number": null,

@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36060",
   "releaseDate": "2025",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 185.2",
     "number": null,
     "livery": null,

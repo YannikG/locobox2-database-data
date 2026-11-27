@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37322",
   "releaseDate": "2011",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Re 6/6 f",
+    "type": "Re 6/6 f",
     "number": "11666",
     "livery": null,
     "scale": "H0",

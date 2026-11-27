@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37289",
   "releaseDate": null,
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Privatbahn",
     "type": "Dampfspeicherlokomotive.",
     "number": null,
     "livery": null,

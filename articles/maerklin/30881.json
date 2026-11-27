@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "30881",
   "releaseDate": "2000",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Privatbahn",
     "type": "Henschel DHG 700 C.",
     "number": null,
     "livery": null,

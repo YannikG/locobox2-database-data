@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36603",
   "releaseDate": "2010",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 185",
     "number": null,
     "livery": null,

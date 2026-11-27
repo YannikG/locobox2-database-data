@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39476",
   "releaseDate": "2026",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 101 W:O:A®",
     "number": null,
     "livery": null,

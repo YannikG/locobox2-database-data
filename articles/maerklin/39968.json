@@ -4,12 +4,9 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39968",
   "releaseDate": "2023",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "GB",
     "operator": "Unbekannt",
     "type": "Class A3",
     "number": null,

@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36793",
   "releaseDate": "2008",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": ".",
     "number": null,
     "livery": "Polizei",

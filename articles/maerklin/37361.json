@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37361",
   "releaseDate": "2007",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Ae 6/6",
+    "type": "Ae 6/6",
     "number": null,
     "livery": null,
     "scale": "H0",

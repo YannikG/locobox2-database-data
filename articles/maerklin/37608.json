@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37608",
   "releaseDate": "2012",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "BST",
     "type": "BST Diesel-Triebzug.",
     "number": null,
     "livery": null,

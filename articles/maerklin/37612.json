@@ -4,12 +4,9 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37612",
   "releaseDate": "2006",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
-    "country": "DE",
+    "country": "US",
     "operator": "Unbekannt",
     "type": "Diesellok-Doppeleinheit.",
     "number": null,

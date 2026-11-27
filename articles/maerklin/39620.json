@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39620",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "US",
     "operator": "SOO Line",

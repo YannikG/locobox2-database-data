@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39941",
   "releaseDate": null,
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Leonhard Weiss",
     "type": "Zweiwege-Unimog mit Fahrleitungsbauwagen",
     "number": null,
     "livery": null,
@@ -21,7 +18,7 @@
   },
   "description": "Vorbild: Zweiwege-Unimog mit Schubrahmen und Fahrleitungsbauwagen in der Gestaltung der Firma Leonhard Weiss, Göppingen. Unimog Typ 1400. Fahrleitungsbauwagen als Schutzwagen. Einsatz zur Installation von Oberleitungssystemen. Betriebszustand um 2017.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Fahrleitungsbauwagen untergebracht. Wartungsfreier Motor in kompakter Bauform. Beide Achsen des Fahrleitungsbauwagens angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal am Unimog und zwei rote Schlusslichter am Fahrleitungsbauwagen konventionell in Betrieb, digital schaltbar. Spitzensignal hinten und Spitzensignal vorne jeweils digital separat abschaltbar. Doppel-A-Licht-Funktion. Beleuchtung der Führerhauskabine und Warnblinklicht auf dem Führerhaus jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Länge über Puffer 23 cm.",
   "categories": [
-    "lokomotive"
+    "spezialfahrzeug"
   ],
   "tags": [],
   "source": {

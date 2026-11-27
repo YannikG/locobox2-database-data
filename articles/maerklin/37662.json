@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37662",
   "releaseDate": "2007",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "NO",
     "operator": "NSB",
@@ -20,8 +17,7 @@
   },
   "description": "Vorbild: Bahndienstlokomotive Di3 628 der aus den Norwegischen Staatsbahnen (NSB) hervorgegangenen Schienennetz-Verwaltung (JBV). Winterausrüstung mit montierten Schneepflügen. Umbau aus einer NOHAB-Mehrzwecklokomotive Di3a.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Lichtfunktionen und Geräuschgenerator. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen und Leitern aus Metall. Länge über Schneeräumer 25,5 cm.",
   "categories": [
-    "lokomotive",
-    "diesellokomotive"
+    "spezialfahrzeug"
   ],
   "tags": [
     "maerklin-neuheiten-2007"

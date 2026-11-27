@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36619",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "IT",
     "operator": "GTS Rail",

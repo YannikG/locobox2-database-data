@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37866",
   "releaseDate": "2008",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie RBe 2/4",
+    "type": "RBe 2/4",
     "number": null,
     "livery": null,
     "scale": "H0",

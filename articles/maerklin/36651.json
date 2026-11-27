@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36651",
   "releaseDate": "2010",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "HVLE",

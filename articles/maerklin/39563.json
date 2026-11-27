@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39563",
   "releaseDate": "2009",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Ce 6/8 III",
+    "type": "Ce 6/8 III",
     "number": null,
     "livery": "Krokodil",
     "scale": "H0",

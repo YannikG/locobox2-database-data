@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39621",
   "releaseDate": "2016",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "US",
     "operator": "GN",

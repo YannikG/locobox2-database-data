@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37356",
   "releaseDate": "2009",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Re 4/4II",
+    "type": "Re 4/4II",
     "number": null,
     "livery": null,
     "scale": "H0",

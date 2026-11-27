@@ -41,7 +41,9 @@ Privat-/Leasing-EVU ohne Klammer und ohne Map-Eintrag → Pass-1-Finding, nicht 
 
 ## Betreiber (Privatbahnen, Ausland)
 
-`_operator_from_vorbild` kennt am Ende der Regelliste rund 80 Privat-/Auslands-EVU (Raildox, HVLE, metronom, LTE, StLB, EETC, KCS, GN, ONR, …) mit Land. Sie greifen erst, wenn keine DB/SBB/ÖBB-Regel passt. Weiterhin `Unbekannt` (bewusst nicht geraten): fiktive Sondermodelle (Märklin Magazin, HARIBO, Weihnachtsbahn, «in fiktiver Ausführung»), Werkslok-Typen ohne Eigentümer (Henschel DHG), Class 66 ohne Betreiber.
+`_operator_from_vorbild` kennt am Ende der Regelliste rund 80 Privat-/Auslands-EVU (Raildox, HVLE, metronom, LTE, StLB, EETC, KCS, GN, ONR, …) mit Land. Sie greifen erst, wenn keine DB/SBB/ÖBB-Regel passt. Fiktive Gestaltungen («in fiktiver Ausführung», Märklin Magazin, HARIBO, Weihnachtsbahn, Einmalige Gestaltung) → `operator` **«Fiktiv»**, «Privatbahn»/Werkslok/Werkseisenbahn → **«Privatbahn»** (Regel aus [wiki-privatbahn-livery-anker.md](wiki-privatbahn-livery-anker.md); fiktiv schlägt Privatbahn). US-Typen (EMD F7, GG-1, ALCO PA-1, Shay) bekommen `country` US, A3 → GB. Weiterhin `Unbekannt`: Class 66 ohne Betreiber, Adria Transport u. ä.
+
+**UVP:** fehlt der Preis (ausverkaufte Artikel), steht `uvp: null` (nicht 0). **Spezialfahrzeuge** (Gleiskraftwagen, Unimog, Stopfmaschine, Turmtriebwagen, Schneepflug) → Kategorie `spezialfahrzeug` statt `lokomotive`.
 
 ## Typ und Nummer aus Vorbild
 

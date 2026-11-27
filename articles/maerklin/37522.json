@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37522",
   "releaseDate": "2005",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie De 6/6",
+    "type": "De 6/6",
     "number": null,
     "livery": null,
     "scale": "H0",

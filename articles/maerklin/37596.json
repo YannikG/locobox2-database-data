@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37596",
   "releaseDate": null,
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Ae 8/14",
+    "type": "Ae 8/14",
     "number": null,
     "livery": null,
     "scale": "H0",

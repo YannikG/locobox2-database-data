@@ -333,11 +333,31 @@ def _operator_from_vorbild(description: str) -> tuple[str, str]:
         (r"Dortmunder\s+Eisenbahn", "Dortmunder Eisenbahn", "DE"),
         (r"RheinCargo", "RheinCargo", "DE"),
         (r"DB\s+Museum", "DB Museum", "DE"),
+        (r"Aarsleff", "Aarsleff Rail", "DK"),
+        (r"Sersa", "Sersa", "CH"),
+        (r"Leonhard\s+Weiss", "Leonhard Weiss", "DE"),
+        (r"Plasser\s*&\s*Theurer", "Plasser & Theurer", "AT"),
+        (r"Museo\s+Ferroviario\s+Piemontese", "Museo Ferroviario Piemontese", "IT"),
+        (r"Grosskraftwerk\s+Mannheim|\bGKM\b", "GKM", "DE"),
+        (r"Blue\s+Star\s+Train", "BST", "DE"),
+        (r"OCEANOGATE", "OCEANOGATE", "IT"),
         (r"\bDB\b", "DB", "DE"),
+        # Placeholders (see wiki-privatbahn-livery-anker.md): fictional design beats Privatbahn.
+        (
+            r"fiktiv|Märklin[- ]Magazin|Märklin-Optik|Weihnachtsbahn|Raw Metal|Wacken|HARIBO|"
+            r"Einmalige\s+Gestaltung",
+            "Fiktiv",
+            "DE",
+        ),
+        (r"Privatbahn|Privatlok|Werkslok|Werkseisenbahn|Werksbahn", "Privatbahn", "DE"),
     ]
     for pat, op, cc in text_ops:
         if re.search(pat, description, re.I):
             return op, cc
+    if re.search(r"General\s+Motors|\bEMD\b|ALCO|American\s+Locomotive|\bShay\b|GG-1", description):
+        return "Unbekannt", "US"
+    if re.search(r"Klasse\s+A3|\bClass\s+A3\b", description):
+        return "Unbekannt", "GB"
     return "Unbekannt", "DE"
 
 
@@ -397,9 +417,18 @@ def _is_generic_class_title(t: str) -> bool:
     return bool(t) and not re.search(r"\d", t) and bool(_CLASS_ONLY.fullmatch(t))
 
 
+_SPECIAL = re.compile(
+    r"Gleiskraftwagen|Unimog|Zweiwege|Stopfmaschine|Schienenstopf|Turmtriebwagen|Schneepflug|"
+    r"Schienenreinigung|Kranwagen|Bahndienst",
+    re.I,
+)
+
+
 def _categories(title: str, description: str) -> list[str]:
     """Parent + sub categories. Lok sub-types (dampf/diesel/elektro) come from autofix."""
     head = f"{title} {description.split('Modell:', 1)[0]}"
+    if _SPECIAL.search(title) or _SPECIAL.search(head[:160]):
+        return ["spezialfahrzeug"]
     if _MULTI_UNIT.search(title) or _MULTI_UNIT.search(head[:200]):
         base = "triebzug"
     elif _RAILCAR.search(title):
@@ -515,7 +544,9 @@ def parse_maerklin_pdp(
         if m:
             release = m.group(1)
 
-    amount = float(uvp_amount) if uvp_amount is not None else 0.0
+    uvp: Optional[dict[str, Any]] = (
+        {"amount": float(uvp_amount), "currency": "EUR"} if uvp_amount else None
+    )
     source: dict[str, Any] = {
         "url": canonical_url,
         "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
@@ -529,7 +560,7 @@ def parse_maerklin_pdp(
         "manufacturer": "Maerklin",
         "articleNumber": shop_article,
         "releaseDate": release,
-        "uvp": {"amount": amount, "currency": "EUR"},
+        "uvp": uvp,
         "model": model,
         "description": desc,
         "categories": _categories(title, desc),

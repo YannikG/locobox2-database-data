@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37787",
   "releaseDate": "2010",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "RU",
     "operator": "RZD",

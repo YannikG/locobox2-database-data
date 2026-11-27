@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39279",
   "releaseDate": "2025",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 218",
     "number": "202-5",
     "livery": null,

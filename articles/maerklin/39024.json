@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39024",
   "releaseDate": "2013",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DRG",

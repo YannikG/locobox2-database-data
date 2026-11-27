@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37251",
   "releaseDate": "2003",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "GKM",
     "type": "Dampfspeicherlokomotive.",
     "number": null,
     "livery": null,

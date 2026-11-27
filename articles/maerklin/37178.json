@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37178",
   "releaseDate": null,
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "AT",
     "operator": "ÖBB",

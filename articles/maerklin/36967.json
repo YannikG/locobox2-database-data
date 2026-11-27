@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "36967",
   "releaseDate": "2025",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CZ",
     "operator": "CD",

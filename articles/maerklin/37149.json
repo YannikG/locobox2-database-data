@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37149",
   "releaseDate": "2023",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 89",
     "number": null,
     "livery": null,

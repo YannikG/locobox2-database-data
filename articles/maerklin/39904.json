@@ -4,13 +4,10 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39904",
   "releaseDate": "2023",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
-    "operator": "Unbekannt",
+    "operator": "Fiktiv",
     "type": "BR 294",
     "number": "202-3",
     "livery": null,

@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "34345",
   "releaseDate": "2000",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Reihe Re 4/4 II (420)",
+    "type": "Re 4/4 II (420)",
     "number": null,
     "livery": null,
     "scale": "H0",

@@ -4,10 +4,7 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37196",
   "releaseDate": "2006",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "DRG",

@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37348",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "CH",
     "operator": "SBB",
-    "type": "Serie Re 4/4 II (Serie 420)",
+    "type": "Re 4/4 II (Serie 420)",
     "number": null,
     "livery": null,
     "scale": "H0",

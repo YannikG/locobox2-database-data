@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "39435",
   "releaseDate": "2026",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "K.Bay.Sts.B.",
-    "type": "Gattung S 3/6",
+    "type": "S 3/6",
     "number": "3627",
     "livery": "Hochhaxige",
     "scale": "H0",

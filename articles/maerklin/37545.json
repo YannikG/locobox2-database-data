@@ -4,14 +4,11 @@
   "manufacturer": "Maerklin",
   "articleNumber": "37545",
   "releaseDate": "2014",
-  "uvp": {
-    "amount": 0.0,
-    "currency": "EUR"
-  },
+  "uvp": null,
   "model": {
     "country": "DE",
     "operator": "KPEV",
-    "type": "Güterzug-Dampflokomotive",
+    "type": "G 8.1",
     "number": null,
     "livery": null,
     "scale": "H0",
