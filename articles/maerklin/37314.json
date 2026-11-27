@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37314",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37314",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 111",
+    "number": "014-7",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe 111 der Deutschen Bundesbahn (DB). Ursprungsausführung. Betriebsnummer 111 014-7. Betriebszustand 1975.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Zusätzlich kann die Führerstandsbeleuchtung digital geschaltet werden. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Hub- und Senkantrieb für beide Dachstromabnehmer jeweils digital schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37314",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e7/99/e799afbdd58343ba9ba284f7115d49b61484056804.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

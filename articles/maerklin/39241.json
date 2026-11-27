@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39241",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39241",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 241-A",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 304.0,
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Schwere Schnellzug-Dampflokomotive mit Schlepptender der Serie 241-A. Ausführung als Museumslokomotive Serie 241-A-65, im optischen Zustand der Französischen Staatsbahnen ( SNCF ). Aktueller Betriebszustand, so wie die Lokomotive derzeit betriebsfähig im Depot in Full-Reuenthal in der Schweiz beheimatet ist.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Rauchsatz aus 72270 ist serienmässig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal an Lok und Tender sowie eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Zusätzlich ist eine Führerstandbeleuchtung und eine Fahrwerksbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 437,5 mm. Bremsschläuche, Heizkupplung und Schraubenkupplungsimitation sowie ein Schiebebildsatz mit Sponsoren-Logo liegen bei. Länge über Puffer 30,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39241",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/78/fd/78fda3d2932f54eba85d76d5804a72dc1505744900.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

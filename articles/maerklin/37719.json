@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37719",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37719",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 648.2 (LINT 41) der Deutschen Bahn AG ( DB AG ). Ausführung mit Tiefeinstiegen. Einsatz auf der Lahntalbahn, mit Zugziel-Anzeige \"RE25 Koblenz Hbf\". Betriebszustand 2015.\n\nModell: Angetriebene Einheit und unmotorisierte Dummy-Einheit. Angetriebene Einheit mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Hochleistungsmotor im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Dreilicht-Spitzensignal und zwei rote Schlusslichter mit der Fahrtrichtung wechselnd, digital schaltbar. Bei der Dummy-Einheit Dreilicht-Spitzensignal und zwei rote Schlusslichter nur an der End-Stirnseite mit der Fahrtrichtung wechselnd. Kuppelseite ohne beleuchtetes Spitzensignal . Beide Einheiten mit montierter 5-poliger Kupplung , serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtungen mit wartungsfreien warmweissen Leuchtdioden ( LED ). Zugzielanzeige vorbildgerecht mit gelben LEDs. Spitzensignal , Zugzielanzeige, Innenbeleuchtung und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. Freier Durchblick. Inneneinrichtung mit insgesamt 41 Figuren der Firma Preiser. Geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge ca. 96,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37719",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/33/db/33dbc40d23ea5b5a8367895b99fc145b1451855402.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36351",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36351",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Reihe Ue",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektrische Rangierlokomotive Reihe Ue der Schwedischen Staatsbahnen (SJ). Blau-grau-rote Grundfarbgebung. Lok-Betriebsnummer Ue 585. Betriebszustand der Epoche V.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräusch- und Lichtfunktionen. Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Beidseitiges Zweilicht-Spitzensignal mit zusätzlichem rotem Schlusslicht, konventionell in Betrieb, digital schaltbar. Digital umschaltbar auf Lichtwechsel. Zusätzlich schaltbare Lichtfunktionen. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Zugvorrichtungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36351",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/59/06/5906e96133c27e7758a1d04e2d2fa11f1514012421.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

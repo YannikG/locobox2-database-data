@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37068",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37068",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 80",
+    "number": "014",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 111.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 80, ehemals Deutsche Bundesbahn. Museumslok des Eisenbahnmuseums Heilbronn. Beschriftet als BR 80 014 der Deutschen Bundesbahn (DB). Epoche VI, aktueller Zustand.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Telex - Kupplung auf beiden Seiten separat digital schaltbar. Lokführerfigur liegt bei. Geregelter Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Viele separat angesetzte Details. Ausführung mit Glocke auf dem Kessel, Haltegriffen rechts und links der Rauchkammertür, Lichtmaschine links auf dem Kessel und Tritten an den Wasserkästen. Über die Geschichte der Lok informiert das beiliegende Booklet. Länge über Puffer 11,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37068",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/9c/70/9c707654a006f3409a92974f6f142fb41554444011.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

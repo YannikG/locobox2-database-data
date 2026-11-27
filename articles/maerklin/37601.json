@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37601",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37601",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 261",
+    "number": "841-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive BR 261 der Deutschen Bundesbahn (DB). Dieselhydraulischer Antrieb mit Blindwelle. Betriebsnummer 261 841-1. Betriebszustand um 1977.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Der Decoder unterstützt die Formate mfx , DCC und MM. Geregelter Hochleistungsantrieb. Drei Achsen und Blindwelle angetrieben. Haftreifen . Telex -Kupplungen vorne und hinten jeweils separat digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Doppel-A-Licht schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37601",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4a/b2/4ab23baef585862d87c494f233d93fed1484058584.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

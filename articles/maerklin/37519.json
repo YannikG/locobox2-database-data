@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37519",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37519",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120.1",
+    "number": "124-3",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 120.1 der Deutschen Bahn AG ( DB AG ).Betriebsnummer 120 124-3. Betriebszustand 2003.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstandbeleuchtung digital schaltbar. Führerstände mit Inneneinrichtung. Kurzkupplungen in Normaufnahme mit Kulissenführung. Angesetzte Griffstangen. Länge über Puffer ca. 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37519",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/68/fb/68fb05e3e4e2cc42a2c39dbc60e26c9c1569391231.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

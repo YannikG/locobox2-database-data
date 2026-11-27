@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-26613",
+  "manufacturer": "Maerklin",
+  "articleNumber": "26613",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NL",
+    "operator": "NS",
+    "type": "Serie mP 3000",
+    "number": "3029",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 390.0
+  },
+  "description": "Vorbild: Ein Posttriebwagen Serie mP 3000 und ein gedeckter Güterwagen Bauart Gs der Niederländischen Staatsbahnen ( NS PTT) . Betriebszustand um 1977. Betriebsnummer 3029.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes 3-Licht- Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal mit LED beleuchtet. Serienmässig eingebaute Innenbeleuchtung mit Glühlampe. Beiliegende Druckluftschläuche an der Pufferbohle ansteckbar. Metallgriffstangen und weitere Details angesetzt. Gedeckter Güterwagen mit kulissengeführten Kurz-Kupplungen. Gesamtlänge über Puffer ca. 39 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/26613",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1c/2b/1c2bb46ab25bb7d7928bbb24a47db4e11515771856.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

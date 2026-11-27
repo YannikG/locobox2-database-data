@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36350",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36350",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "Elektro-Rangierlokomotive Reihe Ue",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Elektro- Rangierlokomotive Reihe Ue der Schwedischen Staatsbahnen (SJ). Orange/stahlblaue Grundfarbgebung. Lok-Betriebsnummer Ue 499.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Miniaturmotor mit Schwungmasse . 3 Achsen und Blindwelle angetrieben. Haftreifen . Zweilicht-Spitzensignal an Lok-Seite A und B sowie 1 rotes Licht an Lok-Seite B ohne Lichtwechsel, konventionell in Betrieb, digital schaltbar. Umschaltbar auf Lichtwechsel 2 x hell und 1 x rot. Weitere Spitzensignal -Kombinationen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Dachausrüstung. Angesetzte Metallgriffstangen. Bremsschläuche und Zugvorrichtungen an der Pufferbohle ansteckbar. Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36350",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/af/eb/afeb405bae246312ca5655a27fc69eb41451853833.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

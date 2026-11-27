@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37139",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37139",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Tenderlokomotive Gattung D XII",
+    "number": "2237",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 138.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Gattung D XII der Königlich Bayerischen Staatseisenbahnen (K.Bay.Sts.B.), spätere Baureihe 73. Betriebsnummer 2237.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Viele separat angesetzte Details. Länge über Puffer 13,8 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37139",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/de/06/de063515b60faa889999b6cf34154f331452676943.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

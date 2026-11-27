@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37584",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37584",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 491",
+    "number": "001-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Elektrischer Aussichtstriebwagen Baureihe 491 \"Gläserner Zug\" der Deutschen Bundesbahn (DB). Farbgebung cremeweiss/enzianblau. Stirnseitig mit Doppellampen unten. Ansaugöffnungen für die Belüftung und Makrofone auf dem Dach. 1 Scheren-Stromabnehmer und 1 Einholm-Stromabnehmer jeweils mit Doppel-Schleifstück. Triebwagen-Betriebsnummer 491 001-4. Betriebszustand um 1986.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Über die Funktionstasten kann eine zeitgenössische Begrüssungsansage sowie die Ansage eines Etappenziels, eines Zusatzhinweises für die Reisenden und des Endbahnhofes (Zugdurchsagen) ausgelöst werden. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Eingebaute Inneneinrichtung. Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Innenbeleuchtung kann als digitale Zusatzfunktion gedimmt werden. Drehgestelle mit vorbildgerecht unterschiedlich langen Radständen. Eingesetzte Panorama-Fenster. Ansaugöffnungen für die Belüftung und Makrofone auf dem Dach. Ausführung mit 1 Scheren-Stromabnehmer und 1 Einholm-Stromabnehmer jeweils mit Doppel-Schleifstück. Länge über Puffer 23,7 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37584",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/61/af/61af89ff8f0772e14f0f9c5708b435141484057409.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

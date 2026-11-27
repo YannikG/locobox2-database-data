@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30390",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30390",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10.12",
+    "number": "1242",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 180.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 10.12 der Deutschen Bundesbahn (DB). Kobaltblau/beige Grundfarbgebung als Rheingold-Interimslok. Ausführung mit 5 Stirnlampen, Hochleistungslüfter mit senkrechten Lamellen und umlaufender Regenrinne. Lok-Betriebsnummer E 10 1242. Betriebszustand Frühjahr/Sommer 1962.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Lokomotiv-Gehäuse und Fahrgestell aus Metall. An beiden Lokseiten Relex - Kupplung . Verpackung mit colorierter Darstellung der Lok in Anlehnung an die historische Verpackung. Länge über Puffer 18 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30390",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e2/aa/e2aadbc2c07a10fd38b35778b3772c821484051154.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

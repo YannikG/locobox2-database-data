@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37099",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37099",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 85",
+    "number": "005",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Güterzug- Tenderlokomotive Baureihe 85 der Deutschen Bundesbahn (DB). Ausführung mit Witte-Windleitblechen. Betriebsnummer 85 005. Betriebszustand um 1959.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 5 Achsen angetrieben. Haftreifen . Rauchsatz 7226 nachrüstbar. Zahlreiche angesetzte Details. Kohlenkasten-Aufstiegsleiter aus Metall. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Länge über Puffer je 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37099",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/04/64/0464df249525379280d21c18ea1a3c7a1484055870.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

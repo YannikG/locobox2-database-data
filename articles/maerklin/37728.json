@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37728",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37728",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 628.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 525.0
+  },
+  "description": "Vorbild: Baureihe 628.2 mit Steuerwagen 928.2 der Deutschen Bundesbahn (DB) in minttürkis und lichtgrauer Farbgebung. Beheimatet in Kempten um 1989.\n\nModell: Mit Digital- Decoder mfx+ und Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Beleuchtete Zugzielanzeige an den Stirnseiten und seitlich. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Kurzgekuppelte Spezialverbindung zwischen Trieb- und Steuerwagen . Nachbildung der Originalkupplungen und Bremsschläuche. Ein Schiebebildsatz mit diversen Zugzielen ist beigelegt. Länge über Puffer 52,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37728",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/e1/42e1adc25824c8ace96f095d264630fe1455100253.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

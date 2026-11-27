@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37514",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37514",
+  "releaseDate": "2017",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Ae 3/6 II",
+    "number": "10443",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 160.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Serie Ae 3/6 II der Schweizerischen Bundesbahnen ( SBB / CFF / FFS ). Tannengrüne Farbgebung. Betriebsnummer 10443. Betriebszustand um 1935.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 3 Achsen und 2 Blindwellen angetrieben. Haftreifen . Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) mit der Fahrtrichtung wechselnd konventionell in Betrieb, digital schaltbar. Umschaltung auf ein rotes Schlusslicht möglich. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden. Eingesetzte Griffstangen. Länge über Puffer 16 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2017"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37514",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/fb/53fb4de23acf18670a2cc06d6ccf128e1499172692.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

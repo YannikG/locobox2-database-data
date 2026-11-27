@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37528",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37528",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 120.0.",
+    "number": "003-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 221.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Baureihe 120.0 der Deutschen Bahn AG ( DB AG ). Vorserienausführung in ursprünglicher Lackierung und mit neuem DB Keks. Betriebsnummer 120 003-9. Betriebszustand ab November 1994. Bw Nürnberg 1.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 4 Achsen angetrieben. Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Dreilicht-Spitzensignal und zwei rote Schlusslichter mit der Fahrtrichtung wechselnd konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstandsbeleuchtung separat digital schaltbar. Führerstände mit Inneneinrichtung. Kurzkupplungen in Normaufnahme mit Kulissenführung. Angesetzte Griffstangen. Länge über Puffer 22,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37528",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/b7/e8b789c2a59509585578955d6b5935711469191876.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

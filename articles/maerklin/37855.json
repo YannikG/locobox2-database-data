@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37855",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37855",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 50",
+    "number": "065",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe E 50 der Deutschen Bundesbahn (DB). Chromoxidgrüne Grundfarbgebung. Grösste Bauart der Einheits-Elektrolokomotiven aus dem Neubauprogramm der 1950er-Jahre. Mit Doppellampen, Mehrfachdüsenlüfter und umlaufender Regenrinne. Lok-Betriebsnummer E 50 065. Betriebszustand um 1962.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und frontal aus Metall. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Kupplungsschläuche liegen bei. Länge über Puffer 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37855",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/21/cd/21cd7d300c6aed947ffec916f23210371512123226.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

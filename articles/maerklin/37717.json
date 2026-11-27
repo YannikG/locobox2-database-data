@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37717",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37717",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "LINT 41",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 648 (LINT 41) der Bentheimer Eisenbahn AG (BE). Himmelblaue Grundfarbgebung. Ausführung mit Tiefeinstiegen. Mit Zugziel-Anzeige \"RB56 Bad Bentheim\". Triebwagen-Betriebsnummern 648 111-0 und 648 611-9. Aktueller Betriebszustand 2019.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Triebwagenseite 2 und 1 jeweils separat digital abschaltbar. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Zugzielanzeige vorbildgerecht mit gelben LEDs. Spitzensignal , Zugzielanzeige und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. Freier Durchblick. Geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge ca. 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37717",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4e/63/4e631f1e832be15699103ff2aba705b41573023621.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

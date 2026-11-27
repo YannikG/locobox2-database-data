@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37899",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37899",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Weihnachts-Dampflokomotive mit Schlepptender",
+    "number": "2412",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug-Dampflokomotive Baureihe 50 der Deutschen Bundesbahn (DB), mit Kohlen- Schlepptender als Einheits- Kastentender 2´2´T26 in der Ursprungsform. Mit Witte-Windleitblechen, Regelführerhaus, langem Umlauf vorne zur Rauchkammer schräg abfallend, DB-Reflexglaslampen und einseitigem Indusi . Betriebsnummer 50 2412. Ein Einsatz dieser Lokomotive mit Weihnachtsbaum und weihnachtlicher Gestaltung ist nicht verbrieft.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 5 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Die besondere Lichtfunktion ist ein Weihnachtsbaum mit LED Beleuchtung, digital schaltbar. Als besondere Soundfunktion pfeift die Lok \"O Tannenbaum\" und \"Jingle Bells\". Gleisradiusbezogen verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37899",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/44/0d/440de1525f96abe3e0ce1786bd2d0bca1469192647.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

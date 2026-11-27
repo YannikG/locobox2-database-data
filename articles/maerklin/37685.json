@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37685",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37685",
+  "releaseDate": "2016",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 118",
+    "number": "028-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 195.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 118 der Deutschen Bundesbahn (DB) in der Grundfarbgebung ozeanblau/elfenbein. Betriebsnummer 118 028-0. Betriebszustand um 1978/79.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Stirnbeleuchtung unten mit sogenannten \"Stielaugen\". Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitig Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Führerstand und Maschinenraum mit Inneneinrichtung. Serienmässig mit Lokführer-Figur im Führerstand 1. Gehäuse mit zahlreichen eingesetzten Einzelheiten. Vorbildgerechte Scheren-Stromabnehmer. Fein detailliertes Fahrwerk mit vorbildgerechter Nachbildung der Federtopf-Treibräder. Puffer aus Metall, separat eingesetzt, in gewölbter und flacher Ausführung. Länge über Puffer 19,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2016"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37685",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/67/98/6798733010fc77969f2b34f37a4969e81469192008.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:06Z"
+}

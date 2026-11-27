@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37326",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37326",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Rh 620",
+    "number": "088-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 222.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Elektrolokomotive Serie Re 6/6 als Re 620 der Schweizerischen Bundesbahnen ( SBB ). Ausführung in feuerrot/ultramarinblauer Grundfarbgebung, mit seitlicher Aufschrift \"Member of the Xrail alliance\" der Xrail S.A., B-Bruxelles. Eckige Stirnlampen, UIC -Steckdosen, stirnseitig schräge Griffstangen, an einer Lokseite mit Wartungsklappe für Klimaanlage. Lok-Betriebsnummer 620 088-5, mit Lok-Wappen \"LINTHAL\". Betriebszustand um 2014.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichts. Beleuchtung umschaltbar auf 2 rote Schlusslichter. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Aufstiegsgriffstangen aus Metall. Kupplungen gegen detaillierte Frontschürzen austauschbar. Befahrbarer Mindestradius 360 mm. Länge über Puffer 22,2 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37326",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/be/1abea08ebab78e51ce60d089825addde1544684417.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37869",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37869",
+  "releaseDate": "2019",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Serie RCe 2/4",
+    "number": "604",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 315.0
+  },
+  "description": "Vorbild: Elektrischer Schnelltriebwagen Serie RCe 2/4 \"Roter Pfeil\", 3. Klasse, der Schweizerischen Bundesbahnen ( SBB ), mit Einachs-Skianhänger. Purpurrote Grundfarbgebung. Triebwagen-Betriebsnummer 604. Betriebszustand um 1948.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Spezialmotor mit Schwungmasse und Kardanwelle zum Treibgestell . 2 Achsen angetrieben. Haftreifen . Schweizer Lichtwechsel , Dreilicht-Spitzensignal und 1 weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Zusätzlich kann auf ein rotes Schlusslicht umgeschaltet werden. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Der Triebwagen ist serienmässig mit einer Triebwagenführerfigur und zahlreichen Fahrgästen bestückt. Über die Funktionstasten können zusätzlich verschiedene Umgebungsgeräusche ausgelöst werden. Einachs-Skianhänger mit entsprechender Spezialkupplung am Triebwagen angehängt. Gesamtlänge über Puffer 31,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2019"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37869",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/ee/2eeeeaa2bf5c8a9dfce6eeb85195d6051545375615.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

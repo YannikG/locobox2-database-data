@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30760",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30760",
+  "releaseDate": "2018",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ETA 150",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 490.0
+  },
+  "description": "Vorbild: Akku-Triebwagen ETA 150 1./2. Klasse, mit Steuerwagen ESA 150 2. Klasse, als 2-teilige Einheit der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Triebwagen-Betriebsnummer ETA 150 652. Steuerwagen -Betriebsnummer ESA 150 208. Betriebszustand um 1965.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx . Geregelter Hochleistungsantrieb. 2 Achsen in einem Drehgestell des Triebwagens angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal am Triebwagen und 2 rote Schlusslichter am Steuerwagen konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung in beiden Fahrzeugen. An den Enden von Triebwagen und Steuerwagen jeweils Kupplungshaken . Retro-Verpackung in Anlehnung an die Verpackung Anfang der 1970er Jahre. Länge über Puffer 49 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "akkutriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2018"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30760",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7f/a3/7fa3eb342de385907b9f2a84972f72821513234846.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}

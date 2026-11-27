@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37716",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37716",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 648.2",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Nahverkehrs-Dieseltriebwagen Baureihe 648.2 (LINT 41) der Deutschen Bahn AG ( DB AG ). Verkehrsrote Grundfarbgebung. Ausführung mit Tiefeinstiegen. Einsatz im Verkehrsbereich Koblenz, mit Zugziel-Anzeige \"RE25 Koblenz Hbf\". Triebwagen-Betriebsnummern 648 204-5 und 648 704-4. Betriebszustand um 2016.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Jakobs-Drehgestell angeordnet. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht an Triebwagenseite 2 und 1 jeweils separat digital abschaltbar. Serienmässig eingebaute Innenbeleuchtung. Spitzensignal und Innenbeleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Zugzielanzeige vorbildgerecht mit gelben LEDs. Spitzensignal , Zugzielanzeige und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Detaillierte Ausführung von Fahrwerk und Aufbau. Freier Durchblick. Geschlossener Faltenbalg und Kulissenführung am Jakobs-Drehgestell zwischen den Fahrzeughälften. An den Enden Darstellung der Mittelpufferkupplungen. Gesamtlänge ca. 48,1 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37716",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/75/81/75811f53c9a516268ed60a796761e23a1601013630.jpg"
+  },
+  "updatedAt": "2026-11-27T09:55:07Z"
+}
