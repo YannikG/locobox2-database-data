@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37655",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37655",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Diesellokomotiove.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Rangierlokomotive Baureihe V 60 der Deutschen Bundesbahn (DB). Dieselhydraulischer Antrieb mit Blindwelle. Ursprungsausführung um 1960.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Telex -Kupplungen. 3 Achsen und Blindwelle angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37655",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/c3/5ec3c48e5d9cff2801164c0fc7e8643f1434538815.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

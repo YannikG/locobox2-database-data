@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39121",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39121",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "zum .",
+    "number": null,
+    "livery": "Rheingold",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 10.12 der Deutschen Bundesbahn (DB). Schnellfahrlokomotive mit aerodynamischer Front, Hochleistungs-Drehgestellen und Frontschürze. Lieferzustand ab 1962.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Spitzensignal und Schlusslichter mit wartungsfreien, warmweissen Leuchtdioden konventionell in Betrieb, digital schaltbar. Angesetzte Griffstangen aus Metall. Führerstand mit Inneneinrichtung, eingesetztes Stellrad. Angesetzte Dachlaufstege. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39121",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/95/bf/95bf461b8d3598b104f365114255f1361434538765.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

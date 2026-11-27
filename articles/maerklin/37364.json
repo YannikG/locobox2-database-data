@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37364",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37364",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Rangiertraktor No.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 106.0
+  },
+  "description": "Vorbild: Rangiertraktor No. 1 der Dänischen Staats-bahnen (DSB). Frühere deutsche Baureihe V 36.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen und Blindwelle angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Viele angesetzte Einzelheiten. Länge über Puffer 10,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37364",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/43/e4/43e49d148b926d93e9f2870250b275d91434539182.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

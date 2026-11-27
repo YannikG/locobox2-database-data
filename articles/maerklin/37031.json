@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37031",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37031",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "Gattung P8",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Gattung P8 der Königlich Preussischen Eisenbahn-Verwaltung (KPEV). Im Ursprungszustand mit Kastentender .\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb mit Glockenanker-Motor im Kessel. 3 Achsen angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal mit wartungsfreien LED . Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Feine Modellausführung mit zahlreichen epochetypischen Details und detailliertem Führerstand . Bremsschlauch- und Schraubenkupplungs-Nachbildungen sowie Kolbenstangen-Schutzrohre ansteckbar. Lok-Tender-Verbindung und Kurzkupplung am Tender mit Kinematik. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37031",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ed/90/ed904feeefe27b3806d95e2b0c3ee4341434539146.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

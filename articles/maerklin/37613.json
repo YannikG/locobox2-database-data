@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37613",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37613",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Diesellok-Doppeleinheit.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Typ PA-1 der American Locomotive Company (ALCO) in Doppeltraktion. Dieselelektrischer Antrieb. Daylight-Farbgebung der Southern Pacific Railroad.\n\nModell: Doppel-Lokomotive mit Digital- Decoder mfx , 2 geregelten Hochleistungsantrieben, Geräuschgenerator und Zusatzfunktionen. In jeder Lokomotive 2 Achsen angetrieben, mit Haftreifen . Spitzensignal und beleuchtete Nummerntafeln konventionell in Betrieb, digital schaltbar. Diesellok-Fahrgeräusch, Signalhorn, Glocke sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Bremsenquietschen und Blinklicht mit der Fahrtrichtung (Marslight) mit Systems schaltbar. Leistungsfähiger Lautsprecher. Beide Lokomotiven mit elektrischer und mechanischer Spezialverbindung. An beiden Stirnseiten Kurzkupplungen in Norm-Aufnahmen, austauschbar gegen amerikanischen Kupplungstyp oder Abdeckblende. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 47,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37613",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/ae/50aefc81b1e44d9d30ba1949ca5e169b1434539215.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39120",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39120",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 10",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Baureihe E 10.3 der Deutschen Bundesbahn (DB). Achsfolge Bo´Bo´. Epoche -III-Betriebszustand um 1965 mit \"Bügelfalten\"-Front, durchgehenden Lüfterbändern, umlaufender Regenrinne und aerodynamischer Pufferverkleidung sowie Frontschürze.\n\nModell: Mit Digital- Decoder mfx , Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator. Wartungsfreier Motor in kompakter Bauform zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Eingesetzte Griffstangen aus Metall. Führerstands-Inneneinrichtung. Angesetzte Dachlaufstege. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter mit wartungsfreien Leuchtdioden konventionell in Betrieb, digital schaltbar. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39120",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a8/6a/a86a187c6b91c5fa75be8ca5c9b3ab2a1434539053.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

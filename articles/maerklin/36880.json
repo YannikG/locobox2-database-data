@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36880",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36880",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Henschel DHG 700 Privatlokomotive",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Henschel DHG 700 Privatlokomotive der Firma On Rail, Mettmann, Epoche V.\n\nModell: Mit Digital- Decoder . 3 Achsen angetrieben. Haftreifen . Metall-Rangierbühnengeländer. Eingebautes Dach-Warnblinklicht. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal . Bei konventionellem Betrieb sind richtungsabhängig wechselndes Spitzenlicht und Blinklicht permanent in Funktion. An beiden Enden Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36880",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d9/6e/d96e52b51f2f3b8899932f1f80ac09661434539178.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

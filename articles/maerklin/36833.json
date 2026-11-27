@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36833",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36833",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Baureihe 185. Privatbahn-Lokomotive der Firma TX Logistik Bad Honnef, gemietet von Angel Trains London / Köln..\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Fahrtrichtungsabhängig wechselnde Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Einstellbare Fahreigenschaften. 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36833",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dc/1c/dc1c27189f2d0a824512f23ef692c71c1434539116.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

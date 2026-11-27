@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37074",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37074",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 78",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 169.0
+  },
+  "description": "Vorbild: Schnelle Personenzuglokomotive Baureihe 78 der Deutschen Bundesbahn (DB). Ausführung vor 1955 mit Zweilicht-Spitzensignal .\n\nModell: Mit Digital- Decoder mfx und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Zahlreiche angesetzte Details. Länge über Puffer 16,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37074",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1b/08/1b089da0006d60e06b3a0f345947c0451434539143.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

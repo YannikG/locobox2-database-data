@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36811",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36811",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Akku-Kleinlokomotive.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Kleinlokomotive Baureihe Ks der Deutschen Bundesbahn (DB). Ausführung mit Akkumulatoren und Elektroantrieb auf Diesellok-Fahrgestell.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleishaftmagnete für höhere Zugkraft. Angesetzte Metallgriffstangen. Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar, obere Lampe funktionslos. Anfahrbeschleunigung / Bremsverzögerung mit Control Unit oder Systems schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36811",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/93/1c/931c7f5844a5310353c6223dfd198a271434538883.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37140",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37140",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 89",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 99.0
+  },
+  "description": "Vorbild: Baureihe 89.70-75 der Deutschen Bundesbahn (DB). Frühere preussische Nebenbahnlokomotive T 3.\n\nModell: Mit Digital- Decoder und geregeltem Antrieb. Miniaturmotor im Kessel. 3 Achsen angetrieben. Haftreifen . Detailliertes Fahrwerk mit Darstellung der Allan- Steuerung . Spitzensignal konventionell in Betrieb, digital schaltbar. Führerhaus mit freiem Durchblick. Viele separat angesetzte Details. Länge über Puffer 9,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37140",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/6e/5f/6e5f978e8e29247423d88d4a2f58cb001434539338.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

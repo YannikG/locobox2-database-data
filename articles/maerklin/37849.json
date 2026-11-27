@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37849",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37849",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 50",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 50 der Deutschen Reichsbahn-Gesellschaft ( DRG ). Ausführung mit Kastentender und Wagner-Windleitblechen.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator. Motor im Kessel. 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Rauchsatzkontakt, Telex - Kupplung , Dampflok-Fahrgeräusch sowie Anfahr- und Bremsverzögerung mit Control Unit oder mit Systems schaltbar. Weitere Betriebsgeräusche mit Systems schaltbar. Kurzkupplung in NEM -Aufnahme am Vorlaufgestell . Verstellbare Kurzkupplung zwischen Lokomotive und Tender. Länge über Puffer 26,3 cm/26,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37849",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/50/0f/500f590bf213c4006a3ddd7c2ad9a0971434538768.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

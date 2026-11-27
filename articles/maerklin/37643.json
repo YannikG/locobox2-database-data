@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37643",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37643",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "Serie Am 842",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 165.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie Am 842 der Schweizerischen Bundesbahnen ( SBB Cargo). Dieselhydraulische Bauart G 800 BB der Vossloh Schienenfahrzeugtechnik GmbH (VSFT), weiterentwickelt aus den Standardlokomotiven der früheren MaK.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. Spezialmotor mit Glockenanker und Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal / weisses Schlusslicht konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Länge über Puffer 16,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37643",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/53/b7/53b7a8a42d262a3bc2311222fc0616d31434539406.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

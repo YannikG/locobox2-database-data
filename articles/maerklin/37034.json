@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37034",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37034",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "IT",
+    "operator": "FS",
+    "type": "Gruppe 675",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II+III",
+    "luepMm": 218.0
+  },
+  "description": "Vorbild: Personenzuglokomotive Gruppe 675 der Italienischen Staatsbahnen ( FS ). Ehemalige deutsche P 8. Kessel mit 2 Domen ohne Windleitbleche. Vierachsiger Kastentender .\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. 3 Achsen angetrieben. 2 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Rauchsatz 72270 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Kurzkupplung zwischen Lok und Tender. Detaillierter Führerstand . Bremsschläuche, Vorbildkupplungen und Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 21,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37034",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d6/ce/d6ce629fdec02973691d78087c8c7d221434538971.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

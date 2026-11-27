@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37332",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37332",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie BB 12 000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 175.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie BB 12 000 der Französischen Staatsbahnen ( SNCF ).\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. Spezialmotor mit Schwungmasse . 4 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Schlusslichter sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Dachstromabnehmer auf frei stehendem Gitterrahmen gelagert. Eingesetzte Metallgriffstangen. Ansteckbare Bremsschläuche und Vorbildkupplungen. Länge über Puffer 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37332",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/85/2d/852d062a124cb2525f7681522ea151471434538859.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

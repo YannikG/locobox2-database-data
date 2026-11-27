@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37883",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37883",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 44",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 44 der Deutschen Bundesbahn (DB). Ausführung mit Öl-Hauptfeuerung und Witte-Windleitblechen. Betriebszustand um 1967.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Telex - Kupplung am Tender und Geräuschgenerator mit vielen Funktionen. 5 Achsen angetrieben, Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Verstellbare Kurzkupplung zwischen Lok und Tender. Vorne Kupplungsaufnahme nach NEM . Kolbenstangen-Schutzrohre einsteckbar. Länge über Puffer 26,0 / 26,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37883",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/37/ec37f846bbe22d59bd208d08ef3572091434538689.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

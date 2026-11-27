@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37151",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37151",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 52",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 263.0
+  },
+  "description": "Vorbild: Güterzuglokomotive Baureihe 52 der Deutschen Bundesbahn (DB). Ausführung mit Wannentender , geschlossenem Führerhaus und Witte-Windleitblechen. Zustand frühe 50er Jahre.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. Motor im Kessel der Lokomotive. 5 Achsen angetrieben. Haftreifen . Kurvengängiges Gelenkfahrwerk. Spitzensignal konventionell in Betrieb, digital schaltbar. Rauchsatz 7226 nachrüstbar. Kolbenstangen-Schutzrohre ansteckbar. Länge über Puffer 26,3 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37151",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/c1/fb/c1fbdb970e0ed6024ac7e00a8678a9221434538758.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37236",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37236",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 23",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 210.0
+  },
+  "description": "Vorbild: Mehrzwecklokomotive Serie 23 der Belgischen Staatsbahnen (SNCB/NMBS). Ausführung im Streifendesign \"Zebra\".\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Führerstände mit Inneneinrichtung. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Länge über Puffer 21,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37236",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2f/11/2f11d6dbe8291a71b6c86143521d7aa11434538640.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

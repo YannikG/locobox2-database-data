@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36847",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36847",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Mehrzweck-Diesellokomotive .",
+    "number": null,
+    "livery": "Looney Tunes",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Baureihe ER 20. Dieselelektrischer Antrieb. Achsfolge Bo´Bo´.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Beleuchtung mit Leuchtdioden, konventionell in Betrieb, digital schaltbar. Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Märklin Systems schaltbar. Gestaltung \"Looney Tunes\". Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36847",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2b/f4/2bf44ede26063b188841ef576148fd3a1434538986.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

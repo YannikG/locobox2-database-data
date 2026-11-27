@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37317",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37317",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 111",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 191.0
+  },
+  "description": "Vorbild: Mehrzweck-Elektrolokomotive Baureihe 111 der Deutschen Bahn AG ( DB AG ) - Epoche V.\n\nModell: Mit mfx -Digital- Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängiger Wechsel von Dreilicht-Spitzensignalsignal und 2 roten Schlusslichtern. Bei konventionellem Betrieb in Funktion, im Digitalbetrieb schaltbar. Länge über Puffer 19,1 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37317",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/63/1f/631ff266d0419640183395546c6a59901434538643.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37523",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37523",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 52",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 198.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe E 52 der Deutschen Bundesbahn (DB).\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben, 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Lokpfiff sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Maschinenraum mit Inneneinrichtung. Länge über Puffer 19,8 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37523",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e3/c9/e3c9ed83eeb258be5ca643621477cba31434538738.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37133",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37133",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "mit Heizkamin.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 139.0
+  },
+  "description": "Vorbild: Tenderlokomotive Baureihe 75 der Deutschen Bundesbahn (DB), abgestellt als Dampfspender. Fahrfähige Heizlokomotive zum Einsatz unter einem stationären Heizkamin.\n\nModell: Mit Digital- Decoder und geregeltem Hochleistungsantrieb. 3 Achsen angetrieben. 2 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Länge über Puffer 13,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37133",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3c/b9/3cb9056d28f8df72f594a9043523cb9c1434539176.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37096",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37096",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 85",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Schwere Tenderlokomotive Baureihe 85 der Deutschen Bundesbahn (DB) Epoche III. Ausführung mit Witte-Windleitblechen und der Kennzeichnung mit dem klassisch umrahmten DB-Logo zur letzten Einsatzzeit der BR 85.\n\nModell: Mit mfx -Digital- Decoder und geregeltem Hochleistungsantrieb. 5 Achsen angetrieben. 4 Haftreifen . Eingerichtet für Rauchsatz 7226. Zahlreiche angesetzte Details. Kohlenkasten-Aufstiegsleiter aus Metall. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal . Spitzensignal sowie optional nachrüstbarer Rauchsatz 7226 bei konventioneller Versorgung ständig in Funktion, im Digitalbetrieb schaltbar. Anfahrbeschleunigung und Bremsverzögerung bei Digitalbetrieb schaltbar. Länge über Puffer 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37096",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ef/4e/ef4e7fc72291974a8217988af6ebf9461434539357.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

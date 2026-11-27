@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37115",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37115",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 18",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 237.0
+  },
+  "description": "Vorbild: Schlepptenderlokomotive Baureihe 18.1 der Deutschen Bundesbahn (DB). Frühere Württemberger Reihe C.\n\nModell: Digital- Decoder mfx , geregelter Hochleistungsantrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel. 3 Achsen angetrieben, Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden, Spitzensignal konventionell in Betrieb, digital schaltbar. Tender aus Metall. Kurzkupplung zwischen Lok und Tender. Länge über Puffer 23,7 cm. Lieferung in Holzkassette.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37115",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/89/9e/899e87a52e85fbd99c69b9d184b362e21434539250.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

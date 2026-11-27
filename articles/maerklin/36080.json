@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36080",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36080",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR V 80",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 147.0
+  },
+  "description": "Vorbild: Baureihe V 80 der Deutschen Bundesbahn mit dieselhydraulischem Antrieb und Gelenkwellen-Kraftübertragung. Epoche III, Achsfolge B'B', Baujahr 1952.\n\nModell: Epoche III, mit Digital- Decoder und Spezialmotor mit Schwungmasse , 4 Achsen angetrieben, 2 Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden. Nachgebildete Führerstands-Inneneinrichtung. Länge über Puffer 14,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36080",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1d/15/1d156ce6e7dc799e22731dd416ef530b1434538805.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

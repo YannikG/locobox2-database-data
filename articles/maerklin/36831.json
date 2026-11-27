@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36831",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36831",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 185",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 217.0
+  },
+  "description": "Vorbild: Privatbahn-Zweisystem-Mehrzwecklokomotive BR 185 der Firma LTE Logistik- und Transport-GmbH, Graz/Österreich. Achsfolge Bo´Bo´.\n\nModell: Metallausführung mit vielen integrierten Einzelheiten. Betriebsgerechter Gesamtaufbau. Digital- Decoder und zentral eingebauter Spezialmotor. 4 Achsen über Kardan angetrieben. 2 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden, konventionell in Betrieb, digital schaltbar. Direktsteuerung (Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Systems schaltbar. 2 mechanisch funktionsfähige Dachstromabnehmer . Länge über Puffer 21,7 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36831",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/87/37/8737fa9a74fb2687e22fe016f7aee4661784282403.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

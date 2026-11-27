@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37492",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37492",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "US",
+    "operator": "PRR",
+    "type": "Type GG-1",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schwere Mehrzwecklokomotive Type GG-1 der Pennsylvania Railroad (PRR). \"Loewy\" Design in \"Tuscan Red\", Ausführung der 50er Jahre.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator mit vielen Funktionen. Hochleistungsmotor mit Glockenanker zentral eingebaut. 4 Achsen in beiden Treibgestellen angetrieben. Haftreifen . Kurvengängiges Fahrwerk mit 2 Treib- und 2 Laufgestellen. Beleuchtung mit wartungsfreien LED . Spitzensignal und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Grosse Dachstromabnehmer amerikanischer Bauart. Länge über Kupplungen 28,0 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37492",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d5/b9/d5b9dd26ae2e153f402a6372671417361434538941.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

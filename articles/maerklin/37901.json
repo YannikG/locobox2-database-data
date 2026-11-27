@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37901",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37901",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 290",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 164.0
+  },
+  "description": "Vorbild: Schwere Rangierlokomotive Baureihe 290 der Deutschen Bundesbahn (DB). Frühere Baureihe V 90. Ursprüngliche Farbgebung in Dunkelrot.\n\nModell: Mit mfx -Digital- Decoder und geregeltem Hochleistungsantrieb C-Sinus. Wartungsfreier Hochleistungsmotor in kompakter Bauform mit Schwungmasse zentral eingebaut 4 Achsen über Kardanwellen angetrieben. 2 Haftreifen . Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Anfahr- und Bremsverzögerung mit Control Unit oder Systems schaltbar. Führerstand mit Relief-Inneneinrichtung. Angesetzte Griffstangen und Geländer aus Metall. Trittstufen zum Führerstand für kleinen Gleisradius abnehmbar. Länge über Puffer 16,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37901",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/13/e9/13e9ea4554a2cb092a8da4c3433e65781434539170.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

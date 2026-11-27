@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37398",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37398",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 101",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 101 der Deutschen Bahn AG ( DB AG ). Serienausführung.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Bewegliche Imitation der Drehgestell -Anlenkung. Beleuchtung mit wartungsfreien Leuchtdioden. Spitzensignal und Stromrichtergeräusch konventionell in Betrieb, digital schaltbar. Fernscheinwerfer vorne und hinten sowie Anfahr- und Bremsverzögerung mit Control Unit oder Systems digital schaltbar. Signalhorn und weitere Betriebsgeräusche mit Systems digital schaltbar. Führerstände mit Inneneinrichtung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37398",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/da/72/da72185468f7c327ea0f8c9b93941e971434539200.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

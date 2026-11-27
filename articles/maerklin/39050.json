@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39050",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39050",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 05",
+    "number": "003",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 307.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzuglokomotive Baureihe 05 der Deutschen Bundesbahn (DB). Betriebszustand der 05 003 ab 1950 ohne Stromlinienverkleidung.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus und Geräuschgenerator mit vielen Funktionen. Wartungsfreier Motor in kompakter Bauform im Kessel der Lokomotive eingebaut. 3 Achsen angetrieben, Haftreifen . Beleuchtung mit wartungsfreien, warmweissen Leuchtdioden. Rauchsatz 7226 nachrüstbar. Spitzensignal und Rauchsatzkontakt konventionell in Betrieb, digital schaltbar. Tender aus Metall. Feste Kurzkupplung zwischen Lok und Tender, hinten NEM -Aufnahme mit Kurzkupplung . Ansteckbare Kolbenstangen-Schutzrohre. Befahrbarer Mindestradius 360 mm. Länge über Puffer 30,7 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39050",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ba/c3/bac3720646646e9a5e98ed4d0f1beed01434538817.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

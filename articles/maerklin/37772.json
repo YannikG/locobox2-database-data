@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37772",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37772",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR SVT 04",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Schnelltriebwagen Baureihe SVT 04 der Deutschen Bundesbahn (DB). Reichsbahn-Bauart SVT 137 \"Hamburg\". Zweiteilig mit Jacobs- Drehgestell . Ausführung als FT 231 \"Montan Express\" von 1954.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb Softdrive Sinus, Licht- und Geräuschfunktionen. Wartungsfreier Motor in kompakter Bauform im Jacobs- Drehgestell angeordnet. 2 Achsen angetrieben, Haftreifen . Beleuchtungen mit wartungsfreien Leuchtdioden. Spitzensignal konventionell in Betrieb, digital schaltbar. Dach mit angesetzten Details. Durchgehende Seitenschürzen mit geführten Blenden über den Radausschnitten. Kulissenführung mit geschlossenem Faltenbalg zwischen den Fahrzeughälften. An den Enden Nachbildung der Scharfenberg- Kupplung (ohne Funktion). Länge über Kupplungen 48,4 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37772",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/a4/4f/a44ff8f3ae3575c8704bb097bc8942ac1434539303.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

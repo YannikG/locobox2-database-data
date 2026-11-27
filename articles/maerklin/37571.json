@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37571",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37571",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 103",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 219.0
+  },
+  "description": "Vorbild: Schnellfahrlokomotive Baureihe 103.1 der Deutschen Bundesbahn (DB). Serienausführung mit doppelten Seitenlüftern, glatter Aussenwand, Frontschürzen, grossen Scheibenwischern und Scherenstromabnehmern.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb, Licht- und Geräuschfunktion. 3 Achsen angetrieben, Haftreifen . Spitzensignal und Schlusslichter konventionell in Betrieb, digital schaltbar. Maschinenraumbeleuchtung, Signalhorn sowie Anfahr- und Bremsverzögerung mit Control Unit oder mit Systems schaltbar. Beleuchtungen mit wartungsfreien Leuchtdioden ( LED ). Führerstände mit Inneneinrichtung. 18 einzeln eingesetzte Griffstangen aus Metall. Detaillierte Dachausrüstung. Offene Frontschürze und Kurzkupplung austauschbar gegen geschlossene Ausführung mit ansteckbaren Bremsschläuchen und Vorbildkupplung. Länge über Puffer 21,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37571",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ee/d8/eed87a509821131f953f221d29f6a7881434539311.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

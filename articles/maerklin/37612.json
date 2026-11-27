@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37612",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37612",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Diesellok-Doppeleinheit.",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotiven- Doppeleinheit Typ PA-1 der American Locomotive Company (ALCO). Dieselelektrischer Antrieb.\n\nModell: Doppel-Lokomotive mit je einem geregelten Hochleistungsantrieb in beiden Lokhälften. Je Lokeinheit 2 Achsen angetrieben, 4 Haftreifen . mfx - Decoder mit Geräuschgenerator (Dieselmotor-Betriebsgeräusch, Glockensignal, Hornsignal, Bremsengeräusch) und fahrtrichtungsabhängig schaltbare \"Marslight\"-Blinkfunktion. Fahrtrichtungsabhängig wechselndes Spitzensignal digital schaltbar. Dieselmotor-Geräusch, Glockensignal, Hornsignal sowie Anfahrbeschleunigung und Bremsverzögerung mit Control Unit oder Systems schaltbar. Bremsgeräusch und \"Marslight\"-Blinkfunktion des in Fahrtrichtung oberen Spitzenlichts mit Systems schaltbar. Beide Lokomotivhälften mit Spezialverbindungen elektrisch und mechanisch gekuppelt. An beiden Stirnseiten Kurzkupplungen in Norm-Aufnahmeschächten - jeweils austauschbar gegen amerikanischen Kupplungstyp oder Abdeckblende. Befahrbarer Mindestradius 360 mm. Länge über Kupplungen 47,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37612",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/66/cf/66cf68131feb2df51cc0c5d4ffcab3d31434539078.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

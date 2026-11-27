@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36821",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36821",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DK",
+    "operator": "DSB",
+    "type": "Reihe 251 bis 290",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 74.0
+  },
+  "description": "Vorbild: Rangiertraktor der Nummernreihe 251 bis 290 der Dänischen Staatsbahn (DSB) - entsprechend der deutschen Diesel-Kleinlokomotiven-Reihe Köf II. Ausführung mit geschlossenem, blutorangefarbenem Lokomotivaufbau - Epoche IV.\n\nModell: Mit Digital- Decoder und geregeltem Miniaturmotor. 2 Achsen angetrieben. 2 Gleis-Haftmagnete zur Zugkrafterhöhung. Angesetzte Metall-Griffstangen. Fahrtrichtungsabhängiger Wechsel von Spitzensignal und Schlusslicht (weiss/rot). Bei konventionellem Betrieb leuchtendes Spitzensignal . Mit Control Unit 6021 oder Systems Spitzensignal sowie Anfahrbeschleunigung und Bremsverzögerung digital schaltbar. Länge über Puffer 7,4 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36821",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/42/49/42496bc72134e4484b88e130710cc10f1434538814.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

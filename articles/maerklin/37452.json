@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37452",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37452",
+  "releaseDate": "2007",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 45",
+    "number": "004",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 295.0
+  },
+  "description": "Vorbild: Schwere Güterzuglokomotive Baureihe 45 der Deutschen Bundesbahn (DB). Eingesetzt für die Lokversuchsanstalt Göttingen (LVA). 45 004 nach Fotos von Carl Bellingrodt um 1951.\n\nModell: Mit Digital- Decoder mfx , geregeltem Hochleistungsantrieb und Geräuschgenerator. Hochleistungsmotor mit Glockenanker im Kessel eingebaut. 5 Achsen angetrieben, Haftreifen . Eingerichtet für Rauchsatz 7226. Spitzensignal und Rauchsatz-Kontakt konventionell in Betrieb, digital schaltbar. Tender aus Metall mit Kurzkupplung zur Lokomotive. Nachbildung des Innenzylinders. Zahlreiche separat angesetzte Leitungen und Griffstangen. Länge über Puffer 29,5 cm. Repräsentative Sammlervitrine aus Holz und Glas, hinterlegt mit der Reproduktion eines Vorbildfotos vom Meister.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2007"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37452",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e1/38/e1381372212be166ce4fcda486c9bd7b1434539176.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}

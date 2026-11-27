@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37389",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37389",
+  "releaseDate": "2005",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Serie 26 000",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 204.0
+  },
+  "description": "Vorbild: Schnelle Mehrzwecklokomotive Serie 26 000 der Französischen Staatsbahnen ( SNCF ). Zweisystem-Lokomotive \"SYBIC\". Eingesetzt im Reisezugverkehr.\n\nModell: Mit Digital- Decoder , geregeltem Hochleistungsantrieb und Geräuschgenerator. 2 Achsen angetrieben. 4 Haftreifen . Spitzensignal konventionell in Betrieb, digital schaltbar. Pfeifsignal sowie Anfahr- und Bremsverzögerung mit Control Unit 6021 digital schaltbar. Unterschiedliche Dachstromabnehmer . Eingesetzte Metallgriffstangen. Länge über Puffer 20,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2005"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37389",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/29/97/2997552654a80cf375f992d66ed183541434539019.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:39Z"
+}

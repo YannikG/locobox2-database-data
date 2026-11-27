@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37402",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37402",
+  "releaseDate": "2006",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 140",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 183.0
+  },
+  "description": "Vorbild: Baureihe 140 der Deutschen Bahn AG. Frühere E 40. Achsfolge Bo´Bo´.\n\nModell: Mit mfx - Decoder und geregeltem Hochleistungsantrieb. 2 Achsen angetrieben. 4 Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Direktsteuerung Anfahrbeschleunigung/Bremsverzögerung) mit Control Unit oder Systems schaltbar. Länge über Puffer 18,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2006"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37402",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2d/1c/2d1c335fcae6b08e4c9cb5c54f2299431434539200.jpg"
+  },
+  "updatedAt": "2026-11-27T10:05:40Z"
+}
