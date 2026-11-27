@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25490",
+  "manufacturer": "Trix",
+  "articleNumber": "25490",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 679.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "SE",
+    "operator": "SJ",
+    "type": "F 1200",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 245.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Schlepptender F 1200 der Schwedischen Staatsbahnen (SJ). Aktueller Betriebszustand, so wie die Lokomotive derzeit betriebsfähig in Gävle beheimatet ist.\n\nModell: Lokomotive und Tender weitgehend aus Metall. Mit Digital-Decoder und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben, zwei Achsen über Kuppelstangen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Die Laterne an der Rauchkammertür ist separat digital schaltbar. Zusätzlich sind die Führerstandbeleuchtung und das Feuerflackern in der Feuerbüchse separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Serienmässig eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Verstellbare Kupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Befahrbarer Mindestradius 360 mm. Diverse Ansteckteile wie bspw. Aufstiegstritte, Bremsschläuche, Rohrleitungen und Schraubenkupplungsimitation liegen bei. Länge über Puffer ca. 24,5 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25490",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0a/09/0a09744a2665f7a38228c5ec48d839341702904431.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25596",
+  "manufacturer": "Trix",
+  "articleNumber": "25596",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Be 6/8 II",
+    "number": "13254",
+    "livery": "Krokodil",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 223.0
+  },
+  "description": "Vorbild: Elektrolokomotive Serie Be 6/8 II „Krokodil“ der Schweizerischen Bundesbahnen (SBB). Bauart aus der ersten Bauserie. Tannengrüne Grundfarbgebung. Mit 2 Führerstandstüren, breiten Rangierertreppen an den Vorbauten und bügelförmigen Haltegriffstangen, Hülsenpuffer, ohne Übergangsbleche, mit Falschfahrsignal und Signum-Integra-Magneten. Lok-Betriebsnummer 13254. Betriebszustand zwischen 1960 und 1965.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. 2 geregelte Hochleistungsantriebe mit Schwungmasse, jeweils 1 Motor in jedem Treibgestell. Jeweils 3 Achsen und Blindwelle angetrieben. Haftreifen. Kurvengängiges Gelenkfahrwerk. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 1 weisses Schlusslicht (Schweizer Lichtwechsel) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf 1 rotes Schlusslicht. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Hochdetaillierte Metall-Ausführung mit vielen separat angesetzten Einzelheiten. 3-teiliger Lok-Aufbau mit ausschwenkbaren Vorbauten. Detaillierte Dachausrüstung mit Sicherheitsgitter unterhalb der Stromabnehmer. Länge über Puffer 22,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25596",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/b0/e4b02adbfe3009c8ded88b1fb1b0589f1702900823.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25991",
+  "manufacturer": "Trix",
+  "articleNumber": "25991",
+  "releaseDate": "2021",
+  "uvp": null,
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 254",
+    "number": "106-8",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "IV",
+    "luepMm": 214.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Elektrolokomotive Baureihe 254 der Deutschen Reichsbahn der DDR (DR/DDR). Flaschengrüne Grundfarbgebung mit schwarzem Rahmen und roten Drehgestellen. Lok-Betriebsnummer 254 106-8. Betriebszustand um 1989.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Antrieb auf jeweils zwei Achsen je Treibgestell. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen. Führerstände und Maschinenraum mit Relief-Inneneinrichtung. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 21,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25991",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/94/9f/949f507ddf6182d6ed62b540466adc421662703206.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25772",
+  "manufacturer": "Trix",
+  "articleNumber": "25772",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 499.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "EG 524",
+    "number": null,
+    "livery": "Halle",
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 133.0
+  },
+  "description": "Vorbild: Elektrolokomotive EG 524 HALLE (spätere Baureihe E 71.1) der Deutschen Reichsbahn (DRB). Braungrüne Grundfarbgebung. Betriebsnummer EG 524. Betriebszustand ab 1921.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Antrieb über Kardan auf beide Achsen in jedem Treibgestell. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Zusätzlich ist das dritte Spitzenlicht als Zugbegegnungslampe und die Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Mit Pufferspeicher. Viele separat angesetzte Teile wie Griffstangen und Bremsschläuche. Beide Treibgestelle über Kuppelstange miteinander verbunden. Pufferhöhe nach NEM. Ein Booklet informiert über die Geschichte der Lokomotive. Länge über Puffer 13,3 cm. Lokomotive 1 von 6 der Sammelserie \"Geschichte der Elektrolokomotiven von Epoche I-VI\".",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25772",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/4c/49/4c49531823b814c9e2fce57cef3d09241780315205.jpg"
+  },
+  "updatedAt": "2026-11-27T14:11:13Z"
+}

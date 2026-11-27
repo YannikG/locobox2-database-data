@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25965",
+  "manufacturer": "Trix",
+  "articleNumber": "25965",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 249.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Regio Shuttle RS1",
+    "number": "020-0",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "luepMm": 293.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dieseltriebwagen vom Typ Regio Shuttle RS1 als Baureihe 650 der Deutschen Bahn AG (DB AG). Ausführung mit Schraubenkupplung, Puffern und obenliegender Zugzielanzeige. Verkehrsrote Grundfarbgebung. Betriebsnummer 650 020-0. Betriebszustand ab 2015. Betriebsnummer der Wiederauflage 2026: 650 120-8.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zwei Achsen angetrieben. Haftreifen. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Serienmässig eingebaute Innenbeleuchtung. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Viele separat angesetzte Details. An beiden Enden mit separat angesetzten Bremsschläuchen, Schraubenkupplungen und Steuerleitungen. Pufferhöhe nach NEM. Für einen Doppeltraktionsbetrieb liegen geöffnete Blenden, kürzere Steuerleitungen und eine Kuppelstange bei. Befahrbarer Mindestradius 360 mm ohne Beachtung des Lichtraumprofils. Länge über Puffer 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25965",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/23/5e23ee6cdf849b2dff53a0c2cb98a65b1769508005.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

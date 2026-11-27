@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25532",
+  "manufacturer": "Trix",
+  "articleNumber": "25532",
+  "releaseDate": "2024",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 52",
+    "number": "1400",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "II",
+    "luepMm": 264.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schwere Güterzug-Dampflokomotive Baureihe 52 mit Wannentender 2´2´T30. Deutsche Reichsbahn (DR). Schwarzgraue Grundfarbgebung. Ohne Windleitbleche. Mit Frostschutz-Verkleidung der Luftpumpe und verkleidete Schmierleitungen. Vorlauf-Radsatz mit Vollrädern. Lok-Betriebsnummer 52 1400. Betriebszustand um 1943/44.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 5 Achsen angetrieben. Haftreifen. Lokomotive und Wannentender weitgehend aus Metall. Eingerichtet für Rauchsatz 7226. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und nachrüstbarer Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender und vorne an der Lok kinematikgeführte Kurzkupplung mit NEM-Schacht, zusätzlich vorne Pufferhöhe nach NEM. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche und Schraubenkupplungsimitationen liegen bei. Länge über Puffer 26,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25532",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/32/0a/320ab6fad4d83d8e315c5ca7a723f2701702900822.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

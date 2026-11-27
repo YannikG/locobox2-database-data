@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25978",
+  "manufacturer": "Trix",
+  "articleNumber": "25978",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 849.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "ICE 4 Baureihe 412/812",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "VI",
+    "minRadiusMm": 437.5
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 4 als Baureihe 412/812 der Deutschen Bahn AG (DB AG), 1 Endwagen EW 1.2-H, Baureihe 812, 1. Klasse. 1 Speisewagen RW \"Bordrestaurant\", Baureihe 812, 1. Klasse. 1 Servicewagen TW 2.2, Baureihe 412, 2. Klasse. 1 Mittelwagen MW 2-H, Baureihe 812, 2. Klasse. 1 Endwagen EW 2.2-H, Baureihe 812, 2. Klasse. Betriebszustand 2019.\n\nModell: 5-teilige Ausführung im Längenmassstab 1?,5. Mit Digital-Decoder und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Bordrestaurantwagen zentral eingebaut. Alle 4 Achsen in beiden Drehgestellen über Kardan angetrieben. Haftreifen. Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Serienmässig eingebaute Innenbeleuchtung. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Unterschiedliche Farb-Szenarien für die Innenbeleuchtung digital schaltbar. Zusäztlich Führerstand-Beleuchtung jeweils separat digital schaltbar. Gesamte Beleuchtung mit wartungsfreien warmweissen und unterschiedlich farbigen Leuchtdioden (LED). Beide Pantographen auf dem Servicewagen als Digital-Funktion separat heb- und senkbar. Befahrbarer Mindestradius 437,5 mm. Länge des Zuges 151,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "trix-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25978",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/dd/84/dd84b84958c0e23e561432c049d7f0f31730100605.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:55Z"
+}

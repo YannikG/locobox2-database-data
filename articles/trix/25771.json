@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-25771",
+  "manufacturer": "Trix",
+  "articleNumber": "25771",
+  "releaseDate": "2022",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E 71.1",
+    "number": "26",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "III",
+    "luepMm": 133.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E 71.1 der Deutschen Bundesbahn (DB). Flaschengrüne Grundfarbgebung. Lok-Betriebsnummer E 71 26. Betriebszustand um 1954.\n\nModell: Mit Digital-Decoder und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse, zentral eingebaut. Antrieb über Kardan auf beide Achsen in jedem Treibgestell. Haftreifen. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Rangier-Lichtes. Führerstandbeleuchtung jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden (LED). Angesetzte Griffstangen. Mit Führerstands-Nachbildung. Beide Treibgestelle über Kuppelstange miteinander verbunden. Ansteckbare Bremsschläuche und Schraubenkupplungsimitationen liegen separat bei. Länge über Puffer 13,3 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/25771",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3a/8b/3a8b483048f41ddcb275689909bf7d5b1649224838.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:56Z"
+}

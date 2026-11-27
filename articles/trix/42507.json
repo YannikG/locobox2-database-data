@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "trix-42507",
+  "manufacturer": "Trix",
+  "articleNumber": "42507",
+  "releaseDate": "2013",
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "KPEV",
+    "type": "EG 507",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "DC-Digital",
+    "era": "I",
+    "luepMm": 115.0
+  },
+  "description": "Vorbild: EG 507 der Königlich Preussischen Eisenbahn Verwaltung (KPEV), Bauart D w1k, Baujahr ab 1913. Einsatz: Leichte Güter- und Personenzüge in Berlin, Schlesien und München.\n\nModell: Fein detailliertes Handarbeitsmodell in Messingausführung mit eingebautem Digital-Decoder mfx. Mit Glockenankermotor. 4 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal digital schaltbar, analog in Betrieb. Signallampe zusätzlich schaltbar. Länge über Puffer 11,5 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "trix-neuheiten-2013"
+  ],
+  "source": {
+    "url": "https://www.trix.de/de/produkte/details/article/42507",
+    "notes": "Daten von der Trix-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1a/c5/1ac576dc8264348340622721409d39a11434534388.jpg"
+  },
+  "updatedAt": "2026-11-27T14:10:57Z"
+}
