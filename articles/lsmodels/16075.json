@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB Cargo",
     "type": "Vectron MS",
-    "number": null,
+    "number": "193 366-2",
     "livery": "I am Einziganders",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/550-superlarge_default/db-cargo-vectron-ms-white-i-am-einziganders.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

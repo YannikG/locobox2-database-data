@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 22200",
-    "number": null,
+    "number": "22214",
     "livery": "grau/violett, En Voyage",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/3081-superlarge_default/bb-22200-grau-violett-en-voyage-carmillon-logo-frontnummer-kleines-fuhrerhaus-wappen-dole.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

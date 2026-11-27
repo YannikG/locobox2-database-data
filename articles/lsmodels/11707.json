@@ -9,7 +9,7 @@
     "country": "FR",
     "operator": "SNCF",
     "type": "BB 7200",
-    "number": null,
+    "number": "7240",
     "livery": "grau/orange, Platten, 160 Km/h",
     "scale": "H0",
     "electricSystem": "AC-Digital",
@@ -27,5 +27,5 @@
     "url": "https://lsmodels.eu/de/ausverkauft/2705-bb-7200-grau-orange-platten-160-km-h.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated."
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

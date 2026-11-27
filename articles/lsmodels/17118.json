@@ -9,7 +9,7 @@
     "country": "CH",
     "operator": "SBB Cargo",
     "type": "Vectron",
-    "number": null,
+    "number": "193 657-4",
     "livery": "SBB Cargo/Shadowpiercer, 4 pantographs",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -28,5 +28,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2324-superlarge_default/sbb-cargo-shadowpiercer-4-pantographs-ep-vi-2019-91-80-6193-657-4-d-dispo.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

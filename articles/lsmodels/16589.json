@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DB",
     "type": "BR 120",
-    "number": null,
+    "number": "120 108-6",
     "livery": "orientrot",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2891-superlarge_default/br120-orientrot.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

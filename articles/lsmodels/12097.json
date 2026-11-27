@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "HLE 12",
-    "number": null,
+    "number": "1211",
     "livery": "blau, gelbe Linie, Magelan Logo, Klimaanlage, UIC Nummer, Merelbeke",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2821-superlarge_default/12xx-blau-gelbe-linie-magelan-logo-klimaanlage-uic-nummer-merelbeke.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:36Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }

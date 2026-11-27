@@ -9,7 +9,7 @@
     "country": "BE",
     "operator": "SNCB",
     "type": "HLE 27",
-    "number": null,
+    "number": "2756",
     "livery": "blau, gelbe Linie, 1. Serie, mit Klimaanlage, Magelan",
     "scale": "H0",
     "electricSystem": "DC-Analog",
@@ -27,5 +27,5 @@
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2815-superlarge_default/27xx-blau-gelbe-linie-1-serie-mit-klimaanlage-magelan.jpg"
   },
-  "updatedAt": "2026-11-21T22:54:20Z"
+  "updatedAt": "2026-11-27T10:01:10Z"
 }
