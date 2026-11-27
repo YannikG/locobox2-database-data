@@ -9,7 +9,7 @@
     "country": "DE",
     "operator": "DRG",
     "type": "BR 01",
-    "number": null,
+    "number": "128",
     "livery": null,
     "scale": "H0",
     "electricSystem": "AC-Digital",
