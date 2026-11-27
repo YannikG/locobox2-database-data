@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38270",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38270",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 549.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "BR 56.34-35",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 200.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Güterzug- Schlepptender -Dampflokomotive Baureihe 56.34-35 der Deutschen Reichsbahn ( DRB ), ehemalige Reihe 270 der kaiserlich-königlichen Staatseisenbahn (kkStB) und den Österreichischen Bundesbahnen (BBÖ). Betriebszustand nach Eingliederung der BBÖ in die Deutsche Reichsbahn ab 1938.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 1 Achse direkt angetrieben, 3 Achsen über Kuppelstangen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator , mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung, Feuerbüchsenflackern und Fahrwerksbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 20,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38270",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/91/b1/91b175f81bebb6db2a1463087cc5ec711790946004.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

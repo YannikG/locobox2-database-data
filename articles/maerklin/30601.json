@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-30601",
+  "manufacturer": "Maerklin",
+  "articleNumber": "30601",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Dieselelektrische US-Lokomotive F7",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: A-Unit Typ General Motors EMD F7 der US-amerikanischen Bahngesellschaft D & RGW \"Rio Grande\". Lok-Nummer 5641. Zustand für den Zeitraum der 1950er-/1960er-Jahre.\n\nModell: Wiederauflage eines Märklin-Klassikers. Mit Digital- Decoder mfx / DCC . Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . 2-Licht- Spitzensignal vorne an der Lokomotive konventionell in Betrieb, digital schaltbar. Führerstand mit Inneneinrichtung. Angesetzte Griffstangen aus Metall. Kupplungshaken an der Vorderseite der Lok, Relex - Kupplung an der Hinterseite der Lok. Verpackung mit colorierter Darstellung der Lok, in Anlehnung an die historische Verpackung der damaligen Zeit. Länge über Kupplungen ca. 17,5 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/30601",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/46/72/467213df12239437e9351caa5ade62df1734102027.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

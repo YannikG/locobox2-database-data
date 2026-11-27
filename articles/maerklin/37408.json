@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37408",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37408",
+  "releaseDate": "2020",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 140",
+    "number": "024-1",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 140 der Deutschen Bahn AG ( DB AG ). Mit „Klatte“-Lüftergitter und einteiligem, abgerundetem Maschinenraumfenster. Orientrote Grundfarbgebung. Betriebsnummer 140 024-1. Betriebszustand um 2010.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Vier Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Beleuchtung mit wartungsfreien warmweissen bzw. roten Leuchtdioden ( LED ). Stromabnehmer separat digital heb- und senkbar. Angesetzte Griffstangen aus Metall. Lokführerfigur im Führerstand 1. Die Lokomotive befindet sich im stark ausgebleichtem Zustand. Länge über Puffer ca. 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2020"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37408",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/67/cc/67cc5b273716fff7bd203974cdfe66cd1597298450.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38201",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38201",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DR",
+    "type": "BR 18",
+    "number": "201",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 408.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 18 201 mit Öl-Hauptfeuerung und Zusatztender. Ehemalige Lokomotive der Deutschen Reichsbahn der DDR (DR/DDR), welche als Versuchslokomotive der VES-M Halle (Saale) aus Teilen der 61 002 und der H45 024 entstand. Betriebszustand um 2017, wie sie vor Sonderzügen eingesetzt wurde.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Soundfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss, digital schaltbar. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zusätzlich sind vorne an der Lok zwei rote Lampen digital schaltbar. Führerstands- und Fahrwerkbeleuchtung sowie Feuerbüchsenflackern separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Verstellbare Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte, stromführende Kurzkupplung mit NEM -Schacht zur Schaltung der Spitzenbeleuchtung am Zusatztender. Pufferhöhe an Lok und Tender nach NEM . Zusatztender beidseitig mit trennbaren, stromführenden Kurzkupplungen ausgestattet. Über einen Kippschalter im Tenderboden kann die Seite der Spitzenbeleuchtung ausgewählt werden. Diese ist über den Decoder der Lokomotive digital schaltbar. Befahrbarer Mindestradius 360 mm. Für grosse Radien oder Vitrine liegt eine Verkleidung ohne Radausschnitt unterhalb des Führerhauses zum Austausch bei. Kolbenstangenschutzrohre, Heiz- und Bremsschläuche liegen ebenfalls bei. Gesamtlänge über Puffer ca. 40,8 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38201",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/fc/44/fc44a7b8959c321233d55ea91daecfce1695708015.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

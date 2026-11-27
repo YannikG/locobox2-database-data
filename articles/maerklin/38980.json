@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38980",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38980",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 459.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Schienenbus mit Steuerwagen Baureihe 798 und 998",
+    "number": "666-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV"
+  },
+  "description": "Vorbild: Schienenbus - Motorwagen Baureihe 798 und Schienenbus - Steuerwagen Baureihe 998 der Deutschen Bundesbahn (DB). Purpurrote Ursprungsfarbgebung. Motorwagen -Betriebsnummer 798 666-4, Steuerwagen -Betriebsnummer 998 660-5. Betriebszustand Anfang der 1970er-Jahre.\n\nModell: Motorwagen mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter, zusammen mit der Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Spitzenlicht am Motorwagen je Seite jeweils separat digital abschaltbar. Steuerwagen mit serienmässig eingebauter Innenbeleuchtung. Auf der Steuerseite fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal mit 2 roten Schlusslichtern. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Zwischen den Fahrzeug-Einheiten stromführende Kupplungsdeichsel -Verbindung mit Kulissenführung. Stromführende Kupplungsdeichsel und Bremsschläuche liegen bei. Beide Fahrzeug-Einheiten sowie der optional erhältliche Beiwagen mit freiem Durchblick bei den Führerständen und im Fahrgastraum. Länge über Puffer der zweiteiligen Garnitur 32,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38980",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/08/67/0867b923b209355b3e7f5546a24916b71765825222.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

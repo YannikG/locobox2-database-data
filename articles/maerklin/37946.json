@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37946",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37946",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "NO",
+    "operator": "NSB",
+    "type": "Schwere Diesellokomotive Di7",
+    "number": "634",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 177.0
+  },
+  "description": "Vorbild: Schwere Diesellokomotive Di7 (T44). Goldgelb/rote Grundfarbgebung. Norwegische Staatsbahnen (NSB). Lok-Betriebsnummer 7 634. Betriebszustand um 1995.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Betriebs- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Vierlicht- Spitzensignal und ein rotes Schlusslicht konventionell in Betrieb, digital schaltbar. Weitere Lichtfunktionen digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Telex - Kupplung vorne und hinten getrennt digital schaltbar. Kupplungswalzer . Angedeutete Führerstandseinrichtung. Angesetzte Metallgeländer und -griffstangen. Länge über Puffer 17,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37946",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/25/46/2546914c769cfb9b2dc7999800d9f7511713204005.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

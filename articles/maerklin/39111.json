@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39111",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39111",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 110",
+    "number": "469-4",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe 110 der Train Rental GmbH (TRI). Lokkasten mit aerodynamischer Front, der sogenannten Bügelfalte, mit rechteckigen Klatte-Lüftergittern und Maschinenraumfenstern. Betriebsnummer 110 469-4. Betriebszustand ab Januar 2025 in auffälliger Gestaltung als \"Elefantenexpress\".\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit Stromabnehmern der Bauart DBS 54. Stromabnehmer digital heb- und senkbar. Viele separat angesetzte Teile wie Griffstangen, Tritte und UIC -Steckdosen. Pufferhöhe nach NEM . Kinematikgeführte Kurzkupplungen. Bremsleitungen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39111",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ec/01/ec01f21700776a9d07def2ab213581211741275233.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

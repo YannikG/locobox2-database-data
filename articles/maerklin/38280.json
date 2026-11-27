@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38280",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38280",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "HU",
+    "operator": "MAV",
+    "type": "Märklin Werkslok Györ",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 85.0
+  },
+  "description": "Vorbild: Dieselrangierlokomotive Baureihe M28 als Werkslokomotive des märklin Werks in Györ, Ungarn. Ehemalige Rangierlokomotive der Ungarischen Staatsbahn (MÁV). Chromoxidgrüne Grundfarbgebung. Betriebsnummer M28.1001. Aktueller optisch aufgearbeiteter Zustand im Aussehen der Epoche IV.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Achsen angetrieben, davon eine Achse über die Kuppelstange . Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstands- und Fahrwerkbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Mit Pufferspeicher. Telex - Kupplung vorne und hinten digital schaltbar. Griffstangen und viele weitere Details separat angesetzt. Pufferhöhe nach NEM . Lokführerfigur im Führerstand stehend. Länge über Puffer ca. 8,5 cm.",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38280",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/7b/95/7b9569db6056e4be8c677bf867e1cbc91787760021.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

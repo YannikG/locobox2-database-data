@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38012",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38012",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 699.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "AT",
+    "operator": "ÖBB",
+    "type": "Reihe 12",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 254.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Schlepptenderdampflok 12.11 der Österreichischen Bundesbahnen ( ÖBB ). Ausführung mit Zweilicht-Spitzensignal , kleine DRG -Laternen, grossen Windleitblechen, langer Domverkleidung, geschlossenem Vorbau und Umbautender Reihe 9184. Betriebszustand 1952.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Eine Achse angetrieben, drei Achsen über Kuppelstange angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator , mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung und Feuerbüchsenflackern separat digital schaltbar. Fahrwerksbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 25,4 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38012",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/2e/42/2e4266c32be72b291557c9f155d4ebf91789041606.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36971",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36971",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 269.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "BR 650",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 293.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dieseltriebwagen vom Typ Regio Shuttle RS1 als Baureihe 650 der Württembergischen Eisenbahn-Gesellschaft (WEG). Ausführung mit Schraubenkupplung , Puffern und obenliegender Zugzielanzeige. Lichtgrau/Ultramarinblaue Grundfarbgebung mit Sondergestaltung zum Jubiläum 125 Jahre Tälesbahn. Betriebsnummer VT 442 (NVR-Nr 95 80 0 650 690-0 D-WEG). Betriebszustand ab 2025.\n\nModell: Mit Digital- Decoder mfx und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zwei Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Doppel-A-Lichtfunktion. Serienmässig eingebaute Innenbeleuchtung. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Viele separat angesetzte Details. An beiden Enden mit separat angesetzten Bremsschläuchen, Schraubenkupplungen und Steuerleitungen. Pufferhöhe nach NEM . Für einen Doppeltraktionsbetrieb liegen geöffnete Blenden, kürzere Steuerleitungen und eine Kuppelstange bei. Befahrbarer Mindestradius 360 mm ohne Beachtung des Lichtraumprofils. Länge über Puffer 29,3 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36971",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/18/56/18566006be587c627deff6ea2461d3721776787228.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

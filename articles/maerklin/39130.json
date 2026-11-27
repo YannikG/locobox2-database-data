@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39130",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39130",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "E 03 002",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 224.0
+  },
+  "description": "Vorbild: Elektrolokomotive E 03 002 der Deutschen Bundesbahn (DB). Vorserienlokomotive mit jeweils einer Lüfterreihe links und rechts, erhabener Zierleiste, Scherenstromabnehmern DBS 54 mit Wanisch-Wippe WB 15, Frontschürze und Pufferverkleidung. Farbgebung in purpurrot/beige. Beheimatet im Bahnbetriebswerk München Hbf. Betriebszustand 1965.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. 5-poliger Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Jeweils zwei Achsen in jedem Treibgestell über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher zur Überbrückung von kurzen stromlosen Stellen. Scherenstromabnehmer DBS 54 mit Wanisch-Wippe digital schaltbar. Lokaufbau mit vorbildgerecht nachgebildeter, erhabener Zierleist. Angesetzte Scheibenwischer. Angesetzte Griffstangen und Dachleitungen aus Metall. Zwei Lokführerfiguren im Führerstand 1. Führerstandrückwand mit vorbildgerechter Gestaltung. Schürzen für die Vitrine, Bremsleitungen, Steckdosen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 22,4 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39130",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/48/94/489428589721daa96bbf46c82bd167771783346403.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

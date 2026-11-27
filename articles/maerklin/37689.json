@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37689",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37689",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 260",
+    "number": "319-9",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Baureihe 260 der Deutschen Bundesbahn (DB). Purpurrote Grundfarbgebung. Dieselhydraulischer Antrieb mit Blindwelle. Betriebsnummer 260 319-9. Betriebszustand ab 1972.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Drei Achsen und Blindwelle angetrieben. Haftreifen . Neue Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Doppel-A-Licht schaltbar. Bühnengeländer aus Metall. Länge über Puffer 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37689",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b9/df/b9dfdcc2a7f4d2fa1d4f8962420d1fa81625659217.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

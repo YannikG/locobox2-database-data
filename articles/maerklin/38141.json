@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38141",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38141",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "141.R.1244",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 279.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive mit Öl-Tender 141.R.1244 für gemischten Betrieb, im optischen Zustand der Französischen Staatsbahnen ( SNCF ). Aktueller Betriebszustand, so wie die Lokomotive derzeit betriebsfähig beim Verein Mikado 1244 in Brugg in der Schweiz beheimatet ist.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Vier Achsen angetrieben, davon drei Achsen über Kuppelstangen. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Rauchgenerator . Fahrtrichtungsabhängig wechselndes Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Umschalten auf ein rotes Schlusslicht. Führerstandbeleuchtung, Fahrwerkbeleuchtung und Feuerbüchsen- / Brenner-Flackern jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Pufferhöhe an Lok und Tender nach NEM . Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre und Bremsschläuche liegen bei. Länge über Puffer ca. 27,9 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38141",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ad/13/ad13dc00db1c9636757b491b319712421724169619.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37784",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37784",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "Triebwagenzug ICE 3, Baureihe 403",
+    "number": null,
+    "livery": "railbow",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug ICE 3, Baureihe 403 der Deutschen Bahn AG ( DB AG ). Ein Endwagen BR 403.0, 1. Klasse, ein Trafowagen BR 403.1, 1. Klasse, ein Speisewagen \"Bordrestaurant\" BR 403.3, ein Trafowagen BR 403.6, 2. Klasse und ein Endwagen BR 403.5, 2. Klasse. Triebzug Tz 304 mit dem Taufnamen \"München\" in Gestaltung mit regenbogenfarbenem Streifen als \"railbow\". Betriebszustand ab Juli 2021.\n\nModell: 5-teilige Ausführung. Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb im Restaurantwagen eingebaut. 4 Achsen über Kardan angetrieben, Haftreifen . Führerstände der Endwagen mit Inneneinrichtung. Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Endwagen. Spezial-Kurzkupplungen mit Kulissenführung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter, konventionell in Betrieb, digital schaltbar. Fernlicht und Führerstandsbeleuchtung separat zuschaltbar. Serienmässig eingebaute Innenbeleuchtung, digital schaltbar. Die Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Länge des Zuges 142,2 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37784",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/91/d8/91d89bdabd015f25c6406de96215a28a1654084823.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

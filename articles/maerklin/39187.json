@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39187",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39187",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 218",
+    "number": "497-6",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 218 der Deutschen Bahn AG ( DB AG ), Fahrzeuginstandhaltung Cottbus. Dieselhydraulische Lokomotive mit elektrischer Zugheizung. Betriebsnummer 218 497-6. Betriebszustand ab 2021.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Alle Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils digital separat abschaltbar. Führerstandsbeleuchtung mit der Fahrtrichtung wechselnd, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Angesetzte Griffstangen seitlich und stirnseitig aus Metall. Detaillierte Pufferbohle mit den für die Baureihe typischen Schneeräumern. Bremsleitungen, Schraubenkupplung und geschlossene Schneeräumer liegen als separat ansteckbare Teile bei. Lokführerfigur im Führerstand sitzend. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39187",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/db/1d/db1d47784d3a33c4bea8e5ba97f713591625659244.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

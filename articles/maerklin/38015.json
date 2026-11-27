@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38015",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38015",
+  "releaseDate": "2024",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "K.Bay.Sts.B.",
+    "type": "Schnellzug-Dampflokomotive S 2/6",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "I",
+    "luepMm": 251.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive der bayerischen Gattung S 2/6 in grüner Grundfarbgebung mit schwarzer Rauchkammertür und rotem Fahrwerk. Nachbildung der erhaltenen Lokomotive im Verkehrsmuseum Nürnberg. Musealer Zustand als Lokomotive der Königlich Bayerischen Staatsbahn (K.Bay.Sts.B.) der Epoche I.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Serienmässig eingebauter Rauchsatz. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Zugbegegnungslicht und Führerstandsbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Detailliertes Fahrwerk mit durchbrochenem Barrenrahmen. Windschnittige Verkleidung von Rauchkammer, Kamin, Dom und Zylindergruppe sowie windschnittig gestaltetes Führerhaus. Kurzkupplung zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen separat bei. Länge über Puffer 25,1 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2024"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38015",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e4/eb/e4eb5a71343b22e12af638fb4c3b8dd21724158819.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

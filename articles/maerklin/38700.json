@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38700",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38700",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "US-Getriebe-Dampflokomotive Bauart Shay",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: US-Getriebe-Dampflokomotive Bauart Shay, Class D. Ausführung mit 4 Treibdrehgestellen. Antrieb über Kurbelwellen auf Gelenkwellen und über Kegelzahnräder auf die Drehgestelle. Mit charakteristisch nach links versetztem Kessel. Überwiegend im Einsatz bei amerikanischen Feld- und Waldbahnen, auf Strecken mit engen Kurven und starken Steigungen. Western Maryland Lok-Nummer 5. Betriebszustand der 1940er Jahre.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. Über Gelenkwellen und Kegelzahnräder alle Achsen in den 4 Treibdrehgestellen an Lok und Tender angetrieben. Haftreifen . Serienmässig eingebauter Rauchsatz. 1 Spitzensignal an Lok und Tender, mit der Fahrtrichtung wechselnd. Lichtwechsel und Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Mit Pufferspeicher. Hinten am Tender und vorne an der Lokomotive punktgelagerte Normkupplungsaufnahmen mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Lokführer und Heizer im Führerstand . Länge 25,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38700",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/5e/bb/5ebb45e598d369f8518439143792def71740495610.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

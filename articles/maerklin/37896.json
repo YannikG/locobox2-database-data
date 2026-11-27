@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37896",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37896",
+  "releaseDate": "2023",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 360",
+    "number": "204-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 120.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive Baureihe 360 der Deutschen Bahn AG ( DB AG ). Orientrote Grundfarbgebung. Dieselhydraulischer Antrieb mit Blindwelle. Betriebsnummer 360 204-2. Betriebszustand um 1999.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. Drei Achsen und Blindwelle angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Rangierlicht (Doppel-A-Licht) digital schaltbar. Telex - Kupplung vorne und hinten jeweils separat digital schaltbar. Kupplungswalzer digital schaltbar. Bühnengeländer aus Metall. Die Lokomotive befindet sich in einem stark ausgebleichten Zustand. Länge über Puffer ca. 12,0 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2023"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37896",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/d4/33/d433b8083c27270a7df52385c1b5187a1692424817.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

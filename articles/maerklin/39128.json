@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39128",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39128",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR E10.3",
+    "number": "384",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 189.0
+  },
+  "description": "Vorbild: Elektrolokomotive Baureihe E10.3 der Deutschen Bundesbahn (DB). Lokkasten mit aerodynamischer Front, der sogenannten Bügelfalte, mit durchgehendem Lüfterband, umlaufender Regenrinne und stirnseitigen Griffstangen. Mit Pufferverkleidung und Schürze. Stahlblauer Lok-Aufbau mit steingrauem Rahmen. Lok-Betriebsnummer E10 384. Betriebszustand um 1967.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Doppel-A-Licht-Funktion. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit Stromabnehmern der Bauart DBS 54. Stromabnehmer digital heb- und senkbar. Pufferhöhe nach NEM . Kinematikgeführte Kurzkupplungen. Bremsleitungen, Heizleitungen und Schraubenkupplungen liegen als separat ansteckbare Teile bei. Länge über Puffer 18,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39128",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/ad/15/ad15d2430686762b4132fb9332bc56ad1756209607.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

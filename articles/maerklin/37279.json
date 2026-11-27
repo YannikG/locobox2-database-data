@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37279",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37279",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 359.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "Serie 59",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 186.0
+  },
+  "description": "Vorbild: Diesellokomotive Serie 59 der Belgischen Staatsbahnen (SNCB/NMBS). Ausführung mit 2 Doppellampen unten und einem zusätzlichen Spitzenlicht oben. Rechteckpuffer. Lok-Betriebsnummern 5905. Betriebszustand 1989.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb. 2 Achsen angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien Leuchtdioden ( LED ). Mit Pufferspeicher. Metallgriffstangen und weitere Details angesetzt. Kupplungen gegen Frontschürzen austauschbar. Beiliegende Bremsschläuche an der Pufferbohle ansteckbar. Länge über Puffer ca. 18,6 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37279",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/58/00/5800409441bdf9122af30e2ff25874711745942430.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39029",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39029",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 659.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DD",
+    "operator": "DR",
+    "type": "BR 18.3",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 272.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Schnellzug-Dampflokomotive 18 314 mit Öl-Hauptfeuerung und Öl-Tender 2´2´T34 der Deutschen Reichsbahn der DDR (DR/DDR). Umbau-Version als Versuchslokomotive der VES-M Halle (Saale). Ausführung mit Reko-Kessel und Teilverkleidung, auf Basis der Dampflokomotive 18 314 (ehemalige Badische IVh). Mit Witte-Windleitblechen und einseitiger Indusi . Betriebszustand um 1968.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Tender weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz, mit geschwindigkeitsabhängigem, dynamischem Rauchausstoss. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Zusätzlich sind vorne an der Lok zwei rote Lampen digital schaltbar. Führerstandbeleuchtung und Fahrwerkbeleuchtung separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Kurzkupplung mit Kinematik zwischen Lok und Tender. Am Tender kinematikgeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Für grosse Radien oder Vitrine liegt eine Verkleidung ohne Radausschnitt unterhalb des Führerhauses zum Austausch bei. Kolbenstangenschutzrohre und Bremsschläuche liegen ebenfalls bei. Länge über Puffer 27,2 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39029",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0f/21/0f21b4c1cb668844b575802231dda16c1745946018.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37798",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37798",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 799.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Hochgeschwindigkeitszug TGV INOUI",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Hochgeschwindigkeitszug TGV INOUI (Euroduplex). Premium-Angebot der Französischen Staatsbahnen ( SNCF ), mit mehr Komfort und Service, wie z.B. WLAN. Ausführung für den Verkehr zwischen Paris und München. 2 Triebköpfe (M1 und M2), 1 Doppelstock-Übergangswagen (R1) 1. Klasse, 1 Doppelstock-Übergangswagen (R8) 2. Klasse. Triebzugnummer 4713. Aktueller Betriebszustand 2025.\n\nModell: 4-teilige Grundgarnitur. Beide Triebköpfe (M1 und M2) motorisiert. Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb in beiden Triebköpfen, zentral eingebaut. Jeweils 4 Achsen über Kardan angetrieben. Haftreifen . Serienmässig eingebaute Innenbeleuchtung. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal , 2 rote Schlusslichter und Innenbeleuchtung konventionell in Betrieb, digital schaltbar. Drittes Spitzenlicht für französischen Lichtwechsel digital separat abschaltbar (Lichtfunktion). Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Führerstände in den Triebköpfen mit Inneneinrichtung. Separat angesetzte Griffstangen aus Metall. Triebkopf und Übergangswagen sind paarweise fest miteinander gekuppelt, mit Spezial-Kurzkupplungen und Kulissenführung. Zusätzliche Kulissenführung im Jakobs-Drehgestell . Fahrtrichtungsabhängige Stromversorgung über den jeweils vorderen Triebkopf. Innenbeleuchtung wird versorgt über die durchgehende elektrische Verbindung des ganzen Zuges. Jeder Triebkopf mit 2 Einholm-Stromabnehmer in unterschiedlichen Ausführungen mit jeweils einer Wippe für DB und SNCF . Stromabnehmer sind nur mechanisch, nicht elektrisch funktionsfähig. Massstäbliche Nachbildung, daher befahrbarer Gleisbogen ab Mindestradius 360 mm bei freiem Lichtraum. Länge der 4-teiligen Grundgarnitur 102 cm.",
+  "categories": [
+    "lokomotive",
+    "triebzug",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37798",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/0c/61/0c6101c75c415e951aae0050625e3d3f1765825221.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

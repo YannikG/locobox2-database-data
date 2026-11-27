@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36505",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36505",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Diesellok BR V 61, DB, Ep. III",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive der fiktiven Baureihe V 61 der Deutschen Bundesbahn. Nachdem die Privat- und Industriebahnen mit der von Henschel in Kassel gelieferten DHG 500 überaus zufrieden waren, bekam dies auch die grosse Deutsche Bundesbahn mit. Die Maschinen der Serie DHG 500 sind vom Antrieb gesehen, erheblich moderner als die Dieselloks der Baureihe V 60, welche einen Stangenantrieb haben und mittels Blindwelle angetrieben werden. Da die Wartung recht personal- und kostenintensiv ist, entschloss sich die Deutsche Bundesbahn, es den Privat- und Industriebahnen nachzutun und einige der fortan als Baureihe V 61 geführten Loks bei Henschel zu bestellen.\n\nModell: Lokomotive mit Digital- Decoder und Spezialmotor sowie eingebauter Geräuschelektronik. 1 Achse angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36505",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/04/10/04101858943539e2e4bdd894bcc48b081734116411.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38135",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38135",
+  "releaseDate": "2025",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Dieseltriebwagen Baureihe VT 88.9 - das",
+    "number": null,
+    "livery": "Schweineschnäuzchen",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "III"
+  },
+  "description": "Vorbild: Dieseltriebwagen Cvt-34 „Wismarer Schienenbus“ (Typ \"Hannover A\") als VT 88.9 der DB. Farbgebung purpurrot. Zustand um 1950. VT 88 902, Nürnberg.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse . 2 Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzenlicht am Führerstand 2 und 1 jeweils separat digital abschaltbar. Spitzenlicht oben separat digital schaltbar. Serienmässig eingebaute Innenbeleuchtung digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Angesetzte Griffstangen aus Metall. Länge über Stossbügel ca. 13,5 cm.",
+  "categories": [
+    "lokomotive",
+    "triebwagen",
+    "dieseltriebwagen",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2025"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38135",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/1e/56/1e56c9ba89fc0889768846d2374c2d321768899604.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37088",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37088",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 539.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 086",
+    "number": "795-2",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IV",
+    "luepMm": 160.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Tender-Dampflokomotive Baureihe 086 der Deutschen Bundesbahn (DB). Grundfarbgebung schwarz mit rotem Fahrwerk. Ausführung mit 4 Kesselaufbauten. Geschweisste Wasserkästen mit langen Ausschnitten über den Zylindern und gerundeter Kante. Dreilicht-Spitzensignal mit DB-Reflexglas-Lampen. Läutewerk, Turbodynamo links, Rauchkammertür ohne Zentralverschluss mit Nummernschild mittig, ohne Indusi . Betriebsnummer 086 795-2. Beheimatung BD Nürnberg, Bw Nürnberg Rbf. Betriebszustand um 1969/70.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Licht- und Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 4 Achsen angetrieben. Haftreifen . Lokomotive weitgehend aus Metall. Serienmässig eingebauter Raucheinsatz. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und zwei rote Schlusslichter sowie Raucheinsatz konventionell in Betrieb, digital schaltbar. Doppel-A-Licht. Führerstandbeleuchtung zusätzlich digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Telex - Kupplung auf beiden Lokseiten jeweils separat digital schaltbar. Kupplungswalzer . Zahlreiche angesetzte Griffstangen und Leitungen aus Metall. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre, Bremsschläuche, Heizleitungen und Schraubenkupplungsimitationen sowie ein Lokführer und Heizer liegen separat bei. Länge über Puffer 16,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37088",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/96/ce/96cea11c0b838d56c29395c87fef68161776787222.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

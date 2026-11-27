@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37197",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37197",
+  "releaseDate": "2021",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DRG",
+    "type": "BR 17",
+    "number": "008",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "II",
+    "luepMm": 240.0,
+    "minRadiusMm": 360.0
+  },
+  "description": "Vorbild: Dampflokomotive BR 17.0 der Deutschen Reichsbahn-Gesellschaft ( DRG ), frühere preussische S 10. Museumslok des Museums für Verkehr und Technik in Berlin. Beschriftung und Ausführung als 17 008 im Betriebszustand der Epoche II um 1932.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse im Kessel. 3 Achsen angetrieben. Haftreifen . Lokomotive und Kohlentender weitgehend aus Metall. Rauchsatz ist eingebaut. Fahrtrichtungsabhängig wechselndes Zweilicht-Spitzensignal und Rauchsatz konventionell in Betrieb, digital schaltbar. Führerstandsbeleuchtung, Feuerbüchsenflackern und Gegenzugsignal zusätzlich jeweils separat digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kulissengeführte Kurzkupplung mit NEM -Schacht. Befahrbarer Mindestradius 360 mm. Kolbenstangenschutzrohre liegen bei. Es liegen je ein Lokführer- und Heizerfigur zum nachträglichen Einbau im Führerstand bei. Ein Booklet informiert über die Geschichte der Lokomotive. Ein Booklet informiert über die Geschichte der Lokomotive. Länge über Puffer ca. 24,0 cm.",
+  "categories": [
+    "lokomotive",
+    "dampflokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2021"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37197",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/e8/63/e8636dcdf275f38b4153a7d0ce7f709b1619157637.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

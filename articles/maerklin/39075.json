@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-39075",
+  "manufacturer": "Maerklin",
+  "articleNumber": "39075",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "Unbekannt",
+    "type": "Class 66",
+    "number": "80",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 247.0
+  },
+  "description": "Vorbild: Dieselelektrische Güterzuglokomotive Class 66. Lokomotive in fiktiver schwarzer Grundfarbgebung als Privatbahn-Lokomotive. Lok-Betriebsnummer 92 80 1 266 202-1. Betriebszustand 2021.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräusch- und Lichtfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. 4 Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung digital schaltbar. Steuerpultbeleuchtung digital schaltbar. Weitere Lichtfunktionen wie bspw. Fernlicht, Rangier-Sonderzeichen und Blinklicht digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Serienmässig eingebauter Rauchgenerator mit dynamischem Rauchausstoss. Viele separat angesetzte Details. Detaillierte Pufferbohle. Diverse Zurüstteile liegen bei. Länge über Puffer ca. 24,7 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/39075",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/36/f2/36f2d1566e10e217bcb23656479f7c151648728027.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

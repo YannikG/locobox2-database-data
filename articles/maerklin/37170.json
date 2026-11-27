@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-37170",
+  "manufacturer": "Maerklin",
+  "articleNumber": "37170",
+  "releaseDate": "2022",
+  "uvp": {
+    "amount": 0.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 212",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 141.0
+  },
+  "description": "Vorbild: Diesellokomotive Baureihe 212 der Salzburger Eisenbahn Transport Logistik GmbH (SETG). Betriebsnummer V100.57 (ehemalige 212 357-8 der Deutschen Bundesbahn). Gelbgrüne/Lichtgraue Grundfarbgebung. Betriebszustand ab 2020.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse zentral eingebaut. Alle 4 Achsen über Kardan angetrieben. Haftreifen . Telex - Kupplung auf beiden Lokseiten jeweils separat digital schaltbar. Kupplungswalzer . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Spitzensignal an beiden Lokseiten jeweils separat digital abschaltbar. Wenn Spitzensignal an beiden Lokseiten abgeschaltet ist, dann beidseitige Funktion des Doppel-A-Lichtes. Führerstandsbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Detaillierte Pufferbohle. Ansteckbare Bremsschläuche liegen bei. Länge über Puffer 14,1 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2022"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/37170",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/b7/30/b730398d84c5c1c4577a0ea1a83d6bd51663070403.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:43Z"
+}

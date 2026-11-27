@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36702",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36702",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 139.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DBG",
+    "type": "Diesellok Baureihe 367",
+    "number": null,
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 112.0
+  },
+  "description": "Vorbild: Diesel- Rangierlokomotive der fiktiven Baureihe 367 der Deutschen Bahn Gleisbau GmbH (DBG). Nachdem die Privat- und Industriebahnen mit den von Henschel in Kassel im Zeitraum von 1973 bis 1985 gelieferten, insgesamt 55 Maschinen des Typs DHG 700 überaus zufrieden waren und auch nach vielen Jahrzehnten des Betriebs noch immer sind, bekam dies auch die Deutsche Bahn Gleisbau GmbH mit, die zum Zeitpunkt 2005/2006 unter akutem Lokmangel leidete. Nun wurden die überaus robusten Maschinen des Typs DHG 700 bereits seit 20 Jahren nicht mehr neu hergestellt. Glück hatte das zur Deutschen Bahn AG gehörende Tochterunternehmen DBG, als just in dem Moment eine Industriebahn ihren Betrieb einstellte und somit sechs Maschinen dieses Typs vakant wurden. Die DBG nutzte die Gelegenheit, erwarb alle sechs Maschinen und gab ihnen ein neues Betätigungsfeld, in dem sie die Loks fortan im sogenannten \"Az-Dienst\" (Arbeitszug-Dienst) einsetzte. Zuvor mussten die sechs neuen Maschinen noch in das Nummernschema der Bahn eingereiht werden. Da es noch keine Lokomotive dieses Typs im Bestand der DB AG bzw. einem ihrer Tochterunternehmen gab, wurden die Neuankömmlinge als Baureihe 367 eingereiht und erhielten die Betriebsnummern 367 001-5 bis 367 006-4.\n\nModell: Lokomotive mit Digital- Decoder und Spezialmotor sowie eingebauter Geräuschelektronik. 1 Achse angetrieben, Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar. Blinklicht auf dem Führerhausdach. Kupplungshaken . Länge über Puffer 11,2 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36702",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/94/e2/94e221e0603a11a77cf00946cea56d221765825223.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

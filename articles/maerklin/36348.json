@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-36348",
+  "manufacturer": "Maerklin",
+  "articleNumber": "36348",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 379.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "DE",
+    "operator": "DB AG",
+    "type": "BR 335",
+    "number": "227-5",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "V",
+    "luepMm": 93.0
+  },
+  "description": "Vorbild: Dieselrangierlokomotive Baureihe 335 (Köf III) der Deutschen Bahn AG ( DB AG ). Farbgebung in ausgeblichenem Orientrot. Ausführung mit Frontlüfter, Funkfernsteuerung und Rangierkupplung. Betriebsnummer 335 227-5. Betriebszustand 1997.\n\nModell: Mit Digital- Decoder mfx+ und Geräuschfunktionen. Geregelter Hochleistungsantrieb. Beide Achsen angetrieben. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und 2 rote Schlusslichter konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweissen Leuchtdioden ( LED ). Spitzensignal an beiden Seiten abschaltbar. Doppel-A-Licht-Funktion. Mit Pufferspeicher. Telex - Kupplung vorne und hinten getrennt digital schaltbar. Griffstangen angesetzt. Bremsleitungen und die Imitationen der automatischen Rangierkupplung liegen als separat ansteckbare Teile bei. Länge über Puffer ca. 9,3 cm.",
+  "categories": [
+    "lokomotive",
+    "diesellokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/36348",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/3a/91/3a91b5f643153f2420683e0766ed86431787756426.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}

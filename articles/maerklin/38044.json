@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "maerklin-38044",
+  "manufacturer": "Maerklin",
+  "articleNumber": "38044",
+  "releaseDate": "2026",
+  "uvp": {
+    "amount": 449.0,
+    "currency": "EUR"
+  },
+  "model": {
+    "country": "CH",
+    "operator": "BLS",
+    "type": "Ae 4/4",
+    "number": "251",
+    "livery": null,
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI",
+    "luepMm": 179.0
+  },
+  "description": "Vorbild: Elektrolokomotive Ae 4/4 der Bern-Lötschberg-Simplon Bahn (BLS). Nussbraune Grundfarbgebung. Betriebsnummer 251. Aktueller Betriebszustand als betriebsfähige Museumslokomotive der BLS Historic.\n\nModell: Mit Digital- Decoder mfx+ und umfangreichen Geräuschfunktionen. Geregelter Hochleistungsantrieb mit Schwungmasse , zentral eingebaut. Alle vier Achsen über Kardan angetrieben. Haftreifen . Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und ein weisses Schlusslicht ( Schweizer Lichtwechsel ) konventionell in Betrieb, digital schaltbar. Beleuchtung umschaltbar bei Solofahrt auf ein rotes und zwei rote Schlusslichter. Spitzensignal an Lokseite 2 und 1 jeweils separat digital abschaltbar. Warn- und Falschfahrsignale sowie Fernlicht sind digital schaltbar. Führerstands- und Maschinenraumbeleuchtung digital schaltbar. Beleuchtung mit wartungsfreien warmweissen und roten Leuchtdioden ( LED ). Mit Pufferspeicher. Detailliert ausgeführte Dachaufbauten mit einem neu konstruierten Stromabnehmer. Stromabnehmer digital heb- und senkbar. Viele separat angesetzte Details. Pufferhöhe nach NEM . Bremsleitungen, Schraubenkupplungen und geschlossene Schienenräumer liegen als separat ansteckbare Teile bei. Länge über Puffer 17,9 cm.",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "maerklin-neuheiten-2026"
+  ],
+  "source": {
+    "url": "https://www.maerklin.de/de/produkte/details/article/38044",
+    "notes": "Daten von der Märklin-Produktdatenbank, automatisch geupdated.",
+    "imageUrl": "https://static.maerklin.de/damcontent/db/af/dbaf988b0c95f85de7e39d9a3a56adff1791898339.jpg"
+  },
+  "updatedAt": "2026-11-27T09:53:42Z"
+}
