@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10055",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10055",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": null,
+    "livery": "grau/violett, En Voyage",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "BB 22200, grau/violett, En Voyage, carmillon Logo, Frontnummer, kleines Führerhaus, Wappen Dole",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2841-bb-22200-grau-violett-en-voyage-carmillon-logo-frontnummer-kleines-fuhrerhaus-wappen-dole.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3081-superlarge_default/bb-22200-grau-violett-en-voyage-carmillon-logo-frontnummer-kleines-fuhrerhaus-wappen-dole.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

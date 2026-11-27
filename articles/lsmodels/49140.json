@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49140",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49140",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "S2",
+    "number": null,
+    "livery": "blau, Farbgebung 1940, CIWL, Rotes-Kreuz Logo, ohne Monogramm",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IIIB"
+  },
+  "description": "S2, blau, Farbgebung 1940, CIWL, Rotes-Kreuz Logo, ohne Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2289-s2-blau-farbgebung-1940-ciwl-rotes-kreuz-logo-ohne-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/975-superlarge_default/s2-blau-farbgebung-1940-ciwl-rotes-kreuz-logo-ohne-monogramm.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

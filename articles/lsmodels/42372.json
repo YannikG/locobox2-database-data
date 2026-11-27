@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-42372",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "42372",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "I10",
+    "number": null,
+    "livery": "B, orange, weisse Linie, mit Klimaanlage",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "I10 B, orange, weisse Linie, mit Klimaanlage",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2852-i10-b-orange-weisse-linie-mit-klimaanlage.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3138-superlarge_default/i10-b-orange-weisse-linie-mit-klimaanlage.jpg"
+  },
+  "updatedAt": "2026-11-21T22:55:02Z"
+}

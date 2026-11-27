@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16091",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16091",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "verkehrsrot, WIDMER RAIL SERVICE",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "120, verkehrsrot, WIDMER RAIL SERVICE",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2815-120-verkehrsrot-widmer-rail-service.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2870-superlarge_default/120-verkehrsrot-widmer-rail-service.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

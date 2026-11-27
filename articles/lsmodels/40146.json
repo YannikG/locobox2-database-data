@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40146",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40146",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Gril express",
+    "number": null,
+    "livery": "Corail, Nudel-Logo",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "Gril express, Corail, Nudel-Logo",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2765-gril-express-corail-nudel-logo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

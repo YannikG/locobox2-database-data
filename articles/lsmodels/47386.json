@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47386",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47386",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Bpm",
+    "number": null,
+    "livery": "Design 2022, weiss",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "Bpm, Design 2022, weiss, schwarzes Fensterband, rote Türen, rote Dach Linie, Fahrad Logo",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2875-bpm-design-2022-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo-5404039900266.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3289-superlarge_default/bpm-design-2022-weiss-schwarzes-fensterband-rote-turen-rote-dach-linie-fahrad-logo.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

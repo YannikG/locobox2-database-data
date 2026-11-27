@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16590",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16590",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "rot/beige, geänderte Front, DB Logo, Dach Vorserienversion",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IVB"
+  },
+  "description": "120, rot/beige, geänderte Front, DB Logo, Dach Vorserienversion",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2821-120-rot-beige-geanderte-front-db-logo-dach-vorserienversion.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2893-superlarge_default/120-rot-beige-geanderte-front-db-logo-dach-vorserienversion.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12574",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12574",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 21",
+    "number": null,
+    "livery": "blau, gelbe Linie, 1. Serie, mit Klimaanlage, Magelan Logo",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "21xx, blau, gelbe Linie, 1. Serie, mit Klimaanlage, Magelan Logo",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2745-21xx-blau-gelbe-linie-1-serie-mit-klimaanlage-magelan-logo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2833-superlarge_default/21xx-blau-gelbe-linie-1-serie-mit-klimaanlage-magelan-logo.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12566",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12566",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 27",
+    "number": null,
+    "livery": "blau, gelbe Linie, 1.Serie, mit Klimaanlage, Magelan",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "27xx, blau, gelbe Linie, 1.Serie, mit Klimaanlage, Magelan",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2743-27xx-blau-gelbe-linie-1serie-mit-klimaanlage-magelan.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2831-superlarge_default/27xx-blau-gelbe-linie-1serie-mit-klimaanlage-magelan.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

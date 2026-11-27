@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47394",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47394",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Apm",
+    "number": null,
+    "livery": "Gotthard Panorama Express",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Apm, Gotthard Panorama Express",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2885-apm-gotthard-panorama-express.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3305-superlarge_default/apm-gotthard-panorama-express.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

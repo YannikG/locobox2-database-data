@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16506",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16506",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ET 403",
+    "number": null,
+    "livery": "gelb/grau, Lufthansa Airport Express, 4-teilig, Variante",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IVC-VA"
+  },
+  "description": "ET 403, gelb/grau, Lufthansa Airport Express, 4-teilig, Variante",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2554-et-403-gelb-grau-lufthansa-airport-express-4-teilig-variante.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1676-superlarge_default/et-403-gelb-grau-lufthansa-airport-express-4-teilig-variante.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

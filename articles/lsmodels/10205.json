@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10205",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10205",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 7200",
+    "number": null,
+    "livery": "grau/violett, En Voyage, Mützenlogo, Frontnummer, grosses Fûhrerhaus",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V"
+  },
+  "description": "BB 7200, grau/violett, En Voyage, Mützenlogo, Frontnummer, grosses Fûhrerhaus",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2842-bb-7200-grau-violett-en-voyage-mutzenlogo-frontnummer-grosses-fuhrerhaus.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3086-superlarge_default/bb-7200-grau-violett-en-voyage-mutzenlogo-frontnummer-grosses-fuhrerhaus.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

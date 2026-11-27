@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-17118",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "17118",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB Cargo",
+    "type": "Vectron",
+    "number": null,
+    "livery": "SBB Cargo/Shadowpiercer, 4 pantographs",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "SBB Cargo/Shadowpiercer, 4 pantographs, Ep. VI (2019) 91 80 6193 657-4 D-DISPO",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2652-sbb-cargo-shadowpiercer-4-pantographs-ep-vi-2019-91-80-6193-657-4-d-dispo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2324-superlarge_default/sbb-cargo-shadowpiercer-4-pantographs-ep-vi-2019-91-80-6193-657-4-d-dispo.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

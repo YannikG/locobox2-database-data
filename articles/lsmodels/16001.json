@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16001",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16001",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "ET 403",
+    "number": null,
+    "livery": "grau/rot/schwarz, IC, 4-teilig",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IVB"
+  },
+  "description": "ET 403, grau/rot/schwarz, IC, 4-teilig",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2528-et-403-grau-rot-schwarz-ic-4-teilig-5404039900297.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1608-superlarge_default/et-403-grau-rot-schwarz-ic-4-teilig.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

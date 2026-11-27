@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11708",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11708",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 7200",
+    "number": "107258",
+    "livery": "livrée Corail+, logo carmillon, dépôt Toulouse",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "BB 107258 livrée Corail+, logo carmillon, dépôt Toulouse",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2726-bb-107258-livree-corail-logo-carmillon-depot-toulouse.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2787-superlarge_default/bb-107258-livree-corail-logo-carmillon-depot-toulouse.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

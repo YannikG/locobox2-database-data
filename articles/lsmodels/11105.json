@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11105",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11105",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": "22312",
+    "livery": "livrée gris béton/orange, plaques, 200 km/h",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "BB22312, livrée gris béton/orange, plaques, 200 km/h",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2722-bb22312-livree-gris-beton-orange-plaques-200-km-h.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

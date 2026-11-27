@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10313",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10313",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 6500",
+    "number": "6574",
+    "livery": "grey/red/orange, livery ARZENS, Nudel-Logo,Paris Sud Ouest depot",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "CC 6574 grey/red/orange, livery ARZENS, Nudel-Logo,Paris Sud Ouest depot",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2693-cc-6574-grey-red-orange-livery-arzens-nudel-logoparis-sud-ouest-depot.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

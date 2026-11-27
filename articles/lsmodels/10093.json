@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-10093",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "10093",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "AGC",
+    "number": "27877",
+    "livery": "blau/metallic grau, Alsace, vierteilig, DB Zulassung",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "Z 27877, blau/metallic grau, Alsace, vierteilig, DB Zulassung",
+  "categories": [
+    "triebwagen",
+    "elektrotriebwagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2862-z-27877-blau-metallic-grau-alsace-vierteilig-db-zulassung.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3177-superlarge_default/z-27877-blau-metallic-grau-alsace-vierteilig-db-zulassung.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

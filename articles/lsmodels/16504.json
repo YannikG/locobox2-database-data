@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16504",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16504",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "Grossraumwagen",
+    "number": null,
+    "livery": "grau/rot/schwarz, IC, Ergänzungswagen",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "IVB"
+  },
+  "description": "Grossraumwagen, grau/rot/schwarz, IC, Ergänzungswagen",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2551-grossraumwagen-grau-rot-schwarz-ic-erganzungswagen-5404039900402.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1667-superlarge_default/grossraumwagen-grau-rot-schwarz-ic-erganzungswagen.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

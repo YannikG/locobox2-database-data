@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-12597",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "12597",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "HLE 12",
+    "number": null,
+    "livery": "blau, gelbe Linie, Magelan Logo, Klimaanlage, UIC Nummer, Merelbeke",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "12xx, blau, gelbe Linie, Magelan Logo, Klimaanlage, UIC Nummer, Merelbeke",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2747-12xx-blau-gelbe-linie-magelan-logo-klimaanlage-uic-nummer-merelbeke.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2837-superlarge_default/12xx-blau-gelbe-linie-magelan-logo-klimaanlage-uic-nummer-merelbeke.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

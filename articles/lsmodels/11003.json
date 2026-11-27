@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11003",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11003",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "CC 6500",
+    "number": null,
+    "livery": "Set 1 CAPITOLE CC 6500 + GC + GC, Metallisches Grau",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Set 1 CAPITOLE CC 6500 + GC + GC, Metallisches Grau, Ursprungsversion, Sud Ouest, 200 Km/h",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2887-set-1-capitole-cc-6500-gc-gc-metallisches-grau-ursprungsversion-sud-ouest-200-km-h.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3321-superlarge_default/set-1-capitole-cc-6500-gc-gc-metallisches-grau-ursprungsversion-sud-ouest-200-km-h.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

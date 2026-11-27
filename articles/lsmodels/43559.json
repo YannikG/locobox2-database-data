@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-43559",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "43559",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "M6 Set",
+    "number": null,
+    "livery": "B + B, weiss, rote Türen, gelbe Front, EUROCITY",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "BDx + B + B, weiss, rote Türen, gelbe Front, EUROCITY",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2829-bdx-b-b-weiss-rote-turen-gelbe-front-eurocity.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2915-superlarge_default/bdx-b-b-weiss-rote-turen-gelbe-front-eurocity.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40083",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40083",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Grand Confort Set",
+    "number": null,
+    "livery": "Metallisches Grau, orange Linie, TEE Band",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV"
+  },
+  "description": "Set 2 Grand Confort, Metallisches Grau, orange Linie, TEE Band",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2892-set-2-grand-confort-metallisches-grau-orange-linie-tee-band.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3420-superlarge_default/set-2-grand-confort-metallisches-grau-orange-linie-tee-band.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

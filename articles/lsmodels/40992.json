@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-40992",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "40992",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "Vtu",
+    "number": null,
+    "livery": "OUIGO, toiture gris foncé",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "Vtu OUIGO, toiture gris foncé",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2836-vtu-ouigo-toiture-gris-fonce.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2995-superlarge_default/vtu-ouigo-toiture-gris-fonce.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

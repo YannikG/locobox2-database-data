@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16588",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16588",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "verkehrsrot, kleiner Trapez, altes DB Logo, Dach Serienversion",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "120, verkehrsrot, kleiner Trapez, altes DB Logo, Dach Serienversion",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2818-120-verkehrsrot-kleiner-trapez-altes-db-logo-dach-serienversion.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2890-superlarge_default/120-verkehrsrot-kleiner-trapez-altes-db-logo-dach-serienversion.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

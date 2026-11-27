@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16020",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16020",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 184",
+    "number": "184 103-2",
+    "livery": "AEG, blau, 15 kV 16 2/3 Hz/25 kV 50 Hz, Saarbrücken",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IVC"
+  },
+  "description": "184 103-2, AEG, blau, 15 kV 16 2/3 Hz/25 kV 50 Hz, Saarbrücken",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2540-184-103-2-aeg-blau-15-kv-16-2-3-hz-25-kv-50-hz-saarbrucken.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/1644-superlarge_default/184-103-2-aeg-blau-15-kv-16-2-3-hz-25-kv-50-hz-saarbrucken.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47258",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47258",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "EW I",
+    "number": null,
+    "livery": "rot, silbernes Dach",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "III"
+  },
+  "description": "EW I, rot, silbernes Dach, alte Aufschriften, Restaurant Aufschrift in Erleichterung",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2771-ew-i-rot-silbernes-dach-alte-aufschriften-restaurant-aufschrift-in-erleichterung.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated."
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

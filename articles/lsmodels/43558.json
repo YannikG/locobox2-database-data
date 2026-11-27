@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-43558",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "43558",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "M6 Set",
+    "number": null,
+    "livery": "weiss, rote Türen, gelbe Front, OUIGO",
+    "scale": "H0",
+    "electricSystem": "AC-Digital",
+    "era": "VI"
+  },
+  "description": "A + B + B, weiss, rote Türen, gelbe Front, OUIGO",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2828-a-b-b-weiss-rote-turen-gelbe-front-ouigo.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2912-superlarge_default/a-b-b-weiss-rote-turen-gelbe-front-ouigo.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-49148",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "49148",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "CIWL",
+    "type": "S1",
+    "number": null,
+    "livery": "blau, Farbgebung 1956, CIWL, Chassis lang, Dach englisch, Monogramm",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IIIB-C"
+  },
+  "description": "S1, blau, Farbgebung 1956, CIWL, Chassis lang, Dach englisch, Monogramm",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2834-s1-blau-farbgebung-1956-ciwl-chassis-lang-dach-englisch-monogramm.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2942-superlarge_default/s1-blau-farbgebung-1956-ciwl-chassis-lang-dach-englisch-monogramm.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

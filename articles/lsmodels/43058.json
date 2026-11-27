@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-43058",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "43058",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "BE",
+    "operator": "SNCB",
+    "type": "M6 Set",
+    "number": null,
+    "livery": "OUIGO, Untergestell mit zwei Gittern",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "A + B + B, OUIGO, Untergestell mit zwei Gittern",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2824-a-b-b-ouigo-untergestell-mit-zwei-gittern.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2900-superlarge_default/a-b-b-ouigo-untergestell-mit-zwei-gittern.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

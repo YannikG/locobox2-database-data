@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-16088",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "16088",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "DE",
+    "operator": "DB",
+    "type": "BR 120",
+    "number": null,
+    "livery": "verkehrsrot, geänderte Frontausstattung",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "VI"
+  },
+  "description": "120, verkehrsrot, geänderte Frontausstattung, altes DB Logo, Stromabnehmer SBS 81, Dach Serienversion",
+  "categories": [
+    "lokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2813-120-verkehrsrot-geanderte-frontausstattung-altes-db-logo-stromabnehmer-sbs-81-dach-serienversion.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/2868-superlarge_default/120-verkehrsrot-geanderte-frontausstattung-altes-db-logo-stromabnehmer-sbs-81-dach-serienversion.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:36Z"
+}

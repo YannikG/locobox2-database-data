@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-47395",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "47395",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "CH",
+    "operator": "SBB",
+    "type": "Apm",
+    "number": null,
+    "livery": "Gotthard Panorama Ursprungsausführung Zebra-Anstrich",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "V-VI"
+  },
+  "description": "Apm, Gotthard Panorama Ursprungsausführung Zebra-Anstrich, Nichtraucher/Raucher",
+  "categories": [
+    "wagen"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/ausverkauft/2886-apm-gotthard-panorama-ursprungsausfuhrung-zebra-anstrich-nichtraucher-raucher.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3308-superlarge_default/apm-gotthard-panorama-ursprungsausfuhrung-zebra-anstrich-nichtraucher-raucher.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}

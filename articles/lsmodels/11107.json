@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "lsmodels-11107",
+  "manufacturer": "L.S.Models",
+  "articleNumber": "11107",
+  "releaseDate": null,
+  "uvp": null,
+  "model": {
+    "country": "FR",
+    "operator": "SNCF",
+    "type": "BB 22200",
+    "number": null,
+    "livery": "grau/orange, Nudel-Logo, Frontnummer, kleines Führerhaus",
+    "scale": "H0",
+    "electricSystem": "DC-Analog",
+    "era": "IV-V"
+  },
+  "description": "BB 22200, grau/orange, Nudel-Logo, Frontnummer, kleines Führerhaus",
+  "categories": [
+    "lokomotive",
+    "elektrolokomotive"
+  ],
+  "tags": [
+    "lsmodels-neuheiten"
+  ],
+  "source": {
+    "url": "https://lsmodels.eu/de/im-einzelhandel/2889-bb-22200-grau-orange-nudel-logo-frontnummer-kleines-fuhrerhaus.html",
+    "notes": "Daten von lsmodels.eu, automatisch geupdated.",
+    "imageUrl": "https://lsmodels.eu/3363-superlarge_default/bb-22200-grau-orange-nudel-logo-frontnummer-kleines-fuhrerhaus.jpg"
+  },
+  "updatedAt": "2026-11-21T22:54:20Z"
+}
