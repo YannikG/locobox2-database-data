@@ -53,13 +53,23 @@ for (const [t, n] of counts) {
   groups.get(k).push({ type: t, count: n });
 }
 
+const prefixOf = (t) =>
+  (t.match(/^(BR|Rh|Re|Ae|Reihe|Baureihe|Class)\s/i)?.[1] ?? "(kein)").toLowerCase();
 const multi = [...groups.entries()]
   .filter(([, v]) => v.length > 1)
-  .map(([key, variants]) => ({
-    key,
-    articles: variants.reduce((s, v) => s + v.count, 0),
-    variants: variants.sort((a, b) => b.count - a.count)
-  }))
+  .map(([key, variants]) => {
+    const groupRows = rows.filter((r) => r.type && groupKey(r.type) === key);
+    const countries = [...new Set(groupRows.map((r) => r.country ?? "?"))].sort();
+    const prefixes = [...new Set(variants.map((v) => prefixOf(v.type)))].sort();
+    return {
+      key,
+      articles: variants.reduce((s, v) => s + v.count, 0),
+      countries,
+      prefixMix: prefixes.length > 1,
+      prefixes,
+      variants: variants.sort((a, b) => b.count - a.count)
+    };
+  })
   .sort((a, b) => b.articles - a.articles);
 
 const noise = [...counts.entries()]
@@ -83,7 +93,9 @@ if (asJson) {
   );
   console.log(`Gruppen mit >1 Schreibweise: ${multi.length}`);
   for (const g of multi) {
-    console.log(`\n[${g.key}] ${g.articles} Artikel`);
+    console.log(
+      `\n[${g.key}] ${g.articles} Artikel | Länder: ${g.countries.join(",")}${g.prefixMix ? " | PRÄFIX-MIX: Land prüfen" : ""}`
+    );
     for (const v of g.variants) {
       const who = [
         ...new Set(
