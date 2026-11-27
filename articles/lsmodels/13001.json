@@ -3,7 +3,7 @@
   "id": "lsmodels-13001",
   "manufacturer": "L.S.Models",
   "articleNumber": "13001",
-  "releaseDate": "2026",
+  "releaseDate": "2025",
   "uvp": null,
   "model": {
     "country": "BE",
@@ -21,12 +21,12 @@
     "elektrolokomotive"
   ],
   "tags": [
-    "lsmodels-neuheiten-2026"
+    "lsmodels-neuheiten-2025"
   ],
   "source": {
     "url": "https://lsmodels.eu/de/noch-nicht-lieferbar/2805-1312-grau-blau-linien-turkis-lineas-version-2020.html",
     "notes": "Daten von lsmodels.eu, automatisch geupdated.",
     "imageUrl": "https://lsmodels.eu/2843-superlarge_default/1312-grau-blau-linien-turkis-lineas-version-2020.jpg"
   },
-  "updatedAt": "2026-11-16T07:19:56Z"
+  "updatedAt": "2026-11-27T11:20:48Z"
 }
